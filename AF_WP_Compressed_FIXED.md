@@ -1,6 +1,7 @@
 # AF WRITING PLAYBOOK — COMPRESSED PRODUCTION REFERENCE
-**Version:** v15 Compression Pass | **Format:** Operational Rules + Swipe Files Only
-**Purpose:** Load this alongside the core playbook. All pedagogical narrative removed. 100% of operational data preserved.
+**Version:** v15 Compression Pass — Patches 1–8 Applied (§5.8, §5.9, §7-A, §7-B, §7-C Cheat Sheets, §6.3 Decision Trees, §7.5 supplementary QA, Article Brief Field Summary)
+**Format:** Operational Rules + Swipe Files Only
+**Purpose:** Load this alongside the core playbook. All pedagogical narrative removed. 100% of operational data preserved. File is production-ready for Full Draft Mode, Refresh Mode, and all session types.
 
 ---
 
@@ -1072,6 +1073,36 @@ Verify all links work (internal + external). Check Rank Math SEO score (target g
 
 ---
 
+## 4.11-C — Article Brief Field Summary (Companion Asset 1)
+
+*The Article Brief is the handoff document. §0-B Step 2 and Stage 3 of the workflow both require it complete before drafting. The full template lives in Companion Asset 1; the field list below is the working summary so a writer can recognize what each field requires without re-loading the full asset. Required-to-start fields (Stage 2 minimum to begin a new project): Fields 2, 5, 6, 12, 16.*
+
+| # | Field | Status | What It Requires |
+|---|---|---|---|
+| 1 | Post Title (Working) | REQUIRED | Working title + Title Iteration Log (v1/v2/v3 with scorecard result + date). Final title scored against §4.4 Scorecard before publication. |
+| 2 | Primary Keyword | REQUIRED-TO-START | `keyword (monthly volume, KD score)` + source (Ahrefs / Semrush / Moz / GKP) + data pull date. Volume must be confirmed and documented. |
+| 3 | Secondary Keywords | REQUIRED | 3–5 secondary keywords with monthly volume + intended placement. Integrated naturally — never forced. |
+| 4 | Target URL Slug | REQUIRED | 3–5 words, primary keyword included, lowercase, hyphen-separated, no dates, no function words, no special chars, confirmed unused on AF domain. |
+| 5 | Writing Style | REQUIRED-TO-START | One of: Tutorial / Story-Narrative / Contrarian / Data-Led / Money Dominoes (§4.5-A). Rationale must align with search intent (Field 8). |
+| 6 | Selected Personas | REQUIRED-TO-START | Reader Persona (§4.2 archetype) + Voice Persona (§4.2 narrator mode) + selection signal from Persona Decision Tree + 2–3 voice reminders specific to this post. |
+| 7 | Target Word Count | PRE-PUBLICATION | Range (low–high). Minimum 1,500 words. Basis: writing style + competitor avg (top 3 SERP) + content gap volume + visual ratio + pillar/spoke designation. Pillars 3,500–6,000; tutorial spokes 1,800–2,800; tight narrative 1,500–2,200. Never pad. |
+| 8 | Search Intent | REQUIRED | Primary: Informational / Navigational / Commercial / Transactional. Secondary intent if applicable. SERP evidence (snippet type, formats ranking, tools/calculators present, ad density, PAA questions). |
+| 9 | Target Reader Profile | REQUIRED | One sentence: *"The reader arriving at this post is __, who currently knows __, and needs to leave this post able to __."* Governs vocabulary ceiling, knowledge baseline, success condition. |
+| 10 | Competitor Analysis Status | PRE-PUBLICATION | Completed / In Progress / Not Started. If completed, attach Companion Asset 2. Top 3 organic results reviewed (URL, DA, word count, format, strength, weakness). |
+| 11 | Content Gaps Identified | PRE-PUBLICATION | 2–5 specific gaps in competitor content + how this post fills each. Specific (`competitors lack a monthly savings calculator`) — not vague (`competitors don't go deep enough`). |
+| 12 | Originality Element | REQUIRED-TO-START | Mandatory per §0-F. Type: Proprietary Framework / Unique Data Combination / Novel Analogy / Decision Tree / Case Study / Other. Description specific enough that a different writer could reproduce it. Position in post named. |
+| 13 | Pillar Page Assignment | PRE-PUBLICATION | Spoke or Pillar. If Spoke: name pillar + URL. If Pillar: list planned spoke posts. **Orphans not approved.** |
+| 14 | Internal Link Targets | PRE-PUBLICATION | Min 3 outgoing internal links (post title, URL, anchor idea, placement context). Plus incoming-link opportunities (existing AF posts that should link TO this new post post-publication). |
+| 15 | CTA Strategy | REQUIRED | Primary conversion goal (email / lead magnet / affiliate / product / tool / share / other). Type C completion-moment description. Lead magnet / next step offered. CTA placement plan (mid-post / end / sidebar). |
+| 16 | YMYL Sensitivity Level | REQUIRED-TO-START | High (direct financial/tax/legal/investment/insurance — Tier 1 mandatory, legal review recommended) / Medium (general financial education — Tier 1 for stats, Tier 2 for context) / Low (lifestyle/mindset — standard sourcing). Rationale + disclaimer requirement. |
+| 17 | Key Sources Pre-Identified | REQUIRED | 3–5 sources anchoring factual claims. Tier composition matches Field 16. Source name, tier, URL, publication/last-updated date, specific claim supported. Staleness check (>3 yr → VERIFY per §0-E Rule 3). |
+| 18 | Visual Plan | PRE-PUBLICATION | Visual count target (competitor avg + 2; min 3). Slot assignments (top 20%, mid-article, per-H2, Money Dominoes, final). Type per slot (decision tree, table, chart, callout, flow). Kadence block per slot. |
+| 19 | Publish Target Date | REQUIRED | Calendar date + production stage gates (audit due, brief lock, draft due, edit due, asset bundle due, publish). |
+
+**Multi-session handoff rule (§0-B):** Sessions resuming a project must load the completed Article Brief from the prior session. Required brief fields for handoff: locked writing style, locked persona, tone dial settings, word count target, H2/H3 outline, competitor audit findings summary, originality statement. A session resuming without a completed brief restarts from Step 2.
+
+---
+
 # SECTION 4.12 — PINTEREST SEO SYSTEM
 
 Pinterest is a visual **search engine**, not social media. Content shelf life: 3–6 months (vs hours on Twitter/Instagram). Highest-ROI social distribution channel for evergreen personal finance.
@@ -1143,28 +1174,90 @@ The 3-pin strategy is the floor. For stronger distribution, use the 5-variation 
 - [ ] Paragraphs 2–4 sentences max.
 - [ ] One idea per paragraph.
 
-## Pre-Publish QA Checklist
+## Pre-Publish QA Checklist (The Last Gate — no post goes live until every box is checked)
 
+**Voice & Tone**
+- [ ] **Read the intro aloud** — does it sound like a smart friend, not a textbook? If not, rewrite.
+- [ ] No sentences longer than 25 words without a compelling reason.
+- [ ] At least one emotional acknowledgment in the first 300 words.
+- [ ] ELI12 pass: every jargon term has a parenthetical translation on first use (default translations: §7-C.2).
+- [ ] Scan for `should have` / `need to` / `obviously` — remove all instances.
+- [ ] Six-attribute Voice Test (§7-C.1) passed on a random spot-check of 5 paragraphs.
+
+**Title, Meta, Headings, Slug**
 - [ ] Title scores 8+/10 on Title Scorecard.
-- [ ] Draft word count within ±15% of declared Article Brief target. If over by >15%, trim before advancing. Record: Target [X] / Actual [Y] / Delta [Z%].
 - [ ] Meta description 150–160 chars with keyword and value proposition.
 - [ ] URL slug 3–5 words with primary keyword.
 - [ ] Introduction 150–200 words with Answer Block (40–60) using correct framework.
-- [ ] H2 every 300–500 words; H3 as needed.
+- [ ] H2 every 300–500 words; H3 as needed. No heading-level skips (H2 → H4).
 - [ ] All headings pass the 3-Question Test.
 - [ ] Primary keyword appears in: H1, first 100 words, one H2, meta, slug, first image alt.
-- [ ] At least 3 internal links, at least 1 in first 200 words.
-- [ ] All external links open in new tab.
-- [ ] All images have descriptive alt text under 125 chars.
-- [ ] All images optimized: WebP, under 100KB.
-- [ ] Rank Math green SEO score.
-- [ ] 3 CTAs maximum, correctly placed per 3-CTA Rule.
-- [ ] Affiliate disclosures visible above fold AND near each affiliate link.
-- [ ] YMYL disclaimer present after introduction.
-- [ ] Mobile preview checked on actual device.
-- [ ] All facts, rates, limits verified against primary sources with dates.
+
+**Content Quality**
+- [ ] Every H2 section answers its subtopic completely (no "we'll cover this elsewhere" within a section).
+- [ ] Every claim with a specific number has a named source.
+- [ ] **All dollar amounts show the math** (or link to where the math is shown).
+- [ ] All time-sensitive data includes `as of [Month Year]`.
+- [ ] At least one personal experience sentence (E-E-A-T first-hand experience).
+- [ ] Money Dominoes chain present if topic involves cascading financial decisions.
+- [ ] **"Do nothing" baseline included in all comparisons** (cost of inaction visible).
+- [ ] Draft word count within ±15% of declared Article Brief target. If over by >15%, trim before advancing. Record: Target [X] / Actual [Y] / Delta [Z%].
 - [ ] Conclusion contains all 3 mandatory parts in order: (1) Single Takeaway — distilled, not summary; (2) 24-Hour Action — specific, completable in 24h; (3) Thesis Connection — references something specific from this post.
 - [ ] Every FAQ answer ends with a specific 24-hour action sentence — verb the reader can perform, no hedging, no "consult a professional" redirect, completable within 24 hours.
+
+**Visuals**
+- [ ] Visual count meets or exceeds competitor benchmark + 2 (minimum 3 regardless of competitors).
+- [ ] First meaningful visual appears in top 20% of content.
+- [ ] Every chart has: title (takeaway, not topic), direct labels, source line.
+- [ ] All tables render without horizontal scroll on mobile (test at 375px).
+- [ ] All images have descriptive alt text under 125 chars.
+- [ ] All images optimized: WebP with JPG/PNG fallback, under 150KB (target 100KB).
+- [ ] **No stock photos of happy people holding credit cards** or other clichéd finance imagery.
+
+**Internal & External Links**
+- [ ] At least 3 internal links, at least 1 in first 200 words.
+- [ ] External links: 2–4 to authoritative sources (government / research institutions).
+- [ ] All external links open in new tab.
+- [ ] No orphan links (every linked post also links back somewhere in the hub).
+- [ ] §4.9-A Live vs Planned Link Rule satisfied — all internal links live or marked `[PLANNED LINK …]`.
+
+**SEO, Schema, Technical**
+- [ ] Rank Math green SEO score.
+- [ ] Schema markup verified (Article + FAQPage / HowTo as applicable per §4.7 schema decision table).
+- [ ] Page speed <2.5s LCP (Core Web Vitals).
+- [ ] No layout shift (CLS <0.1).
+- [ ] Canonical tag points to correct URL; no accidental noindex.
+
+**GEO Compliance (§5.10)**
+- [ ] Direct answer in first paragraph after intro (1–2 sentences).
+- [ ] 5+ statistics with named sources in visible text.
+- [ ] 3+ `according to [Institution]` attributions.
+- [ ] Definitional sentences for all key terms.
+- [ ] All comparisons in structured format (table or parallel sentences).
+
+**Trust & Compliance**
+- [ ] YMYL disclaimer present after introduction (light yellow callout).
+- [ ] Author byline with relevant experience visible.
+- [ ] Published date + last-updated date visible.
+- [ ] No overpromising language (`guaranteed`, `risk-free`, `get rich`, `hack`).
+- [ ] No fake urgency (`limited time`, `act now`, `only X left`).
+- [ ] Affiliate disclosures visible above fold AND near each affiliate link.
+- [ ] CTA asks proportional to value delivered.
+
+**Callouts & CTAs**
+- [ ] 3 CTAs maximum, correctly placed per 3-CTA Rule (§4.10) and Type A/B/C copy spec (§7-A).
+- [ ] No two callouts back-to-back without intervening body text.
+- [ ] Type C callout placed after conclusion paragraph, before author bio (non-negotiable).
+
+**Distribution Assets (Stage 5 Bundle)**
+- [ ] Featured image: 1200×630px, compressed <150KB, alt text set, descriptive filename.
+- [ ] Pinterest pin (primary): 1000×1500px, text overlay legible at thumbnail (236px wide test).
+- [ ] Pinterest pin (variant): alternate design for A/B testing.
+- [ ] Pin title: keyword front-loaded, ≤100 chars. Pin description: 200–300 chars with 2–3 related keywords.
+- [ ] Open Graph tags verified (Facebook Sharing Debugger).
+- [ ] Twitter Card tags verified.
+- [ ] All derivative assets produced from approved Canva template families (not one-off designs).
+- [ ] Mobile preview checked on actual device.
 
 ## Per-Article E-E-A-T Checklist
 
@@ -1195,6 +1288,524 @@ The 3-pin strategy is the floor. For stronger distribution, use the 5-variation 
 > **⚑ Apply this framing to every production decision across Sections 5.1–5.10.**
 >
 > AF optimizes for comprehension over affiliate clicks. Mega-sites (NerdWallet, Bankrate, Investopedia) structure content for affiliate conversion — highlighted winner columns, product comparison tables as hero content, urgency timers, dark patterns. AF **never uses highlighted winner columns or dark patterns.** Every first visual is a teaching visual (decision tree, worked example, framework summary), never a product card. Every chart includes a "do nothing" baseline row so the reader sees the cost of inaction. Every visual is built for the reader's scenario, not an idealized one. Depth comes from original calculations, Money Dominoes chains, and real-number scenarios — not filler that serves affiliate purposes. Every paragraph must teach, prove, or move the reader toward a decision. Content refresh means a genuine content upgrade, not a date-stamp change. ELI12 voice and consistent AF frameworks (Money Dominoes, ELI12) are structural advantages mega-sites cannot replicate at scale without abandoning their business model.
+
+---
+
+## 5.8 — Pinterest & Featured Image Specifications
+
+*Source: Pinterest Business docs (Tier 1), Pinterest Engineering blog (Tier 1), Open Graph spec (Tier 1), Google image SEO docs (Tier 1), Kadence theme docs (Tier 1). Section 4.12 covers the distribution/SEO layer; this section covers the technical asset-production specs.*
+
+### Pinterest Pin — Standard Format (Primary)
+- **Dimensions:** 1000×1500 px (2:3 aspect ratio).
+- **File format:** PNG (text-heavy pins) or JPG (photo pins).
+- **Max size:** 20 MB hard cap; target <5 MB for fast load.
+- **Color mode:** sRGB.
+- **Why 2:3:** Pinterest's masonry feed gives taller pins more real estate. 2:3 is Pinterest's officially recommended ratio — displays uncropped on mobile and desktop. Taller (1:2, 1:2.1) risks feed truncation.
+
+### Pin Design Anatomy
+
+| Zone | Position | Content | Specs |
+|---|---|---|---|
+| Hook Zone | Top 20% (0–300px) | Bold headline or number | 60–80pt font, high contrast, max 8 words |
+| Context Zone | Middle 50% (300–1050px) | Supporting visual or subheadline | Supporting text 36–48pt, simple icon/illustration |
+| Brand Zone | Bottom 30% (1050–1500px) | URL, logo mark, or CTA text | Logo mark (not full logo), URL 24–30pt, brand color strip |
+
+### Text Overlay Rules
+- Max 3 lines of text on any pin.
+- Primary headline 60–80pt bold, sans-serif (Inter / Montserrat / Poppins).
+- Supporting text 36–48pt regular weight.
+- Must be readable at thumbnail (~236px wide).
+- High contrast required (white-on-dark or dark-on-light).
+- Text overlay ≤30–40% of pin area (algorithm may deprioritize text-heavy pins).
+
+### Pin Color Strategy
+- Brand colors consistent across all pins (feed recognition).
+- Warm tones (coral, amber, warm neutrals) outperform cool tones for lifestyle/finance content on Pinterest.
+- **Avoid pure white backgrounds** — they vanish into Pinterest's white feed. Use off-white (#F8F7F4) or subtle color wash.
+- Test 3–4 color template variations per quarter; track CTR per template.
+
+### Pinterest SEO for Pins
+- **Pin Title:** ≤100 chars. Front-load the keyword. Format: `[Keyword Phrase]: [Specific Promise]`. Ex: *"50/30/20 Budget: Exact Dollar Amounts for a $4,000 Paycheck."*
+- **Pin Description:** ≤500 chars (use 200–300). Primary keyword in first sentence; 2–3 related keywords integrated naturally; clear value proposition. **No hashtags** (Pinterest deprecated hashtag search).
+- **Pin Alt Text:** Describe visual content for accessibility; secondary SEO signal.
+
+### Board Strategy
+- 10–15 niche boards aligned with content pillars (Budgeting Tips, Debt Payoff Strategies, Emergency Fund Building, etc.).
+- Board titles 3–5 words, keyword-rich ("Debt Payoff Strategies That Work").
+- Board descriptions 200–300 chars with 3–5 related keywords.
+- Pin every new post to the most relevant board first, then 2–3 secondary boards over the following week.
+- Repin cadence: space repins 7–14 days apart to avoid spam signals.
+
+### Blog Featured Image Specifications
+
+**WordPress / Kadence Featured Image:**
+- **Dimensions:** 1200×630 px (1.91:1).
+- Triple duty: blog header + Open Graph (Facebook/LinkedIn) + Google Discover.
+- **File format:** JPG (photos) or PNG (graphics with text).
+- **Compression:** target <150 KB without visible quality loss (ShortPixel or Imagify).
+- **Alt text:** descriptive, keyword-inclusive, <125 chars.
+
+**Open Graph (`og:image`) Requirements:**
+- Min 600×315 px (Facebook may crop). Recommended 1200×630.
+- Max file size 8 MB.
+- Must be publicly accessible URL (no auth).
+- Set via Yoast/Rank Math or Kadence's built-in OG settings.
+
+**Twitter / X Card:**
+- Recommended 1200×628 px (≈OG).
+- Use `summary_large_image` card type for max visibility.
+- Format: JPG, PNG, WebP, or GIF (static only).
+
+### Image Production Workflow — Per-Post Bundle
+
+| Asset | Dimensions | Purpose | Template |
+|---|---|---|---|
+| Featured Image | 1200×630 | Blog header + OG + Google Discover | Canva "AF Featured" |
+| Pinterest Pin (primary) | 1000×1500 | Pinterest distribution | Canva "AF Pin Standard" |
+| Pinterest Pin (variant) | 1000×1500 | A/B test alternate design | Canva "AF Pin Variant" |
+| In-Post Visuals | 740 px wide max | Charts, tables, infographics | Per-post |
+
+**Naming Convention:**
+- Featured: `featured-[slug].jpg`
+- Pinterest: `pin-[slug]-v1.png`, `pin-[slug]-v2.png`
+- In-post: `[slug]-[description].png`
+
+**Alt Text Formula:** `[What the image shows] + [keyword context]`. Ex: *"Pie chart showing 50/30/20 budget allocation — 50% needs, 30% wants, 20% savings — for a $4,000 monthly paycheck."*
+
+### Mobile Image Optimization
+- All in-post images legible at 375px viewport (iPhone SE).
+- Charts with small text: provide simplified mobile version OR ensure font ≥14px at mobile scale.
+- Pinterest pins are mobile-first — always preview at thumbnail size (236px wide) before publishing.
+- Lazy loading enabled for all images below fold (Kadence default).
+- Serve WebP with JPG/PNG fallback (ShortPixel or server-level conversion).
+
+### AF Differentiation Layer
+Mega-sites use generic stock photography and template featured images that blend into social feeds. AF's consistent palette + typography + pin templates create pattern recognition — a reader scrolling Pinterest should recognize an AF pin before reading the brand name. Brand recognition compounds; cannot be bought, only built through consistent execution.
+
+---
+
+## 5.9 — Content Refresh Decision Framework
+
+*Source: GSC documentation (Tier 1), Google "freshness" ranking systems (Tier 1), Ahrefs content audit methodology (Tier 2), Animalz / Orbit Media decay analysis (Tier 2).*
+
+### When to Audit for Refresh — Triggers
+- Quarterly scheduled review (every 90 days; review all posts published >6 months ago).
+- GSC: position dropped >5 spots for primary keyword.
+- GSC: clicks declined >20% month-over-month for a previously stable post.
+- Annual data change: tax brackets, contribution limits, interest rate environment, fee structures.
+- Algorithm update: major Google core update (check Search Status Dashboard).
+- Reader signal: comments/emails reporting outdated information.
+
+### GSC Metric Interpretation — The Four Signals Together
+
+| Pattern | Clicks | Impressions | CTR | Avg Position | Diagnosis | Action |
+|---|---|---|---|---|---|---|
+| Healthy | Stable/up | Stable/up | Stable | Stable | No action | Monitor |
+| Declining relevance | Down | Down | Stable | Stable | Google showing page to fewer queries | **Deep refresh** — expand topical coverage |
+| Losing rank | Down | Stable | Down | Rising (worse) | Competitors overtaking | **Deep refresh** — beat-the-best audit + update |
+| CTR erosion | Down | Stable | Down | Stable | Title/meta not compelling vs new competitors | **Light refresh** — rewrite title + meta |
+| Impressions up, clicks flat | Stable | Up | Down | Stable/improving | Ranking for new queries; snippet not matching intent | **Light refresh** — add sections matching new query intent |
+| Seasonal dip | Down | Down | Stable | Stable | Normal for seasonal topics | No action — compare YoY, not MoM |
+| Sudden cliff | Down sharply | Down sharply | Any | Rising sharply | Possible penalty / technical / algo hit | Investigate manual actions, indexing, core update timing |
+
+### Light Refresh Checklist (1–2 hours)
+*Use when CTR is dropping but position stable, or minor data points are outdated.*
+
+- [ ] Update title tag — re-run against the Title Mastery Scorecard (§4.4).
+- [ ] Update meta description — current year, specific numbers, clear value prop.
+- [ ] Update publication date to refresh date (`Originally published [date], updated [date]`).
+- [ ] Update all dollar amounts, percentages, thresholds (tax brackets, contribution limits, APR ranges).
+- [ ] Update or remove broken external links.
+- [ ] Update internal links — add links to AF posts published since the original.
+- [ ] Refresh featured image if dated relative to current templates.
+- [ ] Add 1–2 new FAQ items based on current PAA results for the target keyword.
+- [ ] Verify all disclaimers reference the current year.
+- [ ] Re-submit URL to GSC for re-indexing.
+
+### Deep Refresh Checklist (4–8 hours)
+*Use when position dropped >5 spots, or competitor audit reveals significant new content gaps.*
+
+**Phase 1 — Competitive Re-Audit**
+- [ ] Run fresh competitor audit (§5.5) for the primary keyword.
+- [ ] Identify new subtopics covered by competitors that your post lacks.
+- [ ] Identify new SERP features (AI Overview, video carousel, PAA changes).
+- [ ] Record new word count target based on updated competitor analysis (§5.6 multipliers).
+
+**Phase 2 — Content Restructuring**
+- [ ] Add new H2 sections for missing subtopics from re-audit.
+- [ ] Expand thin sections — any H2 <200 words that competitors cover in 400+.
+- [ ] Add or update visuals: decision trees, comparison tables, charts (target competitor visual count + 2).
+- [ ] Add Money Dominoes chain if the post lacks one and the topic involves cascading consequences.
+- [ ] Update all worked examples with current real-world numbers.
+- [ ] Re-apply ELI12 pass — flag any jargon introduced since original lacking translation.
+- [ ] Add "What changed in [Year]" section if the topic has material YoY changes.
+
+**Phase 3 — Technical & SEO Update**
+- [ ] Update schema markup (FAQ schema for new questions, HowTo if applicable).
+- [ ] Update internal linking — both inbound (link from newer posts to this one) and outbound (link from this post to newer posts).
+- [ ] Optimize for new featured snippet format if snippet type has changed.
+- [ ] Apply GEO optimization (§5.10) if the query now triggers AI Overview.
+- [ ] Update all image alt text and file names.
+- [ ] Compress any new images (<150 KB per image).
+- [ ] Re-submit URL to GSC.
+
+**Phase 4 — Quality Assurance**
+- [ ] Voice consistency check (§4.1, §4.13).
+- [ ] E-E-A-T compliance check (§4.8, §4.13).
+- [ ] Mobile rendering check (especially new tables and visuals).
+- [ ] Reading level check (Grade 7–8).
+- [ ] Broken link check (internal and external).
+
+### Refresh vs New Content — Decision Tree
+
+**Refresh the existing post when:**
+- The URL has existing backlinks (Ahrefs/Semrush).
+- The URL has historical ranking data (it once ranked well).
+- The core topic and search intent haven't changed.
+- The post needs updated data, expanded sections, or better visuals.
+- Competing for the same keyword with a new post would cause cannibalization.
+
+**Write a new post when:**
+- The original targets a keyword whose intent has shifted (e.g., "best savings account" now expects rate comparison tables, but the old post is an explainer).
+- The topic has splintered into multiple distinct search intents.
+- The original is so thin (<800 words) that restructuring would essentially be a rewrite.
+- You want to target a different keyword cluster.
+
+**When you write a new post to replace an old one:**
+1. Publish the new post.
+2. Set up a 301 redirect from the old URL to the new URL.
+3. Update all internal links pointing to the old URL.
+4. Monitor GSC for 30 days to confirm the new URL inherits ranking signals.
+
+### Content Decay Half-Life by Topic Type
+
+| Topic Type | Decay Period | Refresh Trigger |
+|---|---|---|
+| Tax-related (brackets, deductions, credits) | 12 mo (annual) | Every January after IRS releases new numbers |
+| Interest-rate-dependent (mortgages, savings, CDs) | 3–6 mo | After any Federal Reserve rate decision |
+| Contribution limits (401k, IRA, HSA) | 12 mo | Every November when IRS announces next-year limits |
+| Budgeting frameworks | 24–36 mo | When competitor landscape shifts or new tools emerge |
+| Debt payoff strategies | 18–24 mo | When average interest rates shift significantly |
+| App / tool reviews | 6–12 mo | When the tool ships major updates or pricing changes |
+| Credit score guides | 12–18 mo | When FICO or VantageScore releases model updates |
+
+### Staleness Threshold (cross-link to §0-E Rule 3)
+Any source dated more than 3 years prior must be flagged **VERIFY** before the refresh is closed. Refreshes that ship without re-verifying 3+ year-old sources fail QA.
+
+### 6-Month Refresh Reminder Rule
+Set in WordPress at Stage 8 of the production workflow (§4.11). When the reminder fires, run this section's procedure — Light or Deep based on the GSC signal pattern — and log the refresh date in the Publication Update Protocol (§4.11 Stage 9).
+
+### AF Differentiation Layer
+Mega-sites refresh by updating numbers but rarely restructure or add original frameworks. When AF refreshes, the refresh includes new Money Dominoes chains, updated worked examples, and new visuals — making each refresh a genuine content upgrade, not a date-stamp change.
+
+---
+
+# SECTION 7 — CALLOUT BLOCK COPY SPECIFICATIONS
+
+*Authority source for §0-G output contract item 5 ("Three callout blocks Type A / B / C, each with complete copy ready for CMS insertion and formatted according to Section 7-A"). Section 5.3 (Kadence Color Coding) governs the **visual** spec; this section governs the **copy** spec — when each callout fires, what it says, and how it bridges to its lead magnet.*
+
+## 7-A — The Micro-Conversion Map: Three Callout Types and Placement Positions
+
+This is the production spec a writer uses to place the three conversion callout points within any AF post. **Every post gets these three callouts — no more, no fewer** (unless no lead magnet exists for the topic, in which case Types A and B become internal links — see Zero-Asset Phase below).
+
+### TYPE A — THE STAKES MOMENT CALLOUT
+
+**Purpose:** Catch readers at the moment of peak problem vividness — right when they feel "this is my situation" — before that motivation fades into the next section. Micro-CTA, not a full CTA.
+
+**Placement rule:** Immediately after the section where the problem's cost is made concrete. Typically the "why this matters" / "what this costs you" section, ~25–35% into the post. Specifically: **after the H2 containing the loss-aversion calculation** (Stage 3 of the Emotional Arc).
+
+**Copy pattern:** One-sentence problem acknowledgment + one-sentence offer of the first specific action + "no [barrier]" trust reducer.
+
+**Kadence block:** Warm amber background **#FFF8F0**, 4px left accent border **#FDA050**, single action button or text link. **Visual weight: light** — a nudge, not a billboard.
+
+**Full example:**
+> "If reading that $4,200-in-interest number made your stomach drop, you're not the only one. The Debt Payoff Tracker shows you exactly what it takes to make that number shrink — just your balance, your rate, and your payment. No finance degree. No spreadsheet skills. Takes 90 seconds."
+>
+> [Get My Debt Payoff Tracker — Free]
+
+**What makes it work:** "Reading that number" callbacks specific content just consumed. "Made your stomach drop" names the emotion without amplifying it. "You're not the only one" normalizes (shame neutralization). Specific inputs ("just your balance, your rate, and your payment") minimize effort. "No finance degree. No spreadsheet skills." removes barriers. "90 seconds" is a credible time commitment.
+
+### TYPE B — THE HOW-TO MOMENT CALLOUT
+
+**Purpose:** Catch readers who have just learned how to do something and are in a "ready to apply this" state. The reader is in a progress job — they want to act on what they just learned.
+
+**Placement rule:** Immediately after the primary instructional section — the H2 that teaches the core method, framework, or process. Typically 55–70% into the post. Specifically: **after the H2 where the reader has enough knowledge to use the tool but hasn't yet applied it to their own numbers.**
+
+**Copy pattern:** One-sentence callback to what they just learned + offer of the tool that makes it immediately applicable to their numbers + specificity about what the tool does with those numbers.
+
+**Kadence block:** Muted teal background **#F0FDFA**, 4px left accent border **#14B8A6**, single action button or text link. **Visual weight: medium** — more prominent than Type A because the reader is deeper in the post and more invested.
+
+**Full example:**
+> "You've just seen how the avalanche method stacks payments against your highest-rate debt first. The Debt Payoff Tracker applies that exact logic to your actual balances — enter your debts, and it calculates the optimal payment order, your total interest saved vs minimum payments, and the exact month each debt hits zero. Your numbers, not hypothetical ones."
+>
+> [Get My Debt Payoff Tracker — Free]
+
+**What makes it work:** "You've just seen how" acknowledges the work the reader did. "Applies that exact logic to your actual balances" bridges from theory to personal application. "Enter your debts" minimizes effort (the action is data entry, not concept learning). "Your numbers, not hypothetical ones" activates endowment effect.
+
+### TYPE C — THE COMPLETION MOMENT CALLOUT
+
+**Purpose:** Catch readers who completed the entire post — the highest-intent cohort. Type C is the natural answer to "what do I do with everything I just learned?"
+
+**Placement rule:** **After the conclusion paragraph, before the author bio.** Non-negotiable position — every AF post gets a Type C callout here.
+
+**Copy pattern:** Brief recognition of the post being complete + the logical next step framed as applying everything just learned to their specific numbers + full value stack in compressed form (2–3 components named) + trust anchor.
+
+**Kadence block:** Deep charcoal background **#1E293B** with warm amber accent text **#F59E0B** for the headline, white body text **#F8FAFC**, 12px border radius. **Visual weight: high** — the most prominent callout in the post, designed to stand out as a clear "final destination."
+
+**Full example:**
+> "You now know the difference between avalanche and snowball, how to calculate your total interest cost, and how to find an extra $200–$500/month in your existing budget. The Debt Payoff Tracker takes everything you just learned and runs it on your specific numbers — your balances, your rates, your extra payment capacity. It calculates your optimal payoff order, your timeline for each debt, and the total dollars you save. Enter your info once; update monthly in 5 minutes.
+>
+> Completely free. You'll get 3 setup emails, then one email per week. Unsubscribe anytime."
+>
+> [Get My Debt Payoff Tracker — Free]
+
+**What makes it work:** "You now know" validates the reader's time investment. Listing three specific things proves the callback is real, not generic. "Takes everything you just learned and runs it on your specific numbers" bridges knowledge to application. Three specific tool outputs named — not vague. "Enter your info once; update monthly in 5 minutes" is an ongoing effort minimizer. Trust anchor as separate line — clean, specific, no hype.
+
+## Rules for All Three Callout Types
+
+1. **One of each, maximum.** Never two Type A callouts in the same post. Types A and B can coexist; Type C always appears.
+2. **Same lead magnet across all three.** Do not promote different offers within the same post. The reader sees the same tool described from three different angles (stakes / application / completion), not three different products.
+3. **Each callout must reference the preceding section.** Generic CTA copy that could appear in any post is prohibited. The transition bridge must name something specific from the content directly above it — a number, a method name, a scenario.
+4. **No back-to-back stacking.** Never place two callouts back-to-back without intervening body text. Trust-visual adjacency rule (§5.1) applies — Type C callouts must never be placed adjacent to trust-critical charts or comparison tables.
+5. **Visual hierarchy escalates.** Type A (amber, 4px border) is the gentle nudge. Type B (teal, 4px border) is the invested-reader prompt. Type C (dark background, high contrast) is the final call. Escalating visual weight mirrors the reader's escalating commitment.
+6. **3-callout-per-article cap is the authority rule.** Section 4.10's 3-CTA Rule and §4.13's Pre-Publish QA both reference this cap; this section is the source of truth.
+
+## CTA Protocol — Zero-Asset Phase (No Lead Magnet, No Newsletter)
+
+When no lead magnet and no newsletter exist yet, apply this to all 3 CTA positions:
+
+- **Type A (Stakes Moment — amber callout, ~25–35% in):** Internal-link CTA. Same amber block, same structure. Copy pattern: one sentence acknowledging the specific cost/problem just calculated above → one sentence offering the pillar post as "the complete breakdown" → one trust reducer. The transition bridge MUST reference a specific number or scenario from the section directly above it — never generic.
+- **Type B (How-To Moment — teal callout, ~55–70% in):** Internal-link CTA. Same teal block. Copy pattern: one sentence recapping what the reader just learned → one sentence offering a sibling spoke post as "the next step in applying this" → name 2–3 specific things the linked post covers.
+- **Type C (Completion Moment — dark charcoal callout, end of post):** "Read Next" block. Same dark charcoal block. List the 2 most logical next posts for this reader. Copy pattern: *"You now know [3 specific things from THIS post]. The next two reads that complete this picture:"* → two post titles with one-line descriptions of what each one adds.
+
+### Mandatory — Placeholder Comment System (Zero-Asset Phase only)
+
+On the line directly above every CTA block, insert this HTML comment:
+
+```
+<!-- FUTURE CTA: [Post Topic] | Slot: [A / B / C] | Upgrade to: [Lead Magnet / Newsletter] when ready -->
+```
+
+The comment must be specific. Example:
+
+```
+<!-- FUTURE CTA: Debt Avalanche | Slot: C | Upgrade to: Debt Payoff Tracker lead magnet when ready -->
+```
+
+Do NOT leave a generic comment. The upgrade target must be named. (This is the only authorized HTML-comment placeholder in any AF draft and is exempt from §0-G item 1's "no placeholder text" rule.)
+
+---
+
+## 7-B — The Emotional Arc System: 4 Stages Per Post
+
+*Pre-writing requirement. The Emotional Arc Template must be completed BEFORE drafting — never retrofitted. Determines intro tone, recognition target, urgency calculation, and CTA placement. Cross-referenced from §7-A Type A placement ("after the H2 containing the loss-aversion calculation — Stage 3 of the Emotional Arc").*
+
+### Stage 1 — Reader Starts (The Arrival State)
+
+- **Reader emotional condition on landing:** What combination of emotion / urgency / confusion are they carrying when they type the search query and click? **Researched, not guessed** — check Reddit threads (what words do they use?), People Also Ask (what does the framing reveal?), and the search query itself (`how to stop` = distress; `how to start` = aspiration; `what is` = confusion; `best way to` = decision mode).
+- **Writer's job (Intro + Answer Block):** Match the emotional tone of the arrival state. Not cheerful, not clinical — whichever register accurately reflects where the reader is. Anxious → acknowledge without amplifying. Confused → signal clarity is coming. Skeptical → earn attention before claims.
+- **Word count:** Intro 150–200 + Answer Block 40–60.
+- **Failure modes:** False cheerfulness mismatching state ("Hey! Welcome! Budgeting is SO fun!" when reader just overdrew); information dump before emotional matching; over-acknowledging anxiety to the point of amplifying it.
+
+### Stage 2 — Recognition (The "This Is Me" Moment)
+
+- **Target shift:** "Let me see if this is useful" → "This writer understands my actual situation." Liking-activation moment — where the reader begins to trust the author, not just the information.
+- **Writer's job (H2 #1 + H2 #2 — problem establishment + stakes):** Create specific recognition moments using dollar amounts, scenarios, and phrases drawn from reader personas + Reddit pain-point research.
+- **Specificity ladder:**
+  - **Weak:** "You might have some debt." (Matches no one specifically.)
+  - **Medium:** "If you have credit card debt, you know how stressful it can be." (Generic.)
+  - **Strong:** "$8,000 across three cards at different rates you haven't added up lately — one at 19%, one at 22%, one store card at 26% that you only opened for the 15% discount on a couch." (Lived understanding.)
+- **Word count:** H2 #1 + H2 #2 combined 600–900.
+- **Failure modes:** Generic problem descriptions; academic framing (informative but emotionally flat); register mismatch (too cheerful or too catastrophizing).
+
+### Stage 3 — Peak Urgency (The Gap Amplification Moment)
+
+- **Target shift:** Recognition → motivation. Reader understands what the problem is costing them specifically, in numbers, right now. **Type A Stakes Moment callout fires here.**
+- **Writer's job (H2 #3 / "what this costs you" section):** Deploy the loss-aversion mechanism. Calculate cost in dollars per month, per year, over 5 years. Make the math so specific the reader can do the same calculation for themselves — or recognize that the offered tool does it.
+- **Word count:** 300–500.
+- **Failure modes:** Vague urgency ("this is costing more than you think!" — how much?); manufactured fear without calculation (YMYL violation, destroys trust); skipping the math because it feels aggressive (the math IS the service — showing $8,000 @ 22% costs $146/mo in interest is generosity, not aggression).
+- **Type A callout placement:** Immediately after the cost-calculation section.
+
+### Stage 4 — Close (Path Bridging + Conversion)
+
+- **Target shift:** "I understand the problem and feel the urgency" → "I can see the specific path forward and it feels achievable." Must feel like **relief, not pressure**.
+- **Writer's job (H2 #4 onward + conclusion + all 3 CTAs):** Deliver method / framework / tool with enough specificity that the reader can see themselves using it. Stage 4 is the reciprocity engine — bulk of value delivered here, justifying CTA asks. End with path-bridging language: name the specific first action, why it's the right starting point (not random), and the time it takes.
+- **Word count:** Remaining body + conclusion (varies by post type — see §5.6).
+- **Failure modes:** Reverting to urgency language during instruction (whiplash from relief to fear); complexity theater (making the method sound harder than it is); generic inspirational close ("You've got this!") instead of a specific first action ("Open the tracker. Enter your three highest-rate balances. 90 seconds.").
+- **Type B callout placement:** After the primary instructional H2.
+- **Type C callout placement:** After the conclusion paragraph, before author bio.
+
+### Emotional Arc Pre-Writing Template (10–15 min — required before outlining)
+
+```
+TARGET KEYWORD: [keyword]
+
+READER ARRIVAL STATE:
+[2–3 sentences describing reader's emotional state at moment of search.]
+
+STAGE 1 — TONE TARGET:
+[Specific tone instruction for the intro. e.g., "Acknowledge financial anxiety without
+amplifying it. Signal that specific numbers and a clear plan are coming. Do not be cheerful.
+Do not be clinical. Be the calm friend who has been through this."]
+
+STAGE 2 — RECOGNITION TARGET:
+[Specific scenario / dollar amount / phrase that creates the strongest recognition moment
+for this reader persona.]
+
+STAGE 3 — URGENCY CALCULATION:
+[Specific cost per month / per year / over 5 years — calculated from real data.]
+
+TYPE A CALLOUT POSITION:
+[After which H2? Lead magnet referenced?]
+
+STAGE 4 — RELIEF FRAMING:
+[What does the solution feel like when it lands for this specific reader? Specific first action?]
+
+TYPE B CALLOUT POSITION: [After which H2?]
+TYPE C CALLOUT: [What specific post content does it reference?]
+```
+
+**How to use:**
+1. Complete BEFORE outlining the post. The arc determines outline structure, not vice versa.
+2. Share the completed template with editors during review — editor checks whether the draft delivers each stage's promise.
+3. During QA, verify each stage's target was hit (intro tone matches Stage 1; Stage 2 contains the specific recognition scenario; Stage 3 includes the calculated urgency number; callouts at specified positions).
+4. Store completed templates alongside the post. When the post comes up for refresh (§5.9), the arc template tells the refreshing writer what the original emotional structure was — preserve it while updating the data.
+
+---
+
+## 7-C — Quick Reference Cheat Sheets
+
+*High-frequency in-session decision aids. Open in a side tab while writing.*
+
+### 7-C.1 — Voice Consistency Cheat Sheet (6-Attribute Sentence Test)
+
+Before publishing any sentence, test against all six:
+
+| Attribute | Test Question | Fix If It Fails |
+|---|---|---|
+| Conversational Expert | "Would a smart friend say this over coffee?" | Remove academic phrasing. Shorten sentences. Add "you." |
+| Judgment-Free | "Could a reader in debt feel shamed by this?" | Remove `should have` / `you need to` / `obviously`. Reframe as possibility, not obligation. |
+| Action-Biased | "Does this paragraph end with something the reader can DO?" | Add a concrete next step. Replace theory with instruction. |
+| Numbers-First | "Is there a specific dollar amount, percentage, or timeframe within 2 sentences?" | Add one. Vague = untrusted in YMYL. |
+| Emotionally Honest | "Does this acknowledge the real feeling behind the financial question?" | Add one sentence of emotional context before the tactical advice. |
+| ELI12 Compliant | "Would a smart 12-year-old understand every word?" | Replace jargon with plain term. Add parenthetical translation on first use. |
+
+### 7-C.2 — Top 20 Jargon Translations (ELI12 First-Use Reference)
+
+*Every finance term gets a parenthetical translation on first appearance per §4.1 ELI12 Rule 2. Use these defaults; vary wording naturally to avoid repetition across posts.*
+
+| Jargon | ELI12 Translation |
+|---|---|
+| APR | The total yearly cost of borrowing, shown as a percentage |
+| Compound interest | Earning interest on your interest (your money makes money that makes more money) |
+| Asset allocation | How you split your money between different types of investments |
+| Amortization | How each payment splits between what you owe (principal) and the cost of borrowing (interest) |
+| Liquidity | How quickly you can turn something into cash without losing value |
+| Diversification | Not putting all your eggs in one basket — spreading money across different investments |
+| Equity | The part of something you actually own (home value minus what you still owe) |
+| Index fund | A basket of stocks that automatically copies the whole market (or a chunk of it) |
+| Expense ratio | The annual fee an investment fund charges, shown as a percentage of your money |
+| Rebalancing | Adjusting your investments back to your target split when they drift |
+| Capital gains | Profit from selling an investment for more than you paid |
+| Tax-advantaged | An account where the government gives you a tax break for saving (like a 401k or Roth IRA) |
+| Vesting | The timeline before your employer's retirement contributions become permanently yours |
+| Premium | The monthly price you pay for insurance, whether or not you use it |
+| Deductible | The amount you pay out of pocket before insurance starts covering costs |
+| Credit utilization | How much of your available credit you are using, shown as a percentage |
+| Debt-to-income ratio | Your monthly debt payments divided by your monthly gross income |
+| Emergency fund | Money set aside specifically for unexpected expenses — job loss, car repair, medical bill |
+| Net worth | Everything you own minus everything you owe |
+| Sinking fund | Money you save in advance for a known future expense (car repair, holiday gifts, annual insurance) |
+
+### 7-C.3 — Decision Tree 1: Choosing Post Format (from §6.3)
+
+*Map reader's primary intent → post format + word count target. Use at the Article Brief stage to set Field 5 (Writing Style) and Field 7 (Target Word Count).*
+
+```
+START: What is the reader's primary intent?
+
+├── "How do I do X?" (procedural)
+│   → How-To / Tutorial Format
+│   → Numbered steps, worked examples, visual per major step
+│   → Target: 2,500–4,000 words
+│
+├── "What is X?" (definitional)
+│   → Explainer Format
+│   → Definition → Why it matters → How it works → Examples → FAQ
+│   → Target: 2,000–3,000 words
+│
+├── "Which X is better?" (comparison)
+│   → Versus / Comparison Format (apply §4.5-B spec)
+│   → Framework → Option A → Option B → Decision criteria → "Choose A if / Choose B if"
+│   → Target: 2,500–3,500 words
+│
+├── "What are the best X?" (listicle)
+│   → Ranked List Format
+│   → Criteria disclosed → Items ranked with explanation → Summary table
+│   → Target: 2,500–4,500 words
+│
+└── "Everything about X" (comprehensive)
+    → Ultimate Guide / Pillar Post Format
+    → TOC → Multiple H2 clusters → FAQ → Related resources
+    → Target: 4,000–6,000+ words (consider hub-and-spoke if >5,000)
+```
+
+### 7-C.4 — Decision Tree 2: Choosing Visual Approach
+
+```
+START: What data or concept needs visualization?
+
+├── A process or sequence
+│   → Flowchart or numbered step visual (Kadence: Row Layout w/ numbered Info Boxes)
+│
+├── A comparison between 2–3 options
+│   → Comparison table (2-column "Attribute | Value" for 2 options)
+│   → Or Tabs Block (one tab per option) for detailed comparisons
+│
+├── A trend over time
+│   → Line chart (single metric) or stacked area (composition over time)
+│   → Setup-Chart-Interpretation format (§5.4)
+│
+├── A budget or allocation breakdown
+│   → Horizontal bars sorted descending (>5 categories)
+│   → 100% stacked bar or simple pie (2–3 categories with dramatic contrast)
+│
+├── A cascading chain of financial decisions
+│   → Money Dominoes visual (horizontal flow, 3–5 nodes — §5.2)
+│
+├── A single powerful number
+│   → Single-Big-Number callout (32px+ number, short caption — Featured Stat Info Box)
+│
+└── Exact numbers readers will reference / verify
+    → Table (not chart) — Advanced Table with mobile-fit class
+```
+
+### 7-C.5 — Decision Tree 3: CTA Strategy Selection
+
+```
+START: What is the post's primary conversion goal?
+
+├── Email list growth (default for most posts)
+│   → Mid-article CTA: Content-specific lead magnet (template, checklist, calculator)
+│   → End-of-post CTA: General newsletter signup
+│   → Sidebar CTA: Evergreen lead magnet
+│
+├── Affiliate revenue (product-relevant posts only)
+│   → CTA placement: AFTER the comparison/recommendation section, never before
+│   → Styling: clearly distinct from editorial callouts (different border, explicit "affiliate" label)
+│   → Never adjacent to trust visuals (charts, data tables)
+│   → Maximum 2 affiliate CTAs per post
+│
+├── Internal traffic (hub-and-spoke linking)
+│   → In-content contextual links (2–3 per 1,000 words)
+│   → End-of-section "Related" callout boxes
+│   → End-of-post "Read Next" section
+│
+└── Social sharing (viral-potential posts)
+    → Tweetable/shareable stat callouts (1–2 per post)
+    → Pinterest-optimized images (2:3 ratio pins — §4.12 + §5.8)
+    → "Share this with someone who needs it" micro-CTA
+```
 
 ---
 
