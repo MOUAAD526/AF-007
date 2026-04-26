@@ -1,5 +1,5 @@
 # AF WRITING PLAYBOOK — COMPRESSED PRODUCTION REFERENCE
-**Version:** v15 Compression Pass — Patches 1–8 Applied (§5.8, §5.9, §7-A, §7-B, §7-C Cheat Sheets, §6.3 Decision Trees, §7.5 supplementary QA, Article Brief Field Summary)
+**Version:** v15 Compression Pass — Patches 1–10 Applied (§5.1–§5.7 + §5.10 restored; §5.8, §5.9, §7-A, §7-B, §7-C Cheat Sheets, §6.3 Decision Trees, supplementary QA items folded into §4.13, Article Brief Field Summary; Type C callout color reconciled to §7-A authority)
 **Format:** Operational Rules + Swipe Files Only
 **Purpose:** Load this alongside the core playbook. All pedagogical narrative removed. 100% of operational data preserved. File is production-ready for Full Draft Mode, Refresh Mode, and all session types.
 
@@ -1049,7 +1049,7 @@ The model used for drafting does not change source-use protocol, YMYL safeguards
 
 **Brand Kit lock requirements:**
 - Lock all primary and secondary AF brand colors in Canva before production.
-- Heading font: Montserrat Bold; body font: Inter Regular. *(Canva and static brand assets only — the live WordPress site uses the system font stack defined in Appendix A.3.)*
+- Heading font: Montserrat Bold; body font: Inter Regular. *(Canva and static brand assets only — the live WordPress site uses its native system font stack as configured in the Kadence theme settings, see §5.3.)*
 - Upload AF logo as transparent PNG; same approved file across all templates.
 
 **Design rule:** Adapt copy, imagery, and emphasis within the approved template family. Do not invent a new visual system per post.
@@ -1291,6 +1291,439 @@ The 3-pin strategy is the floor. For stronger distribution, use the 5-variation 
 
 ---
 
+## 5.1 — Visual Placement System
+
+*Source: NN/g eye-tracking studies (Tier 1), Google SEO Starter Guide (Tier 1).*
+
+### Attention Distribution Model (NN/g, ~130,000 fixations / 120 participants)
+
+| Page Zone | Viewing Time | What Lives Here |
+|---|---|---|
+| Top 20% | >42% of total | Direct answer, trust cues, first meaningful visual, TOC, primary nav |
+| 20–40% | Cumulative >65% in top 40% | Core framework, first proof points, first comparison/table, optional first CTA |
+| 40–60% | Falling sharply | Supporting detail, examples, secondary visuals |
+| 60–100% | Long tail | Edge cases, FAQs, references, bonus tools, final CTA |
+
+**F-Pattern:** Two horizontal scans at the top, then vertical scan down the left margin. Front-load meaning in headings + first sentences. Visuals must not push the answer below the second horizontal scan. Left-aligned content gets more attention than centered/right-aligned.
+
+### The 7 Visual Placement Rules (Production Standard)
+
+1. **First Meaningful Visual in Top 20%.** Functional (summary table, decision tree, comparison snapshot, key formula) — never decorative stock. On mobile, large hero images can be misread as "faux ads."
+2. **One visual per 400–700 words.** QA heuristic. The top 2 screenfuls must contain ≥1 meaningful visual + strong typographic structure. After that, ≥1 meaningful visual per 1–2 major sections.
+3. **Callout Box Budget.** Top 20%: max 1 callout per screenful, mission-critical only. Never stack callouts back-to-back. Overuse triggers banner blindness.
+4. **Setup-Chart-Interpretation triad.** 1–2 sentence setup defining the question → Chart with direct labels → 2–6 sentence interpretation translating into a money decision. Place images near relevant text. Direct labels over legends.
+5. **CTA vs Informational Separation.** Informational callouts adjacent to the concept they clarify. CTA callouts at natural section boundaries — never mid-paragraph.
+6. **Monetization Distance from Trust Visuals.** Never place affiliate widgets / promo banners / newsletter CTAs adjacent to charts or tables that must be trusted (NN/g: ads "poison adjacent items").
+7. **One Dominant Element Per Mobile Viewport.** Multiple competing colored blocks create scanning confusion and trigger ad-avoidance behavior.
+
+**AF differentiation:** First visual is always a teaching visual (decision tree, framework summary, worked example) — never a product comparison card with affiliate links.
+
+---
+
+## 5.2 — Visual Type Selection Framework
+
+*Source: Tufte (Tier 1), Stephen Few (Tier 1), NN/g chart guidance (Tier 1).*
+
+### Step 1 — What is the reader's question?
+
+| Reader Question | Best Visual |
+|---|---|
+| "Am I making progress?" | Line chart of remaining balance over time |
+| "Where does my money go?" | Horizontal bars sorted descending (NOT pie chart if >5 categories) |
+| "Which option costs less?" | Grouped bar chart of total cost components |
+| "How does compounding work?" | Stacked area (contributions vs growth) |
+| "What should I do first?" | Numbered step list or flowchart |
+| "What happens if I do X?" | Money Dominoes chain visual |
+
+### Step 2 — Chart, Table, or Text?
+
+- **Chart** when showing trends, comparisons, or proportions where visual patterns matter.
+- **Table** when readers need exact numbers to reference, compare row-by-row, or verify.
+- **Text** when the concept is linear, single-path, and doesn't benefit from spatial arrangement.
+
+### Step 3 — Specific Chart Type by Data Type
+
+| Data Type | Best Chart | Support Visual | Avoid |
+|---|---|---|---|
+| Debt payoff progress | Line chart (remaining balance vs time) | Milestone bars at 25/50/75/100% | Thermometer alone (hides time) |
+| Compound interest growth | Stacked area or two lines (contributions vs total) | Log-scale panel for large spans | Area-only without labels |
+| Budget allocation % | Horizontal bars sorted descending OR 100% stacked bar | Small multiple bars for month comparison | Pie/donut when >5 categories |
+| Loan comparison by total cost | Grouped bars (total paid, interest, fees) | Waterfall per loan | APR-only comparisons (misleading if fees differ) |
+| Emergency fund milestones | Step/milestone bar with target bands (1/3/6 months) | Monthly contribution bar chart | Single target without monthly-expense context |
+| Side-hustle income growth | Line chart of monthly net | 3-month rolling average + volatility band | Cumulative-only (hides recent stagnation) |
+| Money Dominoes chain | Flow diagram: 4-node horizontal chain with arrows | Annotated step list as fallback | Complex multi-branch diagrams |
+
+**Pie chart failure modes:** >5 categories; two slices within 5% of each other; ranking/comparison purpose; mobile display. Pie charts work only for binary/ternary splits where the point is dramatic contrast.
+
+### The 4 Visual Functions (every visual serves exactly one)
+
+1. **Teaching Visual** — explains a concept, shows a process, demonstrates a calculation. Placement: within the body section where taught.
+2. **Pacing Visual** — cognitive breather between dense sections (pull quote, single-big-number highlight, simple icon list). Placement: between H2s, especially after sections >500 words.
+3. **Trust Visual** — builds credibility (sourced data chart, screenshot of real results, methodology note). Placement: near claims requiring proof, especially YMYL.
+4. **Conversion Visual** — moves reader to next step (CTA callout, lead magnet preview, signup form). Placement: per 3-CTA Rule — never in trust-building zone (first 40%).
+
+### Anti-Affiliate-Farm Patterns (banned)
+
+- Product comparison tables with one column visually highlighted as "winner"
+- Star ratings without explained criteria
+- "Editor's Choice" badges without editorial methodology
+- Stock photos of happy people holding credit cards
+- Identical callout box styling for editorial content and affiliate promotions
+
+### Visual Communication for Anxious Readers
+
+- Representational visuals (situations, scenarios) over abstract charts
+- Fewer data points, larger labels, more whitespace
+- Frame positively: "progress toward" rather than "distance from"
+- Warm colors (amber, muted teal) over cold/clinical (gray, steel blue)
+- "You are here" markers on progress visuals
+- Single-big-number pattern: one key takeaway in 32px+ font with short caption
+
+---
+
+## 5.3 — Kadence Formatting Recipes (Block-by-Block)
+
+*Source: Kadence official docs (Tier 1).*
+
+### Global Configuration
+
+**Responsive breakpoints:** Desktop >1024px | Tablet 768–1024px | Mobile <768px.
+
+**Theme settings (Customizer > General > Layout):** Content max-width 1200px (narrow 740px = ~65–75 chars/line at 18–20px). Edge spacing: D 32px / T 24px / M 16px.
+
+**Typography (Customizer > Colors & Fonts > Typography):** Body D 20px / T 19px / M 18px; line-height 1.7; paragraph bottom margin 1em; H2 line-height 1.3; H3 1.35. Use CSS `clamp()` (min 18px, max 20px, screen 480–1200px). Body color `#1E293B`; secondary text `#6B7280`; heading color `#222222`.
+
+**Global visual style:** Border radius 12px desktop / 10px mobile. Info/callout left accent: 4px solid (palette color). Subtle shadows only — avoid affiliate-landing-page aesthetic.
+
+### Block-by-Block Settings
+
+**Row Layout (section wrappers):** Padding D 48px / T 36px / M 24px top-bottom. Column gap D 24px / T 20px / M 16px. 2-column rows: D 35/65 → T 40/60 → M stack. Set collapse order deliberately — answer content first on mobile.
+
+**Info Box — Answer Block preset (snippet target):** Background `#F4F7FF`; border `1px #D6E4FF`; left accent `4px solid #3686FF` (CSS class `.kb-answerbox`); radius D 12px / M 10px; padding D 20px / T 18px / M 16px; title 18px D / 17px M, weight 600. Content: first paragraph 40–60 words (direct answer for snippet extraction).
+
+**Kadence Callout Color Coding System:**
+
+| Callout Type | Background | Border Left | Use Case |
+|---|---|---|---|
+| Money Dominoes Chain | `#FFF8F0` (warm cream) | 4px solid `#D97706` (amber) | Each domino in chain reaction |
+| Lead Magnet CTA | `#F0FDF4` (mint) | 4px solid `#16A34A` (green) | Email signup, template download |
+| Stakes Moment (Type A) | `#FFF8F0` (warm amber) | 4px solid `#FDA050` (amber) | "Here's what's at risk" warnings |
+| How-To Moment (Type B) | `#F0FDFA` (light teal) | 4px solid `#14B8A6` (teal) | Step-by-step action instructions |
+| Completion Moment (Type C) | `#1E293B` (deep charcoal) | Headline `#F59E0B` (amber); body `#F8FAFC` (white); 12px radius | End-of-post CTA — highest visual weight (authority spec: §7-A) |
+| YMYL Warning | `#FFFBEB` (light yellow) | 4px solid `#D97706` (amber) | Disclaimers, "consult a professional" |
+| Pro Tip | `#F5F3FF` (lavender) | 4px solid `#7C3AED` (purple) | Advanced optimization tips |
+| Featured Stat | `#F8FAFC` (near white) | 4px solid `#1E293B` (charcoal) | Single-big-number highlight |
+| Answer Block | `#F4F7FF` (light blue) | 4px solid `#3686FF` (blue) | Featured snippet target definitions |
+| Where-This-Gets-Complicated | `#FFF7ED` (peach) | 4px solid `#EA580C` (orange) | Edge cases, exceptions, nuances |
+
+**Table of Contents block:** H2 + H3 only (avoid H4+). Collapsible on mobile. Padding 14–16px. Margin-bottom 24px. Smooth scroll on.
+
+**Accordion (FAQ):** H3 for major Q, H4 for nested. Title 18px D / 17px M. Title padding D 14px 16px / M 12px 14px. Content padding D 16px / M 14px. Borders `1px #E6E8EF`, radius 10–12px. **FAQ Schema:** enable only for genuine Q&A — never for marketing toggles.
+
+**Tabs block (comparisons):** Tabs on D/T → accordion on M. Max 3–4 tabs per block. Title padding D 12px 14px / M 10px 12px.
+
+**Advanced Table — Mobile-Safe Patterns (no horizontal scroll on mobile):**
+- Pattern 1 (Best): 2-column "Attribute | Value" — left 40% / right 60%, cell padding D 12px / M 10px, ≤8–12 words per cell.
+- Pattern 2: Cardified — each option as Info Box inside Row Layout (D 3-column → M 1-column stack).
+- Pattern 3 (3+ columns required): Max 3 columns, short labels + icons, controlled `overflow-x` scroll fallback.
+
+**Advanced Buttons (CTAs):** 16px font (M+D). Padding D 12px 18px / M 12px 16px. Radius 10–12px. Min tap height ~44px.
+
+**ConvertKit opt-in:** Mid-article (after first actionable section). Container matches Info Box (`#F4F7FF` bg, `#D6E4FF` border, 12px radius). Headline 18px wt 700. Input height 44–48px. Button matches Advanced Button styling.
+
+**Spacer/Divider:** Spacer height D 24px / T 20px / M 16px. Divider 1px solid, 40–60% width centered. Hide on mobile when noisy.
+
+---
+
+## 5.4 — Data Visualization Standards
+
+*Source: Tufte (Tier 1), Stephen Few (Tier 1), NN/g (Tier 1).*
+
+### Tufte's Principles Applied to AF
+
+- **Data-Ink Ratio.** Every drop of ink = data. Remove gridlines (or fade to dotted), background fills, decorative borders, 3D, redundant legends. If a label can sit on the data point, delete the legend.
+- **Graphical Integrity.** Visual representation proportional to numerical quantity. Common YMYL violations: truncated Y-axes that exaggerate small differences; dual Y-axes creating false correlations; area charts where area implies volume but data is linear; pies with 3D tilt. **Rule:** Y-axis at zero for bar charts. Non-zero baseline acceptable for line charts only when chart title states the range AND purpose is showing variation, not magnitude.
+- **Small Multiples Over Complex Singles.** Six small charts with one line each (shared axes) > one chart with six overlapping lines.
+- **Chartjunk Elimination.** No moiré, heavy gridlines, excessive ticks, decorative icons, gradient fills, drop shadows on data elements.
+
+### Stephen Few — Chart Selection by Relationship
+
+| Relationship | Best Chart | Finance Example |
+|---|---|---|
+| Comparison among items | Horizontal bar (sorted) | Monthly expenses by category |
+| Comparison over time | Line chart | Net worth over 24 months |
+| Part-to-whole | 100% stacked bar or treemap | Budget allocation (needs/wants/savings) |
+| Distribution | Histogram or box plot | Income distribution across side hustles |
+| Correlation | Scatter plot | Savings rate vs debt payoff speed |
+| Ranking | Horizontal bar (sorted desc) | Which debts to pay first by interest rate |
+| Deviation | Bar with reference line | Actual vs budget per category |
+| Flow | Sankey or waterfall | Where each paycheck dollar goes |
+
+### Table vs Chart Decision Rules
+
+- **Table** when: readers need exact numbers (loan terms, rates, fees); <5 items with straightforward comparison; reader will reference later (bookmark/screenshot); multiple attributes per item side-by-side.
+- **Chart** when: pattern matters more than exact values; 5+ items where visual ranking aids comprehension; time-series where trajectory matters; the "aha" comes from seeing the shape, not the number.
+- **Both** when: YMYL trust requires exact numbers AND visual pattern aids understanding (chart shows the story, table below shows the proof).
+
+### Color System for Finance Visuals (WCAG 2.1 AA compliant)
+
+| Color | Hex | Use |
+|---|---|---|
+| Primary (action/positive) | `#3686FF` | Progress lines, positive bars, links |
+| Secondary (growth/success) | `#16A34A` | Gains, savings growth, goal completion |
+| Warning (attention needed) | `#D97706` | Approaching limits, moderate risk |
+| Danger (loss/debt/risk) | `#DC2626` | Debt, losses, overspending |
+| Neutral (baseline/reference) | `#64748B` | Gridlines, secondary data, labels |
+| Background (chart area) | `#FFFFFF` | Always white |
+| Axis/text | `#1E293B` | Axis labels, titles, annotations |
+
+WCAG: 4.5:1 contrast for text, 3:1 for graphical elements. **Never use color alone to convey meaning** — pair with labels, patterns, or icons.
+
+### Number Formatting Standards
+
+| Data Type | Format | Example |
+|---|---|---|
+| <$1,000 | $X or $X.XX | $347 / $42.50 |
+| $1,000–$999,999 | $X,XXX | $12,450 |
+| >$1M | $X.XM | $1.2M |
+| Percentages | X% or X.X% (1 decimal max) | 22% / 6.8% |
+| Time periods | X months / X years | 18 months / 3 years |
+| Dates on axes | MMM 'YY | Jan '24 / Jun '25 |
+| Large round numbers | nearest meaningful unit | "about $50,000" — not "$49,847.23" |
+
+**Exception:** When exact cents matter (loan payments, minimum payments, fee calculations), show full precision: $347.82/month.
+
+### Annotation Standards (every chart)
+
+1. **Title states the takeaway, not the topic.** *"You save $14,000 by choosing the 15-year mortgage"* — not *"15-year vs 30-year mortgage comparison."*
+2. **Direct labels on data points or bars** (not a separate legend whenever possible).
+3. **Source line below the chart:** *"Source: [Name], [Year]"* or *"Calculation: [assumption stated]."*
+4. **"You are here" marker** when applicable — show the reader where their scenario falls.
+
+**AF differentiation:** Charts always include a **"do nothing" baseline** so the reader sees the cost of inaction. Never highlight a "winner" product — highlight the decision criteria so the reader chooses for themselves.
+
+---
+
+## 5.5 — Competitor Audit System + Beat-the-Best Framework
+
+*Source: Google QRG (Tier 1), Ahrefs/Semrush methodology (Tier 2), Orbit Media audit frameworks (Tier 2).*
+
+### 5.5-A — Competitor URL Input Method (Three Modes)
+
+**Manual Mode (plain LLM session):** Writer provides URLs. Before session, Google the primary keyword, copy top 5–10 organic (skip ads, Reddit, YouTube unless they dominate the SERP), paste into session input alongside Article Brief.
+
+**Agent Mode (LLM with web access):** Agent retrieves URLs automatically. Must fetch and **fully read** each competitor page (full HTTP request, complete rendered text) — not snippet summaries, not cached previews. Extract per page: (1) all H2 headings verbatim, (2) actual word count from page body, (3) count of meaningful visuals (charts/tables/custom graphics — exclude stock photos), (4) Tier 1/2 citation count, (5) FAQ presence + question count. Snippet-level summaries do **not** satisfy this requirement. If a URL is blocked/paywalled, record as "Not accessible — skipped" and replace with the next organic result.
+
+**Non-compliant output flag:** If an agent declares the audit complete but the CA-2 contains *estimated* word counts, missing H2 lists, or no visual/citation counts, the CA-2 is **non-compliant**. Do not approve. Return with: *"This CA-2 was built from snippet summaries, not full page reads. Re-run using full HTTP fetches and populate all required fields."*
+
+**N8N Automation Mode:** N8N triggers the research as a workflow node. Input: primary keyword from Article Brief row in AF Content OS sheet. Output: completed CA-2 saved to session folder. Writing LLM receives pre-filled CA-2 — does not re-run research.
+
+**Rules across all modes:** Competitor URLs are structural references only — never sources for financial facts. Min 5 / max 10 URLs. Skip aggregators (Reddit, Quora, Pinterest) unless they dominate the SERP. LLM must confirm + approve the CA-2 synthesis before advancing to Step 4.
+
+### CA-2 Acceptance Criteria (9 fields — all required)
+
+1. Target keyword confirmed.
+2. Min 5 URLs with **actual** word counts (fetched, not estimated).
+3. H2 headings verbatim per URL (not paraphrased, not inferred).
+4. Visual asset count per URL (charts/tables/custom graphics).
+5. Tier 1/2 citation count per URL.
+6. ≥1 H2 gap identified (subtopic in 0–2 of top 5).
+7. SERP features noted (snippet type, PAA listed, AI Overview present/absent).
+8. Target word count calculated (competitor avg × multiplier).
+9. Originality opportunity stated.
+
+CA-2 missing any field is incomplete. Return for completion before Step 4. Do not proceed on a partial CA-2 regardless of time pressure.
+
+### When to Run a Full Audit (vs 5-min SERP scan)
+
+Full audit before any new post when keyword has: MSV >500, KD >30, SERP dominated by DR 70+ authority sites, OR any YMYL classification. Low-competition (<500 MSV / KD <20) → 5-min SERP scan replaces full audit.
+
+### Article-Level Audit Template (per top-5 article)
+
+**Content metrics to record:** word count, H2 count, H3 count, unique H2 topics list, visual count (exclude stock photos), visual types (table/chart/screenshot/infographic/custom illustration), FAQ presence + count, schema types used (Chrome Schema Markup Validator), internal-link count, external-link count + authority, CTA count + type (email signup, affiliate, social, related), author bio + credentials, published date + last-updated, reading level (Hemingway / readable.com).
+
+**E-E-A-T signals checklist (per page):**
+- [ ] Author byline with name (photo helps)
+- [ ] Author bio with relevant credentials/experience
+- [ ] "Reviewed by" / "Fact-checked by" credit
+- [ ] Methodology or editorial standards disclosure
+- [ ] Sources cited within content (not just bibliography)
+- [ ] YMYL disclaimers present and specific
+- [ ] About page linked from article
+- [ ] Contact information accessible
+
+### SERP-Level Audit Template
+
+| SERP Feature | Present? | Implication |
+|---|---|---|
+| Featured snippet | Y/N + type (paragraph / list / table) | Structure your answer to match |
+| People Also Ask | Y + top 8 questions | Include as H2s or FAQ items |
+| AI Overview | Y/N + sources cited | Apply GEO rules (§5.10) |
+| Knowledge panel | Y/N | Indicates entity-level competition |
+| Video carousel | Y/N | Consider video / YouTube embed |
+| Image pack | Y/N | Optimize alt text + file names |
+| Sitelinks | Which competitors have them | Indicates Google's trust in site structure |
+| Perspectives / forum results | Y/N | Indicates Google values real experience |
+
+### Zero-Gap Fallback
+
+If audit finds **no** content gaps in Steps 2–3, do not fabricate a gap or stall. Apply the §0-F Originality Requirement instead: post must include ≥1 of — a Money Dominoes chain absent from any top-10 result; a worked example using reader-specific dollar amounts that competitors handle generically; an ELI12 translation of a concept all competitors explain at Grade 11+. Document the chosen originality element in the Article Brief before writing.
+
+### The Beat-the-Best Framework (5 steps)
+
+1. **Match the table stakes.** Every subtopic covered by ≥3 of top 5 is mandatory. Missing one = Google may consider your content incomplete.
+2. **Fill the gaps.** Subtopics in 0–2 of top 5 = your differentiation opportunities. Prioritize gaps aligned with AF expertise.
+3. **Add the uncovered layer.** ≥1 substantial section (300+ words) no competitor covers. Sources: real reader questions (comments/emails/DMs), Reddit/forum threads, AF frameworks (Money Dominoes, ELI12), original calculations.
+4. **Exceed on visual density.** Your visual count = competitor avg + 2 minimum. Highest-differentiation types: original charts with direct labels, decision flowcharts, worked-example tables, Money Dominoes chain visuals.
+5. **Exceed on E-E-A-T signals.** Match the highest competitor's signal count + add ≥1 they lack (most commonly: personal experience narrative, original calculation methodology, or "I tested this" documentation).
+
+### Keyword Gap Analysis Process
+
+1. Export your site's ranking keywords (Ahrefs > Site Explorer > Organic Keywords).
+2. Export each competitor's ranking keywords.
+3. Use Content Gap tool: keywords competitors rank for that you don't.
+4. Filter: Volume >200, KD <50, YMYL-relevant.
+5. Cluster by topic theme.
+6. Prioritize: high volume + low KD + strong AF framework alignment.
+
+### Content Gap Matrix (post keyword analysis)
+
+| Topic Cluster | Your Best Post (URL) | Your Rank | Best Competitor Post | Their Rank | Gap Type | Priority |
+|---|---|---|---|---|---|---|
+
+**Gap types:** *Missing* (no content — new post needed); *Thin* (significantly shorter/shallower than competitors — deep refresh); *Outdated* (key data/recommendations stale — refresh per §5.9).
+
+---
+
+## 5.6 — Word Count and Depth Calibration
+
+*Source: Google QRG (Tier 1), Backlinko content-length studies (Tier 2), HubSpot/Semrush research (Tier 2).*
+
+### Baseline Rule
+
+YMYL personal finance: **minimum 2,000 words.** This is not a ranking factor (Google has explicitly stated word count is not a ranking signal) — but every study of top-ranking YMYL content finds thoroughness correlates with rankings, and thoroughness in finance requires space to explain, prove, and contextualize.
+
+### The Calibration Formula
+
+**Do not pick a word count in advance. Calculate it.**
+
+`Target Word Count = (Avg of Top 5 Competitor Word Counts) × 1.15 to 1.25`
+
+| Gap Density | Multiplier | Explanation |
+|---|---|---|
+| Low (competitors are thorough) | 1.15× | Slightly more depth + your unique frameworks |
+| Medium (2–3 subtopic gaps found) | 1.20× | Additional sections to cover gaps |
+| High (major subtopics missing across competitors) | 1.25× | Significant new content opportunity |
+
+**Example:** Top 5 average 3,200 words. Medium gap density. Target = 3,200 × 1.20 = 3,840 words → planning target 3,800–4,000.
+
+### Word Count Compliance Rule
+
+The completed draft must fall within **±15%** of the declared target. A draft exceeding the target by >15% **fails the word count gate** and must be trimmed before advancing to Stage 5. Exceeding the target is **not** a quality signal — it's a compliance failure. "More depth = better" is not a valid override.
+
+**Violation pattern:** Writing 1,800–2,500+ words when SERP-calibrated target is 1,200–1,400 inflates draft by 60–120%. Slower to read, harder to rank against lean competitors, inconsistent with ELI12 brevity. If competitor avg is <1,500, match that discipline. Every paragraph must earn its place against the target — not against an abstract notion of comprehensiveness.
+
+**Ceiling rule:** Beyond 5,000 words, consider splitting into a hub-and-spoke cluster (pillar + supporting posts). Exceptions: ultimate guides + pillar content intentionally designed as comprehensive references.
+
+### Depth Indicators Beyond Word Count (Google QRG signals)
+
+| Depth Signal | What Raters Look For | AF Standard |
+|---|---|---|
+| Main Content sufficiency | "Satisfying amount of high-quality MC for the page's purpose" | Every H2 answers the subtopic completely — no "we'll cover this in another post" cop-outs within a section |
+| Effort + originality | Evidence content required effort/skill/talent | Original calculations, custom visuals, personal experience, framework application (Money Dominoes) |
+| E-E-A-T demonstration | First-hand experience or established expertise visible | "When I paid off my student loans…" / "After analyzing 50 reader debt plans…" |
+| Supplementary content | Helpful features beyond main text | Calculators, downloadable templates, interactive tools, related-post suggestions |
+
+### LLM / AI-Overview Impact on Depth Strategy (Dual-Layer)
+
+- **Layer 1 (Top 20%):** Optimized for AI Overview extraction — direct answer, clean structure, factual density. Also your featured-snippet zone.
+- **Layer 2 (Remaining 80%):** Optimized for click-through value — content that makes someone click "Read more" because the AI Overview was insufficient. Money Dominoes chains, ELI12 translations, real-number scenarios, emotional context.
+
+### Section-Level Depth Standards
+
+| Section Type | Minimum Words | Must Include |
+|---|---|---|
+| Introduction | 150–250 | Hook, stakes, promise, roadmap |
+| Core Definition / Explanation (H2) | 300–500 | ELI12 translation, one visual or example |
+| How-To Section (H2) | 400–700 | Numbered steps, ≥1 worked example with real dollars |
+| Comparison Section (H2) | 400–600 | Table or chart, "which is right for you" decision guidance |
+| Money Dominoes Section (H2) | 300–500 | 3–5 node chain with dollar amounts at each node |
+| FAQ Section | 75–150 per Q&A | Direct answer first sentence, then context |
+| Conclusion | 150–300 | Single next step (NOT a summary of the article) |
+
+**Substance test:** if you deleted a paragraph, would the reader lose something they need? If no, delete it.
+
+---
+
+## 5.7 — Trust Architecture and Reader Psychology
+
+*Source: Google QRG E-E-A-T (Tier 1), NN/g trust + credibility studies (Tier 1), BJ Fogg Stanford Web Credibility Project (Tier 1), behavioral finance research (Tier 2).*
+
+### The Trust Timeline — 4 Checkpoints Per Article
+
+#### Checkpoint 1 — First 10 Seconds (Snap Judgment)
+
+**Trust signals visible without scrolling:** professional design (not cluttered, not ad-heavy); author byline with name (photo helps but not mandatory); clear specific title matching search intent; date of publication or last update; no interstitial popups, autoplay video, or aggressive ads above the fold.
+
+**Trust destroyers:** generic stock photo hero ("content farm" signal); overpromising title ("Get Rich Quick"); no visible author attribution; aggressive popup before any content consumed; ads above the fold pushing content down.
+
+#### Checkpoint 2 — First Scroll (Competence Test, ~300–500 words)
+
+**Trust signals:** specific direct answer to the title's implied question; real numbers, not vague generalities (`$347/month` not "a reasonable monthly payment"); framework or organized structure (numbered list, decision tree, clear categories); correct terminology used naturally (not keyword-stuffed).
+
+**Trust destroyers:** vague opener that restates the title as a question; no specific numbers/data in first 500 words; obvious keyword stuffing; factual errors (wrong APR range, outdated contribution limits, incorrect tax brackets).
+
+#### Checkpoint 3 — Mid-Article (Monitoring Phase)
+
+**Trust signals:** claims backed by sources (linked or cited); consistent voice/tone (no shift from educational to salesy); acknowledgment of complexity ("This gets complicated when…" signals honesty); tables/charts with labeled sources; no sudden pivot to aggressive product promotion.
+
+**Trust destroyers:** abrupt transition from educational content to affiliate pitch; claims without supporting evidence/source; contradicting earlier statements without acknowledging the nuance; excessive superlatives ("the absolute best," "guaranteed to work," "the only way"); identical callout styling for editorial tips and sponsored content.
+
+#### Checkpoint 4 — CTA Gate (Motivation Test)
+
+**Trust signals:** CTA is a logical next step from the content just consumed; ask is **proportional** to value delivered (email for a template, not email for a generic "newsletter"); alternative paths offered (not just one funnel); no urgency manipulation ("limited time," countdown timers, "only X spots left").
+
+**Trust destroyers:** CTA appears before sufficient value delivered; CTA asks for more than the content justified; fake urgency / scarcity language; no option to continue reading without engaging the CTA.
+
+### Words and Phrases That Destroy Trust in Finance Content
+
+- **Overpromising language (banned):** "guaranteed," "risk-free," "get rich," "secret," "hack" (when describing fundamental strategies), "passive income" (without heavy setup-effort caveats), "financial freedom" (without concrete definition), "easy money."
+- **False authority (banned):** "experts agree" (which experts?), "studies show" (which studies?), "everyone knows," "it's common knowledge," "the truth is" (implies others are lying). **Replace with:** *"[Specific source] found that…"* / *"According to [Org]…"* / *"In my experience…"*
+- **Hedge words signaling uncertainty (minimize):** "might," "could," "possibly," "it depends" (without naming what it depends on), "some people say," "there are many options" (without narrowing). **Replace with:** specific conditional statements (*"If your debt is above 7% APR, prioritize payoff. Below 4% APR, consider investing instead. Between 4–7%, either works — here's how to decide."*)
+- **Salesy language (banned in editorial):** "act now," "don't miss out," "limited time," "exclusive offer," "click here to learn more" (as a CTA inside educational content), "you won't believe."
+
+### Dollar Amount Psychology
+
+| Technique | Example | When to Use |
+|---|---|---|
+| Monthly framing | "$347/month" instead of "$4,164/year" | Making commitments feel manageable |
+| Daily framing | "$11.56/day" instead of "$347/month" | Making savings feel achievable ("two coffees") |
+| Total cost framing | "$124,560 total paid on a $80,000 loan" | Making cost of inaction visceral |
+| Savings delta | "You save $14,238 over the life of the loan" | Motivating action by showing reward |
+| Hourly wage framing | "That subscription costs you 3 hours of work per month" | Connecting abstract costs to lived experience |
+| Comparison anchoring | "$50/month — less than your streaming subscriptions combined" | Making unfamiliar amounts relatable |
+
+**Show the math rule:** Always show the math. Never state a dollar amount without showing how you got there. "You save $14,238" requires a footnote or inline calculation showing assumptions (rate, term, payment amount). Unverifiable claims destroy YMYL trust.
+
+### YMYL Disclaimer — Trustworthy vs Performative
+
+**Post-level disclaimer (every post — required):** Position immediately after intro, before first H2. Styled as YMYL Warning callout (light yellow bg + amber left border, per §5.3 callout color table). Must include: (1) educational content, not personalized advice; (2) author's relevant experience or credentials (informal counts: "I paid off $47,000 in student loans over 3 years"); (3) recommendation to consult a qualified professional; (4) date last reviewed for accuracy.
+
+- **Trustworthy:** specific about what the content IS and IS NOT — *"This post explains how debt avalanche vs snowball methods work and helps you choose between them. It is not a recommendation for your specific situation."*
+- **Performative:** generic boilerplate that reads like legal protection — *"This is not financial advice. Consult a financial advisor."*
+
+**Section-level caveats:** When a post makes a specific numerical claim (tax brackets, contribution limits, interest rate ranges), add an inline caveat with effective date — *"2024 federal tax brackets (these update annually — verify at IRS.gov for your filing year)."*
+
+### The Anxiety-Aware Writing Framework (5 techniques)
+
+1. **Normalize the situation before teaching the solution.** *"If you're living paycheck to paycheck, building an emergency fund feels impossible. That's not a character flaw — it's math. Let's fix the math."*
+2. **Use "you" positioning that empowers, not shames.** *"Starting late? You're not alone — and starting now still matters more than you think. Here's the math."*
+3. **Acknowledge the emotional weight of financial decisions.** *"This choice isn't just math — it's psychology. Avalanche saves more money. Snowball builds momentum. Both work. Here's how to pick the one you'll actually stick with."*
+4. **Provide escape valves for overwhelm.** When complexity rises: *"Feeling overwhelmed? Here's the one-sentence version: [simplified rule]. If that's all you need right now, skip to [next section]."*
+5. **Celebrate micro-progress.** At section boundaries in how-to posts: *"If you've done this step, you're already ahead of 70% of Americans who have no budget at all. Seriously."*
+
+---
+
 ## 5.8 — Pinterest & Featured Image Specifications
 
 *Source: Pinterest Business docs (Tier 1), Pinterest Engineering blog (Tier 1), Open Graph spec (Tier 1), Google image SEO docs (Tier 1), Kadence theme docs (Tier 1). Section 4.12 covers the distribution/SEO layer; this section covers the technical asset-production specs.*
@@ -1497,6 +1930,76 @@ Set in WordPress at Stage 8 of the production workflow (§4.11). When the remind
 
 ### AF Differentiation Layer
 Mega-sites refresh by updating numbers but rarely restructure or add original frameworks. When AF refreshes, the refresh includes new Money Dominoes chains, updated worked examples, and new visuals — making each refresh a genuine content upgrade, not a date-stamp change.
+
+---
+
+## 5.10 — Generative Engine Optimization (GEO)
+
+*Source: Princeton/Georgia Tech "GEO: Generative Engine Optimization" peer-reviewed study (Tier 1), AI assistant documentation (Tier 1), source-selection analyses (Tier 2). Parallel optimization layer to traditional SEO — captures traffic from organic results, AI Overview click-throughs, and AI chatbot citations.*
+
+### Princeton/Georgia Tech Findings — Strategy Impact (~10,000 queries, 9 strategies tested)
+
+| Strategy | Visibility Uplift | Why It Works |
+|---|---|---|
+| Include relevant statistics | ~40% | LLMs prefer sources containing concrete data points |
+| Cite authoritative sources | ~30% | Referencing known institutions (Federal Reserve, IRS, BLS) increases selection probability |
+| Add quotation from named expert | ~25% | Named expert quotes give LLMs attributable claims |
+| Authoritative / technical tone | 20–25% | Confident, precise language signals expertise. Hedging ("might," "could") reduces citations |
+| Fluency optimization | ~15% | Well-structured, grammatically clean prose easier to extract |
+| **Keyword stuffing** | **Negative** | Density tricks reduce GEO performance. LLMs evaluate semantic relevance, not keyword frequency |
+| Unique/original wording (alone) | Minimal | Uniqueness only helps when combined with statistical + authoritative signals |
+
+### The 7 GEO Production Rules
+
+1. **Lead every section with a citable fact.** First 1–2 sentences of every H2 contain a specific, sourced statistic or concrete claim an LLM could extract as a standalone answer.
+   *Before:* "Building an emergency fund is one of the most important financial steps."
+   *After:* "According to the Federal Reserve's 2023 Survey of Household Economics, 37% of Americans cannot cover a $400 emergency expense without borrowing. An emergency fund covering 3–6 months of essential expenses eliminates this vulnerability."
+2. **Cite by name, not by link.** LLMs cannot follow hyperlinks — they extract text. Include institution name + specific data point in the visible text.
+   *Before:* "Interest rates have risen significantly ([source](link))."
+   *After:* "The Federal Reserve raised the federal funds rate to 5.25–5.50% in July 2023, the highest level since 2001 (Federal Reserve Board of Governors, FOMC Statement)."
+3. **Use definitional sentences for key concepts.** Structure as `[Term] is [definition]` immediately after the H2/H3 that introduces the concept (also the featured-snippet extraction zone).
+   *Example:* "The debt avalanche method is a debt payoff strategy where you make minimum payments on all debts and direct all extra money toward the debt with the highest interest rate, regardless of balance size."
+4. **Structure comparisons as explicit contrast patterns.** Parallel structure → LLMs extract more reliably.
+   *Example:* "The debt avalanche method minimizes total interest paid. The debt snowball method maximizes psychological momentum. Avalanche saves $1,200–$3,400 more on $30,000 of mixed-rate debt. Snowball produces the first account payoff 2–4 months faster, which Harvard Business Review research suggests increases the probability of completing the full payoff plan."
+5. **Include "according to" attribution inline.** Strong LLM citation trigger. Use 3–5 times per 2,000-word post, spaced naturally across sections.
+6. **Answer the question in the first two sentences.** AI Overviews preferentially extract from content with a direct answer early. Structure: `[Direct answer]. [One sentence of essential context or qualification].`
+7. **Use numbered lists and tables for extractable structure.** LLMs extract structured formats more reliably than prose. Steps → numbered list. Options/types → bullet list or table. Comparisons → table with clear column headers. Criteria → numbered list with bold criterion + explanation.
+
+### Tier 1 GEO Citation Sources for AF
+
+Federal Reserve (surveys, rate decisions, economic data) · IRS (tax brackets, contribution limits, filing rules) · Bureau of Labor Statistics (employment, inflation, wage data) · Consumer Financial Protection Bureau (credit, lending, consumer data) · Social Security Administration (benefits, retirement) · FINRA (investing basics, broker data) · National Foundation for Credit Counseling (debt statistics) · Google Quality Rater Guidelines (meta-content about SEO/YMYL).
+
+### GEO vs Traditional SEO — Where They Diverge (and how AF satisfies both)
+
+| Element | Traditional SEO | GEO | AF Standard |
+|---|---|---|---|
+| Keyword placement | Title, H1, first 100 words, meta | Less important — semantic meaning matters | Both — keyword in title/H1 + semantic depth throughout |
+| Source citation | External links (link equity) | Inline named citations (text-extractable) | Both — named citation in text + hyperlink for human readers |
+| Content structure | H2/H3 hierarchy for crawlers | Clean definitional sentences + structured lists | Both — semantic headings + extractable answer formats |
+| Freshness signal | Updated date in schema/byline | Current statistics + recent source dates in visible text | Both — schema date + inline "as of [date]" on data points |
+| Authority signal | Backlink profile, domain authority | Named institutional sources in visible text | Both — backlinks + cite authoritative sources inline |
+| Answer format | Featured snippet (40–60 words) | Concise self-contained answers (2–3 sentences) | Both — snippet-optimized answer blocks + GEO-optimized opening paragraphs |
+
+### AI Overview Source Selection Patterns
+
+**What gets cited:** pages that directly answer the query in first 200 words; pages with specific numbers, dates, named sources; pages from domains with established topical authority; pages with clean heading structure matching query intent; pages updated within last 12 months (time-sensitive topics).
+
+**What gets skipped:** pages that bury the answer after long intros; vague/hedging language ("it depends" without specifying); pages optimized for affiliate conversion (product tables dominate); thin content (<500 words on complex topics); aggressive ad interstitials/popups (Core Web Vitals signal).
+
+### GEO Audit Checklist (Apply Every Post)
+
+- [ ] First paragraph after intro contains a direct, specific answer (1–2 sentences)
+- [ ] ≥5 specific statistics with named sources in visible text
+- [ ] ≥3 "according to [Institution]" attributions spread across the post
+- [ ] All key concepts have clean `[Term] is [definition]` sentences
+- [ ] All comparisons use parallel structure or tables
+- [ ] Steps are numbered lists, not prose paragraphs
+- [ ] Time-sensitive data includes "as of [Month Year]" inline
+- [ ] No keyword stuffing (read aloud — sentences sound natural)
+- [ ] The post could be quoted in a 2-sentence AI answer and make sense without surrounding context
+
+### AF Differentiation Layer
+GEO creates a structural advantage for smaller, focused sites. Mega-sites optimize for affiliate conversion — product comparison tables and "apply now" CTAs over clean extractable educational answers. AF's editorial model (teach first, convert second) naturally aligns with what LLMs cite: clear definitions, specific numbers, named sources, structured explanations. Every post built to AF standards is simultaneously GEO-optimized — without additional work.
 
 ---
 
