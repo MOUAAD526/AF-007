@@ -469,3 +469,90 @@ _Body text (43 chars) saved to JSON sidecar_
 
 
 ---
+
+
+---
+<!-- BATTLE_PLAN_BRIEF -->
+# Battle Plan Brief
+**Generated:** 2026-04-27T01:02:56.751987+00:00  
+**Keyword:** digit saving money
+
+## Validation — 4 Checks (PASS)
+- **Keyword match:** YES — Keyword tokens hit: 3/3; angle tokens: 6
+- **Psychology match:** YES — 34 pain/emotion tokens echoed; keyword hit: True
+- **Competitor evidence:** YES — 3/3 gaps tied to named competitors with body evidence
+- **Gap specificity:** YES — All 3 gaps are specific (named WHO + WHERE + concrete edge)
+
+## Brief
+```json
+{
+  "content_gaps": [
+    {
+      "name": "Digit-to-Oportun brand history never explained — the app the keyword searches for has been rebranded",
+      "what_they_missed": "cnbc.com (1,394 words) reviews the Digit app and notes 'the offer mentioned below for Digit is no longer available' but does not explain that Digit was acquired by Oportun in December 2021 and the app was rebranded as Oportun Save and operated under the 'Set & Save' product name. play.google.com (836 words) is the actual Oportun app-store listing — it advertises 'Set & Save' and references '$12.3 billion saved' and '15 million goals' but never connects the Oportun listing to the Digit brand the reader searched for. Neither competitor walks the reader from 'I am searching digit saving money in 2025' to 'the app you remember was called Digit; it became Oportun Save in late 2021-2022; the underlying Set & Save algorithm is the same; here are the differences in pricing, features, and competitor alternatives that emerged in the gap.' The reader\\'s JSONL emotional state 'Confusion and Anxiety' is exactly the failure mode of a SERP that returns one outdated review (cnbc.com) and one rebranded app listing (play.google.com) with no bridge.",
+      "our_edge": "Add an H2: 'Digit, Then Oportun — What Happened to the App You Remember.' 4-paragraph timeline. (1) 2013-2021: Digit launches as a standalone savings app — automatically transfers small variable amounts from checking to a Digit-held savings account based on cash-flow analysis; pricing started at $0/mo, moved to $2.99/mo, then $5/mo. (2) December 2021: Digit acquired by Oportun (cite oportun.com/press-releases for the acquisition announcement and SEC 10-K filings at sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=oportun for confirmation). (3) 2022-2024: Digit rebranded inside Oportun as 'Set & Save' under the Oportun consumer-finance umbrella that also sells installment loans and credit-builder products. (4) 2025: cnbc.com\\'s review remains a useful critique (algorithm transparency, control concerns) but the pricing and brand have moved; current pricing per Oportun: $5/month after a 30-day free trial — confirmed at oportun.com/save. Closing rule: 'cnbc.com\\'s review is from the Digit era; play.google.com is the Oportun listing the SERP returned. The single most useful sentence the reader needs — Digit IS Oportun now — is in neither competitor. The keyword digit saving money in 2025 is the same product under a new brand and a $5/month subscription.'"
+    },
+    {
+      "name": "Subscription-fee vs interest-earned breakeven math never computed",
+      "what_they_missed": "play.google.com (836 words) advertises 'Our members save over $1,800 per year on average' but does not disclose the $60/year ($5/mo) subscription fee against that figure or show the after-fee return on the rolling balance. cnbc.com (1,394 words) discusses the Digit app from a personal-finance-reporter perspective and notes critiques but does not run the math: a $5/month fee × 12 months = $60/year of fixed cost, against ~$72/year of interest earnable on a $1,800 average rolling balance at a 4% APY HYSA. Neither competitor shows that for a reader saving < ~$1,500-1,800/year via Digit/Oportun, the subscription fee CONSUMES MORE THAN HALF of the interest the same balance would earn in a no-fee 4% HYSA. The JSONL emotional state 'Frustration and Distrust towards budgeting apps' is fueled by exactly this: the user pays a fee that nominally helps them save while the underlying account earns less than a no-fee alternative.",
+      "our_edge": "Add an H2: 'The $5/Month Digit/Oportun Fee — When Does It Actually Pay For Itself?' Build a 5-row breakeven table. Columns: Annual Amount Saved | Annual Subscription Fee | Annual Interest @ 4% HYSA Equivalent | Net Subscription Cost (After-Fee) | When Digit/Oportun Wins. Row 1: $0-$500 saved/yr — fee $60 — HYSA-equivalent interest ~$10 — net cost $50 — Digit/Oportun LOSES (better to use a free auto-transfer). Row 2: $500-$1,500/yr saved — fee $60 — interest ~$30 — net cost $30 — Digit/Oportun LOSES. Row 3: ~$1,800/yr saved (Oportun\\'s own published average) — fee $60 — interest ~$72 — net cost -$12 — Roughly breakeven; only marginal value over a free auto-transfer setup. Row 4: $3,000/yr saved — fee $60 — interest ~$120 — net cost -$60 — Digit/Oportun WINS only if the user genuinely could not have set up a fixed auto-transfer themselves. Row 5: $5,000+/yr saved — fee $60 — interest ~$200 — net cost -$140 — Digit/Oportun WINS, BUT the user is now in a category that should likely be using a HYSA + payroll-direct-deposit-split anyway. Closing rule, JSONL-anchored on 'high yield savings account' / 'pay yourself first' / 'sinking funds': 'play.google.com\\'s $1,800/year claim is exactly the fee-breakeven balance — the digit saving money proposition consumes ~70-83% of the interest the same dollars earn in a no-fee 4% HYSA with a fixed payroll-split auto-transfer. cnbc.com\\'s critique missed this number; the math says: only use Digit/Oportun if you cannot self-set a fixed auto-transfer.'"
+    },
+    {
+      "name": "Bank-native and free alternatives never enumerated as a head-to-head map",
+      "what_they_missed": "cnbc.com (1,394 words) reviews Digit in isolation; play.google.com (836 words) sells Oportun. Neither competitor maps Digit/Oportun against the free, bank-native auto-save features that replicate the same core 'small variable transfers from checking to savings' functionality at $0/month: Bank of America Keep the Change (round-up debit purchases to the nearest dollar; the difference goes to savings — cite bankofamerica.com/online-banking/keep-the-change), Ally Surprise Savings Boosters (Ally\\'s analysis-of-checking moves variable-amount transfers automatically — cite ally.com/bank/online-savings-account/surprise-savings), Chime Save When You Spend + Save When I Get Paid (round-ups + automatic 10% of paycheck — cite chime.com), Capital One 360 Auto-Save (set rules-based or fixed transfers — cite capitalone.com), and Wealthfront Cash Account auto-deposit splits. None of the five free alternatives is mentioned in either competitor — yet each one provides Digit-style functionality without the $5/mo subscription, and most of them route to FDIC-insured 4%+ APY HYSAs at the same time.",
+      "our_edge": "Add an H2: 'Five Free Alternatives to Digit/Oportun That Do the Same Thing — Mapped.' Build a 6-row alternatives table. Columns: Tool | Cost | Auto-Save Mechanism | Destination APY | Best For. Row 1: Oportun Save (formerly Digit) — $5/mo — 'Set & Save' AI-driven variable transfers — ~3-4% APY on Oportun savings — only for users who cannot self-set auto-transfer. Row 2: Bank of America Keep the Change — $0 — round-up debit purchases to nearest $1 — ~0.01% APY (BofA savings) — round-up only; pair with a separate HYSA. Row 3: Ally Surprise Savings Boosters — $0 — Ally\\'s checking-pattern analysis transfers variable amounts — ~4% APY (Ally Online Savings) — full Digit-replica + free + 4% APY (cite ally.com). Row 4: Chime Save When You Spend + Save When I Get Paid — $0 — round-ups + 10% of every paycheck auto-transfer — ~2% APY (Chime savings) — automatic + free + paycheck-anchored. Row 5: Capital One 360 Auto-Save — $0 — fixed-amount or rules-based auto-transfer — ~3.7-4.3% APY (Capital One 360 Performance Savings) — free + sub-buckets + 4% APY. Row 6: Self-set HYSA + payroll direct-deposit split — $0 — fixed % of every paycheck routed to HYSA before checking — ~4% APY (any FDIC HYSA) — best for the JSONL pay-yourself-first reader who can do one HR setup. Closing rule, JSONL-anchored on 'pay yourself first' / 'sinking funds': 'For the digit saving money search intent in 2025, Ally Surprise Savings (free + 4% APY + Digit-replica AI) and a payroll direct-deposit split (free + 4% APY + most reliable) deliver the same outcome Oportun charges $60/year for. cnbc.com\\'s and play.google.com\\'s coverage skips the alternative map entirely — and the alternative map is what most readers actually need.'"
+    }
+  ],
+  "nlp_entities": [
+    "Digit (savings app)",
+    "Oportun Save (formerly Digit)",
+    "Set & Save algorithm",
+    "$5/month subscription fee",
+    "subscription-fee vs interest breakeven",
+    "Bank of America Keep the Change",
+    "Ally Surprise Savings Boosters",
+    "Chime Save When You Spend / Save When I Get Paid",
+    "Capital One 360 Auto-Save",
+    "payroll direct-deposit split",
+    "FDIC-insured 4% APY HYSA",
+    "round-up auto-save"
+  ],
+  "eeat_requirements": [
+    "Cite the Oportun acquisition press release at oportun.com/press-releases AND SEC EDGAR filings (cite sec.gov/cgi-bin/browse-edgar) for the December 2021 Digit acquisition timeline. Neither cnbc.com nor play.google.com names the acquisition source — citing it converts the rebrand history from rumor into a documented corporate event.",
+    "Cite the Oportun current pricing page (cite oportun.com/save) for the $5/month subscription fee anchor used in the breakeven table. play.google.com\\'s '$1,800 average' claim is unsourced fee-side — pulling the official pricing page makes the $60/year fixed cost a verifiable claim.",
+    "Cite each named alternative provider page directly: Bank of America Keep the Change (cite bankofamerica.com/online-banking/keep-the-change), Ally Surprise Savings (cite ally.com/bank/online-savings-account/surprise-savings), Chime Save When You Spend (cite chime.com/save-when-i-get-paid), Capital One 360 Auto-Save (cite capitalone.com/bank/savings-accounts). Demonstrates to the JSONL distrustful-of-budgeting-apps reader that each alternative claim is anchored on the provider\\'s own product page, not a marketing affiliate."
+  ],
+  "style_critique": {
+    "all_tones_found": [
+      {
+        "tone": "personal-finance journalist review",
+        "used_by": "cnbc.com r2"
+      },
+      {
+        "tone": "app-store product listing",
+        "used_by": "play.google.com r8"
+      }
+    ],
+    "winning_tone": "Investigative consumer advocate — anchors the Digit-to-Oportun rebrand on Oportun corporate sources, runs the $5/mo subscription-vs-4%-HYSA breakeven math, and maps the 5 free bank-native alternatives the SERP collectively skips",
+    "decision_reason": "Priority 1 fired — JSONL emotional_state 'Confusion and Anxiety' triggered by 'Tracking expenses but lacking a budget, resulting in no savings' + JSONL emotional state 'Feeling Behind / Regret about lost opportunities' + 'Frustration and Distrust towards budgeting apps' + JSONL repeated phrase 'pay yourself first' / 'high yield savings account' / 'sinking funds' — An investigative-consumer-advocate tone fills the gap left by the journalist review (cnbc.com) which discusses Digit in isolation and the app-store listing (play.google.com) which sells Oportun. The reader is confused about the brand, suspicious of the app, and needs the breakeven math + the alternatives map.",
+    "our_directives": [
+      "When mentioning the Digit app, always pair it with the Oportun rebrand and the current $5/mo pricing in the same sentence. Never write 'use the Digit app to save money' — write 'Digit is now called Oportun Save (acquired December 2021, cite oportun.com); the underlying Set & Save algorithm is the same and the subscription is $5/month — that is $60/year of fixed cost on top of any savings.'",
+      "When citing the digit saving money product\\'s claimed savings outcomes, always pair them with the after-fee net by computing the 4% HYSA-equivalent interest. Never write \\'Oportun members save $1,800/year on average\\' — write \\'Oportun members save ~$1,800/year on average per oportun.com — the $60/year subscription consumes ~83% of the ~$72 of interest the same average balance would earn in a no-fee 4% APY HYSA (cite fdic.gov for HYSA insured-bank list). Net advantage of Oportun over a free HYSA is roughly breakeven at the published average.\\'",
+      "When recommending an auto-save tool, always offer the free bank-native alternative AND the breakeven note. Never write \\'try a savings app like Digit\\' — write \\'try the free Ally Surprise Savings Boosters (cite ally.com) — same Digit-style AI-driven variable transfers, free, and the destination is a 4% APY Ally Online Savings — saves ~$60/year vs Oportun\\'s $5/month subscription on the same outcome.\\'",
+      "When the reader confesses to JSONL pain \\'tracking but lacking a budget, resulting in no savings,\\' always pair empathy with the payroll-direct-deposit-split fix as the cheapest reliable answer. Never write \\'try an app to fix your savings.\\' Always write \\'[Empathy sentence]. The cheapest reliable fix: ask payroll to split direct deposit — say 90% to checking, 10% to a 4% APY HYSA — one HR form, $0/month, no app needed; the JSONL pay-yourself-first phrase becomes a payroll setting that fires every payday before the checking account ever sees the savings portion.\\'"
+    ]
+  },
+  "title_intelligence": {
+    "dominant_title_pattern": "'Why I Decided to [Action] the Digit App' OR '[App Name]: [Tagline]' — competitors lead with personal-review or app-pitch; neither specifies the Oportun rebrand, the breakeven math, or the alternatives map.",
+    "short_title": "Digit Saving Money in 2025: Now Oportun, Cheaper Free Alternatives",
+    "long_title": "Digit Saving Money in 2025 — The App Is Now Oportun ($5/mo), the Breakeven Math vs a Free 4% HYSA, and Five Free Bank-Native Alternatives That Do the Same Thing"
+  },
+  "reader_psychology": {
+    "triggering_thought": "'I am searching digit saving money because I remember an app called Digit that automatically transferred random small amounts from my checking to a savings account. Is it still around? Why does the SERP only return one CNBC article and an app store listing for something called Oportun? Is the digit saving money product actually worth a $5/month fee, or is there a free way to do the same thing?' — close paraphrase of JSONL emotional_state 'Confusion and Anxiety' + 'Feeling Behind / Regret about lost opportunities' + 'Frustration and Distrust towards budgeting apps' + JSONL pain 'Tracking expenses but lacking a budget, resulting in no savings' + JSONL repeated phrase 'pay yourself first' / 'high yield savings account' / 'sinking funds.'",
+    "desired_internal_shift": "From Confused-About-Brand Reader to Free-Alternative Operator With A Documented Payroll-Split Or Bank-Native Auto-Save Routing Into A 4% APY HYSA",
+    "bridge_content": "The Digit-to-Oportun timeline (Content Gap 1) followed by the $5/mo subscription-vs-HYSA-interest breakeven math (Content Gap 2) and the 5-free-alternatives map (Content Gap 3). The reader of digit saving money arrives believing the answer is \\'find the Digit app\\'; the article reframes the question as \\'Digit is now Oportun ($5/mo); the $60/year fee roughly breaks even with the 4% HYSA interest at the published average; here is the free Ally Surprise Savings + payroll-direct-deposit-split route that delivers the same outcome.\\' Once the reader sees the breakeven math and the alternatives map, the JSONL distrust-of-budgeting-apps converts into a documented free-alternative routing into a 4% HYSA."
+  },
+  "internal_linking": null
+}
+```
+<!-- END_BATTLE_PLAN_BRIEF -->

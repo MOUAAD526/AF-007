@@ -601,3 +601,98 @@ _Body text (45 chars) saved to JSON sidecar_
 
 
 ---
+
+
+---
+<!-- BATTLE_PLAN_BRIEF -->
+# Battle Plan Brief
+**Generated:** 2026-04-27T01:01:05.824948+00:00  
+**Keyword:** can you withdraw money from savings
+
+## Validation — 4 Checks (PASS)
+- **Keyword match:** YES — Keyword tokens hit: 5/5; angle tokens: 1
+- **Psychology match:** YES — 19 pain/emotion tokens echoed; keyword hit: True
+- **Competitor evidence:** YES — 3/3 gaps tied to named competitors with body evidence
+- **Gap specificity:** YES — All 3 gaps are specific (named WHO + WHERE + concrete edge)
+
+## Brief
+```json
+{
+  "content_gaps": [
+    {
+      "name": "Regulation D history never explained — competitors say '6 per month' without naming the rule that was lifted in April 2020",
+      "what_they_missed": "chase.com (671 words) says 'some financial institutions may only allow you to make up to six convenient transactions per month before they charge a fee' — quotes the specific 6-limit number without naming the regulation behind it OR the April 2020 Federal Reserve interim final rule that lifted the limit. citi.com (842 words) writes 'banks may limit how often you do it' without naming Regulation D or its 2020 amendment. bankrate.com (1,622 words) gives the most detail — discusses 'monthly limits on the number of transactions' — but still does not name Regulation D § 204.2(d)(2) or the COVID-era amendment that removed the 6-per-month federal cap (cite federalreserve.gov/newsevents/pressreleases/bcreg20200424a.htm). experian.com (1,040 words), coloradosecuresavings.com (488 words), tsp.gov (1,603 words), and myctsavings.com (469 words) skip the regulation entirely. The reader\\'s confusion — 'why are there limits at all' — is solved in two sentences: Regulation D used to require it federally; the Fed lifted the requirement in April 2020; some banks kept their version, some removed it.",
+      "our_edge": "Add an H2: 'Where the 6-Per-Month Savings Withdrawal Limit Came From — and Why Some Banks Still Have It.' 4-paragraph history. (1) Pre-April 2020: Regulation D § 204.2(d)(2) federally required banks to limit 'convenient' transfers from savings accounts to 6 per month — purpose was to distinguish savings (subject to lower reserve requirements) from checking (transactional). (2) April 24, 2020 (cite federalreserve.gov/newsevents/pressreleases/bcreg20200424a.htm): the Federal Reserve issued an interim final rule deleting the 6-transaction limit from Regulation D in response to COVID-19 cash needs. (3) Bank response varies: Ally, SoFi, Capital One 360, and Marcus removed the limit entirely; Bank of America, Chase, Wells Fargo, Citi kept an internal version (typically still 6/month with $5-$15 excess-transaction fee per bank\\'s deposit agreement); a small number of credit unions still enforce the 6 strictly. (4) Action: read the deposit-account agreement (every bank publishes it on its account-disclosures page; FDIC requires disclosure under Truth in Savings Act 12 CFR § 1030 — cite consumerfinance.gov/rules-policy/regulations/1030/). Closing rule: 'chase.com\\'s and citi.com\\'s and bankrate.com\\'s answers to can-you-withdraw-money-from-savings stop at the 6-limit number without naming the federal rule or the April 2020 amendment that removed it. Knowing the history lets you switch to a bank that lifted the limit instead of paying $5-$15 per excess transaction.'"
+    },
+    {
+      "name": "No 'should you withdraw' decision tree — competitors describe HOW but skip WHEN",
+      "what_they_missed": "experian.com (1,040 words) gives the closest hint — 'weigh the purpose against your long-term financial goals' — but stops short of a structured decision tree. bankrate.com (1,622 words) addresses 'Should you spend from a savings account?' as a section header but answers it generically ('you\\'re better off having two separate accounts'). chase.com (671 words), citi.com (842 words), coloradosecuresavings.com (488 words), tsp.gov (1,603 words) and myctsavings.com (469 words) describe the mechanics of withdrawal without giving the reader a structured WHEN-to-decision-tree: emergency vs planned expense vs upgrade-spending vs FOMO/anxiety-impulse. The reader\\'s JSONL pain — 'Money disappears without conscious tracking' — and JSONL emotional state 'Anxiety from financial overwhelm' is exactly the situation where a decision tree replaces willpower with a documented branch.",
+      "our_edge": "Add an H2: 'Before You Withdraw — A 4-Branch Decision Tree That Replaces the Anxiety With a Rule.' 4-branch tree. Branch A (TRUE EMERGENCY: medical bill, car-repair preventing work, unavoidable home damage): withdraw without hesitation; this is what the savings was for. Replenishment plan: rebuild over 3-6 months at ~10-15% of take-home into the same HYSA. Branch B (PLANNED EXPENSE: known annual cost like insurance premium, holiday gift fund, car-registration, vacation): the withdrawal should have come from a sinking-fund sub-bucket (Ally Buckets, SoFi Vaults, Capital One 360 Buckets) — if it did, withdraw freely; if it did not, treat the lesson as the trigger to set up sinking-fund buckets after the withdrawal. Branch C (CASH-FLOW SHORTFALL — paycheck didn\\'t cover end-of-month expenses): pause. Two-question filter: (1) Is this a one-time event? (yes → withdraw, then audit budget for the leak) (2) Is this recurring? (yes → do NOT withdraw; this is a budget problem masquerading as a savings problem; recurring withdrawals from emergency savings to cover bills is the path to no savings). Branch D (FOMO / IMPULSE / ANXIOUS RESPONSE: 'I want X today,' 'I should have it,' 'I am stressed and want a treat'): wait 30 days. Per nerdwallet.com\\'s 30-day rule. If you still want X after 30 days, withdraw from a 'fun money' bucket (NOT emergency). Closing rule: 'experian.com\\'s 1,040-word treatment hints — weigh-the-purpose — but never gives the 4-branch tree. The single act of writing the branch above the withdraw button beats willpower by an order of magnitude for the JSONL anxious reader.'"
+    },
+    {
+      "name": "Liquidity vs yield trade-off across savings vehicles never tabulated",
+      "what_they_missed": "All seven competitors use 'savings account' as a single category. None tabulates the can-you-withdraw-money trade-off across the full ladder of vehicles: HYSA (instant + 4% APY), Money Market Fund / MMA (instant or T+1 + ~4-5%), CD (locked + ~4.5-5% with early-withdrawal penalty of 90-180 days interest), 4-week Treasury bill auto-roll (T+1 at maturity + ~5% federally and state-tax-exempt), Roth IRA (contributions liquid + earnings only after age 59½ + 5-year rule), Traditional IRA / 401(k) / TSP (locked + 10% early-withdrawal penalty + income tax). tsp.gov (1,603 words) and coloradosecuresavings.com (488 words) and myctsavings.com (469 words) cover their specific Roth-IRA / TSP withdrawal rules but do not put HYSA / MMA / CD / T-bill in the same comparison. bankrate.com (1,622 words) — the closest to giving a full comparison — discusses 'money market account' as one alternative but does not tabulate withdrawal speed against APY across all 6 vehicles.",
+      "our_edge": "Add an H2: 'Six Savings Vehicles Compared by How Fast You Can Withdraw vs How Much They Pay.' Build a 6-row table. Columns: Vehicle | Withdrawal Speed | Penalty | APY (Q4 2025) | Best For. Row 1: HYSA at FDIC bank — instant ACH (1-3 business days) — 0 if under bank\\'s monthly limit, $5-15 over — ~4% — emergency fund + sinking funds. Row 2: Money Market Fund at brokerage (e.g. SPAXX, VMFXX, SWVXX) — T+1 settlement — 0 — ~4-5% (cite issuer prospectus pages such as fidelity.com / vanguard.com) — taxable brokerage cash. Row 3: 1-year CD at FDIC bank — at maturity (locked) — 90-180 days interest if pulled early — ~4.5-5% — known 12-month horizon. Row 4: 4-week Treasury bill auto-roll — at 4-week maturity — 0 (just stop the auto-roll) — ~5% federally, state-tax-exempt (cite treasurydirect.gov) — high-tax-state savings. Row 5: Roth IRA — contributions instant + earnings after 59½ + 5-year rule — earnings withdrawn early = income tax + 10% penalty unless exception (cite irs.gov/retirement-plans/plan-participant-employee/topic-no-557) — ~7-10% real over decades — long-horizon retirement. Row 6: 401(k) / TSP / Traditional IRA — locked until 59½ — 10% early-withdrawal penalty + income tax (per tsp.gov\\'s in-service withdrawal page); RMDs apply at 73 — ~7-10% — pre-tax retirement. Closing rule, JSONL-anchored on \\'money disappears without conscious tracking\\': 'Can-you-withdraw-money-from-savings is the wrong question — the right question is which-savings-vehicle-fits-which-horizon. The 4-week T-bill auto-roll matches HYSA on liquidity, beats it on after-tax yield, and is invisible to all seven SERP results. The Roth IRA contributions row is invisible to chase, citi, experian, and bankrate even though it is the single most powerful flexibility lever the average reader has.'"
+    }
+  ],
+  "nlp_entities": [
+    "Regulation D § 204.2(d)(2)",
+    "April 2020 Federal Reserve interim final rule",
+    "Truth in Savings Act 12 CFR § 1030",
+    "high-yield savings account (HYSA)",
+    "Money Market Fund (SPAXX / VMFXX / SWVXX)",
+    "1-year CD with 90-180 day early-withdrawal penalty",
+    "4-week Treasury bill auto-roll",
+    "Roth IRA contributions vs earnings",
+    "5-year rule (Roth IRA)",
+    "10% early-withdrawal penalty (401(k) / Traditional IRA)",
+    "sinking fund sub-bucket",
+    "30-day rule (impulse-purchase delay)"
+  ],
+  "eeat_requirements": [
+    "Cite the Federal Reserve April 24, 2020 press release (cite federalreserve.gov/newsevents/pressreleases/bcreg20200424a.htm) AND the resulting Regulation D amendment for the savings-withdrawal-history section. None of the seven competitors anchors the 6-per-month limit on this primary federal source — citing it converts the history from anecdote into an authoritative regulatory account.",
+    "Cite the CFPB Truth in Savings Act regulation page (cite consumerfinance.gov/rules-policy/regulations/1030/) for the deposit-account-agreement disclosure requirement. Demonstrates to the JSONL anxious reader that the article is anchored on the federal disclosure rule that requires the bank to publish its withdrawal limits.",
+    "Cite IRS Topic 557 'Additional Tax on Early Distributions from Traditional and Roth IRAs' (cite irs.gov/taxtopics/tc557) AND TreasuryDirect (cite treasurydirect.gov) for the Roth IRA contributions/earnings split AND the 4-week T-bill auto-roll. tsp.gov, coloradosecuresavings.com, and myctsavings.com discuss Roth-style withdrawals without anchoring on IRS Topic 557 — citing it converts the contributions-anytime-vs-earnings-locked rule into an IRS-anchored claim."
+  ],
+  "style_critique": {
+    "all_tones_found": [
+      {
+        "tone": "bank brand educational explainer",
+        "used_by": "chase.com r1, citi.com r2, bankrate.com r8"
+      },
+      {
+        "tone": "credit-bureau brand educational content",
+        "used_by": "experian.com r4"
+      },
+      {
+        "tone": "state-Roth-IRA program FAQ",
+        "used_by": "coloradosecuresavings.com r7, myctsavings.com r14"
+      },
+      {
+        "tone": "federal-retirement-program rulebook",
+        "used_by": "tsp.gov r9"
+      }
+    ],
+    "winning_tone": "Operations-engineer with quiet authority — anchors every claim on Federal Reserve / CFPB / IRS / TreasuryDirect primary sources, replaces 'yes you can' with the regulation history, the 4-branch decision tree, and the 6-vehicle liquidity-vs-yield comparison",
+    "decision_reason": "Priority 1 fired — JSONL emotional_state 'Anxiety from financial overwhelm' triggered by 'Money disappears without conscious tracking' + JSONL emotional state 'Feeling defeated by high-pressure financial decisions' — An operations-engineer tone fills the gap left by the bank brand explainers (chase, citi, bankrate) which dance around the Reg D history, the credit-bureau brand (experian), the state-IRA FAQs (coloradosecuresavings, myctsavings), and the federal rulebook (tsp.gov). The reader\\'s overwhelm is solved by handing them the regulatory anchor + the decision tree + the liquidity table.",
+    "our_directives": [
+      "When discussing savings withdrawal limits, always cite Regulation D AND the April 2020 Federal Reserve amendment. Never write 'banks may limit you to 6 withdrawals per month' — write 'until April 2020, Regulation D § 204.2(d)(2) federally required the 6-per-month limit on \\'convenient\\' transfers; the Fed deleted that requirement (cite federalreserve.gov April 24 2020) — Ally / SoFi / Capital One / Marcus removed their limit, while Chase / BofA / Wells / Citi kept an internal version with $5-15 excess-transaction fees.'",
+      "When telling the reader they CAN withdraw, always pair it with the 4-branch decision tree (Emergency / Planned / Cash-Flow / Impulse). Never write 'yes, you can withdraw money from your savings account' — write 'yes — and the better question is WHICH branch this withdrawal is on: True Emergency (withdraw freely + replenishment plan), Planned Expense (withdraw from sinking-fund bucket), Cash-Flow Shortfall (audit the budget), or Impulse (wait 30 days).'",
+      "When recommending a savings vehicle, always state withdrawal speed AND penalty AND APY in the same sentence. Never write 'put your savings in a HYSA' — write 'put emergency savings in an FDIC HYSA at 4% APY (cite fdic.gov for the insured-bank list) — instant ACH access, 0 penalty under the bank\\'s convenient-transaction limit; for surplus over the emergency target, route to a 4-week Treasury bill auto-roll at ~5% federally + state-tax-exempt (cite treasurydirect.gov).'",
+      "When the reader confesses to JSONL pain 'money disappears without conscious tracking,' always pair empathy with the 4-branch decision tree AND the sinking-fund-bucket recommendation. Never write 'be more careful with withdrawals.' Always write '[Empathy sentence]. The fix is structural: open one HYSA with sub-buckets (Ally Buckets, SoFi Vaults, Capital One 360 Buckets), one bucket per known annual expense — when the planned-expense day arrives, the withdrawal is from the named bucket, not from \\'savings,\\' and the JSONL anxiety converts into a documented draw on a specific line.'"
+    ]
+  },
+  "title_intelligence": {
+    "dominant_title_pattern": "'Can You [Take Money Out / Withdraw / Spend From] a Savings Account?' — every competitor leads with the question + answer; none specifies regulation history, decision tree, or liquidity table.",
+    "short_title": "Can You Withdraw Money From Savings? Reg D + 4-Branch Tree",
+    "long_title": "Can You Withdraw Money From Savings — Yes, But Read the Regulation D History, the 4-Branch Decision Tree, and the 6-Vehicle Liquidity Comparison First"
+  },
+  "reader_psychology": {
+    "triggering_thought": "'Can you withdraw money from savings without a fee or penalty? Every guide says \\'yes\\' and then warns about a 6-per-month limit — but my bank charges $15 if I exceed it. Why is the limit there at all? And how do I know if I SHOULD withdraw vs leave it for emergencies?' — close paraphrase of JSONL emotional_state 'Anxiety from financial overwhelm' + 'Feeling defeated by high-pressure financial decisions' + JSONL pain 'Money disappears without conscious tracking.'",
+    "desired_internal_shift": "From Anxious-Withdrawal Reader to Regulation-Anchored Operator With a 4-Branch Decision Tree And A 6-Vehicle Liquidity Map Routing Each Goal To The Right Vehicle",
+    "bridge_content": "The Regulation D history (Content Gap 1) followed by the 4-Branch Decision Tree (Content Gap 2) and the 6-Vehicle Liquidity-vs-Yield Table (Content Gap 3). The reader of can-you-withdraw-money-from-savings arrives believing the answer is 'yes-with-a-vague-limit'; the article reframes the question as 'yes the federal Reg D limit was lifted in April 2020 — your bank chose to keep it; here is the decision tree before you click withdraw, and here is the 6-vehicle map that says where the money should have lived in the first place.' Once the reader maps each savings goal to the matching vehicle, the JSONL anxiety converts into a documented routing decision per goal."
+  },
+  "internal_linking": null
+}
+```
+<!-- END_BATTLE_PLAN_BRIEF -->
