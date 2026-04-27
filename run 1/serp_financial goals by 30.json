@@ -1,0 +1,839 @@
+{
+  "article_context": {
+    "angle": "Debunking the 'save vs. live' excuse: proving balance is possible",
+    "pain_points": [
+      "Balancing saving for the future with spending on current life experiences",
+      "Regret and feeling behind due to past reckless spending",
+      "High-pressure sales tactics and scams (e.g., timeshares) drain money",
+      "Student loan debt preventing retirement savings contributions",
+      "Convenience food and dining as a major, habitual expense leak"
+    ],
+    "top_social_questions": [
+      "How can I save money while still enjoying life and having fun?",
+      "How can I save/invest for retirement when my student loans consume all my disposable income?",
+      "What practical strategies can I use to drastically cut my food spending?"
+    ],
+    "dominant_emotion": "Regret and shame over past financial decisions",
+    "serp_intent": "Searchers for \"financial goals by 30\" seek guidance on achievable milestones like building savings, paying off debt, starting investments, and preparing for major life events before age 30, often tailored to young adults in their 20s navigating early career and financial independence. The SERP intent is informational, featuring blog posts, financial advice articles, and checklists from sites like NerdWallet or Investopedia, emphasizing practical steps, benchmarks, and motivation for age-specific planning.",
+    "serp_title_pool": {
+      "primary": [
+        "Financial goals for your 30s, 40s, 50s, and beyond | Fidelity",
+        "15 Financial Goals to Achieve By 30: Reach Your Money Milestone",
+        "9 financial moves to make in your 30s - Fulton Bank",
+        "I'm almost 30. What financial goals should I have in mind? - Reddit",
+        "9 Financial Goals to Reach By Age 30 - WAEPA",
+        "Guide to Financial Planning in Your 30s - Northwestern Mutual",
+        "8 Financial Goals For Your 30th Birthday",
+        "Money Milestones in Your 20s, 30s and 40s - Spectrum Credit Union",
+        "Financial Milestones \u2013 For Those in Their 30s - Joint Retirement Board",
+        "The 10 Best Money Goals to Reach Before Age 30 | Career Contessa",
+        "6 Important Financial Strategies For Your 20's and 30's",
+        "How To Build a Financial Plan In Your 30's - YouTube",
+        "Financial Planning for Your 30s - Accuplan Benefits Services",
+        "Five finance goals for your 30s | Charles Stanley",
+        "9 Financial Goals to Achieve Before 30 - YouTube",
+        "Financial goals for your 30s and 40s - Oportun",
+        "Financial Goals for Your 30s Both Short and Long-Term - Centier Bank",
+        "Financial Goals to Accomplish by Age 30 - My Investing Discoveries",
+        "Financial Goals in your 30s, 40s and 50s - Take Charge America",
+        "Financial Planning in Your 30s: 3 Goal Ideas for 30-Somethings"
+      ],
+      "long_tail": [
+        "Saving and Investing Tips for Young Adults - GAfutures",
+        "Four steps: A young professional's guide to saving money",
+        "Money Smart for Young Adults | FDIC.gov",
+        "Essential savings tips for young adults - Vanguard",
+        "Budgeting Tips for Young Adults | TruWest Credit Union",
+        "Budgeting & Money-Saving Tips for Students & Young Adults",
+        "14 Financial Tips for Young Adults | Golden 1 Credit Union",
+        "Top 5 Tips for Managing Money as a Young Adult | Blog",
+        "8 financial tips for young adults - Stanford Federal Credit Union",
+        "What's your money saving tips for young people who have just ..."
+      ],
+      "question": [
+        "How much should I have saved for retirement at 35? - Reddit",
+        "Watch: You're age 35, 50, or 60: How much should you have saved ...",
+        "How Much Should I Have in Savings at Age 35? | First Bank",
+        "Savings by Age: How Much to Save in Your 20s, 30s, 40s & Beyond",
+        "Average Retirement Savings By Age | Edward Jones",
+        "What Is the Average Savings by Age? - SoFi",
+        "How Much Should I Have in Retirement Savings at 35? - SmartAsset",
+        "You're age 35, 50, or 60: How much should you have saved for ...",
+        "Retirement savings in your 30s: How much should you have?",
+        "How Much Savings Should I Have By Age 35? - Financial Samurai"
+      ]
+    },
+    "paa_questions": [
+      {
+        "q": "What financial goals should I have at 30?",
+        "a": "9 FINANCIAL MOVES TO MAKE IN YOUR 30S"
+      },
+      {
+        "q": "Is $2 million enough to retire at 30?",
+        "a": "Bottom Line. Retiring at 30 with $2 million is possible, but it requires careful planning and long-term discipline. With potentially five or more decades of expenses ahead, factors such as inflation, healthcare costs, taxes and market volatility can significantly affect how long your money lasts."
+      },
+      {
+        "q": "Is $100,000 in savings good at 30?",
+        "a": "Is $100k savings good for a 30 year old? Yes, $100,000 in savings for a 30 year old is good. It's almost double the amount recommended by a popular rule of thumb, which is to save about $54,000, or the equivalent of the average annual salary of a 30 year old, based on data from the Bureau of Labor Statistics."
+      },
+      {
+        "q": "Is 20k saved at 30 good?",
+        "a": "Generally, experts recommend have one times your salary saved by age 30 and eight times saved by 60. If you're feeling behind, there are several ways you can boost your retirement and emergency savings starting now."
+      }
+    ],
+    "related_searches": [
+      "Financial goals by 30 reddit",
+      "Financial goals by 30 fidelity",
+      "Financial goals by 40",
+      "Financial goals examples",
+      "Financial goals examples for students",
+      "Financial goals for your 20s",
+      "Short-term financial goals",
+      "Financial goals examples for employees"
+    ]
+  },
+  "primary_keyword": "financial goals by 30",
+  "competitors": [
+    {
+      "rank": 1,
+      "domain": "fidelity.com",
+      "url": "https://www.fidelity.com/learning-center/personal-finance/financial-goal-examples",
+      "title": "Financial goals for your 30s, 40s, 50s, and beyond | Fidelity",
+      "word_count": 2542,
+      "scrape_status": "tavily_fallback",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": "# Financial goals for your 30s, 40s, 50s, and beyond | Fidelity to main content Fidelity.com Home * Accounts & Trade * Portfolio * Account Positions * Trade * Fidelity Trader+ Web * Fidelity Trader+ * Transfers * Cash Management * Bill Pay * Full View\u00ae * Security Settings * Account Features * Documents * Tax Forms & Information * Retirement Distributions * Refer a Friend * Retirement * Retirement Planning * 401(k) Rollovers & IRA Transfers * Retirement Accounts * Retirement Education * Wealth Management * Wealth Management Offerings * Financial Advisors * Financial Planning * Investment Management * Wealth Management Insights * News & Research * News * Wealth Management Insights * Watchlist * Alerts * Stocks, ETFs, Crypto * Mutual Funds * Fixed Income, Bonds & CDs * Options * IPOs * Annuities * Learn * Products * Spending & Saving * Investing & Trading * Mutual Funds * Crypto * Direct Indexing * Fixed Income, Bonds & CDs * ETFs * Options * Sustainable Investing * 529 College Savings * Health Savings Accounts * Annuities * Life Insurance * Customer Service * Fidelity Assistant * Profile Log inOpen an account Fidelity.com Home * Customer Service * Fidelity Assistant * Profile * Open an account * * Accounts & Trade * Portfolio * Account Positions * Trade * Fidelity Trader+ Web * Fidelity Trader+ * Transfers * Cash Management * Bill Pay * Full View\u00ae * Security Settings * Account Features * Documents * Tax Forms & Information * Retirement Distributions * Refer a Friend * Retirement * Retirement Planning * 401(k) Rollovers & IRA Transfers * Retirement Accounts * Retirement Education * Wealth Management * Wealth Management Offerings * Financial Advisors * Financial Planning * Investment Management * Wealth Management Insights * News & Research * News * Wealth Management Insights * Watchlist * Alerts * Stocks, ETFs, Crypto * Mutual Funds * Fixed Income, Bonds & CDs * Options * IPOs * Annuities * Learn * Products * Spending & Saving * Investing & Trading * Mutual Funds * Crypto * Direct Indexing * Fixed Income, Bonds & CDs * ETFs * Options * Sustainable Investing * 529 College Savings * Health Savings Accounts * Annuities * Life Insurance to main content Fidelity.com Home * Accounts & Trade * Portfolio * Account Positions * Trade * Fidelity Trader+ Web * Fidelity Trader+ * Transfers * Cash Management * Bill Pay * Full View\u00ae * Security Settings * Account Features * Documents * Tax Forms & Information * Retirement Distributions * Refer a Friend * Investing * Self-Directed Investing * Advanced Trading * Investing for a Child * Managing Cash & Credit * Investment Accounts & Products * Investing & Trading Education * Retirement * Retirement Planning * 401(k) Rollovers & IRA Transfers * Retirement Accounts * Retirement Education * Wealth Management * Wealth Management Offerings * Financial Advisors * Financial Planning * Investment Management * Wealth Management Insights * News & Research * News * Wealth Management Insights * Watchlist * Alerts * Stocks, ETFs, Crypto * Mutual Funds * Fixed Income, Bonds & CDs * Options * IPOs * Annuities * Learn * Customer Service * Fidelity Assistant * Profile Log inOpen an account Fidelity.com Home * Customer Service * Fidelity Assistant * Profile * Open an account * * Accounts & Trade * Portfolio * Account Positions * Trade * Fidelity Trader+ Web * Fidelity Trader+ * Transfers * Cash Management * Bill Pay * Full View\u00ae * Security Settings * Account Features * Documents * Tax Forms & Information * Retirement Distributions * Refer a Friend * Investing * Self-Directed Investing * Advanced Trading * Investing for a Child * Managing Cash & Credit * Investment Accounts & Products * Investing & Trading Education * Retirement * Retirement Planning * 401(k) Rollovers & IRA Transfers * Retirement Accounts * Retirement Education * Wealth Management * Wealth Management Offerings * Financial Advisors * Financial Planning * Investment Management * Wealth Management Insights * News & Research * News * Wealth Management Insights * Watchlist * Alerts * Stocks, ETFs, Crypto * Mutual Funds * Fixed Income, Bonds & CDs * Options * IPOs * Annuities * Learn ## Learn * Learn * Favorites * Topics * Financial essentials * Saving and budgeting money * Managing debt * Saving for retirement * Working and income * Managing health care * Talking to family about money * Personal finance for students * Managing taxes * Managing estate planning * Making charitable donations * Life events * Changing jobs * Planning for college * Getting divorced * Becoming a parent * Caring for aging loved ones * Marriage and partnering * Buying or selling a house * Retiring * Losing a loved one * Making a major purchase * Experiencing illness or injury * Disabilities and special needs * Aging well * Becoming self-employed * Investing and trading * Investing for beginners * Trading for beginners * Crypto basics * Crypto: Beyond the basics * Alternative investing * Exploring stocks and sectors * Investing for income * Analyzing stock fundamentals * Using technical analysis * Investment products * ETFs * Mutual funds * Stocks * Fixed income, bonds, CDs * Annuities * Closed-end funds * Advanced trading * Using margin * Options trading basics * Options: Beyond the basics * Advanced trading strategies * Using Fidelity Trader+ * Options Strategy Guide * Technical Indicator Guide * Latest Market Insights * Viewpoints: Expert insights * Smart Money: Tips and tactics * Money Unscripted * The Trading Post * Women Talk Money * Wealth Management Insights * Events * Upcoming events * On-demand webinars * Market briefings * Market Sense * Trading Strategy Desk\u00ae coaching * Trading Strategy Desk\u00ae classes * August 21, 2025 5 min Save Popover * * * Great, you have saved this article to you My Learn Profile page. Share Popover * * * Financial goals for your 30s, 40s, 50s, and beyond | Fidelity Clicking a link will open a new window. * Facebook * Twitter * LinkedIn Print # Money milestones to aim for in your 30s, 40s, and 50s Enjoy the journey one step at a time. Fidelity Viewpoints ### Key takeaways * Once your financial foundation is stable, it may be a good idea to consider ways to optimize your protection, debt, and savings. * That can include saving enough for emergencies to cover essential expenses for 3 to 6 months, basic estate planning, paying down debt with an interest rate higher than 6%, and contributing the maximum to tax-advantaged accounts. Everyone\u2019s goals are different, but if optimal financial health is one of them, there are some key milestones along the journey to aim for. You can hit these targets at any age, but for many people it may happen in your 30s, 40s, and 50s. Those are the decades when your income may be increasing, along with your ability to save for the future. But no matter what age these occur, it's a good time to start\u2014and you may even be in better shape than you imagine. For instance, you may already have a strong financial base if you are: * Spending less than you earn * Using a health savings account (HSA) or flexible spending account (FSA) for qualified medical expenses * Saving $1,000 for emergencies * Getting the full match to your workplace retirement account * Paying off high-interest credit card debt Read _Viewpoints_: 5 small steps that can make a big impact Once your financial foundation is strong, there are 5 more important milestones to achieve on your way to your goals. for _Fidelity Viewpoints_ weekly email for our latest insights. now ### 1. Saving big for emergencies: 3 to 6 months\u2019 worth of essential expenses Fidelity suggests aiming to save $1,000 to get your emergency savings started. Ultimately, the goal is to save enough to cover 3 to 6 months of essential expenses. At the beginning of your career, that can seem like an impossible amount of money to save, but as you get older and wiser, you may feel more confident about saving. People in their 30s and 40s often have growing responsibilities, including children, a house, education costs, and even caring for aging parents. Building and maintaining significant emergency savings can help you sleep at night and get through the messy middle years of life with your finances intact. ### 2. Getting a basic estate plan in place With people (and pets) who may be depending on you, planning for worst-case scenarios can make good sense. Carrying the insurance that may be offered through an employer can be a good start, including health, life, and disability. But as you get older and take on more responsibilities, it becomes increasingly important to protect what you have\u2014and those you love. Some important estate-planning steps to consider include: * Ensure that your beneficiaries are named where possible for your 401(k), IRA, HSA, and life insurance, for example. And always double-check that your beneficiary designations are up to date. * Review the way your accounts and assets are titled to ensure that they pass to the right people as smoothly as possible. For instance, if you\u2019re married, a joint checking or cash management account for paying bills could make sense or owning a home titled as joint with rights of survivorship. * Write a will explaining how your assets should be dispersed. This can be critical; otherwise, your wishes may not be carried out and your assets will be distributed according to the laws of your state. Read _Viewpoints_: Do you need an estate plan? ### 3. Aiming to be free of high-interest debt If you\u2019re free of high-interest credit card debt, congratulations. If you\u2019re not quite there, having a plan to pay down that debt can be nearly as liberating. Getting out of debt is one of the best things you can do to help reduce money stress and reach your goals. Once you\u2019ve knocked out any high-interest debt from credit cards, making a plan to pay off debt with an interest rate above 6% can also be advantageous\u2014particularly if you\u2019re trying to decide whether to put more money toward an existing debt or contribute more to a retirement account. Fidelity\u2019s guideline suggests that in general, you should pay down debt with an interest rate of 6% or higher before investing beyond the employer match in a retirement account\u2014but it depends on your risk tolerance and financial situation. Read _Viewpoints_: Should you pay down debt or invest? ### 4. Maximizing contributions to tax-advantaged accounts Health savings accounts (HSAs), 401(k)s, and IRAs offer tax advantages for saving. After fully funding your emergency savings at the level you need to feel protected and you\u2019ve paid off high-interest debt, it can make sense to start contributing the maximum to these types of accounts in any order that makes sense for you and your financial situation. * Fidelity suggests maximizing contributions to an HSA, if you have an HSA-eligible health plan. Consider contributing up to the annual maximum while keeping enough cash for annual medical expenses you will pay out of the account. * If you have a workplace savings plan like a 401(k) consider contributing up to the annual maximum and, starting at age 50, you can contribute another $7,500 per year in catch-up contributions.Note: If you're between ages 60 and 63, you can contribute up to $11,250 to a Roth or traditional (401)k as a catch-up contribution, if your plan allows. * Try to make the maximum annual contribution to an IRA. Starting at age 50 you can contribute another $1,000 in catch-up contributions. There are generally 2 types of IRAs, traditional and Roth. To learn how to make the most of the choice, read _Viewpoints_: Traditional or Roth account? 2 tips to help you choose ### 5. Consider paying some or all qualified medical expenses out of pocket, not from your HSA An HSA offers triple tax savings,which means you can contribute pre-tax dollars, pay no taxes on earnings, and withdraw the money tax-free now or in retirement to pay for qualified medical expenses. That means if you pay qualified medical costs out of an HSA, the money you take out is tax-free.1 That can be a significant benefit, especially if you also invest the money saved in your HSA for growth potential, giving it the chance at tax-free, or tax-deferred, growth for decades. In retirement you could use the money in an HSA for qualified medical expenses, and after age 65, you can use the account like a traditional IRA or 401(k) if you wish. Ordinary income tax would be due on any withdrawals not used for qualified medical expenses. Finally, you should know that you can reimburse yourself from your HSA at any time for qualified medical expenses you\u2019ve paid out of pocket. Consider keeping detailed receipts for medical costs for your records. As long as your HSA was opened before the expense was incurred, you\u2019ll be able to pay yourself back tax-free. Read _Viewpoints_: 5 ways HSAs can help with your retirement ### What\u2019s next? Your journey doesn\u2019t have to end here. There are even more ways to improve and refine your financial picture. Further tax-advantaged savings options to consider include tax-deferred annuities, nonqualified deferred compensation plans, or tax-managed brokerage accounts. ## Take your smart money habits to the next level We have account options to match any money goal. Open an account ### Help me budget Categorize expenses to help reach saving goals. ### Visit the Fidelity Learning Center Get recent market insights, read in-depth articles or watch videos to learn more. ## to _Fidelity Viewpoints\u00ae_ Timely news and insights from our pros on markets, investing, and personal finance.(debug tcm:2365-349569) ### Looking for more ideas and insights? We'll deliver them right to your inbox. Manage subscriptions ### Thanks for subscribing! Check out your Favorites page, where you can: * Tell us the topics you want to learn more about * View content you've saved for later * to our newsletters Go to Favorites ### We're on our way, but not quite there yet Good news, you're on the early-access list. But we're not available in your state just yet. As soon as we are, we'll let you know. In the meantime, boost your crypto brainpower in our Learning Center. Manage subscriptions ### Oh, hello again! Good news, you\u2019re already on the early-access list. Keep an eye on your email for your invitation to Fidelity Crypto. Manage subscriptions All fields are required. First name critical Enter your first name. critical Enter your first name. critical First name must be no more than 30 characters. critical First name must be at least 2 characters. critical Sorry, we can't update your subscriptions right now. Please try again later. Last name critical Please enter a valid last name. e.g. Doe. critical Enter your last name. critical Last name must be no more than 30 characters. critical Last name must be at least 2 characters. critical Sorry, we can't update your subscriptions right now. Please try again later. Email address critical Enter a valid email address. e.g. name@fidelity.com. critical Enter your email address. critical Enter a valid email address (li",
+      "headings": []
+    },
+    {
+      "rank": 2,
+      "domain": "ascend.bank",
+      "url": "https://ascend.bank/news/15-financial-goals-by-30/",
+      "title": "15 Financial Goals to Achieve By 30: Reach Your Money Milestone",
+      "word_count": 2362,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://ascend.bank/wp-content/uploads/2023/03/financial-goals-couple.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://ascend.bank/wp-content/uploads/2026/03/Core-2025-News-Image-1024x538.png",
+          "alt": "Core 2025 Annual Magazine",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://ascend.bank/wp-content/uploads/2026/02/young-woman-with-red-headphones-smiling-1024x538.jpg",
+          "alt": "Young woman wearing red headphones sitting outside while holding her phone.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://ascend.bank/wp-content/uploads/2026/02/young-woman-headphones-at-coffee-shop-1024x538.jpg",
+          "alt": "Young woman with headphones on smiling while sitting in a coffee shop.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "It\u2019s vital to be conscious of your financial situation as you get older. The earlier you plan out your financial future, the more prepared you\u2019ll be for the future\u2014and all the expenses that come with it. One of the best ways to get ahead is to look at the financial goals to set by the time you\u2019re 30 years old. Why Is It Important to Set Financial Goals By age 30? It\u2019s important to set financial goals by your 30s because doing so will help you evaluate where your financial situation is now, and what you have to do to get it where you want it . Some of the most important factors to consider when setting financial milestones are: Your gross income Your living situation (rent vs. owning a home) Your marital status If you have children or not Your current debts These factors will influence your financial milestones, as they\u2019re the goals you\u2019re aiming to achieve. Not sure where to start? Read on to learn about financial goals, what else to consider when making them, and the specific financial goals you should reach by age 30. What are Financial Goals? Financial goals are key money milestones you set for yourself. They typically include milestones related to: Investing Saving Income earnings Paying down debt Some examples of financial goals include: Have $10,000 in an emergency savings fund Invest at least $15,000 per year Have an annual income of at least $150,000 by age 35 Pay student loans off by age 28 Knowing what exactly these milestones are defined as is crucial when determining which financial goals you should have by the time you\u2019re 30, as it will help you narrow down what exactly you want to achieve and what you can do to achieve it. Differences Between Long-Term and Short-Term Financial Goals Short-term financial goals are the money milestones you wish to achieve in a shorter amount of time . This timeframe can vary, from one month all the way up to one year. Since they\u2019re short-term goals, they\u2019re often smaller milestones that are easier to achieve in a shorter span of time. Examples of short-term financial goals are: Paying off your remaining credit card debt within three months Put away money for an emergency fund On the other hand, a long-term financial goal is a money milestone that takes years to achieve . The average timeframe is between three and five years, but that timeframe really depends on how big your long-term financial goal is. These kinds of financial goals will take you longer to complete, as they\u2019re often goals that influence your life in a larger capacity. Some examples of long-term financial goals include: Saving for a child\u2019s college fund Saving for a 20% down payment on your dream home When thinking about your ideal financial goals by age 30, it\u2019s important to know the differences between short-term and long-term milestones because it helps you prioritize your goals and provides you with a timeframe to work with . When Should These Financial Goals Be Set? These financial goals should be set as soon as you feel ready to commit to them. The sooner you start, the better. Turning 30 may seem far away\u2026but time has a funny way of flying by. If you can, start thinking about your financial goals when you get your first job, even if it\u2019s a part-time gig in high school . What Is The Best Way to Set Financial Goals? We get it\u2014it can be overwhelming to set those financial goals you want to reach by your 30s, especially if you\u2019re just starting your financial journey. It doesn\u2019t have to be difficult, though. In fact, when done right and put in the right perspective, planning your financial moves is exciting. While each person\u2019s financial goals and timeframes vary, these are some general tips to keep in mind when setting your financial goals: Step 1 : Think about your current financial situation, and what you want your future financial situation to be. What do you need to do to get there? Think about that question, and write down what financial goals you need to achieve to make it happen. Step 2 : Once you brainstorm ways to achieve your ideal financial future, put needed milestones into two categories: short-term goals and long-term goals. Be sure to make these milestones as specific as possible for tracking purposes. Step 3 : Prioritize your goals and set completion dates for them. Start with the most achievable short-term goals and work your way up. For example, if two of your short-term goals are to pay off your $250 credit card bill and put $5,000 aside for an emergency savings fund, prioritize the credit card payment goal. The reason? You can achieve that goal faster, and once it\u2019s accomplished, you can take the money that was going towards that goal and put it towards your emergency savings fund goal. Step 4 : Check in on your progress. Set some time aside each week to track your goals and measure how you\u2019re doing. This analysis is crucial, as it tells you if you\u2019re on the right track to achieve your goals on time or if you need to pivot. Step 5 : Remember to be flexible when it\u2019s needed. Yes, it\u2019s important to set those financial goals to reach by age 30, but you need to be realistic, too. Things may come up ( a sudden medical bill , an unexpected car repair, etc.) that require you to change your short-term, or even your long-term, goals. How Often Should You Review Your Financial Goals? The general rule of thumb is to do a thorough review of your financial goals once a year . That means you sit down, crunch the numbers, and determine if your financial goals, especially those long-term goals, are still attainable. It also gives you the opportunity to see how many of your short-term goals you achieved, how long it took you to achieve them, and if you didn\u2019t achieve certain short-term goals. All this information is crucial if you want to achieve certain financial goals by age 30. You should also review your financial goals if a significant life event happens and changes your income, including a promotion, a layoff, a marriage, a home purchase, or if you start your own business . These typically cause big money changes, and as such, your short-term and long-term financial goals will need adjusting. Why Is It Important to Have a Good Financial Goals Plan By 30? It\u2019s important to have solid financial goals by age 30 for several reasons. For starters, having these money goals creates a roadmap for future finances and sets you up for success. These goals also provide building blocks for future money goals, meaning you can build on them for decades to come. The key to building a successful financial future is to have a solid foundation\u2014a foundation built by those financial moves made by age 30 . The Financial Goals to Reach By Your 30s CNBC reports that the median net worth for people under age 35 is $13,900, with the average net worth being $76,300. If you want to reach this amount, or exceed it, then set the following financial goals by age 30. Doing so will help you increase your wealth and make your money work smarter. Establish a monthly budget and stick to it. Having a monthly budget helps you curb overspending and analyze what your cash flow looks like. Sticking to a monthly budget that lets you set money aside for your goals is crucial, especially when you\u2019re at the start of your financial journey. A chieve a good credit score . A credit score is a number that tells money lenders how creditworthy you are. This score essentially tells lenders if you\u2019re a good candidate to give credit to. The higher the score, the better\u2014scores fall between 300 and 850. Having a good credit score boosts your chances of securing more (and higher) loans at better rates . Keys to achieving a good credit score include: Consistently paying bills on time, Being strategic with which accounts you open\u2014and when, and Keeping your credit utilization below 30% Create an emergency fund . Life can change in an instant. You could fall ill or get into an accident, or even be laid off unexpectedly. That\u2019s why creating an emergency fund is one of the most important financial goals to achieve by your 30s. An emergency fund is exactly as it sounds; it\u2019s money set aside in case an unexpected expense comes up . A good rule of thumb is to have between three and six months\u2019 worth of living expenses saved in your emergency fund. Putting this money in a high-yield savings account, which typically offers a higher interest rate than an average savings account, can help that fund grow faster. Start contributing to a retirement account . Retirement can seem like a lifetime away when you\u2019re young. Talk to anyone who is retired, though, and they\u2019ll tell you it came sooner than they imagined. That\u2019s why people should start contributing to a retirement account as soon as they\u2019re able to, but definitely by the time they\u2019re 30. There are different types of retirement accounts, including 401K (which many employers provide) and/or Roth IRA. Each retirement account has its own perks and considerations, so do your research and contribute to an account that best serves your retirement goals. Eliminate as much debt as possible . Being debt-free is incredibly freeing. By age 30, people should aim to eliminate as much debt as possible, whether it be from credit cards, student loans, or car loans. Focus on paying off the high-interest debt first, then work your way through. Negotiate your bills . Look at your current bills and see which ones you could negotiate. This can help you save cash each month and grow your nest egg. Start investing . Investing is a proven way to grow your money and boost your finances. If you haven\u2019t started investing by your 30s, don\u2019t panic\u2014you can still grow your money with this strategy. Do your research and see which type of investing works for you, whether it\u2019s investing in the stock market, real estate, or something else. If you aren\u2019t sure where to start, consider working with a financial advisor to help get the ball rolling. Get a credit card (if you don\u2019t have one already) . Some people avoid credit cards, but opening one has its perks, if you manage it properly. Using a credit card wisely helps you build credit and improve your credit score. Find a credit card that has great rewards and cash back opportunities\u2014that way, you could earn some cash and freebies just from swiping. Start saving for a down payment . If home ownership is one of your long-term financial goals, it\u2019s important to start saving for a down payment as early as you can. Buyers need to put at least 20% down to avoid paying private mortgage insurance (PMI) each month. However, there are programs and loans that help first-time home buyers , like an FHA loan, which only requires qualified buyers to put down a 3.5% down payment. The earlier you start saving for a down payment, the better. Expand your portfolio . If you\u2019re already investing by the time you\u2019re 30, look at your portfolio and see where you could expand. Diversifying your portfolio, essentially, prevents you from putting all your eggs in one basket\u2014or, in this case, one investment. If one investment stream goes south, you have others to rely on. Set up a side-hustle . A side-hustle is an income stream driven by a hobby or side project. Establishing a side-hustle you\u2019re passionate about can help you earn more money and, as such, reach your short-term and long-term financial goals faster. Who knows\u2014it could eventually grow to become your full-time gig! Create a fun fund . Yes, saving for short-term and long-term financial goals is crucial , but you need to have some fun, too. Establish and contribute to a fund that\u2019s solely dedicated to paying for vacations, special trips, and nights out. That way, you budget properly for your entertainment and don\u2019t cut into other funds. Set up a will . Yes, this goal is a bit morbid. However, it\u2019s vital to have a plan in place for your assets if you pass. Set up a will and establish how your assets will be divided up, from real estate to savings. Start a college fund . Speaking of education, if going back to school is anywhere in your life plan, start a college fund for yourself now . The goal? Not to have student loan debt, especially if you\u2019ve already paid off student debt. Not planning on advancing your education? If you want to have kids, open college funds for them instead. Increase your salary . Use this time to evaluate your current salary and brainstorm ways to increase it. This would increase your income and, as such, increase the cash flow for your goals. You could do the following things to increase your salary: Negotiate a promotion and pay raise Find a higher paying job Upskill Continue your education Final Thoughts on Financial Goals to Have By 30 Keep in mind that everyone\u2019s financial situation is different and, as such, your financial goals may differ from your friend\u2019s, sibling\u2019s, or co-worker\u2019s. Remember to create goals that fit your lifestyle and needs, not ones you\u2019re creating to keep up with others. And, remember that, while it\u2019s great to stick to your goals, you shouldn\u2019t be hard on yourself if you need to adjust some as needed. Do what you need to do to stay on track and save the money you need wisely. And when you\u2019re ready to discuss your financial goals with a bank you can trust, the experts at GSB are here to help you plan for a future you can aspire to achieve. 2025 CORE Annual Magazine Daily Money Habits That Make Life Easier in Your 20s Money in Your 20s: Which Financial Priorities Deserve Your Attention Right Now",
+      "headings": []
+    },
+    {
+      "rank": 3,
+      "domain": "fultonbank.com",
+      "url": "https://www.fultonbank.com/Education-Center/Family-and-Finance/Financial-moves-to-make-in-your-30s",
+      "title": "9 financial moves to make in your 30s - Fulton Bank",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.fultonbank.com/-/media/Feature/Teaser/Education-Center/Family-and-Finance/Happy-couple_TN.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.fultonbank.com/-/media/Feature/Teaser/Education-Center/Credit-and-Debt/Girl-painting_TN.jpg",
+          "alt": "(alt text)",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.fultonbank.com/-/media/Feature/Teaser/Education-Center/Budget/Piggy-bank_TN.jpg",
+          "alt": "(alt text)",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.fultonbank.com/-/media/Feature/Teaser/Education-Center/Budget/Money-tree_TN.jpg",
+          "alt": "(alt text)",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 4,
+      "domain": "reddit.com",
+      "url": "https://www.reddit.com/r/personalfinance/comments/164taws/im_almost_30_what_financial_goals_should_i_have/",
+      "title": "I'm almost 30. What financial goals should I have in mind? - Reddit",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 5,
+      "domain": "waepa.org",
+      "url": "https://www.waepa.org/resources/9-financial-goals-to-reach-by-age-30/",
+      "title": "9 Financial Goals to Reach By Age 30 - WAEPA",
+      "word_count": 550,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.waepa.org/wp-content/uploads/2020/05/9-Goals-By-30_desktop_1366x400.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.waepa.org/wp-content/themes/waepa/img/social-share/facebook.svg",
+          "alt": "Facebook",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.waepa.org/wp-content/themes/waepa/img/social-share/linkedin.svg",
+          "alt": "LinkedIn",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.waepa.org/wp-content/themes/waepa/img/social-share/reddit.svg",
+          "alt": "Reddit",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.waepa.org/wp-content/themes/waepa/img/social-share/email.svg",
+          "alt": "Email",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.waepa.org/wp-content/themes/waepa/img/social-share/open.svg",
+          "alt": "Share",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.waepa.org/wp-content/uploads/2026/03/BLOG-Q226-Life-Insurance-Taxes-HERO-1000x560-1.jpg",
+          "alt": "Federal employee reviewing financial bills and paperwork at home during tax season, considering life insurance and tax implications.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.waepa.org/wp-content/uploads/2026/02/BLOG-Q126-EY-Common-Money-Mistakes-1080x1080-1-1024x1024.jpg",
+          "alt": "Young woman shopping online on a laptop, symbolizing budgeting, spending habits, and personal finance management.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.waepa.org/wp-content/uploads/2026/02/BLOG-Q126-EY-Plan-Big-Purchases-1080x1080-1-1024x1024.jpg",
+          "alt": "Young woman saving money in a piggy bank at home, illustrating budgeting and saving for a big purchase.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "You\u2019re starting to lay the foundation for your financial future and success. Here are some simple goals that you should aim to reach by the time you are thirty. When you were in your early twenties, you probably weren\u2019t even thinking about the major life changes that you would be facing only a few years down the road. But you learned and you are now starting to lay the foundation for your financial future and success. To help you get a gauge on where you are, the following are simple goals that you should aim to reach by the time you are 30. 1. Become Financially Independent of Your Parents You are financially self-sufficient and no longer need your parents to cosign any loans or help pay your bills. 2. Completely Pay Off Your Student Debt It wasn\u2019t easy, but you\u2019ve finally paid off your student loans. You can now use those additional funds to help build your future. 3. Fully Pay Off All Credit Cards You had you fun in your twenties, but you\u2019ve learned your lesson. When your credit card bills come in, you pay them in full each month and are done paying high interest rates. 4. Have an Emergency Fund You\u2019ve finally started to put money away for a \u201crainy day.\u201d You should now have 3 to 6 months of your expenses saved up that you could tap quickly for life\u2019s unexpected surprises. 5. Monitor Your Credit Score You now know how important your credit score is for just about everything you do\u2013and you watch it closely. 6. Have a Financial Plan You review and update your financial plan monthly to make sure you are on track to meet your financial goals. 7. Have a Career Plan You have a good idea now what your talents are and what they\u2019re worth in the marketplace. You\u2019ve started planning for your future and can now see how career advancement can help you reach your financial goals. 8. Play All Your Bills On Time. You now know how your payment history can impact your credit score, so you pay all of your bills on time. 9. Begin Planning for Your Retirement. Since you now have a much better understanding of your personal finances, you recognize the importance of starting to plan and save for your retirement. Download this checklist and keep track of your goals. Group Term Life Insurance Up to $1.5 million in temporary protection for current and former Feds. Fully portable, this coverage goes where you go. QuickDecision Group Term Life Insurance With QuickDecision underwriting, eligible applicants can apply online and receive a coverage decision in 30 minutes or less. Group Short-Term Disability Insurance Up to $6,500 in monthly paycheck protection for up to six months if you\u2019re unable to work due to a covered illness or injury. Guaranteed Issue Group Term Life Insurance New Federal employees can receive up to $100,000 in guaranteed coverage when they apply within their first year without medical exams. Chronic Illness Rider A living benefit that can be added to a Group Term Life Insurance policy and offers support if you become permanently chronically ill. Automatic Benefit Increase Rider An optional add-on to Group Term Life Insurance that gradually increases your coverage to stay aligned with your changing needs. Related Resources",
+      "headings": []
+    },
+    {
+      "rank": 6,
+      "domain": "northwesternmutual.com",
+      "url": "https://www.northwesternmutual.com/life-and-money/guide-to-financial-planning-in-your-30s/",
+      "title": "Guide to Financial Planning in Your 30s - Northwestern Mutual",
+      "word_count": 2643,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://media.northwesternmutual.com/images/1485-guide-to-finances-in-your-30s-548223453.jpg",
+        "alt": "Couple embracing on the beach thinking about financial planning in your 30s.",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://media.northwesternmutual.com/images/640x480/1485-guide-to-finances-in-your-30s-548223453.jpg",
+          "alt": "Couple embracing on the beach thinking about financial planning in your 30s.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.northwesternmutual.com/life-and-money/resources/img/86c8f51.svg",
+          "alt": "Left Dotted Pattern",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.northwesternmutual.com/life-and-money/resources/img/cf4f65a.svg",
+          "alt": "Right Dotted Pattern",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://media.northwesternmutual.com/images/510x287/carolinarico.jpg",
+          "alt": "Carolina Rico",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://media.northwesternmutual.com/images/510x287/article/featured/146_investing_for_beginners.jpg",
+          "alt": "Young couple looking at laptop and phone, taking notes.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://media.northwesternmutual.com/images/830x467/article/featured/579-how-to-make-your-money-last-in-retirement-1186404976.jpg",
+          "alt": "Happy couple with their child talking about how to make their money last in retirement.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://media.northwesternmutual.com/images/830x467/1406-family-on-a-budget-making-breakfast-at-home-962203146.jpg",
+          "alt": "family on a budget making breakfast at home",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://media.northwesternmutual.com/images/830x467/962-6-ways-to-boost-financial-health-926924618.jpg",
+          "alt": "Man and woman jogging side by side on beach",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "Guide to Financial Planning in Your 30s What is financial planning in your 30s? Here are some goals to consider and expert tips for building a successful financial plan in this critical decade. Being in your 30s is an exciting time of life. It\u00e2\u0080\u0099s often the decade when you start to meet many of your personal milestones, whether that\u00e2\u0080\u0099s getting married, buying a first home, starting a family or advancing in your career. These are all big money moments, and financial planning can help you achieve these goals while helping you feel more confident about your money. What is financial planning in your 30s all about? We\u00e2\u0080\u0099ll take you through several key planning steps that will lay a good financial groundwork so you\u00e2\u0080\u0099re ready to tackle your finances in your 30s, 40s, 50s and beyond. What\u00e2\u0080\u0099s in our guide to financial planning in your 30s Know where you are Think about goals for your 30s and beyond Protect what you have Grow your wealth Put an estate plan in place Enjoy your money Conversation starters with an advisor Jump to section Know where you are Think about goals for your 30s and beyond Protect what you have Grow your wealth Put an estate plan in place Enjoy your money Conversation starters with an advisor Know where you are Think about goals for your 30s and beyond Protect what you have Grow your wealth Put an estate plan in place Enjoy your money Conversation starters with an advisor Section 01 Know where you are Webinar Replay: 5 Financial Planning Steps You Should Take in Your 30s Your first step to financial planning in your 30s is to understand where you are today and where you want to be in the future. This will be a pivotal decade for you, so it\u00e2\u0080\u0099s important to take stock of where you are: How much money do you have coming in, where is it going, and how much of it are you holding onto every week, month or year? What does your financial picture look like right now? Create a budget If you don\u00e2\u0080\u0099t already have one, create a budget. Creating a budget serves two purposes. First, it gives you a view into how you\u00e2\u0080\u0099re currently spending your money. Second, it will help you make decisions about how you allocate your money toward the things that are most important to you now and in the future. When you set up a budget, you\u00e2\u0080\u0099re essentially trying to get a view of your cash flow. First, add up your monthly take-home pay from all sources of income. Then, add up all of your monthly expenses and group them into these three categories: Fixed expenses Your fixed expenses will include anything that you need to pay on a recurring basis; they are likely to be expenses essential to your daily life. This might include things like your mortgage/rent, utilities, phone, internet/cable bill and car/home insurance. Financial goal contributions This is money that you dedicate to financial goals. This category could include things like saving for a down payment on a home, retirement or college, as well as extra payments toward debt. It also includes any money you\u00e2\u0080\u0099re putting into an emergency fund or toward life insurance premiums. Discretionary expenses are basically everything else. This is your \u00e2\u0080\u009cfun money\u00e2\u0080\u009d and will often include things like entertainment, splurges, eating out or going on vacation. Most likely, it will be the category where you have the most flexibility to free up money in your budget. Once you have categorized your spending, it\u00e2\u0080\u0099s time to crunch some numbers to determine how much you\u00e2\u0080\u0099re spending within each bucket. While everyone\u00e2\u0080\u0099s budget will be different, as a general rule, aim to spend roughly the following percentages of your take-home pay on each category. 60% On fixed expenses 20% On goal contributions 20% On discretionary expenses Want more? Get financial tips, tools, and more with our monthly newsletter. First name * Last name * Email * Sign me up Understand your net worth The term \u00e2\u0080\u009cnet worth\u00e2\u0080\u009d may sound like it applies more to Jeff Bezos than to you. But net worth doesn\u00e2\u0080\u0099t have to be a number in the millions or even the tens of thousands. Everyone has a net worth. So you might be wondering, \u00e2\u0080\u009c How do I calculate my net worth? \u00e2\u0080\u009d Here\u00e2\u0080\u0099s what you do: Add up your assets. This should include money in your checking, savings and investment accounts, as well as the value of any physical items you may own, such as your home, automobiles, jewelry and other valuables. Subtract your liabilities. This is essentially any debt that you carry, including credit card debt, student loans, auto loans, personal loans and mortgage balances. The resulting total is your net worth. Section 02 Think about goals for your 30s and beyond Once you know where you currently stand, you can start to dream about where you want to go. This is the fun part. Ask yourself questions like: Do I plan to get married? When do I want to start a family? Do I want to buy a home? Do I dream of retiring early? How often do I want to travel? Do I plan to pay for my kids\u00e2\u0080\u0099 college? These are all big goals you\u00e2\u0080\u0099ll want to plan for financially. Getting a sense for when you might want to reach each goal can help you make choices about how to use money you\u00e2\u0080\u0099ve already saved and how to continue saving and growing your money to help meet those goals. Knowing where you are starting from and where you wish to go will allow you to create a financial plan to get there. Is Financial Planning Right for Me? Back 1/6 Do you ever wonder where all your money went at the end of the month? A. Yes B. No Next Start your financial plan Our financial advisors can help you prioritize what\u00e2\u0080\u0099s most important in your life and build a financial plan to help you get there. Connect with an advisor Section 03 Protect what you have It can be tempting to jump right into a plan to invest your money for the future. But part of getting to where you want to be financially is including a plan to protect your finances so that life\u00e2\u0080\u0099s ups and downs don\u00e2\u0080\u0099t throw you off course. This is also a time of life when you\u00e2\u0080\u0099re likely to grow your family, which makes the protection component a critical part of financial planning in your 30s. Here\u00e2\u0080\u0099s what to consider. Start an emergency fund or build the one you have An emergency fund is exactly what it sounds like: A checking or savings account where you keep money that you can tap in the event of an emergency, such as a surprise medical bill, car or home repair, job loss or other major unexpected expense. Most financial experts recommend that you eventually have enough money in your emergency fund to cover about six months\u00e2\u0080\u0099 worth of expenses. Related Article How an Emergency Fund Helped This Recent College Grad Get Through a Furlough After her financial advisor encouraged her to do so, Carolina Rico began to put extra savings toward her emergency fund. Once the coronavirus hit, she was able to use that money to make ends meet. Here's how an emergency fund helped her get through a furlough. If you started your emergency fund in your 20s and have it fully funded, check this off your to-do list. If it needs to be padded further (especially as your expenses have likely grown), work an amount into your budget that you can set aside into your emergency fund each month until it is fully funded. And if you don\u00e2\u0080\u0099t have an emergency fund at all, that\u00e2\u0080\u0099s okay, too. Now is the time to start one. If you set aside $25 a week, you\u00e2\u0080\u0099ll have $1,300 in your emergency fund after a year. Bumping that up to $100 per week would get you to $5,200 in a year. Planning for Disability If you get sick or hurt and cannot work for an extended period of time, it is important to have a plan to help you make up for some of that lost income. This can protect your financial plan by helping you to avoid having to draw down savings that are meant for other goals. Many employers offer affordable short- and long-term disability insurance to their employees, but in many cases it will cover only about half of your income. Now that you\u00e2\u0080\u0099re in your 30s, it\u00e2\u0080\u0099s a good idea to review what coverage you already have and start planning for what you may need. Related video Life insurance In your 30s, it\u00e2\u0080\u0099s highly likely that your family will grow or that you\u00e2\u0080\u0099ll have more people who depend on you, whether that\u00e2\u0080\u0099s a spouse, children, a disabled sibling or aging parents. That makes life insurance another critical layer of protection for your plan. It will ensure that your loved ones will be taken care of even if you\u00e2\u0080\u0099re no longer there to support them. But how does life insurance work ? The two main varieties of life insurance to consider are term and permanent. Both pay out a death benefit to your beneficiaries in the event of your death, but there are important differences: Term life insurance offers a death benefit for only a set number of years (the term). If you die within that time frame, your beneficiaries will receive the death benefit. After your coverage expires, there\u00e2\u0080\u0099s no payout to your beneficiaries. Permanent life insurance covers you for life. Your beneficiaries will receive the death benefit no matter when you die. Permanent life insurance also accumulates cash value that you can eventually access at any time during your life, for any need. Because of its additional benefits, permanent life insurance is more expensive than term for the same size policy. That\u00e2\u0080\u0099s why many people in their 30s will use a mix of term and permanent insurance to reach the death benefit amount they want while still getting access to what permanent insurance has to offer beyond the death benefit. Converting term insurance Many term insurance policies allow you to convert some or all of your policy to permanent insurance at some point in the future, regardless of changes to your health. This can be a great way to add the benefits of permanent life insurance over time. So how much life insurance should you get? Our life insurance calculator can help you get a sense of what you might need based on your unique situation. How much life insurance do you need? Our financial advisors can work with you to figure out the right amount and types of insurance for your unique situation. Get started Section 04 Grow your wealth Once you\u00e2\u0080\u0099ve laid the groundwork to protect your financial plan, it\u00e2\u0080\u0099s time to start taking steps to grow your wealth. Depending on your financial situation, this may consist of a combination of paying down debt while also saving and investing for various goals. Make a plan to pay down debt When you\u00e2\u0080\u0099re in your 30s, it\u00e2\u0080\u0099s not unusual to have credit card or student loan debt. If that\u00e2\u0080\u0099s your situation, then it\u00e2\u0080\u0099s a good idea to plan for how to get out of debt . Doing so can help position you for future financial success, because debt can be a headwind to reaching your financial goals. Plus, as you pay down your debt, you\u00e2\u0080\u0099re helping to grow your net worth. Good debt vs. bad debt Before you aggressively start paying down your balances, it\u00e2\u0080\u0099s important to realize that not all debts are created equally. This is where the concept of good debt vs. bad debt comes into play. Good debt tends to involve lower interest rates and is typically used to reach a major goal or milestone. Student loans and a mortgage are examples of good debt. Bad debt carries higher interest rates and is often used to finance purchases that don\u00e2\u0080\u0099t provide much value back to you. Credit card debt is an example of bad debt. If you find that you carry both good and bad debt (as most of us do), then you\u00e2\u0080\u0099ll probably want to prioritize paying down the bad debts first. Debt repayment strategies When it comes to paying down your debts, there are a number of different strategies to consider. Two of the most popular debt repayment strategies are the debt snowball and the debt avalanche . Here\u00e2\u0080\u0099s how they work. Debt avalanche Organize your loans by interest rate, from the highest to lowest. Pay minimums on all your loans, but devote extra payment to the highest interest rate loan. Once you\u00e2\u0080\u0099ve paid off that debt, move on to the next highest interest rate until that\u00e2\u0080\u0099s paid off, and so on. If you do the math, this is the method that will help you pay the least in interest. Debt snowball Organize your loans by balance size, lowest to highest. Pay minimums on all your loans, but put any extra payment toward the lowest-balance loan first. Once you\u00e2\u0080\u0099ve paid off that loan, move on to the one with the next lowest balance. This method gives you quicker wins, which can help keep you stay motivated as you pay down your debt. Your investments By the time you\u00e2\u0080\u0099re in your 30s, you\u00e2\u0080\u0099ve likely starting saving for retirement, or maybe you\u00e2\u0080\u0099ve even started putting money away into an investment account. Investments are a great way to save for big, long-term goals because they help your money grow over time. Now is a good time to brush up on (or learn) investing basics and make sure that you\u00e2\u0080\u0099re putting away the right amount in the right places based on your goals. Related Article Investing for Beginners Before you start putting your money to work, learn the basics of how to invest. Are you saving enough for retirement? Our retirement calculator can show whether you\u00e2\u0080\u0099re on track for the retirement you want. There are several big goals that people often reach with the help of investments. Some financial goals, like retirement or saving for college, even have special accounts that qualify for tax advantages, which is why they are known as \u00e2\u0080\u009cqualified\u00e2\u0080\u009d accounts. Investing for retirement This is one of the most common reasons that people choose to start investing, especially if you have access to a retirement account like a 401(k) or 403(b) through your employer. Traditional Money you contribute is pre-tax. You won't owe tax as your money grows. You'll pay ordinary income tax on any money you withdraw in retirement (age 59\u00c2\u00bd or older). At age 72, you\u00e2\u0080\u0099ll be required to start taking a certain amount of money from your account if you haven\u00e2\u0080\u0099t already. This is known as a required minimum distribution, or RMD. Roth Money you contribute is post-tax. Your money grows tax-free. You won\u00e2\u0080\u0099t have to pay any tax on the money you withdraw in retirement (age 59\u00c2\u00bd or older) so long as you\u00e2\u0080\u0099ve had the Roth account for more than five years. There is no requirement to withdraw money from a Roth IRA while you are alive. There are income limits that prevent high earners from contributing directly to a Roth IRA (Roth 401(k)s have no income limitations). Related Articles Here's How a Traditional vs. Roth IRA Compare for Retirement How to Help Recession-Proof Your Retirement Savings How Do Annuities Work? Invest for college If you have children or plan to in the future, your 30s is a great time to begin saving for their college education. After all, college is expensive, and it\u00e2\u0080\u0099s likely to get more expensive as time goes on. As with retirement, there are a number of different options you can use to begin saving for college , including: 529 College Savings Plan 529 Prepaid Tuition Plan Coverdell Education Savings Account",
+      "headings": []
+    },
+    {
+      "rank": 7,
+      "domain": "ctsfinancialgroup.com",
+      "url": "https://www.ctsfinancialgroup.com/8-goals-for-30/index.php",
+      "title": "8 Financial Goals For Your 30th Birthday",
+      "word_count": 881,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "assets/img/logo-cts.png",
+        "alt": "You Are Financially Independent",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "assets/img/goal1.jpg",
+          "alt": "You Are Financially Independent",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "assets/img/goal2.jpg",
+          "alt": "You\u2019ve Invested In Your Earning Potential",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "assets/img/goal3.jpg",
+          "alt": "You Know Your Credit Score, And Have A Plan",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "assets/img/goal4.jpg",
+          "alt": "Your Retirement Account Is Growing",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "assets/img/goal5.jpg",
+          "alt": "Your Outstanding Debt Is Shrinking",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "assets/img/goal6.jpg",
+          "alt": "You Have A Budget - And Stick To It",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "assets/img/goal7.jpg",
+          "alt": "You Have An Emergency Fund",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "assets/img/goal8.jpg",
+          "alt": "You Know Your Financial Goals",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "The years between 20 and 30 can be some of the most exciting - and challenging - times in life. During this 10-year period, you will go from being a high school graduate to a 29-year-old that is supposed to have everything figured out - or at least it can feel that way. But what really matters when it comes to your personal finances? And which items are a lower priority? The simple truth is: it can be difficult to tell the difference. To help simplify things a bit, we wanted to share 8 financial goals to have accomplished by your 30th birthday. If you need help with any of these, we invite you to connect with our team. 1) You Are Financially Independent As you go from high school graduate to 30-something-year-old, you should gradually establish your financial independence. What this means will look a bit different for every family, but the big \u201clingering\u201d expenses we see parents covering for their children are car insurance premiums, car payments, and cell phone bills (by way of a family plan). While it\u2019s not always comfortable in the moment, establishing financial independence now will pay dividends down the line. 2) You\u2019ve Invested In Your Earning Potential The success of your financial life can be boiled down to three very basic variables: the amount of money you earn, the amount of money you spend, and what you do with the amount that\u2019s leftover. Your 20s are the best time to make investments in your lifetime earning potential, and that doesn\u2019t always mean college . Technical certifications, gaining in-demand skills, and college degrees are all great ways to increase your lifetime earning potential, which can make budgeting and saving for retirement that much easier. While you may not know what you want to do with your life when you are 30, it's important that you put time, money, and energy behind your earning potential during your 20s. 3) You Know Your Credit Score, And Have A Plan For many, the 20s are a time period of financial miscues. And for some, this means a credit score that is lower than is desired. Regardless of what happened during your 20s, you should know your credit score and have a plan in place by the time you turn 30 (at the latest). If your score is already good, that plan may be to stay the course. If your score needs improvement, your plan may be to formulate a debt paydown strategy that spans two or three years. 4) Your Retirement Account Is Growing By the time you turn 30, you should have a retirement account set up and be making monthl contributions to the account. If you have access to an employer-sponsored plan, this might mean a portion of each check goes toward retirement - in addition to a match from your employer. For freelancers and those in the gig economy, that might mean a Simplified Employee Pension (SEP) IRA that you contribute to monthly. 5) Your Outstanding Debt Is Shrinking Also by the time you turn 30, you should be making good headway on any outstanding debt. And when we say this, we mean ALL debt: credit card debt, car payments, and student loans. In addition to making headway on your debt, you should also have a debt paydown strategy in place that defines a target date to zero out your balances. 6) You Have A Budget - And Stick To It The point of budgeting is to know how much money you bring in, how much money you spend, and to define goals for what is left over each month. Most 20-year olds have experimented with the idea of budgeting, but few have put pencil to paper and created a \u201cpersonal contract\u201d when it comes to their cash flow. By the time you turn 30, this is a priority, and there are more apps than ever that make budgeting easy. 7) You Have An Emergency Fund By the time you turn 30, it\u2019s wise to have at least $1,000 within an emergency fund - although three months\u2019 worth of living expenses is the best target. When the clutch goes out on your vehicle, or you have a surprise trip to the doctor, this emergency fund can be used to cover the cost - keeping the rest of your financial plan on track. 8) You Know Your Financial Goals By the time you turn 30, your retirement is just 30 to 35 years away. And while this might sound like a long time, it will go by fast. Take some time to really define what you value in life and the things that matter, then work backward to define financial goals that support this vision. By doing this, you\u2019ll be well-positioned to make progress during your 30s, 40s, and 50s. Enjoy The Journey The 20\u2019s are a great period of personal and professional growth. Whatever that looks like to you, we hope you enjoy the journey. If working with a fee-only financial advisor would help you do that, we invite you to connect with our team. If the DIY approach is a better fit for you, check out our Resource Center for ideas and insight when it comes to managing your financial life. Connect with Us",
+      "headings": []
+    },
+    {
+      "rank": 8,
+      "domain": "spectrumcu.org",
+      "url": "https://www.spectrumcu.org/financial-guidance/blog/post/spectrum-blog-posts/2024/08/07/money-milestones-in-your-20s-30s-and-40s",
+      "title": "Money Milestones in Your 20s, 30s and 40s - Spectrum Credit Union",
+      "word_count": 683,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.spectrumcu.org/images/librariesprovider6/spectrum-images/00244-header-bothbrands.jpg?sfvrsn=a35bf537_1",
+        "alt": "00244-header-bothbrands",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.spectrumcu.org/images/librariesprovider6/spectrum-images/readytobecomemember.png?sfvrsn=469e137_2",
+          "alt": "Banner Image",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "Money Milestones in Your 20s, 30s and 40s As we move through different stages of life, our financial goals and needs evolve. In your 20s, you lay the foundation. In your 30s, you build and expand. In your 40s, you refine and secure. Whether you're building your first budget, saving to buy a home, or figuring out how to put your kids through college, having a clear financial plan is key to reaching some important milestones. Financial strategies for your 20s Establishing a budget Bottom line: You need a budget . Having a budget helps you prioritize needs over wants and reach your goals. But it doesn\u2019t have to be complicated. Begin by tracking your income and expenses to understand your spending habits. Try budgeting apps or spreadsheets to categorize your expenses and set spending limits. Keep refining until you find the system that works for you. Building an emergency fund An emergency fund is a safety net that can prevent financial setbacks from derailing your progress. Aim to save three to six months\u2019 worth of living expenses, but remember it is okay to start small. Set aside a minimal amount from each paycheck, gradually increasing it over time. This fund should be easily accessible, preferably in a high-yield savings account. Starting to invest The earlier you start investing, the more time your money has to grow. Begin with employer-sponsored retirement plans like a 401(k) or individual retirement accounts (IRAs). Remember, even small, regular contributions can accumulate significantly over the years due to compound interest. Buying your first car can be exciting (and a bit overwhelming). Consider the total cost of ownership, including insurance, maintenance, and fuel. Save for a substantial down payment to reduce monthly payments and finance charges. Financial strategies for your 30s Investing for growth With a stable financial foundation, you can take a more aggressive approach to investing. Diversify your portfolio with stocks, bonds, and real estate. Consider consulting a financial advisor to help tailor an investment strategy that aligns with your long-term goals. Continue contributing to retirement accounts and take advantage of employer matching programs. Saving for your first home Homeownership is a significant milestone that requires substantial financial planning. Start by assessing your financial readiness, including your credit score and debt-to-income ratio. Establish a savings goal for your down payment and explore first-time homebuyer programs. Consider setting up a dedicated savings account to separate your home fund from other savings. Preparing for parenthood On average, raising a child costs $284,570 (accounting for inflation). If you're planning to start a family, preparing financially is crucial. Review your health insurance coverage to understand maternity and pediatric care benefits, and begin saving early for childcare, education, and other child-related expenses. Financial strategies for your 40s Refining your investment strategy Retirement planning should be in full swing by your 40s. Reviewing and adjusting your investment strategy is essential. Rebalance your portfolio to reduce risk while still seeking growth. Increase contributions to retirement accounts and consider catch-up contributions if you're behind on your savings goals. Planning for higher education expenses If you have children, saving for their college education becomes a priority. Explore 529 college savings plans that offer tax advantages. Start saving early to take full advantage of compound interest. Consider consulting a financial planner to ensure you're on track to meet your education savings goals without compromising your retirement plans. Paying off major debts Aim to reduce or eliminate significant debts, such as mortgages, car loans, and credit card balances. Prioritize high-interest debt to save on interest payments. Becoming debt-free can provide more financial flexibility and security as you approach retirement. Navigating financial milestones across different life stages requires careful planning and informed decision-making. By implementing these strategies in your 20s, 30s, and 40s, you can build a solid financial foundation and secure a prosperous future. If you\u2019re eligible for membership, we\u2019re ready to hear from you. Not sure if you\u2019re eligible? You can check if you qualify here . Why join Spectrum Credit Union? Learn more. From everyday finance to life\u2019s big money moments, it\u2019s better when you belong.",
+      "headings": []
+    },
+    {
+      "rank": 9,
+      "domain": "jrbcj.org",
+      "url": "https://jrbcj.org/30s/",
+      "title": "Financial Milestones \u2013 For Those in Their 30s - Joint Retirement Board",
+      "word_count": 1111,
+      "scrape_status": "tavily_fallback",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": "Select Page # Financial Milestones \u2013 For Those in Their 30s ### Related ## 6 Financial Planning Tips for Millennials (and Everyone Else) ## Balancing Student Debt with Retirement Savings ## Benefits of Membership No results found. By Mitchell J. Smilowitz, CPA In your 30s, you have the advantage of time to build long-term financial security, but it is critical to use this decade effectively. Most people in their 30s are at the beginning of their career and probably have competing priorities for limited financial resources. This article identifies important financial decisions and actions you should consider taking during your 30s. Request a Complimentary Financial Consultation from the JRB to discuss how you can manage your current financial goals with the long-term in mind. * Establish a budget: Create a budget to track your income and expenses. This allows you to gain control over your finances, identify areas where you can save and prioritize your spending. * Pay off high-interest debt: Prioritize paying off high-interest debt such as credit card debt or personal loans. Allocate extra funds towards these debts to reduce interest payments and improve your credit score and financial standing. * Save for retirement: Many people in their 30s have not yet shouldered family financial responsibilities such as children and home ownership. This makes it a great time to establish a solid pattern of retirement savings. Participation in a tax-favored savings plan such as *The JRB 403(b)(9) Retirement Plan* also allows you to reduce the taxes you pay. Aim to save at least 10-15% of your income for retirement. Take advantage of any employer match if offered. * Invest for the long term: Begin investing in a diversified portfolio that aligns with your risk tolerance and financial goals. The JRB offers a wide range of investment options, including Target Date Funds, a Stable Value Interest Fund and Israel Bonds, that offer long-term growth potential. Time is on your side, so begin investing now to take maximum advantage of compounding. * Automate your savings and investments: Set up automatic contributions to your retirement accounts and other savings or investment vehicles. Ask your employer about setting up an automatic payroll contribution to your JRB retirement account. This habit will ensure consistency and discipline in saving and investing, making it easier to reach your financial goals. * Build an emergency fund: Save for emergencies by setting aside three- to six-months worth of living expenses in a separate savings account. This fund will provide a safety net in case of unexpected events like job loss or medical expenses. * Review and optimize insurance coverage: Assess your insurance needs and ensure you have adequate coverage. This includes health insurance, life insurance (if you have dependents), disability insurance and property insurance. The JRB Complimentary Insurance Program offers basic term-life insurance, disability insurance and pension continuation insurance. You can discuss the adequacy of your insurance coverage with the JRB during your Complimentary Financial Consultation. * Plan for major life events: If you\u2019re considering major life events such as marriage, buying a home or starting a family, carefully plan and save for these milestones. Factor in associated costs, such as down payments, closing costs and childcare expenses. * Focus on career development: Invest in your professional development to enhance your skills and increase your earning potential. Consider pursuing additional education, certifications or training programs that can open doors for promotions or higher-paying opportunities. * Review and update your financial goals: Take time to assess your financial goals and make necessary adjustments. Whether it\u2019s saving for a down payment, starting a family or traveling, align your actions with your goals to stay motivated and focused. These suggestions are general guidelines; it\u2019s crucial to tailor them to your specific circumstances. Request a Complimentary Financial Consultation with the JRB or call 888-JRB-FREE (572-3733) to evaluate your financial situation and adjust your strategies as needed. We will provide personalized guidance based on your goals and financial situation. August 2023 Manage Consent To provide the best experiences, we use technologies like cookies to store and/or access device information. Consenting to these technologies will allow us to process data such as browsing behavior or unique IDs on this site. Functional Always active The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network. Preferences The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user. Statistics The technical storage or access that is used exclusively for statistical purposes. The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you. Marketing The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes. * Manage options * Manage services * Manage {vendor\\_count} vendors * Read more about these purposes View preferences * {title} * {title} * {title} Manage Consent To provide the best experiences, we use technologies like cookies to store and/or access device information. Consenting to these technologies will allow us to process data such as browsing behavior or unique IDs on this site. Functional Always active The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network. Preferences The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user. Statistics The technical storage or access that is used exclusively for statistical purposes. The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you. Marketing The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes. * Manage options * Manage services * Manage {vendor\\_count} vendors * Read more about these purposes View preferences * {title} * {title} * {title}",
+      "headings": []
+    },
+    {
+      "rank": 10,
+      "domain": "careercontessa.com",
+      "url": "https://www.careercontessa.com/advice/financial-milestones-hit-before-30/",
+      "title": "The 10 Best Money Goals to Reach Before Age 30 | Career Contessa",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.careercontessa.com/uploadedImages/Advice/advice_1453-480w.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.careercontessa.com/uploadedImages/Advice/xadvice_1453.jpg.pagespeed.ic.iZLKc4RNLq.jpg",
+          "alt": "10-Money-Goals-You-Need-to-Hit-Before-30 Image",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.careercontessa.com/uploadedImages/Learn/goal%20guide.png",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.careercontessa.com/uploadedImages/Learn/money%20goals.png",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.careercontessa.com/uploadedImages/Contributors/xcontributorThumb_1360.jpg.pagespeed.ic.XJhXensEBH.jpg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.careercontessa.com/uploadedImages/Advice/xadvice_2665.jpg.pagespeed.ic.NoS79Jjr4V.jpg",
+          "alt": "Negotiation-Tactics-101\u2014Get-What-You-Want.-Period.- Image",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.careercontessa.com/uploadedImages/Advice/xadvice_2940_220104_055055.jpg.pagespeed.ic.JMQBaVvaT-.jpg",
+          "alt": "100+-Best-Budgeting-Templates-for-Every-Budgeting-Need- Image",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.careercontessa.com/uploadedImages/Advice/xadvice_2322.jpg.pagespeed.ic.Gm9ZYGuMls.jpg",
+          "alt": "16-Money-Books-You-Need-to-Read- Image",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.careercontessa.com/uploadedImages/Advice/xadvice_2598.jpg.pagespeed.ic.a7wffsjqHZ.jpg",
+          "alt": "How-to-Recover-Financially-from-Wedding-Season-(+-Plan-for-the-Next-One) Image",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.careercontessa.com/uploadedImages/Advice/xadvice_2181.jpg.pagespeed.ic.e8i8WN33Sw.jpg",
+          "alt": "Laid-Off?-Here's-How-to-Negotiate-a-Severance-Package Image",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.careercontessa.com/uploadedImages/Advice/xadvice_1388.jpeg.pagespeed.ic.mEnltmI0FM.jpg",
+          "alt": "How-to-Answer-",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.careercontessa.com/uploadedImages/Advice/xadvice_2741.jpg.pagespeed.ic.XATekGfACw.jpg",
+          "alt": "These-25-Freelance-Side-Jobs-Can-Help-Boost-Your-Income Image",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.careercontessa.com/uploadedImages/Advice/xadvice_2803.jpg.pagespeed.ic.Ol93I1rDr6.jpg",
+          "alt": "How-to-Ask-for-a-Raise-During-Tough-Times-(Like-a-Recession) Image",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.careercontessa.com/uploadedImages/Advice/xadvice_2966_220419_054947.jpg.pagespeed.ic.q-0qTwpcZE.jpg",
+          "alt": "Intro-to-HYSA:-How-to-Open-a-High-Yield-Savings-Account Image",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.careercontessa.com/assets/images/cc-promo-courses-sidebar-01.png.pagespeed.ce.s7OaQTLB0V.png",
+          "alt": "Career Contessa Education",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 11,
+      "domain": "silvercompassadvisors.com",
+      "url": "https://silvercompassadvisors.com/6-important-financial-strategies-for-your-20s-and-30s/",
+      "title": "6 Important Financial Strategies For Your 20's and 30's",
+      "word_count": 2495,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://silvercompassadvisors.com/wp-content/uploads/Screen-Shot-2021-10-14-at-5.26.05-PM-1024x532.png",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://silvercompassadvisors.com/wp-content/uploads/Screen-Shot-2021-10-14-at-5.30.50-PM.png",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "Personal Finance & Investing For Generations X and Y Personal finance and investing is an enormous field that provides many options. We wrote this guide to help individuals in their 20\u2019s and 30\u2019s navigate the world of investing and personal finance and to help them start thinking seriously about their financial future. INTRODUCTION 20 and 30-somethings have very different personal finance and investing priorities than their parents. Instead of worrying about Social Security benefits and catch-up IRA contributions, you might be worrying about digging yourself out of student loan debt, buying a house, or establishing yourself in a new career. Retirement for Gen Y and Gen X investors is going to look very different than that of Baby Boomers. Today\u2019s retirees can look forward to Social Security income, defined benefit pension plans, and the advantages of decades of stable work. The next generations of retirees may not have those assurances, making personal savings and investing, utterly critical. Continued health advances mean that average life spans are increasing. By the time you reach retirement age, your life expectancy may be such that you will spend over 30 years in retirement. Early financial strategizing can help you get out of debt faster, save up for important life goals, and give you a head start on retirement. Here are six powerful moves that will help jumpstart your financial future. 1. TAKE CONTROL OF YOUR HEALTH You might think that the topic of your health doesn\u2019t fit into a discussion of personal finance, but you\u2019d be wrong. Medical bills resulting from illness and injury are one of the leading causes of bankruptcy in the United States.1 If you\u2019re not currently covered by health insurance, you should make it your first financial priority. Studies show that young Americans (age 19-34) are the age group most likely to go without health insurance. As of 2011, 38% of young adults, approximately 18.5 million Americans, were uninsured.2 If you are one of them, you may not have employer-sponsored insurance and don\u2019t want to incur the costs of annual checkups and doctor\u2019s visits. Gambling on your health is a mistake. Avoiding medical visits can cause relatively minor medical or dental issues to worsen and become serious health and financial problems. Even if you\u2019re generally healthy, a car accident or unexpected illness can bankrupt you. Health insurance can help protect you from the financial consequences of a serious illness or injury and prevent you and your family from bankrupting yourselves. Fortunately, being young has many advantages, one of which may be lower insurance premiums. Basic health insurance doesn\u2019t have to cost a lot of money. The health insurance landscape changed drastically with the Affordable Care Act (ACA.) If you are under the age of 26, you may be able to get coverage under your parents\u2019 policy. If you are not eligible for employer-sponsored or parental insurance, you can shop for health insurance plans on the ACA federal or state insurance exchanges by going to www.healthcare.gov. Depending on factors like your age, income, and health status, you may be able to qualify for lower monthly premiums that take the sting out of high healthcare costs. 2. SHARPEN YOUR NEGOTIATION SKILLS If you\u2019re like most Americans, you will make the majority of your wealth by working a job and collecting a paycheck. One of the savviest financial plays you can make early in your career is to learn how to negotiate a higher salary. Since subsequent raises and job offers will be based on your previous salary, you can drastically improve your lifetime wealth by setting a good standard early on. Here are some negotiating tips: Don\u2019t be afraid to ask for a raise or salary bump. Demonstrate why you\u2019re worth more money. Do your homework so you understand what the market for your skills will bear. If you are initially refused a raise, ask for written goals and set a future date for another review. Think about alternatives to salary like performance bonuses and non-cash perks that can improve your lifestyle even if they don\u2019t directly boost your earning potential. 3. FIGURE OUT YOUR FINANCIAL GOALS Take a moment to think about the things you\u2019d like out of life. Does your dream life include a house? Do you want to travel every year? Do you want your children to go to college? Whatever your personal goals are, chances are that they\u2019ll take some preparation to get there. When we think about saving and investing, most people\u2019s minds immediately turn to retirement. While retirement is an important goal, there are also many intermediate life goals that require some financial strategizing to achieve. Your goals might include: More education: College, graduate school, and advanced certificate programs can open doors and give your career prospects a serious boost. However, the costs of higher education are rising by about 3.0% per year.3 Living expenses and foregone income will also raise the cost of education. Planning ahead can help ensure you have money set aside and don\u2019t have to rely entirely on loans. If you\u2019re already dealing with education debt, your goal might be to pay off your loans as quickly as possible. A house: Owning a house is still the dream for many young Americans. For most people, a house will be the largest purchase they ever make, so it\u2019s worth planning ahead to save up for a down payment, learn about your credit score (and fix it if necessary), and study market trends in your area. An investment representative can help you run the numbers on renting vs. buying so you understand what the smartest move might be. A car: Saving up for a car avoids the necessity of qualifying for a car loan and making expensive payments each month. A sabbatical: An increasing number of Americans in their 20\u2019s and 30\u2019s are taking time off from their careers to travel, pursue passion projects, or make a difference in the world. If a career break is in your future, some advance goal-setting can help ensure that you have enough money set aside and don\u2019t have to worry about finances while you\u2019re out of the rat race. Financial Tools We Like: Mint: Connect to financial accounts, set up a budget, and track expenses. CNN Money: Learn about saving, investing, and markets. Doxo: Make household payments hassle-free. AnnualCreditReport.com: Check your credit for free every 12 months. Healthcare.gov: Shop for health insurance. 4. GET OUT OF DEBT The average American under the age of 35 has between $23,000 and $30,000 of debt in the form of credit cards, student loans, auto loans, and other forms of personal debt.4 The average U.S. household owes about $7,000 on its credit cards5 and the average APR for variable-rate credit cards is over 15%.6 This means that the average American family is making over $1,000 in interest payments each year. If you are living with significant debt, paying it off is one of the smartest financial moves you can make. The reason for this is simple: You are likely paying more in terms of interest than you are likely to earn by investing. The chart below illustrates historical returns for several different asset classes. You can see that the historical performance of several common asset classes is dwarfed by the high APR on most credit cards. For most people, it makes sense to pay off that expensive debt instead of investing at lower rates of return. Every dollar that you contribute towards your debt reduces the amount of interest expense you have to pay each year and every year after that. Student loan interest rates are typically lower than most other forms of unsecured debt, making the decision about whether to pay down debt instead of investing more complex. If you\u2019re not sure whether to pay down your debt or start investing, a financial representative can explain the advantages and disadvantages of each option and help you make the right decision for your needs. Getting out of debt gives you freedom from monthly payments and expensive interest. Financial Goals For Your 20\u2019s: Start a great career Invest in yourself through education & training Build good financial habits by automating your saving, starting an emergency fund, paying bills on time, and maintaining good credit Set small financial goals Stay out of credit card debt 5. PROTECT YOUR CREDIT For better or worse, your credit score is one of the most important indicators of your financial health. Lenders, employers, and landlords \u2013 the list of people who have an interest in your credit score seems to keep growing every year. Damaged credit can be very costly over time. The chart below shows how discount points on mortgages are assessed based on credit scores. A $250,000 mortgage that\u2019s assessed 1 loan discount point will have $2,500 in closing costs. Mortgage lenders give applicants with lower credit scores a higher risk rating, assigning them higher borrowing costs to make up for the greater potential risk of mortgage default. This calculation translates into higher closing costs; many people can\u2019t afford to pay these extra costs at closing and choose to convert their discount points into an increased mortgage rate, raising the overall cost of the loan. Typically, every discount point can be converted into an extra 0.25% of mortgage interest.7 Start Small Research shows that closing smaller debt accounts first gives you an early sense of accomplishment and can boost motivation and success rates. Source: Kellogg Insight, Gal, David, and Blake McShane. 2012 In short, the financial consequences of less-than-stellar credit can haunt you for decades. Unfortunately, there are no secret formulas or easy fixes for bad credit. Rehabilitation takes time and discipline, but it\u2019s entirely possible to do. Here are some simple steps that you can take now to rehabilitate and protect your credit: Check your credit report every year for free at annualcreditreport.com and dispute any errors. Pay all bills on time by setting up payment reminders or enrolling in autopay where possible. Avoid library late charges (anything that goes to collections gets reported to the credit bureaus). Pay down any balances on cards (high balances relative to your total available credit ding your credit score). Pay off your credit cards in full each month. 6. SAVE & INVEST FOR THE FUTURE Saving when you are still early in your career and may be living paycheck to paycheck is tough. There are a few strategies that can help you establish good saving behavior even when you don\u2019t have a lot of extra income. Automate your savings: The simplest way to make saving unconscious and painless is to automatically direct a portion of each paycheck into your savings and investment accounts. You\u2019ll quickly get used to having less money to spend each month and your savings will grow automatically. Focus on saving a percentage of your income: Even if you can only save 5% of your income, it\u2019s an amount that will scale as your income grows. Build saving into your budget: If you include your monthly savings goal into your monthly budget, you\u2019re much more likely to stick to your plan than if you simply save whatever money\u2019s left over at the end of the month. Along with saving, investing is one of the best ways to grow and protect your hard-earned wealth over the long term. When you\u2019re in your twenties and thirties, retirement can seem like a long way off; but it\u2019s important to start saving for retirement as soon as you can. Here\u2019s a big reason why: the magic of compound interest. \u201cCompound interest is the eighth wonder of the world. He who understands it, earns it \u2026 he who doesn\u2019t \u2026 pays it.\u201d \u2013 Attributed to Albert Einstein Let\u2019s say Joe is a 25-year-old investor who makes a single $5,500 contribution to a Roth IRA. If his portfolio earns an average rate of 8% per year, that single contribution could grow to $119,485 by the time Joe\u2019s 65, even if he doesn\u2019t add another dime to his IRA. However, if Joe waits until age 35 to start investing, that same $5,500 investment would only grow to $55,345. While this is a very simplistic example that discounts the effects of fees, inflation, and other factors, the basic principal is this: Time is one of the most important ingredients to long-term investment success. Why invest? Putting your money to work for you through investing gives you a greater potential for return than saving alone. It\u2019s important to understand that all investments involve some degree of risk. Understanding and managing risk is one of the most important pieces of a long-term financial strategy. Though it\u2019s impossible to remove all risk from investing, professional investors use tools like diversification* and asset allocation strategies to help mitigate some risks. The reward for taking on risk is the potential for greater investment return. If you have financial goals with long-term horizons (generally 5-10 years away), you may be able to accept additional risk by prudently investing in assets like stocks and bonds. Savings that are earmarked for short-term financial goals should generally be kept in cash or cash-equivalent securities. Keep in mind that it\u2019s a good idea to speak to a qualified investment professional before making any investment decisions. Intermediate Financial Goals Build on the good financial habits you\u2019ve set in your 20\u2019s or recommit to better ones Max out your retirement plan contributions, especially if there\u2019s an employer match Set five-year financial goals for major life expenses like a house, a wedding, a car, or a milestone vacation Pay off your student loans Start thinking about college savings for your children Today\u2019s markets are volatile and many investors are worried that stocks may be too risky. In response to the financial crisis, many investors reacted to market turbulence by pulling out of the stock market and leaving their money on the sidelines. However, a portfolio that contains too little risk can reduce your potential for long-term growth and leave you vulnerable to inflation, which slowly eats away at returns each year. While stocks generally have a greater potential for loss than most bonds and fixed income investments, they also have a greater potential for gain over the long term. As a long-term investor, it\u2019s important to develop a clear understanding of your goals, risk appetite, and time horizon. One of the best ways a financial representative can help you is to assist you in developing a clear-eyed evaluation of risk and an investment strategy to help you mitigate it while still pursuing your long-term financial goals. HOW DO I TAKE MY INVESTING TO THE NEXT LEVEL? Financial representatives aren\u2019t just for older, wealthier investors. They work with a variety of investors at all stages of life and can help you build a plan for the future. It\u2019s very common for investors to start out investing on their own and then turn to a financial advisor when they want access to sophisticated tools, professional advice, and help developing targeted financial g",
+      "headings": []
+    },
+    {
+      "rank": 12,
+      "domain": "youtube.com",
+      "url": "https://www.youtube.com/watch?v=EFiSch1Ykig",
+      "title": "How To Build a Financial Plan In Your 30's - YouTube",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 13,
+      "domain": "accuplan.net",
+      "url": "https://www.accuplan.net/blog/financial-planning-in-30s/",
+      "title": "Financial Planning for Your 30s - Accuplan Benefits Services",
+      "word_count": 2554,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.accuplan.net/wp-content/uploads/2022/09/00-financial-planning-for-your-30s.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.accuplan.net/wp-content/uploads/2022/09/01-financial-planning-for-your-30s-1024x410.jpg",
+          "alt": "Financial Planning for Your 30s",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.accuplan.net/wp-content/uploads/2024/11/01-financial-advice-for-30-year-olds-R01-683x1024.png",
+          "alt": "financial advice for 30 year olds",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.accuplan.net/wp-content/uploads/2024/11/02-when-you-set-out-to-start-building-1024x427.png",
+          "alt": "building wealth in your 30s",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.accuplan.net/wp-content/uploads/2024/11/03-creating-multiple-sources-1024x427.png",
+          "alt": "creating multiple sources of income",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.accuplan.net/wp-content/uploads/2024/11/04-debt-management-tips-1024x427.png",
+          "alt": "debt management tips",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.accuplan.net/wp-content/uploads/2024/11/05-asset-diversification-is-a-vital-part-1024x427.png",
+          "alt": "asset diversification",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.accuplan.net/wp-content/uploads/2022/09/05-learn-more-about-investment-options-with-a-self-directed-IRA-1024x427.jpg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "Many 20-somethings are graduating from college, entering the workforce for the first time and learning how to navigate the financial responsibilities of adult life. When it comes to building toward and meeting your financial goals, your 30s is a great time to get started. If you will soon be entering your 30s, now is the time to consider best practices of finances in your 30s. These include setting financial goals for your 30s, how to start saving for retirement at 30, how to build your wealth, how to invest and the best investments you can make in this decade of your life. Understanding Financial Goals in Your 30s It\u2019s crucial to have a clear understanding of your financial goals in your 30s, both in the short term and over the long haul. It starts with assessing where you currently stand and where you want to be in the future. You should recognize the importance of setting priorities for your money and creating a cushion for unplanned future expenses. Whatever your goals are, ensure they are SMART: Specific: Specify how much you want to save and what you are saving it for. Measurable: Ensure you can track your goals\u2019 progress toward your goals, like saying you want to save $500 toward your emergency fund. Achievable: Set goals that align with your current financial situation, considering your income, expenses and other obligations. Relevant: Align your goals with your life plans. If early retirement is a priority, ensure your budget focuses on these savings. Time-bound: Set deadlines for yourself. For example, you might aim to pay off your credit card debt within 24 months. Financial Advice for 30-Year-Olds The first step of financial planning for your 30s is determining your financial goals and building good habits, like managing your debts and saving consistently. 1. Increase Your Emergency Fund In your 20s, you may have saved a small emergency fund. Now is the time to increase this fund. In your 30s, your income and expenses tend to increase, so your emergency fund should also increase. Aim to set aside three to six months of your living expenses that will act as a buffer for unexpected expenses or a loss of income. You can use these funds to pay your bills if you face an unexpected job loss or a medical emergency. Move your emergency fund to a high-interest savings account to earn the most on your money. If you can get a raise, this can help you increase your emergency fund savings more quickly. 2. Make Advancements in Your Career Your 20s are typically spent developing your marketable skills. You may have gotten a degree, entered a new field or considered a few different career paths. No matter your path, you\u2019ve likely developed skills during this time that you can use to advance your career and increase your earnings. Research possible career paths you can take with your skills, and find the types of jobs you\u2019re interested in. If you are already working in your ideal field, consider how you can advance your career or get a promotion. This could involve searching for new opportunities, taking on new responsibilities, or relocating. Making big career moves now could pay off down the road. 3. Improve Your Credit Check your credit and determine whether your score could be improved. You can request a free credit report from the major credit bureaus each year, and you may be able to monitor your credit score through your credit card provider or financial institution. Reviewing your credit report regularly lets you quickly identify and fix any errors or catch an identity thief. Along with disputing errors on your credit report, you may be able to improve your credit score by ensuring you make each of your payments on time, pay off your credit card balance in full each month and maintain a variety of accounts, such as credit cards and loans. 4. Save for a Home A home can be one of the best assets to buy in your 30s. In some markets, it can be more advantageous and even more affordable to buy a home rather than rent. When you purchase a property, you begin building equity in your home as soon as you start making your monthly mortgage payments or when you put cash down on your home upfront. This may be a better financial move than losing money to rent each month with nothing to show for it at the end of your lease. To maximize the appreciation of your home, move to a neighborhood with high potential for growth. To put yourself in the best possible financial position, you may want to first save up a down payment on your home. To avoid private mortgage insurance (PMI), you may want to save as much as 20% of your home\u2019s value. For example, if the maximum you want to spend on a home is $200,000, the ideal down payment would be $40,000. Saving up for a down payment could take some time, so begin saving as soon as possible. Keep in mind that you will also need to cover closing costs and may need savings for repairs or renovations, so you may want to save extra on top of your down payment. 5. Write a Will Maybe it seems too early to worry about writing a will, but if you are married or have kids, be sure to write a will. Without a will, others can determine how your estate should be split. You may be able to complete your will yourself, or if your circumstances are more complicated, you may prefer to work with a lawyer who can draw up a will for you. When major life changes occur, remember to update your will accordingly. Financial Planning in Your 30s Create a roadmap for your money that balances your immediate needs with your future goals. Your 30s are a time during which you want to start building good credit and investing to grow your wealth. Budgeting Tips Start by listing all of your income and expenses, allocating money to essential categories like transportation, debt payments, groceries and housing. Use the 50/30/20 rule , which sets aside 50% of your income for needs, 30% for wants and 20% for your savings or debt repayment. Stay within your budget by tracking your spending. You can use apps, spreadsheets or a journal to identify where your money is going and where you may be overspending. Automate your savings and investments, making this a non-negotiable expense in your budget. Financial Goal Setting Be specific with your goals. Clearly define what you want to accomplish, whether it\u2019s paying off debt, building an emergency fund or planning for your retirement. The more specific you are, the easier it is to track your progress. Break your goals into short-term, medium-term and long-term objectives. Start by building a small emergency fund while you work toward growing a sizeable retirement fund. Make them measurable by using numbers to track your progress. For example, if you have $3,000 in debt, set a monthly repayment target. Building Wealth in Your 30s When you set out to start building wealth in your 30s, start by laying a strong foundation for your long-term stability and success. This decade typically offers greater earning potential, so you can use that to start with the following: Create or adjust your budget: Your budget should include your income, expenses and goals, and you may need to make adjustments during big life changes, such as marriage or the birth of a child. For example, you may need to reduce your budget for eating out when you have a baby on the way. Take on risk: While you\u2019re young, taking on risk can be beneficial in the long term. You still have time to overcome short-term volatility in the market, and the risk could lead to a greater average return. With compound interest, this means you can invest less money and still hit the same savings goal as someone who invests more into lower-risk investments. Get started now: Start investing as early as possible. Compound interest will work in your favor the earlier you start investing for your financial future, so start today. How Can I Build Wealth in My 30s? You should take a strategic approach to building wealth. Spend less than you earn, follow your budget, and diversify your income streams. Relying on a single paycheck can be limiting, but creating multiple sources of income can speed up your savings and increase your financial stability. You can take on a side hustle like freelancing or turning a hobby into a profitable venture. You may also want to consider investments like real estate or stocks. By combining several approaches, you can create a robust financial strategy that supports both your current needs and positions you for sustained growth. Debt Management Tips Paying off your debts, especially your high-interest debt, can help you increase your savings for retirement, even at age 30. Key strategies for managing your debt include: Prioritize high-interest debt: Pay off high-interest debt first as these debts accumulate quickly, costing more over time. Clearing them frees up more of your income for savings or other financial goals. This is called the debt avalanche method. Consolidate your debt: If you have multiple high-interest loans, consolidate them into a single loan with a lower interest rate to simplify your payments. Build momentum: The debt snowball method pays off debts from the lowest balance to the highest. This allows you to achieve success early and build momentum toward paying off larger debts. Avoid new debt: Try to avoid taking on new debts unless it\u2019s essential or will generate long-term returns, like a home mortgage. Retirement Planning in Your 30s Another one of your financial goals at 30 should be starting to save for retirement if you haven\u2019t already started saving in your 20s. Even if you\u2019ve already started saving, now is the time to assess your strategy to ensure you can enjoy your retirement years. How to Save for Retirement at 30 Take advantage of the time you now have to grow your savings through consistent contributions and strategic investments. Start by assessing how much you need in retirement and setting a monthly savings goal to reach that amount. The best retirement plans for 30-year-olds are tax-advantaged retirement accounts, like an IRA or 401(k). Take advantage of employer matching programs to maximize your savings. You can also focus on a diversified approach by allocating your funds to bonds, stocks and other assets to balance your growth potential with risk. As your income grows, increase your contributions to stay on track with your retirement goals. Review and adjust this strategy to stay aligned with fluctuating market conditions and your changing needs. Starting as early as possible lets your investments have more time to benefit from compound growth, which will significantly impact building a comfortable retirement fund. How Much Should I Be Saving for Retirement in My 30s? A general best practice is to put a minimum of 10% to 15% of your gross income toward retirement in your 30s. In your 20s, you may have been contributing only to a 401(k) to earn your employer\u2019s percentage match or according to the percentage of your plan\u2019s auto-enrollment policy. If you didn\u2019t have a 401(k) in your 20s or employer matching, you may have saved sporadically whenever you had some extra money at the end of the month. If you saved anything for retirement in your 20s, you may already be ahead of the curve. But if not, it\u2019s not too late to start. A good starting point for your retirement savings may be 15% of your gross income, but more is always better. Remember that you can also count your employer\u2019s contribution. If you want to save 15% of your gross income and your employer contributes 3%, you only need to save the remaining 12% yourself. How Much Retirement Savings Should I Have at 30? To make sure you\u2019re on track, you may want to know how much retirement savings is ideal to have at 30. While there is no one-size-fits-all answer, a common rule of thumb is to have the equivalent of your annual salary saved for retirement. If you make $40,000 a year, for example, this means you should ideally have $40,000 saved for retirement by age 30. If you\u2019re wondering how much should be in your 401(k) at 30, the answer is the same unless you have opened separate retirement accounts like an IRA. How Much Does the Average 30-Year-Old Have Saved? In some cases, knowing how you compare financially to other Americans your age can be helpful. While the average savings for 30-year-olds is roughly $20,540 , the median is just $5,400. To determine what you should have saved, you need to consider your income, expenses and the lifestyle you want to fund during your retirement. Investment Strategies for 30-Somethings The best way to invest in your 30s is to diversify your investments. Once your finances are in place, such as your emergency fund, you can begin taking on more risk and growing your portfolio. You can invest in stocks, mutual funds, exchange-traded funds (ETFs) and alternative investments. In your 30s, you can afford to invest more in stocks and take on more risk because you have time to recuperate any losses and potentially get higher long-term gains. How to Invest in Your 30s Steps to consider taking when investing in your 30s include: Contribute to your 401(k): Many Americans begin contributing to their retirement savings by age 30 via an employer-sponsored 401(k). These retirement plans have high contribution limits and involve contributions that are pre-tax. Some employers will match a certain percentage, which is essentially free money to boost your retirement nest egg. Diversify: Individual asset classes may experience downturns, but when you are invested in multiple asset classes, you are less likely to experience a decline in your entire portfolio. By diversifying, you can mitigate risk and protect your investments from potentially significant losses. Open a self-directed IRA: This individual retirement account gives you the ability to invest in alternative assets beyond the typical investment types like stocks and bonds. When you can invest in alternative assets, you can better diversify your portfolio and receive similar tax advantages that you would get from a conventional IRA, including funds that grow tax-exempt or tax-deferred. To open a self-directed IRA, simply complete an application with Accuplan , fund your account and begin investing. Best Investments to Make in Your 30s Once you know how to invest, you can determine which types of assets you want to invest in. Some of the most popular assets include: Stocks: Investing in stocks in your 30s is one of the best ways to get the greatest return on your investment. While stocks can be risky, when you diversify your portfolio by investing in different industries and companies, your growth rate has a greater chance of being positive over the course of the decades your money will be spent in the market. Bonds: Along with stocks, you may want to include bonds in your retirement portfolio. Bonds are less susceptible to price fluctuations and function similarly to loans to individual companies or the government with a fixed interest rate. Though the ",
+      "headings": []
+    },
+    {
+      "rank": 14,
+      "domain": "charles-stanley.co.uk",
+      "url": "https://www.charles-stanley.co.uk/insights/commentary/finance-goals-for-your-30s",
+      "title": "Five finance goals for your 30s | Charles Stanley",
+      "word_count": 43,
+      "scrape_status": "success",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": "Notice Charles Stanley is currently unavailable Reference Error: 18.a1cbd517.1777106270.4e26277d If you are seeing this message during business hours, the Helpdesk will be pleased to assist with queries whilst the website remains unavailable. Call us on 0131 550 1234 from 7.30am to 5pm, Monday\u00e2\u0080\u0093Friday.",
+      "headings": []
+    },
+    {
+      "rank": 15,
+      "domain": "youtube.com",
+      "url": "https://www.youtube.com/watch?v=WI68TXgLZC4",
+      "title": "9 Financial Goals to Achieve Before 30 - YouTube",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 16,
+      "domain": "oportun.com",
+      "url": "https://oportun.com/financial-education/financial-goals-for-your-30s-and-40s/",
+      "title": "Financial goals for your 30s and 40s - Oportun",
+      "word_count": 0,
+      "scrape_status": "failed",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 17,
+      "domain": "centier.com",
+      "url": "https://www.centier.com/resources/articles/article-details/financial-goals-for-your-30s--build-a-bright-financial-future",
+      "title": "Financial Goals for Your 30s Both Short and Long-Term - Centier Bank",
+      "word_count": 1063,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.centier.com/images/default-source/news/ceniter-bank-corp-centre-2.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.centier.com/images/default-source/blog/financial-goals-for-in-your-30s-1.jpg?sfvrsn=b5e42dfb_1",
+          "alt": "man on computer making financial goals",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.centier.com/images/default-source/blog/financial-goals-30s-2.jpg?sfvrsn=c959dd79_1",
+          "alt": "woman with a computer, calculator, and money creating financial goals",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.centier.com/images/default-source/blog/financial-goals-30s-2c54c987d-775c-47c5-a636-dc609b9c2836.jpg?sfvrsn=1f0a2669_1",
+          "alt": "woman with cash in hand",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 18,
+      "domain": "investingdiscoveries.blog",
+      "url": "https://investingdiscoveries.blog/2024/04/11/financial-goals-to-accomplish-by-age-30/",
+      "title": "Financial Goals to Accomplish by Age 30 - My Investing Discoveries",
+      "word_count": 1109,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://i0.wp.com/investingdiscoveries.blog/wp-content/uploads/2024/04/pexels-brongkie-brongkie-20768737-rotated.jpg?fit=1200%2C798&ssl=1",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://i0.wp.com/investingdiscoveries.blog/wp-content/uploads/2024/04/pexels-brongkie-brongkie-20768737-rotated.jpg?resize=825%2C510&ssl=1",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/ef9c039bea5f620a70d36f215ca68c111259702a08fbbfd961fc8d2191f95cac?s=56&d=identicon&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 19,
+      "domain": "takechargeamerica.org",
+      "url": "https://www.takechargeamerica.org/digest-financial-goals-one-decade-at-a-time/",
+      "title": "Financial Goals in your 30s, 40s and 50s - Take Charge America",
+      "word_count": 250,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.takechargeamerica.org/wp-content/uploads/2014/05/milestones.png",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.takechargeamerica.org/wp-content/uploads/2018/07/iStock-638093212-300x194.jpg",
+          "alt": "Learn How Debt Settlement Affects Your Credit Score",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.takechargeamerica.org/wp-content/uploads/2014/05/students1.jpg",
+          "alt": "How Do You Plan To Pay Off Your Student Loans?",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.takechargeamerica.org/wp-content/uploads/2018/02/iStock-682623220-300x200.jpg",
+          "alt": "5 Things Millennials Need to Ask Before Moving Away from Home",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.takechargeamerica.org/wp-content/themes/customtheme/images/footer-logos/fcaa-logo-1 1.png",
+          "alt": "Logo 1",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.takechargeamerica.org/wp-content/themes/customtheme/images/footer-logos/bbb-logo-1 1.png",
+          "alt": "Logo 2",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.takechargeamerica.org/wp-content/themes/customtheme/images/footer-logos/coa-logo-1 1.png",
+          "alt": "Logo 3",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.takechargeamerica.org/wp-content/themes/customtheme/images/footer-logos/www.takechargeamerica-1 1.png",
+          "alt": "Logo 4",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.takechargeamerica.org/wp-content/themes/customtheme/images/footer-logos/HUD_logo_276-1 1.png",
+          "alt": "Logo 5",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.takechargeamerica.org/wp-content/themes/customtheme/images/tca-icon.png",
+          "alt": "Chatbot Icon",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.takechargeamerica.org/wp-content/themes/customtheme/images/Tca-chatbot-logo.png",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.takechargeamerica.org/wp-content/uploads/2021/10/accessibility.png",
+          "alt": "Accessibility",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 20,
+      "domain": "oakwellpwm.com",
+      "url": "https://www.oakwellpwm.com/blog/financial-planning-your-30s-3-goal-ideas-30-somethings",
+      "title": "Financial Planning in Your 30s: 3 Goal Ideas for 30-Somethings",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.oakwellpwm.com/sites/audreywestfall.us1.advisor.ws/files/images/financial-planning-in-30s-3-goals.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.oakwellpwm.com/sites/audreywestfall.us1.advisor.ws/files/styles/max_325x325/public/images/financial-planning-in-30s-3-goals.jpg?itok=Z1yu0fVC",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    }
+  ],
+  "battle_plan_generated_at": "2026-04-26T10:43:32.386820+00:00",
+  "competitors_analyzed_count": 7,
+  "battle_plan_method": "local_deterministic_agent_no_api"
+}

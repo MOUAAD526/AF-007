@@ -1,0 +1,1064 @@
+{
+  "article_context": {
+    "angle": "Getting started with manual tracking and budgeting to see where money goes",
+    "pain_points": [
+      "Feeling broke despite having a decent income and tracking expenses",
+      "Helplessness and confusion about where money disappears",
+      "Fear and avoidance of confronting actual spending habits",
+      "Emergency expenses or life events wiping out savings progress",
+      "Comparing savings amounts to age benchmarks and feeling inadequate",
+      "Difficulty saving money due to psychological spending habits"
+    ],
+    "top_social_questions": [
+      "How much should a person have saved by a certain age (like mid-30s)?",
+      "How to track spending effectively and efficiently?",
+      "What's a realistic budget for groceries and other expenses?"
+    ],
+    "dominant_emotion": "Fear/Anxiety about confronting spending habits",
+    "serp_intent": "The primary keyword searcher is typically a beginner or budget-conscious individual seeking to understand the minimum initial deposit or balance required to establish a basic savings account at a bank or credit union, often to build emergency funds or start saving habits. The SERP intent mixes informational guides on account basics with commercial comparisons of banks' minimum requirements, fees, and easy-open options like online accounts with no minimums.",
+    "serp_title_pool": {
+      "primary": [
+        "Typical Minimum Balances to Open a Savings Account - NerdWallet",
+        "How much to keep in regular checking/savings? : r/personalfinance",
+        "Open a savings account | U.S. Bank",
+        "How Much Do You Need to Open a Savings Account? - Experian",
+        "Open a Bank of America Advantage Savings Account Online",
+        "How Much Should I Have in Savings? - Hancock Whitney Bank",
+        "Open a Savings Account Online | Wells Fargo",
+        "Simple Savings Calculator | Bankrate",
+        "What is the typical minimum balance required for traditional savings ...",
+        "How Much Savings Should I Have for My Age?",
+        "How Much Should You Put Into Your Savings Account? Here's One ...",
+        "Chase Savings   Account",
+        "How Much Money Should You Have in Savings?",
+        "What is a savings account, and how does it work? - Citizens Bank",
+        "Best High-Yield Savings Accounts of April 2026: Earn up to 5.00%",
+        "Compare Checking and Savings Accounts Online - Capital One",
+        "American Express\u00ae Online Savings Account - Official Website",
+        "How Much Should You Have in Your Savings Account? - Citi.com",
+        "How much money would I need to make a paid savings account ..."
+      ],
+      "long_tail": [
+        "What Is a Money Market Account?",
+        "How Do Money Market Accounts Work?",
+        "Money Market Account - Open Online | U.S. Bank Elite ...",
+        "Key Select Money Market Savings Account",
+        "Money Market Account Vs. High-Yield Savings Account",
+        "Money Market Account: View Rates & Features - Bank",
+        "Why does a Money Market Account Have a Minimum ...",
+        "Money Market Accounts: No Minimum Balance Requirement",
+        "Money Market Share Account",
+        "What Is a Money Market Account and Its Benefits?"
+      ],
+      "question": [
+        "Open a Savings Account Online | Wells Fargo",
+        "Open a Bank of America Advantage Savings Account Online",
+        "How to Open a Savings Account in 8 Simple Steps | TD Bank",
+        "How to open a savings account: 5 steps to take - Bankrate",
+        "Financial literacy: how do I start a savings account? - Reddit",
+        "5 Simple Steps to Start Saving | Fulton Bank",
+        "Finances 101: Tips for Opening a Savings Account - Quicken",
+        "Open a Savings Account Online - Citizens Bank",
+        "5 steps for how to open a savings account online | Discover",
+        "Open a savings account | U.S. Bank"
+      ]
+    },
+    "paa_questions": [
+      {
+        "q": "Does Thrivent have a savings account?",
+        "a": "We offer Thrivent Money\u2122 with both spending and saving features, smart tools to track your budget and cash flow, and the ability to see your credit score. Thrivent Money has no minimum balance required or monthly account fees, no overdraft fees and we reimburse your ATM fees."
+      },
+      {
+        "q": "Can I open a bank account for my child HSBC?",
+        "a": "If you're a personal HSBC customer, you can open a child's bank account online. You'll need proof of their identity. Make sure your contact details in online banking are up to date. If you're not a personal HSBC customer but your child would like to open an account with us, you'll need to visit us in a branch."
+      }
+    ],
+    "related_searches": [
+      "What do you need to open a savings account if you are under 18",
+      "How much money do i need to open a savings account online",
+      "How much money do you need to open a bank account at Bank of America",
+      "How to open a savings account online",
+      "What is the minimum balance for a savings account at Bank of America",
+      "Can you open a savings account online Bank of America",
+      "Open savings account Bank of America",
+      "Bank of America savings account"
+    ]
+  },
+  "primary_keyword": "how much money do i need to open a savings account",
+  "competitors": [
+    {
+      "rank": 1,
+      "domain": "nerdwallet.com",
+      "url": "https://www.nerdwallet.com/banking/learn/typical-minimum-balances-to-open-a-savings-account",
+      "title": "Typical Minimum Balances to Open a Savings Account - NerdWallet",
+      "word_count": 0,
+      "scrape_status": "failed",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 2,
+      "domain": "reddit.com",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1j6hntk/how_much_to_keep_in_regular_checkingsavings/",
+      "title": "How much to keep in regular checking/savings? : r/personalfinance",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 3,
+      "domain": "usbank.com",
+      "url": "https://www.usbank.com/bank-accounts/savings-accounts.html",
+      "title": "Open a savings account | U.S. Bank",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.usbank.com/dam/en/images/photos/personal-banking/photo-emma-banner-img-2-441x455.png",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 4,
+      "domain": "experian.com",
+      "url": "https://www.experian.com/blogs/ask-experian/how-much-money-do-you-need-to-open-savings-account/",
+      "title": "How Much Do You Need to Open a Savings Account? - Experian",
+      "word_count": 999,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.experian.com/blogs/ask-experian/wp-content/uploads/father-helping-son-open-savings-account.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.experian.com/static/blog/profiles-byline/taylor-medine.webp",
+          "alt": "Taylor Medine profile image",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.experian.com/static/shared/icons/icon-light-bulb.svg",
+          "alt": "Light bulb icon.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.experian.com/blogs/ask-experian/wp-content/uploads/father-helping-son-open-savings-account.jpg.webp",
+          "alt": "Father helping son count money to open a savings account.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.experian.com/static/shared/icons/icon-piggy-bank.svg",
+          "alt": "Promo icon.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "Quick Answer How much money you need to open a savings account comes down to the requirements of the bank you\u00e2\u0080\u0099re considering. The minimum deposit needed to open a savings account can vary. Many accounts require no deposit, while others may require $25 to $100 or higher in some cases. A savings account is a secure type of bank account you can use to stash away money for a rainy day or other financial goals, like saving for a vacation. Depending on the financial institution, you may need at least $25 to open a savings account; however, some banks let you open an account with $0. Read on to learn more about initial deposit requirements for savings accounts and other requirements financial institutions may have for opening an account. How Much Do I Need to Start a Savings Account? How much you need to open a bank account can vary depending on the type of account you're opening. Here's a rundown on what you might need for different account types: Brick-and-mortar accounts : Savings accounts at traditional banks with branches may require deposits of $25 to $100 to open a bank account. Online accounts : Many online-only savings accounts let you open an account with $0, so you can start saving from scratch. High-yield savings accounts : You can find many savings accounts with higher-than-average yields online, and they often have no minimum deposit requirement either. However, some accounts require a $100 minimum deposit. Tiered accounts : Savings accounts that offer an increasing annual percentage yield (APY) as your balance grows could require a higher initial deposit, such as several thousand dollars. Certificate of deposit (CD) accounts : Minimum deposits required for CD accounts can range from $0 to $1,000 or more. However, you usually only get one opportunity to make a deposit into the CD unless you get an add-on CD. Depositing as much as you can upfront means you'll earn more interest over the CD term. Earn Money Faster Compare high-yield savings accounts Find a high-yield savings account with today\u00e2\u0080\u0099s APY. Compare current APY and offers to find the best savings account for you. What Else Do You Need to Open a Savings Account? While the initial deposit needed can vary, other information required to open an account is similar across the board. Financial institutions will likely ask for your address and Social Security number (SSN) or tax identification number during the application process. You may also need to provide a government ID number to verify your identity. If you have some money to deposit into the account, you may be instructed to fund your account by connecting an external bank account , sending a check, scheduling a wire transfer or doing a mobile check deposit. How to Find a Savings Account With No Minimum Deposit Many online-only savings accounts require no minimum deposit, and you can search for \"savings accounts with no minimum deposit\" in a web browser to find them. For example, Ally Bank, Barclays, Capital One and Marcus by Goldman Sachs all offer online accounts with high APYs and no minimum deposit. However, the benefit of depositing at least some money into the account is that you can start earning interest right away. Before going with an online account, consider that you don't get access to in-person customer service. This might not be a problem if you usually manage money remotely, but online banking might not fit your lifestyle if you're used to going to a location to handle banking tasks. Some traditional banks, like TD Bank, also have no minimum deposit requirement to open a savings account. Expanding your search to local banks could help you find an account with no minimum balance if you want the option to visit locations. How to Open a Savings Account With so many options, choosing the right savings account can be a challenge. Below are some steps that can help you select the right account for your cash: Check your budget . Review your checking account balance and income to determine how much you have available to open a savings account if a deposit is required. Compare rates and benefits. Compare APYs across different savings accounts and look for account features, like budgeting tools and automated savings tools. Access to savings tools and an app to manage your money could make one savings account better than another if all else is equal. Review fees. Savings accounts may have monthly fees if you don't maintain a balance or have a certain amount deposited each month. Check what the fees are and review the conditions to have fees waived. For example, the Experian Smart Money\u00e2\u0084\u00a2 Digital Savings Account, available with your free or paid Experian membership, offers a competitive APY with no monthly fees \u00c2\u00b6 , minimum balance or direct deposit requirements. See terms at experian.com/legal . Complete the application. Applications for most savings accounts can be completed online, even for accounts of financial institutions with physical locations. Review application requirements so you can have the documents you need on hand to apply. The Bottom Line Not having a large sum of money doesn't mean you can't open a savings account. In many cases, savings accounts have no deposit requirement, and those that do may require just $25 to $100. Shopping around and comparing accounts can help you find one with application conditions you can meet. And setting up automated transfers of even small amounts from a checking account to savings account each month can help you grow your balance. Earn more with a high-yield savings account Make your money work harder with a high-yield savings account\u00e2\u0080\u0094earn higher returns with easy access to your funds. About the author Taylor Medine is a personal finance writer who has covered money topics for various media outlets over the past seven years. Her work has been published on USA Today, Business Insider, MSN, Yahoo! and more. Explore more topics Certificate of deposit (CD) Checking account Money market Personal finance Share article",
+      "headings": []
+    },
+    {
+      "rank": 5,
+      "domain": "bankofamerica.com",
+      "url": "https://www.bankofamerica.com/deposits/savings/savings-accounts/",
+      "title": "Open a Bank of America Advantage Savings Account Online",
+      "word_count": 1252,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/Logos/en_US/logos/colored_flagscape-v2.png",
+        "alt": "Open a Bank of America Advantage Savings Account Online",
+        "description": "High-quality corporate stock photo of smiling diverse people or modern home interiors.",
+        "type": "corporate_stock_people"
+      },
+      "article_images": [
+        {
+          "url": "https://www1.bac-assets.com/deposits/spa-assets/images/assets-images-global-connect-with-us-icon-calendar-black-CSX14dc7e2f.svg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www1.bac-assets.com/deposits/spa-assets/images/assets-images-global-connect-with-us-icon-contact-black-CSXcce2d264.svg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "if(self==top){var theBody=document.getElementsByTagName(\"body\")[0];theBody.style.visibility=\"visible\"}else top.location=\"\" body{visibility:visible} to main content { \"@context\": \"https://schema.org\", \"@type\": \"Corporation\", \"name\": \"Bank of America\", \"url\": \"https://www.bankofamerica.com/\", \"logo\": \" } { \"@context\": \"https://schema.org\", \"@type\": \"Organization\", \"name\": \"Bank of America\", \"url\": \"https://www.bankofamerica.com/\", \"logo\": \" } { \"@context\": \"https://schema.org\", \"@type\": \"WebPage\", \"name\": \"Open a Bank of America Advantage Savings Account Online\", \"description\": \"Enjoy the benefits of a savings account to help meet your financial goals. Open a Bank of America Advantage Savings account online today.\", \"keywords\": \"saving account,open a savings account,open savings account,open savings account online,wfid24580302\", \"url\": \"https://www.bankofamerica.com/deposits/savings/savings-accounts/\", \"image\": \" } Information for: ZIP code * Go Please select your county Select a county * Select Go Enter your zip code Please enter the zip code for your home address so we can give you accurate rate and fee information for your location. ZIP code * Check accurate rate and fee Go Connect with us Schedule an appointment Phone number: 800-432-1000 window.sparta=window.sparta||{},window.sparta.minify=!1,window.sparta.env=\"prod1_h_w\",window.sparta.language=\"en\",function(e){if(!e.spaParams)e.spaParams={};e.spaParams.siteName=\"deposits\",e.spaParams.global={es:{globalText:{copy:\" \",year:\"2026\",boaCorp:\"Bank of America Corporation.\",allRightsReserved:\"Todos los derechos reservados.\"},footnote:{adaText:\"Nota al pie\"},globalJs:{closeADALabel:\"x: \",closeText:\"cerrar\",closeLayerADAText:\"Di logo\",closeModalADAText:\"Di logo\",closeMessageADAText:\"Mensaje\",openText:\"abrir\",show:\"mostrar\",hide:\"ocultar\",continueText:\"Continuar\",cancel:\"Cancelar\",carouselItem:\"Elemento\",carouselItemOf:\"de\",disabledText:\"Desactivado\",optionalText:\"opcional\",layerStart:\"Inicio del contenido del di logo\",layerEnd:\"Fin del contenido del di logo\"},sprites:{message:\"/deposits/spa-assets/images/assets-images-global-icons-msg-icon-sprite-fsd-CSX34039d09.png\"},layers:{defaults:{header:\"Va a dejar nuestro sitio de web\",body:\" Va a entrar a un sitio web cuya propiedad u operaci n no pertenecen a Bank of America o Merrill. Ese sitio web es el nico responsable de su contenido, las ofertas, la disponibilidad, los puntos de vista, los productos o servicios ofrecidos y el nivel de seguridad. Para obtener m s informaci n, debe consultar la pol tica de privacidad y los t rminos de uso publicados en el sitio. Es posible que la informaci n proporcionada en el sitio web est disponible solo en ingl s. \"},modalHeadern no pertenecen a Bank of America o Merrill. Ese sitio web es el nico responsable de su contenido, las ofertas, la disponibilidad, los puntos de vista, los productos o servicios ofrecidos y el nivel de seguridad. Para obtener m s informaci n, debe consultar la pol tica de privacidad y los t rminos de uso publicados en el sitio. Es posible que la informaci n proporcionada en el sitio web est disponible solo en ingl s. \",btnText1:\"Continuar\",btnText2:{edge:\"Cancelar\",enterprise:\"Cancelar\",\"co-brand\":\"Cancelar\",default:\"Cancelar\"},modalHeaderBg:{edge:\"/deposits/spa-assets/images/assets-images-global-logos-interstitial_flagscape_me-CSXb53cb424.svg\",enterprise:\"/deposits/spa-assets/images/assets-images-global-logos-interstitial_flagscape_enterprise-CSX80c69fda.svg\",\"enterprise-two\":\"/deposits/spa-assets/images/assets-images-global-logos-interstitial_flagscape_enterprise2-CSX9fa01af2.svg\",\"co-brand\":\"/deposits/spa-assets/images/assets-images-global-logos-interstitial_flagscape_bank-CSXc6912ac.svg\",\"small-biz\":\"/deposits/spa-assets/images/assets-images-global-logos-interstitial_flagscape_small_biz-CSX2836a386.svg\",default:\"/deposits/spa-assets/images/assets-images-global-logos-interstitial_flagscape_bank-CSXc6912ac.svg\"}},\"language-change\":{header:\"Va a ir a una p gina que podr a estar en ingl s\",body:\" Es posible que el contenido, las solicitudes y los documentos asociados con los productos y servicios espec ficos en esa p gina est n disponibles solo en ingl s. Antes de escoger un producto o servicio, aseg rese de haber le do y entendido todos los t rminos y condiciones provistos. \",btnText1:\"Continuar\",btnText2:{edge:\"Cancelar\",enterprise:\"Cancelar\",\"co-brand\":\"Cancelar\",default:\"Cancelar\"},modalHeaderBg:{edge:\"/deposits/spa-assets/images/assets-images-global-logos-interstitial_flagscape_me-CSXb53cb424.svg\",enterprise:\"/deposits/spa-assets/images/assets-images-global-logos-interstitial_flagscape_enterprise-CSX80c69fda.svg\",\"enterprise-two\":\"/deposits/spa-assets/images/assets-images-global-logos-interstitial_flagscape_enterprise2-CSX9fa01af2.svg\",\"co-brand\":\"/deposits/spa-assets/images/assets-images-global-logos-interstitial_flagscape_bank-CSXc6912ac.svg\",\"small-biz\":\"/deposits/spa-assets/images/assets-images-global-logos-interstitial_flagscape_small_biz-CSX2836a386.svg\",default:\"/deposits/spa-assets/images/assets-images-global-logos-interstitial_flagscape_bank-CSXc6912ac.svg\"}},\"leaving-and-language\":{header:\"Va a dejar nuestro sitio de web\",body:\" Va a entrar a un sitio web cuya propiedad u operaci n no pertenecen a Bank of America o Merrill. Ese sitio web es el nico responsable de su contenido, las ofertas, la disponibilidad, los puntos de vista, los productos o servicios ofrecidos y el nivel de seguridad. Para obtener m s informaci n, debe consultar la pol tica de privacidad y los t rminos de uso publicados en el sitio. Es posible que la informaci n proporcionada en el sitio web est disponible solo en ingl s. \",btnText1:\"Continuar\",btnText2:{edge:\"Cancelar\",enterprise:\"Cancelar\",\"co-brand\":\"Cancelar\",default:\"Cancelar\"},modalHeaderBg:{edge:\"/deposits/spa-assets/images/assets-images-global-logos-interstitial_flagscape_me-CSXb53cb424.svg\",enterprise:\"/deposits/spa-assets/images/assets-images-global-logos-interstitial_flagscape_enterprise-CSX80c69fda.svg\",\"enterprise-two\":\"/deposits/spa-assets/images/assets-images-global-logos-interstitial_flagscape_enterprise2-CSX9fa01af2.svg\",\"co-brand\":\"/deposits/spa-assets/images/assets-images-global-logos-interstitial_flagscape_bank-CSXc6912ac.svg\",\"small-biz\":\"/deposits/spa-assets/images/assets-images-global-logos-interstitial_flagscape_small_biz-CSX2836a386.svg\",default:\"/deposits/spa-assets/images/assets-images-global-logos-interstitial_flagscape_bank-CSXc6912ac.svg\"}}},bankHolidays:[\"01/01/2020\",\"01/20/2020\",\"02/17/2020\",\"05/25/2020\",\"09/07/2020\",\"10/12/2020\",\"11/11/2020\",\"11/26/2020\",\"12/25/2020\",\"01/01/2021\",\"01/18/2021\",\"02/15/2021\",\"05/31/2021\",\"07/05/2021\",\"09/06/2021\",\"10/11/2021\",\"11/11/2021\",\"11/25/2021\",\"12/25/2021\",\"01/01/2022\",\"01/17/2022\",\"02/21/2022\",\"05/30/2022\",\"06/20/2022\",\"07/04/2022\",\"09/05/2022\",\"10/10/2022\",\"11/11/2022\",\"11/24/2022\",\"12/25/2022\",\"01/02/2023\",\"01/16/2023\",\"02/20/2023\",\"05/29/2023\",\"06/19/2023\",\"07/04/2023\",\"09/04/2023\",\"10/09/2023\",\"11/11/2023\",\"11/23/2023\",\"12/25/2023\",\"01/01/2024\",\"01/15/2024\",\"02/19/2024\",\"05/27/2024\",\"06/19/2024\",\"07/04/2024\",\"09/02/2024\",\"10/14/2024\",\"11/11/2024\",\"11/28/2024\",\"12/25/2024\",\"01/01/2025\",\"01/20/2025\",\"02/17/2025\",\"05/26/2025\",\"06/19/2025\",\"07/04/2025\",\"09/01/2025\",\"10/13/2025\",\"11/11/2025\",\"11/27/2025\",\"12/25/2025\",\"01/01/2026\",\"01/19/2026\",\"02/16/2026\",\"05/25/2026\",\"06/19/2026\",\"07/04/2026\",\"09/07/2026\",\"10/12/2026\",\"11/11/2026\",\"11/26/2026\",\"12/25/2026\",\"01/01/2027\",\"01/18/2027\",\"02/15/2027\",\"05/31/2027\",\"06/19/2027\",\"07/05/2027\",\"09/06/2027\",\"10/11/2027\",\"11/11/2027\",\"11/25/2027\",\"12/25/2027\"],validationErrors:{validationErrorTitle:\"[errorMessages.length] art culos que requieren de su atenci n\",validationSingleErrorTitle:\"1 detalle requieren de su atenci n\",alphaOnly:\"Indique solo letras.\",numberOnly:\"Indique solo n meros.\",noNumbers:\"No indique n meros.\",alphaNumeric:\"Indique solo letras y n meros.\",nameCharacters:{allowSpecialChars:\"Indique solo letras, espacios, ap strofos ('), puntos (.) y guiones (-).\",noSpecialChars:\"Indique solo letras y espacios.\"},mailingAddress:\"Indique una direcci n de correo v lida. (No apartados de correos)\",streetAddress:\"Comience con una letra o n mero y siga solo con letras, n meros, espacios, guiones (-), barras oblicuas (/), puntos (.) y signos de n mero o almohadilla (#).\",cityCounty:\"Comience con una letra y siga solo con letras, espacios y guiones (-).\",cityCanada:\"Comience con una letra y siga solo con letras, espacios, puntos (.), comas (,), ap strofos (') y guiones (-).\",stateCode:\"Indique solo letras.\",intlStreetAddress:\"Indique solo letras, n meros, espacios, guiones (-), barras oblicuas (/), puntos (.), comas (,), ap strofos (') y signos de n mero o almohadilla (#).\",unitNumber:\"Indique solo letras, n meros, espacios, guiones (-), puntos (.), ap strofos (') y signos de n mero o almohadilla (#).\",phone:\"Indique exactamente 10 d gitos.\",email:\"Indique solo letras, n meros, puntos (.), guiones bajos (_) y guiones (-) con el formato xxx@xxx.xxx.\",phoneOrEmail:\"Indique un n mero de tel fono de 10 d gitos o una direcci n de correo electr nico usando solo letras, n meros, puntos (.), guiones bajos (_) y guiones (-) con el formato xxx@xxx.xxx.\",zip:\"Indique el c digo postal de 5 o 9 d gitos con el formato ##### o #####-####.\",ssn:\"Indique exactamente 9 d gitos.\",ein:\"Indique exactamente 9 d gitos.\",idCharacters:\"Indique solo letras, n meros y asteriscos (*).\",numericValue:\"Indique solo n meros con un m ximo de $0 decimales.\",integer:\"Indique n meros completos solamente (sin decimales).\",currency:\"Indique solo n meros y una cifra decimal.\",dateFormat:{fullDate:\"Indique un mes, d a y a o v lidos separados por caracteres que no sean num ricos (MM/DD/AAAA).\",monthYearDate:\"Indique un mes y a o v lidos separados por caracteres que no sean num ricos (MM/AAAA).\"},startDate:\"Indique una fecha que sea el, o despu s del $0.\",endDate:\"Indique una fecha que sea el, o antes del $0.\",isWeekday:\"Indique un d a de la semana (de lunes a viernes).\",dateRange:\"Indique una fecha entre el $0 y el $1.\",minLength:\"Indique al menos $0 caracteres.\",maxLength:\"Indique no m s de $0 caracteres.\",lengthRange:\"Indique entre $0 y $1 caracteres.\",minValue:\"Indique un valor num rico de $0 o m s.\",maxValue:\"Indique un valor num rico de $0 o menos.\",valueRange:\"Indique un valor num rico entre $0 y $1. \",multipleOf:\"Indique un m ltiplo de $0.\",maxRepeatedChar:\"$0 est repetido demasiado. Indique un valor diferente.\",maxChecked:\"No seleccione m s de $0 opciones.\",isNotSingleRepeatingChar:\"$0 no es un valor v lido.\",sameAsField:\"Indique un valor que coincida con $0.\",notSameAsField:\"Indique un valor diferente de $0.\",isNotValue:\"Indique un valor $0 v lido.\",customPattern:\"Debe suministrar un mensaje personalizado al usar la regla 'customerPattern' \",customFunction:\"Debe suministrar un mensaje personalizado al usar la regla 'customFunction' \",required:\"Este campo es obligatorio.\",namePrefix:\"Indique solo letras.\",nameSuffix:\"Indique solo letras.\",nameGeneration:\"Indique solo letras.\",\"AML.firstName\":\"$0 no es un valor v lido.\",\"AML.middleName\":\"$0 no es un valor v lido.\",\"AML.lastName\":\"$0 no es un valor v lido.\",\"AML.namePrefix\":\"$0 no es un valor v lido.\",\"AML.nameSuffix\":\"$0 no es un valor v lido.\",\"AML.nameGeneration\":\"$0 no es un valor v lido.\",\"AML.businessName\":\"$0 no es un valor v lido.\",\"AML.addressLine1\":\"$0 no es un valor v lido.\",\"AML.addressLine2\":\"$0 no es un valor v lido.\",\"AML.cityCounty\":\"$0 no es un valor v lido.\",\"AML.stateCode\":\"$0 no es un valor v lido.\",\"AML.zipCode\":\"$0 no es un valor v lido.\",\"AML.countryCode\":\"$0 no es un valor v lido.\",\"AML.dateOfBirth\":\"$0 no es un valor v lido.\",\"AML.ssn\":\"Indique un valor de SSN v lido.\",\"AML.tin\":\"Indique un valor de TIN v lido.\",\"AML.itin\":\"Indique un valor de ITIN v lido.\",\"AML.ein\":\"Indique un valor de EIN v lido.\"},formErrorMessaging:{btnHideErrors:\"Ocultar errores adicionales\",btnShowErrors:\"Monstrar errores adicionales\"},inputs:{openHelp:\"Abrir informaci n para \",closeHelp:\"Cerrar informaci n para \",textareaCharRemaining:\"caracteres restantes.\",textareaLimitExceeded:\"L mite excedido.\",masking:{actions:{hide:\"Ocultar\",show:\"Mostrar\"},inactive:\"El valor de este campo estar oculto cuando no est activo\",instructions:{activate:\"este valor\",message:\"(el valor se ocultar de nuevo en 5 segundos)\"},securityText:\"Este valor se ha ocultado por motivos de seguridad\"},currency:{currencySymbolADAText:\"Indique la cantidad de [currencySymbol].\"},readonly:{maskedHintText:\"Select text to show [fieldLabel].\"}},inputCheckbox:{selectAll:\"Seleccionar todas\",unSelectAll:\"Anular la selecci n de todas\"},inputsCombobox:{inputLabel:\"Buscar\",ariaLabel:\"Buscar\",searchBtn:\"Buscar\",dataSearching:\"Buscando\",noDataErrorTitle:\"Buscando\",noDataError:\"No hay resultados o no podemos recuperar sus datos.\",controlReset:\"Restablecer\",controlToggleOpen:\"Alternar\",inputInvalid:\"Indique un valor v lido.\"},inputsToggleSwitch:{checkedLabel:\"Activada\",uncheckedLabel:\"Desactivada\"},structuredData:{corporation:{context:\"https://schema.org\",type:\"Corporation\",name:\"Bank of America\",url:\" of America\",url:\" role=\"img\" aria-hidden=\"true\" focusable=\"false\" viewBox=\"0 0 40 41\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"> ',error:' ',info:' ',success:' '},messageIconText:{warning:\"advertencia\",error:\"error\",info:\"info\",success:\"completado\"},accordions:{statusIconADAText:{error:\", contiene un mensaje de error\",warning:\", contiene un mensaje de advertencia\",success:\", contiene un mensaje de xito\"}},squeezeboxes:{statusIconADAText:{error:\", contiene un mensaje de error\",warning:\", contiene un mensaje de advertencia\",success:\", contiene un mensaje de xito\"},status:{complete:\"completo\",error:\"error\",incomplete:\"no completado\"},adaText:\"panels\"},showHideText:{collapseAll:\"Contraer todo\",expandAll:\"Expandir todo\"},arrowControl:{slideLeft:\"Deslizar a la izquierda\",slideRight:\"Deslizar a la derecha\"},tabNavigation:{dropdown:\"entrando a la capa del men desplegable\"},smallImage:\"/deposits/spa-assets/images/assets-images-global-small.png\",video:{play:\"Reproducir video\",replay:\"Repetir video\",pause:\"Pausar video\",rewind:\"Volver hacia atr s el video\",\"fast-forward\":\"Adelantar video\",captions:{enable:{titleAttr:\"Seleccione subt tulos\",ariaLabel:\"Activar subt tulos\",string:\"Presione 'enter' para activar subt tulos.\"},disable:{titleAttr:\"Seleccione subt tulos\",ariaLabel:\"Desactive subt tulos\",string:\"Presione 'enter' para desactivar subt tulos.\"}},fullscreen:{on:{titleAttr:\"Seleccione pantalla completa\",string:\"Presione 'enter' para activar el modo de pantalla completa\"},off:{titleAttr:\"Seleccione pantalla completa\",string:\"Presione 'enter' para salir del modo de pantalla completa\"}},transcript:{header:\"Transcripci n\",show:\"Ver transcripci n\",hide:\"Ocultar transcripci n\",collapsed:\"Transcripci n contra da\",expanded:\"Transcripci n expandida\"},\"time-elapsed\":\"00:00\",\"time-total\":\"00:00\",\"volume-up\":\"Subir volum",
+      "headings": []
+    },
+    {
+      "rank": 6,
+      "domain": "hancockwhitney.com",
+      "url": "https://www.hancockwhitney.com/insights/how-much-should-have-savings",
+      "title": "How Much Should I Have in Savings? - Hancock Whitney Bank",
+      "word_count": 1722,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.hancockwhitney.com/hubfs/2025%20Consumer%20Insights%20Blog/2025%20INSIGHTS%20REFRESH_SAVINGS/1129769_800x422_2025%20Q1%20Blog%20Insights%20Refresh_How%20Much%20in%20savings_FINAL.jpg",
+        "alt": "A retired couple enjoying their golden years after decades of careful saving.",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.hancockwhitney.com/hubfs/2024_Ultra/2024_Ultra_Icons/Icon-Facebook.svg",
+          "alt": "Share on Facebook",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.hancockwhitney.com/hubfs/2024_Ultra/2024_Ultra_UI_Icon/Icon-X.png",
+          "alt": "Share on X",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.hancockwhitney.com/hubfs/2024_Ultra/2024_Ultra_Icons/Icon-LinkedIn.svg",
+          "alt": "Share on LinkedIn",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.hancockwhitney.com/hubfs/2024_Ultra/2024_Ultra_Icons/Icon-Instagram.svg",
+          "alt": "Share on Instagram",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.hancockwhitney.com/hubfs/2024_Ultra/2024_Ultra_UI_Icon/Icon-Email-17x17.png",
+          "alt": "Share Email",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.hancockwhitney.com/hubfs/VIA%20Logos/HW_Logos_FINAL_One_Color.jpg",
+          "alt": "Hancock Whitney",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.hancockwhitney.com/hubfs/2024_Ultra/2024_Ultra_UI_Icon/Icon-ExternalLink-Small.svg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.hancockwhitney.com/hubfs/2025%20Consumer%20Insights%20Blog/2025%20INSIGHTS%20REFRESH_SAVINGS/1129769_800x422_2025%20Q1%20Blog%20Insights%20Refresh_High%20Yield%20Savings_FINAL.jpg",
+          "alt": "Pros and Cons of a High-Yield Savings Account",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.hancockwhitney.com/hubfs/2025%20Consumer%20Insights%20Blog/2025%20INSIGHTS%20REFRESH_COLLEGE/1129769_800x422_college_529%20College%20Savings_AS_554832500.jpg",
+          "alt": "What Is a 529 College Savings Plan?",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.hancockwhitney.com/hubfs/2025%20Consumer%20Insights%20Blog/2025%20INSIGHTS%20REFRESH_COLLEGE/1129769_800x422_college_Best%20Type%20Savings_AS_199161552.jpg",
+          "alt": "What\u2019s the Best Type of Account to Save for College?",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "Like most Americans, you likely wonder if the amount of money you have in savings is \u201cenough.\u201d After all, life has a way of throwing expensive curveballs at us in the form of surprise car repairs, necessary home improvements, and unexpected medical bills (just to name a few). On top of that, you likely have a number of both short- and long-term goals you\u2019d like to save for, such as vacations, college for your children, and your own eventual retirement. With all that in mind, it\u2019s normal to be anxious about how much you have in savings. Of course, everyone\u2019s lifestyle, financial situation, and goals are different, and this means that there\u2019s no one simple answer that works for everyone. However, you can use savings guidelines to set clear benchmarks for your financial goals. Meeting these targets can give you confidence that your savings are on track for the future and that you're ready for life's unexpected financial surprises. Three Types of Savings Goals A good rule of thumb is to break up your savings goals into the following three categories: Emergency fund Retirement savings Other short- and long-term savings It\u2019s also a good idea to use separate accounts for each of these three savings objectives. This is partially to keep them distinct from one another in your financial portfolio, but also because different types of accounts can be better suited to meeting these different savings goals. Additionally, as each savings goal has its own distinct benchmarks, you\u2019ll want to keep them separate so that you can accurately measure your progress toward hitting these important financial milestones. 1. Emergency Fund: How Much to Save? Building an emergency fund is likely the first savings goal you should work toward. An emergency fund is critical as it allows you to cover unexpected expenses without causing a shortfall in your monthly budget. For example, if you have a medical emergency or need to make a minor home repair, you can pay for it out of your emergency fund without having to short your bill payments or use a high-interest credit card. Similarly, if you were to lose your job, an emergency fund allows you to cover your expenses without going into debt while you seek new employment. But how much should you save in order to build an adequate emergency fund? For most families, the ideal emergency fund is large enough to cover at least three to six months' worth of necessary expenses 1 . To calculate this amount, simply review your spending for the last few months and total up your obligatory payments for things like groceries, utilities, housing, and minimum debt repayments\u2014things you must spend money on. Don\u2019t include discretionary spending for things such as hobbies, dining out, sporting events, movies, and the like. Once you know how much you spend on necessary expenses every month, you can determine a set amount to save for your emergency fund every month and make it part of your budget. After you have at least three to six months\u2019 worth of expenses saved, you can then take the amount you were putting toward your emergency fund every month and apply it toward one of your other savings goals. 2. Retirement Savings: Benchmarks by Age Group Retirement savings are a common source of anxiety for many people, as it can be very difficult to know how much money you\u2019ll need for your golden years. Most people want at least enough money to maintain their current standard of living, possibly with some extra room in the budget for more frequent vacations or recreational activities. It\u2019s also important to remember that as you age, your healthcare expenses are likely to increase, as well. Even with income from Social Security , most retirees find that maintaining their lifestyle requires having a decent amount put away in savings. But how can you know how much is enough? Establishing benchmarks for retirement savings begins with examining your current annual income. As a rule of thumb, you should aim to have at least 1x your annual income saved by the time you reach age 30. From there, the savings benchmark compounds according to the table below: Saved by Age 30 Saved by Age 40 Saved by Age 50 Saved by Age 60 1x Your Annual Salary 3x Your Annual Salary 5x Your Annual Salary 8x Your Annual Salary Don\u2019t beat yourself up if you\u2019ve already passed some of the ages in the table above without hitting the savings benchmarks. Taking action now and starting to save is better than not saving, and that\u2019s what\u2019s important. It may mean that you need to start saving more aggressively than you otherwise would have, but you now have the information you need to develop a retirement savings plan. It can also be a good idea to work with one of Hancock Whitney\u2019s trusted advisors to determine the best way to make up for lost time and get your retirement savings on track. 3. Other Short- and Long-Term Savings Goals The final savings category is the most optional and should be addressed once you\u2019ve determined how best to meet your emergency fund and retirement savings goals. This final category is for your other goals that will require saving money to achieve. This could be anything, and you might have multiple goals you hope to save for. Perhaps you want to take a European dream vacation, or maybe you just need to upgrade from your current aging computer. You might even have the long-term savings goal of building up a college education fund for your children. In the end, it boils down to the same thing: You have goals that you need to save money for. Obviously, this is a topic that varies wildly from person to person, making it impossible to assign a one-size-fits-all number or formula to it. Instead, you\u2019ll need to look at each goal individually and determine the best way to save. Determining how much to save each month is similar to the process used for developing an emergency fund. Simply determine how much your goal will cost, then decide how many months you\u2019re willing to spend saving. Divide the cost by the number of months, and you have the amount you need to save each month. Your Account Can Grow Your Savings Of course, there are different types of accounts you can use to achieve your savings goals. They all have their different pros and cons, and when used wisely, can accelerate how quickly you achieve your savings goals. Traditional savings accounts are what many people think of when it comes to saving with a bank account. You deposit money into the account, then it periodically earns interest that is added to the balance. These accounts usually have a modest interest rate that averages around 0.4 percent. High-yield savings accounts work similarly to traditional savings accounts but have a higher interest rate. These accounts usually have an average interest rate of around four percent 2 . Money market accounts work as a sort of combination checking and savings account. While you can write checks for a money market account, they often have a tiered interest-earning system, where the more money that is in the account, the higher the interest rate earned. Certificates of deposit let you make a deposit which then earns interest at a specified rate. However, the interest doesn\u2019t become available until the account reaches its \u201cmaturity date.\u201d The maturity date depends on the account and ranges from just a few months to five or more years from the account\u2019s opening date. Withdrawing funds before the maturity date can also result in penalties. Investment accounts allow you to invest your money in the stock market and earn returns in the form of dividends. These accounts typically offer faster potential growth than savings accounts, but they are higher risk as they are subject to market volatility and are not -insured. 401(k), 403(b), and Roth IRA accounts allow you to save for retirement using tax-advantaged investment strategies. These accounts are specific to retirement, so withdrawing funds early can result in penalties, but the potential rate of growth and money saved in taxes can easily make up for this. 529 and education savings accounts allow you to save for your children\u2019s higher education with tax-advantaged investment strategies. As these accounts are specific to education, non-qualified withdrawals are subject to penalties. Build Your Savings with a Trusted Bank At Hancock Whitney, we know how important it is to achieve your savings goals. Whether you\u2019re saving for retirement, building an emergency fund, or saving for another goal, you need the right financial tools to succeed. Our bankers can help you determine what type of account best meets your savings goals. To open an account, simply reach out to our bankers today or apply online . Get started saving money for your goals today. Explore more Insights Get financial insights delivered to your inbox to receive regular updates from our team of experts. Sources 1 \u201cEmergency Funds: The First Step to Financial Freedom.\u201d Office of Financial Readiness , https://finred.usalearning.gov/Trending/Blog/EmergencyFund . Accessed May 2, 2025. 2 \u201cBest High-Yield Savings Accounts of May 2025: Up to 4.66%.\u201d Nerdwallet , https://www.nerdwallet.com/best/banking/high-yield-online-savings-accounts . Accessed May 2, 2025. Disclosures The information, views, opinions, and positions expressed by the author(s), presenter(s), and/or presented in the article are those of the author or individual who made the statement and do not necessarily reflect the policies, views, opinions, and positions of Hancock Whitney Bank. Hancock Whitney makes no representations as to the accuracy, completeness, timeliness, suitability, or validity of any information presented. This information is general in nature and is provided for educational purposes only. Information provided and statements made should not be relied on or interpreted as accounting, financial planning, investment, legal, or tax advice. Hancock Whitney Bank encourages you to consult a professional for advice applicable to your specific situation. Hancock Whitney Bank offers investment products, which may include asset management accounts, as part of its Wealth Management Services. Hancock Whitney Bank is a wholly owned subsidiary of Hancock Whitney Corporation. Investment and Insurance Products: NO BANK GUARANTEE \u2502 NOT A DEPOSIT \u2502 MAY LOSE VALUE \u2502 NOT INSURED \u2502 NOT INSURED BY ANY FEDERAL GOVERNMENT AGENCY Hancock Whitney Bank, . All loans and accounts subject to credit approval. Terms and conditions apply.",
+      "headings": []
+    },
+    {
+      "rank": 7,
+      "domain": "wellsfargo.com",
+      "url": "https://www.wellsfargo.com/savings-cds/",
+      "title": "Open a Savings Account Online | Wells Fargo",
+      "word_count": 897,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www17.wellsfargomedia.com/assets/images/rwd/icons/tab-table-icons/savings-1-popular-pig-ON.png",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www17.wellsfargomedia.com/assets/images/rwd/icons/tab-table-icons/savings-1-popular-pig-OFF.png",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www17.wellsfargomedia.com/assets/images/rwd/icons/tab-table-icons/savings-2-rates-percent-ON.png",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www17.wellsfargomedia.com/assets/images/rwd/icons/tab-table-icons/savings-2-rates-percent-OFF.png",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www17.wellsfargomedia.com/assets/images/rwd/icons/tab-table-icons/savings-3-cds-sprout-ON.png",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www17.wellsfargomedia.com/assets/images/rwd/icons/tab-table-icons/savings-3-cds-sprout-OFF.png",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www17.wellsfargomedia.com/assets/images/contextual/responsive/tab-table-product/product-W2S-1400x170.png",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www17.wellsfargomedia.com/assets/images/contextual/responsive/tab-table-product/product-PLAT-1400x170.png",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www17.wellsfargomedia.com/assets/images/contextual/responsive/tab-table-product/tab-table-product-CDs_test-1400x170.png",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "Choose a savings account Way2Save \u00ae Savings Saving as you spend with Save As You Go \u00ae automatic transfers $5 How to avoid the fee each fee period Optional Overdraft Protection for your checking account Platinum Savings with the option to write checks $12 Avoid the fee with a $3,500 minimum daily balance each fee period Optional Overdraft Protection for your checking account Wells Fargo CDs An alternative way to grow your savings with higher interest rates Flexible term options from 3 months to a year or more No monthly service fee Not sure which savings account is best for you? See today's savings rates Take a quiz to find your account Savings FAQs A savings account is a bank account where you can store your money and earn interest. Wells Fargo offers interest-bearing savings accounts and Certificate of Deposit (CD) accounts. Wells Fargo savings accounts allow you to save automatically to help you build towards your savings goals. In return for keeping your money in a savings account, we pay you interest depending on your interest rate. See today's rates . You can open a savings account online or in-person at a Wells Fargo branch. You must be 18 or older to apply online. 17 and under must open at a branch. To open this account online, you'll need to: Be 18 years or older Know your Social Security Number (SSN) or Individual Taxpayer Identification Number (ITIN) Have a physical U.S. address Have your own mobile phone number IDs required to open (plus co-applicant\u2019s information if applicable). Joint savings accounts and CDs can be opened online or at a branch . You need the same information that's required to open an individual savings account, but you\u2019ll need it for both applicants. IDs required to open Yes, all Wells Fargo savings funds in both savings accounts and Certificate of Deposit (CD) accounts are -insured up to the maximum applicable limit. Visit our Insurance page to learn more. How can we help? \u200d Call us \u200d For existing accountholders or questions: 1-800-869-3557 \u200d Find a location \u200d City, State or ZIP Go Make an appointment Get a student checking account Compare checking accounts Checking FAQs Tips on managing your money Manage your payments online Transferring money Planning for retirement Financial Health Kids Savings Account Set up automatic transfers Set up Overdraft Protection Find routing numbers Save for an emergency How was your experience? Give us feedback. Fees may reduce earnings. Interest rates are variable and may be changed by the Bank at any time. When you have the Save As You Go transfer option, each time you (or any authorized signer or joint owner) use your debit card for a one-time purchase or complete a Bill Pay transaction through online banking, and the one-time debit card purchase or Bill Pay transaction posts to the account, we\u2019ll automatically transfer $1 from your linked Wells Fargo checking account to your Way2Save Savings account. We may determine through our sole discretion if a particular transaction is a qualifying transaction. At the end of each business day, we count your qualifying transactions and multiply them by $1. Then we process that amount as a single transfer on the next business day. If your checking account does not have available funds, is overdrawn, or Overdraft Protection was initiated, the transfer won\u2019t occur. The fee period is the period used to calculate the monthly service fee. The fee period details are provided on the Monthly Service Fee Summary located in your account statement. Overdraft Protection is not available for Clear Access Banking accounts. The monthly service fee for Wells Fargo Fixed Rate CDs is $0. The minimum opening deposit for a Standard Fixed Rate CD is $2,500, unless otherwise noted. The minimum opening deposit is subject to change, as shown on wellsfargo.com/savings-cds/rates . You may pay an early withdrawal penalty or a Regulation D penalty if you withdraw funds from your account before the term is complete. Some exceptions may apply. Penalties could reduce earnings on this account. The early withdrawal penalty amount is calculated and deducted from any earned interest. If the penalty is greater than the earned interest, the remaining penalty amount is deducted from the principal of the account. The Regulation D penalty is seven days\u2019 simple interest on the amount withdrawn and applies to: Withdrawals made within seven days of account opening including the day the account was opened. Withdrawals made during the grace period, when additional deposits are made during the grace period and the withdrawal exceeds the amount of the matured CD balance. Withdrawals within seven days of any prior withdrawal where the Bank\u2019s early withdrawal penalty is not applied. Other than the Regulation D penalty described above, any money withdrawn from the CD before the end of its term will be subject to an early withdrawal penalty based on the length of the CD term. If your term is: Less than 90 days (or less than 3 months), the penalty is 1 month's interest, 90 to 365 days (or 3-12 months), the penalty is 3 months' interest, Over 12 months through 24 months, the penalty is 6 months' interest, or Over 24 months, the penalty is 12 months' interest. See the Consumer Account Fee and Information Schedule and Deposit Account Agreement for additional consumer account information. Deposit products offered by Wells Fargo Bank, N.A. . QSR-12042026-8039929.1.1 LRC-0625",
+      "headings": []
+    },
+    {
+      "rank": 8,
+      "domain": "bankrate.com",
+      "url": "https://www.bankrate.com/banking/savings/simple-savings-calculator/",
+      "title": "Simple Savings Calculator | Bankrate",
+      "word_count": 946,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.bankrate.com/f/102997/264x264/c0908cb8e0/pig.png",
+        "alt": "FV=P\u00d7((1+r/12)^n-1)/(r/12))+I\u00d7(1+(r/12))",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.bankrate.com/f/102997/491x74/e31b0ea2b4/simple-savings-formula.svg?auto=webp&optimize=high",
+          "alt": "FV=P\u00d7((1+r/12)^n-1)/(r/12))+I\u00d7(1+(r/12))",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "We're building a new way to keep you ahead of rate changes and make the most of our financial calculators. We're building a new way to keep you ahead of rate changes and make the most of our financial calculators. Help us shape the future of personal finance We\u2019re building something new to make rate shopping smarter and simpler. Join our waitlist to get early access, share your feedback, and unlock exclusive offers. Priority rate alerts Exclusive member offers Time saving Limited spots remaining You're signed up! Now, help us personalize your experience. Answering the next few questions will ensure you receive the most relevant tips and offers. Stay tuned to see what we're building You're all set! We're gearing up to share something big. You'll hear from us soon with what's next. How to use this calculator A savings calculator helps you determine how much you\u2019ll have in the bank over time, based on how much you add to the account and the annual percentage yield (APY) it earns. When you input this information, along with a set number of months or years, the calculator will show you: Total amount in your account How much you\u2019ll contribute in total Total amount of interest earned Keep in mind: Standard savings accounts earn variable APYs, which means banks can increase or decrease these rates at any time. For instance, if you calculate your interest over the next year and start saving, the real amount could be higher or lower than this calculator's result if the bank changes the APY during that time. Factors that affect your savings Our simple savings calculator can help you make sure you\u2019re saving enough for your future goals, whether you plan to take a big vacation next year, get married in two years or buy a house in five years. The calculator brings up your results by asking for the following: Initial deposit: This is how much you\u2019ll initially contribute to the account. Whether that\u2019s $100 or $10,000, your initial amount is crucial to your money\u2019s growth. Monthly deposit: This is the amount you can contribute to the account each month. Decide on this amount according to your monthly budget. Tinker with the amount to see how higher monthly deposits can boost your money\u2019s growth over time. Time frame: This is the number of years or months over which you\u2019re calculating interest earnings. APY: This is the total amount of interest you\u2019ll earn in a year, expressed as a percentage. An APY includes the effect of compound interest \u2014 which is interest on your initial deposit as well as on the interest you\u2019ve been accumulating over time. Find your APY by checking your account details. Simple savings formula Behind the scenes, this calculator inserts the APY, number of months, and the initial and monthly deposit amounts into a formula. The formula is: Where: FV = Future Value P = Monthly deposit amount r = APY as decimal n =Total number of months I = Initial balance The first half of this equation \u2014 from the P to the plus sign \u2014 calculates what you earn on your monthly deposits. The second half, after the plus sign, calculates earnings on your initial deposit. Understanding your results The calculator outputs how much interest you can earn over your set timeframe, as well as your total savings account balance. Your \u201cTotal savings breakdown\u201d will be shown as: Interest earned: Your total interest. Total contributions: Your initial deposit and any monthly contributions you specified. Initial deposit: The amount you originally contributed to the account. Your total savings: A grand total of all of your contributions and interest. To get the most out of the simple savings calculator, run a few scenarios to see how different contribution amounts and potential APYs could impact your total savings. For example, say you make an initial deposit of $1,000 to a savings account that earns 4% APY. Here\u2019s what you can earn in two years\u2019 time with two scenarios involving saving different amounts: If you add $200 a month, you\u2019ll have a balance of around $6,067, including $267 in interest. If you add $400 a month, you\u2019ll have a balance of around $11,052, including $452 in interest. Next steps to start saving To choose how much you add to your savings each month, consider the 50/30/20 budgeting approach. This rule suggests saving 20% of your income, while devoting 50% to needs and 30% to wants. Another option is the zero-based budget , for which you allocate a purpose to every dollar you earn. Anything that's left over after your bills and other expenses are covered, you can allocate to savings. One practical strategy to ensure you save regularly is setting up regular, automated transfers to savings. For instance, if your paycheck\u2019s direct deposit goes to your checking, set up a transfer to take place every payday. I suggest most people start by saving amounts that are smaller than what they could contribute at a given moment. You don\u2019t need to cut to the bone, just start small and build a habit that you can commit to, then increase those amounts over time. Bankrate logo Stephen Kates, CFP\u00ae, Financial Analyst | Bankrate Popular next steps Savings goals calculator Whether you\u2019re planning a vacation, a home purchase or a wedding, our savings goal calculator can help you have the money saved up when you need it. Best high-yield savings accounts A high-yield savings account earns a great rate and provides easy access to your money for emergencies or other expenses. How to begin saving from scratch Check out simple tips and tools for setting goals, creating a budget and tracking your progress.",
+      "headings": []
+    },
+    {
+      "rank": 9,
+      "domain": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/typical-minimum-balance-traditional-savings-account-191637493.html",
+      "title": "What is the typical minimum balance required for traditional savings ...",
+      "word_count": 844,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://s.yimg.com/ny/api/res/1.2/uKO_qYrNmxGmlWkICbZG6Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-06/fb1ef700-04e0-11ee-ad69-f8ea719656aa",
+        "alt": "",
+        "description": "Generic editorial stock photo depicting common financial concepts like piggy banks or people with devices.",
+        "type": "editorial_stock_photo"
+      },
+      "article_images": [
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/CG1fItRs06KVm5zJRlJavg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIzMjtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2020-12/e70e9a00-35a2-11eb-bdfd-3f73c982ffa9",
+          "alt": "Yahoo Personal Finance",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/ThAKhIYBMj8Ufa1V7HPamA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTY0MA--/https://s.yimg.com/os/creatr-uploaded-images/2023-06/fb1ef700-04e0-11ee-ad69-f8ea719656aa",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/nTO_D9UARqn7K0VH2ApG1w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTgwO2g9ODA-/https://s.yimg.com/os/creatr-uploaded-images/2024-05/fcf8bed0-1489-11ef-bfaf-74bf620ec1e2",
+          "alt": "Sarah C. Brady",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://s.yimg.com/lo/mysterio/api/E61AE6761656FF07BF4D9FD68B9C432B7A23B61B29726C95C75AE2722ED0E301/subgraphmysterio/resizefill_w1344_h756;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-02%2Fc47e5d70-ea4a-11ef-afff-e8ab8e1646f9",
+          "alt": "10 best high-yield savings accounts for April 2026: Earn up to 4.10% APY",
+          "description": "Data visualization or financial chart graphic.",
+          "type": "graphic_design_data"
+        },
+        {
+          "url": "https://s.yimg.com/lo/mysterio/api/58A01478DA76BC693C358A8D1170EB2A310D5DE0A74F37E3138F2BC439C63CA8/subgraphmysterio/resizefill_w194_h109;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-10%2Fd556f310-866c-11ef-bf37-f831b043bbd2",
+          "alt": "What is the typical minimum balance\u200b for an online savings account?",
+          "description": "Data visualization or financial chart graphic.",
+          "type": "graphic_design_data"
+        },
+        {
+          "url": "https://s.yimg.com/lo/mysterio/api/02D3D9C76998A35FEDD70371766D94211D0D8A2950A2215419D9CD4510DF2F4F/subgraphmysterio/resizefill_w194_h109;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2023-11%2Fe44699f0-8589-11ee-aafd-9936ebf6212d",
+          "alt": "A guide to checking account minimum balance requirements by bank",
+          "description": "Data visualization or financial chart graphic.",
+          "type": "graphic_design_data"
+        },
+        {
+          "url": "https://s.yimg.com/lo/mysterio/api/8053BF29367A27F7AA32598A9C8AC190B0EF88E7A70CE97601A41590AA2C4740/subgraphmysterio/resizefill_w194_h109;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-02%2F6d5f4eb0-d285-11ee-8fb5-16a9ae7c4c52",
+          "alt": "The 10 most Googled savings account questions \u2014 answered",
+          "description": "Data visualization or financial chart graphic.",
+          "type": "graphic_design_data"
+        },
+        {
+          "url": "https://s.yimg.com/lo/mysterio/api/A7D3C861E2857D42C30A443F78ED7F8457489108943525095BFABD32E1F37284/subgraphmysterio/resizefill_w194_h109;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-07%2F823cd9e0-bba7-11ea-bfff-0ad30248690e",
+          "alt": "What is the average savings by age?",
+          "description": "Data visualization or financial chart graphic.",
+          "type": "graphic_design_data"
+        },
+        {
+          "url": "https://s.yimg.com/lo/mysterio/api/06915744DEFA65567189FED5D7C9B710ED0CAE0D115264AD222608F69DA61352/subgraphmysterio/resizefill_w194_h109;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2022-06%2F6e1b78e0-e602-11ec-bbf3-e4c300c30e52",
+          "alt": "What is a good savings account interest rate in 2025?",
+          "description": "Data visualization or financial chart graphic.",
+          "type": "graphic_design_data"
+        },
+        {
+          "url": "https://s.yimg.com/lo/mysterio/api/A5E3CEDFB215168C623A247C22B386C17077BC35EEB90CA33D40DCA06F89787D/subgraphmysterio/resizefill_w194_h109;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-06%2Fa6adc010-2f3d-11ef-b2f9-63b1e6168817",
+          "alt": "What is a monthly maintenance fee, and when do you have to pay it?",
+          "description": "Data visualization or financial chart graphic.",
+          "type": "graphic_design_data"
+        }
+      ],
+      "body_text": "Some offers on this page are from advertisers who pay us, which may affect which products we write about, but not our recommendations. See our Advertiser Disclosure . If you\u2019re interested in opening a new savings account, you may have come across accounts that have minimum balance requirements. Some banks require you to deposit a certain amount of money in order to open an account, while others might require you to maintain a minimum balance to avoid monthly fees. So what\u2019s the typical minimum balance required for a traditional savings account? And should you avoid accounts that have minimum balance requirements? Let\u2019s take a closer look. What\u2019s the typical minimum balance for savings accounts? The minimum balance you need in your savings account varies from one account to the next. You can find plenty of savings accounts \u2014 many of them at online banks \u2014 that don't require a minimum balance at all. For accounts that do have a minimum requirement, the amount might range anywhere from $100 to $100,000 or more, depending on the account type. Here are some examples: What happens if my savings account balance drops below the minimum? If your savings account has a minimum balance requirement, you'll need to ensure you keep at least that amount of money in the account to avoid penalties. When your balance drops below the minimum, you typically have to pay monthly account maintenance fees and could also incur other fees in addition to having your interest earnings suspended. If you're struggling to maintain the minimum balance, there are ways to avoid maintenance fees. You might move your funds to a different account or check to see if the bank waives the fees for any of the following common reasons: You're a student You're under 25 years old or over 62 You choose paperless statements You make monthly automatic deposits to the account You link to a checking account at the same bank Regardless of whether there's an account minimum or not, it's important to keep your savings account funded and active, since it could be automatically closed if you carry a $0 balance for two months or more. 10 best high-yield savings accounts for April 2026: Earn up to 4.10% APY The best CD rates for April 2026: Earn up to 4.15% APY 10 best money market accounts and rates for April 2026: Rates up to 3.85% APY Tiered accounts With tiered savings accounts, you're rewarded for maintaining different minimum balance amounts. In some cases, higher account balances qualify you for a higher annual percentage yield (APY), but that's not always the case. For example, at Varo bank, you earn 5% APY on up to $5,000 in deposits and 3% APY on any additional funds. Should you avoid minimum balances? A minimum balance on a savings account isn't necessarily a bad thing. If you need an incentive to keep funds in your savings account or avoid overdrafting, a minimum deposit requirement could help. Minimum deposit requirements also tend to be low and shouldn't be a concern if you know you'll keep a higher amount on deposit. In some cases, high minimum deposit requirements can also be tied to higher APY. Depending on market conditions, you might be able to find savings accounts with high APY and no minimum deposit requirement, especially if you look for online accounts. By contrast, many banks have minimum deposit requirements but offer just 0.01% APY on their savings accounts. Ultimately, you should decide what account features are most important to you. In some cases, accounts that require a minimum deposit or minimum balance might not fit your needs. But as your savings grow over time, keeping a larger balance on deposit could help you achieve better saving account rates and account perks. What is the typical minimum balance\u200b for an online savings account? Online savings accounts typically have lower minimum balance requirements than traditional accounts, if any at all. Be sure you know the bank\u2019s policies to avoid penalties. A guide to checking account minimum balance requirements by bank It\u2019s important to know the minimum balance requirements for a new checking account. Here\u2019s a closer look at minimum balances for Chase, Bank of America, Wells Fargo, and other major banks. The 10 most Googled savings account questions \u2014 answered These are some of the most common savings account questions. Learn more about how savings accounts work, how much interest you can earn, and more. What is the average savings by age? Ever wonder how your savings stacks up against others? Here\u2019s a breakdown of the average American\u2019s savings balance by age. What is a good savings account interest rate in 2025? Currently, a good savings account interest rate is an annual percentage yield of around 4%. However, rates can fluctuate over time. Here\u2019s how to ensure you\u2019re getting the best rate possible. What is a monthly maintenance fee, and when do you have to pay it? Many banks charge a monthly maintenance fee on certain accounts, but it's possible to avoid them. Here's what you need to know.",
+      "headings": []
+    },
+    {
+      "rank": 10,
+      "domain": "bankatfirstnational.com",
+      "url": "https://www.bankatfirstnational.com/wallet-wise-blog/august-2022/how-much-savings-should-i-have/",
+      "title": "How Much Savings Should I Have for My Age?",
+      "word_count": 222,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.bankatfirstnational.com/8base/media/images/fdic-digital-sign-white.svg",
+        "alt": "FDIC insured",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.bankatfirstnational.com/8base/media/images/FNBT-Division-of-Bank-First_Logo-primary_Primary.svg",
+          "alt": "First National Bank and Trust Home Page",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.bankatfirstnational.com/8base/media/images/FNBT-Division-of-Bank-First_Logo-primary_Light.svg",
+          "alt": "First National Bank and Trust Company",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.bankatfirstnational.com/CMSPages/GetFile.aspx?guid=7ce2237d-8d6f-44fb-9c95-fb5fa10ad770",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.bankatfirstnational.com/8base/media/images/blog/Feb-5-savings-by-age.jpg?ext=.jpg",
+          "alt": "young couple and daughter putting money in piggy bank",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.bankatfirstnational.com/getmedia/1b745a2d-7e18-4988-9a37-cc620253326a/how-much-should-i-have-saved.jpg.aspx?width=600&height=1200",
+          "alt": "How Much Savings Should I Have for My Age?  Top section:  How Much Savings Should I Have Saved By Age... 21-  This depends on where you are in life. But, a good rule of thumb is to have $6,000 in a savings account for emergencies and long-term financial goals at age 21.  30-  At this age, you should aim to have the equivalent of one year\u2019s worth of your salary in the bank.  Bottom Section:  How much you should have saved for retirement?  Age 35: 2x's your annual salary.  Age 40: 3x's your annual salary.  Age 45: 4x's your annual salary.  Age 50: 6x's your annual salary.  Age 55: 7x's your annual salary.  Age 60: 8x's your annual salary.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.bankatfirstnational.com/8BASE/media/images/base/icon_housinglender.png",
+          "alt": "Equal Housing Lender",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "How much money you should have saved by 21? How much money you should have saved by 30? How much you should have saved for retirement? Start saving at any age with First National Bank and Trust Recent Updates Credit Cards 101 The Importance of Keeping Your Contact Information Up to Date with Your Bank Financial Check-In: 5 Questions to Ask Yourself Before Spring Arrives Avoid the Debt Trap This Holiday Season Social Engineering Scams: How to Protect Yourself and Your Finances Categories Agriculture Category Auto Loans Category Beginner Guides Category Budgeting Category Calculators Category Small Business > Capital Loans-Operating Loans Category Small Business > Cash Management Category Checking Category Child Savings Category Small Business > Commercial Loans Category Community Category Construction Loans Category COVID Relief Category Credit Cards Category Credit Loans_Personal Category Cybersecurity Category Debit Card Category Small Business > Equipment Loans Category Estate Planning Category Finances Category Financial Education-Literacy Category Fraud Education Category Home Loans Category Home Ownership Category Investing Category Mortgage Category Online Banking Category Retirement Accounts Category Savings Accounts Category Small Business Category Taxes Category Wealth Management Category With BaZing, you'll receive access to these great benefits online or with a convenient mobile app: Identity Theft Protection & Insurance Cell Phone & Travel Protection Roadside Assistance Shopping, Dining & Travel Discounts Pharmacy, Vision & Hearing Discounts Grocery Coupons",
+      "headings": []
+    },
+    {
+      "rank": 11,
+      "domain": "oldnational.com",
+      "url": "https://www.oldnational.com/resources/insights/how-much-should-you-put-into-your-savings-account-heres-one-way-to-decide/",
+      "title": "How Much Should You Put Into Your Savings Account? Here's One ...",
+      "word_count": 742,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "http://www.oldnational.com/4a04ad/globalassets/onb-site/onb-images/_global/onb-og-image.png",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://pixel.welcomesoftware.com/px.gif?key=YXJ0aWNsZT1iODk2NmFmODQyYjAxMWVmOGE5OTk2YzA2YWRmNmI1Yw==",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "For Your Life Lyle Daly July 15, 2024 An important part of managing your money is figuring out how much to keep in your savings account. If you don't have enough, you won't be ready for big expenses and emergencies. But savings accounts don't offer the same kind of return you can get by investing, so you don't want to overfund yours, either. The right amount is different for everyone, since it depends on your expenses and your financial needs. Here are three quick steps you can follow to see what the right amount is for you. 1. Decide how much you want in your emergency fund Your emergency fund needs to be money you can access at any time, so the best place for it is in a savings account. Specifically, high-yield savings accounts, since these have the most generous interest rates. Here's how to set a target for your emergency savings: Find your monthly living expenses. Go over your banking statements and credit card bills to see exactly how much you spend per month. Choose how long of an emergency fund you want. The standard recommendation is three to six months of living expenses. Multiply your monthly living expenses by your desired emergency fund. If your monthly living expenses are $5,000, and you want a six-month emergency fund, then your goal would be to save $30,000. You can build a larger emergency fund if you want. Some people choose nine- or 12-month emergency funds to have more financial security. But three to six months is the most common recommendation. 2. List your savings goals Your savings account is also where you'll set aside money for your savings goals. Think of any large expenses you expect to have in the next five years or so. Why five years? For anything longer than that, it usually makes more sense to invest your money. With goals like retirement in 30 years or your child's college education in 15 years, you can get a much better return by investing your money. Here are some examples of popular savings goals: A down payment for a home A travel fund Big-ticket purchases, such as appliances or electronics Home renovations Gifts for birthdays and holidays Once you've made a list of these goals, estimate how much money you'll need for each of them. The best way to do this will depend on the goal. For a down payment on a home, you can look at home prices in your area. For travel and gift funds, you could base it on what you've spent in the past on previous vacations and gifts. You may want to consider using certificates of deposit (CDs) for some of these savings goals. The best CDs offer rates close to and often better than the best savings accounts. They also allow you to lock in an interest rate for a fixed amount of time. 3. Add up how much you need At this point, you know how much you want for your emergency fund and your savings goals. Now, add them all together to figure out how much to keep in your savings. For example, let's say you want: $25,000 for an emergency fund $40,000 for a down payment on a home $5,000 for a travel fund $2,500 for gifts You'd need a total of $72,500 in your savings account. That's a lot of money, so if you're not there yet, it gives you a goal to work toward. On the other hand, if you have far more than that in savings, you'd know that you can safely shift some of your money to investments. Keep in mind that your savings needs will change over time. If you're saving for a home, you'll eventually use that money for a down payment. That's a big expense you won't need to save for anymore. But you'll also probably want to start setting aside money in savings for new expenses you'll have as a homeowner, such as maintenance and renovations. Deciding how much to put into your savings account isn't something you do just once. For most people, it's a good idea to do this once a year, or after any major financial changes. Looking for your perfect savings account? Check out our options here. This article was written by Lyle Daly from The Motley Fool and was legally licensed through the DiveMarketplace by Industry Dive. Please direct all licensing questions to legal@industrydive.com . for Insights",
+      "headings": []
+    },
+    {
+      "rank": 12,
+      "domain": "chase.com",
+      "url": "https://www.chase.com/personal/savings/savings-account",
+      "title": "Chase Savings   Account",
+      "word_count": 477,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.chase.com/content/dam/chase-ux/tile/secondary/new-savings-and-premier-savings-hero.png",
+        "alt": "",
+        "description": "High-quality corporate stock photo of smiling diverse people or modern home interiors.",
+        "type": "corporate_stock_people"
+      },
+      "article_images": [
+        {
+          "url": "https://www.chase.com/content/dam/chase-ux/tile/secondary/personal/savings/Savings-acct-Photo.jpg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "Chase Savings\u2120 Account Please turn on JavaScript in your browser It appears your web browser is not using JavaScript. Without it, some pages won't work properly. Please adjust the settings in your browser to make sure JavaScript is turned on. Chase Savings\u2120 $0 Monthly Service Fee for account owners under 25 This account makes it easy to start saving. You\u00e2\u0080\u0099ll have access to chase.com and our mobile banking tools. Open account Benefits of Chase Savings\u00e2\u0084 See Chase Savings\u00e2\u0084 account interest rates Autosave Mobile and online banking Save a trip to the branch and deposit checks in a snap with Chase QuickDeposit Account Alerts Access to more than 14,000 ATMs and 5,000 branches insurance protection Account details include: $5 or $0 Monthly Service Fee You can avoid the fee by having ONE of the following each monthly statement period: $300+ balance at the beginning of each day - OR - $25+ in total Autosave or other repeating automatic transfers from your personal Chase checking account (available only through chase.com or Chase Mobile \u00c2\u00ae app) - OR - Link this account to a qualifying checking account - OR - Link this account to a Chase College Checking account that is enrolled in Overdraft Protection - OR - Account owner who is under the age of 25 See Account Disclosures and Rates for more information. Account subject to approval. require([\"main\"], function () { require([\"amd/buckets\"], function (Buckets) { Buckets.init(\"fa1dba7b-c5df-412b-b320-7fdcafc20a94\"); }); }); Find the right savings account for you Chase Certificates of Deposit Chase Premier Savings\u00e2\u0084 Find a Chase ATM or branch To find a Chase ATM or branch near you, tell us a ZIP code or an address. ZIP code or address Additional assistance See exclusive Chase Private Client products Learn about Chase Military Banking for servicemembers Personal Banking Education Center require([\"main\"], function () { require([\"amd/buckets\"], function (Buckets) { Buckets.init(\"2dd44b44-3b6c-4644-9209-be2f1c028ce3\"); }); }); not your ZIP code? Some of our products and features might be different depending on your location. By using your ZIP code, we can make sure the information you see is accurate. ZIP code Please enter a valid 5-digit ZIP code. Please try again. ZIP code Next You updated your ZIP to Some of our products and features might be different depending on your location. By using your ZIP code, we can make sure the information you see is accurate. ZIP code Please enter a valid 5-digit ZIP code. Please try again. ZIP code Next require([\"main\"], function () { require([\"amd/dynamic-page-creation\"], function (DynamicPage) { var options = { \"baseAdPageId\":\"\", \"layouts\": [ { \"id\": \"standalone_a\", \"adPageId\":\"\", \"enableScrollAnimation\": false,\"disableOnMobile\": false, \"aboveFoldModules\": [ { \"url\" : \"/content/chase-ux/en/structured/module/bodycopy/blank-when-no-hero/_jcr_content/module.html\" }, { \"url\" : \"/content/chase-ux/en/structured/module/bodycopy/personal/savings/savings-account-header/_jcr_content/module.html\" }, { \"url\" : \"/content/chase-ux/en/structured/module/tile/personal/savings/savings-intro-savings/_jcr_content/module.html\" }, { \"url\" : \"/content/chase-ux/en/structured/module/bucket2/personal/savings/savings-benefits-savings/_jcr_content/module.html\" }, { \"url\" : \"/content/chase-ux/en/structured/module/tile/personal/savings/savings-find-right-savings-pilot/_jcr_content/module.html\" } ], \"belowFoldModules\": [ { \"url\" : \"/content/chase-ux/en/structured/module/atm-locator/atm-locator-checking/_jcr_content/module.html\" }, { \"url\" : \"/content/chase-ux/en/structured/module/bucket2/personal/savings/savings-additional-assistance/_jcr_content/module.html\" }, { \"url\" : \"/content/chase-ux/en/structured/module/zipupdate/default/_jcr_content/module.html\" } ] } ] }; DynamicPage.init(options); }); });",
+      "headings": []
+    },
+    {
+      "rank": 13,
+      "domain": "usnews.com",
+      "url": "https://www.usnews.com/banking/articles/how-much-money-should-you-have-in-savings",
+      "title": "How Much Money Should You Have in Savings?",
+      "word_count": 1142,
+      "scrape_status": "tavily_fallback",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": "# How Much Money Should You Have in Savings? An emergency fund that can cover three to six months of expenses is a good goal for your savings account. By Jessica Merritt, CFEI | Reviewed by Mark Evitt | Edited by Sebastian Oliveira | June 24, 2025 By Jessica Merritt, CFEI | Reviewed by Mark Evitt | Edited by Sebastian Oliveira | June 24, 2025, at 3:16 p.m. How Much Should You Have in Savings? *More* Getty Images You want to strike a balance between savings and investments. ### Key Takeaways * Though it depends on your financial situation, you should try to have enough savings to cover three to six months of expenses in case of an emergency. * Stashing 20% of your monthly income is a good way to start building your savings. * You can continue to grow your savings by using a budget, automating your savings and managing your debt. Maintaining sufficient savings is crucial for financial security, providing a safety net for unexpected expenses and a pathway to achieving your financial goals. How much you need in savings depends on your financial situation, but an emergency fund that can cover three to six months of expenses is a good place to start. Read on to find out how to calculate how much you should have in savings and how much to save each month. Read: Best Savings Accounts. ## What Influences Savings Factors such as income, expenses, debt obligations and lifestyle can influence how much you have in savings. If you have a comfortable income, you might have more disposable income to save. But debt obligations or a spendy lifestyle could limit how much you can save. If you have a specific goal, such as buying a home or starting a business, you may save more aggressively until you've reached your goal. ### What Is a High-Yield Savings Account? Grow your savings faster with a high-yield account. [Casey BondFeb. 12, 2025 ](https://www.usnews.com/banking/articles/what-is-a-high-yield-savings-account) ## What You Should Have Saved Your savings account should have enough to keep you afloat in a financial emergency. Generally, saving at least three to six months of living expenses can offer a safety net if you experience job loss or a medical emergency. For example, if you have monthly expenses of $5,000, aim to save $15,000 to $30,000 in your emergency fund. \"Many just keep enough in their savings account to waive the monthly service fee, while the goal should be to save more than that,\" says money coach and certified financial planner Ohan Kayikchyan. \"A good starting point is a fully funded emergency fund.\" It is possible to have too much in savings, leaving you with funds you don't need immediate access to. You could invest the excess savings in stocks, bonds or real estate to grow your wealth. \"You always want your money to work for you, and while you may earn a return on money in a savings account, you will likely not earn as much as you could by investing,\" says Rosalyn Glenn, a financial planner at Prudential in Columbia, South Carolina. ### Is Savings Account Interest Taxed? If you earned at least $1 from a savings account in the last year you'll need to report that amount on your federal taxes. [John EganFeb. 9, 2026 ](https://www.usnews.com/banking/articles/do-you-pay-taxes-on-savings-account-interest) See: 10 Best High-Yield Savings Accounts of April 2026: Up to 4.00% ## How Much to Save Each Month You can use guidelines to determine how much to save each month. A simple rule of thumb is to save 20% of your income. For example, if you earn $75,000 annually, save about $15,000 per year or $1,250 per month. Don't be discouraged if that seems like more than you can save each month. Getting the ball rolling with any amount of savings is helpful \u2013 and knowing how much you should be saving gives you a goal to work toward. It might help to see the bigger picture in an income-to-savings ratio. A rule of thumb is to set aside 50% of your income for necessities, 30% for discretionary expenses and 20% for savings. Free Savings Calculator Use this free savings calculator to project how your money can grow over time. Learn More ## Checking vs. Savings Amounts Checking and savings accounts are both bank accounts that allow immediate access to funds. But checking accounts are for everyday expenses and generally have lower, more fluctuating balances than savings accounts. You should keep enough money in checking to cover your monthly bills with some wiggle room \u2013 about a month of expenses. That's much lower than the three to six months' worth of expenses you should keep in your savings account for emergencies. Read: Best Checking Accounts. ## Growing Your Savings Want to pad your savings account? Use these strategies to grow your savings: * Use a budget. A budget can help you see where your money goes and identify unnecessary expenses you can cut to save more. * Automate savings. Use automatic transfers to shift funds from your paycheck to your savings account, which can reduce the temptation to spend instead of save. * Set achievable goals. Consider how much you want to save and how much you'll need to put away monthly to reach that amount. * Boost your income. Asking for a raise, getting a new higher-paying job or taking on a side hustle can help you funnel more income to savings. * Manage debt. If debt is getting in the way of your savings goals, prioritize paying off high-interest debt with lower-interest alternatives such as a debt consolidation loan or balance transfer credit card. Kayikchyan says automation can make saving easier. \"It\u2019s all about paying yourself first by saving for your financial goals and priorities, then only after spending whatever is left.\" Updated on June 24, 2025: This story was published at an earlier date and has been updated with new information. Tags:savings, banking, Investing for Retirement, investing #### Popular Stories Banking Advice How to Endorse a Check Banking Advice How To Find a Lost or Stolen Money Order Banking Advice Compare Chase and Bank of America Banking Advice Is MrBeast's Kids' Money App Safe? Banking Advice How to a Bank Account #### Best of Banking 10 Best Savings Accounts of April 2026: Up to 4.00% 10 Best High-Yield Savings Accounts of April 2026: Up to 4.00% Best Credit Unions \u2014 April 2026 10 Best CD Accounts of April 2026: Up to 5.00% 10 Best Checking Accounts of April 2026: Up to 5.00% Comparative assessments and other editorial opinions are those of U.S. News and have not been previously reviewed, approved or endorsed by any other entities, such as banks, credit card issuers or travel companies. The content on this page is accurate as of the posting date; however, some of our partner offers may have expired. Read More",
+      "headings": []
+    },
+    {
+      "rank": 14,
+      "domain": "citizensbank.com",
+      "url": "https://www.citizensbank.com/learning/what-is-a-savings-account.aspx",
+      "title": "What is a savings account, and how does it work? - Citizens Bank",
+      "word_count": 1815,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://p1.aprimocdn.net/citizensbank/1c51569c-c336-4cd5-87ca-b00401710a94/GettyImages%20951526966_h1hero.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.citizensbank.com/assets/CB_resources/images/cbds-logos/logo-citizens__horz-green.svg",
+          "alt": "citizens",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://p1.aprimocdn.net/citizensbank/5427c0bd-f9b6-481a-978c-affd00ee7ca0/GettyImages_951526966.jpg_Learning-Article.jpg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://p1.aprimocdn.net/citizensbank/1e9b381d-4cb5-4bb4-8114-affd011c0673/GettyImages%201394207526_feature-grid-r.jpg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://p1.aprimocdn.net/citizensbank/cd715131-fc8f-43a4-b3b1-b04501550d39/GettyImages_1299122081.jpg_Feature-Grid-R.jpg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://p1.aprimocdn.net/citizensbank/0c86a677-faa9-427e-b957-b107011f08b6/GettyImages-1337405782_feature%20grid%20r.jpg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 15,
+      "domain": "cnbc.com",
+      "url": "https://www.cnbc.com/select/best-high-yield-savings-accounts/",
+      "title": "Best High-Yield Savings Accounts of April 2026: Earn up to 5.00%",
+      "word_count": 4366,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://image.cnbcfm.com/api/v1/image/107415407-1715792035275-gettyimages-1445809826-moneystack.jpeg?v=1715792052&w=1920&h=1080",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://fm.cnbc.com/applications/cnbc.com/resources/product_select/2025/09/04/Quickbooks.png",
+          "alt": "QuickBooks",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://fm.cnbc.com/applications/cnbc.com/resources/product_select/2026/03/13/Taxslayer.png",
+          "alt": "TaxSlayer",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://fm.cnbc.com/applications/cnbc.com/resources/product_select/2025/04/16/monarch.png",
+          "alt": "Monarch",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://fm.cnbc.com/applications/cnbc.com/resources/product_select/2024/12/16/Bluevine_logo.png",
+          "alt": "Bluevine",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://fm.cnbc.com/applications/cnbc.com/resources/product_select/2025/11/06/thumbnail_SBG-Logo_RBG-01.png",
+          "alt": "SBG Funding",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106888609-1685117210592-IMG_8839.jpg?v=1685118179&w=60&h=60&ffmt=webp",
+          "alt": "By Andreina Rodriguez, Associate Reporter, CNBC Select",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106021880-156329347559920190625-img_9901.jpg?v=1563293522&w=60&h=60&ffmt=webp",
+          "alt": "By Elizabeth Gravier, Editor, CNBC Select",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://static-redesign.cnbcfm.com/dist/820decf04f42f75fecf4.svg",
+          "alt": "arrow down",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://fm.cnbc.com/applications/cnbc.com/resources/product_select/2026/01/13/mailchimplogo.png",
+          "alt": "Mailchimp",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://fm.cnbc.com/applications/cnbc.com/resources/product_select/2025/07/01/Empower_logo.png",
+          "alt": "Empower",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 16,
+      "domain": "capitalone.com",
+      "url": "https://www.capitalone.com/bank/open-an-account/",
+      "title": "Compare Checking and Savings Accounts Online - Capital One",
+      "word_count": 1094,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://ecm.capitalone.com/WCM/navigation/assets/icons/card/credit-building.svg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://ecm.capitalone.com/WCM/navigation/assets/icons/card/cash-back-rewards.svg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://ecm.capitalone.com/WCM/navigation/assets/icons/card/travel-rewards.svg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://ecm.capitalone.com/WCM/navigation/assets/icons/card/student-rewards.svg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://ecm.capitalone.com/WCM/navigation/assets/icons/card/business-rewards.svg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://ecm.capitalone.com/WCM/navigation/imagesets/marketing-tiles/credit-card/credit-wise-wide-lt-gray-f4.jpg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://ecm.capitalone.com/WCM/navigation/assets/icons/bank/360-performance-savings.svg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://ecm.capitalone.com/WCM/navigation/assets/icons/bank/360-cds.svg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://ecm.capitalone.com/WCM/navigation/assets/icons/bank/kids-saving.svg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://ecm.capitalone.com/WCM/navigation/assets/icons/bank/360-checking.svg",
+          "alt": "",
+          "description": "Graphic design layout of a document, checklist, or tracker.",
+          "type": "graphic_design_document"
+        },
+        {
+          "url": "https://ecm.capitalone.com/WCM/navigation/assets/icons/bank/money-teen-checking.svg",
+          "alt": "",
+          "description": "Graphic design layout of a document, checklist, or tracker.",
+          "type": "graphic_design_document"
+        },
+        {
+          "url": "https://ecm.capitalone.com/WCM/navigation/imagesets/marketing-tiles/checking-savings/360c-unav-bank-aug-2025.png",
+          "alt": "",
+          "description": "Graphic design layout of a document, checklist, or tracker.",
+          "type": "graphic_design_document"
+        },
+        {
+          "url": "https://ecm.capitalone.com/WCM/navigation/assets/icons/auto/shop-car.svg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://ecm.capitalone.com/WCM/navigation/assets/icons/auto/pre-qualify-auto-loan.svg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://ecm.capitalone.com/WCM/navigation/assets/icons/auto/auto-nov-2025-.svg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://ecm.capitalone.com/WCM/navigation/assets/icons/auto/refinance-car.svg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://ecm.capitalone.com/WCM/navigation/assets/icons/auto/pre-qualify-refinance.svg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://ecm.capitalone.com/WCM/navigation/imagesets/marketing-tiles/auto/auto-menu-marketing-tile.png",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://ecm.capitalone.com/WCM/navigation/assets/icons/commercial/compare-business-cards.svg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://ecm.capitalone.com/WCM/navigation/assets/icons/commercial/travel-rewards.svg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://ecm.capitalone.com/WCM/navigation/assets/icons/commercial/cash-back.svg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://ecm.capitalone.com/WCM/navigation/assets/icons/commercial/business-checking.svg",
+          "alt": "",
+          "description": "Graphic design layout of a document, checklist, or tracker.",
+          "type": "graphic_design_document"
+        },
+        {
+          "url": "https://ecm.capitalone.com/WCM/navigation/assets/icons/commercial/treasury-management.svg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://ecm.capitalone.com/WCM/navigation/imagesets/marketing-tiles/business/414unav.jpg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://ecm.capitalone.com/WCM/navigation/assets/icons/commercial/bank-with-us.svg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://ecm.capitalone.com/WCM/navigation/assets/icons/commercial/commercial-insights.svg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://ecm.capitalone.com/WCM/navigation/assets/icons/commercial/financial-lending.svg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://ecm.capitalone.com/WCM/navigation/assets/icons/commercial/c1-capital-markets.svg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://ecm.capitalone.com/WCM/navigation/imagesets/marketing-tiles/commercial/commercial-tile.jpg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://ecm.capitalone.com/WCM/navigation/assets/icons/benefits/shopping.svg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://ecm.capitalone.com/WCM/navigation/assets/icons/benefits/cafes.svg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://ecm.capitalone.com/WCM/navigation/assets/icons/benefits/learn-grow.svg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://ecm.capitalone.com/WCM/navigation/imagesets/marketing-tiles/laptop.png",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://ecm.capitalone.com/WCM/bank/icons/open-an-account/ui-lined-atm-1-24.svg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://ecm.capitalone.com/WCM/bank/icons/open-an-account/ui-lined-money-bag-1-24.svg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://ecm.capitalone.com/WCM/bank/icons/open-an-account/ui-lined-user-multiuser-1-24.svg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://ecm.capitalone.com/WCM/bank/landing-pages/open-an-account/open-an-account-icon-set/bnk-compare-page---refresh---bank-site-ia-2024_4677867-mech-e9.a-d-01.svg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://ecm.capitalone.com/WCM/bank/landing-pages/open-an-account/open-an-account-icon-set/bnk-compare-page---refresh---bank-site-ia-2024_4677867-mech-e9.a-d-02.svg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://ecm.capitalone.com/WCM/bank/landing-pages/open-an-account/open-an-account-icon-set/bnk-compare-page---refresh---bank-site-ia-2024_4677867-mech-e9.a-d-03.svg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://ecm.capitalone.com/WCM/bank/landing-pages/open-an-account/open-an-account-icon-set/bnk-compare-page---refresh---bank-site-ia-2024_4677867-mech-e9.a-m-04.svg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://ecm.capitalone.com/WCM/navigation/assets/equalhousing_desktoptablet_logo.jpg",
+          "alt": "Equal Housing Opportunity",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 17,
+      "domain": "americanexpress.com",
+      "url": "https://www.americanexpress.com/en-us/banking/online-savings/account/",
+      "title": "American Express\u00ae Online Savings Account - Official Website",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.americanexpress.com/content/dam/amex/en-us/banking/personal-savings/saving-blue.svg",
+        "alt": "American Express",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.americanexpress.com/content/dam/amex/en-us/banking/personal-savings/dls-icon-savings.svg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.americanexpress.com/content/dam/amex/en-us/banking/personal-savings/dls-icon-cd.svg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.americanexpress.com/content/dam/amex/en-us/banking/personal-savings/dls-icon-retire.svg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.americanexpress.com/content/dam/amex/en-us/banking/personal-savings/question.svg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.americanexpress.com/content/dam/amex/en-us/banking/personal-savings/fdic-digital-sign-white.svg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.americanexpress.com/content/dam/amex/en-us/banking/personal-savings/start-banking-image.jpg",
+          "alt": "Start banking now instructions",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.americanexpress.com/content/dam/amex/en-us/banking/personal-savings/10-ways-1x.jpg",
+          "alt": "Amex Savings IRA benefits",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.americanexpress.com/content/dam/amex/en-us/banking/personal-savings/fdic_comp.jpg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 18,
+      "domain": "citi.com",
+      "url": "https://www.citi.com/banking/personal-banking-guide/savings/how-much-should-you-have-in-your-savings-account",
+      "title": "How Much Should You Have in Your Savings Account? - Citi.com",
+      "word_count": 1016,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.citi.com/content/dam/consumer-marketing/us-marketing-team/en/aem-hosted/12803-sb-content-hub-images-campbell/175702/selects/175702_HowMuchInSavings_1520x315.png",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.citi.com/banking/personal-banking-guide/savings/how-much-should-you-have-in-your-savings-account/_jcr_content/image.coreimg.png/1776093022677/175702-howmuchinsavings-1520x315.png",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.citi.com/banking/personal-banking-guide/savings/how-much-should-you-have-in-your-savings-account/_jcr_content/root/responsivegrid/content_container_co/ckcbanner_copy_copy_/headerimage.coreimg.svg/1698965646481/header-citi-logo.svg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.citi.com/etc.clientlibs/citibank-ckc/clientlibs/clientlib-ckc/resources/images/041-arrow-up.svg",
+          "alt": "Back to Top",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 19,
+      "domain": "reddit.com",
+      "url": "https://www.reddit.com/r/FinancialPlanning/comments/1kh6a1d/how_much_money_would_i_need_to_make_a_paid/",
+      "title": "How much money would I need to make a paid savings account ...",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    }
+  ],
+  "battle_plan_generated_at": "2026-04-26T10:43:54.532761+00:00",
+  "competitors_analyzed_count": 9,
+  "battle_plan_method": "local_deterministic_agent_no_api"
+}

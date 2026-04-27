@@ -1,0 +1,1311 @@
+{
+  "article_context": {
+    "angle": "Pay yourself first / Use automatic transfers to build savings",
+    "pain_points": [
+      "Tracking expenses but lacking a budget, resulting in no savings",
+      "High cost of living/renting as a barrier to saving for young adults",
+      "Having savings but lacking knowledge on how to manage it effectively (i.e., idle cash)"
+    ],
+    "top_social_questions": [
+      "What percentage of my paycheck should I save?",
+      "How do I start managing my savings effectively (beyond just holding cash)?"
+    ],
+    "dominant_emotion": "Confusion and Anxiety",
+    "serp_intent": "Searchers for \"digit saving money\" want practical guidance on using the Digit app to automate personal savings by analyzing spending patterns and transferring small amounts to a savings account without manual effort. The SERP intent is informational, featuring app reviews, setup tutorials, user experiences, and comparisons to similar automated savings tools that emphasize effortless saving strategies.",
+    "serp_title_pool": {
+      "primary": [
+        "https://help.oportun.com/hc/en-us/articles/4410612...",
+        "Why I Decided to Delete the Digit App - CNBC",
+        "Log In - Oportun",
+        "The savings app built around you - Oportun",
+        "Goodbye to Digit (hellodigit), its helped me automate my savings but ...",
+        "How to Save Money Without Trying: Digit Review",
+        "Top 5 Apps to Save You Money - Simplified Wealth Management",
+        "Oportun: Finances made simple - Apps on Google Play",
+        "Digit App Review: Can the Digit App Really Help You Save Money?",
+        "Digit & Digit Direct App Review (2022) \u2014 What's New ... - YouTube",
+        "Digit Review: The Easiest Way to Save Money? Ever?",
+        "Oportun (Digit) Savings App Review 2024",
+        "Digit Makes Paying Yourself First Easy And Automated",
+        "Saving Money Effortlessly with Digit Direct by Metabank",
+        "Digit, One of My Favorite Apps for Savings",
+        "App Review: Digit - Save Money Without Thinking About It",
+        "Digit, soon to be Oportun - Apps",
+        "Digit - Save Money Automatically",
+        "Digit \u2013 A Super Cool Money Saving App",
+        "Digit vs. Qapital vs. Rize Mobile Savings Apps Review"
+      ],
+      "long_tail": [
+        "6 money-saving apps to help you grow your wealth - Yahoo Finance",
+        "What are your favorite apps for saving money? I'm basically ... - Reddit",
+        "Best Budgeting Apps of 2026 \u2013 Forbes Advisor",
+        "9 Best Money Saving Apps Of 2025 | Bankrate",
+        "7 Best Money-Saving Apps in 2026 | DepositAccounts",
+        "15 best money saving apps - Save the Student",
+        "The Best Budget Apps for 2026: Pros, Cons and What Users Say",
+        "Top Money Saving Mobile Apps + Live Q&A - YouTube",
+        "7 Money Saving Apps You Need to Download in 2024"
+      ],
+      "question": [
+        "I'm 25 and I want to earn more on my savings.",
+        "How a savings account can earn you money",
+        "7 Ways to Earn More Money on Your Savings",
+        "7 Low-Risk Ways To Earn More Interest On Your Money",
+        "5 Top Ways to earn returns through your Savings Account",
+        "What is a savings account, and how does it work?",
+        "How to 3x Your Savings in 30 days",
+        "How do banks profit from savings accounts?",
+        "The Best Places to Save Money and Earn Interest",
+        "Save and Invest"
+      ]
+    },
+    "paa_questions": [
+      {
+        "q": "What happened to the Digit savings app?",
+        "a": "SAN CARLOS, Calif., Dec. 22, 2021 (GLOBE NEWSWIRE) -- Oportun (Nasdaq:OPRT), a mission-driven fintech company announced today that it has completed the acquisition of Digit (digit.co), a neobanking platform that provides automated savings, investing, and banking tools."
+      },
+      {
+        "q": "Is the Digit app safe?",
+        "a": "Credit.com's Quick Facts About the Digit App Data is encrypted for security and to safeguard your money and financial information, and your cash is protected up to $250,000 using the same level of digital security as governments and militaries. Try it for 30 days free, then just $5 per month after that."
+      }
+    ],
+    "related_searches": [
+      "Digit saving money login",
+      "Digit saving money app",
+      "Digit saving money withdrawal",
+      "Digit saving money reddit",
+      "Digit saving money review",
+      "Digit savings login",
+      "Digit saving app",
+      "Best app for saving money goal"
+    ]
+  },
+  "primary_keyword": "digit saving money",
+  "competitors": [
+    {
+      "rank": 1,
+      "domain": "help.oportun.com",
+      "url": "https://help.oportun.com/hc/en-us/articles/4410612974100-Digit-is-now-Oportun",
+      "title": "https://help.oportun.com/hc/en-us/articles/4410612...",
+      "word_count": 37,
+      "scrape_status": "success",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": "addRenderEvent(function() {CustomEvent.fire('glide_optics_inspect_update_watchfield', '');}); var accessibilityEnabled = Boolean(false); var hasMessages = false; if (accessibilityEnabled && hasMessages) { $j(function() { $j('#output_messages .btn.btn-icon.close').focus(); }); } You are not logged in, or your session has expired. Redirecting to the login page",
+      "headings": []
+    },
+    {
+      "rank": 2,
+      "domain": "cnbc.com",
+      "url": "https://www.cnbc.com/select/why-i-decided-to-delete-the-digit-app/",
+      "title": "Why I Decided to Delete the Digit App - CNBC",
+      "word_count": 1394,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://image.cnbcfm.com/api/v1/image/106699123-1599837800476-gettyimages-977559874-dscf1157a.jpeg?v=1650536498&w=1920&h=1080",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://fm.cnbc.com/applications/cnbc.com/resources/product_select/2025/09/04/Quickbooks.png",
+          "alt": "QuickBooks",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://fm.cnbc.com/applications/cnbc.com/resources/product_select/2026/03/13/Taxslayer.png",
+          "alt": "TaxSlayer",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://fm.cnbc.com/applications/cnbc.com/resources/product_select/2025/04/16/monarch.png",
+          "alt": "Monarch",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://fm.cnbc.com/applications/cnbc.com/resources/product_select/2024/12/16/Bluevine_logo.png",
+          "alt": "Bluevine",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://fm.cnbc.com/applications/cnbc.com/resources/product_select/2025/11/06/thumbnail_SBG-Logo_RBG-01.png",
+          "alt": "SBG Funding",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/108256023-1769118036311-Image-25.jpg?v=1769118117&w=60&h=60&ffmt=webp",
+          "alt": "By Jasmin Suknanan, Lead Reporter, CNBC Select",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://static-redesign.cnbcfm.com/dist/820decf04f42f75fecf4.svg",
+          "alt": "arrow down",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://fm.cnbc.com/applications/cnbc.com/resources/product_select/2026/01/13/mailchimplogo.png",
+          "alt": "Mailchimp",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://fm.cnbc.com/applications/cnbc.com/resources/product_select/2025/07/01/Empower_logo.png",
+          "alt": "Empower",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "Our top picks of timely offers from our partners The offer mentioned below for Digit is no longer available. The Mint app has shut down as of Jan. 1, 2024. For alternatives, check out CNBC Select's ranking of the best budgeting apps . Over the last several years, a number of personal finance apps have made their way into the market \u2014 and onto our phone screens \u2014 and as a personal finance reporter, many of them caught my attention. But I'm not one to download just anything without doing my research and reading reviews. So when I finally decided to go ahead and download the Digit app, I knew I was making a well-informed decision. Digit is an app that encourages people to save more money. It connects to your checking account and automatically saves small, random amounts of cash that it holds in a savings account until you decide how you want to use it. You can use the app to create as many savings buckets as you want (think: emergency fund , vacation, dog, home down payment , etc.), and the app will direct money from your checking account to your savings buckets daily. In other words, you're saving money without lifting a finger. You can even set a limit as to how much money gets pulled out of your checking account on any given day, so you don't save too much and wind up with not enough cash to cover your expenses. You can also pause and unpause the automatic savings feature, which can come in handy if your checking account balance is getting dangerously low, and you don't want to end up hitting negative numbers. There's also an overdraft protection feature where Digit will not move cash from your checking to savings if doing so will cause you to overdraft your account. Our best selections in your inbox. Shopping recommendations that help upgrade your life, delivered weekly. Sign-up here . Why I first downloaded Digit There were a bunch of little things I was using Digit to save up for, like a security deposit on an apartment, a celebration for my 26th birthday, Christmas gifts and a real estate investment I hope to make in the future (we're talking years from now). I didn't want to lump the money for all these goals into one savings account \u2014 I'm more of a visual learner, and I like to see my goals separated but organized. So I was really drawn to the savings bucket feature. And since I was just beginning my financial wellness journey at the time, I also loved the idea of being able to scrape together as much in savings as possible without having to do anything to figure out how much I could really afford to save each month. But after a year on the app and thousands of dollars saved, I realized that I reached a point where the app no longer fit into my financial habits. Here's why I decided to pull the plug on Digit. 1. I transitioned to zero-based budgeting Zero-based budgeting \u2014 where you use every single dollar your earn for expenses and savings \u2014 is one of my biggest strategies for building wealth . It allows me to give every single dollar a job so that I make sure each of my paychecks is completely used up on expenses and savings with nothing leftover for mindless spending. Of course, there're more than one way to create a plan for how you'll use your money. Some people opt for creating detailed spreadsheets while others may use the budgeting features on apps like Empower or Mint . Zero-based budgeting just personally works best for me. Since I was spending time making a plan for allocating for every dollar, I found I didn't really need Digit's randomized automatic saving anymore. I already knew exactly how much money I needed to put toward savings for each goal plus investing in my brokerage account. Because of this, there wasn't any room left for Digit to work its magic. So I decided to pause the automatic savings feature in May, and I kept it that way. 2. It's not the best savings account Most high-yield savings accounts currently offer an APY of 0.5%, but Digit only offers 0.1% APY (as of writing) that gets paid out quarterly, which means I wasn't earning anything much on my balance. Sure, there's not a huge difference between 0.5% and 0.1%, and I'm not going to get rich leaving my money in a savings account. But it would be nice if Digit offered similar rates to other high-yield savings accounts. I decided my money would be better housed in an Ally Online High-Yield Savings Account , so I could take advantage of the higher APY. Plus, Ally also uses a similar savings bucket format that allows users to save toward specific goals. I really love the buckets feature because I like to see my savings separated by goal. And while that was initially a huge draw for me when it came to the Digit app, it made more sense to move my money to an app with a similar feature but more potential for earning from interest. 3. I was still paying for the app but not using the features New Digit customers can get a free 30-day trial when they first sign up. But after that, it costs $5 per month to continue using the app. At first, I thought it was totally worth it since using the app's automatic savings feature allowed me to contribute a lot more money to my goals on autopilot every month. Essentially, I was paying for the convenience of not having to decide when and how much to save for those small goals. But as time went on, and I made the decision to turn off the automatic savings setting and just manually moved my money into each bucket, I began to feel like the $5 a month was a waste. It was an expense I decided had to go, and so it was time to cancel the app. Who should consider using Digit? Even though I'm no longer using Digit, I still like the idea of the app. From the first time I learned about it, I thought the act of automatically saving random, small amounts of money every day was such a smart way to help users successfully ease into their savings goals \u2014 and I still think this is a great idea. Setting up automatic savings allows us to overcome present bias, which often prevents us from making impactful long-term decisions for our future selves because we're biased toward pleasing our present selves. When it comes to our money, we may choose to spend now to satisfy our current wants rather than save for goals that are further into the future \u2014 like that down payment or a car. Digit's features help users overcome this bias. By putting saving money on autopilot, you don't give yourself the choice between spending and saving. At the same time, you can customize the app to save smaller, less intimidating amounts of money you may barely notice if you're saving for a goal that's several years into the future. While the Digit app has run its course for me, it can still be helpful for those who are new to creating and saving for financial goals, like college students , young adults and anyone who just wants a jumpstart with a new financial journey. It's also good for anyone who needs a little help when it comes to balancing how much they spend and save. As for me, I'm excited to continue to tinker with my zero-based budget. That $5 I was spending on my monthly Digit subscription has been reallocated toward my Christmas gift savings bucket, so now I'm a little bit closer to getting my loved ones the presents they really want this year. Read more Catch up on Select's in-depth coverage of personal finance , tech and tools , wellness and more, and follow us on Facebook , Instagram and Twitter to stay up to date. 10 best 0% APR credit cards of April 2026 Brett Holzhauer Capital One miles guide: How to earn and redeem your miles Jason Stauffer How do I choose scalable accounting software for growth? Dana Miranda",
+      "headings": []
+    },
+    {
+      "rank": 3,
+      "domain": "digit.co",
+      "url": "https://digit.co/login",
+      "title": "Log In - Oportun",
+      "word_count": 27,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://micro-cdn.digit.co/images/fb-share.17031c5c.png",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://micro-cdn.digit.co/images/marketing/hug.93e8aada.svg.gz",
+          "alt": "Oportun",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://micro-cdn.digit.co/images/oportun-logo.7794663b.svg.gz",
+          "alt": "Oportun",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://d21y75miwcfqoq.cloudfront.net/4c6caf04",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "Digit has a new name, Oportun Our new brand and redesigned app are here Learn more Welcome back Need an account? now. Forgot your password? Click here",
+      "headings": []
+    },
+    {
+      "rank": 4,
+      "domain": "oportun.com",
+      "url": "https://oportun.com/savings/",
+      "title": "The savings app built around you - Oportun",
+      "word_count": 778,
+      "scrape_status": "tavily_fallback",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": "Loans Personal loans Secured personal loans Make a payment Contact us Locations Tools Loan calculator FAQs Glossary of financial terms Get support from our partners Get savvy What do you need to apply for a loan? What is an installment loan? Save Set & SaveTM Help Contact Tools FAQs Glossary of financial terms Get support from our partners Get savvy 4 Reasons it\u2019s hard to save money and how we can help How to save money on a tight budget with Set & Save Get the all-in-one app that intelligently saves for you. Or manage your loan like never before. Select an account to log in Loans Savings # The savings app built *around you* Set & SaveTM helps you reach your savings goals. We learn your income and spending habits to automatically save money for you. Set your goals and, little by little, you\u2019ll reach them faster than you think. Try Set & Save free for 30 days. $3.99/month ($47.88 billed anually) or $5.99/month after trial. Cancel anytime. ### $1,800 saved per year on average ### 15 million+ savings goals created ### $10 billion+ toward savings goals See more about our numbers ## Personalized pace A little here, a little there. We learn the right times to save for you based on when your bills are due and other guardrails set by you. ## Aim for your goals Save for a rainy day or the every day. From your monthly bills to your trip to Maui. We\u2019ll work toward as many goals as you want, in a way that works for you. ## Your money, your rules Save a little or a lot. Set daily savings maximums or pause savings all together. Keep your money in your account or withdraw as much and as often as you want. ## Protect your balance Tell us the minimum amount you want in your connected bank account at all times. If your balance falls below that amount, we\u2019ll automatically move money from your Rainy Day fund to make up the difference. ## How our savings app works ## 1 Connect your bank account and get set up in minutes. ## 2 We learn your spending habits and income to find smart times to save amounts you can afford. ## 3 Set goals and we\u2019ll save toward them by automatically pulling from your bank and into the app. See how much you can save with a 30 day free trial. ## Your life, your goals Work toward custom savings goals, or just set aside funds for a rainy day. Here are some popular goals our members save toward. ### Rainy days ### Travel ### Gifts ### Down payment ### Loans ### Credit card bills ## A savings app with plans to fit your goals Complete access, billed monthly Save more over time with our best pricing ($47.88 billed anually) Get now 30 day free trial. Cancel anytime. ## FAQ\u2019s ## Save money without thinking about it\u00ae See how much you can save with a 30 day free trial. ## Oportun ## Help ## Products Contact Loans (866) 488-6090 [[email protected]](/cdn-cgi/l/email-protection#aec6cbc2c2c1eee1dec1dcdadbc080cdc1c3) Set & Save (855) 314-5934 [[email protected]](/cdn-cgi/l/email-protection#83ebe6eff3c3ecf3ecf1f7f6edade0ecee) To stay up to date with Oportun, please sign up for updates. Get the Oportun app All your financial needs, right at your fingertips. View state licenses and notices. New Jersey residents: This is an advertisement for a consumer loan. New Mexico residents: TO REPORT A PROBLEM OR COMPLAINT WITH THIS LENDER, YOU MAY WRITE OR CALL: Customer Experience \u2013 Contact Manager, Oportun, PO Box 5609105, The Colony 75056; 888-408-3020; [[email protected]](/cdn-cgi/l/email-protection#febd91938e929f97908a8dbe918e918c8a8b90d09d9193). This lender is licensed and regulated by the New Mexico Regulation and Licensing Department, Financial Institutions Division, PO Box 25101, 2550 Cerrillos Road, Santa Fe, New Mexico 87504. To report any unresolved problems or complaints, contact the division by telephone at 505-476-4885 or visit the website NMLS #1671904. View the NMLS Consumer Access Database. Oportun\u2019s website terms, privacy, and security policies don\u2019t apply to outside sites we reference. Please review those websites for their terms, privacy, and security policies to see how they apply to you. Oportun isn\u2019t responsible for (and doesn\u2019t provide) any products, services or content at this third-party site or app, except for products and services that explicitly carry our name. \\* Member savings based on average saves of all paying app members in the prior 12 months. Not a guarantee; results will vary based on your income and spending. Oportun, Inc. . We care for your privacy and never sell your information to third parties. We use cookies to bring you the best experience on our website. When you use our site, you agree to our privacy policy.",
+      "headings": []
+    },
+    {
+      "rank": 5,
+      "domain": "reddit.com",
+      "url": "https://www.reddit.com/r/personalfinance/comments/mkxgws/goodbye_to_digit_hellodigit_its_helped_me/",
+      "title": "Goodbye to Digit (hellodigit), its helped me automate my savings but ...",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 6,
+      "domain": "proofreadanywhere.com",
+      "url": "https://proofreadanywhere.com/digit-review-save-money-without-even-trying-save-money/",
+      "title": "How to Save Money Without Trying: Digit Review",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://proofreadanywhere.com/wp-content/uploads/2016/11/40325_HowToSaveMoneyWoTrying_295x220_Blog-Feature_102416.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://secure.gravatar.com/avatar/aa8c38f085c45049811d617bcf16c537c57ca27a8bea1e08aeabce2e61977a83?s=100&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/ee2dbdacdf90f629388d4b449d290080513e54bb1ee4b8ae47f0eb38e01d4498?s=100&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/f3b1b24e8072404f3e281c4798faba0150453aae47c826355e952b7ed2a4d541?s=100&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/d70f3e8a306b149ed262daad783c82e50f80bda4621ee80e04204daea3b5dedb?s=100&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/b2bfca7ebbd68e59c4d4d27c090fb91990c4ebf092c2538187ac11cfe673f039?s=100&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/fb77ce83bccb7236e6327f9a8f45a92e9812416ba215a330fc3f7e26f7a4efa2?s=100&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/d6e8d68eb0709aa3b58bb60dc81af1161d8e03695c39adf9922e844031fef83a?s=100&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/ea464f925a4e2c29e15e811c3cc0a4dac3a19dc2e64d52da45f49956f8f9cace?s=100&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/9dd9a5e3f9e329fdb59acdeee015d43427d426432fb311b4cac8ee5d4a9445d4?s=100&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/d679b58ec88ecc02e11acbc64df5ed10e201122ed2cb68503be43df12c899d34?s=100&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 7,
+      "domain": "simplifiedwealth.com",
+      "url": "https://www.simplifiedwealth.com/blog/top-5-apps-to-save-you-money/",
+      "title": "Top 5 Apps to Save You Money - Simplified Wealth Management",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.simplifiedwealth.com/wp-content/uploads/2021/09/AOTM-Photo-no-text-1.png",
+        "alt": "Smart phone with animated emoji displaying",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 8,
+      "domain": "play.google.com",
+      "url": "https://play.google.com/store/apps/details?id=digit.android&hl=en_US",
+      "title": "Oportun: Finances made simple - Apps on Google Play",
+      "word_count": 836,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://play-lh.googleusercontent.com/E7WzVtuHJzwcvdvD0jpjt3t4hHZ8jg_pkrqpLLwzIB3C1TPBXhSYRx_4aZRnY9s6PDI",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://fonts.gstatic.com/s/i/productlogos/avatar_anonymous/v4/web-32dp/logo_avatar_anonymous_color_1x_web_32dp.png",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://play-lh.googleusercontent.com/E7WzVtuHJzwcvdvD0jpjt3t4hHZ8jg_pkrqpLLwzIB3C1TPBXhSYRx_4aZRnY9s6PDI=w240-h480-rw",
+          "alt": "Icon image",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://play-lh.googleusercontent.com/EbEX3AN4FC4pu3lsElAHCiksluOVU8OgkgtWC43-wmm_aHVq2D65FmEM97bPexilUAvlAY5_4ARH8Tb3RxQ=w48-h16-rw",
+          "alt": "Content rating",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://play-lh.googleusercontent.com/17C1pEXsF-7hPjiGjijXX4JtoSCqvLyry9ZIBai9uT7Zq7caFwHrRWgAirP1VNWeEvM=w526-h296-rw",
+          "alt": "Screenshot image",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://play-lh.googleusercontent.com/AIl_H-pjMt_9jzK9e9XN_OvoYiK2gsbI1RCuSQCMhMV7Ld6penF9pfyl4VMtOUJCFDgr=w526-h296-rw",
+          "alt": "Screenshot image",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://play-lh.googleusercontent.com/VrYAbATel-NpUFHS-s94zkoI67GWHzoajVk9MPhDpkf2XvGgdH3L6xQKzE516OeOiE8=w526-h296-rw",
+          "alt": "Screenshot image",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://play-lh.googleusercontent.com/TJcZ432CUDkddufRIcbSvSTT72GACSFiw6scFZeyTJgJ2R5htPQXhG26Nk6vmFvAgn81=w526-h296-rw",
+          "alt": "Screenshot image",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://play-lh.googleusercontent.com/ayCWQCc_14mTnXemyAFiy-RkURyOmP0ETr9ph99YGB_gOVJlyfcAka7nUXR0RexGvA=w526-h296-rw",
+          "alt": "Screenshot image",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://play-lh.googleusercontent.com/3jyZpqYOMysYFOuX76EjxsrjHQhpjoSEMKAOL8NnQ8LkY88_C1h1Dre1ctOljW9GKCw=w526-h296-rw",
+          "alt": "Screenshot image",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://play-lh.googleusercontent.com/iFstqoxDElUVv4T3KxkxP3OTcuFvWF5ZQQjT7aIxy4n2uaVigCCykxeG6EZV9FQ10X1itPj1oORm=s20-rw",
+          "alt": "Icon image",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://play-lh.googleusercontent.com/12USW7aflgz466ifDehKTnMoAep_VHxDmKJ6jEBoDZWCSefOC-ThRX14Mqe0r8KF9XCzrpMqJts=s20-rw",
+          "alt": "Icon image",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://play-lh.googleusercontent.com/W5DPtvB8Fhmkn5LbFZki_OHL3ZI1Rdc-AFul19UK4f7np2NMjLE5QquD6H0HAeEJ977u3WH4yaQ=s20-rw",
+          "alt": "Icon image",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://play-lh.googleusercontent.com/ohRyQRA9rNfhp7xLW0MtW1soD8SEX45Oec7MyH3FaxtukWUG_6GKVpvh3JiugzryLi7Bia02HPw=s20-rw",
+          "alt": "Icon image",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "Games Apps Kids google_logo Play Games Apps Kids none search help_outline with Google play_apps Library & devices payment Payments & subscriptions reviews My Play activity redeem Offers Play Pass Personalization in Play settings Settings \u2022 Terms of Service Games Apps Kids Oportun: Finances made simple oportun 1M+ Downloads Rated for 3+ info Share Add to wishlist About this app arrow_forward Whether you\u2019re saving or borrowing, our finance app is here to help you stay in control. Never money alone. PUT YOUR SAVINGS ON AUTOPILOT Reach your savings goals big or small. Set & Save\u2122 learns your income and spending patterns to find the right moments to automatically set aside money toward your goals. Little by little and day by day, it adds up faster than you think. Our members save over $1,800 per year on average.* > Achieve your goals We can help you turn your goals into real savings. We\u2019ve helped people save over $12.3 billion in total using Set & Save toward 15 million goals, from building an emergency fund to a well-earned vacation and even a first home. We save based on what you can afford, helping you make steady progress without needing to think about it. We look at when your bills are due, when you get paid, and more to personalize your savings. > Stay in control Set limits and give us guidance on how to save for you. Pause saves with the push of a button. Transfer your money back to your bank. Move money from one goal to another. It\u2019s your money and you\u2019re the boss. > Safe and secure Your money is protected every step of the way. Savings held through Oportun are -insured up to $250,000 through our partner banks. We use multi-factor authentication, and trusted technology partners to keep your information safe. > How it works 1. Get set up in minutes: Link your bank account to our savings app and set your goals 2. We\u2019ll get to know you: We find smart times to save 3. Save automatically: We\u2019ll move money into the savings app toward your goals > Get a 30 day free trial See how much you can save with a 30 day trial of our money saving app. Then just $5.99/mo or $3.99/mo with a yearly plan. Cancel anytime. LOAN MEMBERS, WE\u2019RE HERE FOR YOU Are you an Oportun member with a personal loan? It\u2019s easier to manage it in the app. Check your balance, make payments, set up autopay, and refer friends all in one place. The Oportun app is free for members to use for the purpose of monitoring and paying their loan. Looking to apply for a loan? Please visit Oportun.com or call (866) 488-6090 for money borrowing. MORE ABOUT US - Oportun is certified by the US Treasury Department as a CDFI - Oportun has an A+ rating by the Better Business Bureau (BBB) - Formerly known as Digit, our finance app helps you save, budget, and manage your loan. - - - - - - - Oportun offers personal loans in certain states through its partner Pathward\u00ae, N.A., and they are subject to credit approval. Standard data charges may apply when downloading the app. *Based on average saves of all paying app members in the prior 12 months. Not a guarantee; results will vary based on your income and spending. Oportun is a financial technology company, not an -insured bank. However, Oportun holds your deposits in accounts established by Oportun at Wells Fargo Bank, N.A., JPMorgan Chase Bank, N.A., and/or Citibank, N.A., Members (collectively, the \u201cDepository Institutions\u201d). Those deposits are eligible for -insurance on a pass-through basis up to $250,000 in the aggregate with any other deposits you hold at a given Depository Institution. Certain conditions must be satisfied for pass-through deposit insurance coverage to apply. Deposit insurance only covers the failure of a Depository Institution. Oportun does not share information between its affiliates or partners for marketing purposes without consumer consent or as otherwise allowed by law. Updated on Apr 15, 2026 Finance Data safety arrow_forward Safety starts with understanding how developers collect and share your data. Data privacy and security practices may vary based on your use, region, and age. The developer provided this information and may update it over time. This app may share these data types with third parties Personal info, Photos and videos and 2 others This app may collect these data types Personal info, Financial info and 2 others Data is encrypted in transit You can request that data be deleted See details flag Flag as inappropriate App support expand_more public Website email Support email help@digit.co shield About the developer Oportun, Inc. platformservices@oportun.com 1825 S Grant St San Mateo, CA 94402-2655 United States +1 650-412-6085 flag Flag as inappropriate {\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Oportun: Finances made simple\",\"url\":\"https://play.google.com/store/apps/details/Oportun_Finances_made_simple?id\\u003ddigit.android\\u0026hl\\u003den_US\",\"description\":\"Build savings, track your loan\",\"operatingSystem\":\"ANDROID\",\"applicationCategory\":\"FINANCE\",\"image\":\"https://play-lh.googleusercontent.com/E7WzVtuHJzwcvdvD0jpjt3t4hHZ8jg_pkrqpLLwzIB3C1TPBXhSYRx_4aZRnY9s6PDI\",\"contentRating\":\"Rated for 3+\",\"author\":{\"@type\":\"Person\",\"name\":\"oportun\",\"url\":\"https://digit.co\"},\"offers\":[{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"DZD\",\"availability\":\"https://schema.org/InStock\"}]} Google Play Pass Play Points Gift cards Redeem Refund policy Kids & family Parent Guide Family sharing Terms of Service Privacy About Google Play Developers Google Store Cookies management controls Algeria (English)",
+      "headings": []
+    },
+    {
+      "rank": 9,
+      "domain": "credit.com",
+      "url": "https://credit.com/blog/digit-app-review",
+      "title": "Digit App Review: Can the Digit App Really Help You Save Money?",
+      "word_count": 1216,
+      "scrape_status": "tavily_fallback",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": "Home Digit App Review: Can the Digit App Really Help You Save Money? # Digit App Review: Can the Digit App Really Help You Save Money? Published September 23, 2021 * Author ### Kaitlyn Mahoney More about Kaitlyn > According to the Bureau of Economic Analysis, the average personal savings rate in America as of June 2021 was around 9%. That means that people were saving around that much of their disposable income. If you\u2019re following the 50/30/20 rule, you should be saving closer to 20% of your income. If you\u2019re struggling to keep track of your finances and put some cash away for a rainy day, an app like Digit could help. --- ## Credit.com's Quick Facts About the Digit App * Digit analyzes your spending habits to understand what money you'll need for bills and other purchases. * It uses that information to determine what will help you meet your savings goals and makes small transfers a few times a week from your checking into savings. * If your checking balance falls below a comfortable amount, Digit will move money back into your bank account to prevent an overdraft. * Data is encrypted for security and to safeguard your money and financial information, and your cash is protected up to $250,000 using the same level of digital security as governments and militaries. * Try it for 30 days free, then just $5 per month after that. ## What Is Digit? It\u2019s pretty simple: Digit is an online service and app that helps you save money. When you sign up for the service, you answer a few questions and connect your account. You can also set unlimited long-term and short-term savings goals to work toward. Once everything's set up, Digit goes to work taking small amounts out of your checking account and moving them to savings every day. It can help you earmark those funds so you can see how well you're saving for various goals, but you can withdraw funds at any time and use them as you see fit. ## Digit App Features Potentially the biggest selling point of Digit is the automation. It helps you save without actually thinking about saving on a regular basis. Here are some of the features and how they work. * Automatic savings. Digit uses machine learning to analyze your accounts for upcoming paychecks or predicted income, recent spending, and bills. Based on that, it determines an amount to pull from your checking account into the savings app account each day. You may not even realize you're saving, but when you need money, you can look into your account to find it. Saving with Digit gets you a 0.10% annual Savings Bonus paid out every 3 months. * Overdraft prevention. You can create a ruleset to help keep your savings from causing overdrafts. You set a minimum for your checking account, and if the balance drops below that much, Digit doesn't pull from your account. Instead, it puts money from your savings into your checking account to bring the amount up to your minimum. You can turn this feature on and off. * Savings controls. Digit makes it easy for you to determine how it saves money for you. For example, you can set a Safe Saving Level\u2014as long as your checking account is above that amount, it will continue to save for you. You can also set a maximum daily savings amount, and Digit will never move more than that amount. You can even pause savings if you need to take a break from Digit. You can also create a manual save. * Invest with Digit. If you are a US citizen between 18 and 63 years old, you can use Digit to invest. You can set up a retirement account or an investing account, and Digit will analyze your finances to intelligently move funds to your accounts automatically. When you sign up for an investment account, you tell Digit what level of risk you\u2019re comfortable with, and it will match you with a portfolio that meets your comfort level. Digit will match you to a Roth or Traditional IRA based on your income and age. * Direct Bank Account: In June 2021, Digit announced its \u201cbank account with a brain\u201d\u2014a bank account that budgets for you. You can join the waitlist now to get early access to this feature as it goes live. ## Pros and Cons of the Digit App As with any money-management app, Digit may or may not be right for you. Here's a quick look at some potential pros and cons to help you make a decision. ### Pros of Digit * You don't have to think about saving money, which might make you more likely to do it. * You can set rules to remain in control of the process. * You can set specific savings goals to keep you on track and invest in your future. * The 0.10% annual savings bonus pays out almost 2x more than the national average for saving. ### Cons of Digit * You pay $5 a month for the convenience of using Digit.\ufeff * Digit doesn't notify you when it saves money for you, which might make some people feel less in control. * You have to check your accounts regularly and notate Digit transfers to ensure your personal books are balanced. ## Other Options for Saving Money If Digit doesn't sound like an ideal solution for you, that doesn't mean saving is off the table. Here are just a few other options you might consider. * A high-yield savings account. These types of savings accounts help you earn more interest than you might with standard savings accounts. * Apps such as Ellevest or Acorns, which help you save money and invest it for increased earnings. * Mobile banking options such as Chime\\*, which take paper and hassle out of the process to make it more likely you'll manage your own savings transfers. \\(Chime is a financial technology company, not a bank. Banking services provided by, and debit card issued by, The Bancorp Bank or Stride Bank, N.A.; Members *.) ## Get Started Saving Money Today If Digit *does* sound like a great option to you, consider signing up to start the savings process today. --- * Author ### Kaitlyn Mahoney More about Kaitlyn Mahoney > Legal Disclosure Advertiser Disclosure ## You might also like Credit 101 ## It's Financial Literacy Month: Here's What Your Credit Score Wants You to Know Learn how to improve your credit score with essential tips on payment history, credit utilization, and more this Financial Literacy Month. Kevin Cook April 07, 2026 Read more credit report ## Can a Tax Refund Help You Build Better Credit? Learn how to use your tax refund to improve your credit score with these strategic financial tips. Boost your financial health and achieve your credit goals. Kevin Cook February 25, 2026 Read more credit report ## For the Love of Money: Why Today Is the Perfect Time to Check In on Your Financial Relationship Take control of your financial health and strengthen your money relationship with practical tips to improve your credit score and set financial goals today. Kevin Cook January 28, 2026 Read more This link opens in a new tab",
+      "headings": []
+    },
+    {
+      "rank": 10,
+      "domain": "youtube.com",
+      "url": "https://www.youtube.com/watch?v=XIPj0C3YewQ",
+      "title": "Digit & Digit Direct App Review (2022) \u2014 What's New ... - YouTube",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 11,
+      "domain": "budgetsaresexy.com",
+      "url": "https://budgetsaresexy.com/digit-review-save-money-fast-easy/",
+      "title": "Digit Review: The Easiest Way to Save Money? Ever?",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://budgetsaresexy.com/images/digit-savings1.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://budgetsaresexy.com/images/digit-savings.gif",
+          "alt": "digit savings",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://budgetsaresexy.com/images/digit-savings-screenshot.gif",
+          "alt": "digit savings screenshot",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/0631c247bb496cc1e526b10a5762743c25ab417ef34d099d6395e4a806d8b4f2?s=300&d=mm&r=r",
+          "alt": "J. Money",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://budgetsaresexy.com/images/steve-adcock-550x451.png",
+          "alt": "steve adcock",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://budgetsaresexy.com/images/wealth-ladder-two-dollar-bill-book-550x431.jpg",
+          "alt": "wealth ladder book + $2 note",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://budgetsaresexy.com/images/inner-entrepreneur-550x550.jpg",
+          "alt": "inner entrepreneur",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/7ed42806cd171c25a39d8df49053c79945179067bf0f15e8f038e903c2ba7f6f?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/2fc30862b5680b6db4755874fee2f34c35c44b35f5b86b238ac4b78744272bbe?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/0631c247bb496cc1e526b10a5762743c25ab417ef34d099d6395e4a806d8b4f2?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/d0c69a90a5c37cb254add5bb99589ccd2ff118fc447329db5f032856db33c8f9?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/bb7f2006d76673ec907dc1ff10de04eb2a5c2b453fa33864a260b1bb6a2dc6c8?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/14eeedec8c2ab75bc32b93c9b14fa7f35077d3865c4bf16e2d765731fa2286a2?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/93dd6993c81a95e94a09cf4f640f29bc05889e291f08762d920cfd04303fd13d?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/419ee70cbf3e6e962887ce4d263ac521dae2b5ab8c02461a72bd2dcbeb601fd2?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/94441b5d5bec33fd50f491d4ecff55a57dd195e40e8ff9e547247e24bcdee943?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/581dc2df098527852e6ae662f05775814c9ec4ceb5eb2850a406fdd1aea4c294?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/705cedba10dc4126b2efae06749719012ac46de46b68b178befea5ec9020a5b7?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/887dc70c8c8996afe48311808484c514dd45edfe7abee0eda594f015ba6f7ce3?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/907bb0abfee8fea2a69d2a9442df6b474fc5a806fdf1a93f34ac01f2e98fded8?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/b8615f10fac598e1af0fe214722926bb0c58739150549758fc6986f3624b95a9?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/c0d1124320da62fb5887f9dc8a4dd46a4467a58b5b1f901a27bf5969a8e7ae63?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/a5c6c6cde20ff86045c15c8497aa2429110ff12ccebfebc0d75c0e667c0727c1?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/a83deffc62cc0f5736bf57081d8994ff524ed8f967967d3ee252f9507635a25d?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/19fae82f2d4440ac6c981d8472fda6ef7e0f33b8db2386c1d87288ecfabce548?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/9383b408817a85ca1fead1dc11d5bd6312b0a36fd725937691acbf4cc5356110?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/bf9727fbaa2c2864fef9869e478c175fe138c8324941a0c5105e3c3764c4c69d?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/849ceda28c84e28d1e1f938e85d8ac2fea51dd353a0c57fc46df45977e423636?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/71c0bfe1ab6c1f83914f3e480cff22bbcc93eaa46f9751c5aeac3fd968b2efa0?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/58c988a717ef7fcf5bdf432ed6b764298bbe56f626005d0b90a34cb62bbdb8e4?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/da72cc902caa41ae74b96dc3d9f2e294c622be2d66a6c219493916c2c5d3d6e5?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/1232725655df914b672d6ced5a53c9b1909b4c8d0cbadc2b97e242b62a678886?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/e8dd24180a5da214ac90479d1fdc462dacae84fa26809ba87059743398edc319?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/fdfdb22368ad1a1916ef4e53b3820aee086144e87dadb7d805add367ed43dc92?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/af1ba2412a518170579713e8d02a4780641c22c2e50f510a925e47d83d7c98e6?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/46abd277a2177337e7333033c5135e7e6d7257f9427dbb159bef9ae6afb0a4e1?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/4b747919c30e8884dd3ef3435d27031d3c0994feaacacab7b6094b733e10489d?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/131245c6305a944b54419c79727d14a1049d2f0fbb93d46e97dbc7d917d3cb07?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/8ad51fb5885bfbd9ce738d805f42f0517dd2308a39e4430806e0da45abdda823?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/6041b34b7338eab4527ed2c5a92d1ce6e5843df152ff9ffbe4336e7ecc14a0e6?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/0083488069b9aca7e208b88b7a35fd07b61a1a063ce818996dc074065c79b36c?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/4f8b025ab35ff57e8948490affaba549277b497674d4c30559a7a2ad6cca8dd4?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/61e65e5fe2327d688b179882b908563d7370f3e738428259730d9295b50672c0?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/d973f4774ac552ba91c89a82cd55d166d8f28f0f16b18be25e5217c4aa338f3b?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/27c80f56cb3bf5ef0bc9ba6b17d927370bb39e427797df13097d602f2d811e48?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/c27331e195de3d09797c68dcb35ebf605c4eded9e708cca451ed4f68e7d1b038?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/547152b773d5351bb18075b34ead491ccd1495e2d728e2ac650cba9c296146fd?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/a351e67e6b676e9c3e51355d3113d9597fcc4ab7d0584fe197dfcb55a99c6c3c?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/53efaa4c4b42b225dcd8fa41f202118e145c686b9bc7ab22aa6574afde8da992?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/78160d7928e0e2476b88a917b4a0042c55cb808d6dfb1be3fbdeddfb14430a9e?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/0687508fac76f6891602401dd0c14023142580cdcdbd4ba8564d628f7015f3b1?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/16394dcede31e47ffca2790f4f15be1fec08093191532699ff7879bc9fac6717?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/efcd7c3318aec5ee76ab4dcf491b0afdbc2c8164295337129c90948dcc39b567?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/d925d665b47133f94cecb0d50ff8f7bf56be6ce1ada434978f609fdf23fd4a92?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/31cb9225a341bef9883b504051277ee3c5430f9e7c0de5d7ebb6f4a719815eca?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/ed82caa50158273f995a2e3a2117a0b006e3986e1920845248d0230aacb84540?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/12a046692023eda8c350361291340f8e49d98b59bfcecec92dc45d251a9266d5?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/621540d85cb6f96a955907bf25eaa00125f5bad621e29fdc5325787597aff638?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/8622ac8c7c352acfaf212e578c12b5447f62895e358c60c0c517aef69d50105e?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/2ddbdc34a34ddb585754c94debd02386a4ee644f485651af5d164a58ae5f7d2d?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/9e514d5f02b02aca6e1faa4fef400e071b561836f400f5d2f70a7d3a0323c5f1?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/e9448cf00c7b23429717501ed59872b57db4e27a3850636adad47c58b1ed97a6?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/81e222125865798bc246845ab649953f5589c23ca7db8d5db74f1d986436db90?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/f010170b56e9c27990a9bc5ffc7e9a7d5dfb61aed7cbbdb52a14b0c511722a55?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/6dc4d600b989a42ad6417070e7dc9d5c1d1c8cf17995b2a082112808667dab4d?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/9cf3acf505420b8d8a4c23ff9ed8683fe858c75c4fd747b918507508301f4798?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/c6848b043c8ee0b9e5730a05ef88a4a88ba7083453725cb676ff860e4f4ecfee?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/7a9a009efe728ecc236253ec5aad023e184cfc6ffef481dde61fcc9ceb18fd16?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/486c7ad6b61dd52a34920e10d21b4eabee67f08c70385961b3bfca563eb9f937?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/bb6cd4655ed222f0db35826021f271d72c68b7d44176c923eb430efb64346e8e?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/b41432e1b51725840cdc47da5876bcbe2831fe3aeea89c2b8997b39e9b52299e?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/47140333ac7981ca89234ae1488d9b42435ca42b84a42ad850f9d87cb1a90ead?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/c3c766e7cdd7dfa0c33b757ad4da0eae65a02ec922740f6829562ea498429d75?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/eeb1ef144ab8dd1d35e62ef4313dbf945f2f8e51088ffe5c293795a76f682119?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/6d59aa3b3519f44c16ea768ab7bcfc301b525b873a2a3870e241257d4cb2875a?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/cf69ef8c48be08ec393a217ddf4f88de0190a4112038709ce22ad446e9643f4e?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/1a2c42e7a1d18110d07d894e672dd904a53f180a464a1b933a26a11782b73784?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/b70e2b207870eac405d923ec6bbcbad61a5354956e016d2043130da636764a37?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/4fd953736b7a36b07a881916282e6066b950e940a00dfcca12e257625dd47006?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/7784e1815d170a8ff8a0bc74121fcfdcd283f0130d052b76cac787c690820af9?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/ba6d967f74c51ed51e75d326ce9e4687edd9491b4ba674479c6bbed8711ddd96?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/0f77e00432c371b50e0427fc6cbf9e2487461fc319b539259ebc6a3211af58fa?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/6588eeaaa1ef6e812c21a5d4ff1f987194aed63758e210a51c1be0d08a4ccd71?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/99aa2e0e0363d7941ba3470d2f926c916cd8fe707435c09bd9f672c669ff6853?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/3d3b47e0e43a2749981d3339438ec885be54706589a29095ce28d2cbc2194fab?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/696f650814f143d043a6e6468fe12ef33eb5398357370d4e6901c3d4b3cffb52?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/93026a0582b2a1abd5dc478e7439b77da56cab6eaaae978ea9ddcf7a905be5f3?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/67c30b5b6ff7ed2a7b79d31e63cbe39003f64f63ff7b5bd7286f4640be6c1d61?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/87b601ff7e85c6127e846e73488c0a5d538a07b98522cba8cbe3ac4d4ef07c8b?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/9b20af86b99fefb0ff739c3b8a2b95b2f9bba728675f674fbd00ad48077e9e1b?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/424ac5d15b3c0260bbc6d668d2f917b95e4de892945b46e1f414e353d821ed58?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/5076bf8d9732b7c6baf16892c06fc9d398f58a245ed23deded5ab58a2a983585?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/c503c0c5f6d18994cecba8892f4c24682e22f9655e75ec986e4a63453326083a?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/702656141447cbf2a134da96438b901782fd9916d3718a14d290ec9d3e087df7?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/e34c7bac7d2932792fa43789c2820ff21ab6ec76c9c3563a8ac65839d4a8112d?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/a52fae35d97ebc274cd019f62e0d87f63a5d0a4c5e603ee1eb2d0b52c8a1c2ec?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/a6d972ce8bf2666dc3d0bd6b8a57b3af97958f4ccd0d5d6fcc89b49b9e6a521a?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/cc4006ae1dd3a7b41ac98dead29c80e87728ad0abaf5e44d092623c278bcbc7a?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/118332c16d9baf1381ea95964e191f079452e115e6a15d922386677de9bd8162?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/491579d5652017423eb0ba9e2b76f5ab0f98361b2794bb839df799b0d8688d5c?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/3f2d211f6c92bdfe9a0980845fbe8e367f3f1748cb868f94f42cfd6c7758f4e0?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/a655664dc91a63ad3cdfe71af544b1c7e091eb3a96e3396639a5b9173022b886?s=150&d=mm&r=r",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 12,
+      "domain": "businessinsider.com",
+      "url": "https://www.businessinsider.com/personal-finance/banking/oportun-savings-app-review",
+      "title": "Oportun (Digit) Savings App Review 2024",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://i.insider.com/64ae09c48ed31300199e8ba8?width=1200&format=jpeg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.businessinsider.com/public/assets/logos/placeholder.png",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 13,
+      "domain": "listenmoneymatters.com",
+      "url": "https://www.listenmoneymatters.com/digit-review/",
+      "title": "Digit Makes Paying Yourself First Easy And Automated",
+      "word_count": 1090,
+      "scrape_status": "tavily_fallback",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": "# Digit Makes Paying Yourself First Easy And Automated #### We are advocates of automating your finances and that includes automating saving money. But we don\u2019t want saving to crimp your style. That\u2019s why we love Digit. You can automate saving using Digit. We interview Ethan Bloch the CEO of Digit to learn how to automate saving without feeling it in your wallet. ## Pay Yourself First Probably the most important tenet of personal finance is pay yourself first. That means that putting money into savings should always be a priority. Get your essential bills paid and then pay yourself before you start spending on non-essentials. That can be easier said than done. You might have every intention of saving, but at the end of the month, there is no money left over. Or you might be a little too gung-ho like many of us are when we start to try to improve some aspect of our lives. You throw so much money into savings that you come up short in paying your essential bills and have to transfer the money back to your checking account. If that sounds familiar, there is a new service that can help. ## What is Digit? Digit is an automated saving service that helps you save small amounts of money at a time. It makes paying yourself first easy. Ethan and his partners started the company because they decided to design a product they wished already existed. (We have heard this more than once when we interview tech company founders). To use the service, you connect it to your checking account. More than 2,500 banks and credit unions are supported. This allows monitoring of your checking account. Digit analyzes things like when you get paid, upcoming bills, recent spending patterns, and your checking account balance. When it sees the money that you aren\u2019t using according to your regular habits, it socks that money away by transferring it to your Digit account. The average transfer is $23 every three days. The money is stored in a custodial account that is insured for up to $250,000. This might make you nervous. What if they transfer money that you had intended to use to pay your rent? That doesn\u2019t happen. The algorithm knows your earning and spending patterns; it doesn\u2019t transfer money needed for regular expenses. By looking at the patterns in your checking account, only amounts of money you won\u2019t miss are transferred. But what if it does happen? If your account is overdrafted, Digit will cover the fee up to two times per customer. Still nervous? Text the word \u201cMinimum\u201d to Digit and set a number. If your checking account balance goes below that number, no savings will be harvested. You can manually transfer money to your account anytime by texting the word \u201cSave\u201d followed by the amount you want transfer. You can create different goals within Digit. If you want to save for a vacation or a new phone, you can direct money to those goals. The general pot of money that makes up your account is your \u201cRainy Day Fund.\u201d If you need the money back in your checking account, you can send a text message to Digit. The money will be transferred back into your checking account the following business day. Digit doesn\u2019t charge you a fee so how do they make money? They collect the interest on the money held in each account. This is our guide to budgeting simply and effectively. We walk you through exactly how to use Mint, what your budget should be, and how to monitor your spending automatically. ## Signing up for an account is quick and easy. If you have more than one account with that bank, choose the one you want to use. Be sure to use the account that has the most activity which will likely be your checking account. That\u2019s it! The first transfer hits Digit within 2-3 days. You will also get a referral link. Earn $5 for each person you refer. ## Digit Review Digit is a neat concept. It\u2019s like Acorns but for saving rather than investing. And like Acorns, you aren\u2019t going to get rich saving such small amounts of money. If you aren\u2019t currently saving, any savings is better than none, especially if you don\u2019t have any emergency fund. For those who are young and new to saving, the service is excellent. It\u2019s easy to use and gets you in the habit of saving. For those who are older and still not saving, it may be too much of an easy out. It\u2019s something you can do that will make you feel better. \u201cSee, I\u2019m finally saving!\u201d But if you are already late to the game, you need to be more mindful of saving than this requires you to be. Be aware of how much money you can save each month, not have it \u201ctricked\u201d out of you. Create a budget and include paying yourself as one of the non-negotiable categories. You also need to save more than you are likely saving each month with Digit. Those little amounts are not going to do much to fund your retirement one day. There is no charge for the service, but your money isn\u2019t making you any money sitting in that account either. To be fair, it\u2019s not making you money sitting in your bank\u2019s savings account either, but that money could be invested in making you an average of 7% a year. ### Pros ### Cons ## Bottom Line Digit is a useful service for young people who are new to personal finance and saving money. It can help teach proper habits like saving an emergency fund (rainy day fund) and for specific goals. If you are older and just like the idea of saving a little extra money apart from your regular investment and retirement accounts, Digit indeed does that for you. ## Show Notes Digit: Automate saving using Digit Keegan Ales Hurricane Kitty: A heavily hopped India pale ale. Forbidden Traveler Apple Ale: A crisp wheat beer brewed with real apple. Digit LMM Offer: Be among the first to sign up for Digit. ### Fiscal flexibility that\u2019s funny, free and delivered weekly. ## What's next? We've made a list of the best tools and services out there to help you *budget like a pro*. Check out our free playlist, *Cutting Your Expenses*. Find out how to budget effectively and start saving money on everything in your life. ### Fiscal flexibility that\u2019s funny, free and delivered weekly.",
+      "headings": []
+    },
+    {
+      "rank": 14,
+      "domain": "daynabolden.com",
+      "url": "https://www.daynabolden.com/daynaboldencom/2021/6/16/saving-money-effortlessly-with-digit-direct-by-metabank",
+      "title": "Saving Money Effortlessly with Digit Direct by Metabank",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "http://static1.squarespace.com/static/589bd24a86e6c0e335127ee2/58d9582f86e6c087a947f61e/60ca673af88ff35ba3dbf17a/1623877657776/Image+1+2.JPG?format=1500w",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 15,
+      "domain": "thebudgetnista.com",
+      "url": "https://thebudgetnista.com/app-for-saving-digit/",
+      "title": "Digit, One of My Favorite Apps for Savings",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://thebudgetnista.com/wp-content/uploads/2015/11/digit-facebook-big-green.6f1b259d.png",
+        "alt": "digit",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "http://thebudgetnista.com/wp-content/uploads/2015/11/digit-logo-green-300x142.gif",
+          "alt": "digit-logo-green",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "http://thebudgetnista.com/wp-content/uploads/2015/11/Screenshot-2016-03-15-18.19.14.png",
+          "alt": "Screenshot 2016-03-15 18.19.14",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "http://thebudgetnista.com/wp-content/uploads/2015/11/Screenshot-2016-03-15-18.16.42.png",
+          "alt": "Screenshot 2016-03-15 18.16.42",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "http://thebudgetnista.com/wp-content/uploads/2015/11/Screenshot-2016-03-15-18.15.50.png",
+          "alt": "Screenshot 2016-03-15 18.15.50",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "http://thebudgetnista.com/wp-content/uploads/2015/11/Screenshot-2016-03-15-18.13.48.png",
+          "alt": "Screenshot 2016-03-15 18.13.48",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "http://thebudgetnista.com/wp-content/uploads/2015/11/Screenshot-2016-03-15-18.12.59.png",
+          "alt": "Screenshot 2016-03-15 18.12.59",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "http://thebudgetnista.com/wp-content/uploads/2015/11/Screenshot-2016-03-15-18.11.05.png",
+          "alt": "Screenshot 2016-03-15 18.11.05",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "http://thebudgetnista.com/wp-content/uploads/2015/11/Screenshot-2016-03-15-18.10.02.png",
+          "alt": "Screenshot 2016-03-15 18.10.02",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "http://thebudgetnista.com/wp-content/uploads/2015/11/Screenshot-2016-03-15-18.09.14.png",
+          "alt": "Screenshot 2016-03-15 18.09.14",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 16,
+      "domain": "youtube.com",
+      "url": "https://www.youtube.com/watch?v=KRza1MivoyY",
+      "title": "App Review: Digit - Save Money Without Thinking About It",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 17,
+      "domain": "applevis.com",
+      "url": "https://www.applevis.com/apps/ios/finance/digit-soon-be-oportun",
+      "title": "Digit, soon to be Oportun - Apps",
+      "word_count": 740,
+      "scrape_status": "tavily_fallback",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": "## Main navigation ## Breadcrumb # Digit, soon to be Oportun ### Description of App JOIN THE SAVINGS REVOLUTION Save money, pay off debt, and achieve your financial goals without thinking about it. Join the finance revolution that's saved users $1 Billion. Digit is the smart money sidekick that keeps you financially healthy. Every day, Digit analyzes your spending and moves the perfect amount of money from your bank account to your Digit account. In 2017, Fast Company named Digit the second most innovative Finance company. FEATURES \\* Digit saves the perfect amount of money everyday based on your income and spending \\* Save for an unlimited number of goals. Digit tells you the intelligent timeline for achieving them. \\* Protect your bank account from overdrafts. Digit notifies you when your account balance is low. \\* Withdraw your money from as often as you like. No fees, no minimums. \\* Earn 1% annually on your Digit savings. That's 15X more than most savings accounts! \\* Bank-level SSL 128-bit encryption securely protects your funds and sensitive personal information \\* Your Digit savings are held at -insured banks and insured up to a balance of $250,000 PRICE Digit is completely free to try. After your trial period, a monthly subscription costs $2.99 and can be canceled anytime. WHAT PEOPLE ARE SAYING US News: \u201cThe Digit app makes automatic saving a breeze.\u201d [1] The Verge: \u201cDigit is the automated savings plan we\u2019ve been waiting for\u201d [2] Fast Company: \u201cTurning saving money into a mindless task\u201d [3] USA Today: \u201cThe best part about Digit is its ability to calculate how much to save from day to day.\u201d [4] [1] [2] [3] [4] ### Version ### Free or Paid ### Device(s) App Was Tested On ### iOS Version ### Accessibility Comments Mostly accessible, but has a few issues. ### VoiceOver Performance ### Button Labeling ### Usability ### Other Comments It's so nice to be able to effortlessly save money without thinking about it. have already saved over $100 in less than a month THis application puts away money for you in a separate savings account automatically. I love this app because it has allowed me to save money without even thinking about it. In addition, I can use almost every feature simply by texting the phone number it gives you. The app has some accessibility issues, but overall it is quite useable. Perhaps by posting it here, these issues will be fixed. NOte, the service is $2.99 per month, although the first 3 months are free. ### App Store Link ### Developer's Website ### Recommendations 1 people have recommended this app ## Options ## Comments ### Looks neat. Have you By KE7ZUM on Monday, August 5, 2019 - 18:47 Looks neat. Have you contacted the developers as to what the problems are etc? Ths sounds neat. ### accessibility issues By Quinton Williams on Monday, August 5, 2019 - 18:51 In reply to Looks neat. Have you by KE7ZUM Yes, I received a couple of responses a while ago but the app has still been really glitchy. Setting goals is pretty much impossible and that's one of the most useful features. Overdraft protection is definitely really nice and so are the text messages it sends out. ### Oh, one more thing, how do I By KE7ZUM on Monday, August 5, 2019 - 19:10 Oh, one more thing, how do I change the over draft protection. I want it higher than the default just in case. ### not for me By mendi on Wednesday, August 7, 2019 - 18:13 I looked at digit. I'm not sure how I stumbled across it, but I thought, saving money effortlessly for $3 a month? Sign me up! But then... their fee is now $5 a month, and it's only a 30 day trial. I closed it and will go back to depositing my own savings every payday. ### I love the app, I can use By KE7ZUM on Thursday, August 8, 2019 - 16:47 I love the app, I can use their website to do everything I can do on the app and more. Man it rocks. If you save 1000 dllars in the account 5 dollars really is nothing, and besides it adds up to about 3 as apple takes about 2 of that away. ## Site Information Unless stated otherwise, all content is copyright AppleVis. . | Accessibility | Terms | Privacy | A Be My Eyes Company",
+      "headings": []
+    },
+    {
+      "rank": 18,
+      "domain": "nex-techwireless.com",
+      "url": "https://www.nex-techwireless.com/blog/post/digit-save-money-automatically",
+      "title": "Digit - Save Money Automatically",
+      "word_count": 105,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.nex-techwireless.com/assets/images/layout/nextech-social-share.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.nex-techwireless.com/assets/images/layout/logo.svg",
+          "alt": "Nex-Tech Logo",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.nex-techwireless.com/assets/images/layout/magnifier.svg",
+          "alt": "green search icon",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.nex-techwireless.com/document_center/download/blog-photos/Digit.png",
+          "alt": "Digit",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.nex-techwireless.com/assets/images/merlin-m.png",
+          "alt": "Merlin",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "Digit Save Money Automatically Automate your savings. Digit is the free, effortless way to save money without thinking about it. Every few days, Digit checks your spending habits and saves a few dollars from your checking account if you can afford it. Jarrett, a Cell Technician for Nex-Tech Wireless, recommended this app and enjoys using Digit to help save money for the holidays. \u201cIt\u2019s a money saving app that pulls a few dollars here and there and puts it in a separate account, and builds interest. If you need the money you can send it back to your account anytime.\u201d Available on iPhone and Android.",
+      "headings": []
+    },
+    {
+      "rank": 19,
+      "domain": "savingtosail.com",
+      "url": "https://savingtosail.com/digit-money-saving-app/",
+      "title": "Digit \u2013 A Super Cool Money Saving App",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "alt": "You're Invited to Digit - a money saving app",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://savingtosail.com/wp-content/uploads/2015/03/digit-money-saving-app-sign-up-button.jpg",
+          "alt": "You're Invited to Digit - a money saving app",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/aa84e0e372f64b2983a48fe96644b5ee068442753a9ff5ac616b6ca07179d74f?s=80&d=mm&r=pg",
+          "alt": "Florencia",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/14e280003824c1b8efcc60effb8abb2d4f065680ef37fec409b8bf1f1274edf7?s=80&d=mm&r=pg",
+          "alt": "Saving to Sail",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 20,
+      "domain": "mybanktracker.com",
+      "url": "https://www.mybanktracker.com/savings/reviews/digit-qapital-rize-compared-271740",
+      "title": "Digit vs. Qapital vs. Rize Mobile Savings Apps Review",
+      "word_count": 2510,
+      "scrape_status": "tavily_fallback",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": "Advertiser Disclosure: Many of the offers appearing on this site are from advertisers from which this website receives compensation for being listed here. Compensation may be earned on this website when a customer clicks on a link, when an application is approved, or when an account is opened. This compensation may impact how and where products appear on this site (including, for example, the order in which they appear). These offers do not represent all account options available. \\*APY (Annual Percentage Yield). Rates / Annual Percentage Yield terms are current as of the date indicated. Rates are subject to change without notice and may not be the same at all branches. These quotes are from banks, credit unions, and thrifts, some of which have paid for a link to their website. Bank, thrift, and credit unions are member or NCUA. Contact the financial institution for the terms and conditions that may apply to you. Editorial Disclosure: This content is not provided or commissioned by the bank advertiser. Opinions expressed here are the author\u2019s alone, not those of the bank advertiser, and have not been reviewed, approved, or otherwise endorsed by the bank advertiser. This site may be compensated through the bank advertiser Affiliate Program. Rates / Annual Percentage Yield terms are current as of the date indicated. Rates are subject to change without notice and may not be the same at all branches. These quotes are from banks, credit unions, and thrifts, some of which have paid for a link to their website. Bank, thrift, and credit unions are member or NCUA. Contact the financial institution for the terms and conditions that may apply to you. Editorial Disclosure: This content is not provided or commissioned by the bank advertiser. Opinions expressed here are the author\u2019s alone, not those of the bank advertiser, and have not been reviewed, approved, or otherwise endorsed by the bank advertiser. This site may be compensated through the bank advertiser Affiliate Program. Rates / Annual Percentage Yield terms are current as of the date indicated. Rates are subject to change without notice and may not be the same at all branches. These quotes are from banks, credit unions, and thrifts, some of which have paid for a link to their website. Bank, thrift, and credit unions are member or NCUA. Contact the financial institution for the terms and conditions that may apply to you. Editorial Disclosure: This content is not provided or commissioned by the bank advertiser. Opinions expressed here are the author\u2019s alone, not those of the bank advertiser, and have not been reviewed, approved, or otherwise endorsed by the bank advertiser. This site may be compensated through the bank advertiser Affiliate Program. # Digit vs. Qapital vs. Rize Mobile Savings Apps Review: Which is Best for You? Most of the time, saving money requires active effort. You need to track your finances to figure out what money you need for daily expenses, and what money is extra. Then, you need to go to the bank and move money from your checking account to your savings account. This can be a lot of effort, which is part of why many people don\u2019t save at all. Digit automates the savings process by moving money from your checking to the Digit savings account for you based on your spending habits. ### Digit App Pros & Cons | The Good | The Bad | | \n--- | \n--- | | * Takes the thinking out of saving * Annual bonus on your savings * Android/iPhone Mobile apps available | * Has a monthly fee * Not very intuitive process after the initial setup | ### Let Digit choose when and how much to save You start by linking your checking account to Digit. Digit\u2019s program will then automatically look at your transaction history. It scans that history for income and common expenses and tries to predict your usual cash flow. For example, Digit will learn when you pay rent each month and how often you\u2019re paid. Digit will then use that information to determine how much money you need to keep in your checking account. If you have some extra cash laying around, Digit will automatically transfer it to your savings account. Digit can do this on a daily basis, saving a few dollars here and there. Over time, the savings will add up. If you\u2019re worried that Digit will accidentally move money that you need to spend, Digit offers a no-overdraft guarantee. If you overdraw your checking account due to Digit\u2019s auto-saving, Digit will reimburse you the first two times that it happens. Digit will send you text messages regularly to let you know how much it\u2019s saved recently and your current account balance. Withdrawing money is as easy as replying \u201cWithdraw $20.\u201d The money will be back in your checking account the next day. ### An annual bonus to grow savings but pay a monthly fee With a Digit account, you\u2019ll earn a 1% annual savings bonus and it is paid every quarter. The bonus is calculated off the average daily balance over a 3-month period (that balance is multiplied by 0.25). However, Digit charges a $2.99 monthly fee for the service. There is a 100-day free trial for everyone to see if it works for them. Digit is ideal for people who want to save without any specific goal and who don\u2019t want to have to think about saving at all. Everything is done automatically. ## Qapital Qapital App Qapital works much like a bank by providing you with a checking account and a number of goal accounts. Each goal account is dedicated to a specific goal that you\u2019ve set up, like going on vacation or buying a new smartphone. Once you\u2019ve moved your money into your Qapital checking account, you\u2019ll have to set up saving rules. You can use the basic set-and-forget rule, which automatically transfers money to a goal account each week or month, but Qapital\u2019s more unique rules are where the app really shines. ### Qapital App Pros & Cons | The Good | The Bad | | \n--- | \n--- | | * Easy step-by-step setup * Great interface * Customize \u201crules\u201d for automatic savings * No monthly fees or transaction fees * Android/iPhone apps available | * Low interest rate | ### Set your own savings \u201crules\u201d Qapital App Goals You can have Qapital round up each purchase and deposit the difference in a specified goal account. If you spend $2.25 on a bus ride, the transaction will round up to $3 and the $.75 difference will be sent to the goal account. You can set up a goal to spend less than $25 on coffee. If you succeed, whatever was left over will be transferred. You can even set up a rule that will make an automatic transfer each time you go to your favorite restaurant so even indulging a guilty pleasure will be helping you save. Examples of other \u201crules\u201d you can use: As a bonus, Qapital offers a bunch of convenient banking features, like the ability to get paper checks mailed to someone through your smartphone app. ### No fees at all The biggest draw to Qapital is that is are absolutely not fees involved with the account. There are no monthly fees or transaction fees. Additionally, every Qapital account earns interest, but it isn\u2019t much \u2014 not even close to what you\u2019d get from online banks. The most attractive feature of Qapital are the \u201crules\u201d that you can customize to make saving a little more fun. ## Rize Rize Rize does not yet offer native mobile apps (they\u2019re on the way). However, its mobile-browser experience is well-designed. Because of this, it is still included in the comparison. Rize functions like a standard savings account with a few extra features that help you save towards your goals. When you open a Rize account, you can link your checking account and set up a number of savings goals. You tell Rize how much you need to save to meet each goal and how much to transfer from your checking account each week or month. Rize will pull money from your checking account automatically and place it in your savings account. You can tell Rize how to allocate your savings to your goals. If you save $200 per month and want to put $100 towards a house down payment, $50 towards a future vacation, and $50 towards an emergency fund, you can do that. Rize keeps the money in one account, but you can view the breakdown to see how much you have saved towards each goal. ### Rize Pros & Cons | The Good | The Bad | | \n--- | \n--- | | * Different ways to set up automatic savings * You decide how much you pay in fees | * No native mobile apps | ### Power up your automatic savings strategy To help you save more, Rize offers two \u201cpower-up\u201d features. The Accelerate power-up automatically boosts your monthly saving by a small percentage. For example, if you aim to save $200 each month, you can set accelerate to increase that amount by 1% each month. In the second month, you\u2019ll save $202, the third month, $204.02, and so on. After a year, your monthly savings will have increased by 13% and you probably won\u2019t have noticed the difference. The Boost power-up functions much like Digit. Rize will monitor your checking account and pull any excess cash out automatically, up to $5 at a time. This will give you an extra push towards your goals. ### Pay what you want Rize operates on a pay-what-you-want fee schedule. You can pay nothing or a small percentage of your savings \u2014 whatever you feel the service is worth. Your Rize account will earn interest at a rate that greatly exceeds the average offered by national bank chains. The savings rate isn\u2019t as high as some of the top online banks, but it is fairly decent. Rize is great for people who want the convenience of having one savings account, but the ability to save for multiple goals. ## Savings Approach Each app has a different savings approach that will fit different types of people. ### Digit is all about automation without any thinking on your part Once you set it up, you don\u2019t have to do anything and your savings will start to pile up. ### Qapital is more hands-on You have to set up rules and conditions that trigger its savings features. If you want to try to encourage yourself to do certain things like spend less at Starbucks or to go to the gym more often, Qapital offers the flexibility to help you. It adds some fun to saving. ### Rize is all about goals You set up automatic transfers and Rize will move the money to one account. It will then give you a breakdown of what amount of that money is dedicated to each goal. If you have a variety of financial goals, Rize can help you track them all. Ultimately, you\u2019d probably gravitate towards one of the above that matches your savings mentality. ## Cost and Fees When it comes to bank accounts, it is always an important question to ask how much an account costs. Fees can add up and they\u2019ll slow down the growth of your savings. Digit charges the largest fee of the three, offering 100 days of service for free, and then charging $2.99 per month (nearly $36 annually). Qapital charges no fees for the service. That makes it a good choice for savers on a budget. Rize lets you set your own fee for the service. If you don\u2019t want to pay, you are not obligated to. If you want to pay a small amount each month, you can. Qapital and Rize win in this category by allowing you start saving for free. ## Insurance for Your Savings Your typical bank account is insured by the Federal Deposit Insurance Corporation (FDIC). With these other savings apps, you\u2019re moving money into separate accounts. You\u2019d want to know that your money is still safe. Luckily, all three apps offer insurance that you\u2019ll get your money back. Digit and Qapital offer insurance through the because the deposits in their accounts are held with -insured banks. Rize, on the other hand, offers insurance through the Securities Investor Protection Corporation. Both the and SIPC insure balances up to $250,000. So, you can rest assured that you\u2019d get your money back if any of these companies shut down. ## Mobile App Experience Mobile banking has become a standard method of how you access and manage your money. A great mobile app can increase the likelihood that you\u2019d pay more attention to your savings. Digit and Qapital offer full-fledged mobile apps that provide complete control over the accounts, such as looking at balances, configuring goals, etc. Rize, however, does not yet have a native mobile app for its customers. Access is available through a mobile-friendly website that looks and feels much like a well-designed mobile app. Rize says that the apps for iOS and Android mobile devices are on the way. ## Which App is Best? First, you\u2019d have to identify which savings approach matches your financial mindset. Want to save automatically and don\u2019t have any goals in mind? Use Digit. Just note that you\u2019re going to pay a monthly fee for the privilege of not thinking about your savings. Want to introduce some fun to the way you save? Have specific goals to save towards and don\u2019t mind having lots of accounts? Use Qapital. You might want to play around with the \u201crules\u201d from time to keeps things fresh. Want to simplify your savings with a single account but have multiple savings goals? Use Rize. ## Why Not Use an Online Savings Account? An online savings account will help you save, but does not offer all the features of Digit, Qapital, and Rize. Online savings account do offer low fees and great interest rates, generally better than the apps offer. They also have sleek phone apps that make it easy to use your account. Many offer other features to help manage your money or bonuses like ATM cards to make withdrawals easy. Still, they can\u2019t do much to help encourage you to save. Rize is most similar to an online savings account, but even it has some features that set it apart. The most that an online savings account can do to automate your savings is let you set up recurring transfers. It cannot move money for you by analyzing whether you\u2019ll need it like Digit can. Similarly, you can\u2019t create complex rules to trigger savings like you can with Qapital. An online savings account is fine if you have the discipline to set up a recurring transfer from checking to savings. Some let you create multiple sub-accounts for specific goals as well. ##### Give me feedback - did you enjoy this article? ##### Oops! What was wrong? Please let us know. #####",
+      "headings": []
+    }
+  ],
+  "battle_plan_generated_at": "2026-04-26T10:43:16.289446+00:00",
+  "competitors_analyzed_count": 2,
+  "battle_plan_method": "local_deterministic_agent_no_api"
+}

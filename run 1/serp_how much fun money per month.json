@@ -1,0 +1,724 @@
+{
+  "article_context": {
+    "angle": "Behavioral tricks to redirect spending impulses into savings",
+    "pain_points": [
+      "Tracking expenses but lacking a budget framework to act on them",
+      "Impulse spending undermining financial control",
+      "Living paycheck to paycheck with no savings buffer",
+      "Fear of confronting actual spending habits",
+      "Hidden or forgotten recurring costs draining money"
+    ],
+    "top_social_questions": [
+      "How do I create a budget that actually works?",
+      "How can I stop impulse spending?",
+      "Where is my money going?",
+      "How much should I spend on groceries/food?"
+    ],
+    "dominant_emotion": "Confusion/Helplessness",
+    "serp_intent": "The primary keyword searcher wants practical advice on determining an appropriate monthly allocation for discretionary \"fun money\" spending, such as entertainment or hobbies, within a balanced budget to avoid overspending. The SERP intent is informational, featuring articles on budgeting rules of thumb (e.g., 50/30/20), income-based examples, and strategies to integrate fun spending with savings goals.",
+    "serp_title_pool": {
+      "primary": [
+        "What do you allocate for \"Fun Money\" each month? : r/budget - Reddit",
+        "How to Budget Your Fun Money [2025]",
+        "I Tried a \u201cFun Money\u201d Budget & It Completely Changed How I Spend",
+        "What is Fun Money? How to Enjoy Guilt-Free Spending",
+        "How Much \"Fun Money\" Am I Allowed to Budget? - YouTube",
+        "Why You Need Some Fun Money in Your Budget - Ramsey Solutions",
+        "How Much \"Fun Money\" Should You Spend Per Month?",
+        "How much to spend on fun each month according to a financial ...",
+        "How Much Fun Money Do You All Budget - Money Mustache Forum",
+        "9 Steps To Include Fun in Your Budget | BECU",
+        "How much 'fun' money do you allow yourself a month? Do ... - Quora",
+        "How Much Fun Money Should You Actually Be Budgeting?",
+        "Fidelity's easy budgeting guideline",
+        "This Is How Much You Should Budget for Fun Money | The Motley Fool",
+        "Create an Entertainment Budget in Your Savings - Citizens Bank",
+        "How to Budget Money: A Step-By-Step Guide - NerdWallet",
+        "How much do you budget/spend on \u201cfun money\u201d per month?",
+        "Budget for Some Fun Money - Cashfloat"
+      ],
+      "long_tail": [
+        "Creating a personal budget - Oregon Division of Financial Regulation",
+        "Making a Budget | consumer.gov",
+        "Budgeting 101: Personal Budget Categories | First Bank",
+        "Family Budget Calculator - Economic Policy Institute",
+        "Your guide to creating a budget plan - Better Money Habits",
+        "How To Create A Budget | Heritage Family Credit Union",
+        "Creating a Family Budget: What You Need to Know",
+        "How to create a household budget that works for you. | Pioneer Bank",
+        "Make a Budget - Worksheet | consumer.gov",
+        "How to Create a Household Budget: 5 Things You Need to Know"
+      ],
+      "question": [
+        "How can I transfer money between savings and checking accounts?",
+        "How to Transfer Money from Savings to Checking - Business Insider",
+        "Transfer Money Online - Wells Fargo",
+        "How to transfer from your savings to checking : r/chimefinancial",
+        "How to Transfer Money Between Your Bank of America Accounts",
+        "How to transfer money from one bank to another: 4 ways - Bankrate",
+        "Transfer and Move Money with Online Banking | Chase",
+        "How do I transfer money between my U.S. Bank accounts?",
+        "How To Transfer Money From Savings to Checking Bank Of America ...",
+        "Send Money to a Bank Account - Bank Transfers from the US"
+      ]
+    },
+    "paa_questions": [
+      {
+        "q": "What is the $1,000 a month rule?",
+        "a": "The $1,000-a-month rule suggests saving $240,000 for every $1,000 desired monthly retirement income, based on a 5% annual withdrawal rate. While easy to understand, it's unreliable as it uses simplified assumptions."
+      },
+      {
+        "q": "Is $300 a month on food a lot?",
+        "a": "Most agree that spending only $300 monthly for two people is possible, but it's a big challenge. You'd have to focus on cheap foods like rice, beans, pasta and potatoes to make it work. You'd also need to buy in bulk and cook everything from scratch."
+      },
+      {
+        "q": "Can a family of 3 live off $5000 a month?",
+        "a": "For a family of three, if you live in a moderate cost-of-living area, have reasonable housing costs, and carry little to no debt, $5,000 can absolutely provide a comfortable life where you can still build savings."
+      },
+      {
+        "q": "What is the 70/20/10 rule money?",
+        "a": "70% of your income goes to spending. 20% of your income goes to saving. 10% of your income goes to debts or donations."
+      }
+    ],
+    "related_searches": [
+      "How much spending money per paycheck",
+      "How much should I budget for entertainment per month",
+      "Fun money reddit",
+      "50/30/20 rule"
+    ]
+  },
+  "primary_keyword": "how much fun money per month",
+  "competitors": [
+    {
+      "rank": 1,
+      "domain": "reddit.com",
+      "url": "https://www.reddit.com/r/budget/comments/1kny4th/what_do_you_allocate_for_fun_money_each_month/",
+      "title": "What do you allocate for \"Fun Money\" each month? : r/budget - Reddit",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 2,
+      "domain": "moneywithkatie.com",
+      "url": "https://moneywithkatie.com/how-to-budget-for-discretionary-fun-stuff/",
+      "title": "How to Budget Your Fun Money [2025]",
+      "word_count": 2020,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://moneywithkatie.com/wp-content/uploads/2025/08/Plane-City_Paper-Latte_Cropped.png",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://static.showit.co/400/kqgk6tUQ6QC1R0-Ny6SP2Q/shared/the-money-with-katie-show-2.png",
+          "alt": "The-Money-With-Katie-Show-2",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://static.showit.co/400/w7BdB57xkuLb1CKS6KQuyQ/shared/money-with-katie-2025-wealth-planner-9.png",
+          "alt": "Money-With-Katie-2025-Wealth-Planner-9",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://static.showit.co/400/MoGSaoxWqkQ5lSHlji8CUg/shared/personal-finance-basics-1.png",
+          "alt": "Personal-Finance-Basics-1",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://moneywithkatie.com/wp-content/uploads/2020/09/image-asset-7-scaled.webp",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "Everyday Spending & Budgeting , Everyday Spending & Budgeting \u2014 Popular September 2, 2020 Financial Independence , Spending & Saving I once read that linking to a bunch of different articles in a post was the cardinal sin of online media, so I apologize for what I\u2019m about to do \u2013 but if you haven\u2019t yet, read How to Start Building Your Emergency Fund as a baseline for this post. This post isn\u2019t intended to be the end-all, be-all guide to proper budgeting ( How Much Does Your Life Cost? can probably help more with that). Instead, it\u2019ll cover how you budget for the stuff that is infuriatingly hard to budget for. You know what I\u2019m talking about: Everyone\u2019s fun stuff usually falls into the same few categories. Travel, dining out, shopping, expensive boutique exercise classes that require flying to other cities to attend (just me?), shows, and otherwise non-essential-for-life-but-essential-for-sanity expenditures that can leave you cringing as you try to reconcile the budget you set with the best of intentions on the first of the month with the credit card bill that comes at the end of the month. First things first If you skip this step, everything that comes after it will be useless to you. Seriously: Do this first. We need to get clear on what your Big Four are going to be. The Big Four are the broad discretionary categories you\u2019re going to commit to, and I\u2019ve chosen four for a few reasons: Big Four just sounded cool. Isolating four things that give you joy when you spend money on them allows you enough freedom to explore new things without devolving into a spend-happy free-for-all. If I told you to just make a list of every single thing you could possibly buy for fun, your budget would turn into a run-on expensive sentence. We don\u2019t want that. My big four are (can you guess based on the examples given above?) travel, dining out, entertainment, and (you ready for this one?) miscellaneous. \u201cMiscellaneous\u201d was an addition to a more evolved version of my budget \u2013 the result of several months in a row where I found myself saying the same thing. \u201cYeah, I had to pay $200 this month for [insert surprisingly common yet still unexpected expense here] , but that\u2019s normal. I\u2019ll just\u2026 write it off.\u201d And I\u2019d attempt to play fiscal Jenga with the charge. Finally, I accepted that life has a funny way of almost-always introducing unexpected line items to your Copilot transactions list every month. One of the most fun and alluring leisures I could think to provide myself was the leeway to have a place to store my junk drawer expenses that were unavoidable and otherwise un-categorizable. Last month it was a new tire (thank you, potholes). This month it was a slew of new apartment expenses. Who knows what next month will bring? Before you get into the high-level categories, I\u2019ll take this opportunity to shamelessly plug that if you\u2019re striving for a goal savings rate, the Wealth Planner will help you back into a reasonable \u201cDiscretionary\u201d income target. How much should you be shuffling to discretionary stuff every month? The short answer is, it depends. (Ugh, so annoying \u2013 I know.) Here\u2019s why it depends: the immediacy and urgency of your present financial situation will almost certainly determine how much you can comfortably piss away on trips to Mexico and DoorDash Waffle House. Let\u2019s generalize a few scenarios so you can get a sense for what I mean: The financial all-star: 25% This person has no credit card debt, a fully funded emergency fund ($12,000 \u2013 $18,000 in savings, or more), is contributing at least 10% to their 401(k), and investing in their IRAs and general investing accounts at a moderate pace. This person can probably get away with 25% of their income going toward bullshit. There is no hard and fast rule here. I\u2019m probably on the slightly more conservative side of the spectrum, financially, but I\u2019m definitely not as frugal as those in pursuit of true financial independence who save 80% of their take-home pay. I\u2019m all about guilt-free spending money , and to me, I\u2019d (ideally) like to be saving and investing more than I\u2019m spending on $65 virtual wellness seminars and $7 coffee with names like \u201cJet Fuel.\u201d The \u201ccruising altitude\u201d saver: 20% This person is actively contributing to a growing emergency fund, has little to no debt, and has begun contributing to their 401(k) up to the company match. For someone like this, I\u2019d say you have to reign in the discretionary horses a little and keep prioritizing the behavior that\u2019s going to skyrocket you to all-star status. You probably don\u2019t want to exceed 20% of your take-home pay going toward fun stuff. Let\u2019s look at a fake breakdown: Monthly take-home pay: $5,000 Emergency fund contribution: 15%, or $750 401(k) contribution: 8%, or $400 Fun stuff allotment: 20%, or $1,000 Notice how the combination of your savings and 401(k) contributions still outpaces your fun money? This leaves $2,850 for living expenses. The catcher-upper: 10% Decisions in your past may have put you in a position to be digging yourself out of a bit of a hole, Stanley Yelnats-style. This means it\u2019s just going to take a little bit of discipline and sacrifice to get you back to baseline. \u201cWell, well, well \u2013 if it isn\u2019t the consequences of my own actions.\u201d This person may have little to no savings, some (or a lot of) high-interest debt, and isn\u2019t contributing to a 401(k). We\u2019ll reverse-engineer your budget because the bottom line is this: The needs of Future You are far more dire than your need for another to-go order from Sweetgreen. This is what we call living \u201cclose to the edge,\u201d because one big, unexpected expense could be the difference between getting by and falling off the fiscal cliff. Here\u2019s the good news: I promise the assurance and security of putting in the work to set up base camp several hundred yards away from the edge will feel infinitely better than a lifetime supply of whatever got you into credit card debt in the first place. The How Much Does Your Life Cost? article addresses how to start paying off debt, but I\u2019m beginning to think that topic probably warrants its own piece \u2013 stay tuned. Other than that, your order of priorities are: Emergency fund in tandem with credit card debt 401(k) Other investing This means I\u2019d be shoveling as much as humanly possible every month toward priority #1 until you take a few steps back from the cliff. I wouldn\u2019t suggest spending any more than 10% of your income every month on fun stuff. If you make $3,500 per month, that means $350 is your budget for whatever you want and the rest of your dollars need a more noble job. It\u2019s temporary, I promise \u2013 but we need to get you out of the hole first. Now that you know how much you can set aside, how do you plan for \u201cwants\u201d? In one word: Annualization . Not every discretionary budget needs to be viewed on an annual basis, but for the inconsistent ones, this can be a handy trick. Your \u201cDining Out\u201d budget can probably be considered on a monthly cadence: Let\u2019s say you\u2019ve decided $500 of your hard-earned monthly income is earmarked for $8 vodka sodas and $12 party platters of things like fried jalape\u00f1os and otherwise batter- and cheese-covered kitchen oddities. $500/mo. breaks down to approximately $115 per week, and if you mostly eat out on the weekends, you can consider it $57 for Friday and $57 for Saturday. That\u2019s a pretty slick transition from an amorphous monthly amount to a more tangible idea: You probably know what $57 at a restaurant or bar will get you. (This is the part where people are either like, \u201cOh yeah, easy!\u201d or, \u201cOh shit, I spend $100 at dinner and drinks every single time I go out.\u201d Now\u2019s the time to ask yourself which category, the former or the latter, your income directs you toward.) But what about categories like Travel and Home Improvement? A $300 monthly travel budget or a $200 monthly home improvement allotment might be harder to conceptualize. After all, if you\u2019re not entrenched in the travel rewards world, you can easily spend $300 on a single round-trip ticket (if you\u2019d like to become entrenched in travel rewards and sit proudly atop a mountain of points, I direct you here ). You can think of your more inconsistent discretionary budgets on an annual basis. This way, the $300/mo. travel budget becomes $3,600 per year. If you want to take two major trips, you can think of it like $1,800 per trip. Or if you\u2019re on a quarterly travel cadence, $900 for each of four trips. These numbers feel a little more aligned with travel expenses, but the \u201c$300/mo.\u201d framework still allows you to conceptualize what percentage of your take-home pay every month you\u2019re setting aside for globetrotting. Scaling up or scaling down The TL;DR explanation for this is simply scale . It\u2019s easier for us to wrap our heads around the idea of spending $300 per month on travel than it is to accept dropping $1,800 on two different trips, but if you\u2019re setting aside that $300 every month, the money will be there for you when it\u2019s time to use it. I like to use something called \u201crollover budgets\u201d to make that possible \u2013 every month, the unused money in any given discretionary category rolls forward to the next month. After a few months of low to no spending, you\u2019re sitting on $1,200 in an unused travel budget, just begging to be guiltlessly squandered on a Main Cabin seat to Amsterdam (yes, Main Cabin, not Economy, because you\u2019re a rich bitch now who benefits from money management and accrual of unspent funds). In our dining example, we scaled down: We took a big number in the context of dining out ($500/mo.) and broke it down into a per-Friday or per-Saturday amount to guide us a little more clearly. Of course, the fine print of these suggestions is that you\u2019re more than welcome to go on one trip per month, spending $300 every time, or to go to two fabulous meals per month and drop $250 each \u2013 you don\u2019t have to alternately let all your monthly budgets accumulate or disperse them evenly throughout the month. It\u2019s up to you, and your behavior will probably change month-to-month, too. But this scalability is (usually) the reason fun-budgeting is so difficult for most of us with human brains \u2013 it\u2019s difficult to be told your limit is $500 then naturally spend it at a moderately paced clip throughout the month without some sort of scaled-down representation of what that looks like in practice (e.g., $120ish per weekend). In summary Decide on your Big Four. Look at your take-home pay and assign yourself into one of the three categories above, then multiply by 25%, 20%, or 10% accordingly. Wiggle room is welcome \u2013 but use your best judgment. That figure (25%, 20% or 10% of your take-home pay) is your fun money budget to be dispersed as you see fit across your Big Four. Nothing is set in stone, so if you aggressively overshoot or undershoot a particular category, you can always adjust later. Decide which budgets need to be scaled down and which need to be scaled up. Here\u2019s a rough guide: Scaled-down budgets (e.g., break down monthly into weekly or daily, depending on how often you purchase) Dining out Entertainment Miscellaneous Gym/exercise/wellness Scaled-up budgets (e.g., you may want to combine several months of budget together to more accurately reflect how you spend in these categories) Travel Home improvement Shopping I wish you sincerely joyful spending. Paragraph \u00ab Your Guide to Chase Ultimate Rewards Transfer Partners: Airlines and Hotels How to Transfer Your Chase Points to a High-Value Partner: Hyatt Edition \u00bb Looking for something? all how-to, essays, and podcast episodes. Spending & Saving Investing & Taxes Financial Independence & Early Retirement",
+      "headings": []
+    },
+    {
+      "rank": 3,
+      "domain": "elitedaily.com",
+      "url": "https://www.elitedaily.com/lifestyle/i-tried-fun-money-budget",
+      "title": "I Tried a \u201cFun Money\u201d Budget & It Completely Changed How I Spend",
+      "word_count": 991,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://imgix.bustle.com/uploads/image/2026/1/28/4fafdf70/funmoney_social.jpg?w=1200&h=630&fit=crop&crop=faces&fm=jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://imgix.bustle.com/uploads/getty/2026/2/1/06856fbe/a-modern-black-businesswoman.jpg?w=374&h=249&fit=crop&crop=faces&dpr=2",
+          "alt": "woman creating a fun money budget",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://imgix.bustle.com/uploads/getty/2026/2/1/710686d3/cheerful-asian-female-woman.jpg?w=374&h=249&fit=crop&crop=faces&dpr=2",
+          "alt": "Woman buying stationery while doing a fun money budget.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://imgix.bustle.com/uploads/getty/2026/2/1/60527fd9/young-asian-woman-counting.jpg?w=374&h=197&fit=crop&crop=faces&dpr=2",
+          "alt": "young woman saving money.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "The best part is that you make the rules. Becoming a baddie with money doesn\u2019t happen overnight. You don\u2019t wake up one day and suddenly become a budgeting pro, never again giving in to the impulse to buy a \u201clittle treat.\u201d For many, getting better with money is more of a gradual glow-up. It happens by changing one money habit at a time. One of the easiest (and genuinely fun) money habits I\u2019ve picked up is something you\u2019ve probably scrolled past on TikTok: the \u201cfun money\u201d budget . It\u2019s exactly what it sounds like: a set amount of money you allocate in your budget each month to spend on whatever you want, without guilt. And the best part is that you make the rules. You can use it for clothes, makeup, beauty treatments, dining out, concert tickets, random little treats \u2014 anything that tends to become a sneaky spending vortex. According to money-saving expert Andrea Woroch , having a fun money budget is not only a smart money move, but it\u2019s also essential. Here\u2019s why: When fun spending is planned, you don\u2019t have to spiral every time you treat yourself because it\u2019s not throwing off your goals, she says. On the flip side, trying to cut out all \u201cfun\u201d purchases can totally backfire. You\u2019ll get burnt out, ditch the budget, and overspend to make up for feeling deprived. Fun money also creates guardrails, Woroch adds, which help keep \u201cjust one little treat\u201d from turning into a full-on spending spree, and it naturally makes you more intentional about what you\u2019re actually buying. I\u2019ve been doing this for a few years, and it\u2019s completely changed how I spend my money. Ahead, I break down tips on creating your own. How To Create Your Own Fun Money Budget Choose an amount that feels good. According to Woroch, there\u2019s no universal percentage of your income that should go toward fun money. It could be $20. It could be a few hundred. The key, she says, is to review your finances and determine what you can realistically set aside after covering essentials such as bills, debt payments, and savings goals. For me, the sweet spot is $300 per month. It\u2019s a number that feels doable in my budget and exciting enough to enjoy, but not so high that it encourages overspending and overconsumption. In other words, a number that feels juicy but is manageable. Decide your rules. You make the rules for your fun money, starting with what actually counts as \u201cfun.\u201d Think about where you tend to overspend. For example, if eating out is your weakness, that could go in this category. Some of the rules I\u2019ve set that have worked really well for me include rolling over fun money I don\u2019t spend month to save for something bigger, like a fancy handbag, and increasing my fun budget by a couple of hundred dollars during birthday months, holidays, or when I\u2019ve hit a big milestone I want to celebrate. Test it out as a monthly challenge. If you\u2019re not sure how much money to budget for fun, treat it like an experiment. Choose an amount and try it for one month, and adjust from there. The goal is to create a plan you can stick with long-term, not something you\u2019ll abandon because it feels too strict. What I Learned From Implementing A \u201cFun Money\u201d Budget It made me more intentional with purchases without feeling deprived. Once I started a fun money budget, my impulse buying stopped almost immediately. I couldn\u2019t just toss every cute pajama set, mug, or random Target d\u00e9cor find into my cart. I had to pause and ask myself: Do I actually want this? And if I did buy it, it meant taking money away from something else on my wish list. Most of the time, it wasn\u2019t worth it, which made walking away way easier. Now, I add things to my wish list and sit with them for days (sometimes weeks or months) before purchasing, whether it\u2019s a pair of shoes I\u2019m eyeing, new stationery goodies (my personal weakness), or a higher-ticket item like a handbag. Even though I\u2019m buying fewer things, somehow I don\u2019t feel deprived. Instead of getting a quick dopamine hit and forgetting about it the next day, I actually enjoy and savor my purchases more. Spending feels guilt-free. You know the vibe when you overspend, and then the guilt ruins the thing you bought? With fun money, I don\u2019t get that feeling because I already planned for it. I\u2019m not ruining my savings goals or stressing about bills. It\u2019s genuinely the best kind of spending: enjoyable, intentional, and drama-free. It helped me save more and prioritize bigger goals. Because I\u2019m not constantly leaking money through random purchases, I\u2019m able to put more toward goals that actually matter to me, like saving more, investing, and planning for bigger purchases. It\u2019s wild how much money you can redirect when you stop doing \u201csmall\u201d impulse buys that aren\u2019t actually small when they happen 20 times a month. Budgeting became\u2026 fun. Something I didn\u2019t expect: budgeting became enjoyable. Now I can plan and map out what I want. One month, I might refresh my shoe rotation. In another month, I\u2019ll try out new makeup or skin care. Another month, I\u2019m in my stationery era splurging on a leather journal cover like it\u2019s a personality trait. It changes depending on my hyperfixation, and that honestly makes it feel even more fun. The Takeaway Having a fun money budget has genuinely changed my relationship with money and spending. I'm more intentional. I buy fewer things but enjoy them more. I\u2019m saving more without feeling deprived. And honestly? It\u2019s fun to plan out what I\u2019ll spend my fun money on each month. Overall, it allows me to spend in a way that feels good and supports my bigger financial goals, which is exactly the kind of energy I want to bring to my finances.",
+      "headings": []
+    },
+    {
+      "rank": 4,
+      "domain": "mindmoneybalance.com",
+      "url": "https://www.mindmoneybalance.com/blogandvideos/what-is-fun-money",
+      "title": "What is Fun Money? How to Enjoy Guilt-Free Spending",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "http://static1.squarespace.com/static/66a82a69da530a487f6102a5/t/686188ad3cc74f1722bf23f5/1751222445809/What+is+Fun+Money+How+to+Enjoy+Guilt-Free+Spending.png?format=1500w",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/66a82a69da530a487f6102a5/3da628cb-11b0-4847-a224-47e507271953/Fund+Money+Fund.png",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/66a82a69da530a487f6102a5/2350ee92-be77-48ff-a45a-397b9f33121f/Fund+Money+Fund+2.png",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 5,
+      "domain": "youtube.com",
+      "url": "https://www.youtube.com/watch?v=tKWNyI36Wfw",
+      "title": "How Much \"Fun Money\" Am I Allowed to Budget? - YouTube",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 6,
+      "domain": "ramseysolutions.com",
+      "url": "https://www.ramseysolutions.com/budgeting/fun-money-in-budget?srsltid=AfmBOoq3iTfniOdT0RCEEUuHf8QhvVLTc3sTPLfFjT7WtOImzvA3B6oW",
+      "title": "Why You Need Some Fun Money in Your Budget - Ramsey Solutions",
+      "word_count": 855,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://cdn.ramseysolutions.net/media/fpu/d2c/blogs/2020_blog/february/why-you-need-some-fun-money-in-your-budget/fun-money-header.jpg",
+        "alt": "",
+        "description": "Professional studio portrait or clean financial graphic with bold branding.",
+        "type": "branded_studio_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://cdn2.ramseysolutions.net/dynamic/media/landing-pages/blog/author-bio-ramsey-large.jpg/48w.jpg",
+          "alt": "Ramsey Solutions",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.ramseysolutions.net/media/3_way_universal/blog/inline-icons/personal-development.png",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn2.ramseysolutions.net/dynamic/media/landing-pages/blog/author-bio-ramsey-large.jpg/120w.jpg",
+          "alt": "Ramsey Solutions",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.ramseysolutions.net/media/blog/article-template/ask-ramsey-header.svg",
+          "alt": "Ask Ramsey",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.ramseysolutions.net/media/rscom/logos/flat-blue-50-ramsey-logo.svg",
+          "alt": "Ramsey Solutions",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "4 MIN READ | MAY 1, 2023 Link copied! Unable to copy link. Please try again. You work hard for your money. You\u2019ve got money goals\u2014and you\u2019re knocking them out one monthly budget at a time. On top of it all, when your friends ask you to join them for dinner and concerts every weekend, you\u2019re now a pro at knowing when to say, \u201cIt\u2019s not in the budget.\u201d Listen\u2014there\u2019s a time and a season to deny tons of extra costs. Like when you\u2019ve got focused intensity on those early Baby Steps. But some self-care is also important, and you still need to treat yourself\u2014at least a little. Sometimes it\u2019s only very little until you hit that next big goal, but that\u2019s okay! One way to enjoy life without going financially overboard is to make a budget line for fun money. Yes, really! Here\u2019s how: What Fun Money Is and Isn\u2019t First of all, putting fun money in your budget isn\u2019t a green light to drop your money goals or go on a spending free-for-all. Fun money isn\u2019t an excuse to be wasteful\u2014it\u2019s another way to stick to your budget. Remember, you want a zero-based budget , so you should give every single dollar a job. And a fun money line makes you focus all your spending\u2014even the fun stuff\u2014so you don\u2019t accidently waste money on little things here and there. Get expert money advice to reach your money goals faster! When you give yourself a budget line for fun, you can spend that amount on whatever you want. This is the money you\u2019ve set aside to use on that fancy cappuccino or the new shoes you don\u2019t need but really want. Also, if you\u2019re married, make sure you and your spouse each have your own fun money lines. And when the fun money budget line is gone, it\u2019s gone. We repeat: When the fun money budget line is gone\u2014it\u2019s gone. Why You Need to Plan for Fun Money We talk a lot about goals and how they need to be the perfect balance of empowering and realistic. Fun money helps you with the realistic side because it lets you stick to your goals and have a treat every now and then. Fun money also helps you remember a budget isn\u2019t all about restrictions. Money expert and bestselling author Rachel Cruze puts it like this: \u201cA budget doesn\u2019t limit your freedom. It gives you freedom.\u201d To be honest, you\u2019ve got the freedom to put anything you want in your budget. Use it wisely. Hit your needs and goals hard. Once those are covered, then you can have a little fun. A budget is deciding up front and on purpose what every dollar will do that month. That kind of planning ahead keeps you from feeling guilty when you do spend. When you think of your budget as permission to spend , you get a new perspective on budgeting. You\u2019re giving your money permission to go where you want it to go. But again\u2014use that power wisely! And that brings us to the best benefit of having some fun money in the budget: When you treat yourself a little, you\u2019re less likely to fall off the goal-crushing wagon completely. It\u2019s like the one cheat meal of the week or the night off from running. That space makes all the hard work seem more doable. How Much Fun Money Should You Budget? How much you budget for fun each month depends on several things\u2014like your income, debts and savings goals. You might have room for $100, or maybe just $10 right now. If you\u2019re just starting on the Baby Steps, keep that fun money to a bare minimum. And get super creative to stretch those dollars! Learn some hacks for your next Starbucks run to get the most caffeine for your money. Get thrifty at the thrift store instead of buying everything new. (Actually\u2014no matter your income or money goals, savings hacks and thrift stores are always a great idea.) To make it all easier, get yourself our free, on-the-go budgeting tool, EveryDollar . You can add in all those budget lines quickly and easily keep up with your spending. And remember, if you\u2019re at a place in life where you\u2019ve got only $10 budgeted for fun money, don\u2019t let that get you down. It\u2019s a just season. You\u2019re working on something greater, and it will be worth it! Get Weekly Insights Delivered Straight to Your Inbox Did you find this article helpful? Share it! About the author Ramsey Solutions has been committed to helping people regain control of their money, build wealth, grow their leadership skills, and enhance their lives through personal development since 1992. Millions of people have used our financial advice through 22 books (including 12 national bestsellers) published by Ramsey Press, as well as two syndicated radio shows and 10 podcasts, which have over 17 million weekly listeners. Learn More. Get proven Ramsey answers fast. By continuing on our site, you consent to our use of cookies and other tracking technologies as explained in our , and agree to our . and .",
+      "headings": []
+    },
+    {
+      "rank": 7,
+      "domain": "seedtime.com",
+      "url": "https://seedtime.com/how-much-fun-money-should-you-spend-per-month/",
+      "title": "How Much \"Fun Money\" Should You Spend Per Month?",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://seedtime.com/wp-content/uploads/How-Much-Fun-Money-Should-You-Spend-Per-Month.jpg",
+        "alt": "How much fun money should you spend per month?",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://seedtime.com/wp-content/uploads/Published-Posts-4_25_19-22-400x600.png",
+          "alt": "How much \"fun money\" should you spend per month",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 8,
+      "domain": "cnbc.com",
+      "url": "https://www.cnbc.com/2017/01/27/how-much-to-spend-on-fun-each-month-according-to-a-financial-planner.html",
+      "title": "How much to spend on fun each month according to a financial ...",
+      "word_count": 318,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://image.cnbcfm.com/api/v1/image/104241082-GettyImages-625720396.jpg?v=1529474009&w=1920&h=1080",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/103619695-marguerite_composite.jpg?v=1462822755&w=60&h=60&ffmt=webp",
+          "alt": "thumbnail",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/104143497-thumbnail.jpg?v=1529473489&w=750&h=422&vtcrop=y",
+          "alt": "Adopt these habits in your 20s to be more successful in your 30s",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "If you don't have a budget, the money you spend on a lunch out here and a dinner out there can add up. And that could be the reason why you never see your bank account balance rise above a certain number. In fact, having strict spending habits is one thing many wealthy people prioritize and many non-wealthy people don't, according to research from financial planner, accountant and author Tom Corley . In his book, \"Rich Habits, Poor Habits,\" Corley describes how he surveyed 233 wealthy individuals on their financial habits and compared those answers to responses from 128 poorer individuals, or those who earn less than $35,000 in annual gross income. One of the key findings? The majority of wealthy people lived below their means by keeping unnecessary spending to a minimum. So what's the most you should be spending on leisure activities and entertainment, or what you might call 'fun'? According to Corley, the magic number is 10 percent of your monthly net pay, or what you take home after taxes and other deductions. That under-ten-percent figure covers going out to restaurants, bars and the movies. The occasional manicure, massage, boutique fitness class or road trip? Those also fall in this category. So, for example, if you know you take home $1900 each month, you should not spend more than $190 for the whole month on entertainment. The number might sound like a lot, but if look over last month's credit card bill, you may be surprised to find you went over it. In fact, keeping your spending on 'fun' below $190 a month might mean making some sacrifices. \"If getting rich was easy, everyone would be wealthy,\" Corley writes. \"If you want to be somewhere else, logically you are going to have to do things differently.\" Check out Corley's advice on money habits to adopt in your 20s to be wealthier in your 30s .",
+      "headings": []
+    },
+    {
+      "rank": 9,
+      "domain": "forum.mrmoneymustache.com",
+      "url": "https://forum.mrmoneymustache.com/ask-a-mustachian/how-much-fun-money-do-you-all-budget/",
+      "title": "How Much Fun Money Do You All Budget - Money Mustache Forum",
+      "word_count": 624,
+      "scrape_status": "tavily_fallback",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": "# The Money Mustache Community ## News: ### Author Topic: How Much Fun Money Do You All Budget (Read 31695 times) #### RangerOne ##### How Much Fun Money Do You All Budget #### chicagomeg ##### Re: How Much Fun Money Do You All Budget #### Jessa ##### Re: How Much Fun Money Do You All Budget #### snafuing1 ##### Re: How Much Fun Money Do You All Budget #### MustachianAccountant ##### Re: How Much Fun Money Do You All Budget #### Future Lazy ##### Re: How Much Fun Money Do You All Budget #### BooksAreNerdy ##### Re: How Much Fun Money Do You All Budget #### Beric01 ##### Re: How Much Fun Money Do You All Budget #### RangerOne ##### Re: How Much Fun Money Do You All Budget #### RangerOne ##### Re: How Much Fun Money Do You All Budget #### Pooperman ##### Re: How Much Fun Money Do You All Budget #### BarkyardBQ ##### Re: How Much Fun Money Do You All Budget #### Future Lazy ##### Re: How Much Fun Money Do You All Budget #### SnackDog ##### Re: How Much Fun Money Do You All Budget #### JoshFire ##### Re: How Much Fun Money Do You All Budget #### RangerOne ##### Re: How Much Fun Money Do You All Budget #### Goldielocks ##### Re: How Much Fun Money Do You All Budget #### Se\u00f1ora Savings ##### Re: How Much Fun Money Do You All Budget #### Zikoris ##### Re: How Much Fun Money Do You All Budget #### Emilyngh ##### Re: How Much Fun Money Do You All Budget #### Nudelkopf ##### Re: How Much Fun Money Do You All Budget #### Beric01 ##### Re: How Much Fun Money Do You All Budget #### AshStash ##### Re: How Much Fun Money Do You All Budget #### chasesfish ##### Re: How Much Fun Money Do You All Budget #### JoshFire ##### Re: How Much Fun Money Do You All Budget #### MayDay ##### Re: How Much Fun Money Do You All Budget #### Ricky ##### Re: How Much Fun Money Do You All Budget #### starbuck ##### Re: How Much Fun Money Do You All Budget #### GumbyPickles ##### Re: How Much Fun Money Do You All Budget #### rubybeth ##### Re: How Much Fun Money Do You All Budget #### k-vette ##### Re: How Much Fun Money Do You All Budget #### brian313313 ##### Re: How Much Fun Money Do You All Budget #### Dulcimina ##### Re: How Much Fun Money Do You All Budget #### coffeelover ##### Re: How Much Fun Money Do You All Budget #### forummm ##### Re: How Much Fun Money Do You All Budget #### Guses ##### Re: How Much Fun Money Do You All Budget #### johnny847 ##### Re: How Much Fun Money Do You All Budget #### mak1277 ##### Re: How Much Fun Money Do You All Budget #### Nickyd\u00a3g ##### Re: How Much Fun Money Do You All Budget #### Zikoris ##### Re: How Much Fun Money Do You All Budget #### Hummer ##### Re: How Much Fun Money Do You All Budget #### Mrs. Frugalwoods ##### Re: How Much Fun Money Do You All Budget #### APowers ##### Re: How Much Fun Money Do You All Budget #### Emilyngh ##### Re: How Much Fun Money Do You All Budget #### Mesmoiselle ##### Re: How Much Fun Money Do You All Budget #### mak1277 ##### Re: How Much Fun Money Do You All Budget #### Zikoris ##### Re: How Much Fun Money Do You All Budget #### Emilyngh ##### Re: How Much Fun Money Do You All Budget #### Zikoris ##### Re: How Much Fun Money Do You All Budget #### mak1277 ##### Re: How Much Fun Money Do You All Budget",
+      "headings": []
+    },
+    {
+      "rank": 10,
+      "domain": "becu.org",
+      "url": "https://www.becu.org/blog/steps-to-include-fun-in-your-budget",
+      "title": "9 Steps To Include Fun in Your Budget | BECU",
+      "word_count": 2028,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.becu.org/-/media/Images/heroes-page-promos/blog-articles/2022/Everyday-Finance/Steps-To-Include-Fun-In-Your-Budget_HPH_660x371.jpg?rev=9837372cb5b94b7683a9587282ac1c63",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.becu.org/-/media/Images/heroes-page-promos/blog-articles/2022/Everyday-Finance/Steps-To-Include-Fun-In-Your-Budget_HERO_760x290.jpg?h=290&iar=0&w=760&rev=39dafa9700974db1821264b504fce882&hash=4D7058C8318ABA18153DF9DFCCD1B42E",
+          "alt": "Two people kayaking in orange boats with orange paddles on a sunny day. A woman in the foreground is smiling, looking in the direction that the man in the boat behind her is pointing. The sun is shining on the calm water.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.becu.org/-/media/Images/icons/footer/social-media/Icon_Twitter.svg?h=45&iar=0&w=45&rev=7adb29408a754f4eb7b61b19fadfff00&hash=69750B107DE54836434C86BCDC02C59F",
+          "alt": "Share this article on Twitter",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.becu.org/-/media/Images/icons/footer/social-media/Icon_Facebook.svg?h=45&iar=0&w=45&rev=1aa643bb35e74b4fa64e7d32e1cf1841&hash=A85BDE8030CB18788010F1B915D84821",
+          "alt": "Share this article on Facebook",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.becu.org/-/media/Images/icons/footer/social-media/Icon_Mail.svg?iar=0&rev=5ac8d91cc9334c62b11b2b046d164314&hash=C37B9D8454A65CECE17692F1EA611D44",
+          "alt": "Email this article",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.becu.org/-/media/Images/image-component/blog/2022/Stacey_Black_720x655.jpg?rev=93fd5081d76447c298b3ff2b0cc77a83&v=637769266730000000",
+          "alt": "Stacey Black",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.becu.org/-/media/Images/image-component/blog/2022/Budget-for-Fun-illustrations/Budget_For_Fun_Illustrations_Transparent_1080x1080-01.png?rev=aa32afcae08a4ad7b1cfbbef4e7bcd5a&v=637933413930000000",
+          "alt": "Illustration of a hand delivering a piggybank, coins and cash on a silver tray.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.becu.org/-/media/Images/image-component/blog/2022/Budget-for-Fun-illustrations/Budget_For_Fun_Illustrations_Transparent_1080x1080-02.png?rev=0dd591fa779c439eb8c90c51033d99f1&v=637933414210000000",
+          "alt": "Illustration of a list labeled \"rules\" in a large circle surrounded by three smaller circles, each containing different icons: A house, a piggybank with a coin above it, and a red arrow with a dollar sign on it pointed down.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.becu.org/-/media/Images/image-component/blog/2022/Budget-for-Fun-illustrations/Budget_For_Fun_Illustrations_Transparent_1080x1080-03.png?rev=880b7c14d0cb44fb8724f8351ed5271b&v=637933414430000000",
+          "alt": "An illustration of scales, with stacks of cash in each pan, tips to the right. A calendar is above the scales with one date in the month marked in red.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.becu.org/-/media/Images/image-component/blog/2022/Budget-for-Fun-illustrations/Budget_For_Fun_Illustrations_Transparent_1080x1080-04.png?rev=c61fc15476ea44109509593d504810e0&v=637933414680000000",
+          "alt": "Illustration of a blue circle with a white dollar sign in the middle surrounded by a ring chart: 50% of the ring is red, 30% is yellow, 20% is teal.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.becu.org/-/media/Images/image-component/blog/2022/Budget-for-Fun-illustrations/Budget_For_Fun_Illustrations_Transparent_1080x1080-05.png?rev=2058ad5f14344b7f9dc227a0a104813d&v=637933414820000000",
+          "alt": "Illustration of 12 calendars encircling a piggybank with a coin above it.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.becu.org/-/media/Images/image-component/blog/2022/Budget-for-Fun-illustrations/Budget_For_Fun_Illustrations_Transparent_1080x1080-06.png?rev=833f89e1defd4f81b9579e83b5f469fc&v=637933415080000000",
+          "alt": "Illustration of a check above a flowchart with four branches. Each branch ends at a piggybank with a coin above it. The piggybanks represent four different bank accounts.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.becu.org/-/media/Images/image-component/blog/2022/Budget-for-Fun-illustrations/Budget_For_Fun_Illustrations_Transparent_1080x1080-07.png?rev=cb768cc4216f4020ab85e021ef5d48c4&v=637933415230000000",
+          "alt": "Illustration of cash.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.becu.org/-/media/Images/heroes-page-promos/blog-articles/2025/Credit-and-Debt/Blog_Credit-and-Debt_How-To-Pay-Off-Credit-Card-Debt_Promo.jpg?rev=48055cb308c44ff3a39ca38e07551013&v=639017805340000000",
+          "alt": "Two women in an office setting, one gesturing as if explaining something while the other listens attentively. A laptop sits on the desk in front of them.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.becu.org/-/media/Images/heroes-page-promos/blog-articles/2025/Budgeting/Blog_Budgeting_Budget-Friendly-Vacation-Ideas-in-Washington-State_Promo-(2).jpg?rev=8291f7c869494dd497c9e9abc08847e1&v=638853543030000000",
+          "alt": "A couple in helmets biking on a trail, enjoying the outdoors together. In the background is a mountain view, trees and blue sky. The two are both wearing sunglasses.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.becu.org/-/media/Images/heroes-page-promos/blog-articles/2023/Spending-and-Shopping/BlogSpendingShoppingDoYouNeedTravelInsuranceSummerHPHPromo.jpg?rev=6c2379a5ce0e448ba180102c19047070&v=638236758640000000",
+          "alt": "A smiling woman wearing sunglasses and a green top lies in a hammock while looking at her phone. A sandy beach, blue ocean and bright blue sky are in the background. The Consumers' Checkbook logo is in the upper right corner.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "Blog Home Budgeting Credit & Debt Spending & Shopping Taxes Security, Scams & Fraud Advancing Equity Hear From Our CEO Mortgages & Home Jobs & Income BECU in the Community BECU Spotlight Business Banking Tips Learn how to account for fun in your budget so you can loosen up spending limits, avoid splurges and keep yourself on track to achieve your financial goals. Katie J. Skipper (She, Her, Hers) BECU Community Content Manager Updated Jul 1, 2024 in: Budgeting Let's say you've carefully crafted your budget with just enough to cover bills and contribute to your savings goals \u2014 but you found out your favorite band is coming to town. And you really want to try that new Italian restaurant. And there's that pickleball club you've been wanting to join. Should you skip the fun so you can stick to your budget or throw caution to the wind? It turns out you might be better off not choosing between two extremes. Before you commit your entire budget to essential expenses, debt payments and long-term savings goals, consider this: Restricting your spending too much might cost you more in the long run. \"It's like being on a strict diet and someone puts a chocolate cake in front of you,\" said BECU's lead financial educator Stacey Black. \"If you feel deprived, you end up eating the whole thing.\" Avoid a spending free-for-all by using your budget to plan for having some fun. Then you can save for the things you enjoy in a way that works with your income and financial goals. Why It's Hard To Stick To a Budget An estimated 85% of people have a budget , according to responses to a Debt.com survey. That's a 16-percentage point increase from five years ago. But sticking to your budget could be a challenge, especially if you don't have a large income, your paychecks are inconsistent or you don't account for having a little fun. It might be even more difficult to commit to a budget right now because of inflation , even though it's eased a lot since 2022. Higher costs for necessities still might have you feeling the pinch. \"When people have less to spend, it's tempting to tell yourself you're going to cut out everything extra,\" Black said. \"But I like to encourage people to cut back, not cut out, if they can.\" The pandemic highlighted the tendency to splurge following a period of tight restrictions. Spending increased sharply when U.S. businesses started reopening and people started dining out and traveling again, according to a MassMutual consumer spending study cited by CNBC . Even before the pandemic, unplanned splurges totaled about $7,400 a year, according to a CNBC report on research by SlickDeals.net . Those kinds of increases might be fine if your earnings increased, or you've been able to save money. But if your spending increases without an increase in income, then you're likely to increase your debt. That means you'll be paying for those concert tickets long after your ears stop ringing. 9 Steps To Put Fun Back in Your Budget The good news is you can still have fun and prevent yourself from overdoing it if you have a plan. \"People think planning their spending takes the joy out of it,\" Black said. \"But you can set limits and still be spontaneous.\" Satisfy your cravings for fun without adding to your debt by following these steps. 1. Choose Your Fun Whether it's an occasional high-ticket item or a low-cost treat you consistently give in to, you probably have a few nonessentials that keep popping up on your financial statements. Instead of feeling guilty about spending that money, recognize that those purchases make you happy. If your budget applies to more than one person in your household, or you split bills with your partner , acknowledge what fun means to them, too. It's important to put money allocated for fun into a different budget category than big, planned expenses \u2014 like a new car or a vacation that you're already saving for. Your fun budget is for items and activities that bring you happiness day-to-day. Maybe it's the latest electronic device or outdoor gear for your favorite hobby. If you don't plan for these purchases but you keep buying them anyway, your spending might end up feeling a little less fun, especially if it puts your bigger plans out of reach. \"Be really specific about it,\" Black said. \"For me, it's new shoes. For my boyfriend, it's video games. Being intentional helps you set achievable goals and planning for it can give you something to look forward to.\" 2. Set Ground Rules Give yourself a few ground rules before you start budgeting: Cover your essentials: Unless you're ready to make a major lifestyle change, assume your rent or your mortgage is a fixed cost. You can take some steps to reduce some essential costs, like evaluating your grocery budget , or reducing your energy use at home , but you still have to keep the lights on. If you need to cut back to balance your budget, start with the nonessentials first. Build your emergency fund: A surprise car repair, medical bill or losing your job can set you back if you don't have an emergency fund . Set a goal to have three to six months of income saved, but you don't have to do it all at once, and you don't have to forgo all fun in the process. Black recommends setting micro goals for building your emergency fund: Start with $100, then $500. Work your way up until you reach your bigger goal. Don't touch that money unless it's really an emergency. Pay off debt: Whether it's the debt snowball, debt avalanche or debt cascade, commit to a strategy to pay off debt . Pick the strategy that motivates you and stick with it. Your debt payments will pick up momentum, and your debts will start to shrink faster. You don't have to pay off all your debt before you allocate money to having fun. In fact, Black discourages that. Be flexible and think about how much you can pay while still having enough left for your fun budget. The key is to be consistent. 3. Estimate Costs After you've decided what fun means to you and you've set your ground rules, add up how much you've been spending on fun activities. Be sure to look back at past bank and credit card statements \u2014 a year if you can. You might notice more spending during certain months, especially if an activity is seasonal, like skiing in the winter or outdoor concerts in the summer. 4. Use the 50/30/20 Rule To Decide How Much To Budget Now that you know how much you spent on fun in the past, decide if that seems like the right amount. Is the total cost surprising? Did you end up going into debt every time you made a fun purchase? If you feel like you spent too much, consider how much seems like a reasonable amount. One way to gauge how much is the right amount to spend on fun is the 50/30/20 rule . According to this method, no more than 50% of your income, after taxes, should go toward needs; 30% of your income can go to things you want, including fun; 20% should go into savings. If you're spending more than 50% on needs or more than 30% on wants, you may need to take another look at your expenses and see where you can adjust. 5. Give Fun Its Own Budget Line Now factor the fun activities you identified earlier into the 30% you can spend on wants. Give fun its own budget line when you create or update your budget. If your total spending is more than your income, you'll need to make some adjustments. On the flip side, if you have a bunch of money left over in your budget, decide what you're going to do with it. \"Every dollar needs a job,\" Black said. \"Saying you're going to just spend whatever is left over is not a plan. That's where people get into trouble.\" 6. Schedule Your Savings To Pay For Fun Once you know how much of your budget is dedicated to having fun, divide up the annual total into savings increments that make sense to you. You can set aside monthly savings by dividing the total by 12 or dedicate a portion of each paycheck to your fun fund by dividing the annual total by the number of times you get paid in a year. Another option is to set a deadline based on an event or date by when you want to spend your money. Divide the total cost of your fun budget by the number of weeks, months or paychecks until the deadline. You can also set up automated savings that round up your purchases, allowing your fun budget to build itself over time. 7. Open Separate Accounts Separate checking or savings accounts make it easier to keep track of savings goals and make it harder to dip into funds you've committed to other expenses. Set up and nickname separate accounts based on what each one is for. You can even get a different debit card for your fun-specific account. You can set up direct deposits or automatic transfers to your accounts, based on the categories in your budget, so every time you get paid your dedicated funds grow. 8. Use Cash To Spend on Fun Before you head out on the town with your friends, or, like Black, go shopping at your favorite shoe store, set a spending limit and only take that amount of cash with you. You'll know you hit your limit when the money is gone. Sure, you could pull out your debit or credit card or stop by the ATM to get more money, but taking an extra step might slow you down enough to prevent big splurges. 9. Spend Guilt-Free Once you've budgeted, saved and covered your financial obligations, it's time to have fun. You can spend money guilt-free and not have to worry about paying a ton of interest or adding to your debt. What if You Live Paycheck-to-Paycheck? If you don't have much income, the thought of having enough money just to cover basic living expenses can seem daunting. That's when it becomes even more important to take a close look at your expenses and set budget goals . If you tell yourself you can't afford to have any fun, you might be setting yourself up to overspend. Black suggests thinking about what you find fun about the things you tend to splurge on and looking for low-cost options. \"I like to think about the experience I'm trying to have,\" Black said. \"I think of it as a challenge to come up with creative alternatives.\" Your local library might have free programs and events, and street fairs can be a great place to see local artists and hear music. If eating out with friends is your thing, Black suggested trying to organize regular potlucks instead. Even if you don't have much money, planning to have fun can go a long way to helping you achieve your financial goals. Resources BECU Financial Health Check Build a Better Budget Tool Reduce Your Debt Tool BECU Money Manager The above article is intended to provide generalized financial information designed to educate a broad segment of the public; it does not give personalized financial, tax, investment, legal, or other business and professional advice. Before taking any action, you should always seek the assistance of a professional who knows your particular situation when making financial, legal, tax, investment, or any other business and professional decisions that affect you and/or your business. Related Content How To Pay Off Credit Card Debt Get tips for paying off debt and saving for the future. Budget-Friendly Vacations in Washington Explore Washington on a budget with these vacation ideas. Do You Need Travel Insurance? Get tips to help you decide if insurance makes sense for your trip. Katie J. Skipper (She, Her, Hers) BECU Community Content Manager",
+      "headings": []
+    },
+    {
+      "rank": 11,
+      "domain": "quora.com",
+      "url": "https://www.quora.com/How-much-fun-money-do-you-allow-yourself-a-month-Do-you-spend-it-all-quickly-or-is-there-some-left-over",
+      "title": "How much 'fun' money do you allow yourself a month? Do ... - Quora",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 12,
+      "domain": "shesonthemoney.com",
+      "url": "https://www.shesonthemoney.com/blog/how-much-fun-money-everyone-has",
+      "title": "How Much Fun Money Should You Actually Be Budgeting?",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "http://static1.squarespace.com/static/6476ea8ceb49943a37332e2d/t/67bfcf6d23de904a48693e7f/1740623725382/AskingForAFriend-Newsletter-_01.jpg?format=1500w",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/6476ea8ceb49943a37332e2d/1736139468718-LRAMM71HRWTIMP54755P/AskingForAFriend-Newsletter-_01.jpg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/6476ea8ceb49943a37332e2d/494014c7-5770-498b-acba-53eac937bf60/Sotm-FunMoneyvsSalary-Data-AgeGroup.png",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/6476ea8ceb49943a37332e2d/70242836-20c3-4dd3-8e5a-d982d0762417/Sotm-FunMoneyByAgeGroup-Data-AgeGroup.png",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/6476ea8ceb49943a37332e2d/aecbd49d-6a0c-4565-ae45-e82fa182a568/Sotm-BUdgetingFunMoney-Data-AgeGroup.png",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/6476ea8ceb49943a37332e2d/8dc4b4cc-bdec-4ccd-bb87-8feb824c074f/Sotm-FunMOneyGuilt-Data-AgeGroup.png",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/6476ea8ceb49943a37332e2d/66e5ff5f-1bb1-43a9-9fbd-50ec2b495a81/AskingForAFriend-Newsletter-_12.jpg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/5e5ca6a0c4173323d2f9e652/fba1ca7a-5c59-48bd-a243-488df8f9b48f/SOTM-Rebrand-Blog.jpg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 13,
+      "domain": "fidelity.com",
+      "url": "https://www.fidelity.com/learning-center/personal-finance/spending-and-saving",
+      "title": "Fidelity's easy budgeting guideline",
+      "word_count": 1530,
+      "scrape_status": "tavily_fallback",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": "## Learn Great, you have saved this article to you My Learn Profile page. Clicking a link will open a new window. # Fidelity's easy budgeting guideline ### Key takeaways Managing your money doesn\u2019t have to be complicated. Fidelity\u2019s Plan Your Pay (PYP) guideline offers a simple starting point: And aim to save 15% of pre-tax income for retirement\u2014including any employer match. Even small, consistent steps can make a big difference over time. Because everyone\u2019s situation is different, these numbers are goals\u2014not hard rules. If you\u2019re not there yet, that\u2019s OK. PYP is a target you can work toward gradually to strengthen your financial foundation. ### 15%: Pay yourself first and save for retirement before you get your paycheck We recommend saving 15% of pre-tax income for retirement. This includes your contributions plus any matching or profit-sharing contributions from an employer. Starting early, saving consistently, and investing wisely can be important to hitting your retirement goal, as is saving in tax-advantaged retirement savings accounts such as 401(k)s, 403(b)s, or IRAs. Read *Fidelity Smart MoneySM*: 9 types of retirement accounts The easiest way to save before you get your paycheck is by contributing to an employer's workplace savings plan. Many employers match contributions up to a certain percentage of income, which is like \u201cfree\u201d money\u2014so saving at least up to the match makes good sense if you can. Whether you contribute before taxes are taken out (traditional account) or after taxes are taken out (Roth account), your retirement contribution to a workplace retirement plan is made before you get your paycheck. *But what if you don't have a retirement plan through your employer?* You can still automate your savings. Consider setting up direct deposit to an IRA or schedule automatic transfers from your checking/spending accounts on the day you get paid. Read *Fidelity Viewpoints:* Help your money grow with automation *Is saving 15% too much to handle right now?* Don't worry, simply start by saving what you can. Try to save at least enough to get any match offered by your employer and then aim to increase the amount you're saving just a little bit with every raise and promotion. It really can add up. Read *Fidelity Viewpoints:* Just 1% can make a big difference for *Fidelity Viewpoints* weekly email for our latest insights. ### Must-have expenses: 60% Some expenses simply aren\u2019t optional\u2014you need to eat and you need a place to live. Consider allocating no more than 60% of take-home pay to \u201cmust-have\u201d expenses, such as: ### What if your essential expenses are more than 60% of your take-home pay? Everyone's financial life is unique, and some life stages are more expensive than others. If your essential expenses consistently run over 60%, it can make sense to try to slim down some of them down so you can save more and have more money for fun. For example, saving some money by looking for bargains at the grocery store and bringing your lunch to work can help free up some money and may give you some breathing room. For more tips, read *Fidelity Smart MoneySM*: How to save thousands in a year and 13 ways to make money fast It can also be a good idea to familiarize yourself with your employer benefits, if you have them. There can often be benefits that offer \"free\" money and discounted premiums so make sure you are taking full advantage of everything your employer offers. Read *Fidelity Viewpoints:* 4 ways employer benefits can help you save money ### 30%: Nice-to-have expenses While not essential to your survival, these types of expenses make life a little better. We suggest putting 30% of monthly take-home pay toward things you choose to spend your money on, like restaurants, entertainment, hobbies, travel, subscriptions, and charitable donations. ### 10%: Near-term goals and emergency savings Setting aside 10% of monthly take-home pay can help save for both significant events and smaller, unplanned expenses. Being financially prepared will help you feel more confident and less likely to pay for things by adding to an existing credit card balance. For instance, if you're saving for a vacation or a new car, money in this category could help boost your efforts. You could also think about setting aside this money to help with \"one-off\" expenses like a new smartphone, car repairs and maintenance, buying holiday gifts, and so on. It's good practice to have some money set aside for random expenses so you won't be tempted to tap into your emergency savings or pay for one of these things by adding to an existing credit card balance. If you would like to build up your emergency savings, you could consider using some money allocated here as well. If you're starting from scratch, aim to save $1,000 or one month's worth of essential expenses, whichever is more. Then gradually build up to saving enough to cover 3 to 6 months of essential expenses. Read *Viewpoints* on Fidelity.com: How much to save for emergencies ### What about other goals\u2014like saving for a child\u2019s education? If you\u2019re planning ahead for future education costs\u2014say, college for a child\u2014that savings would typically come from the 10% category for near-term goals. This bucket is designed for things you want to fund over the next few years, and education savings fits that description. On the other hand, if you\u2019re currently paying education expenses\u2014such as tuition or fees\u2014that\u2019s more like an essential cost and would fall under the 60% category for must-have expenses. These are obligations you need to cover now, similar to housing or child care. ### Why Plan Your Pay? Separating retirement savings from your everyday budget helps you see two things clearly: what you\u2019re setting aside for the future and what\u2019s available for today. Our guideline breaks this into simple parts\u2014covering daily spending, short-term goals, and long-term savings like retirement. The underlying research and math supporting our guideline suggests that it can help you achieve financial stability today and maintain your current lifestyle in retirement. ### Plan Your Pay with Fidelity's 60/30/10+15 guideline | | | | | \n--- | \n--- | \n--- | | Gross income | | $50,000 | | FICA | 7.65% | $3,825 | | Standard deduction | | $14,600 | | 401(k) contribution (employee contribution) | 8.00% | $4,000 | | Federal tax | 22% | $6,908 | | State tax | 5% | $1,570 | | Take-home pay | | $33,697 | | Essential | 60% | $20,218 | | Discretionary | 30% | $10,109 | | Other | 10% | $3,370 | For hypothetical illustration. Shows a hypothetical annual budget for a single filer in tax year 2024. Federal and state taxes may vary. Other deductions may apply depending on the state. ### What's next? Our guideline is meant to be a flexible starting point\u2014not a substitute for a full financial plan. The good news is that it's not about tracking every penny, it's about feeling in control of where your money goes. Using the 4 categories can help you understand your spending and the flexibility you have in your finances. Life changes\u2014new job, marriage, kids\u2014can shift your cash flow, so be sure to revisit your budget regularly, especially after major events. If you feel that you have a good grasp on the amount of money coming in and going out each month, you may be ready to start optimizing your finances and growing your wealth. If you\u2019d like some help managing spending, consider using Fidelity\u2019s free digital tools. ## It's not too early to save for retirement Start investing today\u2014a small amount now can make a big difference tomorrow. ## More to explore ### https://myguidance.fidelity.com/ftgw/pna/customer/pgc/networth/ See your full financial pictureLog In Required ### Finding investments ## to *Fidelity Viewpoints\u00ae* ### Looking for more ideas and insights? ### Thanks for subscribing! ### We're on our way, but not quite there yet ### Oh, hello again! ### Thanks for subscribing to Looking for more ideas and insights? You might like these too: Looking for more ideas and insights? You might like these too: ### Looking for more ideas and insights? You might like these too: ### *Fidelity Viewpoints\u00ae* ### Decode Crypto ### *Fidelity Smart Money\u2120* ### Active Investor ### *Insights from Fidelity Wealth Management* \u00ae ### Women Talk Money ### Educational Webinars and Events This information is intended to be educational and is not tailored to the investment needs of any specific investor. Fidelity does not provide legal or tax advice. The information herein is general and educational in nature and should not be considered legal or tax advice. Tax laws and regulations are complex and subject to change, which can materially impact investment results. Fidelity cannot guarantee that the information herein is accurate, complete, or timely. Fidelity makes no warranties with regard to such information or results obtained by its use, and disclaims any liability arising out of your use of, or any tax position taken in reliance on, such information. Consult an attorney or tax professional regarding your specific situation. *Investing involves risk, including risk of loss.* Fidelity Brokerage Services LLC, Member NYSE, SIPC, 900 Salem Street, Smithfield, RI 02917 ### Stay Connected Instagram, (Opens in a new window)",
+      "headings": []
+    },
+    {
+      "rank": 14,
+      "domain": "fool.com",
+      "url": "https://www.fool.com/investing/2020/01/18/this-is-how-much-you-should-budget-for-fun-money.aspx",
+      "title": "This Is How Much You Should Budget for Fun Money | The Motley Fool",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F553382%2Fgettyimages-1132439475.jpg&w=1200&op=resize",
+        "alt": "This Is How Much You Should Budget for Fun Money",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F866700%2Fpresident-donald-trump-white-house-photo-state-union-congress.jpg&w=3840&op=resize",
+          "alt": "President Donald Trump White House Photo State Union Congress",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F866180%2Fw2-tax-form-and-social-security-cards-payroll-tax-1.jpg&w=3840&op=resize",
+          "alt": "W2 tax form and Social Security cards payroll tax (1)",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F866176%2Fgettyimages-1407407984.jpg&w=3840&op=resize",
+          "alt": "GettyImages-1407407984",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F865974%2Fsocial-security-card1.jpg&w=3840&op=resize",
+          "alt": "Social Security card(1)",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F866688%2Fman-60s-at-deskgettyimages-1471388881.jpg&w=3840&op=resize",
+          "alt": "Man 60s at deskGettyImages-1471388881",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F866677%2Fsenior-man-holding-face-gettyimages-1302874070.jpg&w=3840&op=resize",
+          "alt": "senior man holding face GettyImages-1302874070",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 15,
+      "domain": "bankcbn.com",
+      "url": "https://www.bankcbn.com/blog/fun-fund-how-to-budget-for-discretionary-spending-without-hurting-personal-savings/",
+      "title": "Create an Entertainment Budget in Your Savings - Citizens Bank",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.bankcbn.com/wp-content/uploads/2025/07/iStock-1389726946-scaled.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 16,
+      "domain": "nerdwallet.com",
+      "url": "https://www.nerdwallet.com/finance/learn/how-to-budget",
+      "title": "How to Budget Money: A Step-By-Step Guide - NerdWallet",
+      "word_count": 222,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.nerdwallet.com/tachyon/2016/10/GettyImages-1327807534.jpg?resize=2400%2C1440",
+        "alt": "",
+        "description": "Clean, minimalist custom illustration or high-quality object stock photo.",
+        "type": "minimalist_branded_asset"
+      },
+      "article_images": [
+        {
+          "url": "https://www.nerdwallet.com/assets/blog/wp-content/uploads/2026/01/Screenshot-2026-01-22-at-4.18.01-PM.png",
+          "alt": "CTA image",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i.ytimg.com/vi_webp/7ckn883BbPQ/sddefault.webp",
+          "alt": "Video thumbnail",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.nerdwallet.com/assets/blog/wp-content/uploads/2022/05/Barroso_Amanda_882-MuckRack-Ona30327-160x160.jpg",
+          "alt": "Amanda Barroso",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdns3.nerdwallet.com/lending/publication-logos/TheAssociatedPress.webp",
+          "alt": "The Associated Press",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdns3.nerdwallet.com/lending/publication-logos/TheWashingtonPost.webp",
+          "alt": "The Washington Post",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdns3.nerdwallet.com/lending/publication-logos/YahooFinance.webp",
+          "alt": "Yahoo Finance",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.nerdwallet.com/assets/blog/wp-content/uploads/2019/08/lschwahn-user-avatar-160x160.jpg",
+          "alt": "Lauren Schwahn",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdns3.nerdwallet.com/lending/publication-logos/Marketwatch.webp",
+          "alt": "MarketWatch",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdns3.nerdwallet.com/lending/publication-logos/NASDAQ.webp",
+          "alt": "Nasdaq.com",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdns3.nerdwallet.com/lending/publication-logos/TheNewYorkTimes.webp",
+          "alt": "The New York Times",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "This page includes information about these cards, currently unavailable on NerdWallet. The information has been collected by NerdWallet and has not been provided or reviewed by the card issuer. How to create a budget: step-by-step Step 1. Figure out your after-tax income Check out NerdWallet's news hub for all the latest. to one of NerdWallet's free newsletters . Step 2. Choose a budgeting system Meet MoneyNerd, your weekly news decoder Step 3. Track your progress Step 4. Automate your savings Step 5. Practice budget management Determine your budgeting priorities You can't repay your credit cards, medical bills or personal loans (i.e., unsecured debt) in the next five years, even if you cut your spending a lot. Your total debt (not including things like a mortgage or car loan) is as much or more than half of what you make before taxes. Try a simple budgeting plan: 50/30/20 Allow up to 50% of your income for needs Groceries. Housing. Basic utilities. Transportation. Insurance. Minimum loan and credit card payments. Anything beyond the minimum goes into the savings and debt repayment category. Child care or other expenses you need so you can work. Leave 30% for wants Commit 20% to savings and debt paydown Best way to budget 1. NerdWallet. 2026 Consumer Outlook Report \u2013 51% Say Prices Will Worsen. Accessed Jan 1, 2026.",
+      "headings": []
+    },
+    {
+      "rank": 17,
+      "domain": "mumsnet.com",
+      "url": "https://www.mumsnet.com/talk/money-matters/4746730-how-much-do-you-budgetspend-on-fun-money-per-month",
+      "title": "How much do you budget/spend on \u201cfun money\u201d per month?",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.mumsnet.com/og-image.png",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 18,
+      "domain": "cashfloat.co.uk",
+      "url": "https://www.cashfloat.co.uk/blog/money-saving/budget-for-fun-money/",
+      "title": "Budget for Some Fun Money - Cashfloat",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.cashfloat.co.uk/wp-content/uploads/2018/12/fun-money-lead-pic.jpg",
+        "alt": "fun money",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.cashfloat.co.uk/wp-content/themes/FoundationPress/assets/img/blog_logo_footer.png",
+          "alt": "Cashfloat",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    }
+  ],
+  "battle_plan_generated_at": "2026-04-26T10:43:52.520076+00:00",
+  "competitors_analyzed_count": 6,
+  "battle_plan_method": "local_deterministic_agent_no_api"
+}

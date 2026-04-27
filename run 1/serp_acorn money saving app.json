@@ -1,0 +1,1082 @@
+{
+  "article_context": {
+    "angle": "Manual tracking (pen/paper/excel) creates deeper awareness than apps",
+    "pain_points": [
+      "Tracking expenses but still not having money left/saving",
+      "Feeling behind on savings compared to age or peers",
+      "Lifestyle spending (travel, pets, hobbies) competes with saving goals",
+      "Impulse spending undermines budgeting efforts"
+    ],
+    "top_social_questions": [
+      "How much of my paycheck should I save?",
+      "Why am I still broke even after tracking all my spending?",
+      "What's a normal amount to have saved at my age?"
+    ],
+    "dominant_emotion": "Confusion and frustration from tracking but not saving",
+    "serp_intent": "Searchers for \"acorn money saving app\" want details on the Acorns app, including how it automates savings through round-ups and micro-investing, its features, costs, user reviews, and setup guides to help build savings effortlessly. The SERP intent is informational and commercial, with top results featuring Acorns' official site, expert reviews from sites like NerdWallet and Bankrate, app comparisons, and tutorials on automated saving tools.",
+    "serp_title_pool": {
+      "primary": [
+        "Acorns: Easy Investing App For Saving & Growing Your Money",
+        "Acorns: Save & Invest Money - Apps on Google Play",
+        "Acorns: Save & Invest Money - App Store - Apple",
+        "Acorns App an \"investment trap\" : r/DirtyDave - Reddit",
+        "Acorns: Save & Invest Money \u2013 Apps on Google Play",
+        "Acorns: Save & Invest Money - Ratings & Reviews - App Store",
+        "How does Acorns work?",
+        "Is Acorns the best trading app for beginners? (2026 REVIEW)",
+        "Acorns review 2026 - unbiased.com",
+        "No investing knowledge? No worries. Acorns' easy-to-use app ...",
+        "Acorns Log in",
+        "2026 Acorns Review: Is This App Subscription Worth It? - NerdWallet",
+        "Acorns (company) - Wikipedia",
+        "Acorns Review 2025: A Micro-Investing App For Beginners - CNBC",
+        "Is Acorns Worth It in 2025? Honest Review After 5+ Years - YouTube",
+        "No investing knowledge? No worries. Acorns' easy-to-use app ...",
+        "Acorns Review - Bankrate",
+        "5 Years on ACORNS: In-Depth Review, Tutorial, & Investing Guide",
+        "How Acorns Makes Money - Investopedia",
+        "How To Use Acorns | Step By Step Tutorial - YouTube"
+      ],
+      "long_tail": [
+        "What are your favorite apps for saving money? I'm basically ... - Reddit",
+        "Best Budgeting Apps of 2026 \u2013 Forbes Advisor",
+        "7 Best Money-Saving Apps in 2026 | DepositAccounts",
+        "5 Best Money Saving Apps | Top Budgeting Tools (2026) - YouTube",
+        "Best Money Saving Apps and Websites",
+        "Top 5 Apps to Save You Money - Wealth & Financial Planning",
+        "6 money-saving apps to help you grow your wealth - Yahoo Finance",
+        "The Best Budget Apps for 2026: Pros, Cons and What Users Say",
+        "8 Best Money Saving Apps That Actually Work (2026 Guide)",
+        "Best Money Saving Apps to Increase Your Savings"
+      ],
+      "question": [
+        "Set up automatic transfers to savings the day after payday so you ...",
+        "5 Ways To Grow Your Savings With Automatic Transfers - Bankrate",
+        "Automate Savings | Build | Chase.com",
+        "How Do I Automatically Transfer Money to Savings?",
+        "Auto Savings - PNC Bank",
+        "Looking for an easy way to save money? Make it automatic",
+        "How to Transfer Money Between Your Bank of America Accounts",
+        "Set Up Recurring Transfers: Step-by-Step Guide - Ally",
+        "Save Automatically to My Account | TD Canada Trust",
+        "Ten Ways Automatic Transfers Help You Save More Money - EastRise"
+      ]
+    },
+    "paa_questions": [],
+    "related_searches": [
+      "Acorn money saving app review",
+      "Acorn money saving app free",
+      "Best acorn money saving app",
+      "Acorn money saving app for android",
+      "Acorn money saving app download",
+      "Acorns app",
+      "Has anyone made money on Acorns",
+      "My Acorn account"
+    ]
+  },
+  "primary_keyword": "acorn money saving app",
+  "competitors": [
+    {
+      "rank": 1,
+      "domain": "acorns.com",
+      "url": "https://www.acorns.com/",
+      "title": "Acorns: Easy Investing App For Saving & Growing Your Money",
+      "word_count": 174,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://sqy7rm.media.zesty.site/Hp-Subs-Video.jpg?width=1200&height=630&fit=crop",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://sqy7rm.media.zestyio.com/Hp-Updates-Body-01.jpg",
+          "alt": "Money tools for every stage of life",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://sqy7rm.media.zestyio.com/Hp-Updates-Body-02.jpg",
+          "alt": "Easy and automatic saving and investing",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://sqy7rm.media.zestyio.com/Hp-Updates-Body-03.jpg",
+          "alt": "All-in-one money app",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://sqy7rm.media.zestyio.com/Hp-Updates-Body-04.jpg",
+          "alt": "Invest wisely, not wildly",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://sqy7rm.media.zestyio.com/Hp-Updates-Body-05.jpg",
+          "alt": "Security as strong as oak",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "Money tools for every stage of life Investing as a beginner? Planning for retirement? Saving for your kids? Wherever you are on your money journey, Acorns\u2019 financial wellness tools can help you reach your goals. Easy and automatic saving and investing No confusing charts or investing tools. Just choose an amount, set a schedule, and we\u2019ll automatically save and invest your money for you. You can even get started with just your spare change! All-in-one money app Acorns brings checking, savings, investing, and retirement together into one simple app. So everything you need for your money is in one place \u2014 easy, seamless, and always in your control. Invest wisely, not wildly It takes more than money to grow \u2014 money skills matter, too. That\u2019s why Acorns combines expert-built, diversified ETF investment portfolios with educational tools to help you with your long-term goals. Security as strong as oak From day one, we safeguard your money and investments with SIPC protection up to $500,000 and industry-standard security. No hidden fees, real-time alerts, and 24/7 support.",
+      "headings": []
+    },
+    {
+      "rank": 2,
+      "domain": "play.google.com",
+      "url": "https://play.google.com/store/apps/details?id=com.acorns.android&hl=en_US",
+      "title": "Acorns: Save & Invest Money - Apps on Google Play",
+      "word_count": 965,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://play-lh.googleusercontent.com/Jicw-UbWSYGvxu_vgxmzWlk9aYpGqbxrq6KrLnr0AFdeMKcilqO9RbrO0OfadSwC3sY",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://fonts.gstatic.com/s/i/productlogos/avatar_anonymous/v4/web-32dp/logo_avatar_anonymous_color_1x_web_32dp.png",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://play-lh.googleusercontent.com/Jicw-UbWSYGvxu_vgxmzWlk9aYpGqbxrq6KrLnr0AFdeMKcilqO9RbrO0OfadSwC3sY=w240-h480-rw",
+          "alt": "Icon image",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://play-lh.googleusercontent.com/_re6mcALPaqotePA0WkgYeOQ6TighHRUS62FRmREPEhyZPdGM3QmRjcSpiMt6Pz1O-WZyvEIy4mtGHj9zw=w48-h16-rw",
+          "alt": "Content rating",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://play-lh.googleusercontent.com/_re6mcALPaqotePA0WkgYeOQ6TighHRUS62FRmREPEhyZPdGM3QmRjcSpiMt6Pz1O-WZyvEIy4mtGHj9zw=s38-rw",
+          "alt": "Content rating",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://play-lh.googleusercontent.com/W6-C-YO-PeKDfJIJ6YkJz70KJJUAUm0gR6OoqyLBQLW5waYAu5a96g1mmsREoCNj_CO2Eps5IqmqX7tyYG-v=w526-h296-rw",
+          "alt": "Screenshot image",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://play-lh.googleusercontent.com/H6hGCwk_z5iAADEoHpCem8397-ct662_nlDbjI0Q-t3MRAgxQKRX7c8pMKSWeLvizXqq=w526-h296-rw",
+          "alt": "Screenshot image",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://play-lh.googleusercontent.com/7Pe2dUl-zLtqUk-VPzZHI7cQpgh-d27tQkKVKlfFWECObR6EmDtu-nYq9eDIQ-aKVg4=w526-h296-rw",
+          "alt": "Screenshot image",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://play-lh.googleusercontent.com/IlDjE7VSlLQAX8dy9LDCE59o87rrti3dE-X1BpNRj_3ER5WjYkRzsfZfZ0D6YRxKN11A=w526-h296-rw",
+          "alt": "Screenshot image",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://play-lh.googleusercontent.com/VGgKdwtHBTKkyz1XpvmuDCt8WQQHJT_dzVkfTakbZdM-Bla11OMH50Wp2_NEIyKXl9I=w526-h296-rw",
+          "alt": "Screenshot image",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://play-lh.googleusercontent.com/O9gUm6ua9M8JLv96pPxHhxO-FXbtdQkBSxVlh02gxydgGdWYe5n86Q5C3IKS2KCDyQ=w526-h296-rw",
+          "alt": "Screenshot image",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://play-lh.googleusercontent.com/coDZqWEM7zxd2Rz8OS9uYVN25rgberee2L7JD1CpEbkJ2JQC_YgJlFsUSSKBUkN1KWunjCiW5TGHiZg2QtGWLko=w526-h296-rw",
+          "alt": "Screenshot image",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://play-lh.googleusercontent.com/XGH6toJNwBWVTac1hBczz2vbdD_4lzpAHdaHY1JXOBRCewh37e9BXMLHc-1nawgIpfE=w526-h296-rw",
+          "alt": "Screenshot image",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://play-lh.googleusercontent.com/iFstqoxDElUVv4T3KxkxP3OTcuFvWF5ZQQjT7aIxy4n2uaVigCCykxeG6EZV9FQ10X1itPj1oORm=s20-rw",
+          "alt": "Icon image",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://play-lh.googleusercontent.com/12USW7aflgz466ifDehKTnMoAep_VHxDmKJ6jEBoDZWCSefOC-ThRX14Mqe0r8KF9XCzrpMqJts=s20-rw",
+          "alt": "Icon image",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://play-lh.googleusercontent.com/W5DPtvB8Fhmkn5LbFZki_OHL3ZI1Rdc-AFul19UK4f7np2NMjLE5QquD6H0HAeEJ977u3WH4yaQ=s20-rw",
+          "alt": "Icon image",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://play-lh.googleusercontent.com/ohRyQRA9rNfhp7xLW0MtW1soD8SEX45Oec7MyH3FaxtukWUG_6GKVpvh3JiugzryLi7Bia02HPw=s20-rw",
+          "alt": "Icon image",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://play-lh.googleusercontent.com/d0mBLWUYcRBdrNGqHJKe6Rtf8X863uQ14Aped4LdwfV3mXnZVsX0M2m3otaU3kedXeo=s64-rw",
+          "alt": "Thumbnail image",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://play-lh.googleusercontent.com/cU-dWPccEGZ39MQawS17137v0CBq3OhcIdXTRu1dCuLzSOKf1H0g2oT5LIg3gKjCoA=s64-rw",
+          "alt": "Thumbnail image",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://play-lh.googleusercontent.com/SMpFyLWJJ_6OsBh7MqMjWH4VFH3fVHj4bR5TjLUtLBcd6SgySBAZ0J3k6ZYCxSTiOg=s64-rw",
+          "alt": "Thumbnail image",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://play-lh.googleusercontent.com/e_TGMFjziCV5DYSF_a4fDNS7E63S378Fa5Qlfx0xpwLn74dt6Kpa7idl4S_Fl2NIgg=s64-rw",
+          "alt": "Thumbnail image",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://play-lh.googleusercontent.com/3yXnnZWiZhcGCvfY2TeNdimoI01-INENgBYwRKtG2GH8MJsnCgun_syUvHqJxomETuSjm_Df2eLqkXNvCL8k=s64-rw",
+          "alt": "Thumbnail image",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://play-lh.googleusercontent.com/p0p-Jx5Ub5orrUcdFmTGqH2JYAWuTn5ARvxgBkJWluQl8SlScmnapUMb24hdzyVivvs=s64-rw",
+          "alt": "Thumbnail image",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "Games Apps Kids google_logo Play Games Apps Kids none search help_outline with Google play_apps Library & devices payment Payments & subscriptions reviews My Play activity redeem Offers Play Pass Personalization in Play settings Settings \u2022 Terms of Service Games Apps Kids Acorns: Save & Invest Money Acorns Rated for 3+ info 10M+ Downloads Share Add to wishlist Rated for 3+ Learn more About this app arrow_forward Acorns helps you save, invest, and grow for your future. Our automated saving, investing, and spending tools help you grow your money and financial wellness. At Acorns, we believe that financial wellness is for everybody. It has nothing to do with how much you make \u2014 it\u2019s about finding balance with what you have. Financial wellness is when you are spending smarter today, saving for tomorrow, and investing for your future all at once. More than 14,000,000 Americans have invested over $27,000,000,000 with Acorns. You can get started in under 5 minutes, with as little as your spare change. SECURE: Acorns is committed to your security with 2-factor authentication, fraud protection, 256-bit data encryption, and all-digital card lock. Acorns Investment accounts are SIPC-protected up to $500,000, and Acorns checking accounts are -insured up to $250,000. INVEST: - EASY, AUTOMATED INVESTING Your money is automatically invested into our expert-built, diversified ETF portfolios. You can Invest Spare Change\u00ae each time you make a purchase with the Round-Ups\u00ae feature or set up automated recurring investments starting as low as $5. - INVEST IN BITS OF BITCOIN Ride Bitcoin\u2019s highs and ride out its lows by allocating up to 5% of your diversified portfolio towards a Bitcoin-linked ETF. - PERSONALIZE YOUR PORTFOLIO Add individual stocks and ETFs from the largest 100+ public US companies to your Custom Portfolio. - INVEST FOR RETIREMENT Save for retirement with an Acorns Later account, and get a 3% IRA match on new contributions during your first year with Acorns Gold. - INVEST FOR YOUR KIDS Start building your kids\u2019 futures with Acorns Early Invest, a dedicated investment account for your kids. Plus, we\u2019ll match your investments by 1% \u2014 exclusively on Acorns Gold! SAVE: - EMERGENCY SAVINGS Build savings for life\u2019s unexpected hiccups, including a 3.35% APY to help your money grow. - CHECKING Invest Spare Change\u00ae when you spend, and automatically invest a piece of each paycheck with Acorns Checking. AND MORE: - MONEY MANAGER Put your money on autopilot with Money Manager, which smartly splits your money across investing, saving, and spending. - KIDS & TEEN DEBIT CARD Teach your kids financial wellness with an Acorns Early debit card, included in Acorns Gold. - EARN BONUS INVESTMENTS Shop 10,000+ brands and earn bonus investments and exclusive deals. Plus, earn limited-time referral bonuses of up to $1,200. - GROW YOUR MONEY KNOWLEDGE Access custom articles, videos, courses, and live Q&As to learn all things money. SUBSCRIPTION PLANS Whether you\u2019re new to investing or planning for your family\u2019s future, we bundle our money tools into subscription plans. No hidden costs or transaction fees \u2014 just one, transparent monthly payment to start growing your oak. Bronze ($3/mo) \u2014 Investing tools to get you started on your financial journey. - Round-Ups\u00ae feature - Expert-built diversified portfolio - Retirement account - Checking account, and more Silver ($6/mo) \u2014 Level up your saving and investing skills. - Everything in Bronze - 1% IRA match on new contributions to your Acorns Later retirement account during your first year with Acorns Silver - Emergency Savings - Courses and videos to help you grow your money knowledge - Live Q&As with investing experts Gold ($12/mo) \u2014 Full suite of saving, investing, and learning tools for you and your family. - Everything in Silver - Smartly split your money across investing, saving and spending with Money Manager - 3% IRA match on new contributions to your Acorns Later retirement account during your first year with Acorns Gold - Investment accounts for your kids with a 1% match - Acorns Early smart money app and debit card for kids - Ability to add individual stocks and ETFs to your portfolio - $10,000 life insurance policy - Complimentary tax filing, will, and more \u2014 Disclosures are available in the images above and at www.acorns.com/disclosures 5300 California Ave Irvine CA 92617 Updated on Apr 20, 2026 Finance Data safety arrow_forward Safety starts with understanding how developers collect and share your data. Data privacy and security practices may vary based on your use, region, and age. The developer provided this information and may update it over time. This app may share these data types with third parties Messages This app may collect these data types Location, Personal info and 6 others Data is encrypted in transit You can request that data be deleted See details What\u2019s new We made some small changes so it\u2019s even easier to help your money grow, because we believe small change adds up. Grow your oak! flag Flag as inappropriate Rated for 3+ Learn more App support expand_more public Website phone Phone number +18557392859 email Support email support@acorns.com shield About the developer Acorns Grow Incorporated support@acorns.com 5300 California Ave Irvine, CA 92617 United States +1 855-739-2859 Similar apps arrow_forward Webull: Investing & Trading Webull Technologies Pte. Ltd. 4.2 star Intuit QuickBooks for Business Intuit Inc 4.0 star Uphold: Buy BTC, ETH and 300+ Uphold 4.1 star Square Point of Sale: Payment Block, Inc. 4.0 star Schwab Mobile The Charles Schwab Corporation Seeking Alpha: News & Analysis SeekingAlpha 4.6 star flag Flag as inappropriate {\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Acorns: Save \\u0026 Invest Money\",\"url\":\"https://play.google.com/store/apps/details/Acorns_Save_Invest_Money?id\\u003dcom.acorns.android\\u0026hl\\u003den_US\",\"description\":\"Build your financial wellness with a smart investing plan for stocks and ETFs.\",\"operatingSystem\":\"ANDROID\",\"applicationCategory\":\"FINANCE\",\"image\":\"https://play-lh.googleusercontent.com/Jicw-UbWSYGvxu_vgxmzWlk9aYpGqbxrq6KrLnr0AFdeMKcilqO9RbrO0OfadSwC3sY\",\"contentRating\":\"Rated for 3+\",\"author\":{\"@type\":\"Person\",\"name\":\"Acorns\",\"url\":\"https://support.acorns.com/hc/en-us/articles/1500010364362-Acorns-Contact-Information\"},\"offers\":[{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"DZD\",\"availability\":\"https://schema.org/InStock\"}]} Google Play Pass Play Points Gift cards Redeem Refund policy Kids & family Parent Guide Family sharing Terms of Service Privacy About Google Play Developers Google Store Cookies management controls Algeria (English)",
+      "headings": []
+    },
+    {
+      "rank": 3,
+      "domain": "apps.apple.com",
+      "url": "https://apps.apple.com/us/app/acorns-save-invest-money/id883324671",
+      "title": "Acorns: Save & Invest Money - App Store - Apple",
+      "word_count": 20,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/94/89/7a/94897abf-3ff0-be87-c517-d63a6e3093df/Placeholder.mill/1200x630wa.jpg",
+        "alt": "Acorns: Save & Invest Money on the App Store",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://apps.apple.com/assets/artwork/1x1.gif",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "SPECIAL EVENT Financial Wellness Month Start building financial wellness with smart investing in stocks & ETFs this Financial Literacy Month.",
+      "headings": []
+    },
+    {
+      "rank": 4,
+      "domain": "reddit.com",
+      "url": "https://www.reddit.com/r/DirtyDave/comments/19fhuth/acorns_app_an_investment_trap/",
+      "title": "Acorns App an \"investment trap\" : r/DirtyDave - Reddit",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 5,
+      "domain": "play.google.com",
+      "url": "https://play.google.com/store/apps/details/Acorns_Save_Invest?id=com.acorns.android&hl=en_SG",
+      "title": "Acorns: Save & Invest Money \u2013 Apps on Google Play",
+      "word_count": 960,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://play-lh.googleusercontent.com/Jicw-UbWSYGvxu_vgxmzWlk9aYpGqbxrq6KrLnr0AFdeMKcilqO9RbrO0OfadSwC3sY",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://fonts.gstatic.com/s/i/productlogos/avatar_anonymous/v4/web-32dp/logo_avatar_anonymous_color_1x_web_32dp.png",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://play-lh.googleusercontent.com/Jicw-UbWSYGvxu_vgxmzWlk9aYpGqbxrq6KrLnr0AFdeMKcilqO9RbrO0OfadSwC3sY=w240-h480-rw",
+          "alt": "Icon image",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://play-lh.googleusercontent.com/_re6mcALPaqotePA0WkgYeOQ6TighHRUS62FRmREPEhyZPdGM3QmRjcSpiMt6Pz1O-WZyvEIy4mtGHj9zw=w48-h16-rw",
+          "alt": "Content rating",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://play-lh.googleusercontent.com/_re6mcALPaqotePA0WkgYeOQ6TighHRUS62FRmREPEhyZPdGM3QmRjcSpiMt6Pz1O-WZyvEIy4mtGHj9zw=s38-rw",
+          "alt": "Content rating",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://play-lh.googleusercontent.com/W6-C-YO-PeKDfJIJ6YkJz70KJJUAUm0gR6OoqyLBQLW5waYAu5a96g1mmsREoCNj_CO2Eps5IqmqX7tyYG-v=w526-h296-rw",
+          "alt": "Screenshot image",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://play-lh.googleusercontent.com/H6hGCwk_z5iAADEoHpCem8397-ct662_nlDbjI0Q-t3MRAgxQKRX7c8pMKSWeLvizXqq=w526-h296-rw",
+          "alt": "Screenshot image",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://play-lh.googleusercontent.com/7Pe2dUl-zLtqUk-VPzZHI7cQpgh-d27tQkKVKlfFWECObR6EmDtu-nYq9eDIQ-aKVg4=w526-h296-rw",
+          "alt": "Screenshot image",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://play-lh.googleusercontent.com/IlDjE7VSlLQAX8dy9LDCE59o87rrti3dE-X1BpNRj_3ER5WjYkRzsfZfZ0D6YRxKN11A=w526-h296-rw",
+          "alt": "Screenshot image",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://play-lh.googleusercontent.com/VGgKdwtHBTKkyz1XpvmuDCt8WQQHJT_dzVkfTakbZdM-Bla11OMH50Wp2_NEIyKXl9I=w526-h296-rw",
+          "alt": "Screenshot image",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://play-lh.googleusercontent.com/O9gUm6ua9M8JLv96pPxHhxO-FXbtdQkBSxVlh02gxydgGdWYe5n86Q5C3IKS2KCDyQ=w526-h296-rw",
+          "alt": "Screenshot image",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://play-lh.googleusercontent.com/coDZqWEM7zxd2Rz8OS9uYVN25rgberee2L7JD1CpEbkJ2JQC_YgJlFsUSSKBUkN1KWunjCiW5TGHiZg2QtGWLko=w526-h296-rw",
+          "alt": "Screenshot image",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://play-lh.googleusercontent.com/XGH6toJNwBWVTac1hBczz2vbdD_4lzpAHdaHY1JXOBRCewh37e9BXMLHc-1nawgIpfE=w526-h296-rw",
+          "alt": "Screenshot image",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://play-lh.googleusercontent.com/iFstqoxDElUVv4T3KxkxP3OTcuFvWF5ZQQjT7aIxy4n2uaVigCCykxeG6EZV9FQ10X1itPj1oORm=s20-rw",
+          "alt": "Icon image",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://play-lh.googleusercontent.com/12USW7aflgz466ifDehKTnMoAep_VHxDmKJ6jEBoDZWCSefOC-ThRX14Mqe0r8KF9XCzrpMqJts=s20-rw",
+          "alt": "Icon image",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://play-lh.googleusercontent.com/W5DPtvB8Fhmkn5LbFZki_OHL3ZI1Rdc-AFul19UK4f7np2NMjLE5QquD6H0HAeEJ977u3WH4yaQ=s20-rw",
+          "alt": "Icon image",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://play-lh.googleusercontent.com/ohRyQRA9rNfhp7xLW0MtW1soD8SEX45Oec7MyH3FaxtukWUG_6GKVpvh3JiugzryLi7Bia02HPw=s20-rw",
+          "alt": "Icon image",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://play-lh.googleusercontent.com/AP16jh2cLVAlq7FyFYiAsRtrXsPqFOkYgPOxEQ3y_9WMmIWoAA8yomhm1TTVGX0qcg=s64-rw",
+          "alt": "Thumbnail image",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://play-lh.googleusercontent.com/1N-ub7jErxCHtSIanMlAbQcALjjHePAoE5BW3UETji87V_5PZb1El9g-OuL-_NNmSw=s64-rw",
+          "alt": "Thumbnail image",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://play-lh.googleusercontent.com/-5b4nFgeLHTIaWX6qqFY-behoePEzHvg-2TOeZWiQebl_W4PF57XMrKQqh2h0ha80g=s64-rw",
+          "alt": "Thumbnail image",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://play-lh.googleusercontent.com/9iip5ViS1XeYO36YqvfRwU44JUAqMCQ-AlHh8h3hf4Fd8pAaZiazc5hc2KMRupvAfw=s64-rw",
+          "alt": "Thumbnail image",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://play-lh.googleusercontent.com/aVdij_oLx4mlhbHs0Vk_VUuhUUt-fTsVhr2adKmceijitlXdSXiyw9YbVD32uZcQqeRiw31GZGGBk9gX3wr_=s64-rw",
+          "alt": "Thumbnail image",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://play-lh.googleusercontent.com/p0p-Jx5Ub5orrUcdFmTGqH2JYAWuTn5ARvxgBkJWluQl8SlScmnapUMb24hdzyVivvs=s64-rw",
+          "alt": "Thumbnail image",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "Games Apps Kids google_logo Play Games Apps Kids none search help_outline with Google play_apps Library & devices payment Payments and subscriptions reviews My Play activity redeem Offers Play Pass Personalisation in Play settings Settings \u2022 Terms of Service Games Apps Kids Acorns: Save & Invest Money Acorns Rated for 3+ info 10M+ Downloads Share Add to wishlist Rated for 3+ Learn more About this app arrow_forward Acorns helps you save, invest, and grow for your future. Our automated saving, investing, and spending tools help you grow your money and financial wellness. At Acorns, we believe that financial wellness is for everybody. It has nothing to do with how much you make \u2014 it\u2019s about finding balance with what you have. Financial wellness is when you are spending smarter today, saving for tomorrow, and investing for your future all at once. More than 14,000,000 Americans have invested over $27,000,000,000 with Acorns. You can get started in under 5 minutes, with as little as your spare change. SECURE: Acorns is committed to your security with 2-factor authentication, fraud protection, 256-bit data encryption, and all-digital card lock. Acorns Investment accounts are SIPC-protected up to $500,000, and Acorns checking accounts are -insured up to $250,000. INVEST: - EASY, AUTOMATED INVESTING Your money is automatically invested into our expert-built, diversified ETF portfolios. You can Invest Spare Change\u00ae each time you make a purchase with the Round-Ups\u00ae feature or set up automated recurring investments starting as low as $5. - INVEST IN BITS OF BITCOIN Ride Bitcoin\u2019s highs and ride out its lows by allocating up to 5% of your diversified portfolio towards a Bitcoin-linked ETF. - PERSONALIZE YOUR PORTFOLIO Add individual stocks and ETFs from the largest 100+ public US companies to your Custom Portfolio. - INVEST FOR RETIREMENT Save for retirement with an Acorns Later account, and get a 3% IRA match on new contributions during your first year with Acorns Gold. - INVEST FOR YOUR KIDS Start building your kids\u2019 futures with Acorns Early Invest, a dedicated investment account for your kids. Plus, we\u2019ll match your investments by 1% \u2014 exclusively on Acorns Gold! SAVE: - EMERGENCY SAVINGS Build savings for life\u2019s unexpected hiccups, including a 3.35% APY to help your money grow. - CHECKING Invest Spare Change\u00ae when you spend, and automatically invest a piece of each paycheck with Acorns Checking. AND MORE: - MONEY MANAGER Put your money on autopilot with Money Manager, which smartly splits your money across investing, saving, and spending. - KIDS & TEEN DEBIT CARD Teach your kids financial wellness with an Acorns Early debit card, included in Acorns Gold. - EARN BONUS INVESTMENTS Shop 10,000+ brands and earn bonus investments and exclusive deals. Plus, earn limited-time referral bonuses of up to $1,200. - GROW YOUR MONEY KNOWLEDGE Access custom articles, videos, courses, and live Q&As to learn all things money. SUBSCRIPTION PLANS Whether you\u2019re new to investing or planning for your family\u2019s future, we bundle our money tools into subscription plans. No hidden costs or transaction fees \u2014 just one, transparent monthly payment to start growing your oak. Bronze ($3/mo) \u2014 Investing tools to get you started on your financial journey. - Round-Ups\u00ae feature - Expert-built diversified portfolio - Retirement account - Checking account, and more Silver ($6/mo) \u2014 Level up your saving and investing skills. - Everything in Bronze - 1% IRA match on new contributions to your Acorns Later retirement account during your first year with Acorns Silver - Emergency Savings - Courses and videos to help you grow your money knowledge - Live Q&As with investing experts Gold ($12/mo) \u2014 Full suite of saving, investing, and learning tools for you and your family. - Everything in Silver - Smartly split your money across investing, saving and spending with Money Manager - 3% IRA match on new contributions to your Acorns Later retirement account during your first year with Acorns Gold - Investment accounts for your kids with a 1% match - Acorns Early smart money app and debit card for kids - Ability to add individual stocks and ETFs to your portfolio - $10,000 life insurance policy - Complimentary tax filing, will, and more \u2014 Disclosures are available in the images above and at www.acorns.com/disclosures 5300 California Ave Irvine CA 92617 Updated on 20 Apr 2026 Finance Data safety arrow_forward Safety starts with understanding how developers collect and share your data. Data privacy and security practices may vary based on your use, region and age. The developer provided this information and may update it over time. This app may share these data types with third parties Messages This app may collect these data types Location, Personal info and 6 others Data is encrypted in transit You can request that data be deleted See details What's new We made some small changes so it\u2019s even easier to help your money grow, because we believe small change adds up. Grow your oak! flag Flag as inappropriate Rated for 3+ Learn more App support expand_more public Website phone Phone number +18557392859 email Support email support@acorns.com shield About the developer Acorns Grow Incorporated support@acorns.com 5300 California Ave Irvine, CA 92617 United States +1 855-739-2859 Similar apps arrow_forward Jobber: Field Service Software Jobber Software Noom: Health & Weight Noom, Inc. 3.9 star Kraken: Buy Bitcoin & Crypto Payward, Inc. 4.3 star Receipt Scanner: Easy Expense Tracker Crypto.com: Onchain Wallet Crypto.com Onchain Wallet 4.2 star SA Investing, Stock Portfolio SeekingAlpha 4.6 star flag Flag as inappropriate {\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"Acorns: Save \\u0026 Invest Money\",\"url\":\"https://play.google.com/store/apps/details/Acorns_Save_Invest_Money?id\\u003dcom.acorns.android\\u0026hl\\u003den_SG\",\"description\":\"Build your financial wellness with a smart investing plan for stocks and ETFs.\",\"operatingSystem\":\"ANDROID\",\"applicationCategory\":\"FINANCE\",\"image\":\"https://play-lh.googleusercontent.com/Jicw-UbWSYGvxu_vgxmzWlk9aYpGqbxrq6KrLnr0AFdeMKcilqO9RbrO0OfadSwC3sY\",\"contentRating\":\"Rated for 3+\",\"author\":{\"@type\":\"Person\",\"name\":\"Acorns\",\"url\":\"https://support.acorns.com/hc/en-us/articles/1500010364362-Acorns-Contact-Information\"},\"offers\":[{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"DZD\",\"availability\":\"https://schema.org/InStock\"}]} Google Play Pass Play Points Gift cards Redeem Refund policy Kids & family Parent Guide Family sharing Terms of Service Privacy About Google Play Developers Google Store Cookies management controls Algeria (English (United States))",
+      "headings": []
+    },
+    {
+      "rank": 6,
+      "domain": "apps.apple.com",
+      "url": "https://apps.apple.com/us/app/acorns-save-invest-money/id883324671?see-all=reviews&platform=iphone",
+      "title": "Acorns: Save & Invest Money - Ratings & Reviews - App Store",
+      "word_count": 1696,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/1a/16/b91a169f-dba5-93a1-5700-845848d1c4c1/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/1200x630wa.jpg",
+        "alt": "Acorns: Save & Invest Money - Ratings & Reviews - App Store",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [],
+      "body_text": "Ratings & Reviews 4.7 out of 5 950K Ratings Brand New to Investing 11/16/2025 Kaybee4297 I opened the basic Acorns account after hearing the name mentioned when I was looking to start investing. The Acorns app makes it easy to track my money and makes it simple for a first-time investor to understand what they\u00e2\u0080\u0099re doing! They also offer articles and tutorials to keep you better informed. I\u00e2\u0080\u0099ve since upgraded to the Gold account with a checking and emergency savings. I would recommend this app to anyone that wants to start investing, but has no idea where to start. Developer Response Thank you for sharing your positive review! We're delighted you trust us with your financial future and are excited to support you in achieving your long-term financial goals on this important journey. Grow your oak! Brand New to Investing 11/16/2025 Kaybee4297 I opened the basic Acorns account after hearing the name mentioned when I was looking to start investing. The Acorns app makes it easy to track my money and makes it simple for a first-time investor to understand what they\u00e2\u0080\u0099re doing! They also offer articles and tutorials to keep you better informed. I\u00e2\u0080\u0099ve since upgraded to the Gold account with a checking and emergency savings. I would recommend this app to anyone that wants to start investing, but has no idea where to start. Developer Response 11/18/2025 Thank you for sharing your positive review! We're delighted you trust us with your financial future and are excited to support you in achieving your long-term financial goals on this important journey. Grow your oak! Big D Feb 10 DBlmnop I have been using for a few years and my oak has grown like no other. I put a multiplier x10 and do a sizable weekly amount. Always shocked when I see my balance. The diversification is great and weathers the storms well. Highest return on my money. I wish I put more with Acorns than spending buying stocks on Robin Hood cause I have lost more than I made. Actually might cash out, take the loss and make the money work for me the way they do here. I highly recommend to you and all my friends. Developer Response Thank you for taking the time to share your amazing review! It is truly nice to hear that you are finding our app beneficial in helping you with your saving and investing goals. Grow your oak! Big D Feb 10 DBlmnop I have been using for a few years and my oak has grown like no other. I put a multiplier x10 and do a sizable weekly amount. Always shocked when I see my balance. The diversification is great and weathers the storms well. Highest return on my money. I wish I put more with Acorns than spending buying stocks on Robin Hood cause I have lost more than I made. Actually might cash out, take the loss and make the money work for me the way they do here. I highly recommend to you and all my friends. Developer Response Feb 12 Thank you for taking the time to share your amazing review! It is truly nice to hear that you are finding our app beneficial in helping you with your saving and investing goals. Grow your oak! Smart Finance App for Family 12/25/2025 JTs2Kool4Skool Allows you to invest in some EBT\u00e2\u0080\u0098s and some sort, stocks and a conservative to moderate investment fashion. Also allows for setting up a protected kids accounts and allowing them to grow early. The accuser is similar to fatherhood where you can dollar cost average/DCA whether it be daily, weekly, or monthly. Some great features. But they make money off yet through the delays that it takes to invest money in and get money out. It takes a few days. Developer Response Thank you for sharing your valuable experience. We're glad you trust us to help with your financial growth. You're kicking off a process where your bank will transfer money to us, and then we'll purchase shares on your behalf for your diversified portfolio. Your feedback truly means a lot to us and we are committed to continuously improving your experience and will pass that along to the team. Grow your oak! Smart Finance App for Family 12/25/2025 JTs2Kool4Skool Allows you to invest in some EBT\u00e2\u0080\u0098s and some sort, stocks and a conservative to moderate investment fashion. Also allows for setting up a protected kids accounts and allowing them to grow early. The accuser is similar to fatherhood where you can dollar cost average/DCA whether it be daily, weekly, or monthly. Some great features. But they make money off yet through the delays that it takes to invest money in and get money out. It takes a few days. Developer Response 12/29/2025 Thank you for sharing your valuable experience. We're glad you trust us to help with your financial growth. You're kicking off a process where your bank will transfer money to us, and then we'll purchase shares on your behalf for your diversified portfolio. Your feedback truly means a lot to us and we are committed to continuously improving your experience and will pass that along to the team. Grow your oak! Great App 11/08/2025 Maliante4life I was scared to get into stocks but this app made it easy with the training videos. Inspired me to learn more and open a Fidelity account as well. This app is super user friendly I started with only $5 per month and change slowly I started going up and now I\u00e2\u0080\u0099m investing $25 per week I love the way it breaks down what you\u00e2\u0080\u0099re investing into. I\u00e2\u0080\u0099m trying to get my siblings into it as they get older. This is a great starting point for newbies like me haha Developer Response Thank you so much for sharing your review! We are truly delighted to hear that you have found our financial education resources to be helpful on your journey. It means a lot to us that you have chosen to invest with us and trust us to support your financial future. Grow your oak! Great App 11/08/2025 Maliante4life I was scared to get into stocks but this app made it easy with the training videos. Inspired me to learn more and open a Fidelity account as well. This app is super user friendly I started with only $5 per month and change slowly I started going up and now I\u00e2\u0080\u0099m investing $25 per week I love the way it breaks down what you\u00e2\u0080\u0099re investing into. I\u00e2\u0080\u0099m trying to get my siblings into it as they get older. This is a great starting point for newbies like me haha Developer Response 11/10/2025 Thank you so much for sharing your review! We are truly delighted to hear that you have found our financial education resources to be helpful on your journey. It means a lot to us that you have chosen to invest with us and trust us to support your financial future. Grow your oak! It works for me Jan 7 Lorie G H I have Stash and Fidelity, too. Acorn is much easier to use and beginner-friendly. You can start investing from $5 to $200 a month, whatever is comfortable with you. I have opened a college fund for my kids, too! I have had Acorns for a few years now, and my portfolio is up 52 percent. Compare to my Stash and Fidelity. My only regret is that I didn't put more money in at the very beginning. Developer Response Thank you so much for your amazing review, Lorie! We\u00e2\u0080\u0099re thrilled to hear that you find our app easy to use and simple. It means a lot to us that you\u00e2\u0080\u0099ve chosen to invest in your and your family\u00e2\u0080\u0099s future with us. Grow your oak! It works for me Jan 7 Lorie G H I have Stash and Fidelity, too. Acorn is much easier to use and beginner-friendly. You can start investing from $5 to $200 a month, whatever is comfortable with you. I have opened a college fund for my kids, too! I have had Acorns for a few years now, and my portfolio is up 52 percent. Compare to my Stash and Fidelity. My only regret is that I didn't put more money in at the very beginning. Developer Response Jan 9 Thank you so much for your amazing review, Lorie! We\u00e2\u0080\u0099re thrilled to hear that you find our app easy to use and simple. It means a lot to us that you\u00e2\u0080\u0099ve chosen to invest in your and your family\u00e2\u0080\u0099s future with us. Grow your oak! Car money Mar 26 soo-zen L I\u00e2\u0080\u0099ve saved enough money to buy a new car which I will need in about a year. It has helped me save more so than any other method I\u00e2\u0080\u0099ve tried because of the small amounts I invest each month plus round-ups. I hardly notice them coming out of my monthly income. I\u00e2\u0080\u0099ve recommended Acorns to friends and family who, like me, have ADHD and saving money is a challenge. Developer Response We sincerely appreciate you taking the time to share your review. We are truly delighted to hear that our app has been helpful in supporting your financial savings journey. We are committed to continually improving and providing you with the best possible experience to help you achieve your financial goals. Grow your oak! Car money Mar 26 soo-zen L I\u00e2\u0080\u0099ve saved enough money to buy a new car which I will need in about a year. It has helped me save more so than any other method I\u00e2\u0080\u0099ve tried because of the small amounts I invest each month plus round-ups. I hardly notice them coming out of my monthly income. I\u00e2\u0080\u0099ve recommended Acorns to friends and family who, like me, have ADHD and saving money is a challenge. Developer Response Mar 30 We sincerely appreciate you taking the time to share your review. We are truly delighted to hear that our app has been helpful in supporting your financial savings journey. We are committed to continually improving and providing you with the best possible experience to help you achieve your financial goals. Grow your oak!",
+      "headings": []
+    },
+    {
+      "rank": 7,
+      "domain": "acorns.com",
+      "url": "https://www.acorns.com/learn/acorns/how-does-acorns-work/",
+      "title": "How does Acorns work?",
+      "word_count": 641,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://sqy7rm.media.zesty.site/shutterstock_1674345967--2-.webp?width=1200&height=630&fit=crop",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://sqy7rm.media.zestyio.com/Acorns-Logo.svg",
+          "alt": "Acorns logo",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://sqy7rm.media.zestyio.com/Downward-Carat.svg",
+          "alt": "Downward arrow",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://sqy7rm.media.zestyio.com/Invest-Icon-24x24.svg",
+          "alt": "Invest for every day",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://sqy7rm.media.zestyio.com/Later-Icon.svg",
+          "alt": "Invest for retirement",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://sqy7rm.media.zestyio.com/Banking-Icon.svg",
+          "alt": "Bank smarter",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://sqy7rm.media.zestyio.com/Money-Manager-Icon.svg",
+          "alt": "Automate your money",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://sqy7rm.media.zestyio.com/Earn-Icon.svg",
+          "alt": "Earn bonus investments",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://sqy7rm.media.zestyio.com/Early-icon-24x24.svg",
+          "alt": "Invest for your kids",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://sqy7rm.media.zestyio.com/Early-Icon.HJZoVgmKgl.svg",
+          "alt": "Build kids\u2019 money skills",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://sqy7rm.media.zestyio.com/Acorns-Logo-With-Text-2022.svg",
+          "alt": "Acorns Logo",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://sqy7rm.media.zestyio.com/Acorns-Logo-No-Text-Updt-2022.svg",
+          "alt": "Acorns Logo Icon",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://sqy7rm.media.zestyio.com/Learn-Hub-Arrow-Left.png",
+          "alt": "Left arrow",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://sqy7rm.media.zestyio.com/shutterstock_1674345967--2-.webp?width=1080&height=1080&fit=crop",
+          "alt": "Image of Need help navigating Acorns? Here is how Acorns works to save & invest for you.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://sqy7rm.media.zestyio.com/Quiz-Icon-Retirement.svg",
+          "alt": "Retirement",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://sqy7rm.media.zestyio.com/Quiz-Icon-Education.png",
+          "alt": "Education",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://sqy7rm.media.zestyio.com/Quiz-Icon-Kids.svg",
+          "alt": "Investments for kids",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://sqy7rm.media.zestyio.com/Quiz-Icon-Wealth.svg",
+          "alt": "Long term wealth",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://sqy7rm.media.zestyio.com/What-to-know-about-custom-portfolios_square--1-.jpg?width=266&height=266&fit=crop",
+          "alt": "Can You Buy Individual Stocks on Acorns? What to Know About Custom Portfolios",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://sqy7rm.media.zestyio.com/Compound-Vending-Machine-Hero.H115E87jWe.webp?width=266&height=266&fit=crop",
+          "alt": "Acorns Unveils Compounding Vending Machine and AR Experience to Prove a Single Dollar Can Change a Future",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://sqy7rm.media.zestyio.com/Trump-Account-Match-Press-Image--1-.webp?width=266&height=266&fit=crop",
+          "alt": "Acorns Matches Federal $1,000 Trump Account Investment for Employees\u2019 Children",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://sqy7rm.media.zestyio.com/Acorns-Early---Money-Missions-on-YT--1-.jpg?width=266&height=266&fit=crop",
+          "alt": "Acorns Early Launches Free Financial Education on YouTube for Families Nationwide",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://sqy7rm.media.zestyio.com/Acorns-Footer-Logo-2x-2022.png",
+          "alt": "Acorns logo",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://sqy7rm.media.zestyio.com/Instagram.png",
+          "alt": "Instagram",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://sqy7rm.media.zestyio.com/Footer-X.svg",
+          "alt": "Twitter",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://sqy7rm.media.zestyio.com/Facebook.png",
+          "alt": "Facebook",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://sqy7rm.media.zestyio.com/Footer-YouTube.svg",
+          "alt": "YouTube",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://sqy7rm.media.zestyio.com/Footer-TikTok-SVG.svg",
+          "alt": "TikTok",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://sqy7rm.media.zestyio.com/EqualWeb-ADA-icon-green.svg",
+          "alt": "Wheelchair icon",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "Acorns is a saving and investing app that makes investing easy. Unlike other investing apps where you pick and choose stocks you want to invest in, Acorns does that for you by recommending a diversified , expert-built investment portfolio of ETFs designed for long term investing. Investing with Acorns means unlocking a full suite of investing tools that can help you reach your financial goals \u2014 no matter what stage of life you\u2019re in. Whether you\u2019re looking to invest for your future or your family\u2019s future, Acorns has you covered. Acorns Invest \u2013 Personal investing account Your expert-built, diversified investment account , where you can invest spare change through Round-Ups\u00ae, and set easy Recurring Investments. Acorns Later \u2013 Retirement Account Your easy retirement account, where you can start with just $5 and get potential tax advantages as you invest. Acorns Checking \u2013 All-digital banking Your smart checking account that can invest while you spend, and invest a piece of every paycheck automatically. Acorns Early \u2013 Investment account for kids Your investment account for the kids in your life. See potential tax advantages, and invite friends and family to invest, too. Round-Ups\u00ae \u2013 Invest with your spare change An Acorns feature that automatically invests your spare change into your Acorns Invest account. Emergency Fund \u2013 Prepare for the unexpected Automatically save a small piece of every paycheck for those unexpected rainy days. Starting your investing journey There\u2019s no one right way to invest. But there are time-tested principles for investing that Acorns is built on \u2014 making it a great place to get started. It\u2019s about time in the market, not timing it. On average, the US stock market has grown an average of 10% every year for the past 100 years. Investing early and investing often can let your money take full advantage of time and the stock market. \u201cCompound interest is the 8th wonder of the world.\u201d Money doesn\u2019t grow on trees, but with compound interest or compound returns, money can grow itself. The longer you invest with Acorns, the more you\u2019re giving your money a chance to work for you. Try our compound interest calculator to see for yourself! Learn more . Diversify, diversify, diversify. Investing in a bunch of different companies helps make sure you don\u2019t put all your eggs in one basket. Acorns\u2019 expert-built portfolios does the diversifying for you, helping you lessen risk as you invest. From Acorns mighty oaks do grow. Contrary to popular belief, you don\u2019t need a lot of money to start investing . With Acorns, you can set Recurring Contributions to automatically invest with as little as $5 a day, week, or month. Or, you can link a debit/credit card with Acorns and turn on Round-Ups\u00ae to invest your spare change. for Acorns to start investing at your own pace. Let\u2019s grow your oak! The Emergency Fund is a non-interest bearing demand deposit bank account. This material has been presented for informational and educational purposes only. The views expressed in the articles above are generalized and may not be appropriate for all investors. The information contained in this article should not be construed as, and may not be used in connection with, an offer to sell, or a solicitation of an offer to buy or hold, an interest in any security or investment product. There is no guarantee that past performance will recur or result in a positive outcome. Carefully consider your financial situation, including investment objective, time horizon, risk tolerance, and fees prior to making any investment decisions. No level of diversification or asset allocation can ensure profits or guarantee against losses. Article contributors are not affiliated with Acorns Advisers, LLC. and do not provide investment advice to Acorns\u2019 clients. Acorns is not engaged in rendering tax, legal or accounting advice. Please consult a qualified professional for this type of service.",
+      "headings": []
+    },
+    {
+      "rank": 8,
+      "domain": "youtube.com",
+      "url": "https://www.youtube.com/watch?v=LtNZnKFe_Ng",
+      "title": "Is Acorns the best trading app for beginners? (2026 REVIEW)",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 9,
+      "domain": "unbiased.com",
+      "url": "https://www.unbiased.com/discover/financial-advice/acorns-review",
+      "title": "Acorns review 2026 - unbiased.com",
+      "word_count": 2193,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://a.storyblok.com/f/185166/225x225/85570af20f/acorns-invest.png",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [],
+      "body_text": "This Acorns review examines how the micro-investing platform works, its features, fees, and who it may be best suited for. What does Acorns do? Acorns is a micro-investing platform designed to make it easier for beginners to save and invest without requiring large sums of money. At the core of the service is Acorns Invest, a robo-advisor that automatically builds and manages a diversified portfolio of low-cost exchange-traded funds (ETFs) based on an individual\u00e2\u0080\u0099s goals, risk tolerance, and time horizon. One of its most distinctive features is Round-Ups, where users link a debit or credit card, and every purchase is rounded up to the nearest dollar. Once these round-ups hit $5, this is automatically invested into the portfolio. In addition to Round-Ups, Acorns supports one-time and recurring deposits. Acorns\u00e2\u0080\u0099 portfolios are based on modern portfolio theory, a mathematical framework that builds an investment portfolio to maximize the expected return for the level of risk.\u00c2 The portfolios include a range of ETFs across multiple asset classes, including stocks, bonds, real estate, and, in some tiers, limited exposure to Bitcoin via a bitcoin-linked ETF. Portfolios are rebalanced automatically. Beyond investing, Acorns also offers access to individual retirement accounts (IRAs) through Acorns Later, custodial accounts through Acorns Early, and integrated banking features through Acorns Checking. All services are managed through a single mobile app experience, and features expand based on the user\u00e2\u0080\u0099s subscription tier (personal, personal plus, or premium). What are the pros and cons of Acorns? Acorns offers a hands-off, beginner-friendly investing experience that automates savings and investing through features such as Round-Ups and recurring deposits. The platform is well-suited for users who prefer a simplified financial solution that combines investing, banking, and retirement services. However, its flat monthly fee structure may not be ideal for users with low account balances, as it can result in disproportionately high fees. Here is a breakdown of the pros and cons: Pros of Acorns: Effortless micro-investing: Round-Ups automatically invests spare change from everyday purchases. No minimum to open an account: Users can begin investing with as little as $5. Diversified ETF portfolios: Portfolios include a range of low-cost ETFs across multiple asset classes. Automatic rebalancing: Acorns maintains portfolio allocations without manual intervention. Bundled financial services: Access to IRAs, custodial accounts, checking, and high-yield savings are available through upgraded plans. You can earn rewards: Users can receive cashback investments when shopping with select retail partners through the Acorns Earn program. Integrated mobile app: All services, including investing, banking, and retirement, are accessible in one place. Cons of Acorns: Flat fees can be high for small accounts: Even a fee of $3 to $12 per month can represent a large percentage for those with small balances. No tax-loss harvesting: Unlike many other robo-advisors, Acorns does not offer this. Limited portfolio customization: Users cannot select individual ETFs or exclude specific sectors, so it\u00e2\u0080\u0099s not ideal for those who want more control over investments. Transfer-out fees: A $50 per ETF fee applies when transferring assets to another brokerage. No access to human financial advisors: Even with premium tiers, there\u00e2\u0080\u0099s no option for dedicated consultations with a certified financial planner (CFP). Investors interested in alternatives to Acorns\u00e2\u0080\u0099 round-up and automated investing approach may also consider digital advisory platforms like Vanguard Digital Advisor, Schwab Intelligent Portfolios Premium or Empower Personal Strategy for broader goal-based guidance, while those who prefer full-featured self-directed investing could explore brokers such as Fidelity Investments, Charles Schwab or ETRADE for more extensive research tools and investment options How much does Acorns cost? Acorns uses a flat monthly subscription model, which differs from percentage-based advisory fees typically charged by other robo-advisors. While this pricing can be affordable for users with larger account balances, it can result in a high effective cost for those with smaller portfolios. Acorns offers three subscription tiers, which are detailed below. Personal $3/month Includes Acorns Invest (automated investing), Acorns Later (IRA accounts), and Acorns Checking (banking features with no overdraft fees and access to 55,000+ ATMs). Personal Plus $6/month All features in the personal plan, plus emergency fund planning, high-yield savings, and IRA contribution matching (conditions apply). Premium (formerly Family) $12/month Adds Acorns Early (custodial accounts for children), priority customer support, estate planning tools, and live educational sessions. Acorns also has some additional costs, including ETF expense ratios, a $50 transfer-out fee, and no trading commissions for managed portfolios: ETF expense ratios: Acorns portfolios include ETFs with underlying fund fees that typically range from 0.04% to 0.22%, depending on portfolio composition. These are charged by the ETF providers and are not retained by Acorns. Transfer-out fee: Acorns charges $50 per ETF when users request to transfer their investments to another brokerage. No trading commissions: Acorns does not charge commissions for buying or selling within its managed portfolios. In summary, while the flat-fee model offers predictable costs, it can lead to disproportionately high fees as a percentage of assets for smaller accounts. For example, a $3/month charge on a $500 balance equals a 7.2% fee annually, significantly higher than the industry standard of 0.25% to 0.40% for asset under management (AUM) based robo-advisors. In comparison, percentage-based robo-advisors such as Vanguard Digital Advisor charge around 0.15% annually, which can be more cost-efficient for larger portfolios. What is the minimum account size for Acorns? Acorns has a low barrier to entry, making it accessible for new investors who may not have large sums of money to begin with. The platform does not require a minimum balance to open an account, and investing begins automatically once the account reaches $5. The minimums broken down by requirement are below. Minimum to open an account: $0, so people can sign up without funding their account immediately. Minimum investment threshold: $5. Investments are made once Round-Ups or deposits reach $5. IRA and custodial accounts: No additional minimums are required beyond the standard $5 investment threshold. Subscription tier access: All tiers (personal, personal plus, premium) are accessible regardless of account balance. However, features such as IRA matching and custodial accounts require a higher-tier subscription. Although there are no asset minimums, users should consider how the flat monthly fee impacts their investment growth, particularly at lower balances. Who should choose Acorns? Acorns is worth considering for beginner and passive investors who want an easy, automated way to start saving and investing without needing to manage their portfolios actively. It is particularly well-suited for individuals who struggle to consistently save money, as the round-ups feature turns everyday purchases into investment contributions. This service may be ideal for: First-time investors: Acorns simplifies investing with minimal setup, no investment decisions required, and automated portfolio management. Budget-conscious users: Those who struggle to save regularly may benefit from Round-Ups and recurring deposit automation. Mobile-first users: The platform is built around its mobile app, making it easy to manage finances on the go. Long-term savers: Users planning for retirement or saving for their children\u00e2\u0080\u0099s future can access IRAs and custodial accounts through upgraded plans. Individuals looking for an all-in-one solution: Acorns bundles investing, retirement, banking, and savings into a single platform. However, Acorns may not be the right fit for: Investors with large portfolios: The platform lacks advanced features such as tax-loss harvesting and personalized portfolio construction. Hands-on investors: Acorns does not allow the selection of individual ETFs or sector exclusions. Cost-sensitive investors: Flat monthly fees can affect lower account balances. While Acorns may be a good fit for beginners and hands-off investors, those comparing robo-advisors might also want to explore alternatives such as: Vanguard Digital Advisor \u00e2\u0080\u0093 low 0.15% annual fee Fidelity Go \u00e2\u0080\u0093 $10 starting balance, integrated with Fidelity accounts Schwab Intelligent Portfolios \u00e2\u0080\u0093 no advisory fees, higher minimum balance Wealthfront \u00e2\u0080\u0093 includes tax-loss harvesting and advanced features Merrill Guided Investing \u00e2\u0080\u0093 percentage-based pricing with advisor access SoFi Automated Investing \u00e2\u0080\u0093 low costs plus access to financial planners Acorns: is it secure? Yes, Acorns is considered a secure platform for both investing and banking. The company employs multiple layers of security to protect users\u00e2\u0080\u0099 data and funds. Investment accounts held through Acorns are protected by Securities Investor Protection Corporation (SIPC) insurance, which covers up to $500,000 in securities (including up to $250,000 in cash) in the event the brokerage fails. Note that SIPC protection does not cover losses due to market fluctuations. For banking services, Acorns partners with Lincoln Savings Bank, a member of the Federal Deposit Insurance Corporation (FDIC). Cash held in Acorns Checking and savings accounts is insured by the up to applicable limits, which is currently $250,000 per depositor, per insured bank. From a digital security standpoint, Acorns uses 256-bit encryption, secure socket layer (SSL) protocols, and multi-factor authentication (MFA) to safeguard sensitive information. Users can enable biometric login (such as face ID or fingerprint) on mobile devices, and the app automatically logs out after a period of inactivity to prevent unauthorized access. Acorns: customer service Acorns offers several customer support channels to assist users with questions about investing, account management, and technical issues. While the platform is designed to be low-touch and mostly automated, support is available through the following methods: Live chat: This is available via Acorns\u00e2\u0080\u0099 mobile app and website during business hours. Email support: Users can submit inquiries via email and typically receive a response within one to two business days. Online help center: Acorns has a searchable FAQ and help section that covers topics such as deposits, withdrawals, account setup, tax documents, and security. In-app support: Users can also access support tools directly in the mobile app. Higher-tier subscribers (such as those on the premium plan) may receive priority support and access to live educational sessions with financial educators, but Acorns does not offer phone-based customer service or one-on-one consultations with financial advisors. Other robo-advisors provide direct access to certified financial planners, such as Betterment and Charles Schwab. Acorns\u00e2\u0080\u0099 support model is more limited and best suited for users who are comfortable managing their accounts independently. Acorns: what are real customers saying? Acorns receives mixed reviews from users across major platforms such as Reddit, Trustpilot, and the Better Business Bureau (BBB). Many customers praise the platform\u00e2\u0080\u0099s ease of use and its encouragement of saving through automation. However, others express concerns about the cost structure and limited customization. Reddit user insights On Reddit , several users have shared positive experiences with Acorns\u00e2\u0080\u0099 Round-Ups feature, stating that it helped them build an investment habit without much effort. \u00e2\u0080\u009cHonestly, I never noticed the money leaving my account. Round-Ups make it easy to invest without thinking about it.\u00e2\u0080\u009d Others, however, are critical of the monthly fees, especially for smaller account balances: \u00e2\u0080\u009cI was paying $3 a month, but my balance was only around $400. That\u00e2\u0080\u0099s more than 9% annually just in fees. Moved to another platform.\u00e2\u0080\u009d A few users also mention concerns over portfolio performance and lack of transparency regarding fund allocation: \u00e2\u0080\u009cReturns were decent during bull markets, but the high cash allocation and no tax optimization really drag things down in the long term.\u00e2\u0080\u009d Trustpilot and BBB reviews\u00c2 On Trustpilot , Acorns has an average rating of approximately 2.8/5, based on a range of reviews. Common complaints include: Delays in fund withdrawals Lack of phone support Confusing fee structure However, satisfied users frequently highlight the simplicity of the app and how Acorns helped them start investing for the first time. On the BBB , Acorns is not currently accredited, and its profile contains a mixture of user complaints and company responses. Some complaints relate to account closures and delays in customer service response times. Key takeaways from real customer reviews Acorns earns praise for its ease of use and ability to turn saving into a habit. However, some users report frustration with: The flat monthly fees for small portfolios Limited control over investments Slow withdrawal times and limited support channels Acorns: mobile app Acorns\u00e2\u0080\u0099 mobile app serves as a central hub for all user interactions with the platform. Available on both iOS and Android, the app allows people to manage their investments, monitor account activity, view round-up contributions, and access banking and retirement features from a single interface. Key features of the app include: Round-Ups tracking: Users can see how much spare change is being invested from linked debit or credit card purchases. One-time and recurring deposits: Users can easily set up daily, weekly, or monthly contributions to investment or retirement accounts. Account monitoring: Track portfolio performance, asset allocation, and transaction history. Banking integration: Manage Acorns checking accounts, view direct deposits, and find fee-free ATMs nearby. Financial education: Premium users can access live sessions and educational content through the app. Security: Supports biometric login (Face ID or fingerprint), encryption, and automatic logout. While the Acorns app is highly rated for simplicity and user experience, it may lack some of the advanced analytics, forecasting tools, or portfolio comparisons offered by more sophisticated platforms like Betterment or Wealthfront . However, for users seeking ease and automation, it delivers a clean and intuitive experience. Is Acorns worth it? Acorns is a decent option for hands-off investors who are looking to build long-term savings and investing habits with minimal effort. Its Round-Ups feature, low entry point, and bundled financial tools make it especially attractive for beginners, younger users, or",
+      "headings": []
+    },
+    {
+      "rank": 10,
+      "domain": "facebook.com",
+      "url": "https://www.facebook.com/AcornsGrow/videos/investing-for-everybody/2267489557016595/",
+      "title": "No investing knowledge? No worries. Acorns' easy-to-use app ...",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://scontent.faae2-4.fna.fbcdn.net/v/t15.5256-10/528316014_2404519616629370_8380936337794579467_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=a27664&_nc_ohc=M8UHens3BbMQ7kNvwHW3cao&_nc_oc=Adr90XF-64IVrwy3WCv-qeXXYXSlqo2p1J3k2ISoXWOoDSKKXsiiUd7TP1h5jVDQ1iw&_nc_zt=23&_nc_ht=scontent.faae2-4.fna&_nc_gid=01K4xWTL2l2EvN3z0v_Nvw&_nc_ss=7c20f&oh=00_Af1oZdxUjAgsPyrW11G-qDZH5tuCXprY3jWVNl9xukjMsA&oe=69F294D3",
+        "alt": "15\u00a0K vues\u00a0\u00b7 28 partages | No investing knowledge? No worries. Acorns' easy-to-use app makes getting started simple. | Acorns",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 11,
+      "domain": "acorns.com",
+      "url": "https://www.acorns.com/log-in/",
+      "title": "Acorns Log in",
+      "word_count": 120,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://sqy7rm.media.zesty.site/Acorns-App.png?width=1200&height=630&fit=crop",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://sqy7rm.media.zestyio.com/Acorns-Logo.svg",
+          "alt": "Acorns logo",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://sqy7rm.media.zestyio.com/Downward-Carat.svg",
+          "alt": "Downward arrow",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://sqy7rm.media.zestyio.com/Invest-Icon-24x24.svg",
+          "alt": "Invest for every day",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://sqy7rm.media.zestyio.com/Later-Icon.svg",
+          "alt": "Invest for retirement",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://sqy7rm.media.zestyio.com/Banking-Icon.svg",
+          "alt": "Bank smarter",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://sqy7rm.media.zestyio.com/Money-Manager-Icon.svg",
+          "alt": "Automate your money",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://sqy7rm.media.zestyio.com/Earn-Icon.svg",
+          "alt": "Earn bonus investments",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://sqy7rm.media.zestyio.com/Early-icon-24x24.svg",
+          "alt": "Invest for your kids",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://sqy7rm.media.zestyio.com/Early-Icon.HJZoVgmKgl.svg",
+          "alt": "Build kids\u2019 money skills",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://sqy7rm.media.zestyio.com/Acorns-Logo-With-Text-2022.svg",
+          "alt": "Acorns Logo",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://sqy7rm.media.zestyio.com/Acorns-Logo-No-Text-Updt-2022.svg",
+          "alt": "Acorns Logo Icon",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://sqy7rm.media.zestyio.com/Acorns-App.png",
+          "alt": "Image of the Acorns App Icon",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://sqy7rm.media.zestyio.com/Acorns-Early-App.png",
+          "alt": "Image of the Acorns App Icon",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://sqy7rm.media.zestyio.com/App-Icon.B1s9Xy3z9.svg",
+          "alt": "Acorns Logo",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "For You Invest for every day Brokerage account Invest for retirement IRA account Bank smarter Checking & savings Automate your money Money Manager Earn bonus investments Cashback invested For Your Family Invest for your kids UGMA/UTMA Build kids\u2019 money skills Debit card & learning app Plans & Pricing Learn Support Get started For You Invest for every day Brokerage account Invest for retirement IRA account Bank smarter Checking & savings Automate your money Money Manager Earn bonus investments Cashback invested For Your Family Invest for your kids UGMA/UTMA Build kids\u2019 money skills Debit card & learning app Plans & Pricing Learn Support Which app are you trying to log in to? Acorns Early Acorns Invest Spare Change\u00ae Get started \u2715",
+      "headings": []
+    },
+    {
+      "rank": 12,
+      "domain": "nerdwallet.com",
+      "url": "https://www.nerdwallet.com/investing/reviews/acorns",
+      "title": "2026 Acorns Review: Is This App Subscription Worth It? - NerdWallet",
+      "word_count": 2428,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.nerdwallet.com/assets/blog/wp-content/uploads/2021/09/GettyImages-961009800-1440x864.jpg",
+        "alt": "",
+        "description": "Clean, minimalist custom illustration or high-quality object stock photo.",
+        "type": "minimalist_branded_asset"
+      },
+      "article_images": [
+        {
+          "url": "https://www.nerdwallet.com/cdn-cgi/image/quality=85/cdn/investing/logos/AcornsTrial.png",
+          "alt": "Acorns logo",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.nerdwallet.com/cdn-cgi/image/quality=85/cdn/investing/logos/vanglogo.png",
+          "alt": "Vanguard Digital Advisor logo",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.nerdwallet.com/cdn-cgi/image/quality=85/cdn/investing/logos/Wordmark.png",
+          "alt": "Wealthfront logo",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.nerdwallet.com/cdn-cgi/image/quality=85/cdn/investing/logos/bettermentnewlogo.png",
+          "alt": "Betterment logo",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.nerdwallet.com/cdn-cgi/image/height=21,quality=85,format=auto/cdn/bain-components/shared/nerdy-sparkle.svg",
+          "alt": "sparkle",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.nerdwallet.com/assets/blog/wp-content/uploads/2023/04/336189831_5685987188176353_2746243523277238701_n-e1681950652588.jpg",
+          "alt": "June Sham's profile picture",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.nerdwallet.com/tachyon/2023/04/336189831_5685987188176353_2746243523277238701_n-e1681950652588.jpg?resize=70%2C70",
+          "alt": "June Sham",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.nerdwallet.com/cdn/lending/publication-logos/Bankrate.webp",
+          "alt": "Bankrate",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.nerdwallet.com/tachyon/2023/06/Profile_photo.jpg?resize=70%2C70",
+          "alt": "Bella Avila",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.nerdwallet.com/tachyon/2019/08/aoshea-user-avatar.jpg?resize=70%2C70",
+          "alt": "Arielle O'Shea",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.nerdwallet.com/cdn/lending/publication-logos/TheNewYorkTimes.webp",
+          "alt": "The New York Times",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.nerdwallet.com/cdn/lending/publication-logos/TheAssociatedPress.webp",
+          "alt": "The Associated Press",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.nerdwallet.com/cdn/lending/publication-logos/Marketwatch.webp",
+          "alt": "MarketWatch",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "In this Acorns review Where Acorns shines Where Acorns falls short What type of investor should choose Acorns? show more Our take: If you want to make the most of your spare change and get the occasional retailer kickback, there\u2019s really no better place to do that than Acorns. The automatic roundups at Acorns make saving and investing easy, and most investors will be surprised by how quickly those pennies accumulate. AD Paid non-client promotion Acorns is known for its automatic roundups that make saving and investing easy. The downside? At small account balances, Acorns' fees can cut into investment returns. Acorns has great tools for kids at the most expensive tier, such as a bank account and debit card designed to help them learn about all things money. But Acorns has zero financial advisor access or tax tools and higher than average transfer fees. Where Acorns shines IRA match: Silver and Gold members receive a percentage match (1% and 3%, respectively) on contributions to IRA accounts during the first year. This is a nice perk, but it's worth noting that other companies match indefinitely. Roundups: In addition to adding lump sums to your investments, Acorns lets you round up your purchases on linked credit or debit cards, then sweep the change into a computer-managed investment portfolio. Cash back: Acorns offers cash back at over 450 retailers. Where Acorns falls short No tax strategy: Unlike many of its competitors, Acorns does not offer a tax strategy. High fees on small balances: Because of its pricing structure, Acorns can have high fees on small account balances. If you're after tax-loss harvesting, consider these alternatives: Vanguard Digital Advisor Best Robo-Advisor for Portfolio Options Wealthfront Betterment Learn more on Vanguard's website AD Paid non-client promotion Learn more on Wealthfront's website AD Paid non-client promotion Learn more on Betterment's website AD Paid non-client promotion What type of investor should choose Acorns? Hands-off investors. People who struggle to save and would benefit from roundups. Investors interested in earning cash-back rewards. IRA investors, due to the company's offer to match contributions. What the Nerds think \"In addition to investment guidance, Acorns offers some unique benefits to clients, including cash-back rewards and a match on IRA contributions in your first year. Its automated savings feature, which rounds up purchases and invests the change, might also be ideal for those who struggle to budget enough to save and want a no-fuss solution. However, transfers out of Acorns to other brokerages are expensive, which might be a drawback for those managing multiple accounts.\" Acorns at a glance Account minimum $0 to open account; $5 required to start investing. Account management fee Prices are per month: Bronze Tier: $3. Silver Tier: $6. Gold Tier: $12. IRA match for qualifying contributions at Silver and Gold tiers could wipe out management fees. Investment expense ratios 0.04% to 0.22%. Account fees (annual, transfer, closing) $35 per ETF to have them transferred to another broker when you close your taxable Acorns account; no charge to sell your investments and have the resulting cash transferred. Portfolio mix Well-diversified portfolio with exposure to domestic and international stocks, bonds, REITs and a Bitcoin-linked ETF. Socially responsible portfolio options Sustainable portfolio built with ESG ETFs available for no extra cost. Accounts supported Individual non-retirement accounts. Roth, traditional and SEP IRAs. UTMA/UGMA accounts available at the $12-per-month plan. Tax strategy Not available. Human advisor option Not available. Bank account/cash management account Acorns offers impressive high-yield checking and savings accounts. At the time of this review, the checking account earns 2.57% APY and the savings account earns 4.05% APY, with no minimum balance to receive the interest rate. The checking account has no overdraft fees and access to 55,000+ fee-free ATMs. Customer support options (includes how easy it is to find key details on the website) Customer support is available 7 days/week from 5:00 a.m. to 7:00 p.m. PT via live chat, phone and email. Live chat and chat bot available 24/7. Reviewed in: Oct. 2025 . Period considered: Aug. - Oct. 2025 . How to sign up for an Acorns account You can sign up for an Acorns account through their website or mobile app. You'll provide personal information to get the account started, such as your email address, physical address and Social Security number. You'll also need your online banking information handy, so you can fund the account and pay the monthly subscription fee. You'll then answer a few questions to get a sense of your risk tolerance and financial goals. Once set up, you can link spending accounts \u2014 credit and/or debit cards \u2014 so that the spare change from those purchases gets invested. (This will happen once the amount reaches $5.) How much does Acorns cost? Account minimum There\u2019s no minimum to open an account, but the service requires a $5 balance to start investing. Account management fee Acorns has three plans. Here\u2019s what you get with each plan: Taxable brokerage account. IRA account for retirement investing. Taxable brokerage account. IRA account for retirement investing. 1% match on contributions to IRA accounts. Taxable brokerage account. IRA account for retirement investing. 3% match on contributions to IRA accounts. Ability to customize portfolio with individual stocks. Checking account with Real-Time Round-Ups and a debit card. Checking account with Real-Time Round-Ups, a debit card and competitive interest rate. Emergency fund with a high APY. Checking account with Real-Time Round-Ups, a debit card and a competitive interest rate. Emergency fund with a high APY. Earn bonus investments through shopping portal. Browser extension to earn additional bonus investments when you shop at Acorns' partners. Earn bonus investments through shopping portal. Browser extension to earn additional bonus investments when you shop at Acorns' partners. Receive 25% match on rewards, up to $200 per month. Earn bonus investments through shopping portal. Browser extension to earn additional bonus investments when you shop at Acorns' partners. Receive 50% match on rewards, up to $200 per month. Custodial investment account for kids with a 1% match. Banking account for kids with Acorns Early. Set up a will and trust (up to $259 value). $10,000 in life insurance. Whether Acorns' fee is a pro or a con depends entirely on your account balance. Flat fees like this are less common among robo-advisors, which typically charge a percentage of your assets under management per year. A fee of only $3, $6 or $12 a month might sound cheap, but it can be a high percentage of assets for investors with small balances. If you only contribute by rounding up your spare change, one of Acorns\u2019 signature features, your fee relative to your account balance will be fairly high. $100 36% 72% 144% $500 7.2% 14.4% 28.8% $5,000 0.72% 1.44% 2.88% $10,000 0.36% 0.72% 1.44% For context, Acorns\u2019 competitors such as Wealthfront and Betterment charge 0.25% per year (though Betterment has some balance requirements), and generally offer a higher level of service, including tax assistance and more diversified portfolios. To achieve an equivalent fee of 0.25% at each level, you'd need account balances of $14,400 with the Bronze plan, $28,800 with the Silver plan, and $57,600 with the Premium plan. The good news is that if you invest in the Silver or Gold plans, you may come close to wiping out that account fee entirely in your first year. Acorns offers what they call Later Match, an IRA contribution match of 1% for Silver members or 3% for Gold members on contributions made in your first year of opening the account. Investment expense ratios An expense ratio is an annual fee charged by mutual funds, index funds and exchange-traded funds, as a percentage of your investment in the fund. If you invest in a mutual fund with a 1% expense ratio, for example, you\u2019ll pay the fund $10 per year for every $1,000 invested. If high, these fees can significantly drag down your portfolio returns. The expense ratios of the funds used in Acorns\u2019 portfolios range from 0.04% and 0.22%. Expense ratios are paid in addition to your Acorns account management fee, which is typical at robo-advisors. Account fees If you decide to move your investments out of Acorns to another provider, you'll pay a steep fee for that convenience. Acorns charges $35 per ETF to transfer investments. Acorns isn't alone in charging this type of fee, but the fee itself is on the high side. If you have, say, five ETFs, you're looking at a $175 fee. A more common scenario among providers is to charge $75 to transfer all investments out, and some don\u2019t charge a fee at all. Still, you can always choose instead to sell your investments and transfer your cash to a bank account. There's no charge for that, but you'd want to take care not to lock in investment losses (or trigger capital gains taxes) by accident. What do investors say about their experience with an Acorns account? How we collect customer sentiment about Acorns NerdWallet's evaluations focus on data we collect, like account fees, portfolio diversification, features and account minimums, as well as our own testers' experiences. We include two factors that directly address customer service: Support availability and contact methods, and website transparency, which our team assesses by looking for key information on the provider's website, just as a potential customer would. But customer satisfaction is harder for us to directly assess. To offer a more complete evaluation, we've used an AI tool to comb Acorns reviews for iOS and Android. We then evaluate that data for consistent themes, both positive and negative. Due to the anonymous nature, we're unable to confirm these customer experiences as we normally would. However, we do reach out to providers for comment about any consistently negative themes and include their response here if applicable. The summary below is based on a year's worth of Acorns reviews, ending on Jan. 31, 2025. Android and iOS users consistently praise Acorns for being easy to use, with a simple, user-friendly interface. They specifically call out Acorns' round-up feature, which we detail below \u2014 it essentially sweeps the \"change\" from every purchase into an investment portfolio, allowing extra pennies to be put to work and growing investment balances faster. App users also call out Acorns' educational content and financial literacy tools, noting the app is an especially good choice for beginner investors. Reports about customer service are more mixed, and several reviews note issues with being able to access accounts at times due to occasional bugs. Some users also express confusion about Acorns' fees, which is relatively common with apps or services that offer multiple fee tiers. Acorns portfolio selection Portfolio mix Like other robo-advisors, Acorns takes the investing reins from the user. The app considers your data \u2014 including age, goals, income and time horizon \u2014 and then recommends one of five portfolios that range from conservative to aggressive. You can accept the recommendation or choose a different portfolio that takes more or less risk. The portfolios themselves are mostly made up of low-cost iShares exchange-traded funds that cover large, medium and small company stocks, international company stocks and a variety of bonds. Acorns also allows investors to allocate up to 5% of their investments toward a Bitcoin-linked ETF. Socially responsible portfolio options Acorns offers a sustainable portfolio made up of ETFs graded using ESG (environmental, social and governance) criteria. The platform makes it easy for existing customers to switch their portfolios over from the core portfolio to the sustainable one, but also recognizes that clients may experience tax complications if they do so. Other key Acorns features Accounts supported The Gold plan includes Acorns Early, which makes it easy to create UTMA/UGMA accounts for your kids. These custodial accounts allow parents to invest on behalf of a minor child and use the money for expenses that benefit the child. Once the child reaches the age of transfer (this will depend on where they live), they gain ownership of the account and can use the money for any reason. Custodial accounts are not the same as 529 college savings accounts. A 529 account is less flexible, as it is designed for education expenses, but 529s also offer more tax advantages and are generally considered a better way to save for college. Be sure to do your research or consult a financial advisor to determine the best account for you. Savings account/cash management options Acorns offers high-yield checking and savings accounts. The checking account earns a 2.57% APY, and the savings account earns 4.05% APY, with no minimum balance to receive the interest rate. The checking account offers real-time roundups to your investment account, mobile check deposits and access to more than 55,000 fee-free ATMs around the world. These APYs are only available at the Silver and Gold levels. Customer support options Customer support is available seven days a week from 5 a.m. to 7 p.m. Pacific time, by live chat, phone and email. Some robo-advisors provide more comprehensive customer service, such as 24/7 phone support. Automated savings tool One feature Acorns is known for is its automated savings tool. Acorns sweeps excess change from every purchase using a linked account into an investment portfolio. You can connect as many cards as you want, though all roundups are taken from the same linked checking account. With each purchase, Acorns rounds up to the nearest $1 and gives you the option to transfer that change into an investment portfolio. You can do that either automatically, so every purchase is rounded up and the change transferred, or manually, by going through recent purchases on the app and selecting which roundups to transfer. You can also invest lump sums manually or set up recurring deposits on a daily, weekly or monthly basis. Lump-sum transfers may be as small as $5. Cash back on purchases To help flesh out your accounts, Acorns has partnered with more than 450 companies through its app \u2014 including Apple and Walmart \u2014 to give you cash back when you use a linked payment method at one of the partners. If you use the Acorns Google Chrome and iOS Safari browser extension, you can earn rewards when you shop online. In most cases, you get the cash automatically, without any additional steps. You simply use a card linked to an active Acorns account to make the purchase, and the rewards will usually land in your account in 60 to 120 days. Retirement planning tools While Acorns stands out by being one of the only robo-advisors we review that offers an IRA match, it also provides users",
+      "headings": []
+    },
+    {
+      "rank": 13,
+      "domain": "en.wikipedia.org",
+      "url": "https://en.wikipedia.org/wiki/Acorns_(company)",
+      "title": "Acorns (company) - Wikipedia",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/New_Acorns_Logo.png/250px-New_Acorns_Logo.png",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&type=1x1&usesul3=1",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 14,
+      "domain": "cnbc.com",
+      "url": "https://www.cnbc.com/select/acorns-review/",
+      "title": "Acorns Review 2025: A Micro-Investing App For Beginners - CNBC",
+      "word_count": 1193,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://image.cnbcfm.com/api/v1/image/106335944-1579015829115gettyimages-1160012303.jpeg?v=1579015849&w=1920&h=1080",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://fm.cnbc.com/applications/cnbc.com/resources/product_select/2025/09/04/Quickbooks.png",
+          "alt": "QuickBooks",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://fm.cnbc.com/applications/cnbc.com/resources/product_select/2026/03/13/Taxslayer.png",
+          "alt": "TaxSlayer",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://fm.cnbc.com/applications/cnbc.com/resources/product_select/2025/04/16/monarch.png",
+          "alt": "Monarch",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://fm.cnbc.com/applications/cnbc.com/resources/product_select/2024/12/16/Bluevine_logo.png",
+          "alt": "Bluevine",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://fm.cnbc.com/applications/cnbc.com/resources/product_select/2025/11/06/thumbnail_SBG-Logo_RBG-01.png",
+          "alt": "SBG Funding",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107008303-1643400096287-SriTaylor.jpg?v=1643400154&w=60&h=60&ffmt=webp",
+          "alt": "By Sri Taylor, Personal Finance Intern",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://static-redesign.cnbcfm.com/dist/820decf04f42f75fecf4.svg",
+          "alt": "arrow down",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://fm.cnbc.com/applications/cnbc.com/resources/product_select/2026/01/13/mailchimplogo.png",
+          "alt": "Mailchimp",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://fm.cnbc.com/applications/cnbc.com/resources/product_select/2025/07/01/Empower_logo.png",
+          "alt": "Empower",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "Our top picks of timely offers from our partners For those just embarking on their investing journey, entering the stock market can be a daunting process. But a number of fintech investing apps have beginner-friendly features such as no account minimum, educational resources and simplified interfaces which can make the transition into investing much less intimidating. Many newcomers may opt for Acorns , which has many of these features. Acorns is an app designed specifically for novice investors looking to get their feet wet in the stock market. It offers access to its robo-advisor platform, tax-advantaged IRAs for retirement , plus a checking account . Its main micro-investing feature allows budding investors to start small by investing the spare change from their everyday purchases. For example, when you purchase a coffee for $3.75, Acorns rounds up to the nearest dollar and invests the spare $0.25 cents into the market. The idea with micro-investing is that over time your contributions will add up. It's a good strategy for newbies who want to dip their toe into the investing pool before diving all in. Below, CNBC Select reviews the investment options, features and fees of Acorns to help you decide if this platform is the right fit for you. Acorns Minimum deposit and balance requirements may vary depending on the investment vehicle selected. No minimum required to open an account, $5 minimum to start investing Fees may vary depending on the investment vehicle selected. Monthly plans include: Bronze ($3 per month), Silver ($6 per month), and Gold ($12 per month) Bonus None Investment vehicles Robo-advisor: Acorns Invest IRA: Acorns Later includes Traditional, Roth, SEP IRAs, 401(k) Rollover Investment accounts for kids: Acorns Early Investment options Diversified ETFs which include more than 7,000 stocks & bonds Educational resources \"Money Basics\" blog and Grow + CNBC website Terms apply. Pros $0 minimum deposit to open an account Invests your spare change from everyday purchases Customizes users' portfolios around their financial goals, timeline and risk tolerance Automatically rebalances portfolio Offers Acorns Sustainable Portfolios for ESG investing Access to educational articles and videos to learn about investing Cons Monthly fee can be steep if you're not investing much Investment options are limited Acorns review Investment options Features Fees Bottom line Investment options Acorns acts as a robo-advisor that invests your spare change \u2014 and any other contributions you make \u2014 into a selection of about 25 low-cost, diversified ETFs (which include more than 7,000 stocks and bonds ). Users can fund their accounts with manual deposits, automatic recurring deposits and Acorns' Round-Ups\u00ae , which are added from the rounded dollar purchases on your linked credit and debit cards once they reach $5. The ETFs are selected for you by Acorns after you complete a survey about your financial goals, investing timeline and risk tolerance . Factors like your age, income and net worth are all taken into account when creating your portfolio. ETFs in your Acorns portfolio could include ones like the Vanguard S&P 500 ETF, which mirrors the popular S&P500 stock index , or iShares Core U.S. Aggregate Bond ETF which provides broad exposure to U.S. investment-grade bonds. Investors, however, cannot currently buy or sell individual stocks through Acorns, although the company plans on launching this feature in 2022. If you ever want to break out of the training wheels and start trading on your own, consider a free stock trading platform such as Charles Schwab , Vanguard or Robinhood* . In addition to Acorns Invest , a taxable brokerage account, there is also Acorns Later, which allows you to open and manage a traditional IRA, Roth IRA , SEP IRA and/or a 401(k) Rollover . Acorns Early is offered as an investment account for kids. Features Acorns stands out for its hands-off managed portfolio and Round-Ups feature that automatically helps you grow your money in the market. Acorns will automatically rebalance your portfolio for you to keep your investments on track. Round-Ups makes it easy to put investing on autopilot, and because your contributions can be so small with this tool, it makes investing accessible for almost anyone. You can even opt to create an ESG portfolio which will be composed of ETFs that provide exposure to more sustainable companies. Acorns also provides a checking account which has many of the features of a traditional bank account including, direct deposit, mobile check deposit, a debit card and fee-free withdrawal from over 55,000 Allpoint ATMs around the world. If you're set on really learning the ropes of the stock market, Acorns offers custom financial literacy content on the go. Its educational resources include a \u201cMoney Basics\u201d blog and Grow + CNBC website . The Acorns app is available to download for free in both the App Store (for iOS), where it has 4.7/5 stars, and on Google Play (for Android), where it has 4.6/5 stars at the time this article was written. Fees Acorns offers three membership tiers: Bronze ($3 per month) Silver ($6 per month) Gold ($12 per month) While the app touts an affordable investing option for newbies, the monthly fee can eat up a big chunk of your returns if you're only putting away a few dollars each month. To really take advantage, set up a larger recurring deposit into your Acorns investment account that's in addition to any spare change that gets swept up. Investing platforms like Robinhood* and don't charge any fees for trading stocks or a monthly fee to maintain a basic account, but they don't have a robo-advisor service. SoFi offers its own robo-advisor through its SoFi Invest\u00ae* service and does not charge any management fees, plus, you can open a cash management account with them for no fee as well. Bottom line For those who want to invest their money but don't know where to start, Acorns is an approachable platform for beginners. It has a simple interface and a micro-investing feature that goes to work every time you make a purchase. Plus, your investments will be safe in low-cost, diversified funds. If you're looking for something a bit less entry level, consider a robo-advisor like Betterment . It's a solid choice for those who still want to be hands-off with their investments, though more advanced investors have the option to customize through flexible portfolios . Disclosure: NBCUniversal and Comcast are investors in Acorns. Catch up on Select's in-depth coverage of personal finance , tech and tools , wellness and more, and follow us on Facebook , Instagram and Twitter to stay up to date. Read more Banking services and Mighty Oak Visa\u2122 debit cards issued by nbkc bank, . As of June 18, 2025, Mighty Oak Checking Annual Percentage Yield (APY) is 2.57% and Emergency Fund APY is 4.05%. APY is variable and subject to change. No minimum opening deposit or minimum balance required. * INVESTMENTS ARE NOT INSURED \u2022 ARE NOT BANK GUARANTEED \u2022 MAY LOSE VALUE *(Review Robinhood disclosures here . ) 10 best 0% APR credit cards of April 2026 Brett Holzhauer Capital One miles guide: How to earn and redeem your miles Jason Stauffer How do I choose scalable accounting software for growth? Dana Miranda",
+      "headings": []
+    },
+    {
+      "rank": 15,
+      "domain": "youtube.com",
+      "url": "https://www.youtube.com/watch?v=DX1uhDZUfbs",
+      "title": "Is Acorns Worth It in 2025? Honest Review After 5+ Years - YouTube",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 16,
+      "domain": "facebook.com",
+      "url": "https://www.facebook.com/AcornsGrow/videos/investing-for-everybody/1550347429723164/",
+      "title": "No investing knowledge? No worries. Acorns' easy-to-use app ...",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 17,
+      "domain": "bankrate.com",
+      "url": "https://www.bankrate.com/investing/roboadvisor-reviews/acorns/",
+      "title": "Acorns Review - Bankrate",
+      "word_count": 0,
+      "scrape_status": "failed",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 18,
+      "domain": "youtube.com",
+      "url": "https://www.youtube.com/watch?v=EG8SkBmn65U",
+      "title": "5 Years on ACORNS: In-Depth Review, Tutorial, & Investing Guide",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 19,
+      "domain": "investopedia.com",
+      "url": "https://www.investopedia.com/articles/company-insights/090516/how-acorns-works-and-makes-money.asp",
+      "title": "How Acorns Makes Money - Investopedia",
+      "word_count": 0,
+      "scrape_status": "failed",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 20,
+      "domain": "youtube.com",
+      "url": "https://www.youtube.com/watch?v=zFotJ4WEETs",
+      "title": "How To Use Acorns | Step By Step Tutorial - YouTube",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    }
+  ],
+  "battle_plan_generated_at": "2026-04-26T10:42:48.126191+00:00",
+  "competitors_analyzed_count": 7,
+  "battle_plan_method": "local_deterministic_agent_no_api"
+}

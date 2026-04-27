@@ -1,0 +1,1009 @@
+{
+  "article_context": {
+    "angle": "Manual tracking methods (pen/paper/excel) vs. automated budgeting apps",
+    "pain_points": [
+      "Tracking expenses manually but lacking a true budget or actionable insights",
+      "Not knowing if food/grocery spending is reasonable or excessive",
+      "Difficulty saving money as a young adult due to high living costs (rent, etc.)",
+      "Excessive spending on convenience food/dining out, leading to lifestyle inflation"
+    ],
+    "top_social_questions": [
+      "How much of my paycheck should I put into savings?",
+      "What is a good budgeting/money-saving app?",
+      "How can I make crockpot meals taste better?"
+    ],
+    "dominant_emotion": "Confusion and frustration",
+    "serp_intent": "Searchers of \"best money saving apps for groceries\" want curated recommendations for mobile or digital tools that specifically help reduce costs on food and household purchases at stores or online, such as coupon scanners, price comparison apps, or cashback programs tailored to grocery shopping. The SERP intent is commercial and informational, featuring top lists, app reviews, user ratings, and download guides from sites like NerdWallet, CNET, and app stores, emphasizing ease of use and proven savings for everyday grocery budgets.",
+    "serp_title_pool": {
+      "primary": [
+        "Apps for saving money on groceries : r/Frugal - Reddit",
+        "5 Grocery Shopping Apps that Save Money - The Rambling Ramnaths",
+        "How to save money on grocery staples, meals using these apps",
+        "The Best Apps To Save Money on Groceries - Clark Howard",
+        "Why Everyone's Using This App to Save on Groceries - Facebook",
+        "Grocery store apps are changing the way we shop - YouTube",
+        "Basket | Smart Grocery Shopping List App | Compare Grocery Prices",
+        "7 Apps That Save You the Most Money on Groceries",
+        "6 Apps To Help You Save Money on Groceries in 2025",
+        "Best grocery shopping apps to save money - YouTube",
+        "Apps can save you money on groceries, but are they worth it?",
+        "How to Save Money on Groceries with Cashback Apps - Medium",
+        "Apps I use to save money on groceries - Kids in the Capital",
+        "Apps help save on groceries as prices rise - YouTube",
+        "Apps That Help You Save a lot of Money on Groceries",
+        "Apps that Help You Save Money on Groceries - Simple Living Mama",
+        "How to save money on grocery staples, meals using these apps",
+        "7 Money Saving Apps You Need to Download in 2024",
+        "Apps and Tools That Help You Save Money - YouTube"
+      ],
+      "long_tail": [
+        "Piggy Goals: Money Saving - Apps on Google Play",
+        "6 money-saving apps to help you grow your wealth - Yahoo Finance",
+        "Apps that actually help you save money? : r/Frugal - Reddit",
+        "Best Money Saving Apps and Websites",
+        "Top 5 Apps to Save You Money - Wealth & Financial Planning",
+        "25 Free Money-Saving Apps to Help Manage Your Finances - AARP",
+        "The Best Budget Apps for 2026: Pros, Cons and What Users Say",
+        "Best Free Budgeting Apps [That are Actually Free] - YouTube",
+        "Top 5 Free Money Saving Apps for Android (That Actually Work in ...",
+        "3 Apps That Will Make You a Pro at Saving Money"
+      ],
+      "question": [
+        "How to Save Money: 28 Ways - NerdWallet",
+        "18 Ways To Save Money On A Tight Budget | Bankrate",
+        "How to Save Money Fast (Without Giving Up Everything You Love)",
+        "What's the Best Way to Save Money When My Income is Tight?",
+        "How to Save Money: 23 Ways to Start Today - Ramsey Solutions",
+        "25 EFFORTLESS Ways We SAVE MONEY (Without Even Trying)",
+        "54 Ways to Save Money | America Saves",
+        "How to save money on a low income\u200b, according to Reddit",
+        "11 easy ways to save money - Discover",
+        "11 Slightly Less Obvious Ways to Save Money"
+      ]
+    },
+    "paa_questions": [
+      {
+        "q": "What is the best couponing app?",
+        "a": "Our picks for some of the best free coupon apps include Ibotta, The Coupons App and CouponCabin. Here's what else to download to save online, in stores and at the gas pump."
+      },
+      {
+        "q": "How to save drastically on groceries?",
+        "a": "13 WAYS TO SAVE MONEY ON GROCERIES"
+      }
+    ],
+    "related_searches": [
+      "Best money saving apps for groceries reddit",
+      "Best money saving apps for groceries free",
+      "App to buy groceries and pay later",
+      "Too Good To Go",
+      "Grocery shopping apps to make money",
+      "Ibotta",
+      "Best app for grocery list",
+      "Grocery Saver"
+    ]
+  },
+  "primary_keyword": "best money saving apps for groceries",
+  "competitors": [
+    {
+      "rank": 1,
+      "domain": "reddit.com",
+      "url": "https://www.reddit.com/r/Frugal/comments/179ykts/apps_for_saving_money_on_groceries/",
+      "title": "Apps for saving money on groceries : r/Frugal - Reddit",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 2,
+      "domain": "theramblingramnaths.com",
+      "url": "https://www.theramblingramnaths.com/5-grocery-shopping-apps-save-money/",
+      "title": "5 Grocery Shopping Apps that Save Money - The Rambling Ramnaths",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://i0.wp.com/www.theramblingramnaths.com/wp-content/uploads/2016/08/Grocery-App-Featured-Pic.png?fit=820%2C550&ssl=1",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://i0.wp.com/www.theramblingramnaths.com/wp-content/uploads/2016/08/Grocery-Shopping-App-pin.jpg?fit=200%2C300&ssl=1",
+          "alt": "5 Grocery Shopping Apps that Save Money",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i0.wp.com/www.theramblingramnaths.com/wp-content/uploads/2016/08/Grocery-Shopping-Slider-680X510.jpg?resize=680%2C510&ssl=1",
+          "alt": "5 Apps That Save Money",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i0.wp.com/www.theramblingramnaths.com/wp-content/uploads/2016/08/Grocery-Store-Apps-1.jpg?resize=382%2C654&ssl=1",
+          "alt": "5 Apps that save you money",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i0.wp.com/www.theramblingramnaths.com/wp-content/uploads/2016/08/Walmart-App-.png?resize=1024%2C512&ssl=1",
+          "alt": "Walmart App - Savings Catcher",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i0.wp.com/www.theramblingramnaths.com/wp-content/uploads/2016/08/Checkout-51-App.png?resize=1024%2C512&ssl=1",
+          "alt": "Checkout 51 App",
+          "description": "Graphic design layout of a document, checklist, or tracker.",
+          "type": "graphic_design_document"
+        },
+        {
+          "url": "https://i0.wp.com/www.theramblingramnaths.com/wp-content/uploads/2016/08/Ibotta-App-1.png?resize=1024%2C512&ssl=1",
+          "alt": "Ibotta App",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i0.wp.com/www.theramblingramnaths.com/wp-content/uploads/2016/08/Ibotta-App-2.png?resize=1024%2C512&ssl=1",
+          "alt": "Ibotta App",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i0.wp.com/www.theramblingramnaths.com/wp-content/uploads/2016/08/Receipt-Hog-App.png?resize=1024%2C512&ssl=1",
+          "alt": "Receipt Hog App",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i0.wp.com/www.theramblingramnaths.com/wp-content/uploads/2016/08/Coupons.com-App-.png?resize=1024%2C512&ssl=1",
+          "alt": "Coupons.com App",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i0.wp.com/www.theramblingramnaths.com/wp-content/uploads/2017/05/Updated-Signature.png?resize=175%2C175&ssl=1",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/fe552df6c9a6842a3e59142c48520f64bbd9092adea32400c5f381c5d243a404?s=64&d=wavatar&r=g",
+          "alt": "Laura Ramnath",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/c3f1795d58ee59d03005dba781b64fb7db29d0c6034a72670050df527f0de329?s=96&d=wavatar&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/feb2edd2a12b8df582bc787a0f4a486a4b5c251fd52b957f8c30ee168b2d58b5?s=96&d=wavatar&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/17e4015c77486271b5b6c7df2a06f8c13a60032ec9369b5a6fef23cf02b1b99b?s=96&d=wavatar&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/fe552df6c9a6842a3e59142c48520f64bbd9092adea32400c5f381c5d243a404?s=96&d=wavatar&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/c30be38c32cb82b367310dfb4ccca2db71e83725e0dfe683566edfd692efb595?s=96&d=wavatar&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/dc690761e45318c71445fb6e54781c6f66a666e597c54a77cf05872451dabdc2?s=96&d=wavatar&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 3,
+      "domain": "goodmorningamerica.com",
+      "url": "https://www.goodmorningamerica.com/food/story/save-money-grocery-staples-meals-apps-126970713",
+      "title": "How to save money on grocery staples, meals using these apps",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://i.abcnewsfe.com/a/13fa627e-5457-483b-a9b0-b9207292f870/groceries-gty-jef-251029_1761743678350_hpMain_16x9.jpg?w=992",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://s.abcnews.com/images/GMA/KELLY-MCCARTHY_1x1_992.jpg?w=96",
+          "alt": "Kelly McCarthy",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i.abcnewsfe.com/a/e3a33999-d1e7-4ba8-a1da-b645ec702c9d/snap-benefits-01-ap-jef-251015_1760551596455_hpMain_square.jpg?w=608",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i.abcnewsfe.com/a/6c8d7307-d9d1-475f-9aa2-4a45f1d226ab/candy-2-gty-er-251008_1759947789257_hpMain_3_square.jpg?w=608",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i.abcnewsfe.com/a/09d39e34-0f98-4b2f-b764-673271744136/Whole-Foods-Market-StPetersburg-PreparedFoodsChefs-Case_1721155967291_hpMain_1x1.jpg?w=608",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i.abcnewsfe.com/a/82af5d82-23f0-410f-80ab-deb7eaa72538/too-good-to-go-ht-jef-251029_1761745093807_hpEmbed_3x2.jpg?w=992",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i.abcnewsfe.com/a/ba8cc294-8ddb-419a-84c5-b93af86110cb/flash-food-app-ht-jef-251029_1761743947119_hpEmbed_4x3.jpg?w=992",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://s.abcnews.com/images/GMA/CARROTTARTWITHWHIPPEDFETA_1777030535218_hpMain_1x1_992.jpg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://s.abcnews.com/images/GMA/chicken-2-as-gmh-260423_1776956803094_hpMain_1x1_992.jpg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://s.abcnews.com/images/GMA/mcdonalds-gty-jef-260422_1776862559652_hpMain_1x1_992.jpg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://s.abcnews.com/images/GMA/Chicken-Sorrentina-ht-gmh-260421_1776795449674_hpMain_1x1_992.jpg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 4,
+      "domain": "clark.com",
+      "url": "https://clark.com/shopping-retail/best-grocery-savings-apps/",
+      "title": "The Best Apps To Save Money on Groceries - Clark Howard",
+      "word_count": 1182,
+      "scrape_status": "tavily_fallback",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": "# The Best Apps To Save Money on Groceries There are a lot of ways to save money on groceries, but if you want to use technology to save even more, these apps can help. *This article was updated in October 2025 and I review it every 12 months. Detailed notes on all updates can be found here.* ## What Are the Best Apps To Save Money on Groceries? There\u2019s no shortage of apps that can help you save money on groceries, but they don\u2019t all work the same way. There are a few basic categories: While it\u2019s probably best to use a few grocery-saving apps in concert, you need to get the lay of the land first to see which apps are the best fit for your shopping routine. In this article, I will review some of Team Clark\u2019s favorite grocery coupon and rebate apps, listed in alphabetical order: ## 1. Checkout 51 | | | | --- | --- | | Checkout 51 logo Team Clark\u2019s Review | | | Need To Know: * Cash back available at $20 * New deals updated every Sunday Morning * Also offers cash back on gas | | Need To Know: Checkout 51 makes it easy to shop as you normally would and save money while doing it. Simply download the free app to view the current list of offers. You\u2019ll get cash back when you make an eligible purchase and upload your receipt. The app features a built-in camera to capture perfect shots of your receipt, allowing you to start building up your savings. You can cash out when you have at least $20 in your account. Payment methods include PayPal, Venmo or check. Before you download Checkout 51, be sure to read our full review of the app. ## 2. Flipp | | | | --- | --- | | Flipp Team Clark\u2019s Review | | | Need to know: * Shop circulars, sales, deals and coupons in your area * Create a shopping list based on sales at various grocery stores | | Need to know: Flipp is different than the other apps on our list because it doesn\u2019t offer cash-back or rely on loyalty programs. Instead, you can enter your location and choose your favorite grocery stores to shop current circulars, sales and deals available in your area. While you browse local sales, you can click on products to add them to your shopping list. Flipp will organize your shopping list by store. Plus, you can manually enter other items you need from the grocery store to keep your list together in one place. My favorite feature of Flipp is its Watch List. You can enter items that you need to buy and even set a price range that you\u2019d like to pay for each item. Flipp will constantly browse local sales, discounts and coupons as they become available in your area. When your Watch List items go on sale, Flipp will notify you! While you won\u2019t earn any additional cash back with Flipp, you may find the best prices at local grocery stores. If you\u2019re thinking about trying out Flipp, be sure to read our full review first. ## 3. Ibotta | | | | --- | --- | | ibotta logo Team Clark\u2019s Review | | | Need to know: * Submit pictures of your grocery receipt for cash back * Get bigger rebates on national brands, or get cash back for any purchase with \u201cAny Item\u201d rebates | | Need to know: Ibotta is pretty much the big dog when it comes to apps to save money on groceries. You can earn cash by adding offers, shopping and uploading a photo of your receipt. If you link your store loyalty card, you don\u2019t have to upload pictures. Here\u2019s a list of supported retailers. You can withdraw cash from your Ibotta account when you reach $20. Ibotta offers three ways to withdraw your earnings, including direct transfers to your bank, PayPal and digital gift cards (minimum purchase of $25). Like many of the apps on this list, Ibotta primarily features products from national brands. But even if you buy generic brands, you can take advantage of \u201cAny Item\u201d rebates for about 25 cents per receipt you upload. For more information on how to get started with Ibotta, check out our full review here. ## 4. Rakuten | | | | --- | --- | | Team Clark\u2019s Review | | | Need to know: * Cash back available at $5.01 * Payments are sent quarterly | | Need to know: You may not think of Rakuten (formerly eBates) as an app to save money on groceries; it\u2019s better known as an online shopping cash back site. But there are several grocery stores on this app, including Safeway, Albertsons and Tom Thumb. Some partner stores offer cash back, and others offer coupons. You must have a minimum of $5.01 in your account to cash out and payments are sent quarterly via PayPal, physical check or American Express Membership Rewards\u00ae Points. To learn more about Rakuten before you download the app, read our full review here. ## 5. Target | | | | --- | --- | | Team Clark\u2019s Review | | | Need to know: * Offers app-only coupons and REDcard exclusives * Lets you scan barcodes to add offers as you shop * Gives you access to Target Circle offers | | Need to know: Unlike the other apps on this list, which let you shop most anywhere you want, the Target app, as you might expect, is tied only to Target. With this app, you can browse Target Circle offers and get app-only coupons. It also integrates with the REDcard to give you 5% savings on everything you buy at Target \u2014 not just groceries. ## Final Thoughts While there are a variety of apps you can use to save money on groceries, most work in one of three ways. They either track your store loyalty card and offer point-of-sale savings by the specific retailer, provide electronic coupons to be scanned at the point of sale, or require you to add offers and then upload a photo of your receipt. Alternatively, Flipp allows you to shop and compare deals available at local grocery stores. These apps provide low-hanging fruit if you\u2019re looking to put more money in your wallet. Almost anyone can download an app and upload a picture of their receipt. It usually takes just a few seconds. So it\u2019s easy to enjoy the fruits of your labor with very little actual labor. If you\u2019re looking for more ways to lower your grocery bill, be sure to check out our 20+ ways to save money on groceries! *What are your favorite apps for saving money on groceries? Let us know in the Clark.com Community!* ### About Clark.com ### Follow Us ### Need Help? ### To Our Newsletter Clark Howard Inc. By using this website, you accept the terms of our Visitor Agreement and , and understand your options regarding Ad Choices. | Ad Disclosure",
+      "headings": []
+    },
+    {
+      "rank": 5,
+      "domain": "facebook.com",
+      "url": "https://www.facebook.com/foodandwine/posts/why-everyones-using-this-app-to-save-on-groceries-read-more-at-the-link-in-the-c/1419606576401320/",
+      "title": "Why Everyone's Using This App to Save on Groceries - Facebook",
+      "word_count": 95,
+      "scrape_status": "tavily_fallback",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": "## Food & Wine's Post \n--- ### Food & Wine October 22, 2025 \u00b7 Why Everyone\u2019s Using This App to Save on Groceries | Read more at the link in the comments All reactions: 18 4 comments 3 shares Like Comment Most relevant \ufeff Author Food & Wine Read more: bit.ly/48IsfNO FOODANDWINE.COM Why Everyone\u2019s Using This App to Save on Groceries ### Why Everyone\u2019s Using This App to Save on Groceries * 26w Jule Gardner Banville So... It's not on Android yet? That's pretty lame. * 26w Tamara Petrie Clymer Jule Gardner Banville is now",
+      "headings": []
+    },
+    {
+      "rank": 6,
+      "domain": "youtube.com",
+      "url": "https://www.youtube.com/watch?v=8mWHZYJK05c",
+      "title": "Grocery store apps are changing the way we shop - YouTube",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 7,
+      "domain": "basketsavings.com",
+      "url": "https://basketsavings.com/index.html",
+      "title": "Basket | Smart Grocery Shopping List App | Compare Grocery Prices",
+      "word_count": 417,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.basket.com/wp-content/uploads/2019/01/basket-logo-blue.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "wp-content/themes/Basket/images/hero-iphone.png",
+          "alt": "Basket phone app",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "wp-content/themes/Basket/images/avatar-1.png",
+          "alt": "Linda K. Avatar",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "wp-content/themes/Basket/images/avatar-2.png",
+          "alt": "Carole D. Avatar",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "wp-content/themes/Basket/images/avatar-3.png",
+          "alt": "Amanda L. Avatar",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "wp-content/themes/Basket/images/avatar-5.png",
+          "alt": "Janice J. Avatar",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "wp-content/themes/Basket/images/avatar-4.png",
+          "alt": "Cleo B. Avatar",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "wp-content/themes/Basket/images/compare-list.png",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "wp-content/themes/Basket/images/compare-map.png",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "wp-content/themes/Basket/images/logo--costco.png",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "wp-content/themes/Basket/images/logo--whole-foods.png",
+          "alt": "Costco Logo",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "wp-content/themes/Basket/images/logo--kroger.png",
+          "alt": "Kroger Logo",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "wp-content/themes/Basket/images/logo--amazon.png",
+          "alt": "Amazon Logo",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "wp-content/themes/Basket/images/logo--publix.png",
+          "alt": "Publix Logo",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "wp-content/themes/Basket/images/logo--walmart.png",
+          "alt": "Walmart Logo",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "wp-content/themes/Basket/images/logo--safeway.png",
+          "alt": "Safeway Logo",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "wp-content/themes/Basket/images/logo--target.png",
+          "alt": "Target Logo",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "Basket Savings App helps you build a shopping list and allows you to track prices at your local stores. For questions about the app or technical support, please contact us at hello@basketsavings.com \"Seeing the store price with what's on sale is a dream! I saved tons of time & $100 \u2013 just this month!\" Linda K. Atlanta, GA \"Being able to get pricing before going into different stores saves me so much time!\" Carole D. Fresno, CA \"I love seeing comparing prices between stores. I saved $34 on my last grocery trip. Thank you Basket!\" Amanda L. Wasington, DC \"I didn\u2019t know some stores had certain products, and getting the best price for them made by day!\" Janice J. Richmond, VA \"I love saving time and money for things that make me happy, Basket let's me do that.\" Cleo B. New Jersey \"Seeing the store price with what's on sale is a dream! I saved tons of time & $100 \u2013 just this month!\" Linda K. Atlanta, GA \"Being able to get pricing before going into different stores saves me so much time!\" Carole D. Fresno, CA \"I love seeing comparing prices between stores. I saved $34 on my last grocery trip. Thank you Basket!\" Amanda L. Wasington, DC \"I didn\u2019t know some stores had certain products, and getting the best price for them made by day!\" Janice J. Richmond, VA \"I love saving time and money for things that make me happy, Basket let's me do that.\" Cleo B. New Jersey Join the Basket community Through crowd-sourcing, our community of shoppers share real-time prices on products and inventory. Basket gives shoppers the power to make their best decision, every time, every trip. Compare Grocery Prices Near You and Online Too Create your shopping list in Basket and you\u2019ll instantly see which stores have your favorite products and what the total price is at each store. Local and online prices vary as much as 30 to 40 percent each week, so check Basket every time. On a time crunch? Compare prices for online retailers too. (Spoiler: you\u2019ll likely pay for the convenience). to see your real-time savings! How Basket Works Create Start your smart shopping list anywhere, anytime, and ditch the old paper copy. Save See how prices compare today locally and online. You\u2019ll see updated sales and coupons too. Shop Congrats! You\u2019ve got the information you need to make a brighter decision on your Basket. And hundreds more. Download Basket to see stores in your area.",
+      "headings": []
+    },
+    {
+      "rank": 8,
+      "domain": "reinventingrobin.com",
+      "url": "https://reinventingrobin.com/apps-to-save-money-on-groceries/",
+      "title": "7 Apps That Save You the Most Money on Groceries",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://reinventingrobin.com/wp-content/uploads/2019/01/Save-Money-on-Groceries-for-Slider.png",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://reinventingrobin.com/wp-content/uploads/2019/01/Save-Money-Shopping-Pin2.png",
+          "alt": "Save money while shopping at the grocery store with these 7 mobile apps!",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://reinventingrobin.com/wp-content/uploads/2019/01/Save_money_on_groceries_with_Ibotta.jpg",
+          "alt": "Screenshot of Ibotta app that saves you money on groceries.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://reinventingrobin.com/wp-content/uploads/2019/01/Screenshot-Checkout-51.jpg",
+          "alt": "Screenshot of the grocery savings on Checkout 51.",
+          "description": "Graphic design layout of a document, checklist, or tracker.",
+          "type": "graphic_design_document"
+        },
+        {
+          "url": "https://reinventingrobin.com/wp-content/uploads/2019/01/Screenshot-SavingStar.jpg",
+          "alt": "SavingStar app screenshot showing the money savings on specific grocery items.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://reinventingrobin.com/wp-content/uploads/2019/01/Target-Shopping-Circle-300x567.png",
+          "alt": "Screenshot of the Target Circle page in the Target shopping app.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://reinventingrobin.com/wp-content/uploads/2019/01/Saving_Money_on_groceries_phone_app.png",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 9,
+      "domain": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/news/6-apps-help-save-money-200105378.html",
+      "title": "6 Apps To Help You Save Money on Groceries in 2025",
+      "word_count": 480,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://s.yimg.com/ny/api/res/1.2/pbDeePJIPiAEPovcqlhFfQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/gobankingrates_644/44ab9082b5ea28eec898cb1c40870088",
+        "alt": "",
+        "description": "Generic editorial stock photo depicting common financial concepts like piggy banks or people with devices.",
+        "type": "editorial_stock_photo"
+      },
+      "article_images": [
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/KO1crwJ.ldECU2TcyqwjPQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI0MjtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2023-09/ee6ba310-4dcd-11ee-abb6-d9983ff24d1b",
+          "alt": "GOBankingRates",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/VD7Dssd9L2xxQCaGoAQ6XQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU0MA--/https://media.zenfs.com/en/gobankingrates_644/44ab9082b5ea28eec898cb1c40870088",
+          "alt": "Timon Schneider / SOPA Images / Shutterstock.com",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "With Consumer Price Index (CPI) data showing inflation rose 3% year-over-year in January, it\u2019s not rare to experience sticker shock when checking store price tags or reading your grocery receipt. While rethinking meal choices, buying in bulk and eating leftovers can help reduce food costs, even getting the basics might still strain your budget. Discover More: What $100 in Groceries at Costco Will Cost You at Walmart For You: 4 Things You Must Do When Your Savings Reach $50,000 Luckily, saving more on groceries can be as easy as downloading free apps that let you compare local store prices, access digital coupons or get cash and gift cards for buying items on your shopping list. Here are six apps you should check out before your next grocery trip. Checkout 51 features a small selection of weekly rewards offers for groceries and household basics. For example, it might give cash back for buying certain brands of eggs, potato chips, pasta, coffee creamers and diapers. A particular offer can be for all stores, or just specific retailers. Using this money-saving app is straightforward since you just need to add the weekly offer to your account, buy the item and then take a photo of the receipt. Once you\u2019ve earned $20, you can ask Checkout 51 to send a paper check. Read More: Costco, Walmart and Other Stores With Perks Retirees Need To Be Taking Advantage Of Flipp makes it easy to find weekly deals at more than 2,000 retailers without needing to check multiple websites or apps. You can simply set your location to find your favorite local stores \u2014 such as Walmart, Grocery Outlet, Kroger and Aldi \u2014 and browse weekly sales ads all in one place. The app also offers sales alerts for grocery categories, allows searching for specific products, supports shopping lists and includes retailer coupons. According to the company\u2019s website , your weekly savings with Flipp could add up to 20%. Fetch is similar to Checkout 51 since you can add product offers to your account and snap receipts to get rewards. However, the app tends to have a larger selection of eligible grocery items, and lets you easily find offers at nearby grocery and convenience stores. Plus, even if you don\u2019t find an offer, you can still get rewards points for just uploading a receipt. You can turn those grocery shopping rewards into gift cards from Visa, Amazon, Giant Eagle, Instacart and many other retailers. Other redemption options include merchandise, charity donations and sweepstakes entries. Flashfood If you\u2019d like to stretch your budget and live more sustainably, Flashfood is a unique app for finding perishable products that stores have discounted by as much as half. These deals often include produce, meat and bakery items that are still good, but going out of date soon. While you cut your grocery bill, stores benefit from cutting back on waste.",
+      "headings": []
+    },
+    {
+      "rank": 10,
+      "domain": "youtube.com",
+      "url": "https://www.youtube.com/watch?v=8Sby7KYjPpo",
+      "title": "Best grocery shopping apps to save money - YouTube",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 11,
+      "domain": "pressherald.com",
+      "url": "https://www.pressherald.com/?p=7628170",
+      "title": "Apps can save you money on groceries, but are they worth it?",
+      "word_count": 2344,
+      "scrape_status": "tavily_fallback",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": "# The Portland Press Herald # The Portland Press Herald # The Portland Press Herald ## Welcome! Account Subscription: ACTIVE Account Subscription: INACTIVE Account Subscription: REGISTERED Questions about your account? Our customer service team can be reached at [[email protected]](/cdn-cgi/l/email-protection#690a001b0a1c05081d00060729040c1d050747061b0e) during business hours at (207) 791-6000. # Apps can save you money on groceries, but are they worth it? Loading... You are able to gift 5 more articles this month. Anyone can access the link you share with no account required. Learn more. With a The Portland Press Herald subscription, you can gift 5 articles each month. It looks like you do not have any active subscriptions. To get one, go to the subscriptions page. With a The Portland Press Herald subscription, you can gift 5 articles each month. ### Share this: During a recent inventory of the apps on my phone, I realized I had more than a dozen icons expressly designed to help me find food faster, more efficiently and cheaper. Do they? I wondered. Also, are they really anything new? While my food shopping may be largely driven by my phone today, a little research made it clear that technology-forward schemes playing into the desires of food shoppers to get a good deal are nothing new: It started with the paper coupon. ## HISTORY LESSON Asa Chandler, an early employee of the Coca-Cola Company, created the first such coupon nearly 125 years ago, according to the Encyclopedia of Food Issues. At the time, 5-cent glasses of what we now call Coke sold at a rate of nine per day at a drug store soda fountain in Atlanta. In 1887, Chandler placed paper tickets for a free glass in magazines, instructed sales representatives to hand them out and mailed them directly to the homes of potential customers. By 1915, according to the company\u2019s website, 8.5 million coupons had been redeemed, effectively seeding the market for generations of soda drinkers across the United States. The coupon market grew during the Great Depression out of economic necessity. In the 1940s, chain supermarkets used coupons as a way to entice customers away from neighborhood butchers, bakeries and corner stores. Paper coupons hit their peak in 1992, according to a report by the grocery store consultancy CresLane, when the number redeemed totaled 7.9 billion. As a marketing tool, coupons incentivize consumers to buy something they didn\u2019t know they wanted and likely don\u2019t really need. It\u2019s a strategy that behavioral scientists have long documented as an effective marketing tool. More recently, neuroscientists are studying the physiological reactions that the thrill of a good deal elicits. Several studies published in the last five years show that scoring a deal increases oxytocin (the \u201cfeel-good hormone\u201d) while reducing ACTH (the stress hormone). Supermarket loyalty programs, which also tap into consumers\u2019 good feelings about buying groceries, gained popularity in tandem with coupons. Through the S&H Green Stamps program that ran for almost 100 years, from the 1890s through the late 1980s, shoppers learned to frequent grocery stores offering the most stamps per dollar spent. Consumers would stick the stamps into booklets and exchange filled booklets for houseware items in the Green Stamp catalog. My grandmother scored my first cookbook \u2014 a 1980 edition of The Good Housekeeping Illustrated Cookbook. It still holds a prominent spot on my shelf. ## Related In the 1990s, loyalty programs leapt into the computer age with bar-coded cards that allowed shoppers to trade their data about product preferences for a few bucks off at the register. In the early 2000s, grocery marketeers handed out streamlined cards that slipped onto key rings for customers to conveniently have at the ready. Now here we are in 2026 with grocery-store specific loyalty apps on our phones that feed AI-driven algorithms that serve up personalized coupons, all meant to allow us to buy more food at a better price. ## APPS WITH A SIDE OF SOCIAL MISSION Which brings me back to the grocery shopping apps on my phone. I had several from my local grocery stores, a few more food delivery apps that I use in a pinch, and others that offer discounted food with a social mission like reducing food waste, supporting regenerative meat production or sourcing organic products. These apps have earned their place on my phone because I\u2019ve used them long enough to understand their glitches, offer me savings on products I routinely purchase and let me schedule grocery pickup services that save me hours otherwise spent in the stores. For the apps that offer discounted food with the side of social mission, though, I\u2019ve had to develop a system to determine whether I\u2019m actually using the app to get a good deal on something I want \u2014 or if the app is driving me to buy things I don\u2019t need. Turns out that process boils down to the same three-pronged rationale my parents used 50 years ago when they pored over the grocery store circulars in the Sunday paper and when the only phone in the house was the one on the wall in the kitchen. ## Related Their (and my) first criteria: Would I normally buy these products? If the answer is \u201cNo,\u201d then even if I am tempted to download the app because I saw an enticing offer in my social media feed, I remind myself that deleting it is also quick and painless. If the answer is \u201cYes,\u201d it becomes a cost comparison exercise on the front end coupled with a quality assessment exercise once the food arrives in my kitchen. For example, I regularly use Misfits Market, a Philadelphia-based subscription grocery delivery service. Begun in 2018, the company offered organic produce that did not meet the size or aesthetic standards of grocery stores. At the time, such produce was routinely thrown out. The company has since developed a line of Odds and Ends value-added products made from imperfect or surplus crops \u2014 think cheesy popcorn (my favorite), fresh cacio e pepe ravioli (my husband\u2019s favorite), canned whole tomatoes and concentrated paste and breads made from barley used in beer making. ## Related My last Misfits Market delivery of 17 items cost me $72, plus $12 in packing and shipping fees, for a total of $84. I added up similar items using my Hannaford app, which totaled $105. So the Misfits Market app on this order saved me about $20. The second criteria to help determine whether app-based grocery services are worth the money is to understand their sunken costs. There are membership fees for subscription-based grocery programs like Misfits Market and Thrive Market, another app-based grocery service I use because it offers generic organic grocery and household products for as much as 50 percent less than a grocery store\u2019s own brand. Thrive Market\u2019s $59 membership fee is offset, the company says, by welcome gifts. I got jars of almond butter, ghee and the company\u2019s cookbook of quick recipes for healthy living. While you can buy from Misfits Market without paying the $70 annual fee, membership cuts delivery fees by 30 percent, triggers deeper discounts on many products and accrues points that you can cash in for products in subsequent orders. Since I get two deliveries a month, and my average savings over local grocery store prices is $20, my true savings on this service kicks in after three deliveries. The downside to these subscription-based apps is that shoppers must stay on top of the process. Both services let you set the frequency of your deliveries, but if you fail to go into the app within the prescribed shopping days to update your cart, they both send you exactly what you asked for in your last box \u2014 whether you want those items or not. ## WORTH THE EFFORT? Assessing the time and effort spent getting these cheaper foods into your hot little hands via shopping apps is another consideration. While the Misfits Market and Thrive Market apps will take you time on the front end to select the groceries, the goods are ultimately delivered to your door. Other food-centered apps, however, like Too Good To Go, which connect consumers with restaurants, bakeries and grocers looking to part with unsold food at the end of each day, require consumers to pick up their purchases themselves. In this instance, app users buy a \u201csurprise bag\u201d for between $5 to $10, roughly a third of what the contents would normally cost. They are required to pick up the bags within a designated window of time. Too Good To Go has offered this service in Europe since 2015 and in the U.S. since 2020 and claims to have saved over 100 million meals from being thrown out. Thirty-five million meals were rescued in the U.S., which in food waste measurements terms translates to a reduction of 92.5 million kg of CO2 emissions, the equivalent to driving about 300 million miles in an average North American vehicle. According to press relations manager Molly Sposato, the company, a certified B corporation, has over 17 million registered users in the United States, with 25,000 active partner locations across the country. That reflects a recent massive expansion through partnerships with national chains like Whole Foods Market and Circle K. In Maine, app users can buy bags every day from dozens of Circle K locations across the state and at Whole Foods. More sporadically, they can try to snag bags from Cheese Louis, Coffee Me Up, and LB. Kitchen in Portland; and several independently owned bakeries, including The Blue in Kennebunk, Borealis in Wells and Waldoboro, Big Sky Bread in Portland, and Porteur Breads in Brunswick. I\u2019ve used the app to buy bags at Whole Foods, LB. Kitchen and Porteur Breads. I\u2019ve never been disappointed by the contents. That said, the process of scoring a bag from the limited supply on any given day is stressful. If I didn\u2019t immediately react to the app\u2019s notification that bags were available, I\u2019d miss my chance. Even a five-minute delay meant the bags were sold out. When I embarked on this bargain-hunting adventure, responding quickly to the alerts and scoring a savings was part of the adrenaline rush. But the thrill wore off fast. Eventually, I determined that I\u2019d rather pay full price to shop at my own pace. As with many things in life, it\u2019s a question of time/energy spent versus savings. Shoppers will have to determine for themselves where they fall on that continuum. ## CACIO E PEPE RAVIOLI WITH QUICK CANNED TOMATO AND BASIL SAUCE Use Misfits Market\u2019s fresh ravioli, which is made from surplus cheese that would otherwise be thrown out. The sauce, made from pantry staples \u2014 canned tomatoes and storage onions, both also from Misfits Market in this case \u2014 comes together quickly for a weeknight meal. *Serves 4* 2 tablespoons olive oil 2 tablespoons unsalted butter 2 cups chopped yellow onion 3 cloves garlic, minced 1/4 teaspoon crushed chili flakes Kosher salt 1/2 cup dry white wine 1 (28-ounce) can peeled whole tomatoes with their juices 1/2 cup (packed) fresh basil leaves 1 (9-ounce) package Misfits Market Cacio Pepe Ravioli Parmesan cheese, grated, to serve Add the olive oil and butter to a medium pot over medium high heat. When the butter has melted, stir in the onions, garlic, red pepper flakes and a pinch of salt. Reduce the heat to low, and cook until the onions are translucent, about 10 minutes. Stir in the wine, increase the heat to high, and simmer until the wine reduces by half, about 3 minutes. Lower the heat a bit, add the tomatoes, use a spoon to break them into smaller chunks, and simmer for 15 minutes. While the sauce simmers, bring a pot of salted water to a boil. Drop in the fresh ravioli and cook until they pasta floats, about 4 minutes. Strain the pasta and arrange it among 4 bowls. To finish the sauce, transfer it to a blender, add the basil and puree until smooth. Adjust for seasoning before pouring \u00bd cup sauce over each serving of ravioli. Top with grated parmesan cheese and serve immediately. ## SAVORY YOGURT WITH TOASTED QUINOA, DATES, PISTACHIOS AND OLIVE OIL I was introduced to this combination by food writer Amanda Hesser when she launched the Food52.com platform 17 years ago. I am still amazed that the combination, made from standard pantry items, works so well for either breakfast, lunch or dinner. A good quality olive oil makes all the difference in this dish. The yogurt and quinoa I used are from Misfits Market. *Serves 1* \u00bd cup full-fat Greek yogurt 2 tablespoons raw quinoa, toasted 2-3 medjool dates, roughly chopped Handful of pistachios Olive oil Lemon zest Flaky sea salt Spread the yogurt on a plate. Scatter the quinoa, dates and nuts all over it. Drizzle some olive oil over it all. Sprinkle with lemon zest and flaky sea salt to taste. *Local foods advocate Christine Burns Rudalevige is the former editor of Edible Maine magazine and the author of \u201cGreen Plate Special,\u201d both a column about eating sustainably in the Portland Press Herald and the name of her 2017 cookbook. She can be contacted at [[email protected]](/cdn-cgi/l/email-protection).* ## Post navigation We invite you to add your comments. We encourage a thoughtful exchange of ideas and information on this website. By joining the conversation, you are agreeing to our commenting policy and terms of use. More information is found on our FAQs. You can update your screen name on the member's center. Comments are managed by our staff during regular business hours Monday through Friday as well as limited hours on Saturday and Sunday. Comments held for moderation outside of those hours may take longer to approve. ### Join the Conversation Please sign into your Press Herald account to participate in conversations below. If you do not have an account, you can register or subscribe. Questions? Please see our FAQs. ### Contact us ### reader resources ### Advertise ### events ### CONNECT WITH US ### NETWORK ## ## You must be logged in to post a comment. ###",
+      "headings": []
+    },
+    {
+      "rank": 12,
+      "domain": "medium.com",
+      "url": "https://medium.com/@karensnow137/how-to-save-money-on-groceries-with-cashback-apps-7a5617dfc3b1",
+      "title": "How to Save Money on Groceries with Cashback Apps - Medium",
+      "word_count": 0,
+      "scrape_status": "failed",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 13,
+      "domain": "kidsinthecapital.ca",
+      "url": "https://www.kidsinthecapital.ca/blog/2021/8/20/apps-i-use-to-save-money-on-groceries",
+      "title": "Apps I use to save money on groceries - Kids in the Capital",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "http://static1.squarespace.com/static/54ac8edce4b0ab38fef6ce47/t/61215c09057dc2593af1da48/1629576252766/IMG_6947.jpg?format=1500w",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/54ac8edce4b0ab38fef6ce47/1629576202583-X1OEEU0QDKPYD7G1VIUU/IMG_6947.jpg",
+          "alt": "IMage description: Screenshot of a cell phone showing a folder called grocery saving apps and most of the apps listed in this post",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 14,
+      "domain": "youtube.com",
+      "url": "https://www.youtube.com/watch?v=j52YIxAQUuo",
+      "title": "Apps help save on groceries as prices rise - YouTube",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 15,
+      "domain": "retrohousewifegoesgreen.com",
+      "url": "https://retrohousewifegoesgreen.com/money-saving-apps-groceries/",
+      "title": "Apps That Help You Save a lot of Money on Groceries",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://retrohousewifegoesgreen.com/wp-content/uploads/2015/03/phone-apps-2.jpg",
+        "alt": "Apps that save you money on groceries #frugal",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://retrohousewifegoesgreen.com/wp-content/uploads/2015/03/apps-save-money.jpg",
+          "alt": "Apps that save you money on groceries #frugal",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://retrohousewifegoesgreen.com/wp-content/uploads/2017/09/toilet-tablets-5-150x150.jpg",
+          "alt": "toilet cleaning tabs on cutting board with essential oil bottles",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://retrohousewifegoesgreen.com/wp-content/uploads/2018/01/cleaning-motivation-2-150x150.jpg",
+          "alt": "bucket filled with cleaning supplies",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://retrohousewifegoesgreen.com/wp-content/uploads/2026/04/homemade-strawberry-soda-150x150.jpg",
+          "alt": "Strawberry soda sitting on outside table",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://retrohousewifegoesgreen.com/wp-content/uploads/2026/04/pigs-in-blankets-2-150x150.jpg",
+          "alt": "pigs in a blanket on a plate on an outdoor table",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://retrohousewifegoesgreen.com/wp-content/uploads/2018/02/homemaking-notebook-150x150.jpg",
+          "alt": "vintage pink teacup and notebook and pen on coffee table",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 16,
+      "domain": "simplelivingmama.com",
+      "url": "https://simplelivingmama.com/apps-that-help-you-save-money-groceries/",
+      "title": "Apps that Help You Save Money on Groceries - Simple Living Mama",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://simplelivingmama.com/wp-content/uploads/2014/05/apps-to-help-save-money.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://simplelivingmama.com/wp-content/uploads/2014/05/apps-that-help-you-save-money-on-groceries.jpg",
+          "alt": "Learn which apps help you save money on groceries and which apps are the best cash back apps for shopping!",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "http://www.shareasale.com/image/49403/affiliate-ads-300x250-1.png",
+          "alt": "Checkout 51 Offers",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "http://adn.impactradius.com/display-ad/758-17134",
+          "alt": "SavingStar, Inc. Save on groceries with no clipping and no printing today",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://simplelivingmama.com/wp-content/uploads/2016/01/Homemakers-resource.jpg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://simplelivingmama.com/wp-content/uploads/2015/12/printable-christmas-recipe-cards-768x1178.jpg",
+          "alt": "Christmas Recipe Cards \u2013 Free Printable",
+          "description": "Graphic design layout of a document, checklist, or tracker.",
+          "type": "graphic_design_document"
+        },
+        {
+          "url": "https://simplelivingmama.com/wp-content/uploads/2015/07/moving-madness.jpg",
+          "alt": "Packing, Moving, and Unpacking",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://simplelivingmama.com/wp-content/uploads/2016/03/Amazingly-Delicious-2-768x446.jpg",
+          "alt": "Amazingly Delicious Homemade French Bread Recipe",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://simplelivingmama.com/wp-content/uploads/2016/01/Skillet-BBQ-768x1152.jpg",
+          "alt": "Skillet BBQ Chicken Thighs",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 17,
+      "domain": "abcnews.com",
+      "url": "https://abcnews.com/GMA/Food/save-money-grocery-staples-meals-apps/story?id=126970713",
+      "title": "How to save money on grocery staples, meals using these apps",
+      "word_count": 460,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://i.abcnewsfe.com/a/13fa627e-5457-483b-a9b0-b9207292f870/groceries-gty-jef-251029_1761743678350_hpMain_16x9.jpg?w=1600",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://assets-cdn.abcotvs.net/static/images/DisneyPlus.svg",
+          "alt": "stream logo",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://s.abcnews.com/assets/dtci/random/svg/gma_logo.svg",
+          "alt": "via GMA logo",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i.abcnewsfe.com/a/13fa627e-5457-483b-a9b0-b9207292f870/groceries-gty-jef-251029_1761743678350_hpMain_16x9.jpg?w=992",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i.abcnewsfe.com/a/0ed920fd-44a1-45e6-906b-b6b0329e8227/iran-9-rt-gmh-260420_1776708421816_hpMain_square.jpg?w=208",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i.abcnewsfe.com/a/e34f24cb-af38-42e0-a5c5-2fc29803afee/reiner-gty-jef-260424_1777038565761_hpMain_square.jpg?w=208",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i.abcnewsfe.com/a/c610adc0-5f0f-480d-a9c8-5900d9eee416/strait-main_1776589771677_hpMain_square.jpg?w=208",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i.abcnewsfe.com/a/82af5d82-23f0-410f-80ab-deb7eaa72538/too-good-to-go-ht-jef-251029_1761745093807_hpEmbed_3x2.jpg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i.abcnewsfe.com/a/ba8cc294-8ddb-419a-84c5-b93af86110cb/flash-food-app-ht-jef-251029_1761743947119_hpEmbed_4x3.jpg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i.abcnewsfe.com/a/096b8434-d82f-4e53-a5ad-57aeaf2ea160/remains-found-ht-jt-260422_1776893610668_hpMain_square.jpg?w=208",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "Food Too Good To Go partners with restaurants and grocery stores for surplus goods. As the government shutdown drags on, SNAP benefits could lapse for 42 million Americans who rely on the federally funded food assistance program, sending people searching for ways to save on groceries . Nov. 1 would mark the first time in 60 years that the federal funding has lapsed for the critical food assistance program due to a shutdown, prompting more than two dozen states and the District of Columbia suing the Trump administration. In the meantime, many have taken to social media to share tips and apps that offer reduced prices on groceries and even full meals, with some prices as low as $10 for $45 worth of pantry staples. Iran live updates: Witkoff, Kushner to travel to Islamabad Saturday for peace talks Apr 24, 7:00 PM Rob Reiner's son Jake Reiner speaks out in heartbreaking statement Apr 24, 10:10 AM Trump says US Navy attacked and seized Iranian-flagged cargo ship Apr 19, 10:21 PM Apps to save on food, meals and groceries Too Good To Go, a food rescue service and app, connects thousands of users to discounted surplus food from bakeries, restaurants, ready-to-eat grocery counters and more. Users can order the so-called surprise bags -- which contain surplus goods for a lower cost -- from the app through a selection of partner eateries, including Whole Foods. Too Good To Go is available in hundreds of major U.S. cities and has 175,000 business partners listed, offering everything from groceries and smoothies to sushi and pizza. \"It is so important for shoppers to look for creative ways to save,\" smart shopping expert Trae Bodge told ABC News. \"I do also recommend, if you are going to the grocery store, to have a little bit more of an open mind. You can shop around sales, and plan your menu accordingly, rather than going to the store [with] very specific ideas in mind and then paying full price.\" Flashfood is a similar app that offers fresh, affordable produce and protein from grocery stores. The app partners with major banner retailers including Kroger, Meijer, Tops, and more, and users who download the app can browse what's available and on sale at nearby supermarkets. Flashfood shared a video on Instagram that highlights how to find some of the savings available, for those curious. (See the video below.) The company told ABC News its bestselling item on the app is a 10-pound box of mixed fresh fruits and vegetables that Flashfood sells just for $5. Another app -- OH, a potato! -- aims to help home cooks minimize food waste in their own kitchens with AI-backed recipes that use items currently in their refrigerator or pantry. Sponsored Content by Taboola",
+      "headings": []
+    },
+    {
+      "rank": 18,
+      "domain": "homecookedroots.com",
+      "url": "https://homecookedroots.com/money-saving-apps/",
+      "title": "7 Money Saving Apps You Need to Download in 2024",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://homecookedroots.com/wp-content/uploads/2024/04/7-Money-Saving-Apps.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://homecookedroots.com/wp-content/uploads/2024/04/Money-Saving-Apps-Pinterest-Pin-150x150.jpg",
+          "alt": "Pinterest pin showing girl in yellow sweater on smartphone with text that reads, 7 Free Apps You Need to Save Money and 3 you should delete.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://homecookedroots.com/wp-content/uploads/2024/04/Money-Saving-Apps-1.jpg",
+          "alt": "Woman with smartphone in hands.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://homecookedroots.com/wp-content/uploads/2023/09/Ibotta-App.jpg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://homecookedroots.com/wp-content/uploads/2024/04/Money-Saving-Apps-32.jpg",
+          "alt": "Rakuten logo.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://homecookedroots.com/wp-content/uploads/2024/04/Money-Saving-Apps-33.jpg",
+          "alt": "Flipp app logo.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://homecookedroots.com/wp-content/uploads/2024/04/Money-Saving-Apps-34.jpg",
+          "alt": "Libby app logo.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://homecookedroots.com/wp-content/uploads/2024/04/Money-Saving-Apps-35.jpg",
+          "alt": "Hoopla app logo.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://homecookedroots.com/wp-content/uploads/2024/04/Money-Saving-Apps-36.jpg",
+          "alt": "Too good to go app logo.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://homecookedroots.com/wp-content/uploads/2024/04/Money-Saving-Apps-37.jpg",
+          "alt": "Every dollar app logo.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://homecookedroots.com/wp-content/uploads/2024/04/Money-Saving-Apps-2.jpg",
+          "alt": "Black smartphone with apps.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://homecookedroots.com/wp-content/uploads/2024/06/Cheapest-Grocery-Stores-768x1152.jpg",
+          "alt": "Cheapest grocery stores to shop and instantly lower your grocery bill graphic.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://homecookedroots.com/wp-content/uploads/2024/06/Essential-Pantry-Staples-768x1152.jpg",
+          "alt": "Essential pantry staples I keep on hand to save money.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://homecookedroots.com/wp-content/uploads/2024/06/Costco-Staples-to-Buy-and-Save-Money-768x1152.jpg",
+          "alt": "The Best Pantry Staples to buy at Costco to Save Money graphic.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://homecookedroots.com/wp-content/uploads/2024/11/Cheaper-Vegetarian-Substitutes-for-Ground-Beef-to-Try-768x1152.jpg",
+          "alt": "Graphic that reads cheaper vegetarian substitutes for ground beef. Save $1500 a year.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://homecookedroots.com/wp-content/uploads/2024/06/Best-Foods-for-Long-Term-Storage-768x1152.jpg",
+          "alt": "12 foods great for long term storage graphic.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://homecookedroots.com/wp-content/uploads/2024/09/10-Genius-Grocery-Shopping-Tips-768x576.jpg",
+          "alt": "Woman browsing in grocery store with grocery list.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://homecookedroots.com/wp-content/uploads/2023/09/Air-Fryer-Hash-Browns-450x600.jpg",
+          "alt": "Crispy frozen hash browns in air fryer.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://homecookedroots.com/wp-content/uploads/2022/12/Air-Fryer-Sweet-Potato-Wedges-450x600.jpg",
+          "alt": "Sweet potato wedges garnished with herbs.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://homecookedroots.com/wp-content/uploads/2022/12/Sofritas-450x600.jpg",
+          "alt": "Chipotle bowl topped with sofritas.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://homecookedroots.com/wp-content/uploads/2022/11/How-to-Make-Hot-Chocolate-with-Cocoa-Powder-450x600.jpg",
+          "alt": "Two white mugs of cocoa by marshmallows.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://homecookedroots.com/wp-content/uploads/2024/11/Lentil-Meatloaf-Recipe-Vegan-6-450x600.jpg",
+          "alt": "Lentil Meatloaf slices.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://homecookedroots.com/wp-content/uploads/2024/11/Sweet-Potato-Burrito-Bowl-6-450x600.jpg",
+          "alt": "Roasted sweet potato, black beans, cilantro lime rice, corn, and avocado together in a large bowl with a raw rim.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://homecookedroots.com/wp-content/uploads/2024/10/Cheap-Easy-Tater-Tot-Casserole-9-450x600.jpg",
+          "alt": "Overhead shot of final baked casserole dish in white casserole dish.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://homecookedroots.com/wp-content/uploads/2023/09/Butternut-Squash-Soup-1-450x600.jpg",
+          "alt": "Butternut Squash Soup.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://homecookedroots.com/wp-content/uploads/2023/09/Air-Fryer-Hash-Browns-1024x1024.jpg",
+          "alt": "Crispy frozen hash browns in air fryer.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://homecookedroots.com/wp-content/uploads/2022/11/How-to-Make-Hot-Chocolate-with-Cocoa-Powder-1024x1024.jpg",
+          "alt": "Two white mugs of cocoa by marshmallows.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://homecookedroots.com/wp-content/uploads/2023/02/Oven-Roasted-Potatoes-1024x1024.jpg",
+          "alt": "Roasted potatoes on a spoon.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://homecookedroots.com/wp-content/uploads/2022/12/Spicy-Creamy-Vegan-Ramen-Recipe-1024x1024.jpg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://homecookedroots.com/wp-content/uploads/2022/12/Vegan-White-Russian-2-1024x1024.jpg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://homecookedroots.com/wp-content/uploads/2022/12/Air-Fryer-Sweet-Potato-Wedges-1024x1024.jpg",
+          "alt": "Sweet potato wedges garnished with herbs.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 19,
+      "domain": "youtube.com",
+      "url": "https://www.youtube.com/watch?v=an469ANPo4s",
+      "title": "Apps and Tools That Help You Save Money - YouTube",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    }
+  ],
+  "battle_plan_generated_at": "2026-04-26T10:42:54.157727+00:00",
+  "competitors_analyzed_count": 3,
+  "battle_plan_method": "local_deterministic_agent_no_api"
+}
