@@ -633,5 +633,32 @@
       },
       "headings": []
     }
-  ]
+  ],
+  "battle_plan_generated_at": "2026-04-27T11:14:27.167283+00:00",
+  "battle_plan_validation": {
+    "all_pass": true,
+    "checks": [
+      {
+        "name": "Keyword match",
+        "pass": true,
+        "detail": "Keyword tokens hit: 3/3; angle tokens: 0"
+      },
+      {
+        "name": "Psychology match",
+        "pass": true,
+        "detail": "25 pain/emotion tokens echoed; keyword hit: True"
+      },
+      {
+        "name": "Competitor evidence",
+        "pass": true,
+        "detail": "3/3 gaps tied to named competitors with body evidence"
+      },
+      {
+        "name": "Gap specificity",
+        "pass": true,
+        "detail": "All 3 gaps are specific (named WHO + WHERE + concrete edge)"
+      }
+    ]
+  },
+  "competitors_analyzed_count": 1
 }
