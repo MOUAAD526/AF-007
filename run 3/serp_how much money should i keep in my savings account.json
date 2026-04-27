@@ -1,0 +1,716 @@
+{
+  "article_context": {
+    "angle": "Allocating savings: emergency fund vs. debt payoff vs. investing",
+    "pain_points": [
+      "Tracking spending but unable to budget or save",
+      "Difficulty analyzing spending data and identifying money leaks",
+      "Savings held in non-optimal locations (cash)",
+      "Uncertainty about how to allocate savings between debt payoff and emergency fund"
+    ],
+    "top_social_questions": [
+      "How much money should I keep in my savings account?",
+      "How do I allocate my savings between emergency fund and debt payoff?",
+      "How do I move from tracking to effective budgeting?"
+    ],
+    "dominant_emotion": "Confusion/Helplessness",
+    "serp_intent": "Searchers for the primary keyword want practical financial advice on determining an appropriate balance in a savings account to ensure liquidity for emergencies, short-term goals, and financial stability without tying up too much in low-yield assets. The SERP intent focuses on informational content from trusted finance sites, covering rules like 3-6 months of expenses, factors such as income and risk tolerance, and basic comparisons to other account types or investing.",
+    "serp_title_pool": {
+      "primary": [
+        "how much is too much to have sitting in savings? : r/personalfinance",
+        "How much money should you keep in your bank account? - Facebook",
+        "How Much Is Too Much To Put Into A Savings Account? | Bankrate",
+        "How Much Should I Have in Savings? - Hancock Whitney Bank",
+        "How Much Money Should You Have in Savings?",
+        "How Much Money Should I Keep in My Savings Account? - CACCU",
+        "How Much Should I Have in Savings? - NerdWallet",
+        "How Much Savings Should I Have for My Age?",
+        "How Much Money Should You Have in Savings? What to Know",
+        "How Much Is Too Much to Keep in the Bank? (You Might Be Surprised)",
+        "How much money should you keep in a savings account?",
+        "How much money should you keep in your bank account?",
+        "How Much Money Should I Keep In My Savings Account?",
+        "How Much Should I Have in Savings",
+        "Optimal Cash Reserves: How Much to Keep in the Bank",
+        "What is the recommended amount of money to keep in ...",
+        "What Is the Average Savings Account Balance?",
+        "How Much Should I Have in Savings?",
+        "How much should I save each month",
+        "How much money should be in my savings and checking ..."
+      ],
+      "long_tail": [
+        "how much is too much to have sitting in savings? : r/personalfinance",
+        "How much money should you keep in your bank account? - Facebook",
+        "How Much Money Should You Have in Savings?",
+        "Optimal Cash Reserves: How Much to Keep in the Bank - Investopedia",
+        "How Much Should I Have in Savings? - Hancock Whitney Bank",
+        "Saving Should Be Your Biggest Expense - Jefferson Security Bank",
+        "How much cash do you keep on hand for emergencies? - Facebook",
+        "How Much Should I Have in Savings? - NerdWallet",
+        "How Much Money Should I Keep in Cash? - Ellevest",
+        "How Much Money Should I Keep in My Savings Account? - CACCU"
+      ],
+      "question": [
+        "how much is too much to have sitting in savings? : r/personalfinance",
+        "How much money should you keep in your bank account? - Facebook",
+        "How Much Money Should You Have in Savings?",
+        "How Much Money Should I Keep in My Savings Account? - CACCU",
+        "How Much Money Should You Have in Savings? What to Know",
+        "How Much Is Too Much To Put Into A Savings Account? | Bankrate",
+        "What Is the Average Savings by Age? - SoFi",
+        "How Much Should I Have in Savings? - Hancock Whitney Bank",
+        "How Much Savings Should I Have for My Age?",
+        "Fidelity's easy budgeting guideline"
+      ]
+    },
+    "paa_questions": [
+      {
+        "q": "Is $30,000 too much to have in savings?",
+        "a": "How much do you need? Everybody has a different opinion. Most financial experts end up suggesting you need a cash stash equal to six months of expenses: If you need $5,000 to survive every month, save $30,000."
+      }
+    ],
+    "related_searches": [
+      "How much money should I have in my savings account at 30",
+      "How much money should I have in my savings account at 25",
+      "How much money should I have in my savings account at 40",
+      "How much money should I have in my savings account at 20",
+      "How much money do I need in my savings account to keep it open",
+      "How much money should I have in my savings account at 18",
+      "How much money is too much in a savings account",
+      "How much money should I have in my savings account at 22"
+    ]
+  },
+  "primary_keyword": "how much money should i keep in my savings account",
+  "competitors": [
+    {
+      "rank": 1,
+      "domain": "reddit.com",
+      "url": "https://www.reddit.com/r/personalfinance/comments/1egkxl7/how_much_is_too_much_to_have_sitting_in_savings/",
+      "title": "how much is too much to have sitting in savings? : r/personalfinance",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 2,
+      "domain": "facebook.com",
+      "url": "https://www.facebook.com/rachelramseycruze/posts/how-much-money-should-you-keep-in-your-bank-account/1481930309952606/",
+      "title": "How much money should you keep in your bank account? - Facebook",
+      "word_count": 0,
+      "scrape_status": "failed",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 3,
+      "domain": "bankrate.com",
+      "url": "https://www.bankrate.com/banking/savings/can-you-have-too-much-in-savings/",
+      "title": "How Much Is Too Much To Put Into A Savings Account? | Bankrate",
+      "word_count": 1331,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.bankrate.com/2020/09/11111429/How-much-is-too-much-to-put-in-a-savings-account.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.bankrate.com/v5.468.1/next/img/authors/no-image.png?auto=webp&quality=85&width=24&height=24&fit=cover&enable=upscale&crop=1:1,smart",
+          "alt": "TJ Porter",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.bankrate.com/brp/2024/12/18160023/hanna-horvath-1.png?auto=webp&quality=85&width=24&height=24&fit=cover&enable=upscale&crop=1:1,smart",
+          "alt": "Hanna Horvath, CFP",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.bankrate.com/brp/2025/03/17103203/erin_lowry_headshot.jpg?auto=webp&quality=85&width=24&height=24&fit=cover&enable=upscale&crop=1:1,smart",
+          "alt": "Erin Lowry",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.bankrate.com/v5.468.1/next/img/authors/no-image.png?auto=webp&quality=85&width=64&height=64&fit=cover&enable=upscale&crop=1:1,smart",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.bankrate.com/brp/2024/12/18160023/hanna-horvath-1.png?auto=webp&quality=85&width=64&height=64&fit=cover&enable=upscale&crop=1:1,smart",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.bankrate.com/brp/2025/03/17103203/erin_lowry_headshot.jpg?auto=webp&quality=85&width=64&height=64&fit=cover&enable=upscale&crop=1:1,smart",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.bankrate.com/2020/09/11111429/How-much-is-too-much-to-put-in-a-savings-account.jpg?auto=webp&optimize=high&crop=16:9",
+          "alt": "Person writing on a piece of paper",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.bankrate.com/v5.468.1/next/img/authors/no-image.png?auto=webp&quality=85&width=96&height=96&fit=cover&enable=upscale&crop=1:1,smart",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.bankrate.com/2020/10/12150537/save-per-month.jpeg",
+          "alt": "A woman does her budgeting.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.bankrate.com/2021/09/25141050/Types-of-savings-accounts.jpg",
+          "alt": "Person looking at smartphone",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.bankrate.com/brp/2025/04/17150239/Checking-vs-Savings-GettyImages-Photopea-300x169.jpg",
+          "alt": "",
+          "description": "Graphic design layout of a document, checklist, or tracker.",
+          "type": "graphic_design_document"
+        },
+        {
+          "url": "https://www.bankrate.com/brp/2023/10/21104822/How-much-should-you-have-in-savings-at-each-age-300x169.jpg",
+          "alt": "illustration of money growing on trees",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "Table of contents Drawback of too much in savings Signs indicating you have too much in savings When you may want more in your savings Determine how much you need in an emergency fund Determine your short-term financial goals Key takeaways There\u2019s no universal \u201cright amount\u201d for a savings account, but most people need three to six months of expenses in an emergency fund plus cash for any short-term goals \u2014 and not much more than that. Money sitting in a traditional savings account earning the national average of 0.39% APY is losing purchasing power to inflation, which is running at roughly 2.9% annually as of early 2026. The best high-yield savings accounts currently pay around 4% APY or higher, which means the gap between a low-yield and high-yield account on a $10,000 balance is about $360 per year in lost interest. Once your emergency fund and short-term goals are covered, excess cash may earn better returns in CDs, money market accounts, or investment accounts depending on your timeline. Having cash in savings gives you security \u2014 the ability to handle a surprise car repair, a medical bill, or a sudden job loss without going into debt. But there\u2019s a real cost to keeping too much money in a savings account, and it\u2019s one a lot of people overlook. The issue isn\u2019t safety. A savings account at an -insured bank protects your money up to $250,000 per depositor, per account ownership category. The issue is what your money could be doing instead. What\u2019s the downside of keeping too much in savings? The main risk is opportunity cost. Every dollar sitting in a low-interest savings account is a dollar that isn\u2019t growing at a higher rate somewhere else. Here\u2019s what that looks like in practice: if you have $20,000 in a traditional savings account paying the national average of 0.39% APY, you\u2019d earn about $78 in interest over a year. That same $20,000 in a high-yield savings account paying 4.00% APY would earn roughly $800 \u2014 a difference of more than $720. And if inflation is running at 2.9%, your money in that low-yield account is actually losing purchasing power every year. There\u2019s also the insurance ceiling to consider. Coverage maxes out at $250,000 per depositor, per ownership category at each -insured bank. If you have more than that in a single account type at one bank, the excess isn\u2019t protected. Learn how insurance works and how to maximize your coverage . Beyond the insurance threshold, the biggest concern is simply that cash in savings doesn\u2019t grow. It preserves \u2014 and in a low-rate account, it doesn\u2019t even do that well after inflation. How do you know if you have too much in savings? A few signs suggest your savings balance is higher than it needs to be: You\u2019ve fully funded your emergency reserve and short-term goals. Once those are covered, additional cash in savings isn\u2019t serving a clear purpose. It could be working harder in a CD, money market account, or investment account. Your cash is losing ground to inflation. With inflation around 2.9% and the national average savings rate at 0.39% APY, money in a traditional savings account is losing roughly 2.5% of its purchasing power each year. A high-yield savings account narrows this gap significantly \u2014 and at 4%+ APY, you\u2019re actually beating inflation. You have other goals better suited for different accounts. You have long-term financial goals, such as saving for retirement , that don\u2019t require money in an easily accessible savings account, but rather, an investment account (which has more risk). When holding more cash in savings actually makes sense \u201cThere are absolutely times when holding more cash makes sense, even if it seems like \u2018too much\u2019 by traditional standards,\u201d says Hanna Horvath, CFP\u00ae and Managing Editor at Bankrate. \u201cIf you\u2019re within a few years of retirement, having one to two years of expenses in high-yield savings protects you from being forced to sell investments during a market downturn.\u201d The same logic applies to college savings when your child is a junior or senior in high school, Horvath explains. \u201cYou don\u2019t want to risk a market crash right before tuition bills are due. Consider moving college funds from investments to savings accounts about a few years before you\u2019ll need them.\u201d Other situations where a larger cash cushion makes sense: job uncertainty or a shaky industry, major planned expenses like a home renovation or home purchase, self-employment with irregular income, or high-deductible insurance plans where an unexpected claim could cost thousands. \u201cThe key is being intentional about it \u2014 know why you\u2019re holding the cash and have a specific timeline for when you\u2019ll use it,\u201d Horvath says. How much should you keep in an emergency fund? Most financial experts recommend three to six months of essential expenses \u2014 not income, but the actual costs you\u2019d need to cover if your income stopped: housing, food, utilities, insurance, transportation, and minimum debt payments. Your specific number depends on your situation. You may want more if you have unstable or irregular income, are self-employed, carry high insurance deductibles, are approaching retirement, or support dependents. You may be comfortable with less if your monthly expenses are relatively low (no mortgage, for example), you have no dependents, or you have other safety nets like a partner\u2019s income or strong job security. If you don\u2019t have an emergency fund yet, start small. Even $500 set aside creates a buffer against the most common financial emergencies. Build from there toward one month of expenses, then three, then six. Analyzing your budget can help you figure out exactly how much you need and how quickly you can get there. Money tip: If you don\u2019t have an emergency fund yet, it can help to start with small savings goals, and work your way up from there. If setting aside three to six months seems daunting, just remember that this is a goal that may take some time to achieve. Analyzing your budget can help you create an effective game plan of how to increase your savings. Figure out your short-term financial goals Your financial goals can have a major impact on how much money you want to set aside in lower-yielding deposit accounts versus investments with greater growth potential like stocks. While investment accounts, such as a 401(k) and Individual Retirement Account (IRA) , for example, may be good options for long-term goals, such as retirement, it may not be suited for money you want to access in the short-term. For example, if you want to make a significant purchase \u2014 such as buying a home \u2014 in the near future, it makes sense to have a large amount of money in a savings account or CD . The last thing that you want is to save for a down payment by investing your money in the stock market, only to have your investments plummet in value as you start house hunting. You will likely have other short-term saving goals as well that are best suited for a savings account. Some examples of potential short-term goals include: Travel Buying a home A wedding or other specific event Home renovation Buying a car Holiday gifts and expenses Other large purchases Bottom line Having significantly more money in a savings account than you would need for emergencies can mean you\u2019re losing out on higher potential returns elsewhere. Once you\u2019ve built up savings for emergencies and short-term goals, additional funds could be earning better interest in -insured CDs or money market accounts, as well as stocks, bonds or mutual funds. Picking a high-yield savings account How to choose the best account for you Savings account VS Money market account What's the difference? Why we ask for feedback Your feedback helps us improve our content and services. It takes less than a minute to complete. Your responses are anonymous and will only be used for improving our website. Facebook Icon Twitter Icon LinkedIn Icon Email Envelope Icon You may also like",
+      "headings": []
+    },
+    {
+      "rank": 4,
+      "domain": "hancockwhitney.com",
+      "url": "https://www.hancockwhitney.com/insights/how-much-should-have-savings",
+      "title": "How Much Should I Have in Savings? - Hancock Whitney Bank",
+      "word_count": 1722,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.hancockwhitney.com/hubfs/2025%20Consumer%20Insights%20Blog/2025%20INSIGHTS%20REFRESH_SAVINGS/1129769_800x422_2025%20Q1%20Blog%20Insights%20Refresh_How%20Much%20in%20savings_FINAL.jpg",
+        "alt": "A retired couple enjoying their golden years after decades of careful saving.",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.hancockwhitney.com/hubfs/2024_Ultra/2024_Ultra_Icons/Icon-Facebook.svg",
+          "alt": "Share on Facebook",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.hancockwhitney.com/hubfs/2024_Ultra/2024_Ultra_UI_Icon/Icon-X.png",
+          "alt": "Share on X",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.hancockwhitney.com/hubfs/2024_Ultra/2024_Ultra_Icons/Icon-LinkedIn.svg",
+          "alt": "Share on LinkedIn",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.hancockwhitney.com/hubfs/2024_Ultra/2024_Ultra_Icons/Icon-Instagram.svg",
+          "alt": "Share on Instagram",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.hancockwhitney.com/hubfs/2024_Ultra/2024_Ultra_UI_Icon/Icon-Email-17x17.png",
+          "alt": "Share Email",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.hancockwhitney.com/hubfs/VIA%20Logos/HW_Logos_FINAL_One_Color.jpg",
+          "alt": "Hancock Whitney",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.hancockwhitney.com/hubfs/2024_Ultra/2024_Ultra_UI_Icon/Icon-ExternalLink-Small.svg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.hancockwhitney.com/hubfs/2025%20Consumer%20Insights%20Blog/2025%20INSIGHTS%20REFRESH_SAVINGS/1129769_800x422_2025%20Q1%20Blog%20Insights%20Refresh_High%20Yield%20Savings_FINAL.jpg",
+          "alt": "Pros and Cons of a High-Yield Savings Account",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.hancockwhitney.com/hubfs/2025%20Consumer%20Insights%20Blog/2025%20INSIGHTS%20REFRESH_COLLEGE/1129769_800x422_college_529%20College%20Savings_AS_554832500.jpg",
+          "alt": "What Is a 529 College Savings Plan?",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.hancockwhitney.com/hubfs/2025%20Consumer%20Insights%20Blog/2025%20INSIGHTS%20REFRESH_COLLEGE/1129769_800x422_college_Best%20Type%20Savings_AS_199161552.jpg",
+          "alt": "What\u2019s the Best Type of Account to Save for College?",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "Like most Americans, you likely wonder if the amount of money you have in savings is \u201cenough.\u201d After all, life has a way of throwing expensive curveballs at us in the form of surprise car repairs, necessary home improvements, and unexpected medical bills (just to name a few). On top of that, you likely have a number of both short- and long-term goals you\u2019d like to save for, such as vacations, college for your children, and your own eventual retirement. With all that in mind, it\u2019s normal to be anxious about how much you have in savings. Of course, everyone\u2019s lifestyle, financial situation, and goals are different, and this means that there\u2019s no one simple answer that works for everyone. However, you can use savings guidelines to set clear benchmarks for your financial goals. Meeting these targets can give you confidence that your savings are on track for the future and that you're ready for life's unexpected financial surprises. Three Types of Savings Goals A good rule of thumb is to break up your savings goals into the following three categories: Emergency fund Retirement savings Other short- and long-term savings It\u2019s also a good idea to use separate accounts for each of these three savings objectives. This is partially to keep them distinct from one another in your financial portfolio, but also because different types of accounts can be better suited to meeting these different savings goals. Additionally, as each savings goal has its own distinct benchmarks, you\u2019ll want to keep them separate so that you can accurately measure your progress toward hitting these important financial milestones. 1. Emergency Fund: How Much to Save? Building an emergency fund is likely the first savings goal you should work toward. An emergency fund is critical as it allows you to cover unexpected expenses without causing a shortfall in your monthly budget. For example, if you have a medical emergency or need to make a minor home repair, you can pay for it out of your emergency fund without having to short your bill payments or use a high-interest credit card. Similarly, if you were to lose your job, an emergency fund allows you to cover your expenses without going into debt while you seek new employment. But how much should you save in order to build an adequate emergency fund? For most families, the ideal emergency fund is large enough to cover at least three to six months' worth of necessary expenses 1 . To calculate this amount, simply review your spending for the last few months and total up your obligatory payments for things like groceries, utilities, housing, and minimum debt repayments\u2014things you must spend money on. Don\u2019t include discretionary spending for things such as hobbies, dining out, sporting events, movies, and the like. Once you know how much you spend on necessary expenses every month, you can determine a set amount to save for your emergency fund every month and make it part of your budget. After you have at least three to six months\u2019 worth of expenses saved, you can then take the amount you were putting toward your emergency fund every month and apply it toward one of your other savings goals. 2. Retirement Savings: Benchmarks by Age Group Retirement savings are a common source of anxiety for many people, as it can be very difficult to know how much money you\u2019ll need for your golden years. Most people want at least enough money to maintain their current standard of living, possibly with some extra room in the budget for more frequent vacations or recreational activities. It\u2019s also important to remember that as you age, your healthcare expenses are likely to increase, as well. Even with income from Social Security , most retirees find that maintaining their lifestyle requires having a decent amount put away in savings. But how can you know how much is enough? Establishing benchmarks for retirement savings begins with examining your current annual income. As a rule of thumb, you should aim to have at least 1x your annual income saved by the time you reach age 30. From there, the savings benchmark compounds according to the table below: Saved by Age 30 Saved by Age 40 Saved by Age 50 Saved by Age 60 1x Your Annual Salary 3x Your Annual Salary 5x Your Annual Salary 8x Your Annual Salary Don\u2019t beat yourself up if you\u2019ve already passed some of the ages in the table above without hitting the savings benchmarks. Taking action now and starting to save is better than not saving, and that\u2019s what\u2019s important. It may mean that you need to start saving more aggressively than you otherwise would have, but you now have the information you need to develop a retirement savings plan. It can also be a good idea to work with one of Hancock Whitney\u2019s trusted advisors to determine the best way to make up for lost time and get your retirement savings on track. 3. Other Short- and Long-Term Savings Goals The final savings category is the most optional and should be addressed once you\u2019ve determined how best to meet your emergency fund and retirement savings goals. This final category is for your other goals that will require saving money to achieve. This could be anything, and you might have multiple goals you hope to save for. Perhaps you want to take a European dream vacation, or maybe you just need to upgrade from your current aging computer. You might even have the long-term savings goal of building up a college education fund for your children. In the end, it boils down to the same thing: You have goals that you need to save money for. Obviously, this is a topic that varies wildly from person to person, making it impossible to assign a one-size-fits-all number or formula to it. Instead, you\u2019ll need to look at each goal individually and determine the best way to save. Determining how much to save each month is similar to the process used for developing an emergency fund. Simply determine how much your goal will cost, then decide how many months you\u2019re willing to spend saving. Divide the cost by the number of months, and you have the amount you need to save each month. Your Account Can Grow Your Savings Of course, there are different types of accounts you can use to achieve your savings goals. They all have their different pros and cons, and when used wisely, can accelerate how quickly you achieve your savings goals. Traditional savings accounts are what many people think of when it comes to saving with a bank account. You deposit money into the account, then it periodically earns interest that is added to the balance. These accounts usually have a modest interest rate that averages around 0.4 percent. High-yield savings accounts work similarly to traditional savings accounts but have a higher interest rate. These accounts usually have an average interest rate of around four percent 2 . Money market accounts work as a sort of combination checking and savings account. While you can write checks for a money market account, they often have a tiered interest-earning system, where the more money that is in the account, the higher the interest rate earned. Certificates of deposit let you make a deposit which then earns interest at a specified rate. However, the interest doesn\u2019t become available until the account reaches its \u201cmaturity date.\u201d The maturity date depends on the account and ranges from just a few months to five or more years from the account\u2019s opening date. Withdrawing funds before the maturity date can also result in penalties. Investment accounts allow you to invest your money in the stock market and earn returns in the form of dividends. These accounts typically offer faster potential growth than savings accounts, but they are higher risk as they are subject to market volatility and are not -insured. 401(k), 403(b), and Roth IRA accounts allow you to save for retirement using tax-advantaged investment strategies. These accounts are specific to retirement, so withdrawing funds early can result in penalties, but the potential rate of growth and money saved in taxes can easily make up for this. 529 and education savings accounts allow you to save for your children\u2019s higher education with tax-advantaged investment strategies. As these accounts are specific to education, non-qualified withdrawals are subject to penalties. Build Your Savings with a Trusted Bank At Hancock Whitney, we know how important it is to achieve your savings goals. Whether you\u2019re saving for retirement, building an emergency fund, or saving for another goal, you need the right financial tools to succeed. Our bankers can help you determine what type of account best meets your savings goals. To open an account, simply reach out to our bankers today or apply online . Get started saving money for your goals today. Explore more Insights Get financial insights delivered to your inbox to receive regular updates from our team of experts. Sources 1 \u201cEmergency Funds: The First Step to Financial Freedom.\u201d Office of Financial Readiness , https://finred.usalearning.gov/Trending/Blog/EmergencyFund . Accessed May 2, 2025. 2 \u201cBest High-Yield Savings Accounts of May 2025: Up to 4.66%.\u201d Nerdwallet , https://www.nerdwallet.com/best/banking/high-yield-online-savings-accounts . Accessed May 2, 2025. Disclosures The information, views, opinions, and positions expressed by the author(s), presenter(s), and/or presented in the article are those of the author or individual who made the statement and do not necessarily reflect the policies, views, opinions, and positions of Hancock Whitney Bank. Hancock Whitney makes no representations as to the accuracy, completeness, timeliness, suitability, or validity of any information presented. This information is general in nature and is provided for educational purposes only. Information provided and statements made should not be relied on or interpreted as accounting, financial planning, investment, legal, or tax advice. Hancock Whitney Bank encourages you to consult a professional for advice applicable to your specific situation. Hancock Whitney Bank offers investment products, which may include asset management accounts, as part of its Wealth Management Services. Hancock Whitney Bank is a wholly owned subsidiary of Hancock Whitney Corporation. Investment and Insurance Products: NO BANK GUARANTEE \u2502 NOT A DEPOSIT \u2502 MAY LOSE VALUE \u2502 NOT INSURED \u2502 NOT INSURED BY ANY FEDERAL GOVERNMENT AGENCY Hancock Whitney Bank, . All loans and accounts subject to credit approval. Terms and conditions apply.",
+      "headings": []
+    },
+    {
+      "rank": 5,
+      "domain": "usnews.com",
+      "url": "https://www.usnews.com/banking/articles/how-much-money-should-you-have-in-savings",
+      "title": "How Much Money Should You Have in Savings?",
+      "word_count": 1142,
+      "scrape_status": "tavily_fallback",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": "# How Much Money Should You Have in Savings? An emergency fund that can cover three to six months of expenses is a good goal for your savings account. By Jessica Merritt, CFEI | Reviewed by Mark Evitt | Edited by Sebastian Oliveira | June 24, 2025 By Jessica Merritt, CFEI | Reviewed by Mark Evitt | Edited by Sebastian Oliveira | June 24, 2025, at 3:16 p.m. How Much Should You Have in Savings? *More* Getty Images You want to strike a balance between savings and investments. ### Key Takeaways * Though it depends on your financial situation, you should try to have enough savings to cover three to six months of expenses in case of an emergency. * Stashing 20% of your monthly income is a good way to start building your savings. * You can continue to grow your savings by using a budget, automating your savings and managing your debt. Maintaining sufficient savings is crucial for financial security, providing a safety net for unexpected expenses and a pathway to achieving your financial goals. How much you need in savings depends on your financial situation, but an emergency fund that can cover three to six months of expenses is a good place to start. Read on to find out how to calculate how much you should have in savings and how much to save each month. Read: Best Savings Accounts. ## What Influences Savings Factors such as income, expenses, debt obligations and lifestyle can influence how much you have in savings. If you have a comfortable income, you might have more disposable income to save. But debt obligations or a spendy lifestyle could limit how much you can save. If you have a specific goal, such as buying a home or starting a business, you may save more aggressively until you've reached your goal. ### What Is a High-Yield Savings Account? Grow your savings faster with a high-yield account. [Casey BondFeb. 12, 2025 ](https://www.usnews.com/banking/articles/what-is-a-high-yield-savings-account) ## What You Should Have Saved Your savings account should have enough to keep you afloat in a financial emergency. Generally, saving at least three to six months of living expenses can offer a safety net if you experience job loss or a medical emergency. For example, if you have monthly expenses of $5,000, aim to save $15,000 to $30,000 in your emergency fund. \"Many just keep enough in their savings account to waive the monthly service fee, while the goal should be to save more than that,\" says money coach and certified financial planner Ohan Kayikchyan. \"A good starting point is a fully funded emergency fund.\" It is possible to have too much in savings, leaving you with funds you don't need immediate access to. You could invest the excess savings in stocks, bonds or real estate to grow your wealth. \"You always want your money to work for you, and while you may earn a return on money in a savings account, you will likely not earn as much as you could by investing,\" says Rosalyn Glenn, a financial planner at Prudential in Columbia, South Carolina. ### Is Savings Account Interest Taxed? If you earned at least $1 from a savings account in the last year you'll need to report that amount on your federal taxes. [John EganFeb. 9, 2026 ](https://www.usnews.com/banking/articles/do-you-pay-taxes-on-savings-account-interest) See: 10 Best High-Yield Savings Accounts of April 2026: Up to 4.00% ## How Much to Save Each Month You can use guidelines to determine how much to save each month. A simple rule of thumb is to save 20% of your income. For example, if you earn $75,000 annually, save about $15,000 per year or $1,250 per month. Don't be discouraged if that seems like more than you can save each month. Getting the ball rolling with any amount of savings is helpful \u2013 and knowing how much you should be saving gives you a goal to work toward. It might help to see the bigger picture in an income-to-savings ratio. A rule of thumb is to set aside 50% of your income for necessities, 30% for discretionary expenses and 20% for savings. Free Savings Calculator Use this free savings calculator to project how your money can grow over time. Learn More ## Checking vs. Savings Amounts Checking and savings accounts are both bank accounts that allow immediate access to funds. But checking accounts are for everyday expenses and generally have lower, more fluctuating balances than savings accounts. You should keep enough money in checking to cover your monthly bills with some wiggle room \u2013 about a month of expenses. That's much lower than the three to six months' worth of expenses you should keep in your savings account for emergencies. Read: Best Checking Accounts. ## Growing Your Savings Want to pad your savings account? Use these strategies to grow your savings: * Use a budget. A budget can help you see where your money goes and identify unnecessary expenses you can cut to save more. * Automate savings. Use automatic transfers to shift funds from your paycheck to your savings account, which can reduce the temptation to spend instead of save. * Set achievable goals. Consider how much you want to save and how much you'll need to put away monthly to reach that amount. * Boost your income. Asking for a raise, getting a new higher-paying job or taking on a side hustle can help you funnel more income to savings. * Manage debt. If debt is getting in the way of your savings goals, prioritize paying off high-interest debt with lower-interest alternatives such as a debt consolidation loan or balance transfer credit card. Kayikchyan says automation can make saving easier. \"It\u2019s all about paying yourself first by saving for your financial goals and priorities, then only after spending whatever is left.\" Updated on June 24, 2025: This story was published at an earlier date and has been updated with new information. Tags:savings, banking, Investing for Retirement, investing #### Popular Stories Banking Advice How to Endorse a Check Banking Advice How To Find a Lost or Stolen Money Order Banking Advice Compare Chase and Bank of America Banking Advice Is MrBeast's Kids' Money App Safe? Banking Advice How to a Bank Account #### Best of Banking 10 Best Savings Accounts of April 2026: Up to 4.00% 10 Best High-Yield Savings Accounts of April 2026: Up to 4.00% Best Credit Unions \u2014 April 2026 10 Best CD Accounts of April 2026: Up to 5.00% 10 Best Checking Accounts of April 2026: Up to 5.00% Comparative assessments and other editorial opinions are those of U.S. News and have not been previously reviewed, approved or endorsed by any other entities, such as banks, credit card issuers or travel companies. The content on this page is accurate as of the posting date; however, some of our partner offers may have expired. Read More",
+      "headings": []
+    },
+    {
+      "rank": 6,
+      "domain": "caccu.org",
+      "url": "https://www.caccu.org/how-much-money-should-i-keep-in-my-savings-account/",
+      "title": "How Much Money Should I Keep in My Savings Account? - CACCU",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.caccu.org/wp-content/uploads/2023/06/image-of-pink-piggy-bank-on-human-palms-SBI-300727101-scaled.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.caccu.org/wp-content/uploads/2026/02/mother-checking-receipts-and-managing-finances-at-kitchen-table-while-two-children-do-SBI-351046555-1.png",
+          "alt": "Financial Literacy for Kids: Building Smart Money Habits Early",
+          "description": "Graphic design layout of a document, checklist, or tracker.",
+          "type": "graphic_design_document"
+        },
+        {
+          "url": "https://www.caccu.org/wp-content/uploads/2026/02/senior-businessman-drawing-on-white-board-and-explayning-trends-to-younger-colleagues-SBI-350858396-1.png",
+          "alt": "Understanding the Loan Approval Process: A Member Guide from California Community Credit Union",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.caccu.org/wp-content/uploads/2026/01/portrait-of-grandmother-and-granddaughter-SBI-351250361-1.png",
+          "alt": "How to Handle Inherited Funds in Your Bank Account",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.caccu.org/wp-content/uploads/2026/01/bussines-man-working-on-contract-agreement-concept-image-of-people-working-on-bank-acc-SBI-349965487-1.png",
+          "alt": "Understanding Joint Accounts: When to Share Finances",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.caccu.org/wp-content/uploads/2025/12/a-person-holding-a-miniature-house-and-some-dollar-bills-SBI-300186756-1.png",
+          "alt": "Understanding Home Equity: What It Is and How to Use It for Christmas Expenses",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.caccu.org/wp-content/uploads/2025/12/woman-writes-a-plan-goals-and-to-do-list-for-next-year-SBI-351387405-1.png",
+          "alt": "Start Saving for Retirement This Holiday Season",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.caccu.org/wp-content/uploads/2025/10/a-housing-crisis-concept-with-a-home-in-a-crystal-ball-with-a-money-puzzle-background-SBI-301048392-1.png",
+          "alt": "How to Choose the Right Loan Term: Short vs. Long-Term Borrowing",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.caccu.org/wp-content/uploads/2025/10/happy-girl-save-money-in-piggy-bank-in-her-home-child-inserting-a-coin-into-a-piggy-ba-SBI-351544017-1.png",
+          "alt": "The Benefits of Credit Union Membership",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.caccu.org/wp-content/uploads/2025/09/picture-of-businesswoman-dressed-in-white-shirt-sitting-in-her-office-and-holding-mone-SBI-302898080-1.png",
+          "alt": "Understanding a Credit Union Share Certificate",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.caccu.org/wp-content/uploads/2025/10/quarternumbers.jpg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 7,
+      "domain": "nerdwallet.com",
+      "url": "https://www.nerdwallet.com/banking/learn/how-much-should-i-have-in-savings",
+      "title": "How Much Should I Have in Savings? - NerdWallet",
+      "word_count": 2047,
+      "scrape_status": "tavily_fallback",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": "# How Much Should I Have in Savings? - NerdWallet - [x] - [x] to content Credit cards Credit cardsExplore more credit card resources Best credit cards Best credit cardsBest credit card bonus offersBest balance transfer credit cardsBest travel credit cardsBest cash back credit cardsBest 0% APR credit cardsBest rewards credit cardsBest airline credit cardsBest college student credit cardsBest credit cards for groceries Compare credit cardsGet a card recommendation Travel rewards and perksEarn cash backPay down debtMake a big purchaseGet your approval oddsCard recommendation quiz Credit card reviewsCredit card calculators Balance transfer savings calculatorCredit card interest calculator Guides and resources Get your free credit scoreCredit card basicsApplying for a credit cardChoosing a credit cardManaging credit card debtCredit card resources Explore more credit card resources Banking BankingExplore more banking resources Savings accounts Best high-yield savings accountsBest savings accountsSavings account alternativesSavings calculatorExplore more savings accounts CDs Best CD ratesBest 6-month CD ratesBest 1-year CD ratesBest 5-year CD ratesCD calculatorExplore more CDs Checking accounts Best checking accountsBest free checking accountsBest online checking accountsChecking account alternativesExplore more checking accounts NerdWallet's banking picks Best bank bonuses and promotionsBest online banksBest money market accountsBest credit unions Bank reviewsBanking calculators Compound interest calculatorEmergency fund calculator Explore more banking resources Home HomeExplore more home resources Mortgage rates Today's mortgage rates30 year mortgage rates5-year ARM ratesFHA mortgage ratesVA mortgage ratesBest mortgage lenders Best mortgage lendersBest lenders for FHA loansBest lenders for low- and no-down-paymentBest VA mortgage lenders Refinance and HELOC Today's refinance ratesBest refinance lenders30-year fixed refinance rates15-year fixed refinance ratesBest cash-out refinance lendersBest HELOC Lenders Buying a home Compare top mortgage lendersFirst-time homebuyers guideHow much can I borrow mortgage calculatorMortgage lender reviews Homeownership Home improvementHome valueHome insuranceExplore more homeownership resources Home calculators Mortgage calculatorDown payment calculatorHow much house can I afford calculatorClosing costs calculatorCost of living calculatorMortgage amortization calculatorRefinance calculatorRent vs buy calculator First-time homebuyer's guideToday's mortgage newsExplore more home resources Loans Loans Personal loans Pre-qualify for a personal loanCompare top lendersPersonal loan reviewsPersonal loan calculatorHow to qualifyHow to consolidate credit card debtAverage personal loan interest ratesExplore more personal loan resources NerdWallet's PicksBest personal loansBest debt consolidation loansBest loans for bad creditBest home improvement loans Student loans Paying for collegeFAFSA and federal student aidTaking out student loansPaying off student loansStudent loan refinanceStudent loan interest ratesStudent loan calculatorExplore more student loan resources NerdWallet's PicksBest private student loansBest graduate school loansBest student refinance lendersBest parent loans for college Auto loans Best auto loans for good and bad creditBest auto loans refinance loansBest lease buyout loansExplore more auto loan resources Auto loan calculatorsAuto loan calculatorAuto loans refinance calculatorTotal car cost calculator Insurance InsuranceExplore more insurance resources Auto insurance Compare car insurance quotesBest car insurance companiesCheapest car insurance companiesCar insurance reviewsAuto insurance calculatorExplore more auto insurance resources Cheapest car insurance by stateCalifornia car insuranceTexas car insuranceNew York car insuranceGeorgia car insuranceMichigan car insuranceWashington car insurance Life insurance Compare life insurance quotesBest life insurance companiesChoosing a life insurance policyLife insurance reviewsLife insurance calculatorExplore more life insurance resources NerdWallet's PicksBest term life insuranceBest whole life insuranceBest life insurance for seniorsBest burial insuranceBest instant life insurance Home insurance Compare home insurance quotesBest home insurance companiesHome insurance reviewsHome insurance calculatorHome insurance costsExplore more home insurance resources Home insurance by stateBest home insurance in New YorkBest home insurance in ArizonaBest home insurance in MassachusettsBest home insurance in VirginiaBest home insurance in New Hampshire Pet insurance Best pet insuranceCheapest pet insuranceWhat pet insurance coversPet insurance costsExplore more pet insurance resources Medicare How Medicare worksMedicare eligibilityHow to sign up for Medicare costsWhat's covered under MedicareExplore more Medicare resources NerdWallet's PicksBest Medicare Advantage plansBest Medigap companiesBest Medigap Plan G companiesBest Medicare Part D plansBest Medicare dental plans Renters insurance Best renters insuranceCheapest renters insuranceExplore more renters insurance resources Explore more insurance resources Personal finance Personal financeExplore more resources Tracking credit Get your free credit scoreYour credit reportUnderstanding your credit scoreUsing your creditImproving your creditProtecting your credit Managing money Saving moneyHandling bills and expensesShoppingFinancial healthSavings goal calculatorNet worth calculatorExplore more money management NerdWallet's budgeting basicsBudgetingFree budget worksheetHow to budgetThe best budget appsBudget calculatorCost of living calculator Making money Gig workMaking money onlineExplore more money making resources Managing debt Paying debtDealing with debt collectionDebt reliefExplore more debt management resources Travel Best travel credit cardsTravel insuranceExplore more travel resources Explore more resources Investing InvestingExplore more investing resources Best investment accounts Best brokerage accountsBest robo-advisorsBest trading platformsBest online brokers for beginnersBest Roth IRA accountsBest investing appsExplore more investment accounts Investments Best investments right nowStocksFundsBondsCryptocurrencyReal estate and alternative investments Retirement Roth IRA basics401(k)sSelf-employed retirement plansSocial SecurityExplore more retirement resources Investing and retirement calculators Retirement calculator401(k) calculatorRoth IRA calculatorInvestment return calculatorSocial Security benefits calculatorInflation calculator Financial advisors Best financial advisorsHow to choose a financial advisorFinancial advisor fees Explore more investing resources Small business Small businessExplore more small-business resources Funding your business Small-business loansSBA loansBusiness lines of creditBusiness grantsStartup business loans Resources and ToolsBusiness loan ratesSBA loan ratesBusiness loan calculatorSBA loan calculator Managing business finances Business bank accountsBusiness credit cardsAccounting softwareBusiness taxes Explore business credit cardsBest 0% APR business credit cardsBest cash-back business credit cardsBest travel business credit cardsBest startup business credit cardsBest LLC business credit cardsBest business credit cards for gas Starting a business How to start a businessBusiness ideasWriting a business planEntrepreneurship Running your business Payment processing companiesBusiness insuranceBusiness legal Explore more small-business resources Taxes TaxesExplore more tax resources Tax brackets and rates Tax bracketsCapital gains tax ratesState tax rates Tax calculators Federal income tax calculatorCapital gains tax calculator Tax preparation and filing Tax withholdingTax credits and deductionsChoosing a filing statusFree tax filingBest tax software Solving tax issues Tax extensionsFiling past-due returnsIRS payment plansTax debt relief and resolution Explore more tax resources Sign InJoin My NerdWallet Welcome Back, BankingLearn How Much Should I Have in Savings? Advertiser disclosure ### You're our first priority. Every time. We believe everyone should be able to make financial decisions with confidence. While we don't cover every company or financial product on the market, we work hard to share a wide range of offers and objective editorial perspectives. So how do we make money? Our partners compensate us for advertisements that appear on our site. This compensation helps us provide tools and services - like free credit score access and monitoring. With the exception of mortgage, home equity and other home-lending products or services, partner compensation is one of several factors that may affect which products we highlight and where they appear on our site. Other factors include your credit profile, product availability and proprietary website methodologies. However, these factors do not influence our editors' opinions or ratings, which are based on independent research and analysis. Our partners cannot pay us to guarantee favorable reviews. Here is a list of our partners. # How Much Should I Have in Savings? Determine your target savings goal and then save consistently until you get there. - [x] Written by Margarette Burnette Margarette Burnette Senior Writer & Content Strategist 21 years of experience Expertise * Savings accounts * Money market accounts * Banking Margarette Burnette is a NerdWallet authority on savings, who has been writing about bank accounts since before the Great Recession. Her work has been featured in The Associated Press, USA Today and other major newspapers. Before joining NerdWallet, Margarette was a freelance journalist with bylines in magazines such as Good Housekeeping, Black Enterprise and Parenting. She is based near Atlanta, Georgia. Published in Edited by Yuliya Goldshteyn Yuliya Goldshteyn Assigning Editor Expertise * Banking Yuliya Goldshteyn is a former banking editor at NerdWallet. She previously worked as an editor, a writer and a research analyst in industries ranging from health care to market research. She earned a bachelor's degree in history from the University of California, Berkeley and a master's degree in social sciences from the University of Chicago, with a focus on Soviet cultural history. She is based in Portland, Oregon. Reviewed by Kathleen Burns Kingsbury Kathleen Burns Kingsbury Wealth psychology expert and coach Kathleen Burns Kingsbury, founder of KBK Wealth Connection and host of the Breaking Money Silence podcast, is an internationally published author and speaker. As an expert on financial psychology, Kathleen has appeared on television and her work has been featured in The New York Times, The Wall Street Journal, \"PBS NewsHour,\" Money magazine, Today Money, Forbes and CNBC. Kathleen served as an adjunct faculty member at the McCallum Graduate School at Bentley University from 2009 to 2019 and currently teaches at Champlain College. At NerdWallet, our content goes through a rigorous editorial review process. We have such confidence in our accurate and useful content that we let outside experts inspect our work. other Updated Aug 28, 2025 Fact Checked How is this page expert verified? NerdWallet's content is fact-checked for accuracy, timeliness and relevance. It undergoes a thorough review process involving writers and editors to ensure the information is as clear and complete as possible. More on our editorial rigor SOME CARD INFO MAY BE OUTDATED This page includes information about these cards, currently unavailable on NerdWallet. The information has been collected by NerdWallet and has not been provided or reviewed by the card issuer. Nerdy takeaways * Identify your savings target by adding up your core expenses for three to six months. * Build up your balance by setting up recurring transfers to a high-yield savings account. * After you\u2019ve reached your savings goals, consider investing extra money for higher returns. The investing information provided on this page is for educational purposes only. NerdWallet, Inc. does not offer advisory or brokerage services, nor does it recommend or advise investors to buy or sell particular stocks, securities or other investments. ## How much savings should I have? There is no one-size-fits-all answer to the question of how much money you should have in your savings account. The standard recommendation is to have enough to cover three to six months\u2019 worth of basic expenses. As a goal, that number can be steep. In reality, you can benefit from saving any amount. When it comes to setting your target, the right number for you will take into account your expenses and how much you\u2019re able to save consistently. AD Savings Cash Management CD Checking Money Market Learn more Forbright Bank Growth Savings APY 3.85% Annual Percentage Yield (APY) is accurate as of 01/09/2026. APY may change at any time before or after the account is opened. Available only online. Min. balance for APY $0 Learn more Varo Savings Account APY 5.00% Annual Percentage Yield (APY) is accurate as of June 17th, 2025. Start earning 2.50% APY, then qualify to earn 5.00% APY on your balance up to $5,000.00 and 2.50% APY on balances over $5,000 next month by 1) Receiving direct deposit(s) totaling $1,000 or more; and 2) Ending the month with a positive balance in all your Varo Accounts. No fees, no minimums required. Rates subject to change at any time. Min. balance for APY $0 Learn more E*TRADE Premium Savings APY 4.00% for 6mo This offer is only valid for a new Premium Savings Account (\u201cPSA\u201d). The Promotional Annual Percentage Yield (\u201cPromotional APY\u201d) will be automatically applied to the account, and will remain effective for 180 days (the \u201cPromotion Period\u201d), after which it will automatically revert to the Standard Annual Percentage Yield (\u201cStandard APY\u201d) without requiring any action from you. Accounts must be opened by 5/20/26 to qualify for the Promotional APY. No minimum balance required, and the offer may be withdrawn at any time. Excludes non-U.S. residents, and residents of any jurisdiction where this offer is not valid. Other restrictions may apply. Please visit etrade.com/premiumsavings for more information. Min. balance for APY $0 EXPLORE MORE ACCOUNTS These cash accounts combine services and features similar to checking, savings and/or investment accounts in one product. Cash management accounts are typically offered by non-bank financial institutions. Learn more on Wealthfront's website Wealthfront Cash Account - Paid non-client promotion APY Up to 4.30% The Base Annual Percentage Yield (APY) is 3.30% (from program banks) as of 1/30/26 and is subject to change. Eligible new clients can get a 0.75% APY boost over the base APY for 3 months on up to a $150k balance. The Direct Deposit Plus Investing Program from Wealthfront Advisers LLC and Wealthfront Brokerage LLC provides eligible clients a 0.25% APY increase above the base APY on eligible Cash Account balances. W",
+      "headings": []
+    },
+    {
+      "rank": 8,
+      "domain": "bankatfirstnational.com",
+      "url": "https://www.bankatfirstnational.com/wallet-wise-blog/august-2022/how-much-savings-should-i-have/",
+      "title": "How Much Savings Should I Have for My Age?",
+      "word_count": 222,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.bankatfirstnational.com/8base/media/images/fdic-digital-sign-white.svg",
+        "alt": "FDIC insured",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.bankatfirstnational.com/8base/media/images/FNBT-Division-of-Bank-First_Logo-primary_Primary.svg",
+          "alt": "First National Bank and Trust Home Page",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.bankatfirstnational.com/8base/media/images/FNBT-Division-of-Bank-First_Logo-primary_Light.svg",
+          "alt": "First National Bank and Trust Company",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.bankatfirstnational.com/CMSPages/GetFile.aspx?guid=7ce2237d-8d6f-44fb-9c95-fb5fa10ad770",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.bankatfirstnational.com/8base/media/images/blog/Feb-5-savings-by-age.jpg?ext=.jpg",
+          "alt": "young couple and daughter putting money in piggy bank",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.bankatfirstnational.com/getmedia/1b745a2d-7e18-4988-9a37-cc620253326a/how-much-should-i-have-saved.jpg.aspx?width=600&height=1200",
+          "alt": "How Much Savings Should I Have for My Age?  Top section:  How Much Savings Should I Have Saved By Age... 21-  This depends on where you are in life. But, a good rule of thumb is to have $6,000 in a savings account for emergencies and long-term financial goals at age 21.  30-  At this age, you should aim to have the equivalent of one year\u2019s worth of your salary in the bank.  Bottom Section:  How much you should have saved for retirement?  Age 35: 2x's your annual salary.  Age 40: 3x's your annual salary.  Age 45: 4x's your annual salary.  Age 50: 6x's your annual salary.  Age 55: 7x's your annual salary.  Age 60: 8x's your annual salary.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.bankatfirstnational.com/8BASE/media/images/base/icon_housinglender.png",
+          "alt": "Equal Housing Lender",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "How much money you should have saved by 21? How much money you should have saved by 30? How much you should have saved for retirement? Start saving at any age with First National Bank and Trust Recent Updates Credit Cards 101 The Importance of Keeping Your Contact Information Up to Date with Your Bank Financial Check-In: 5 Questions to Ask Yourself Before Spring Arrives Avoid the Debt Trap This Holiday Season Social Engineering Scams: How to Protect Yourself and Your Finances Categories Agriculture Category Auto Loans Category Beginner Guides Category Budgeting Category Calculators Category Small Business > Capital Loans-Operating Loans Category Small Business > Cash Management Category Checking Category Child Savings Category Small Business > Commercial Loans Category Community Category Construction Loans Category COVID Relief Category Credit Cards Category Credit Loans_Personal Category Cybersecurity Category Debit Card Category Small Business > Equipment Loans Category Estate Planning Category Finances Category Financial Education-Literacy Category Fraud Education Category Home Loans Category Home Ownership Category Investing Category Mortgage Category Online Banking Category Retirement Accounts Category Savings Accounts Category Small Business Category Taxes Category Wealth Management Category With BaZing, you'll receive access to these great benefits online or with a convenient mobile app: Identity Theft Protection & Insurance Cell Phone & Travel Protection Roadside Assistance Shopping, Dining & Travel Discounts Pharmacy, Vision & Hearing Discounts Grocery Coupons",
+      "headings": []
+    },
+    {
+      "rank": 9,
+      "domain": "westernsouthern.com",
+      "url": "https://www.westernsouthern.com/personal-finance/how-much-money-should-you-have-in-savings",
+      "title": "How Much Money Should You Have in Savings? What to Know",
+      "word_count": 1786,
+      "scrape_status": "tavily_fallback",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": "to Main Navigation to Main Content Our site uses cookies to improve your experience. By continuing, you agree to the use of cookies and our privacy policy. ## Table of Contents Optimize Your Savings Plan Organize your personal finance with structured savings strategies. Get My Free Financial Review # How Much Money Should You Have in Savings? You should have enough money in savings to cover 3-6 months of basic expenses in an emergency fund, plus additional savings allocated to goals and long-term retirement needs based on your circumstances. Updated Share: Get My Free Financial Review ## Table of Contents ## Key Takeaways * Divide savings into buckets for short-term, medium-term, and long-term needs to save for different goals. * Maintain an emergency fund with 3-6 months of expenses for unexpected costs and plan medium-term savings for big purchases. * Focus on retirement savings, aiming to save 15% of your income as your largest savings bucket. * Use the 50/30/20 budgeting rule to allocate 50% to needs, 30% to wants, and 20% to savings to guide your goals. * Boost savings by tracking expenses, cutting costs, automating transfers, and working with a financial representative. Some of your biggest expenses each month, such as a mortgage or student loan payments, are likely predictable. Others, like major car repairs or a leaky roof, can creep up when you least expect them. Having funds set aside to help cover those unplanned costs - not to mention future expenses such as retirement - is critical to maintaining your financial health. The exact figures to have in your savings will vary based on your lifestyle and income, but you'll want enough set aside to help cover emergency needs as well as longer-term goals. Here's what to know. ## The 3 Savings Buckets When thinking about savings, one of the most important strategies is to break down your reserves into short-, medium- and long-term needs. Depending on your individual situation, these three \"buckets\" may be different sizes and consist of different assets: 1. Short-term (emergency) savings. An emergency fund can help you cover unexpected costs, such as a medical bill or the sudden loss of your paycheck. A good rule of thumb is to have enough money to cover between three and six months' worth of basic expenses in a secure, interest-bearing bank account. Our Emergency Fund Calculator can help you estimate the amount you may need. 2. Medium-term savings. The second bucket is for your large, pre-planned purchases that may be a few years away. These can include things such as your wedding expenses or the down payment on your first home. In order to track your progress, it may be helpful to keep these funds in an account that's separate from your emergency savings. Alternatively, some banks allow you to create different savings categories in a single account, each with its own label, to more easily track your progress. 3. Long-term (retirement) savings. While short- and medium-term needs might be your first priorities, your long-term savings - that is, the money you'll need for retirement - will likely represent your largest bucket. Our Retirement Calculator is an easy way to estimate how much you may need based on a given savings rate. Experts typically suggest allocating around 15% of each paycheck to a tax-advantaged retirement account in order to meet your needs. Additionally, it's generally a good idea to create a mix of investments that align with your age and risk tolerance. Keep in mind, though, that investments cannot guarantee growth or sustainment of principal value; they may lose value over time. Past performance is not an indication of future results. ## The 50/30/20 Rule So, how much money should you save each month in order to adequately fund those three buckets? One of the ways to figure that out is by implementing a budgeting concept known as the \"50/30/20\" rule. Under this approach, you would allocate 50% of your after-tax pay to \"needs\" (e.g. housing, food, insurance) and 30% to \"wants\" (like special experiences or your cable bill). The remaining 20% is earmarked for your various savings needs, whether it's building an emergency fund or investing for your retirement. For some, creating these guide rails can be an effective way to stay on track with their long-term goals. However, the exact breakdown of those expense groupings may need some tweaking based on your situation. For instance, someone who hasn't built an emergency fund or started saving for retirement until age 35 may want to increase the 20% savings goal in order to make up for lost time. Conversely, someone who started saving early and already has enough set aside for contingencies might be able to dial that number back. ## Boosting Your Savings Rate Deciding to save more, whether by following the 50/30/20 rule or another strategy, is only one step in the journey. Often, the toughest part is actually following through. But with some determination and discipline, it's entirely possible. Here are three actions that could help you reach your goals: 1. Use technology to your advantage. For many of us, having enough money left over for savings each month means going on a budget. Fortunately, that doesn't require painstakingly plugging your transactions into a spreadsheet anymore. Today, there are several great mobile apps that easily sync with your bank and credit accounts to track spending habits for you. 2. Look for easy expenses to cut. Try reviewing your last few bank statements - you may be surprised to find that you're paying for things that you don't need, like an underused gym membership or unnecessary subscriptions. Once you cut that low-hanging fruit from your budget, you'll free up more cash to put toward your savings target. 3. Automate your savings. If you're used to spending first and seeing if there's anything left to save afterward, it may be time to reverse your approach. Consider setting up an automated draft that funnels part of your paycheck into a separate savings account (or set up direct deposit to achieve the same outcome). That way, you won't face the temptation to shell out more than you need to for non-essentials. And even if you don't have a 401(k)-style retirement account at work, creating monthly transfers from your bank account into an IRA\") can be a great way to boost your retirement savings. When reviewing your short- medium- and long-term savings needs, it can help to have expert guidance. Consider contacting a financial representative who can answer your questions and help to identify an approach best suited to your unique situation. Utilize personal finance tools to manage your budget and savings. Get My Free Financial Review ## Frequently Asked Questions ### Is it better to save or pay off debt? It depends on your financial situation. Generally, high-interest debt should be paid off first because it costs more over time, but it\u2019s also wise to keep some emergency savings so you don\u2019t rely on credit in unexpected situations. ### Is it OK to have all my money in savings? Keeping all your money in savings can feel safe, but it may limit your growth potential. A mix of savings for emergencies and investments for long-term goals can help balance security with opportunity. ### Is it better to save or invest early? Investing early often helps grow your money faster thanks to compound growth. However, having basic savings set aside first ensures you\u2019re protected from emergencies while your investments grow. Sources 1. Why Should I Invest 15% of My Income for Retirement? https://www.ramseysolutions.com/retirement/why-should-i-invest-15-of-my-income-for-retirement. ## Related Budgeting & Saving Articles Budgeting & Saving ### How to Create a Budget: 7 Steps ### 26 Ways to Save Money ### How Much Money Should You Have Saved by 25? ### How Much Money Should You Have Saved by 30? ### What is a Health Savings Account? ### What Is a Rainy Day Fund? ### What's Your Goal for Long-Term Savings (and How Do You Plan to Get There)? ### 5 Questions to Help You Master Your Personal Budget ### Budgeting for Couples: 5 Things to Consider ### 10 Ways to Save Money on a Tight Budget ### How to Budget for a Baby ### Budgeting for a Second Child & Beyond ### Budgeting Tips for 30-Somethings ### Budgeting Tips for Your 60s: What to Know ### Savings by Age: Here's How Much You Should Plan to Have ### 30 Money Saving Hacks to Boost Your Savings ### How Does a Credit Card Work? ### How to Make Money as a Kid: Ways to Start Earning Early ### How to Make Money as a Teen: 12 Realistic Ways to Earn Income ### How to Save for a House: 5 Tips to Build Your Down Payment Faster ### Rules on Gifting Money to Family Explained ### No-Spend Days: Save More, Spend Smarter ### Practical Financial Habits You Can Afford to Implement Now IMPORTANT DISCLOSURES Information provided is general and educational in nature, and all products or services discussed may not be provided by Western & Southern Financial Group or its member companies (\u201cthe Company\u201d). The information is not intended to be, and should not be construed as, legal or tax advice. The Company does not provide legal or tax advice. Laws of a specific state or laws relevant to a particular situation may affect the applicability, accuracy, or completeness of this information. Federal and state laws and regulations are complex and are subject to change. The Company makes no warranties with regard to the information or results obtained by its use. The Company disclaims any liability arising out of your use of, or reliance on, the information. Consult an attorney or tax advisor regarding your specific legal or tax situation. at is typing... ## Ready to Continue? You have clicked a link to access information on an external website, so you will be leaving westernsouthern.com. When you select a link to an external website, you are subject to the privacy, copyright, security, and information quality policies of that website. The Western & Southern Financial Group: 1. DOES NOT control or guarantee the accuracy, legality, relevance, timeliness, or completeness of information contained on a linked website; 2. DOES NOT endorse linked websites, the views they express, or the products/services they offer; 3. CANNOT authorize the use of copyrighted materials contained in linked websites; 4. IS NOT responsible for transmissions users receive from linked websites; 5. DOES NOT guarantee that outside websites comply with the accessibility requirements of Americans with Disabilities Act. Are you ready to move forward? Yes No ## Optimize Your Savings Plan Organize your personal finance with structured savings strategies. ## Request Submitted Your request has been successfully submitted. We will reach out to you shortly.",
+      "headings": []
+    },
+    {
+      "rank": 10,
+      "domain": "youtube.com",
+      "url": "https://www.youtube.com/watch?v=kPwvfy5h-_c",
+      "title": "How Much Is Too Much to Keep in the Bank? (You Might Be Surprised)",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 11,
+      "domain": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/how-much-money-should-i-keep-in-my-savings-account-205323859.html",
+      "title": "How much money should you keep in a savings account?",
+      "word_count": 1823,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://s.yimg.com/ny/api/res/1.2/Eo_ZiT1kDWwsKG.wRgFCeA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://s.yimg.com/os/creatr-uploaded-images/2023-07/6852d7e0-2b03-11ee-b2ab-bb7da35eb0c2",
+        "alt": "",
+        "description": "Generic editorial stock photo depicting common financial concepts like piggy banks or people with devices.",
+        "type": "editorial_stock_photo"
+      },
+      "article_images": [
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/CG1fItRs06KVm5zJRlJavg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIzMjtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2020-12/e70e9a00-35a2-11eb-bdfd-3f73c982ffa9",
+          "alt": "Yahoo Personal Finance",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/V8N1fI362kPpyRwYbfqOKw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTYzOQ--/https://s.yimg.com/os/creatr-uploaded-images/2023-07/6852d7e0-2b03-11ee-b2ab-bb7da35eb0c2",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/nTO_D9UARqn7K0VH2ApG1w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTgwO2g9ODA-/https://s.yimg.com/os/creatr-uploaded-images/2024-05/fcf8bed0-1489-11ef-bfaf-74bf620ec1e2",
+          "alt": "Sarah C. Brady",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://s.yimg.com/lo/mysterio/api/E61AE6761656FF07BF4D9FD68B9C432B7A23B61B29726C95C75AE2722ED0E301/subgraphmysterio/resizefill_w1344_h756;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-02%2Fc47e5d70-ea4a-11ef-afff-e8ab8e1646f9",
+          "alt": "10 best high-yield savings accounts for April 2026: Earn up to 4.10% APY",
+          "description": "Data visualization or financial chart graphic.",
+          "type": "graphic_design_data"
+        },
+        {
+          "url": "https://s.yimg.com/lo/mysterio/api/608E53BDFA3DFA34C9884138567F24EB0C1F7CC49350B59FEF601DB92A676481/subgraphmysterio/resizefill_w194_h109;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-06%2Ff3c91e80-2d12-11ef-acbb-50739a2e0fbd",
+          "alt": "How much money should you keep in your checking account?",
+          "description": "Data visualization or financial chart graphic.",
+          "type": "graphic_design_data"
+        },
+        {
+          "url": "https://s.yimg.com/lo/mysterio/api/9C35C13221EF57D8239F813F5C9199DEF28DCFA87931937AB8B0AA19B184E119/subgraphmysterio/resizefill_w194_h109;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-03%2Fc9e5a340-e631-11ee-a1c7-31f1b0252a41",
+          "alt": "How much money should you keep in a high-yield savings account?",
+          "description": "Data visualization or financial chart graphic.",
+          "type": "graphic_design_data"
+        },
+        {
+          "url": "https://s.yimg.com/lo/mysterio/api/DB90CDD2A283496B11B4E89557D5E83F26D932A82FEAE2D7C90E70E78EB07A24/subgraphmysterio/resizefill_w194_h109;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2018-12%2Fe8812830-054d-11e9-bf3f-e24356945508",
+          "alt": "How much money should you save each month?",
+          "description": "Data visualization or financial chart graphic.",
+          "type": "graphic_design_data"
+        },
+        {
+          "url": "https://s.yimg.com/lo/mysterio/api/A7D3C861E2857D42C30A443F78ED7F8457489108943525095BFABD32E1F37284/subgraphmysterio/resizefill_w194_h109;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-07%2F823cd9e0-bba7-11ea-bfff-0ad30248690e",
+          "alt": "What is the average savings by age?",
+          "description": "Data visualization or financial chart graphic.",
+          "type": "graphic_design_data"
+        },
+        {
+          "url": "https://s.yimg.com/lo/mysterio/api/0DB30D9E979FFC5414122A5D505828D54DEC733FBCDBBEF011059C7358EAA6A2/subgraphmysterio/resizefill_w194_h109;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-09%2Fabc82590-f91d-11ea-b6d5-1cdbdfd7b6f3",
+          "alt": "How much of your paycheck should you save?",
+          "description": "Data visualization or financial chart graphic.",
+          "type": "graphic_design_data"
+        },
+        {
+          "url": "https://s.yimg.com/lo/mysterio/api/3A9158CE146973D81D9340BEDBF996A640524F1CCF1A2F8D169C512FC059C77E/subgraphmysterio/resizefill_w194_h109;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-07%2Fc2e1ad30-5c34-11f0-b2f7-e1bf3c63efa7",
+          "alt": "This is the minimum amount of savings you need to improve your financial well-being",
+          "description": "Data visualization or financial chart graphic.",
+          "type": "graphic_design_data"
+        }
+      ],
+      "body_text": "Some offers on this page are from advertisers who pay us, which may affect which products we write about, but not our recommendations. See our Advertiser Disclosure . What's the \"right\" amount of money to have in a savings account? If you follow expert recommendations, you'll probably end up confused. Is it six months' worth of your expenses? Twenty percent of each paycheck? Or some other magic figure? The answer depends on who you ask. Sometimes so-called financial experts, gurus, and coaches offer conflicting or just-plain bad advice because they're not trained professionals and/or they're not really in touch with the financial challenges of the average person. As a former NFCC-certified credit counselor \u2014 one who's counseled thousands of households through budget crises \u2014 I strongly suggest ignoring any \"expert\" who offers a blanket solution. Instead, you can use the guidelines below to help you find a fit for your situation. Why do you need money in a savings account? The main reason to keep money in a savings account is for emergencies. Or more accurately, your savings help prevent a difficult event from becoming an emergency. For example, any of the following expenses can spiral into a crisis if you don't have enough savings to cover them: Home repair Rent increase Car breakdown Loss of hours at work Medically necessary procedure Travel expenses for the funeral of a loved one Ultimately, the money in your savings account is there to protect you in one of the worst-case scenarios: The total loss of your income. If that happens, your savings can act as a form of income replacement, giving you time to find a new job or make other arrangements without falling behind on bills. As an added benefit, you can withdraw money from a savings account at almost any time without incurring a penalty or losses, which is not the case for money in a retirement account, certificate of deposit (CD), or the stock market. How much money should I keep in my savings account? The ideal amount of savings depends on your situation, and it can change along with your circumstances. Here's how to determine the amount you need: If you're in debt\u2026 If you have high-interest debt, meaning debt with APR above 7% (think: credit cards), your savings account balance should be kept to a minimum. That might sound counterintuitive. However, instead of putting your extra cash into a savings account or retirement fund, you'll want to aggressively pay off the debt to avoid losing money on monthly interest charges. It's also wise to build a \"cushion\" into your checking account, meaning a limited amount of funds that you never plan to spend. Having a cushion equivalent to your largest monthly expense \u2014 usually rent or a mortgage payment \u2014 helps you avoid costly overdraft fees and serves as a backup to ensure your housing payment is covered in a serious emergency. If your income and expenses are stable\u2026 If you don't have high-interest debt, aim to maintain three-to-six months' worth of your living expenses (not your income) in a savings account. Yes, that's a wide range, but it's relatively easy to figure out which end you should aim toward. Three months' worth of living expenses is sufficient if you have a low likelihood of facing long-term unemployment or major, unexpected expenses. Aim to save roughly three months of expenses if all of the following apply to you: Your income is consistent and stable. Your expenses are largely predictable. You work in a moderate-to-high-demand profession. You have no dependents. 10 best high-yield savings accounts for April 2026: Earn up to 4.10% APY The best CD rates for April 2026: Earn up to 4.15% APY 10 best money market accounts and rates for April 2026: Rates up to 3.85% APY With three months\u2019 worth of expenses in savings, you'll be able to cover all of your regular costs for a full three months in the unlikely (but still possible) event of a total loss of income. In fact, if you cut your expenses, the money will last even longer. Once you hit that three-month goal, you'll want to start depositing your extra cash into an account where it may not be as accessible, but it will earn more interest. An employer-sponsored retirement account with an employer match is an excellent option. Read more: Why a CD should be part of your retirement savings plan If your income or expenses are inconsistent\u2026 Not sure how much money you're going to make each pay period? You're best off aiming to save at least six months' worth of living expenses. For self-employed individuals, gig workers, or seasonal workers, your savings will act as a supplement to your income during slow seasons. Yes, it's hard to put money aside when your income fluctuates, but one way to jump-start your savings is to consistently put some cash away during seasons of plenty. The six-month mark is also a good goal for anyone with unpredictable expenses or major recurring expenses. For example, if you have a chronic medical condition or you have minor dependents, you'll need an ample savings balance to help you cover the unexpected, instead of resorting to credit cards or loans. If you have an upcoming purchase\u2026 Depositing more than six months\u2019 worth of living expenses into a savings account can be counter-productive. You'll earn far more interest when you put that money into a retirement account, a mutual fund, or even a high-yield CD instead of a savings account. However, if you're preparing for a major expense within the next year, you'll want to save the money for that expense in an account where you can withdraw it without any penalties when the time comes. In this case, you may want to add a set amount of money for your upcoming purchase, also known as a \"sinking fund,\" to your savings balance. Some reasons to add a sinking fund to your savings account: Home repair Car repair Down payment on a home Relocation Wedding Car purchase Medical procedure If your big purchase is further away \u2014 say, one to five years out \u2014 you might want to invest in an asset that earns more interest than a savings account, such as a CD or a Treasury bill that matures by the date you need the money. How can I save more money? Unfortunately, the more unstable your situation is, the more you benefit from saving a lot of money. If you're not sure how to reach the recommended savings targets, use these tips that helped many of my counseling clients in the past: Automate it : Make sure part of each paycheck goes into your savings by setting up an automatic deposit to your savings account, even if it's just $25 per check at first. Review your account statements : Look at your bank and credit card statements for recurring charges you can cancel and to pinpoint bad spending habits. For example, eating away from home is an often unnecessary expense, and it's gone up by 6% due to inflation in the last year. Delete your card information : Delete your credit card information from online retail accounts, or just cancel your account subscriptions. Work toward income growth : Working more hours means making more money, but it can also wear you out. A better strategy is setting a goal to increase your pay rate every year through a pay increase, a promotion, finding a new job, or otherwise. Talk to a credit counselor : Schedule a free appointment with an NFCC-certified credit counselor to explore strategies and resources for improving your finances. Go big : Cutting small expenses (like lattes) won't get you as far as cutting major expenses. Look for big charges you can eliminate temporarily or replace them with more affordable alternatives. Ditch the new car: Most well-maintained cars are now driveable past the 200,000-mile mark. You'll save big and avoid significant depreciation losses if you stay away from buying brand-new cars. Look for high APY : Put your savings into a high-yield savings account (HYSA) that pays you a competitive rate. Check out our ranking of the 10 best high-yield savings accounts available today. Read more: 7 ways to save money on a tight budget Where should I keep my savings? Sure, you can keep your money under a mattress, but an - or NCUA-insured savings account is a better choice. When you put your cash into a savings account, your money is protected against theft, fire, water, and pest damage. Plus, it can earn a bit of interest, which helps offset the impact of inflation. For the highest rates on your deposits, look for a savings account at a credit union or an online bank. Can you have too much money in a savings account? Saving money is one of the keys to financial stability, but there is such a thing as having too much money in savings accounts. For one, federal insurance protects your deposits up to $250,000 per depositor, per institution. If you have a savings account with a balance over $250,000, some of your money could be at risk if your financial institution fails. Additionally, if you have enough to cover three to six months' worth of living expenses, the only reason to keep more in a savings account is for a specific purchase you'll make in the near future, like a down payment on a home. If that's not the case, you should move your excess funds somewhere where they can earn more interest and outpace inflation, such as a CD or a 401(k). Read more: How to protect your savings against inflation How much money should you keep in your checking account? Every bank customer likely wonders: \u201cHow much money should I keep in my checking account?\u201d And the answer might surprise you. How much money should you keep in a high-yield savings account? A high-yield savings account helps your balance grow by paying above-average interest rates. But how much money should you have in an HYSA? Here's what you should know. How much money should you save each month? How much money should I save each month? It\u2019s a common question with no clear-cut answer. Find out what the experts say about how much you should save every month. What is the average savings by age? Ever wonder how your savings stacks up against others? Here\u2019s a breakdown of the average American\u2019s savings balance by age. How much of your paycheck should you save? How much of your paycheck should you save? Experts recommend 20% of your paycheck, but saving that much can be challenging. Here are some tips for reaching that goal. This is the minimum amount of savings you need to improve your financial well-being A Vanguard survey shows how much emergency savings Americans need to improve their financial well-being. Here\u2019s what to do if your savings account falls short.",
+      "headings": []
+    },
+    {
+      "rank": 12,
+      "domain": "instagram.com",
+      "url": "https://www.instagram.com/reel/DW9HWWdD5b5/",
+      "title": "How much money should you keep in your bank account?",
+      "word_count": 1,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "data:image/png;base64,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",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [],
+      "body_text": "_Body text (44 chars) saved to JSON sidecar_",
+      "headings": []
+    },
+    {
+      "rank": 13,
+      "domain": "tabbank.com",
+      "url": "https://www.tabbank.com/resource-center/blog/how-much-money-should-i-keep-in-my-savings-account/",
+      "title": "How Much Money Should I Keep In My Savings Account?",
+      "word_count": 0,
+      "scrape_status": "failed",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 14,
+      "domain": "pnc.com",
+      "url": "https://www.pnc.com/insights/personal-finance/save/how-much-should-i-have-in-savings.html",
+      "title": "How Much Should I Have in Savings",
+      "word_count": 2025,
+      "scrape_status": "tavily_fallback",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": "false xf false * Personal Finance * Managing Wealth * Small Business * Corporate & Institutional * Our Commitments * Economics Research * Explore Products & Solutions * Espa\u00f1ol * Personal Finance * Save * Savings Tools # How Much Should I Have in Savings? A measurable savings goal spells out exactly what you are working towards and gives you a tangible target to aim for. Learn more in this guide from PNC. Jul 09 2024 | 6 min read With a savings account, you can tuck some of your money away for a future emergency expense or a specific financial goal, such as a much-needed vacation or a child\u2019s college education. In addition, savings accounts \u2014 especially high-yield savings accounts \u2014 put your money to work for you by letting you earn interest on your deposits. But how much money should you keep in your savings account? Here are some guidelines and tips for meeting your savings goal. ## How Much Should I Have In Savings? Unfortunately, there's no easy one-size-fits-all answer. The amount you should \u2014 or can \u2014 save depends on a variety of questions. How much income do you earn? How much debt do you owe? And what are your monthly regular expenses. All these and more should play a role in determining your unique answer. For example, if you don't have a particularly high income and find yourself living paycheck to paycheck, any money you can set aside in your savings account \u2014 even $20 per month \u2014 is better than not saving at all. In addition, if you have a large amount of high-interest debt, such as from a credit card, you may want to focus on paying your debt off before aiming for a savings goal. Otherwise, you're likely losing a lot of money to interest payments. On the other hand, if you enjoy a relatively high income but maintain a relatively modest lifestyle, you can afford to save more aggressively. In addition, your savings goals should play a large part in determining how much money you should have in a savings account. You may want to save a larger amount of money for an emergency fund than for a planned vacation, for example. ## Your First Savings Goal: An Emergency Fund As soon as you're able, you should consider opening a savings account specifically as an emergency fund. A good rule of thumb is to have three to six months' worth of expenses tucked away in a savings account as an emergency fund. That way, if you lose your job or face an unexpected expense \u2014 Such as a large medical bill, a major appliance replacement, or a pricey car repair \u2014 you won't resort to a high-interest credit card account to pay the expense. To learn how much your expenses are: 1. Consult your monthly bank statement or look through a month's worth of debits using your bank's website or mobile app. 2. List all your monthly essential expenses, such as rent or mortgage payments, insurance costs, utility bills, grocery spending, gas purchases, etc. Don't include discretionary expenses that you would skip during a financial emergency, such as movie tickets or dining out. 3. Once you know your monthly expenses, multiply this number by three. This amount should be the minimum savings you should have for your emergency fund. Multiply your monthly expenses by six to give yourself even more breathing room. For example, if your monthly expenses were $4,000, you should try to set aside a total of $12,000 to $24,000 for your emergency fund. Once your emergency fund is established, then focus on saving for other goals. Consider opening a second savings account to separate your \"general\" savings from your emergency fund. ## Determine Your Monthly Savings Goal Once you know how much money to put into your emergency fund or earmark for another upcoming expense, determine a monthly savings goal. By focusing on a monthly target, saving can feel less overwhelming and far more attainable than just trying to reach a large budgetary goal that is potentially months and months away. A commonly recommended spending strategy is the 50/30/20 rule[[1]](#legal). With this rule, you aim to: * Use 50 percent of your income on essential expenses (housing, food, utility bills, etc.) * Apply 30 percent or less of your income on \"wants.\" * Put 20 percent of your income away in a savings account This means, if you earn $5,000 per month, your monthly savings goal would be $1,000. You'd also earmark $2,500 for all your bills and use some of the leftover $1,500 on discretionary spending, such as restaurant meals, new clothes, movie tickets, etc. However, if you spend less than $1,500 per month on non-essentials, you can always boost your savings with what's left over. And if 20 percent of your monthly income is more than you can afford to save, don\u2019t feel bad. Instead, start saving what\u2019s possible and increase those savings as your budget allows. By regularly reviewing and revamping your budget, you may find that you can save even more money than you originally thought. ## Tips For Staying On Track If you're new to adding savings to your monthly budget, it can be easy to fall off track. Here are some tips for keeping your savings habit consistent. ### Start Small It's easy to get overwhelmed thinking how much money you need to save over the long run. To counter that, set an easily attainable monthly savings goal. This prevents you from getting frustrated and giving up. If the 50/30/20 rule seems a bit daunting right now, remember every bit saved helps. You can always reassess your budget and save more later. ### Treat Your Monthly Savings Like A Bill To help you get in the habit of contributing to your savings every month, think of it as a bill. That is, add your monthly savings goal to your list of essential expenses. If you make savings as much a priority as your electric bill or mortgage payment, it becomes harder to skip a month or forget about saving altogether. Many banks allow customers to set up automatic recurring transfers from a checking to a savings account. Consider taking advantage of this feature and having a portion of each paycheck go directly into a savings account \u2014 the way you would set up an automatic utility bill payment. ### Start A Budgeting Habit While making savings part of your regular routine, you should pay just as much attention to budgeting. By creating \u2014 and sticking to \u2014 a budget, you enjoy better control over how much you save and spend. In addition, by ongoing review and revision of your budget, you'll likely find ways to trim expenses and add more money to your monthly savings instead. There are numerous methods for budgeting. Here are some popular budget techniques for beginners: * The 50/30/20 rule: As previously discussed, allocate 50 percent of every paycheck to your essential bills, 30 percent to discretionary spending (your \"wants\"), and 20 percent to your savings account. * The envelope method: With this popular savings technique, you create several envelopes \u2014 physically or metaphorically (with a spreadsheet) \u2014 into which you divide your income. You have an envelope for bills, an envelope for food costs, an envelope for savings, etc. This keeps you from dipping into one envelope category when you run out of money in another. * The zero-based budget: Calculate all your expenses (including your monthly savings target) and divide your paycheck to cover all of them. You should have no money left over, meaning that any unassigned cash goes directly into your savings account. ### Contribute to A 401(k) Retirement Plan When you're in your 20s or 30s, retirement seems a long way away. However, the earlier you begin, the more your 50- or 60-year-old self will thank you. Many employers offer a 401(k) savings account, intended to help employees save for retirement, with funds being automatically transferred from your paycheck to your retirement account. You can start saving with as little as 1% of your pay. In addition, some employers also offer to match your 401(k) contributions up to a specified limit. This means, for every dollar that you contribute to this savings account, your employer will pitch in as much as a dollar too, up to a determined percentage of your salary. ## How To Maximize Your Savings Apart from trimming unnecessary costs, you can boost your savings by choosing the right kind of savings account for your needs. Here are some popular products for meeting your savings goals: ### Traditional Savings Accounts These basic savings accounts may not earn you the highest interest rates, but they typically have lower barriers to entry than some of the other account types on this list. Many savings accounts are protected by the Federal Deposit Insurance Corporation (FDIC) up to $250,000 per depositor, per account ownership category, per bank[[2]](#legal). Typically, you can make up to six monthly withdrawals from your savings account without being penalized with a fee. ### High Yield Savings Accounts These savings accounts may have stricter requirements, such as a larger minimum deposit amount, but they pay more in interest on deposits than traditional savings accounts. As with traditional savings accounts, high-yield savings accounts are generally -insured and come with six monthly fee-free withdrawals. ### Money Market Accounts Typically, these savings accounts pay more in interest than traditional savings accounts, and they are also -insured. Your bank's money market account may even include a set of paper checks for up to six transactions per month without paying a fee. With many money market accounts, the amount of interest you earn is tiered, meaning the higher the balance you keep in the account, the better the interest payout rate you'll earn. However, typically, money markets have higher required minimum deposits than traditional savings accounts. In addition, your bank may charge a monthly fee for having one of these accounts. ### Certificates Of Deposit Certificates of deposit (CDs) are popular savings instruments in which you agree to leave your money in the account for a set period. Your funds will earn interest as you wait for your CD to \"mature.\" Maturity terms can range from one month to several years. If you need to withdraw your money before the maturity date, your bank will likely charge a penalty fee. As with the other account types on this list, CDs are generally -insured. ## The Bottom Line Having a savings account can be a lifesaver in the case of an emergency \u2014 or be a handy way to save for your dream vacation or another major upcoming expense. By knowing how much money you should have in your savings account, you can create and stick to an effective budget and reach your financial goals before you know it. * Save * Savings Tools * Benefits of Saving * Plan for the Future * Balance Financial Goals Apply for a savings account today Apply for a PNC Savings Account Achieve your goals with automatic transfers and mobile deposit. Contact Us 1-888-PNC-BANK Schedule an appointment SCHEDULE NOW Find a branch near you FIND NOW ## Important Legal Disclosures and Information 1. \"My Spending Rule to Live By,\" Consumer Financial Protection Bureau, retrieved on December 2, 2023, https://files.consumerfinance.gov/f/201603\\_cfpb\\_rules-to-live-by\\_my-spending-rule-to-live-by.pdf 2. \"FDIC: Your Insured Deposits,\" Federal Deposit Insurance Corporation, Last Updated: August 30, 2023, https://www.fdic.gov/resources/deposit-insurance/brochures/insured-deposits/ PNC Bank, National Association . *These articles are for general information purposes only and are not intended to provide legal, tax, accounting or financial advice. PNC urges its customers to do independent research and to consult with financial and legal professionals before making any financial decisions. This site may provide reference to Internet sites as a convenience to our readers. While PNC endeavors to provide resources that are reputable and safe, we cannot be held responsible for the information, products or services obtained on such sites and will not be liable for any damages arising from your access to such sites. The content, accuracy, opinions expressed and links provided by these resources are not investigated, verified, monitored or endorsed by PNC.*",
+      "headings": []
+    },
+    {
+      "rank": 15,
+      "domain": "investopedia.com",
+      "url": "https://www.investopedia.com/articles/personal-finance/040915/how-much-cash-should-i-keep-bank.asp",
+      "title": "Optimal Cash Reserves: How Much to Keep in the Bank",
+      "word_count": 0,
+      "scrape_status": "failed",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 16,
+      "domain": "quora.com",
+      "url": "https://www.quora.com/What-is-the-recommended-amount-of-money-to-keep-in-a-savings-account-Should-it-be-more-or-less-than-what-is-needed-for-regular-expenses",
+      "title": "What is the recommended amount of money to keep in ...",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 17,
+      "domain": "smartasset.com",
+      "url": "https://smartasset.com/checking-account/savings-account-average-balance",
+      "title": "What Is the Average Savings Account Balance?",
+      "word_count": 1147,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://smartasset.com/wp-content/uploads/sites/2/2018/02/rsz_istock-698603616.jpg",
+        "alt": "A mother and daughter adding coins to a piggy bank and jar.",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://smartasset.com/wp-content/uploads/sites/2/2018/02/rsz_istock-849237872.jpg",
+          "alt": "Closeup of a $1 bill.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://smartasset.com/wp-content/uploads/sites/2/2018/02/rsz_istock-657445802.jpg",
+          "alt": "A senior couple reviewing their bank statement.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "Most people use financial tools to protect their savings, but many don\u2019t know if they\u2019re saving enough. The Federal Reserve\u2019s Survey of Consumer Finances shows average and median savings account balances by age and income, offering a clear picture of how your savings compare to others. A financial advisor can help you set savings goals and make a plan to grow your money based on your income and age. Median and Average Savings Account Balance in the U.S. Of the Americans who have savings accounts, the median balance of transactional accounts was $8,000. The average balance is $62,410. This is according to the Federal Reserve\u2019s Survey of Consumer Finances , which was conducted most recently in 2022. The Fed defines transactional accounts as checking , savings , money market and call accounts, as well as prepaid debit cards . Retirement and brokerage accounts , for instance, would not qualify as transactional accounts. Median Balance by Age Unsurprisingly, Americans add more to their accounts as they age. Everyone should aspire to live in such a way that your nest egg grows with time, but that means starting as soon as you\u2019re able. The median transactional account balance for those under 35 years old was $5,400 in 20 . For those between 35 and 44, balances grew to $7,500. And for those between 65 and 74, accounts almost doubled to $13,400, but dropped to $10,000 at 75 and older. Check out the full breakdown of median transactional account balance by age: Under 35: $5,400 35-44: $7,500 45-54: $8,700 55-64: $8,000 65-74: $13,400 75+: $10,000 Median Balance by Income Also unsurprisingly, Americans who make more money are able to save more money. Income is the factor that makes the biggest difference in averages savings amount. Low-income earners are also the least likely to have a savings account. Those that make less than $20,000 a year only keep $900 in savings, while those raking in the top 10% of earners between $90,000 and $100,000 have a median of $111,600 in savings. Even though it can be much more difficult when you aren\u2019t bringing home a fortune from your employer, you should base your savings on a percentage of income. Many experts recommend putting at least 20% of your take-home pay toward debt repayment and savings. Check out the full breakdown of median savings account balance by percentile of income for 2019: Bottom 20% of earners: $900 20th to 39.9th percentile: $2,550 40th to 59.9th percentile: $7,400 60th to 79.9th percentile: $15,760 80th to 89.9th percentile: $33,800 Top 10% of earners: $111,600 Historical Trends Despite economic ups and downs, Americans have been depositing more into their savings account every year on average since 1959, when the Federal Reserve started collecting this data. The total amount of American savings account deposits has increased since 1959, the earliest date for which the Federal Reserve has data. The median balance, however, has not always followed suit, highlighting the differences in savings discipline across households. How Much Should I Be Saving? Looking at benchmark figures like median account balances can be a helpful starting point, but how do you know what amount works best for your unique situation? There are a couple rules of thumb that might help. First is the 50/30/20 budgeting rule . This states that 50% of your monthly income should go toward your fixed expenses (rent/mortgage, car payments, utilities, phone bills). Then, 30% of your income can go toward expenses that aren\u2019t essential, like gym memberships, restaurants, new clothes or Netflix. Finally, the remaining 20% can be put toward your savings. It\u2019s also to think about what you\u2019re saving for and use that to help you determine a target. Are you saving for an emergency fund? If so, you\u2019ll want to stock up between three to six months of expenses in your savings account. Are you saving for retirement ? In that case, the answer has a bit more nuance to it. If you have access to a workplace retirement account like a 401(k) and your employer matches any contribution , consider that amount to be the floor of what you should be contributing. SmartAsset\u2019s retirement calculator can also help you come up with a savings goal that you can use to track your progress. Where Should I Keep my Savings? When it comes to the right account for your savings, there\u2019s likely more than one right answer. Checking accounts are good for day-to-day expenses, since most savings and money market accounts will have restrictions on transfers and withdrawals per month. For your emergency fund, a high-yield savings account is best. You\u2019ll be able to keep the funds safe, but you\u2019ll still be able to earn a decent interest rate . For retirement savings , you\u2019ll want to contribute to a specially-designated account, like a 401(k) plan or an individual retirement account . These allow you to invest your contributions so you can earn a return that outpaces inflation . Other Benchmarks You Can Use While national averages offer a useful comparison, personal savings goals often require more tailored benchmarks. One common method is to save a percentage of your income. Many financial professionals recommend saving at least 20% of your take-home pay, with 10% going to retirement and 10% toward short-term goals or emergency savings . This approach scales with your income and can be adjusted as your financial situation changes. Another benchmark is building an emergency fund with enough to cover three to six months\u2019 worth of essential expenses. This target can vary, depending on your job stability, household size, and health needs. For example, a single person with reliable income may be comfortable with three months, while a household with variable income might need six or more. You can also use age-based benchmarks , such as saving the equivalent of your annual salary by age 30, three times your salary by 40, and so on. These are often used in retirement planning to track progress over time. Using these personal and income-based benchmarks may provide a clearer savings target than national averages alone. Tips for Saving More If your savings account is creeping much higher than the average \u2013 and has more than you need for emergencies \u2013 you may consider some other places to park your money that will yield a greater return. This may include a better savings account, certificates of deposit (CDs), money market accounts or bonds. A financial advisor can help you mitigate risk for your portfolio. Finding a financial advisor doesn\u2019t have to be hard. SmartAsset\u2019s free tool matches you with vetted financial advisors who serve your area, and you can have a free introductory call with your advisor matches to decide which one you feel is right for you. If you\u2019re ready to find an advisor who can help you achieve your financial goals, get started now . Phsoto credit: \u00a9iStock.com/AfricaImages, \u00a9iStock.com/Rawpixel, \u00a9iStock.com/tibor13",
+      "headings": []
+    },
+    {
+      "rank": 18,
+      "domain": "ramseysolutions.com",
+      "url": "https://www.ramseysolutions.com/banking/how-much-should-i-have-in-savings?srsltid=AfmBOooHZipCFP2VVMaDC_sprBJHDtsPo9dEHu53uQ9FyHgF_h6x_Fof",
+      "title": "How Much Should I Have in Savings?",
+      "word_count": 2205,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://cdn.ramseysolutions.net/media/blog/banking/how-much-should-you-have-in-savings.jpg",
+        "alt": "",
+        "description": "Professional studio portrait or clean financial graphic with bold branding.",
+        "type": "branded_studio_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://cdn2.ramseysolutions.net/dynamic/media/landing-pages/blog/author-bio-ramsey-large.jpg/48w.jpg",
+          "alt": "Ramsey Solutions",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.ramseysolutions.net/media/3_way_universal/blog/inline-icons/personal-development.png",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.ramseysolutions.net/media/everydollar/2025/articles/ads/Banking2.png",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn2.ramseysolutions.net/dynamic/media/landing-pages/blog/author-bio-ramsey-large.jpg/120w.jpg",
+          "alt": "Ramsey Solutions",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.ramseysolutions.net/media/blog/article-template/ask-ramsey-header.svg",
+          "alt": "Ask Ramsey",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.ramseysolutions.net/media/rscom/logos/flat-blue-50-ramsey-logo.svg",
+          "alt": "Ramsey Solutions",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 19,
+      "domain": "tiaa.org",
+      "url": "https://www.tiaa.org/public/learn/personal-finance-101/how-much-of-my-income-should-i-save-every-month.",
+      "title": "How much should I save each month",
+      "word_count": 0,
+      "scrape_status": "failed",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 20,
+      "domain": "fortune.com",
+      "url": "https://fortune.com/article/how-much-money-in-checking-and-savings/",
+      "title": "How much money should be in my savings and checking ...",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://fortune.com/img-assets/wp-content/uploads/2025/06/GettyImages-1600036195-e1750881763974.jpg?resize=1200,600",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    }
+  ],
+  "battle_plan_generated_at": "2026-04-26T10:44:12.654777+00:00",
+  "competitors_analyzed_count": 5,
+  "battle_plan_method": "local_deterministic_agent_no_api"
+}

@@ -1,0 +1,610 @@
+{
+  "article_context": {
+    "angle": "Living on one income for financial security and building savings",
+    "pain_points": [
+      "High living expenses (rent, etc.) making saving difficult",
+      "Tracking expenses but lacking a budget or actionable insights",
+      "Student loan debt preventing retirement savings",
+      "Financial vulnerability to unexpected expenses/life events",
+      "Pressure/conflict from external borrowing limits versus personal financial sense"
+    ],
+    "top_social_questions": [
+      "How much of my paycheck should I save?",
+      "How can I figure out where my money is going and actually save?",
+      "Is my spending on groceries too high?",
+      "Should I live with parents to save money?"
+    ],
+    "dominant_emotion": "Stress and anxiety from financial insecurity",
+    "serp_intent": "Searchers using the primary keyword \"how to save 100k in 3 years\" want actionable, realistic financial plans to aggressively accumulate $100,000 through high savings rates, income increases, expense reductions, and possibly low-risk growth strategies within a short 36-month timeframe. The SERP intent focuses on informational guides, calculators, expert advice, and motivational stories emphasizing budgeting, side hustles, and compounding, with results from finance blogs, calculators, and personal finance sites prioritizing feasibility and mindset shifts for ambitious savers.",
+    "serp_title_pool": {
+      "primary": [
+        "Please advise me on how to save 100K in 3years : r/FinancialPlanning",
+        "How I Saved Over $100000 In A Little Over 3 Years - Girlboss",
+        "How To Save $100,000 in 3 Years (Starting From $0) - YouTube",
+        "The 7 Key Strategies I Used To Save 100K in 3.5 Years",
+        "I saved $100,000 in 3 years\u2014here are my top 5 money-saving tips",
+        "How To Save $100K In 3 Years (Starting From $0) - YouTube",
+        "The Blueprint: How I Saved Over $100000 by 23",
+        "How to Save Your First $100K in 5 Years | by Darius Foroux | Medium",
+        "Warren Buffett: How to Save $100000 in 3 Years or less - YouTube",
+        "How to Save Your First $100,000 - Investopedia",
+        "How to Save $100k by Age 25, Quit Your Job, and Travel the World",
+        "How to save 100k in 3 years - Financial Planners Concord NH",
+        "People under 30 who already managed to save 100k, how did you ...",
+        "How I Saved $100k In 3 Years (Step By Step) - YouTube",
+        "How to save (and invest) your first $100,000 - MoneySense",
+        "How to Save Your First $100000 - Miller Wealth Management",
+        "How to Save $100,000 Cash in 3 Years - YouTube",
+        "How To Save $100K: I Did It In 3 Years | Clever Girl Finance",
+        "How can I save $100k in a year? - WalletHub"
+      ],
+      "long_tail": [
+        "12 money-saving challenges for 2025? : r/bulletjournal - Reddit",
+        "2025 Savings Challenge Ideas to Jump-Start Your Finances in the ...",
+        "Money Saving Challenges to Try in 2025 | PNC Insights",
+        "8 Savings Challenges to Try in 2025 - Farm Bureau Financial Services",
+        "2025 Money Savings Challenge -this is so easy to do! - Facebook",
+        "Money Saving Challenges That Will Teach You How to Successfully ...",
+        "Money Saving Challenge Book for 2025: 44 pages of budgeting ...",
+        "The 2025 Savings Challenges You NEED To Know About - YouTube",
+        "10 money savings challenges for 2026 - Fidelity Investments",
+        "Need a 2025 Financial Diet? Try One of These Savings Challenges"
+      ],
+      "question": []
+    },
+    "paa_questions": [
+      {
+        "q": "How to save $100,000 in three years?",
+        "a": "HOW TO SAVE $100,000: 7 STRATEGIES TO FOLLOW"
+      },
+      {
+        "q": "How quickly can I save 100k?",
+        "a": "Being disciplined in your mindset and sticking to your plan will also be key. The dollars and cents will add up. You might be able to reach your $100,000 goal in as little as six years\u2014which would allow you to move on to saving the next $100,000 that much sooner."
+      }
+    ],
+    "related_searches": [
+      "How to save 100k in 3 years reddit",
+      "How to save 100k in 3 years calculator",
+      "How to save 100k in 5 years",
+      "How to save 100k in 4 years",
+      "How long to save $100 k calculator",
+      "How to save 100k in 2 years",
+      "How to save 100k in 10 years",
+      "How to save $100k in 1 year"
+    ]
+  },
+  "primary_keyword": "how to save 100k in 3 years",
+  "competitors": [
+    {
+      "rank": 1,
+      "domain": "reddit.com",
+      "url": "https://www.reddit.com/r/FinancialPlanning/comments/18x0f45/please_advise_me_on_how_to_save_100k_in_3years/",
+      "title": "Please advise me on how to save 100K in 3years : r/FinancialPlanning",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 2,
+      "domain": "girlboss.com",
+      "url": "https://girlboss.com/blogs/read/how-i-saved-100000-in-3-years?srsltid=AfmBOorrqWXz4b9CWG7vGd47dVgmXJv4zNpiwrbDqrQJIDUFmrGbXKA5",
+      "title": "How I Saved Over $100000 In A Little Over 3 Years - Girlboss",
+      "word_count": 1613,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://girlboss.com/cdn/shop/articles/MDIxYmM3NTItMDM1My00Mjc3LTljNDItNGZkMDAxZDY4MzMy_93b15e70b257bf34566f5c72bb9ab6ff_1200x900.jpg?v=1635754729",
+        "alt": "How I Saved Over $100,000 In A Little Over 3 Years",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://girlboss.com/cdn/shop/articles/MDIxYmM3NTItMDM1My00Mjc3LTljNDItNGZkMDAxZDY4MzMy_93b15e70b257bf34566f5c72bb9ab6ff_1024x768.jpg?v=1635754729",
+          "alt": "How I Saved Over $100,000 In A Little Over 3 Years",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "When I first graduated from college, I got a job making a starting salary of $54,000 which was really ~$40,000 after taxes. Three and a half years later, I had saved over $100,000 all without earning a six-figure salary. How did I do it? And how can you do it too? Ahead, you can learn from my own experiences saving , working a side hustle , and budgeting \u2014and make your own game plan. I had a couple really great things to my advantage in terms of the amount I saved, which were: I was fortunate to have no student loans. (Thanks to my super hardworking mother who paid for my college tuition in cash). I had a good entry level salary (As a brand new college grad, to me 40k after taxes was awesome). I got a raise and a bonus every year and got promoted raising my salary by the end of the 3.5 years to ~$74,000 (which was really ~$52,000 after taxes). However, whether or not I had these advantages, I am a saver by nature which basically means, as long as I earn, I save and I\u2019ll talk a bit more about this below. A few other things I\u2019d like to note: I saved this money entirely on my own, there was no inheritance, no handout, no trust fund. I was single and did not have the added luxury of a joint income, I did not have a sugar daddy or a rich boyfriend (just thought I\u2019d put that out there), it was just me. Did I mention I did this all without earning a six-figure salary? Below, I\u2019ve broken down the things I did and included some tips that can help you with your own savings plan. To be honest, when I first started working, I had no clue what a 401k was, or why I needed one. All I knew was that I was being offered free money via a match and I was all over it. Over time I learnt what it was, about asset allocation, fund types, expense ratios etc. but to start out, I took advantage of the free match. At the time, my employer matched 100% of the first 6% that I contributed. I didn\u2019t max out my contributions back then but I contributed ~15% of my salary and throughout the 3.5 years I was able to save about $40,000 in my retirement account. This was also before the last major US recession and so the money I contributed had grown because the stock market had been performing pretty well. Tip : Contribute to a retirement plan as soon as you can. Max out if possible. Can\u2019t afford to max out right away? Increase your contributions by one percent every quarter until you can. If your employer offers a match take it! A great tool to ensure your 401k is on track is Blooom and they offer a free 401k checkup as well. After my 401k, health insurance and tax deductions, my main expenses were my car (I paid a car note for ~$150 and then later ~$300), insurance (~$80) and my mortgage (~$900). I lived at home for six months after graduating from college before moving into my first place which helped me really kickstart my savings because I was able to save most of my pay for those six months. Groceries were never a big bill because I was single. And going out was usually hanging out at friends houses, and I don\u2019t drink alcohol so that was a big savings. I traveled a lot for work and so a lot of my lunches during the week were reimbursed. I also lived very close to work when I was home so I didn\u2019t buy gas often. I shopped here and there, too, but I didn\u2019t have any expensive habits\u2026yet. My water bill, internet bill, and cell phone bill all came in around $170 combined each month. Tips : Getting your expenses down should be your first area of attack in your budget. Try living close to work if possible, cook at home and pack lunches, workout at home or outdoors, carpool, cut out alcohol, use online coupon and rebate sites to save money when you shop online e.g. eBates and Ibotta (Ibotta is great for groceries)\u2014basically get creative with ways to bring your expenses down. After my 401k, other deductions and taxes (my tax rate was ~25%), the first year I earned somewhere around $1350-$1400 a paycheck. I tried to save at least $500 to $700 of every paycheck and because I kept my expenses low, this wasn\u2019t hard to do. I saved all of my yearly bonus (after 50% bonus taxes this was somewhere around $1500 the first couple of years, not much, but still something) and I always saved a bulk of whatever tax return I got. As a result, I saved a ton of cash very quickly this way\u2014I averaged about 18k a year in cash savings and in 3.5 years I had well over 50k saved in cash from my full-time job. Tips : It\u2019s not just about keeping expenses low, its also about making a plan to save what you have left over. I made this easy for myself by having this money automatically sent to my savings account as soon as I got paid. My favorite savings account right now is called Rize and you get $5 to start when you sign up, which is great because those small amounts add up. I have automated deposits set up for different goals and it\u2019s helped me stay on top of my savings. I also funnel a lot of my money into investing in the stock market for the long term. The platforms I use right now are Betterment (for my IRA and non-retirement investing) and Stockpile for fractional investing in individual stocks. I also became very interested in taking photographs, around my 2nd year of saving, and ended up with a very successful part-time lifestyle and wedding photography business after taking a bit of money from savings to invest in an entry level DSLR camera. I studied my craft, did a lot of free photography to start, and then raised my prices as I got better. Within a few months, I found this business growing very quickly and becoming very profitable much to my surprise. As time went by, I also began to network and make friends with as many experienced photographers as I could, who let me second shoot for them and who also began to refer business to me which also helped my business grow. I loved doing it and it earned me a great side income. I paid my business taxes and spent my earnings reinvesting into my business (buying professional cameras and lighting, taking a few courses), saving (I always save something when I earn something), and funding the early stages of a very expensive handbag collection that I later sold. If I didn\u2019t have such a handbag obsession, I know I could have saved so much more money during these three years. The first year of my business I earned around $10,000. The second year I earned around $30,000. Subsequent years I earned more. I worked hard but to me, it was worth it. Around this time, I also started learning about investing outside of retirement and I used some of the money I earned from my side hustle to do that. This side job pushed my savings well over the 100k mark. Tip : A side hustle, if set up and managed the right way, can be a huge boost to your income. Just don\u2019t spend all your earnings on things you don\u2019t need! Yup, I still had a credit card but the majority of my spending on credit was using a charge card. With a charge card, you are required to pay your balance in full each month. e.g. American Express Gold is a charge card. I was required to have a charge card to cover all my work travel expenses and so I thought why not get one for myself too? I got a few reality checks when I overdid it at times but using a charge card always reigned me in and still does. I know my limits. Tip : If you are able to qualify for one, consider getting a charge card instead of a credit card, it will help you build credit and acts just like a credit card. It\u2019s also really important that you stay on top of your credit report and history. That, in a very high-level summary, is how I was able to save over $100,000 in a little over three years. If I had $100,000 in student debt and I was committed to doing it, I\u2019m sure I could have paid all or most of it off in my situation over the same time period. All of this being said, you may not be able to save $100,000 right now and you may have large debts but regardless of where you are (single, married, kids, no kids\u2014I know what it\u2019s like to save with kids\u2014I have twins!), know that you can still pay off your debt and you can still save a serious amount of money over time. It starts with adjusting your mindset, taking a full assessment of where you currently stand, creating a strategy around your situation, keeping your expenses low, automating as much as you can and staying focused. Over time, and with discipline and dedication, you will see results. I promise. Remember, every single dollar counts. It\u2019s usually easier said than done but it\u2019s doable\u2014I did it.",
+      "headings": []
+    },
+    {
+      "rank": 3,
+      "domain": "youtube.com",
+      "url": "https://www.youtube.com/watch?v=Aic4GaHMn_E",
+      "title": "How To Save $100,000 in 3 Years (Starting From $0) - YouTube",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 4,
+      "domain": "careercontessa.com",
+      "url": "https://www.careercontessa.com/advice/saving-100k/",
+      "title": "The 7 Key Strategies I Used To Save 100K in 3.5 Years",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.careercontessa.com/uploadedImages/Advice/advice_1914-480w.jpeg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.careercontessa.com/uploadedImages/Advice/xadvice_1914.jpeg.pagespeed.ic.KeE8jO-Bdy.jpg",
+          "alt": "The-7-Key-Strategies-I-Used-To-Save-100K-in-3.5-Years Image",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.careercontessa.com/uploadedImages/Learn/9.16lb.save1000.jpg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.careercontessa.com/uploadedImages/Contributors/xcontributorThumb_3651.jpg.pagespeed.ic.tUOSr6-Kw_.jpg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.careercontessa.com/uploadedImages/Advice/xadvice_2665.jpg.pagespeed.ic.NoS79Jjr4V.jpg",
+          "alt": "Negotiation-Tactics-101\u2014Get-What-You-Want.-Period.- Image",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.careercontessa.com/uploadedImages/Advice/xadvice_2940_220104_055055.jpg.pagespeed.ic.JMQBaVvaT-.jpg",
+          "alt": "100+-Best-Budgeting-Templates-for-Every-Budgeting-Need- Image",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.careercontessa.com/uploadedImages/Advice/xadvice_2322.jpg.pagespeed.ic.Gm9ZYGuMls.jpg",
+          "alt": "16-Money-Books-You-Need-to-Read- Image",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.careercontessa.com/uploadedImages/Advice/xadvice_2598.jpg.pagespeed.ic.a7wffsjqHZ.jpg",
+          "alt": "How-to-Recover-Financially-from-Wedding-Season-(+-Plan-for-the-Next-One) Image",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.careercontessa.com/uploadedImages/Advice/xadvice_2181.jpg.pagespeed.ic.e8i8WN33Sw.jpg",
+          "alt": "Laid-Off?-Here's-How-to-Negotiate-a-Severance-Package Image",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.careercontessa.com/uploadedImages/Advice/xadvice_1388.jpeg.pagespeed.ic.mEnltmI0FM.jpg",
+          "alt": "How-to-Answer-",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.careercontessa.com/uploadedImages/Advice/xadvice_2741.jpg.pagespeed.ic.XATekGfACw.jpg",
+          "alt": "These-25-Freelance-Side-Jobs-Can-Help-Boost-Your-Income Image",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.careercontessa.com/uploadedImages/Advice/xadvice_2803.jpg.pagespeed.ic.Ol93I1rDr6.jpg",
+          "alt": "How-to-Ask-for-a-Raise-During-Tough-Times-(Like-a-Recession) Image",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.careercontessa.com/uploadedImages/Advice/xadvice_2966_220419_054947.jpg.pagespeed.ic.q-0qTwpcZE.jpg",
+          "alt": "Intro-to-HYSA:-How-to-Open-a-High-Yield-Savings-Account Image",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.careercontessa.com/assets/images/cc-promo-courses-sidebar-01.png.pagespeed.ce.s7OaQTLB0V.png",
+          "alt": "Career Contessa Education",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 5,
+      "domain": "cnbc.com",
+      "url": "https://www.cnbc.com/2019/08/28/i-saved-100000-in-3-years-at-age-27-here-are-my-money-saving-tips.html",
+      "title": "I saved $100,000 in 3 years\u2014here are my top 5 money-saving tips",
+      "word_count": 1404,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://image.cnbcfm.com/api/v1/image/106097032-1566831890272bola6.jpg?v=1567007138&w=1920&h=1080",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://static-redesign.cnbcfm.com/dist/5c55c3361b393c2e212d.svg",
+          "alt": "play icon",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106096969-1566830116308cleverfinancegirl.jpg?v=1566830163&w=60&h=60&ffmt=webp",
+          "alt": "thumbnail",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/105092641-makeit_03262018_bajuelos_suze_orman_buy_house_mezz.jpg?v=1529477859&w=750&h=422&vtcrop=y",
+          "alt": "Suze Orman: Here's the No. 1 thing to do now if you want to buy a home soon",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "Early in my career, when I was 27, I reached a huge milestone: I had amassed a little more than $100,000 in savings \u2014 and I did it in just three years. Saving that much money was no walk in the park, but I was lucky to have the support of my mother, who worked tirelessly to help pay for all four years of my private college tuition (which was roughly $35,000 per year). I understand that most people aren't fortunate enough to have the help of their parents . Instead, they have to pay their own way or take out student loans. (I hope that one day, college will be more affordable so that my luck wouldn't be just \"luck\" \u2014 but a common thing.) Watching my mother work so hard inspired me to be smart about my own finances. So once I graduated from college, I challenged myself to save $100,000 to invest in my retirement savings accounts, emergency funds and other investment accounts. I was able to do it by learning from other people, reading books and through trial and error. Here are the five most important savings tips I learned in those three years. 1. Invest in your 401(k) This might sound like a no-brainer, but three out of four Americans admit that their biggest financial mistake was not investing in their 401(k) as early as possible. When I was 24, I landed my first full-time job at a technology consulting firm. I had a starting salary of $54,000 and put 15% of it into my 401(k). At the time, my employer matched 100% of the first 6% I contributed. Three and a half years later, my savings had grown to nearly $40,000 \u2014 thanks to the magic of compound interest and excellent market gains. If your company offers an employee-matching program, take advantage of it immediately and max out your allowable contributions. Can't afford to max out right away? Consider increasing your contributions by 1% every quarter until you can. If you don't have access to an employer-sponsored plan, there are options to invest in individual retirement accounts, such as a Roth IRA or a traditional IRA. 2. Keep your expenses very, very low Most of my friends couldn't wait to move out and get their own places after college, but I decided to live at home with my parents for six months. Once I saved up enough money, I got my own place in New Jersey. But even then, I continued to live frugally and keep my expenses as low as possible by: Moving close to work : I chose a location near my office so I wouldn't have to spend a ton of money on transportation. Packing lunch : Eating out for lunch every day during the workweek would have cost me, on average, $10 per meal. So by packing my own meals, I was saving about $2,500 per year . Not going out every night : Skipping nights out was really hard because it meant having to say no and feeling left out. But making friends with people who had similar savings goals really helped. (When I did go out, I avoided all the ridiculously-priced items like theater popcorn and fancy cocktails.) Cutting cable : Unless you're a huge sports fan, you can save a lot by cutting the cord. And these days, you might be better off switching to an online streaming service like Netflix, Hulu or YouTube TV. Negotiating cell phone bills : Cell phone plans can get really expensive, especially when it comes to data. It's always worth calling your service provider to negotiate ways to lower your bill. If you're a loyal \u2014 and incredibly persistent \u2014 customer, you'd be surprised by the special deals and offers available. Cutting down on groceries : Before you head to the grocery store, make sure you have a full stomach and a prepared list of items you want to buy. That way, you won't get sidetracked by things you don't need or food cravings that pop up while you're there. Coupons help, too! Canceling unused memberships and subscriptions : Get into the habit of reviewing your bank statements every month to see if there are any subscription services you're not using or can live without. If you're worried that canceling your gym membership might mean you'll never exercise again, for example, challenge yourself to find creative ways to break a sweat (e.g., running outdoors or working out with YouTube videos). 3. Save 40% to 50% of your earnings Growing your money isn't just about keeping expenses low, it's also about making a plan to save what you have left over. After my 401(k), taxes and other deductions, I was earning somewhere between $1,350 and $1,400 per bi-weekly paycheck during my first year of work. I tried to save around $500 to $700 of every paycheck as well as all of my yearly bonus, which was about $1,500. Not much, but still something! I also saved the bulk of my tax returns each year. Another trick that helped: Each time I got a promotion, I continued to live on my old budget so I could save the full amount of my raise. (By the end of my third year at work, my salary was about $74,000 after taxes.) As a result, I averaged about $18,000 each year in cash savings. Three years later, I had saved well over $50,000 from my full-time job. Automating my finances by having the money automatically sent to my savings account made things a lot easier. 4. Start a side hustle In my second year of saving, I became very interested in photography. I purchased an entry-level DSLR camera and decided to start a side gig as a lifestyle and wedding photographer. I studied my craft and did a lot of free work to start. As I got better, I began to raise my prices. Within a few months, my business was growing and becoming very profitable. Networking with other photographers was helpful because they were able to refer me to new clients. Running a side business while also working a full time job wasn't easy, but it was worth it: The first year of my business, I earned around $10,000; the second year, I earned around $30,000; and in subsequent years, my profits only continued to increase. Around the same time, I started learning about investing outside of retirement funds and used some of the money I earned from my photography business to do that. This helped push my savings well over the $100,000 mark. If you have a hobby or particular skill set that people compliment you on all the time, consider starting a side hustle. You can also make extra cash by selling electronics, clothing, shoes or anything else you no longer use. 5. Don't get caught up in comparison You've probably heard the saying that comparison is the thief of joy, and it really is. A lot of the time, people end up spending money they don't have on something they don't need \u2014 usually because someone else has it or expects them to have it. You should never feel the need to spend money to impress anyone. If you do, you may find yourself competing way past what your budget allows. Be happy with what you have and forget about what everyone else thinks. Of course, I rewarded myself with purchases, but only on things that truly made me happy. I often reminded myself that planning for the future should always come first. All those people flaunting their expensive clothes and cars on Instagram will probably regret their purchases once they take a hard look at their finances and realize how far behind they are from reaching financial independence. Time goes by so quickly, and planning for the future can allow you to enjoy retirement without having to depend on the government or on your children to take care of you. Bola Sokunbi is a certified financial education instructor, money expert and author of \"Clever Girl Finance.\" Like this story? to CNBC Make It on YouTube! Don't miss: 61-year-old self-made millionaire: 4 things I regret wasting money and time on in my 20s I'm 24 and on track to save $100,000 by next year\u2014here are my money-saving tips Making these 8 tiny money changes can put up to $8,600 back into your savings account this year",
+      "headings": []
+    },
+    {
+      "rank": 6,
+      "domain": "youtube.com",
+      "url": "https://www.youtube.com/watch?v=ESeq_N8y6uc",
+      "title": "How To Save $100K In 3 Years (Starting From $0) - YouTube",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 7,
+      "domain": "collegemoneyhabits.com",
+      "url": "https://www.collegemoneyhabits.com/blog/how-i-saved-over-100000-by-23",
+      "title": "The Blueprint: How I Saved Over $100000 by 23",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "http://static1.squarespace.com/static/5e07c91e66be9216ac7e3646/5e07d91b1b797629a176a348/5fb9ea8db41d97178871f443/1761110759302/Snapshot_20.png?format=1500w",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/5e07c91e66be9216ac7e3646/1607901975977-K8TR01F1Y1AFHJVRVJ8G/Snapshot_22.png",
+          "alt": "Snapshot_22.png",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/5eadce240267457d27ed6549/479a61450f8f4ea2a1d14a5a67a5a3c5/479a61450f8f4ea2a1d14a5a67a5a3c5.jpeg?format=300w",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 8,
+      "domain": "dariusforoux.medium.com",
+      "url": "https://dariusforoux.medium.com/how-to-save-your-first-100k-in-5-years-1449c8a5a2c8",
+      "title": "How to Save Your First $100K in 5 Years | by Darius Foroux | Medium",
+      "word_count": 0,
+      "scrape_status": "failed",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 9,
+      "domain": "youtube.com",
+      "url": "https://www.youtube.com/watch?v=eGMbx2MpvlE",
+      "title": "Warren Buffett: How to Save $100000 in 3 Years or less - YouTube",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 10,
+      "domain": "investopedia.com",
+      "url": "https://www.investopedia.com/articles/pf/12/saving-first-100k.asp",
+      "title": "How to Save Your First $100,000 - Investopedia",
+      "word_count": 1467,
+      "scrape_status": "tavily_fallback",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": "# How to Save Your First $100,000 :max_bytes(150000):strip_icc()/CharleneRhinehartHeadshot-CharleneRhinehart-ca4b769506e94a92bc29e4acc6f0f9a5.jpg) Charlene Rhinehart is a CPA , CFE, chair of an Illinois CPA Society committee, and has a degree in accounting and finance from DePaul University. :max_bytes(150000):strip_icc()/YariletPerez-d2289cb01c3c4f2aabf79ce6057e5078.jpg) Financial stability and planning can help you pay unexpected bills, fund your retirement, and maintain your lifestyle. Financial goals can help you look toward the future and keep your saving efforts in check. The more money you save, either from reduced expenses or increased income, the faster you can move toward accumulating your first $100,000. Here are ten tips to help you get there. ### Key Takeaways :max_bytes(150000):strip_icc()/SAVINGFIRST100KFINALJPEG-21cd0570ad9c45a3b069ce6bed608a33.jpg) ## 1. Have the Right Mindset Saving a large amount of money is a long-term goal that requires discipline. You may want to stash away $100,000 for one or more of several reasons, but you have to train your mind to get there. Keeping your particular goal in mind can help, but you should also understand how to achieve your goal with a plan. If you're the kind of person who rarely budgets or takes note of expenses, now would be the time to start. Budgeting will help your mindset. Build a budget that's geared toward achieving your goal. Keep in mind that little things can add up. Orienting your mind and budget will help you discover ways that can potentially create a lot of extra funds, even if you're only saving and putting away $5 a day. The going will be smoother if you understand that these are minor sacrifices on the path toward your goal. ## 2. Keep Costs Low The things you spend money on make up a major part of your budget. There are always things you can do to keep your costs down. Consider some of these options. Moving to a smaller house or driving a more economical car can make all the difference for some people. Move smaller to save if you're renting a large place. Becoming more energy-conscious can also help. Recycle and reuse items as much as possible before buying new ones. ## 3. Reduce Your Interest Burden Reducing your interest burden is another powerful way to lower your expenses and make more money available for savings. Many people want it all: the home, car, garage, home theater system, dishwasher, and double-door fridge. It can be possible with a few easy keystrokes online, but instant gratification often comes with a hefty price tag that can take years to repay. Prioritizing debt is the first critical step to saving. Make it a priority to pay off your student loan debt. Take a look at all of your loans and calculate how long it will take you to whittle them down. Think of using that work bonus, tax refund, or an earned dividend to prepay debts and reduce your interest burden. Talk to your credit card lender and try to negotiate a lower interest rate if you have a lot of credit card debt. Check on debt transfer offers that can come with 0% introductory rates. You might be able to get a debt consolidation loan with one monthly payment and a low interest rate if you have money steadily flowing in and you\u2019ve kept your credit score up. ## 4. Invest in Savvy Vehicles and Products You\u2019ll want to make sure your funds are invested efficiently. Working with a financial professional or delving deeper into resources that help you do the investing yourself can be a good idea. A robo-advisor is also an option. ## 5. Save on Taxes Tax shelters can be right under your nose in the form of your employer\u2019s benefit offerings. Benefit plans include all kinds of options, with many offering tax advantages. The traditional 401(k) allows you to invest pre-tax dollars, reducing your taxable income by the amount of your contributions. You'll eventually pay taxes on that money in retirement rather than at your current rate. (With a Roth account, there's no upfront tax break, but qualified withdrawals in retirement are tax-free.) Other tax-sheltered options include a traditional individual retirement account (IRA) and municipal bonds. ### Fast Fact You can withdraw your contributions penalty- and tax-free at any time with a Roth IRA. However, you may be subject to penalties and taxes if the distribution isn't qualified and you touch your earnings. ## 6. Manage Your Risks Risk will undoubtedly be a factor in your trek to save $100,000. High-risk investments might bring higher returns, but they also might bring the opposite. Up-and-coming penny stocks, initial public offerings (IPOs), and trending sectors can pay off big in short amounts of time. On the other hand, lower-risk, high-grade corporate bonds can bring in more modest, but more steady, returns. ## 7. Know the Math Mapping out the present value and future value of your money will be helpful in the process of budgeting and building a financial plan. For example, say you start with $10,000 and add $12,000 annually. If you invest with an annual rate of return of 8%, you'll have $103,900 after six years. ## 8. Maximize Other Employee Benefits Make full use of matching contributions if your employer offers them. Take advantage of the free money. These funds can be added to your tax-sheltered 401(k) for an even greater benefit. Avail yourself of any other benefits your employer may provide as well, such as special discounts at stores, museums, and health clubs. Use a health savings account if one is available to save a little on health care costs. If your employer provides assistance for skill upgrading or \"back to school\" programs, take advantage of these discounted opportunities as well. ## 9. Create Short-Term Saving Goals The path to $100,000 can be somewhat overwhelming. Making and meeting short-term goals can be very helpful to your morale and mindset. Break your long-term saving goals into short-term goals to stay motivated. If you want to match the example above, which sets aside $12,000 a year, break it down into smaller, more manageable pieces. $12,000 a year is $1,000 a month. Since there are 4.33 weeks in a month, that's about $231 a week. Or about $33 a day. ## 10. Generate Additional Income Income is the other key component of your personal budget. Finding ways to generate more revenue will help you reach your $100,000 goal faster. Do you sew, pursue some other craft, or teach? These are some hobbies that can help you raise some extra money. You could tutor children for a few hours a week. You could sell your crafts at the weekend market or online. You might also seek out freelance projects or handy work. Don't let any of your skills or talents go to waste. Your spare time can also be very valuable. ## What Do Americans Spend the Most Money on? Housing is the most significant expense for consumers, according to the U.S. Bureau of Labor Statistics. After housing is transportation, then food. ## How Much Debt Do Most Americans Carry? The Federal Reserve Bank of New York has reported that household debt in the U.S. reached $17.94 trillion in the third quarter of 2024. Mortgage balances made up the bulk of that debt. Credit card balances accounted for $1.17 trillion. ## Can I Control How Much I Spend on Taxes? Yes. Consider spending a little to have a professional prepare your tax return. They're aware of all large and small tweaks and changes that the Internal Revenue Service (IRS) makes annually. Contributing to a traditional retirement account can also get you a tax break. As for investments, you'll want to hold them for at least one year and one day before selling, because this will mean you'll pay the long-term capital gains tax rate. The long-term rate can be significantly lower than the short-term rate, which is the rate at which all your other income is taxed. You also don't want your gains to push your regular income into a higher tax bracket. ## The Bottom Line There are many considerations when it comes to accumulating $100,000. You'll want to think about your expected time frame, the investment options you have available to you, and the risks you're willing to take. Keeping to a monthly budget\u2014or creating one if you haven\u2019t done so\u2014will help you get on track. Being disciplined in your mindset and sticking to your plan will also be key. The dollars and cents will add up. You might be able to reach your $100,000 goal in as little as six years\u2014which would allow you to move on to saving the next $100,000 that much sooner. Internal Revenue Service. \"Traditional IRAs.\" Internal Revenue Service. \"Publication 590-B (2020), Distributions From Individual Retirement Arrangements (IRAs): Roth IRA.\" ## Related Articles :max_bytes(150000):strip_icc()/gpt-ZoranZeremski-94a18c00fc774e50a14696d9abba1842.jpg) :max_bytes(150000):strip_icc()/Primary-Image-pnc-savings-account-interest-rates-may-2023-7500940-8913bbc96c8d4eedba339644dd45a342.jpg) :max_bytes(150000):strip_icc()/GettyImages-1336264127-3162d483286040a09b21fae09626da27.jpg) :max_bytes(150000):strip_icc()/GettyImages-1337515635-69e66a6608c04d3daf85281d5a9338bc.jpg) :max_bytes(150000):strip_icc()/GettyImages-2150698651-979a702a9f0f4a46b25d742b19d0dabe.jpg) :max_bytes(150000):strip_icc()/GettyImages-1137516790-edb0b2a348464195992446b6ba8b4c4b.jpg) :max_bytes(150000):strip_icc()/GettyImages-1022277562-0e57f32b9d20458bbfdbc14873cce0bf.jpg) :max_bytes(150000):strip_icc()/50s-elenaleonova-a22ed0abaccd4f838b05ddea87a36c98.jpg) :max_bytes(150000):strip_icc()/savings-908628566-0cece5b0fef7406d8b17c747eeeea350.jpg) :max_bytes(150000):strip_icc()/GettyImages-1426365098-4091c88db11c4662b62ec4f322fc3546.jpg) :max_bytes(150000):strip_icc()/04.10.01-GenZAlinaRosanova-2d69e3c6eaaf4736ac3ea245a51fd855.jpg) :max_bytes(150000):strip_icc()/emergencyFund-3a0e7c6265934fefba86315331033760.jpg) :max_bytes(150000):strip_icc()/Service-charge-4189213-FINAL-6fab6812d7ca4f3d9e77387076d623ca.png) :max_bytes(150000):strip_icc()/GettyImages-2233852395-a516f81cbe77429a93e7841e74809c32.jpg) :max_bytes(150000):strip_icc()/GettyImages-1334248624-b33ea64d615443a9ad83ee197a1d9456.jpg) :max_bytes(150000):strip_icc()/best-budgeting-apps-5085405-v1-b4c694003f474ca2bfc6d529604a7f09.png)",
+      "headings": []
+    },
+    {
+      "rank": 11,
+      "domain": "thedeepdish.org",
+      "url": "https://thedeepdish.org/save-100000-age-25/",
+      "title": "How to Save $100k by Age 25, Quit Your Job, and Travel the World",
+      "word_count": 2311,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://thedeepdish.org/wp-content/uploads/2016/09/DSC02522.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://thedeepdish.org/wp-content/uploads/DSC02522-700x400.jpg",
+          "alt": "How to save $100k by age 25 cover image: a pier off the coast of Koh Rong island, Cambodia",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://thedeepdish.org/wp-content/uploads/2016/09/Baby-photo-277x300.jpg",
+          "alt": "The author as an infant.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://thedeepdish.org/wp-content/uploads/2016/09/Jeztext-700x400.jpg",
+          "alt": "Jeremy, drinking whiskey in the bath: \u201cIt\u2019s not pyramid selling, its network marketing and it\u2019s a guaranteed money maker Mark! I\u2019ve seen the, the charts!\u201d",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://thedeepdish.org/wp-content/uploads/2016/09/Screenshot-2016-09-19-at-8.01.48-PM.png",
+          "alt": "Letter from the tax department: Dear Master Meadows, congratulations! You've paid off your student loan.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://thedeepdish.org/wp-content/uploads/booze-cruising-700x400.jpg",
+          "alt": "how to save $100k, travel the world, and never shut the fuck up about it",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://thedeepdish.org/wp-content/uploads/2016/09/Graph-2-font-1.jpg",
+          "alt": "How to save $100k: net worth graph tracking upwards to the goal.",
+          "description": "Data visualization or financial chart graphic.",
+          "type": "graphic_design_data"
+        },
+        {
+          "url": "https://thedeepdish.org/wp-content/uploads/2016/09/Leonardo-meme-smile-and-nod.jpg",
+          "alt": "Smile, nod, agree.. then do whatever you were planning on doing anyway.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://thedeepdish.org/wp-content/uploads/037-6x9-Tablet-Coffee-Wood-Table-COVERVAULT-700x467.jpg",
+          "alt": "Optionality Book available now",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "Every morning I roll out of bed and ask myself, \u2018What should I do today?\u2019 As I write this sentence, I\u2019m looking out over a beautiful beach on an island off the coast of Cambodia. I don\u2019t have a proper job, but my bank balance recently hit six figures. I won\u2019t lie. These factors may have contributed to my general enthusiasm about life. But there\u2019s another reason I sometimes stare into space and smile at nothing (even if anyone in the vicinity thinks I\u2019m a crazy person). For the first time in my life, I have absolute freedom to only pursue the things that interest me. The last two decades have been an uninterrupted freight train of schooling and work, so it\u2019s a pretty surreal feeling. There are moments of pure elation, and even the occasional faint trace of guilt. Did I cheat, somehow? Surely it can\u2019t be this easy? I\u2019m waiting for a giant skyhook to descend from the heavens and hoist me up by the seat of my elephant pants, violently jerking me back into reality. It wasn\u2019t until 2013 that I even twigged this was an option. I\u2019d been working as a business journalist for a couple of years, and one of my responsibilities was researching and writing personal finance features. I\u2019d chosen the topic of \u2018net worth\u2019, which is defined as everything you own, minus everything you owe. Naturally I was curious what my own net worth was, so I did the math. It was a negative number. My savings and other assets were completely wiped out by my debts \u2013 and then some. Finding out you\u2019re worse off now than when you first entered the world as a naked, screaming, hairless maggot is kind of depressing. It wasn\u2019t much consolation knowing most twenty-somethings were in the same boat, especially those with student loans. Unlike them, I made my living lecturing people on how to be good with money. The first penny dropped. I decided it was time to shift up a gear. Around this time I\u2019d also started learning about the \u2018early retirement\u2019 and \u2018financial independence\u2019 movements. It turned out there were cadres of rebels around the world who flat-out rejected consumerism. They laughed mightily at the thought of 40 years of wage slavery, and retired decades earlier than everyone else. I interviewed one of the rebel movement\u2019s unofficial leaders, Pete Adeney , who saved enough cash to quit work at age 30 so he and his wife could spend more time with their boy. Another penny dropped. The money habits of Pete and his peers were some next level shit. Conventional personal finance \u201cwisdom\u201d, like the stuff I\u2019d been dishing out, was that you should aim to save 10 per cent of your after-tax income. These guys saved half their pay, or more \u2013 and they did it in style. How to Win the Jackpot The more I read, the more pennies dropped. Soon they were gushing out like I\u2019d won the jackpot, albeit on the cheapest slot machine in Vegas. This is the bit where I\u2019m meant to plug my guide to red-hot growth stocks, or sign you up to some scammy forex trading course. Sorry to disappoint, but there is no magical way of getting rich. While we\u2019re crushing dreams, Santa\u2019s not real, and Margot Robbie doesn\u2019t know you exist. The true \u2018secret\u2019 is simple: Live on less than you earn. Save and invest the difference, and let compound interest do its thing. I understand if you\u2019re underwhelmed. Most people already know this, at least on some level. It wasn\u2019t until I saw what happens when it\u2019s put into practice that it really blew my socks off. Geeking out with Spreadsheets \u201cWhat gets measured, gets done.\u201d \u2014 ANON Slowly but surely, I reassessed every area of spending. I cut the bloat and wastage. I thought about what was really important to me, and what wasn\u2019t. Things really started humming along after I customised a spreadsheet to track my net worth. Every month I got a little buzz out of seeing the number climb higher and higher. I could also tell if progress was slowing, and give myself a metaphorical kick in the butt as required. (Be sure to check out my post on Net Worth Tracking to learn more, and grab yourself a free copy of my spreadsheet.) Journalism is not known for its lucrative salaries, and I wasn\u2019t exactly earning megabucks. Nevertheless, a shitload of savings poured into my bank account. I needed somewhere to put it, so I started dabbling with investing. After a few initial bumps and scrapes, I figured things out and ended up doing pretty well. My net worth kept growing, into the tens of thousands. Along the way, this happened: In early 2015 I started fantasising about taking an extended break from the 9 to 5, or abandoning it altogether. I loved my job, especially back when the news industry wasn\u2019t as far down the death spiral. But my feet were itching like crazy. I\u2019d been in the same gig for more than four years. I was losing my mojo. All sorts of personal projects were swirling around my head, but there was no time to make them happen. So I made a promise to myself: Once my net worth hit NZ$100,000, I\u2019d quit my job, sell everything I owned, and move overseas. One year later, I was into the ninety thousands. I bought a one-way ticket to Bangkok and handed in my notice at work. I was walking on air by this point, and probably could have saved myself a fare by floating across the Pacific. When the time came to board my flight, the $100,000 target was still frustratingly just out of reach. A dumb investing mistake had finally caught up with me, setting me back a couple of months. I was mildly disappointed, but too excited about starting my adventure to dwell on it. On August 1 2016, I was sitting in a KFC in Phnom Penh, mildly hungover. As the good Colonel\u2019s deep-fried gift to the world worked its restorative magic on my gut, I took advantage of the free WiFi to do my monthly net worth update. The spreadsheet spat out the number $101,227, and I spat out a mouthful of Zinger burger. Halle-fuckin\u2019-lujah! In three-and-a-half years, I\u2019d gone from being penniless to having a net worth of six figures. I stuffed the rest of the burger in my mouth, and relished the taste of grease, mayonnaise and victory. (Note: My savings goal was in New Zealand pesos, the currency of my home country. To reach six figures as denominated in the mighty greenback took me until the ripe old age of 26.) What Do You Want? \u201cA man\u2019s worth is no greater than his ambitions.\u201d \u2014 MARCUS AURELIUS $100,000 is a nice round number, but it\u2019s also completely arbitrary. I only chose it because it would comfortably give me enough cash to achieve my actual, underlying goals. Believe it or not, my aim wasn\u2019t just to lie on a beach drinking cocktails every day and posting obnoxious status updates to Facebook. I can confirm this is incredibly fun, but only for about three days. Down that path lies alcoholism, crushing ennui, and the leather-tanned hide of an elderly rhinoceros. Here\u2019s what $100,000 really bought me: The joys of open-ended travel (OK, including aforementioned cocktails) Helping some friends finance their businesses Being able to pursue projects that I couldn\u2019t when working full time (like this blog) Free time to learn new skills and hobbies, and take existing ones up a notch Whenever I was tempted to splurge, I reminded myself of what I was working towards. Maybe your goal is travel, or saving a house deposit, or starting a business, or something else entirely. It doesn\u2019t matter, as long as it means something to you. The sum of money doesn\u2019t matter either. The exact same principles apply whether you want to know how to save $100k or a cool million. Getting there is only a matter of time and effort \u2013 and it only gets easier. The First $100k is the Hardest\u2026 \u201cThe first $100k is a bitch, but you gotta do it. I don\u2019t care what you have to do\u2014if it means walking everywhere and not eating anything that wasn\u2019t purchased with a coupon, find a way to get your hands on $100,000. After that, you can ease off the gas a little bit.\u201d \u2014 CHARLIE MUNGER The cool thing about money is that once you have enough of it, it starts making more money all by itself. In the first year of saving, I earned some modest investment income. The next year, I was earning interest not only on my savings, but on those earlier returns. And so on. (Check out \u2018 The Beginner\u2019s Guide to Becoming a Badass Investor \u2018 for an animated guide on getting started with investing.) Over longer timeframes, compound interest is crazy powerful. Let\u2019s say my goal was early retirement, and I decided to stay in full time work to maximise my savings. It would only take a little over two years to save the second $100k. The third $100k would come even faster still. Even if I never got a pay rise, I\u2019d be a millionaire in about 13 years. As it happens, at the time of writing I\u2019m only doing a few hours of (paid) work. Nevertheless, my net worth is still growing. To build that sort of momentum takes a fair bit of initial effort. \u2026But it\u2019s Not That Hard \u201cWealth consists not in having great possessions, but in having few wants.\u201d \u2014 EPICTETUS According to the denizens of news website comment sections, anyone living frugally must be a smelly, communist, cheapskate, dumpster-diving hermit. I resent that. I always put on deodorant (to mask the garbage juice smell). Living simply doesn\u2019t mean being some sort of miserable tightwad. My experience was the exact opposite. Once you have the basics of life covered, money doesn\u2019t really correlate with happiness. The best things in life truly are free , or at the very least, dirt-cheap. It doesn\u2019t mean becoming a monk, either. I still spent money on travel, eating out, booze, pizza , concerts, and other such awesome things. I just had to figure out how to cut costs wherever possible, and restrain myself a little. Eating at nice restaurants is a whole lot more fun when it\u2019s a treat, not a normal routine. A little perspective also helps. Anyone reading this is by definition part of the richest and most fortunate cohort in human history. Kings of old couldn\u2019t dream of the technological marvels and healthcare enjoyed by even the poorest among us today. There\u2019s more power in our iPhones than the machines that put man on the moon, but heaven forbid we don\u2019t immediately have the latest model \u2013 you know, the one with the dancing poop emoji . You Do You, I\u2019ll Do Me \u201cDogs bark at what they cannot understand.\u201d \u2014 HERACLITUS Changing money habits takes some elbow grease at first, but once they\u2019re locked in it\u2019s all gravy. The bigger challenge might be dealing with the expectations of other people. It\u2019s tough to explain to your mates that you don\u2019t want to do Expensive Thing XYZ \u2013 not because you\u2019re a fun-hating scrooge, but because you have different goals and priorities to them. Those who are most judgemental are usually the same alleged \u201cadults\u201d who are constantly broke and borrowing money from their mums, despite earning good salaries and having no responsibilities. This is a good opportunity to practice giving zero fucks what other people think of you, which is a useful life skill in general. It helps once you realise the most outspoken critics are slaves to their own impulses, to marketing, and to societal expectations. Their opinions are worth even less than their bank balances. Buying Your Freedom, One Slice At a Time \u201cI would rather sit on a pumpkin and have it all to myself than be crowded on a velvet cushion.\u201d \u2014 HENRY DAVID THOREAU Life is all about trade-offs. Frugal people choose to accept fewer possessions and luxuries in exchange for more freedom and time. Here\u2019s an example. Would you rather buy a flash new car for $25,000, or an ugly but reliable second hand one for $5000? To me, the answer is screamingly obvious. Saving and investing that extra $20,000 would give you an extra quarter of a million bucks by retirement. Alternatively, you could buy a couple of years of freedom right now to start a business, travel, or learn a new skill. Someone with different values might prefer having a cool car. As long as they\u2019ve made an informed choice, all power to them. I worry that people don\u2019t consciously make that choice. I didn\u2019t even know there was one. My careers counsellor forgot to mention I could retire young, if I just rejected the bullshit \u2018keeping up with the Jones\u2019 mentality. No-one told me there was an alternative to 40 years of wage slavery, a crippling mortgage, and a big house filled with junk. I\u2019m not trying to tell anyone how to live, but I do feel compelled to share my own experience. My eyes were opened by people brave enough to strip down to their financial underwear in public, and I\u2019m forever grateful to them. This is my attempt to pay it forward. If you made it to the end of this epic screed, you may be somewhat aggrieved that it didn\u2019t contain any specific tips for actually, you know, saving money. Sorry about that! This post was already pretty long, so I\u2019ve put together another one explaining how to slash every single category of spending . Not Sure What the Future Holds? Get Your Copy of Optionality Now.",
+      "headings": []
+    },
+    {
+      "rank": 12,
+      "domain": "capitaladvisorynh.com",
+      "url": "https://www.capitaladvisorynh.com/blog/how-to-save-100k-in-3-years",
+      "title": "How to save 100k in 3 years - Financial Planners Concord NH",
+      "word_count": 297,
+      "scrape_status": "tavily_fallback",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": "Click here to learn more about our financial professionals by visiting FINRA's BrokerCheck. 57 School Street, Fl. 2, Concord, NH 03301 Client Login # How to save 100k in 3 years Jack Yvars, AIF\u00ae January 20, 2023 Saving $100,000 in three years is a significant goal that will require careful planning and consistent effort. Here are a few steps you can take to reach this goal: 1. Set a budget: The first step to saving $100,000 in three years is to create a budget that includes a line item for savings. Determine how much money you have coming in each month and how much you are spending, and look for areas where you can cut costs or make more informed spending decisions. 2. Increase your income: Consider ways to increase your income, such as taking on a side hustle or negotiating for a raise at work. This can help you have more money to put towards saving. 3. Save automatically: Set up automatic savings through your employer or bank to have a set amount of money transferred to your savings account each month. This can help you save consistently and reach your goal more quickly. 4. Cut unnecessary expenses: Look for areas where you are spending money unnecessarily and consider cutting back. This might involve cancelling subscriptions, eating out less, or finding cheaper alternatives for certain expenses. 5. Invest wisely: If you have a long time horizon, consider investing some of your savings in order to potentially grow your money over time. However, be sure to carefully research your investment options and consider your risk tolerance before making any investment decisions. Remember to be patient and consistent with your saving efforts. It may take time to reach your goal, but by following a budget, increasing your income,",
+      "headings": []
+    },
+    {
+      "rank": 13,
+      "domain": "quora.com",
+      "url": "https://www.quora.com/People-under-30-who-already-managed-to-save-100k-how-did-you-do-it",
+      "title": "People under 30 who already managed to save 100k, how did you ...",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 14,
+      "domain": "youtube.com",
+      "url": "https://www.youtube.com/watch?v=F7PFXK0gDZI",
+      "title": "How I Saved $100k In 3 Years (Step By Step) - YouTube",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 15,
+      "domain": "moneysense.ca",
+      "url": "https://www.moneysense.ca/columns/moneyflex/how-to-save-and-invest-your-first-100000/",
+      "title": "How to save (and invest) your first $100,000 - MoneySense",
+      "word_count": 56,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.moneysense.ca/wp-content/uploads/2024/03/how-to-save-your-first-100000-in-Canada.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.moneysense.ca/wp-content/uploads/2024/03/how-to-save-your-first-100000-in-Canada-900x550.jpg",
+          "alt": "A bunch of $100 bills, showing the savings (and investment) of $100,000",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.moneysense.ca/wp-content/uploads/2021/11/EQBank-400x400-1.png",
+          "alt": "product logo",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.moneysense.ca/wp-content/uploads/2023/11/Oaken-Financial.webp",
+          "alt": "product logo",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.moneysense.ca/wp-content/uploads/2023/01/Simplii-Logo-1x1-002.png",
+          "alt": "product logo",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.moneysense.ca/wp-content/themes/moneysense-2019/assets/images/pause-icon.svg",
+          "alt": "Outstream Pause Icon",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.moneysense.ca/wp-content/themes/moneysense-2019/assets/images/volume-off-icon.svg",
+          "alt": "Outstream Volume Icon",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.moneysense.ca/wp-content/uploads/2024/03/alicia-tyler-150x150.jpg",
+          "alt": "About Alicia Tyler",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/b407966fac6c1ecac9c2e57709158571d713127206d1165f7ed1c0729b3c67b8?s=75&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/00d46d879214aaf9968be13dc2b3f6c10d61818b76db3cbbad37d269c2bb5d31?s=75&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "Advertisement MoneyFlex By Alicia Tyler on March 27, 2024 Estimated reading time: 10 minutes How to save (and invest) your first $100,000 By Alicia Tyler on March 27, 2024 Estimated reading time: 10 minutes Saving and investing $100,000 is a popular finance goal for Canadians. Thankfully, with growth and compound interest, it\u2019s not out of reach.",
+      "headings": []
+    },
+    {
+      "rank": 16,
+      "domain": "millerwm.com",
+      "url": "https://www.millerwm.com/blog/how-to-save-your-first-100000",
+      "title": "How to Save Your First $100000 - Miller Wealth Management",
+      "word_count": 2211,
+      "scrape_status": "tavily_fallback",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": "# How to Save Your First $100,000 Financial stability and planning can help you pay unexpected bills, fund your retirement, and maintain a desired lifestyle. Financial goals can help you look toward the future and keep your saving efforts in check. The more money you save, either from reduced expenses or increased income, the faster you can move toward accumulating your first $100,000 for any goal you may have in mind. Key Takeaways The Right Mindset Saving a large amount of money is a long-term goal that requires discipline. You may want to stash away $100,000 for one or more of several reasons but you have to train your mind to get there. Keeping your particular goal in mind can help but you should also understand how to achieve your goal with a plan. If you're the kind of person who rarely budgets or takes note of expenses, now would be the time to start. Budgeting will help your mindset. Build a budget that's geared toward achieving your goal. Keep in mind that little things can add up. Reducing that daily Starbucks habit or taking public transportation to work instead of driving a few days a week will provide you with extra funds to be saved. Orienting your mind and budget will help you discover ways that can potentially create a lot of extra funds. The going will be smoother if you understand that these are minor sacrifices on the path toward your goal. Keep Costs Low The things you spend money on make up a major part of your budget. There are always things you can do to keep your costs down. Consider some of these options: - Making more home dinners - Walking short distances when possible rather than taking the car - Taking your kids to the park or zoo rather than to the local mall - Buying your groceries in bulk for the month rather than making small purchases frequently - Giving up smoking or other costly habits - Taking your lunch to work - Using your car until it can't be used anymore - Buying or renting a less expensive home Moving to a smaller house or driving a more economical car can make all the difference for some people. Move smaller to save if you're renting a large place. Build a home gym if your fitness expenses are high. Becoming more energy-conscious can also help. Recycle and reuse items as much as possible before buying new ones. Use alternative energy to light and heat your home. Downsizing on a large scale can create hundreds or even thousands of dollars you can put toward your savings goals while still living comfortably. Reduce Your Interest Burden Reducing your interest burden is another powerful way to lower your expenses and make more money available for savings. Many people want it all: the home, car, garage, home theater system, dishwasher, and double-door fridge. It can be possible with a few easy keystrokes online but instant gratification often comes with a hefty price tag that can take years to repay. Prioritizing debt and reducing it is the first critical step to saving. Make it a priority to pay your student loan debt off before you up your lifestyle if you're just out of college or graduate school. Take a look at all your loans and calculate how long it will take you to whittle them down. Think of using that work bonus, tax refund, or an earned dividend to prepay debts and reduce your interest burden. Talk to your credit card lender and try to negotiate a lower interest rate if you have a lot of credit card debt. Check on debt transfer offers that can come with 0% introductory rates. You might be able to get a debt consolidation loan with one monthly payment and a low interest rate if you have money steadily flowing in and you've kept your credit score up. Make sure your return exceeds your interest payments if you're taking out a new loan for an investment. You might also want to look into margin accounts that can help you invest more with higher returns. Invest in Savvy Vehicles and Products You'll want to make sure those funds are invested efficiently when you've found a few ways to save a little more and you've made a budgeting commitment to how much you plan to save. Working with a financial professional or delving deeper into resources that help you do the investing yourself can be a good idea. Save on Taxes Tax shelters can be right under your nose in the form of your employer's benefit offerings. Benefit plans include all kinds of options with many offering tax advantages. The traditional 401k allows you to invest pre-tax dollars so you'll eventually pay your tax rate on that money in retirement rather than your current rate which may be significantly higher.1 Other tax-sheltered options can include a traditional individual retirement account (IRA) or municipal bonds. *Fast Fact: You can withdraw your contributions penalty- and tax-free at any time with a Roth IRA but You may be subject to penalties and taxes if the distribution isn't qualified and you touchyour earnings.2* Manage Your Risks Risk will undoubtedly be a factor in your trek to save $100,000. High-risk investments should bring in higher returns but risk/reward can also be key. Up-and-coming penny stocks, initial public offerings (IPOs), and trending sectors like technology can pay off big in short amounts of time. High-grade corporate bonds can bring in some steady and hearty returns. Know the Math Mapping out the present value and future value of your money will be helpful in the process of budgeting and building a financial plan. Maximize Other Employee Benefits Make full use of matching contributions if your employer offers them. Take advantage of the free money. These funds can be added to your tax-sheltered 401k for an even greater benefit. Avail yourself of any other benefits your employer may provide as well, such as special discounts at stores, museums, and health clubs. Use a health savings account if one is available to save a little on health care costs. If your employer provides assistance for skill upgrading or \"back to school\" programs, take advantage of these discounted opportunities as well. Create Short-Term Saving Goals The path to $100,000 can be somewhat overwhelming so making and meeting short-term goals can be very helpful to your morale and mindset. Break your long-term saving goals into short-term goals to stay motivated. The owner of a dry cleaning service decided they would take some small change every day and put it into their child's college fund. They started when the child was five years old and continued until they reached 18. Setting aside a little change didn't hinder their business or day- to-day life but it did mean that they had a tidy sum saved by the time the child was ready to go to college. Consider the math. Knowing that saving $1,000 per month can get you to $100,000 in six years can be very motivating and motivation can help you stick to your budget and skip buying that new BMW. Generate Additional Income Income is the other key component of your personal budget. Finding ways to generate more revenue will also help you reach that $100,000 goal faster. Do you sew, pursue some other craft, or teach? These are some hobbies that can help you raise some extra money. You can tutor children for a few hours a week or sell your crafts at the weekend market or online. You might also seek out freelance projects or handy work. Don't let any of your skills or talents go to waste. Your spare time can also be very valuable. It can help you earn some more money that you can put toward your $100,000 goal. What Do Americans Spend the Most Money on? The U.S. Bureau of Labor Statistics has reported that housing was the most significant expense for consumers in 2022, the last full year for which statistics are available. Housing was followed by transportation, then food, personal insurance and pensions, and finally healthcare.3 How Much Debt Do Most Americans Carry? The Federal Reserve Bank of New York has reported that household debt in the U.S. had reached $17.29 trillion in the third quarter of 2023. Mortgage balances made up the bulk of that debt. Credit card balances accounted for $1.08 trillion.4 Can I Control How Much I Spend on Taxes? The obvious answer is to spend a little to have a professional prepare your tax return. They're aware of all large and small tweaks and changes that are made by the IRS annually and they can use them to your best advantage. Contributing to retirement savings can result in a few tax breaks. As for investments, you'll want to hold them for at least one year and one day before selling because this will let you pay the long-term capital gains tax rate on your profits. The long-term rate can be significantly kinder than the short-term rate, which is the rate at which all your other income is taxed. You don't want your gains to push your regular income into a higher bracket.5 The Bottom Line There are many considerations when it comes to accumulating $100,000. You'll want to think about your expected time frame, the investment options you have available to you, and the risks you're willing to take. Objectively looking at your monthly budget or creating one if you haven't done so already will help you get on track. Being disciplined in your mindset and sticking to your plan will also be key. The dollars and cents will add up. Many people can realistically reach a $100,000 goal in as short as six years, allowing them to move on to saving the next $100,000 much sooner. Article Sources Investopedia requires writers to use primary sources to support their work. These include white papers, government data, original reporting, and interviews with industry experts. We also reference original research from other reputable publishers where appropriate. You can learn more about the standards we follow in producing accurate, unbiased content in our editorial policy. 1. Internal Revenue Service. \"Traditional IRAs.\" 2. Internal Revenue Service. \"Publication 590-B (2020), Distributions From Individual Retirement Arrangements (IRAs): Roth IRA.\" 3. U.S. Bureau of Labor Statistics. \"Consumer Expenditures\u20142022.\" 4. The Federal Reserve Bank of New York. \"Household Debt and Credit Report (Q3 2023).\" 5. Internal Revenue Service. \"Topic No. 409, Capital Gains and Losses.\" #### Contact Office: (760) 856-4428 Office: (480) 613-7400 Toll-Free: (855) 760-4800 Fax: (800) 223-6881 CA Insurance #0G90505 #### Quick Links LPL Financial Form CRS Check the background of your financial professional on FINRA's BrokerCheck. The content is developed from sources believed to be providing accurate information. The information in this material is not intended as tax or legal advice. Please consult legal or tax professionals for specific information regarding your individual situation. Some of this material was developed and produced by FMG Suite to provide information on a topic that may be of interest. FMG Suite is not affiliated with the named representative, broker - dealer, state - or SEC - registered investment advisory firm. The opinions expressed and material provided are for general information, and should not be considered a solicitation for the purchase or sale of any security. We take protecting your data and privacy very seriously. As of January 1, 2020 the California Consumer Privacy Act (CCPA) suggests the following link as an extra measure to safeguard your data: Do not sell my personal information. Copyright 2026 FMG Suite. Rodd R. Miller, CFP\u00ae (CA Insurance #0G90505) is a financial advisor and registered principal with and securities offered through LPL Financial, Member FINRA/SIPC. Investment advice offered through Miller Wealth Management, a DBA of Golden State Wealth Management, LLC. Golden State Wealth Management, LLC is a Registered Investment Advisor with the U.S. Securities and Exchange Commission. Registration as an investment adviser does not imply a particular level of skill or training. Miller Wealth Management is a separate entity from LPL Financial. Miller Wealth Management may provide services only in states in which it is registered and/or exempt. The LPL Financial registered representative(s) associated with this website may discuss and/or transact business only with residents of the states in which they are properly registered or licensed. No offers may be made or accepted from any resident of any other state. Rodd R. Miller, CFP\u00ae (CA Insurance #0G90505) is a financial advisor and registered principal with and securities offered through LPL Financial, Member FINRA/SIPC. Investment advice offered through Miller Wealth Management, a DBA of Golden State Wealth Management, LLC. Golden State Wealth Management, LLC is a Registered Investment Advisor with the U.S. Securities and Exchange Commission. Registration as an investment adviser does not imply a particular level of skill or training. Miller Wealth Management is a separate entity from LPL Financial. Miller Wealth Management may provide services only in states in which it is registered and/or exempt. The LPL Financial registered representative(s) associated with this website may discuss and/or transact business only with residents of the states in which they are properly registered or licensed. No offers may be made or accepted from any resident of any other state.",
+      "headings": []
+    },
+    {
+      "rank": 17,
+      "domain": "youtube.com",
+      "url": "https://www.youtube.com/watch?v=A6nF1RFxwHs",
+      "title": "How to Save $100,000 Cash in 3 Years - YouTube",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 18,
+      "domain": "clevergirlfinance.com",
+      "url": "https://www.clevergirlfinance.com/how-i-saved-100k/",
+      "title": "How To Save $100K: I Did It In 3 Years | Clever Girl Finance",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.clevergirlfinance.com/wp-content/uploads/2018/08/BolaSokunbi.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.clevergirlfinance.com/wp-content/uploads/2018/08/BolaSokunbi-1024x683.jpg",
+          "alt": "How to save 100k",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.clevergirlfinance.com/wp-content/uploads/2026/01/CGM-scaled.png",
+          "alt": "Clever Girl Millionaire",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.clevergirlfinance.com/wp-content/uploads/2017/11/How-to-save-100k.jpg",
+          "alt": "How to save $100k",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.clevergirlfinance.com/wp-content/uploads/2026/04/Four-pillars-of-wealth-768x512.jpeg",
+          "alt": "Four pillars of wealth",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.clevergirlfinance.com/wp-content/uploads/2026/04/What-to-do-when-you-start-a-new-job-768x513.jpeg",
+          "alt": "What to do when you start a new job",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.clevergirlfinance.com/wp-content/uploads/2026/04/Cash-envelope-system-article-768x512.jpeg",
+          "alt": "Cash envelope system",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.clevergirlfinance.com/wp-content/uploads/2026/04/Passive-real-estate-income-mistakes-768x512.jpeg",
+          "alt": "Passive real estate income mistakes",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 19,
+      "domain": "wallethub.com",
+      "url": "https://wallethub.com/answers/b/how-to-save-100k-in-a-year-1000666-2140885009/",
+      "title": "How can I save $100k in a year? - WalletHub",
+      "word_count": 2626,
+      "scrape_status": "tavily_fallback",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": "# How can I save $100k in a year? This question is about How to Make a Budget see this user ## Milvionne Chery Copeland, Writer @milvionne\\_copeland \u2022 06/13/25 You can save $100k in a year by removing any non-essential items from your budget, selling things like clothes and jewelry you don\u2019t need, and increasing your income to have more money to save. You can also use a high-yield savings account to grow your money faster and comparison shop for everything to get better deals. Saving $1,00,000 in a year equates to saving $8,333 a month. Saving that amount of money in a year won\u2019t be easy for most people to do, since the median annual income for households in the U.S. is about $102,000. If your salary is around $100,000 per year or less, you\u2019ll probably also need to consider options like investing in the stock market or finding other ways to earn passive income if you want to save $1,00,000 in a year. ## How to Save $1,00,000 in a Year ### 1. Invest in the Stock Market You can make your money grow even faster by investing in the stock market rather than in a traditional savings account. In fact, the average rate of return for investing in the stock market is about 10%, while it is roughly 0.29% historically for a savings account. However, earning money with stocks is not always guaranteed since there is a risk of your money losing value if the market declines. ### 2. Explore Ways to Earn Passive Income Passive income is money you can earn without much effort after the initial setup or investment. Some examples of how you can earn passive income include renting out an apartment that you own to earn rental income or getting dividends from stocks you purchased. These types of things help you augment your standard paycheck and gain a lot of ground toward your savings goal. ### 3. Cook at Home The average household spends around $270 a month eating meals at restaurants, according to the U.S. Bureau of Labor Statistics. A meal at a restaurant can be much more expensive than one you make yourself, especially when you factor in the tip and the gas you will spend to get you to the restaurant. You can save some of that money by deciding to cook at home rather than dine out. ### 4. Use Coupons Wherever You Can Coupons can save you an average of $5 to $10 a week, according to Experian. That\u2019s $5 to $10 more a week you can put toward your savings goal. You can get coupons for things like groceries, clothes, activities and electronics directly from retailers by mail, via email, or on their website. You may also be able to get coupons through third-party sites like coupons.com. ### 5. Cancel Subscriptions You Don\u2019t Need Self Financial, Inc reports that the average consumer spends nearly $400 a year on unused subscriptions. Getting rid of subscriptions that you don\u2019t use or want frees up more money that you can contribute to savings. ### 6. Compare Prices for Everything You should compare prices for different products and services to ensure you are always getting the best deal and are not spending more than you need to. You can put the money you save on these expenses toward your overall goal. ### 7. Cut Out Bad Habits That Cost You Money Avoiding spending money on alcohol, smoking products, sweets, soda, or any other unhealthy habits can save you a lot of money. For instance, WalletHub found that people can save thousands of dollars every year if they didn\u2019t buy cigarettes. ### 8. Negotiate Your Bill With Service Providers Negotiate with companies like your phone, cable, or internet provider to see if they are willing to offer you a lower price or match the price of a cheaper competitor to keep you as a customer. The more you can save on your bills, the more money you will have for your savings goal. ### 9. Try to Get Fees or Interest Waived on Your Credit Card Try contacting your credit card company to see if there are ways to improve your credit card terms, such as lowering your interest rate, waving certain fees, or settling debt you have with them for a lower amount than you owe, for instance. A WalletHub survey found that 77% of people have been successful in getting their credit card company to improve their terms in order to keep them as a customer. ### 10. Sell Items You No Longer Need You can turn your unwanted stuff, such as designer clothes, accessories or electronics, into cash by selling them on platforms such as Facebook Marketplace, eBay, and Poshmark. The money you get from selling these items can bring you closer to accomplishing your savings goal. ### 11. Transfer Money to Your Savings Every Time You Get Paid Set up automatic recurring transfers from your checking account to your savings account every time you get paid. This is referred to as pay-yourself first budgeting, and it allows you to set aside money for savings before you get the chance to spend it. ### 12. Have Your Employer Deposit a Portion of Your Paycheck Into Savings Depending on your employer, you may be able to set up a split deposit. A split deposit lets your employer deposit a portion of your paycheck directly into your savings account and the rest into your checking. This can help ensure you are contributing to your savings goal. ### 13. Use a Budget App to Find More Ways to Save Money Budget apps, like the WalletHub app, can make it easy to analyze your expenses since you can sync your financial accounts to have your transactions automatically tracked and see all your expenses in one place. This makes it more efficient to find areas where you can cut back on spending instead of searching through multiple bank and credit card statements. You can also use the budget app to track your progress toward the savings goal. ### 14. Do a No-Buy Year Committing to a no-buy year can help you reach your $1,00,000 savings goal. A no-buy year is a variation of the no-spend challenge, and it is when you pledge not to spend money on anything that is not an essential expense for a whole year. ### 15. Use a High-Yield Savings Account Instead of putting your savings in a checking account or a traditional savings account, put your money in a high-yield savings account to grow your savings faster. The best high-yield savings accounts can offer interest rates up to 5% or higher. ### 16. Open a Bank Account or Credit Card to Earn a Bonus Some banks may offer you a bonus when you open a bank account with them and deposit a certain amount of money. Similarly, some credit cards offer bonus rewards for spending a certain amount of money within a specific timeframe after opening an account. For example, you could get $200 cash rewards for spending $500 in the first three months, or $600 for spending $3,000 in 3 months. Taking advantage of these deals can help you make quick progress toward your overall savings goal. ### 17. Reduce How Much You Pay in Interest If you have a lot of debt, especially high-interest debt, it can be difficult to optimize your savings since you are spending a lot of money on interest. When you come up with a plan to pay off your debts faster, you can reduce how much you pay in interest overall, which could potentially save you hundreds or thousands of dollars per year. For example, using a balance transfer credit card or a debt consolidation loan can lower or even eliminate the interest you are currently paying so you can get out of debt faster. As you pay off your debt, you can divert the money you were using for debt payments to your savings. ### 18. Maximize Employer Benefits Take advantage of your employer\u2019s 401(k) match, if they offer one. With this benefit, your employer will match your contributions to your 401(k), up to a certain amount. That\u2019s an easy way to get free money to grow your savings faster without much effort. Your employer may also offer you a health savings account that can help you save money on health care, plus perks like employee discounts on products and services from various businesses. ### 19. Deposit Unexpected Windfalls Into Savings Windfalls can include raises or bonuses that you get from work, inheritance money, your tax refund, and cash gifts from friends and relatives. Saving these windfalls instead of spending them can give your savings a boost and get you closer to your savings goal. ### 20. Work Overtime If you are eligible for overtime, your employer must pay you at least 1.5 times the amount of your hourly pay rate. You can then use the extra income you\u2019ve earned for your savings goal. ### 21. Get a Side Gig Working a side gig, such as pet sitting, making deliveries, or freelancing, can supplement your current income and give you more money that you can put toward savings. ### 22. Ask for a Raise Trying to save $1,00,000 in a year is a lot. It may not even be feasible with your current income. If your income is too low to allow you to save $1,00,000 in a year, you may want to consider asking your current employer for a raise. A pay raise can give your savings an extra boost. ### 23. Switch to a Job With Higher Pay If your current employer is not willing to give you a raise, or you don\u2019t have the time to work overtime or get a side gig, you may want to consider switching to a job with higher pay. A higher salary means you can increase how much you set aside for savings every month. Of course, this is much easier said than done. ## How to Increase Your Chances of Saving $1,00,000 in a Year ### Decide What You Want to Use the Money For Determining what you want to use the money for can motivate you to keep saving so you can reach your goal. For example, knowing that you want to save $1,00,000 so you can move out on your own or buy a new car will make it more likely that you will save your money instead of spending it. ### Break Your Goal Into Smaller, More Manageable Objectives Saving $1,00,000 in a year might seem impossible, but if you break the savings goal into smaller, more manageable steps, it may be easier to deal with. For example, you can save $8,333 a month or $3,846 every two weeks. ### Give Yourself an Incentive to Save Reward yourself for making progress toward your goals. For example, you could decide to treat yourself with a baked good from your favorite caf\u00e9 when you have saved 25% of your $1,00,000 savings goal. A small reward can encourage you to keep saving until you reach your final goal. ### Use a Budget to Optimize Your Savings A budget allows you to plan out how you will allocate your income among your expenses and lets you see how much you have left over to save after paying your bills. A budget can also help you figure out how to save more money by identifying non-essential areas where you can cut back on spending. You should add your goal of saving $1,00,000 in a year to your budget, so you can make sure you are allocating money to that goal every month. For more tips, check out WalletHub\u2019s guide on how to save money. ## People also ask ## How Much Should I Save Each Month? You should save at least 20% of your income each month, according to many financial experts. This number also aligns with the popular 50/30/20 rule, which requires you to put 20% of your income toward savings, while 50% goes to your necessary expenses and 30% is used for discretionary spending. Saving 20% may not work for everyone. In fact, the current savings rate in the U.S. is 4.6%, according to the latest data from the... ## How can I save $5,000 in 3 months? To save $5,000 in 3 months, you can do things like make a budget to find areas to reduce spending and sell possessions you no longer need. You can also try the 100-envelope challenge, which requires you to pick one envelope daily from a stack of envelopes labeled 1 to 100, then fill it with the amount of money labeled on the envelope. This challenge can help you save a little more than $5,000 in... ## Why can't I save money? You may not be able to save money because your income is low compared to your cost of living or you have a lot of debt, too much discretionary spending, and no plan for emergencies. In addition, you may lack the incentive to save if you don\u2019t create a budget or set measurable savings goals. In some cases, you may just need to prioritize saving more than you have been. Below, we break down... Did we answer your question? Sorry! How can we improve this answer? ### Important Disclosures Ad Disclosure: Certain offers that appear on this site originate from paying advertisers. For full transparency, here is a list of our current advertisers. Advertisers compensate WalletHub when you click on a link, or your application is approved, or your account is opened. Advertising impacts how and where offers appear on this site (including, for example, the order in which they appear and their prevalence). At WalletHub we try to present a wide array of offers, but our offers do not represent all financial services companies or products. Advertising enables WalletHub to provide you proprietary tools, services, and content at no charge. Advertising does not impact WalletHub's editorial content including our best picks, reviews, ratings and opinions. Those are completely independent and not provided, commissioned, or endorsed by any company, as our editors follow a strict editorial policy. ### Ask a Question ### Related Content ### WalletHub Transparency We are committed to being fully transparent with our readers. Opinions expressed here are the author\u2019s and/or WalletHub editors'. WalletHub editorial content on this page is not provided, commissioned, reviewed, approved or otherwise endorsed by any company. In addition, it is not any company\u2019s responsibility to ensure all questions are answered. ### Related Categories ### Best Offers ### Free Credit Data ### Popular Content ### Important Disclosures Ad Disclosure: Certain offers that appear on this site originate from paying advertisers. For full transparency, here is a list of our current advertisers. Advertisers compensate WalletHub when you click on a link, or your application is approved, or your account is opened. Advertising impacts how and where offers appear on this site (including, for example, the order in which they appear and their prevalence). At WalletHub we try to present a wide array of offers, but our offers do not represent all financial services companies or products. Advertising enables WalletHub to provide you proprietary tools, services, and content at no charge. Advertising does not impact WalletHub's editorial content including our best picks, reviews, ratings and opinions. Those are completely independent and not provided, commissioned, or endorsed by any company, as our editors follow a strict editorial policy. ### Join WalletHub + 100% FREE + Unlimited Credit Reports + Unlimited Credit Scores + Credit Monitoring Protection + Credit Improvement Tips + Automatically Finds Savings No credit card needed Enter your cell phone number and we\u2019ll send you a link to install the WalletHub app.",
+      "headings": []
+    }
+  ],
+  "battle_plan_generated_at": "2026-04-26T10:44:30.754995+00:00",
+  "competitors_analyzed_count": 3,
+  "battle_plan_method": "local_deterministic_agent_no_api"
+}

@@ -1,0 +1,745 @@
+{
+  "article_context": {
+    "angle": "Psychological barriers to using savings",
+    "pain_points": [
+      "Money disappears despite tracking income",
+      "Fear of touching savings and moving goalposts",
+      "Savings anxiety and 'what-if' scenarios",
+      "Emergency fund depletion and fear of insufficiency",
+      "The more you save, the more you feel 'it's not enough'"
+    ],
+    "top_social_questions": [
+      "Why am I still broke even after tracking every dollar?",
+      "How can I stop being afraid to use my savings?",
+      "How can I manage savings anxiety and endless 'what-if' scenarios?"
+    ],
+    "dominant_emotion": "Fear / Anxiety",
+    "serp_intent": "Searchers using 'how to save money for a house' seek actionable strategies, budgeting techniques, and financial planning tips to accumulate funds specifically for a home purchase, often focusing on down payments and long-term saving goals. The SERP intent is informational, featuring guides on cutting expenses, increasing income, and choosing suitable savings vehicles to build a house fund efficiently.",
+    "serp_title_pool": {
+      "primary": [
+        "How are you all saving for a house (USA)? : r/personalfinance - Reddit",
+        "How To Save Money For A House",
+        "Where To Put Your Money While You're Saving for a House - CNBC",
+        "How to Save for a House: 5 Tips to Build Your Down Payment Faster",
+        "How to save for a house: A complete guide - Rocket Mortgage",
+        "10 Tips on How to Save Money for a House",
+        "How to save for a house or down payment - Fidelity Investments",
+        "6 Tips for Saving for Your Down Payment",
+        "How to Save Enough Money to Buy a House in 2025 | Quicken",
+        "How To Save Up For A House Down Payment | Clever Girl Finance",
+        "How to Save Money When Buying a House | Mortgage - Chase Bank",
+        "What is the best way to save for a house? - Guaranteed Rate",
+        "How to Save for a House in 2026 - WSJ",
+        "How To Save For A Down Payment | Bankrate",
+        "10 Effective Tips to Save Money for a House - Sistar Mortgage",
+        "13 Money-Saving Tips to Help You Buy a House for Less - HomeLight",
+        "9 Simple Ways to Save for a Home Fast - Wealthtender",
+        "Saving for Your First House - Nationwide",
+        "How to Save for a House | PNC Insights",
+        "How to Save Money For A House FAST (7 Downpayment ... - YouTube"
+      ],
+      "long_tail": [
+        "Where should I put the cash I'm saving to purchase a home? - Reddit",
+        "How to save for a house or down payment - Fidelity Investments",
+        "How To Save Money For A House",
+        "Where To Put Your Money While You're Saving for a House - CNBC",
+        "How to Save for a House: A Step-by-Step Guide - NerdWallet",
+        "Where Should I Park My Savings For A House? - YouTube",
+        "How To Save for a House: A Step-by-Step Guide - Investopedia",
+        "How to Save for a House in 2026 - WSJ",
+        "Saving to buy a house? Here's where you should park your down ...",
+        "How to Save for a House - Citizens Bank"
+      ],
+      "question": [
+        "Best way to save for a house? : r/FinancialPlanning - Reddit",
+        "6 Things to Know When Saving for a House - TD Bank",
+        "How to save for a house or down payment - Fidelity Investments",
+        "How To Save Money For A House",
+        "10 Tips on How to Save Money for a House",
+        "15 Smart Ways to Save for a House in 2026: Your Complete Down ...",
+        "How to Save Enough Money to Buy a House in 2025 | Quicken",
+        "How to Save for a House - Citizens Bank",
+        "Saving for Your First House - Nationwide",
+        "How To Save For A Down Payment | Bankrate"
+      ]
+    },
+    "paa_questions": [
+      {
+        "q": "What is the fastest way to save up for a house?",
+        "a": "HERE ARE SOME WAYS YOU ACCELERATE SAVING UP FOR A HOUSE:"
+      },
+      {
+        "q": "Can I buy a house with $10,000 in savings?",
+        "a": "Minimum down payments for each type of mortgage Your $10K in savings, DPA grants, or loans could easily get you a nice home in most parts of the United States. For example, a Fannie or Freddie loan requires only a 3% down payment. So, with one of those, you could get a $330,000 home."
+      }
+    ],
+    "related_searches": [
+      "How to save money for a house reddit",
+      "How to save money for a house while renting",
+      "How to save money for a house on a low income",
+      "How to save for a house in 2 years",
+      "How to save money for a house fast",
+      "How to save for a house calculator",
+      "How to save for a house in 5 years",
+      "How to save for a house in a year"
+    ]
+  },
+  "primary_keyword": "how to save money for a house",
+  "competitors": [
+    {
+      "rank": 1,
+      "domain": "reddit.com",
+      "url": "https://www.reddit.com/r/personalfinance/comments/16h38w6/how_are_you_all_saving_for_a_house_usa/",
+      "title": "How are you all saving for a house (USA)? : r/personalfinance - Reddit",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 2,
+      "domain": "cusocal.org",
+      "url": "https://www.cusocal.org/resources/blog/how-to-save-money-for-a-house/",
+      "title": "How To Save Money For A House",
+      "word_count": 0,
+      "scrape_status": "failed",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 3,
+      "domain": "cnbc.com",
+      "url": "https://www.cnbc.com/select/where-to-put-your-money-to-save-for-a-house/",
+      "title": "Where To Put Your Money While You're Saving for a House - CNBC",
+      "word_count": 1705,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://image.cnbcfm.com/api/v1/image/106860803-1617026959097-gettyimages-1195221768-026a8946.jpeg?v=1617027085&w=1920&h=1080",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://fm.cnbc.com/applications/cnbc.com/resources/product_select/2025/09/04/Quickbooks.png",
+          "alt": "QuickBooks",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://fm.cnbc.com/applications/cnbc.com/resources/product_select/2026/03/13/Taxslayer.png",
+          "alt": "TaxSlayer",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://fm.cnbc.com/applications/cnbc.com/resources/product_select/2025/04/16/monarch.png",
+          "alt": "Monarch",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://fm.cnbc.com/applications/cnbc.com/resources/product_select/2024/12/16/Bluevine_logo.png",
+          "alt": "Bluevine",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://fm.cnbc.com/applications/cnbc.com/resources/product_select/2025/11/06/thumbnail_SBG-Logo_RBG-01.png",
+          "alt": "SBG Funding",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106021880-156329347559920190625-img_9901.jpg?v=1563293522&w=60&h=60&ffmt=webp",
+          "alt": "By Elizabeth Gravier, Editor, CNBC Select",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/108252468-1768412167455-dan_avery.jpeg?v=1768412206&w=60&h=60&ffmt=webp",
+          "alt": "By Dan Avery, Updates editor, CNBC Select",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://fm.cnbc.com/applications/cnbc.com/resources/product_select/2023/07/13/bread_savings_logo.png",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://fm.cnbc.com/applications/cnbc.com/resources/product_select/2023/07/13/marcus_by_goldman_sachs_logo.png",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://static-redesign.cnbcfm.com/dist/820decf04f42f75fecf4.svg",
+          "alt": "arrow down",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://fm.cnbc.com/applications/cnbc.com/resources/product_select/2026/01/13/mailchimplogo.png",
+          "alt": "Mailchimp",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://fm.cnbc.com/applications/cnbc.com/resources/product_select/2025/07/01/Empower_logo.png",
+          "alt": "Empower",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "Our top picks of timely offers from our partners Saving for a home is one of the biggest \u2014 and hardest \u2014 financial steps many people will take. Nationwide, the average down payment is $64,000, according to December 2025 data from Redfin . And while that's down from $70,000 in 2024, it's still a lot to sock away. Beyond how much you'll need and how to get it, it's important to figure out how long it will take and where to put your money while you work toward your goal. Saving for a mortgage How much you need to buy a house How long does it take to save for a house? Where to put money you're saving for a house The fastest way to save money for a house How much you need to buy a house Most people are laser-focused on the down payment, but there are other up-front costs, as well. Down payment The average down payment in December 2025 was about $64,000, according to Redfin , or about 15.5% of the purchase price. That's down $6,000 month-over-month and $1,000 year-over-year. That should only be taken as a broad guideline \u2014 lenders will accept as little as 3% down on a conventional mortgage, there are j umbo mortgages that require up to 30% and government-sponsored loans that don't require anything down. Closing costs There are also closing costs , which are up-front one-time fees associated with finalizing the sale. They include lender fees (application, origination, and underwriting fees) as well as the costs of a title search, appraisal, home inspection, escrow account and recording fees (to register the new deed). You'll also have to make your first homeowners insurance, private mortgage insurance and property tax payments. Closing costs vary by location, lender and loan type, but the national average for mortgage closing costs in 2025 was $4,661, or 1.06% of a home's sale price, according to LodeStar Software Solutions . Other costs In addition to moving costs and new furniture, you should set aside cash reserves to cover at least three months of living expenses in case of emergency . Mortgage calculator: how much house can you afford? How long does it take to save for a house? On average, homebuyers need about seven years to save enough for a down payment. In larger, high-demand cities, it can be considerably longer. Ultimately, how long it takes depends on how large a down payment you're planning to make. Lenders will often accept as little as 3% down on a conventional mortgage, but a smaller down payment means larger monthly payments and more mortgage insurance premiums. Where to put money you're saving for a house The right vehicle for your house fund depends on how much you need, your timeline, and other factors. High-yield savings account: Putting cash into a high-yield savings or money market account and it'll earn 10 times or more than a traditional savings or interest-bearing checking account. These accounts are fairly liquid, though, so you'll have to police yourself. CDs: If you're worried about being tempted to make withdrawals for other reasons, a CD essentially locks away the money until the certificate matures. The downside is that you typically can't add more to a CD once you've opened it. There are add-on CD s that allow savers to contribute additional funds and CD ladders that stagger maturity dates. Offers in this section are from affiliate partners and selected based on a combination of engagement, product relevance, compensation, and consistent availability. From 3.75% to 4.15% APY From 1 year to 5 years Bread Savings\u2122 (formerly Comenity Direct) is a product of Comenity Capital Bank, a . From 3.85% to 4.05% APY From 6 months to 6 years Marcus by Goldman Sachs\u00ae is a brand of Goldman Sachs Bank USA, a . First-time homebuyer savings account (FHSA): A growing number of states are helping new homebuyers by backing special savings accounts that can be used for homebuying expenses, such as a down payment or closing costs. Contributions are tax-deductible at the state level, and the interest may also be tax-free or tax-deferred until withdrawal. Northwest Bank and NBKC participate in individual state FHSAs and Five Star Bank's Home Savings Club has a $3 match for every $1 you save, up to$3,000. The stock market: While the stock market can offer better returns than savings or CDs, it's also much riskier \u2014 especially in the short or medium term. Douglas Boneparth, president of Bone Fide Wealth and co-author of The Millennial Money Fix , advises against investing your housing fund in the market if your timeline is under five years. \"If you have a little more time on your side or are OK with losing some money, you could consider a very low-risk investment portfolio,\" Boneparth said. \"But there's no guarantee.\" The fastest way to save money for a house Once you've pictured your dream home, saving to make it a reality can feel like torture. Here are some ways to speed up the process. Lower your spending Cutting back on expenses is always the first step to saving for a large expense \u2014 and that means sacrificing. Housing is typically the largest monthly expense, so consider getting roommates, moving to a cheaper place or moving back home (even temporarily). If there's reliable public transportation, selling your car would not only provide an infusion of cash, but save you money on gas, insurance and maintenance Look at your dining budget. Are you eating out or ordering in several times a week? Learn the pleasures of cooking and put a cap on restaurants and DoorDash Increase your savings Once you've curbed spending, set up automatic transfers from your paycheck or checking account into a dedicated \"down payment\" account and direct any tax refunds, salary bonuses or cash windfalls there, as well. Continue contributing enough to your retirement fund to maximize any matching funds from your employer, but it could be worth dialing down your 401 (k) contributions while you focus on saving for a house, especially if you're younger. Look into increasing your income stream \u2014 whether that's taking on a side hustle, asking for a raise or applying for a higher-paying job. Just don't allow lifestyle creep to swallow up your additional cash flow. Gifts Most lenders allow gift funds to be used toward purchasing a home, although they'll want to see that you have steady income to make mortgage payments. You'll also need a \"gift letter\" indicating the money is not expected to be repaid. In addition, the gift can't come from the seller, realtor or other interested party. In 2026, someone can gift up to $19,000 annually per recipient ($38,000 for married couples splitting gifts) without triggering a gift tax. Home buyer assistance There are many local, state and federal programs designed to help borrowers, often for lower-income or underrepresented buyers. Banks also grants and forgivable loans aimed at first-time homebuyers (usually defined as anyone who hasn't bought a house in the last three years). The Bank of America America's Home Grant offers up to $7,500 toward a down payment for eligible buyers in low- to moderate-income census tracts. Bank of America also has a down payment grant worth 3% of a house's purchase price, up to $10,000, in select markets. Bank of America Home Mortgage Loans Annual Percentage Rate (APR) Apply online for personalized rates; fixed-rate and adjustable-rate mortgages included Types of loans Conventional loans, FHA loans, VA loans, Affordable Loan Solution\u00ae mortgage, Doctor loans Terms Varies Credit needed Conventional loans typically require a 620 credit score Minimum down payment 3% with Bank of America's Affordable Loan Solution\u00ae mortgage loan Terms apply. Offers first-time homebuyer assistance? Yes \u2014 click here for details The Chase Homebuyer Grant provides eligible borrowers with up to $7,500 to lower their interest rate, put towards closing costs or bolster their down payment. It's available to borrowers with a Chase DreaMaker loan or a conventional, FHA or VA mortgage in 15 metro areas, including Atlanta, Chicago, Dallas, Miami, New York and San Diego. Chase Bank Annual Percentage Rate (APR) Apply online for personalized rates; fixed-rate and adjustable-rate mortgages included Types of loans Conventional loans, FHA loans, VA loans, DreaMaker\u2120 loans and Jumbo loans Terms 10 \u2013 30 years Credit needed 620 Minimum down payment 3% if moving forward with a DreaMaker\u2120 loan Terms apply. Offers first-time homebuyer assistance? Yes \u2014 click here for details What is a down payment? A down payment is the portion of the price of a home you are contributing up front in cash. If you put $60,000 down on a $400,000 home, you are making a 15% down payment. When you combine your down payment with your closing costs and total monthly mortgage payments, you can get a clear picture of how much you're spending on the property in total. How much should I save for a down payment? The minimum most lenders will accept on a conventional mortgage is 3%, but the nationwide average is 15.2% of a house's total sale price. The more you put down, the greater home equity you start with and the smaller your monthly mortgage payments will be. Borrowers typically need to pay private mortgage insurance until they reach 20% equity, so a larger down payment means fewer premiums. How long will it take me to save for a down payment? In general, it takes homebuyers about seven years to save enough for a down payment. But the amount of time it will take you depends on many factors, including your salary and discretionary income, the market you're living in and how much you plan to put down. Money matters \u2014 so make the most of it. Get expert tips, strategies, news and everything else you need to maximize your money, right to your inbox. here . Catch up on CNBC Select's in-depth coverage of credit cards , banking and money , and follow us on TikTok , Facebook , Instagram and Twitter to stay up to date. Read more 10 best 0% APR credit cards of April 2026 Brett Holzhauer Capital One miles guide: How to earn and redeem your miles Jason Stauffer How do I choose scalable accounting software for growth? Dana Miranda",
+      "headings": []
+    },
+    {
+      "rank": 4,
+      "domain": "westernsouthern.com",
+      "url": "https://www.westernsouthern.com/personal-finance/how-to-save-for-a-house",
+      "title": "How to Save for a House: 5 Tips to Build Your Down Payment Faster",
+      "word_count": 2541,
+      "scrape_status": "tavily_fallback",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": "to Main Navigation to Main Content Our site uses cookies to improve your experience. By continuing, you agree to the use of cookies and our privacy policy. ## Table of Contents Grow Your Home Savings Align goals with your savings approach for a smoother home-buying journey. Get My Free Financial Review # How to Save for a House: 5 Tips to Build Your Down Payment Faster To save for a house, financial professionals recommend starting by setting a down payment goal, then open a high-yield savings account and automate monthly contributions. Cut back on non-essential spending, review mortgage options, and consider savings tools like CDs or low-risk investments to grow your money. Updated Share: Get My Free Financial Review ## Table of Contents Video Transcript Buying a home is one of life's biggest milestones - but saving for it can feel overwhelming. The good news? The right plan can help you get there one step at a time. In this video, we'll break down six smart strategies to help you save for a house and make your dream of homeownership more achievable. Every savings journey starts with a number. Your down payment is the upfront portion of the home's price. For example, a 10% down payment on a $300,000 house means saving $30,000. Don't forget to factor in closing costs, moving expenses, and even an emergency fund for surprise repairs. Knowing your target makes the path forward much clearer. Next, separate your home savings from everyday spending. A high yield savings account or money market account may help by earning interest and offering lower risk. Automate your monthly contributions - treating them like a bill - to make consistent progress. Even naming your account something motivating like \"Future Home Fund\" can help keep you on track. Saving faster doesn't always mean earning more - it can mean spending less. Review your monthly budget, fixed costs, and discretionary spending. Identify areas where you can trim, like unused subscriptions or frequent takeout, and redirect that money into your home fund. Small cuts today could help you reach your goal. Understanding mortgage options early can save you time and money later. For example, FHA loans may allow as little as 3.5% down. Getting preapproved shows sellers you're serious and helps you understand how much house you can afford. Keep in mind: your credit score and interest rate will have a big impact on your monthly payments and overall loan cost. Beyond savings accounts, there are other low-risk options to help grow your money. Certificates of deposit let you lock in funds for higher interest. If your timeline is three years or more, conservative investments like bond-focused portfolios may help your savings grow. The key is matching your timeline with the right tool. At the end of the day, saving for a house is about building consistent habits. Whether you're saving $50 or $500 a month, what may help the most is staying committed and adjusting as life changes. Saving for a house may feel like a big task, but with a clear plan, the right tools, and consistent effort, it's within reach. To explore more strategies and tips for reaching your financial goals, visit Western Southern.com. ## Key Takeaways * A realistic savings plan for a house should include 3% to 20% of the purchase price for a down payment plus costs like closing fees and moving expenses. * Automating contributions into a high-yield savings account or money market account can make saving for a house easier and more consistent. * Cutting back on small expenses and reviewing your credit card statements regularly can free up more money for your down payment fund. * Your credit score affects your mortgage interest rate, which impacts your monthly payments and total loan cost. * Knowing your mortgage loan options, expected mortgage insurance, and using Mortgage Calculators can help you plan with confidence. Whether you're a first-time buyer or looking to move, saving for a house may feel like a big challenge, but it\u2019s not impossible. With a clear savings goal, smart budgeting, and a few simple strategies, you could move closer to homeownership, one step at a time. This guide breaks down exactly how to save money for a house, from setting your target down payment to cutting costs and potentially grow your savings. You'll also find practical tips to keep your budget on track without feeling overwhelmed. .png?rev=88f28eb6fffc476a8e716e3c7f61aa90&hash=5B464B20F7A2434465F9B4F32D5F45F1) ## 1. Set a Clear Down Payment Goal ### What is a down payment for a house? A house down payment is the upfront portion of the purchase price paid at closing, usually a percentage. A bigger down payment may help reduce monthly mortgage and potentially eliminate private mortgage insurance (PMI). Here are some things you can do to help set a down payment goal for a house: ### Research Average Home Prices in Your Area Home prices vary widely depending on the city, neighborhood, and size of the property. Look up listings in your preferred area to get a sense of what homes are selling for. This gives you a realistic starting point for your savings goal. ### Know How Much a Down Payment for a House Typically is The typical cost of a down payment for a house ranges from 3% to 20% of the home\u2019s purchase price.1 The exact percentage depends on the type of mortgage loan you use and your financial situation. For example:A 10% down payment on a $300,000 home would mean saving $30,000 for a down payment. ## Rising Down Payments Mark Q4 2024 In Q4 of 2024, house down payments averaged 14.4% of the home price, with a median amount of $30,250, roughly $3,000 higher than the previous year.3 $30,250 ### Factor in Additional Homebuying Costs Beyond the down payment, there are other upfront expenses to plan for. These may include: * Closing costs (typically 3% to 6% of the loan amount) * Moving expenses * Home inspections or repairs * Emergency savings fund for surprise maintenance after move-in ### Understand Why Your Credit Score and Interest Rate Matter Your credit score plays a big role in determining the interest rate you\u2019ll qualify for on a mortgage. A higher score may help you get a lower mortgage interest rate, which typically means a lower monthly mortgage payment. If your score is lower, you may still be eligible for some types of loans, like FHA loans, but you could pay more over time. ## 2. Create a Dedicated Savings Account & Automate It Keeping your home savings separate from your everyday spending can help you stay focused. Avoid accidentally dipping into it. ### Calculate Your Monthly Savings Goal Start with this simple formula:Monthly Savings Goal = Total Savings Needed \u00f7 Months Until Purchase Example: If you want to save $30,000 in five years (60 months), you\u2019d need to save about $500 a month. ### Use the Right Account to Grow Your Money Open a high-yield savings account or a money market account. These are both interest-bearing accounts that can help your money grow faster than a regular checking or savings account. Benefits include: * Higher interest rates than traditional banks * Easy access to your money when you\u2019re ready to buy * Low risk and insurance can help provide financial security ### Automate Your Savings Automating your deposits into a high-yield savings account or interest-bearing savings account makes it easier to stick to your house savings plan. Once your account is set up: * Schedule automatic transfers right after payday, so you \"pay yourself first\" * Treat it like a non-negotiable bill * Give your account a fun or meaningful name like \u201cFuture Home Fund\u201d or \u201cMy Down Payment\u201d to stay motivated ## The Reality Behind Home Affordability in the U.S. in 2025 Recent data shows 57% of U.S. households (76.4 million) are unable to afford a $300,000 home.2 ## 3. Track Your Spending & Cut Back Where You Can Saving faster doesn\u2019t always mean earning more, it can also mean spending less and making sure you stay within your personal budget. Here are basic steps you can take to get a clear picture: 1. Start by reviewing your monthly income and expenses 2. List your fixed costs (like rent, utilities, and minimum debt payments). 3. Look at where your discretionary money goes (subscriptions, eating out, shopping). 4. Cut or reduce anything non-essential, even temporarily. 5. Review credit card statements regularly to identify hidden costs or auto renewing-subscriptions Now, you may be able to redirect those savings directly into your home fund. Find out where you could cut costs and boost your savings. Get My Free Financial Review ## 4. Understand Mortgage Basics & Plan Ahead In addition to saving for a down payment, you\u2019ll also want to prepare for what comes next. Here are key mortgage terms and steps to think through as you plan your path to homeownership. ### Explore Your Loan Options Different types of mortgage loans may work better depending on your financial situation. Each mortgage loan type requires different down payments, depending on whether the home is your main residence, a second home, or a rental property.1 Let's say, you\u2019re buying your first home to live in full-time (primary home). The house costs $250,000. You\u2019re applying for an FHA loan, which generally requires a minimum down payment of 3.5% of the house price. Here is what the calculations might look like: * Required Down payment: 3.5% of $250,000 = $8,750 * Amount Financed Through Loan: $250,000 \u2013 $8,750 = $241,250 (not including closing costs and other fees) Use this table to compare the minimum down payments required for each loan type based on how the property will be used. | Loan Type | Primary Home | Second Home | Investment Property | | --- | --- | --- | --- | | Conventional Loan | 3-5% | 10% | 20% | | Jumbo Loan | 20% | 25% | 25% | | FHA Loan | 3.5% | Not eligible | Not eligible | | VA Loan | 0% | Not eligible | Not eligible | | USDA Loan | 0% | Not eligible | Not eligible | Most mortgage loans are typically repaid over 15 to 30 years, with longer terms generally resulting in lower monthly payments but higher overall interest costs. ### Talk to Mortgage Lenders About Preapproval Before you start house shopping, consider getting mortgage preapproval. This helps you: * Understand how much house you can afford * Show sellers that you're a serious buyer * Spot any issues in your credit history early ### Know Your Interest Rate & Credit Impact Your mortgage interest rate affects how much you\u2019ll pay over time. Even a small change in rate can make a big difference in your monthly payments and total loan cost. Rates are typically based on: * Current interest rates in the market * Your personal financial profile, including credit score, income, and debt ## 5. Choose Smart Tools to Grow Your Savings If you're planning to buy a home a few years down the road, your savings could potentially earn more with the right tools and investment strategies, without taking on too much risk. ### Smart Options to Consider #### High-Yield Savings Accounts A high-yield savings account is one of the safest places to keep your money while earning more interest than a regular savings account. These accounts are usually offered by online banks and are easy to access when you're ready to buy. * Great for short- to mid-term savings * -insured and low risk * Keeps your money separate and growing #### Certificates of Deposit (CDs) A Certificate of Deposit (CD) lets you lock in your money for a set period\u2014usually 6 to 12 months\u2014in exchange for a higher interest rate. * Ideal if you won\u2019t need immediate access * Works well for fixed-term goals like saving for a house * Watch for early withdrawal penalties #### Low-Risk Investment Accounts If your savings timeline is longer (3+ years), a conservative investment account may offer more growth potential than a standard interest-bearing account. * Look for portfolios focused on bonds, treasury securities, or diversified funds * Often available through robo-advisors or brokerage firms * Consider options with low fees and minimal volatility The return on savings and investment accounts is not fixed and may rise or fall based on market rates and the structure of the account. ## Final Thoughts Saving for a house isn\u2019t just about cutting back. It\u2019s about building momentum through consistent habits. Whether you\u2019re putting away $50 or $500 a month, what matters most is staying committed and adjusting as life changes. If you\u2019re unsure where to start or how much you\u2019ll need, a financial professional may help you create a plan that fits your goals and timeline. Plan your next move toward homeownership. Get My Free Financial Review ## Frequently Asked Questions ### What is the fastest way to save money for a house? The fastest way to save money for a house is to set a clear down payment goal, cut non-essential expenses, and automate savings into a high-yield savings account. Boosting your income with side work or using tax refunds and bonuses can also accelerate your home fund. ### How to save 10,000 dollars in one year? To save $10,000 in a year, you\u2019ll need to set aside about $834 per month by reducing spending, increasing income, or both. Automate deposits into a dedicated savings account and track your progress with a monthly budget. Sources 1. Zillow. \"How Much Is a Down Payment on a House?\" https://www.zillow.com/learn/down-payment-on-a-house/ 2. National Association of Home Builders. \"Nearly 60% of U.S. Households Unable to Afford a $300K Home\" https://www.zillow.com/learn/down-payment-on-a-house/ 3. Realtor.com. \"Down Payments Continue Upward, Hitting a Q4 Peak\" https://www.realtor.com/research/down-payment-report-march-2025/ ## Related Budgeting & Saving Articles Budgeting & Saving ### 30 Money Saving Hacks to Boost Your Savings ### How to Create a Budget: 7 Steps ### What Is a Rainy Day Fund? ### What is a Health Savings Account? ### 5 Questions to Help You Master Your Personal Budget ### What's Your Goal for Long-Term Savings (and How Do You Plan to Get There)? ### Budgeting Tips for 30-Somethings ### Budgeting Tips for Your 60s: What to Know ### How Much Money Should You Have Saved by 30? ### How Much Money Should You Have Saved by 25? ### How Much Money Should You Have in Savings? ### 10 Ways to Save Money on a Tight Budget ### 50-30-20 Rule: How to Budget Your Money Effectively ### Savings by Age: Here's How Much You Should Plan to Have ### Budgeting for Couples: 5 Things to Consider ### Practical Financial Habits You Can Afford to Implement Now ### Emergency Fund: Your Financial Cushion ### No-Spend Days: Save More, Spend Smarter ### Budgeting for a Second Child & Beyond ### How Does a Credit Card Work? ### How to Make Money as a Kid: Ways to Start Earning Early ### How to Make Money as a Teen: 12 Realistic Ways to Earn Income ### Rules on Gifting Money to Family Explained ### 26 Ways to Save Money ### How to Budget for a Baby IMPORTANT DISCLOSURES Information provided is general and educational in nature, and all products or servi",
+      "headings": []
+    },
+    {
+      "rank": 5,
+      "domain": "rocketmortgage.com",
+      "url": "https://www.rocketmortgage.com/learn/how-to-save-for-a-house",
+      "title": "How to save for a house: A complete guide - Rocket Mortgage",
+      "word_count": 2130,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://prod.rockmedialibrary.com/api/public/content/bef524d0-downloadOriginal-Stock-Suburban-Home.jpg?v=a95c7949",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://prod.rockmedialibrary.com/api/public/content/c5c27b7c-downloadOriginal-D-JackieLam-20250710.jpeg?v=44129817",
+          "alt": "Headshot of Jackie Lam",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://prod.rockmedialibrary.com/api/public/content/78168278-downloadOriginal-Stock-RocketMortgage-AdobeStock-601871738.jpeg?v=12d256c8",
+          "alt": "Couple snuggling on couch and reviewing information online on open laptop.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://prod.rockmedialibrary.com/api/public/content/b19cba11-downloadOriginal-Cash_To_Close.jpg?v=464c484e",
+          "alt": "A family sitting on the porch with their pet having enjoyable moment.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://prod.rockmedialibrary.com/api/public/content/cc52279e-downloadOriginal-D-FreelancerAtApartment-AdobeStock-337078538.jpeg?v=fc77fd68",
+          "alt": "Young woman at desk in studio apartment searching for a home on her laptop.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "By Contributed by Sarah Henseler Updated Dec 28, 2025 8-minute read Share: If you have your sights on buying a home , you might find yourself fretting over all the costs that come with homeownership \u2013 and maybe you\u2019re not quite sure where to start. Not to worry. It's entirely understandable that you might be concerned over the larger costs, such as the down payment, closing fees, taxes, and insurance. The thing is, saving for a house is entirely within your reach. You'll need to know how much to shore away saving for a house and find smart strategies to save. What costs are associated with buying a house? Let's take a close look at common costs that come with homeownership: Down payment A down payment is the money you put toward the purchase of a house that you're financing with the help of a lender. Down payments vary by mortgage type and usually range anywhere from 0% to 20% of the home price. If you put down at least 20%, you'll be able to avoid conventional private mortgage insurance (PMI) . Here are the required minimum down payment amounts for popular mortgage programs and home loan types: Conventional 3% Jumbo 10%, in some cases up to 30% VA 0% FHA 3.5% USDA 0% *Currently, USDA loans aren\u2019t available through Rocket Mortgage \u00ae . To figure out how much cash you'll need to gather to buy a home you can call you own, you can use the Rocket Mortgage down payment calculator . Closing costs Also known as settlement fees, closing costs are expenses you'll need to pay before a home is officially yours. These are charged by third parties such as your lender and real estate agent, and can include costs that have to do with property expenses, the application process, and other paperwork. These closing costs usually are between 3% to 6% of the loan amount , and can vary based on factors like the lender, loan type, and location. These costs can be negotiable , and they can sometimes be rolled into the loan. Closing costs impacts how much you need to save in order to afford the purchase of your home. Other expenses You'll likely rack up expenses beyond the major ones we just talked about, such as: Moving expenses: $881 \u2013 $2,564 Storage costs: $100 \u2013 $450 Repair and maintenance costs: 1% \u2013 4% of your home's value Furnishings and appliances: $6,400 for a small studio to $44,000 for a larger home The exact cost depends on a handful of details, such as the size of your home, how much you already have, and the value of your home. And if you're moving across the country , moving expenses will be greater than relocating across town. See what you qualify for How much should I save for a house? The exact amount you should shore away to buy a house varies, and is based on your budget, preferences, goals, and lifestyle. You can use the Rocket Mortgage affordability calculator so you know how much house you can afford . It can help you estimate specific costs in your situation. For example, let's say you put 20% down on a $440,000 house ($88,000), and you pay closing costs of 4% of the $352,000 necessary loan amount, which is $14,000. Then, you anticipate spending $3,000 on moving and other expenses. In this case, the minimum target savings goal would be $105,000. It can be a good idea to have a bigger savings cushion in case unexpected costs that pop up. In that case, you'll want to best determine a target amount and save for that. Take the first step toward the right mortgage Apply online for expert recommendations with real interest rates and payments 9 strategies to save up for a house more quickly Here are some ways you accelerate saving up for a house: 1. Build a better budget The first step in the saving process is budgeting for your house . If you don\u2019t know where your money goes every month, it\u2019s impossible to divert money to your down payment. Follow these steps to help put a budget in place: Calculate your monthly take-home pay: Know how much money you\u2019re bringing home each month, including your income and any income that your spouse will be contributing. Then, sit down with your bank and credit card statements to determine where you\u2019re spending the most money. Factor in recurring payments: Calculate your monthly expenses, including necessities like rent, student loan payments , groceries, and utilities. Next, consider how much you spend each month on nonessentials like entertainment, restaurants, etc. A budgeting app like Rocket Money can help you automate this process if you\u2019d like to avoid calculating your expenses yourself. Refine your budgeted amounts: Set a definite \u2013 yet realistic \u2013 budget for each category and stick to it. Make sure you budget a certain dollar amount to put away for your down payment each month. Consider your savings a non-optional expense. 2. Reduce unnecessary expenses Consider downsizing. This can help you save on all-around costs. Think about moving into a smaller home, or from a two-car household to a single-car one. Cancel unnecessary services. Pore through your fitness memberships and monthly streaming subscriptions to see which ones you can drop. Avoid impulse purchases. Consider a 30-day list, where you jot things down you want to buy, and wait 30 days to see if you still want them. Or, don't shop when you're hungry and create a list before stepping foot inside a store. You can also commit to a no-spend challenge. Cut back on eating out. Consider batching cooking more frequently, or go out to eat several times a month versus once a week. Choose a staycation over expensive vacations . Sometimes you need a break from your routine to give you the respite you need. 3. Ask for a raise or promotion If you have little money left over to save after you get paid, it might be time to ask for a raise or promotion, or seek opportunities to be involved with a new job project and work overtime. Browse job posting sites and salary comparison websites to see if you earn as much money as people who work in similar roles. If you discover your salary is below average, consider using your findings as leverage. The best time to ask is during your annual performance review or after delivering a big win. Your attitude during your salary discussion meeting is just as important as what you say. Be confident in what you\u2019re asking, but also be grateful and enthusiastic. 4. Pick up a side hustle Thanks to the gig economy, it\u2019s easier than ever to earn money on your own time with a side hustle. If your schedule allows for a little extra work, here are a few ideas you can use to get started: Pick up some freelance work Drive for a ride-sharing company Deliver groceries or restaurant meals Offering tutoring services Pet-sit or walk dogs Test apps and websites Be a personal shopper Take the first step toward buying a house Get approved to see what you qualify for 5. Rent out your spare room, car, or parking space Do you have an extra bedroom in your apartment? Or maybe your is car collecting dust since you\u2019ve transitioned to remote work? If so, consider listing them on rental marketplaces like Airbnb and Turo. That way, you can leverage your assets to receive a consistent monthly payment. You'll want to be aware that rules and regulations for house hacking , or renting out property, differ depending on where you live. Plus, you might live in an area with significant restrictions. Both platforms let you approve dates and guests ahead of time and only rent out your car or spare room when it\u2019s convenient. You can even block out dates when your rental isn\u2019t available, or when you know you'll need your car. If you live in an urban area where parking is at a premium, consider renting out any of your assigned parking with an app like JustPark. JustPark lets you rent out your parking space just like you\u2019d rent out your spare room on Airbnb. If you live in a tourist destination or heavily populated area, these sources of extra cash can make a huge difference in how much money you can save for your house each month. 6. Save any windfalls Commit to saving at least a portion of any windfalls that come your way. That way, it can speed up your home savings goals. Consider tucking away part of your: Work bonuses Holiday gifts Birthday or special occasion gifts Tax refunds Insurance payouts Inheritances Lottery or prize winnings 7. Chop down your debt If you\u2019re on a mission to buy a home, diverting your extra income toward your debt might seem counterintuitive. However, one of the first things lenders look for when they consider you as a mortgage candidate is your debt-to-income ratio (DTI) . The typical debt-to-income ratio to get approved for a mortgage is usually 28% on the front end, which is your housing debt; and 48% on the back end, which is your monthly housing payment plus all your other debt. A higher DTI ratio can impact your ability to qualify for a mortgage in the first place and may influence the interest rate and amount that your lender will be willing to offer. This can mean that you\u2019ll pay more in interest and have a higher down payment requirement. Take some time to reduce your debt before you apply for a mortgage loan. You can try a popular debt method such as the debt snowball or debt avalanche method . Or, you can take out a debt consolidation loan for your high-interest credit card debt. Look at exactly how much you owe on your credit cards, student loans, personal loans, and auto loans, and create a plan to tackle it. 8. Automate your savings If you\u2019re the type of person who\u2019s prone to impulse shopping, you may want to consider automating your savings. After deciding how much you want to tuck away per month, contact your bank and authorize an automatic withdrawal from your primary account into a separate savings account. Your bank will automatically take money out of your account each month and stash it away in a separate account. This approach can be useful if you tend to have trouble with keeping your savings top of mind. When you make your money less accessible, you may be less tempted to buy things you don\u2019t need. Just remember to schedule your withdrawal on your payday or when you know you\u2019ll have enough money. Those overdraft fees can put a serious dent in your down payment fund. 9. Seek help with your home savings You can do your homework and look into first-time home buyer assistance programs in your area, which often offer down payment/closing cost grants or loans. You can also consider asking relatives and friends for gift funds to put toward your down payment. However, it's important to know the rules that mortgage programs have regarding gifts and gift letters for your mortgage. The bottom line: Saving for a house is within reach with the right strategies Saving for a house can feel like quite a feat, and it may likely be one of the largest \u2013 if not the largest \u2013 purchases you'll ever make. If it's your first foray into homeownership, carefully consider all the costs that come with buying a home, determine a target savings amount, and mind the tips to speed up the process. And when you're ready to buy, you can apply for a mortgage . Jackie Lam is a seasoned freelance writer who writes about personal finance, money and relationships, renewable energy and small business. She is also an AFC\u00ae financial coach and educator who helps creative freelancers and artists overcome mental blocks and develop a healthy relationship with their finances. You can find Jackie in water aerobics class, biking, drumming and organizing her massive sticker collection. Related resources 6-minute read Down payment assistance programs and grants: What they are and how they work Learn about down payment assistance programs and how you can apply for grants and loans that can help you afford the up-front costs of buying a home. Read more 7-minute read What is cash to close? Understand how to calculate a \u201ccash to close\u201d total and which fees make up this important figure before closing on your house. Read more 8-minute read How to buy a house with no money down Some mortgages allow you to buy a house with no money down. Learn how to buy a house with n... Read more",
+      "headings": []
+    },
+    {
+      "rank": 6,
+      "domain": "tpfcu.com",
+      "url": "https://tpfcu.com/blog/tips-for-saving-for-a-home/",
+      "title": "10 Tips on How to Save Money for a House",
+      "word_count": 101,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://tpfcu.com/wp-content/uploads/2022/08/a-couple-receiving-the-keys-to-their-new-house.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://tpfcu.com/wp-content/uploads/2026/04/image1.jpg",
+          "alt": "Someone getting cash from a bank teller",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://tpfcu.com/wp-content/uploads/2021/07/image1.jpg",
+          "alt": "A graphic representation of a man checking his credit score",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://tpfcu.com/wp-content/uploads/2026/03/image2-2.jpg",
+          "alt": "A woman holding her phone and a bank card grinning",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "Federal vs. State Credit Unions: What\u2019s the Difference? Credit unions offer a member-focused alternative to traditional banking, but not all credit unions operate under the same structure. One of the most important distinctions Smart Strategies to Clean Up Your Credit and Boost Your Score Cleaning up your credit can feel overwhelming at first, especially if you\u2019re dealing with missed payments, high balances, or accounts in collections. The good news How Credit Unions Support Smarter Financial Habits Financial success is shaped by repeated behaviors. The way you spend, save, borrow, and review your accounts determines long-term stability more than any single financial",
+      "headings": []
+    },
+    {
+      "rank": 7,
+      "domain": "fidelity.com",
+      "url": "https://www.fidelity.com/learning-center/smart-money/how-to-save-for-a-house",
+      "title": "How to save for a house or down payment - Fidelity Investments",
+      "word_count": 2620,
+      "scrape_status": "tavily_fallback",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": "# How to save for a house or down payment | Fidelity to main content Fidelity.com Home * Accounts & Trade * Portfolio * Account Positions * Trade * Fidelity Trader+ Web * Fidelity Trader+ * Transfers * Cash Management * Bill Pay * Full View\u00ae * Security Settings * Account Features * Documents * Tax Forms & Information * Retirement Distributions * Refer a Friend * Retirement * Retirement Planning * 401(k) Rollovers & IRA Transfers * Retirement Accounts * Retirement Education * Wealth Management * Wealth Management Offerings * Financial Advisors * Financial Planning * Investment Management * Wealth Management Insights * News & Research * News * Wealth Management Insights * Watchlist * Alerts * Stocks, ETFs, Crypto * Mutual Funds * Fixed Income, Bonds & CDs * Options * IPOs * Annuities * Learn * Products * Spending & Saving * Investing & Trading * Mutual Funds * Crypto * Direct Indexing * Fixed Income, Bonds & CDs * ETFs * Options * Sustainable Investing * 529 College Savings * Health Savings Accounts * Annuities * Life Insurance * Customer Service * Fidelity Assistant * Profile Log inOpen an account Fidelity.com Home * Customer Service * Fidelity Assistant * Profile * Open an account * * Accounts & Trade * Portfolio * Account Positions * Trade * Fidelity Trader+ Web * Fidelity Trader+ * Transfers * Cash Management * Bill Pay * Full View\u00ae * Security Settings * Account Features * Documents * Tax Forms & Information * Retirement Distributions * Refer a Friend * Retirement * Retirement Planning * 401(k) Rollovers & IRA Transfers * Retirement Accounts * Retirement Education * Wealth Management * Wealth Management Offerings * Financial Advisors * Financial Planning * Investment Management * Wealth Management Insights * News & Research * News * Wealth Management Insights * Watchlist * Alerts * Stocks, ETFs, Crypto * Mutual Funds * Fixed Income, Bonds & CDs * Options * IPOs * Annuities * Learn * Products * Spending & Saving * Investing & Trading * Mutual Funds * Crypto * Direct Indexing * Fixed Income, Bonds & CDs * ETFs * Options * Sustainable Investing * 529 College Savings * Health Savings Accounts * Annuities * Life Insurance to main content Fidelity.com Home * Accounts & Trade * Portfolio * Account Positions * Trade * Fidelity Trader+ Web * Fidelity Trader+ * Transfers * Cash Management * Bill Pay * Full View\u00ae * Security Settings * Account Features * Documents * Tax Forms & Information * Retirement Distributions * Refer a Friend * Investing * Self-Directed Investing * Advanced Trading * Investing for a Child * Managing Cash & Credit * Investment Accounts & Products * Investing & Trading Education * Retirement * Retirement Planning * 401(k) Rollovers & IRA Transfers * Retirement Accounts * Retirement Education * Wealth Management * Wealth Management Offerings * Financial Advisors * Financial Planning * Investment Management * Wealth Management Insights * News & Research * News * Wealth Management Insights * Watchlist * Alerts * Stocks, ETFs, Crypto * Mutual Funds * Fixed Income, Bonds & CDs * Options * IPOs * Annuities * Learn * Customer Service * Fidelity Assistant * Profile Log inOpen an account Fidelity.com Home * Customer Service * Fidelity Assistant * Profile * Open an account * * Accounts & Trade * Portfolio * Account Positions * Trade * Fidelity Trader+ Web * Fidelity Trader+ * Transfers * Cash Management * Bill Pay * Full View\u00ae * Security Settings * Account Features * Documents * Tax Forms & Information * Retirement Distributions * Refer a Friend * Investing * Self-Directed Investing * Advanced Trading * Investing for a Child * Managing Cash & Credit * Investment Accounts & Products * Investing & Trading Education * Retirement * Retirement Planning * 401(k) Rollovers & IRA Transfers * Retirement Accounts * Retirement Education * Wealth Management * Wealth Management Offerings * Financial Advisors * Financial Planning * Investment Management * Wealth Management Insights * News & Research * News * Wealth Management Insights * Watchlist * Alerts * Stocks, ETFs, Crypto * Mutual Funds * Fixed Income, Bonds & CDs * Options * IPOs * Annuities * Learn ## Learn * Learn * Favorites * Topics * Financial essentials * Saving and budgeting money * Managing debt * Saving for retirement * Working and income * Managing health care * Talking to family about money * Personal finance for students * Managing taxes * Managing estate planning * Making charitable donations * Life events * Changing jobs * Planning for college * Getting divorced * Becoming a parent * Caring for aging loved ones * Marriage and partnering * Buying or selling a house * Retiring * Losing a loved one * Making a major purchase * Experiencing illness or injury * Disabilities and special needs * Aging well * Becoming self-employed * Investing and trading * Investing for beginners * Trading for beginners * Crypto basics * Crypto: Beyond the basics * Alternative investing * Exploring stocks and sectors * Investing for income * Analyzing stock fundamentals * Using technical analysis * Investment products * ETFs * Mutual funds * Stocks * Fixed income, bonds, CDs * Annuities * Closed-end funds * Advanced trading * Using margin * Options trading basics * Options: Beyond the basics * Advanced trading strategies * Using Fidelity Trader+ * Options Strategy Guide * Technical Indicator Guide * Latest Market Insights * Viewpoints: Expert insights * Smart Money: Tips and tactics * Money Unscripted * The Trading Post * Women Talk Money * Wealth Management Insights * Events * Upcoming events * On-demand webinars * Market briefings * Market Sense * Trading Strategy Desk\u00ae coaching * Trading Strategy Desk\u00ae classes * January 13, 2026 7 min Save Popover * * * Great, you have saved this article to you My Learn Profile page. Share Popover * * * How to save for a house or down payment | Fidelity Clicking a link will open a new window. * Facebook * Twitter * LinkedIn Print # How to save for a house down payment Make your home dream a reality with these 7 steps. Fidelity Learn ### Key takeaways * Homeownership is an important personal and financial milestone for many but can seem out of reach. * Down payments, the first step toward homeownership, generally range from 0% to 20% (or even more) of the purchase price. * Consider these 7 steps to help save money for a house down payment. Homeownership has been a cornerstone of the American Dream for many people for generations. But today's cost of real estate, and mortgage rates that appear to be falling but ever-so-slowly, could be making it harder to reach that dream. Putting a clear plan in place could help you save the money you need for a house down payment. Whether you're buying your first home or looking to upgrade to a new property, these tips can help you get there. ### 1. Figure out how much house you can afford Before you start any savings goal, it's helpful to visualize where you want to end up.For most people and families, the total house value should generally be no more than 3 to 5 times their total annual household income. Read more:How much house can I afford? This broad range should be suitable for most buyers\u2019 situations. (Of course, some buyers may find they can afford more or less than that range.) Factors that could guide you lower or higher within that range include your household\u2019s current debt situation, the general level of mortgage rates, and your household\u2019s potential future earnings power. Once you have an idea of how much you might spend on a home, you can start to work backwards to figure out how much you need to save for a down payment. ### 2. Set a down payment percentage You may have heard that you need a 20% down payment in order to buy a house, but that's not always true. The exact percentage depends on your lender and credit. The median down payment of all home buyers surveyed in 2025 was 23%, and just 10% for first-time home buyers, according to the National Association of Realtors.1 Some lenders may allow you to put down as little as 0% to 3.5%, depending on your financial situation and other characteristics.2 For example, anyone buying a primary residence with a credit score above 580 may qualify for a 3.5% down mortgage through a Federal Housing Administration (FHA) loan; those with credit scores as low as 500 may qualify for the same type of loan with a 10% down payment.3 Be aware that, generally, the lower your down payment, the more you may owe in mortgage payments each month\u2014and the more you may end up paying in interest over time. That's why some people who can afford it may opt to put down even more than 20% as a down payment. Another consideration: If you don't put down 20% or more, you may have to take on private mortgage insurance (PMI). This is a special insurance that typically covers any missed mortgage payments until you have paid off at least 20% of the amount you borrowed. PMI tacks on an additional fee, so your monthly payment is higher. If you want to keep your costs as low as possible, aim to save as large a down payment as you can and target homes on the lower end of your price range. And remember to keep your credit score in as good shape as possible to qualify for the best interest rates. ### 3. Determine how long you have to save for a down payment Do you plan to purchase a home in a year\u2014or 10? Your timeline might influence which savings tools to consider. For those planning to purchase a home within the next 3 years, Fidelity suggests holding down payment cash in checking, regular savings, or high-yield savings accounts\u2014or in cash-like investments such asmoney market fundsorcertificates of deposit (CDs) that will mature before you anticipate needing the money. The upside of these relatively conservative options is that you'll have access to your funds when needed. The downside is that they may not grow as much as riskier investments with potentially higher returns. _You could lose money by investing in a money market fund. An investment in a money market fund is not insured or guaranteed by the Federal Deposit Insurance Corporation or any other government agency. Before investing, always read a money market fund's prospectus for policies specific to that fund._ Those with longer timelines could consider investing some of their home down payment funds, which may offer the potential for higher returns. The exact split of cash, stocks, and bonds should be determined by your individual willingness to take on risk and the number of years until the ideal purchase date. In general, the longer until a purchase date, the more risk you may feel comfortable taking on, as you have more time for investments to potentially recover from losses. To help you figure out an asset allocation to fit with this goal Required consider contacting a financial professional. ### 4. Set your savings strategy Once you know how much you'll need to save and where you'll park it, you can set a monthly savings goal. Take the total you're aiming to have for a down payment and divide it by the number of months you plan to take to get there. If you're eyeing a $410,000 home\u2014roughly the median price in the US as of the second quarter of 2025 4\u2014you may want to have $82,000 as a down payment. If you hope to make a home purchase in 5 years, that would mean you'd want to set aside around $1,367 a month if you were starting from $0, assuming no returns. Do some back-of-the-envelope math to come up with your goal. Be sure to account for any existing funds you have earmarked for a down payment. And keep in mind you may benefit from interest payments or investment returns, depending on where you keep your money, though the latter are not guaranteed. ### 5. Take stock of your resources Get a sense of the full extent of your financial resources by considering less traditional sources of funding. For instance, you might find out if friends or family were planning to help you financially when the time comes to purchase a home, as is the case for 27% of millennials between 26 and 34.5 Some people may choose to tap their retirement balances for down payment money through a 401(k) loan or early withdrawal. This isn't a decision to consider lightly, as it can hinder your ability to save enough for retirement. Selling investments may impact potential returns. As for early withdrawals, the IRS may allow you to take out $10,000 of tax-advantaged dollars from a individual retirement account (IRA) penalty-free if you are using that money for a first-time home purchase. Any amount exceeding that may incur additional taxes and penalties. When deciding whether to save for retirement or save for a house, be sure to carefully consider your whole financial picture, and investigate which strategy could help you prioritize your needs today and tomorrow. It could be helpful to meet with a financial professional to talk through your options and build a plan. ### 6. Audit your financial life If you haven't already, sit down with your bank and credit card statements to figure out exactly how much you're earning, spending, and saving each month. Do you already have extra cash you're saving\u2014or can use to save\u2014for a house down payment? Be sure to consider if you've made progress toward other important financial goals, like building up at least $1,000 in an emergency savings, getting any 401(k) employer match you may be eligible for, and paying down debt. After that, you can funnel at least some of what you have left over each month toward saving for a down payment. If you aren't quite there yet with your budgeting, consider the next few tips to get you there. ### 7. Think of ways to save more When it comes time to cut costs, it can be hard to figure out where to start\u2014or how you can save for a big goal responsibly. Check out these tips on how to save more money: * How to spend less on gas * How to save money on travel * How to lower your utility bills * Tips to spend less on groceries * How to spend less on online shopping Of course, you can only snip away so much. If you've already whittled your spending to the essentials, you may need to figure out ways to raise your income if you want to meet your savings goal. Consider starting a side gig. And remember: Saving enough for a house down payment won't happen overnight. But careful planning and saving may help you get there. ## Open an account with us It's easy! Opening your new account takes just minutes. See account options ## More to explore ### Shop for a mortgage Simplify your search with Fidelity\u2019s mortgage referral program through Leader Bank. ### More on buying a house Visit our Life Events homepage for more resources. ## to _Fidelity Viewpoints\u00ae_ Timely news and insights from our pros on markets, investing, and personal finance.(debug tcm:2365-349569) ### Looking for more ideas and insights? We'll deliver them right to your inbox. Manage subscriptions ### Thanks for subscribing! Check out your Favorites page, where you can: * Tell us the topics you want to learn more about * View content yo",
+      "headings": []
+    },
+    {
+      "rank": 8,
+      "domain": "aba.com",
+      "url": "https://www.aba.com/advocacy/community-programs/consumer-resources/calculators/saving-for-your-down-payment",
+      "title": "6 Tips for Saving for Your Down Payment",
+      "word_count": 501,
+      "scrape_status": "tavily_fallback",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": "Expanded AI resources and new papers to help banks navigate adoption, risk, governance, and policy developments. View AI Resources Two tracks. One comprehensive suite. Advance your wealth advising skills or deepen trust and estate expertise with timely, expert-led webinars designed for today\u2019s banking challenges. Register today ABA Member Exchanges - Share real-time information, discuss strategies, explore trends and collaborate with peers. Engage New survey shows banks are America\u2019s most trusted defense against fraud. View infographics Action Alert: Urge your senators to close the stablecoin loophole and protect local lending. Sign the petition Interact with youth in your communities during Financial Literacy Month with free Teach Children to Save resources. Get Started Throughout April, enjoy special activities, including free webinars, featured resources, contests, and more. Join the celebration Shopping Cart In This Section # 6 Tips for Saving for Your Down Payment Before you can make the transition from renting your home to owning your home, you will need to have a substantial down payment, typically 5 to 20 percent of the home\u2019s value. The American Bankers Association suggests the following tips to help save for it: ## Develop a budget & timeline Start by determining how much you\u2019ll need for a down payment. Create a budget and calculate how much you can realistically save each month \u2013 that will help you gauge when you\u2019ll be ready to transition from renter to homeowner. ## Establish a separate savings account Set up a separate savings account exclusively for your down payment and make your monthly contributions automatic. By keeping this money separate, you\u2019ll be less likely to tap into it when you\u2019re tight on cash. ## Shop around to reduce major monthly expenses It\u2019s a good idea to check rates for your car insurance, renter\u2019s insurance, health insurance, cable, Internet or cell phone plan. There may be deals or promotions available that allow you to save hundreds of dollars by adjusting your contracts. ## Monitor your spending With online banking, keeping an eye on your spending is easier than ever. Track where most of your discretionary income is going. Identify areas where you could cut back (e.g. nice meals out, vacations, etc.) and instead put that money into savings. ## Look into state and local home-buying programs Many states, counties and local governments operate programs for first-time homebuyers. Some programs offer housing discounts, while others provide down payment loans or grants. ## Celebrate savings milestones Saving enough for a down payment can be daunting. To avoid getting discouraged, break it up into smaller goals and reward yourself when you reach each one. If you need to save $30,000 total, consider treating yourself to a nice meal every $5,000 saved. This will help you stay motivated throughout the process. ## Related to This 1333 New Hampshire Avenue NWWashington, DC 20036 ### Sitemap ### Connect With Us Follow ABA on X Follow ABA on Facebook Follow ABA on Linkedin Follow ABA on YouTube Follow ABA on Instagram Follow ABA on Email Bulletins American Bankers Association",
+      "headings": []
+    },
+    {
+      "rank": 9,
+      "domain": "quicken.com",
+      "url": "https://www.quicken.com/blog/how-to-save-enough-money-to-buy-a-house/",
+      "title": "How to Save Enough Money to Buy a House in 2025 | Quicken",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.quicken.com/blog/wp-content/uploads/2022/12/smiling-couple-hugging-in-room-with-moving-boxes.jpg",
+        "alt": "Smiling couple hugging in a room with moving boxes",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.quicken.com/blog/wp-content/uploads/2024/02/woman-prepping-in-kitchen-with-produce-300x200.jpg",
+          "alt": "Woman prepping produce in kitchen",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.quicken.com/blog/wp-content/uploads/2023/06/couple-smiling-while-pointing-to-mobile-phone-screen-300x200.jpg",
+          "alt": "Couple smiling while pointing to mobile phone screen",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.quicken.com/blog/wp-content/uploads/2022/03/man-relaxed-in-front-of-laptop-300x200.jpg",
+          "alt": "Relaxed man holding his hands behind his head in front of his laptop",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 10,
+      "domain": "youtube.com",
+      "url": "https://www.youtube.com/watch?v=rlOOCRWrAn4",
+      "title": "How To Save Up For A House Down Payment | Clever Girl Finance",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 11,
+      "domain": "chase.com",
+      "url": "https://www.chase.com/personal/mortgage/education/buying-a-home/save-money-when-homebuying",
+      "title": "How to Save Money When Buying a House | Mortgage - Chase Bank",
+      "word_count": 1453,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://asset.chase.com/content/dam/unified-assets/photography/articles/primary/mortgage/how-to-article-15mortprocess.jpg",
+        "alt": "",
+        "description": "High-quality corporate stock photo of smiling diverse people or modern home interiors.",
+        "type": "corporate_stock_people"
+      },
+      "article_images": [
+        {
+          "url": "https://www.chase.com/content/services/rendition/image.medium.jpg/unified-assets/photography/articles/primary/mortgage/how-to-article-15mortprocess.jpg",
+          "alt": "",
+          "description": "Data visualization or financial chart graphic.",
+          "type": "graphic_design_data"
+        }
+      ],
+      "body_text": "Buying your first home is an exciting experience, even though it can also be an expensive one. But that doesn't mean there aren't clever ways to save money when you buy a house. Knowledge is power in the homebuying journey. By understanding all of the expenses that come with purchasing a house, it's easier to know where you could save money. For first-time homebuyers, there are unforeseen expenses to understand and consider. Learn how you can save money when buying a house, as well as different ways to save even after purchasing your home. Ways to save money when buying a house When buying a new home, there are certain steps you can take to ensure you save as much money as possible. You can take these steps right before and during the purchase, and all can potentially reduce the cost of buying a home. 1. Find an experienced real estate agent Using a dependable and experienced real estate agent who knows the area well can save you time and money. This is especially important for first-time homebuyers, as a good real estate agent can help you navigate the process and determine ways you can save money. You can often find referrals for good agents from family, friends and local residents, or through online real estate sites. 2. Save at least 20% for the down payment Being able to make a down payment of at least 20% isn't always easy, but it can save you money in the long term. Besides potentially lowering your overall monthly mortgage payment, a sizable down payment can also help you avoid the need for private mortgage insurance (PMI) . 3. Improve your credit score before buying Your credit score directly impacts the interest rates and lender fees you're required to pay. Taking time to improve your credit score before buying could reduce your monthly mortgage payments. The higher your credit score, the more likely you are to qualify for a lower interest rate. 4. Buy during the winter months Many consumers purchase homes in the spring and summer months and, as a result, this is generally the most expensive time to buy a home. Purchasing a house in winter could potentially save you some money. 5. Negotiate any closing costs you can Closing costs can be pricey if you pay for all of them yourself. Common closing costs include attorney fees, interest, lender fees, title fees and appraisals. Luckily, many closing costs are negotiable. Don't be afraid to negotiate with the seller to pay a portion, or even all, of the closing costs. 6. Consider a shorter-term mortgage When buying a home, it's important to choose the best mortgage for your needs. While longer-term mortgages like 20- and 30-year loans can result in lower monthly payments, they also mean higher interest paid over the life of your loan. In some cases, the shorter the loan term, the lower the total interest. While this means you may have to pay more every month, it also means you pay less in interest, which could save money in the long term. Saving money after buying a home In addition to saving money when you purchase a house, there are also steps you can take to save money after you buy your home. The following are a few ways to potentially lower the costs associated with your mortgage: 1. Make extra payments Adding even just a little more to your monthly mortgage payment can drastically reduce the amount of interest you\u2019ll pay over the life of your loan. Use our online extra payment calculator to see how much you could save when you pay more than your minimum monthly payment. 2. Refinance your home mortgage Refinancing your home mortgage could help you lower your monthly mortgage payments in a few ways. If you refinance your mortgage to a loan with a lower interest rate, your monthly payments will be lower and you may reduce the amount of interest you\u2019ll pay over the life of your loan. If getting a lower interest rate isn't possible, an alternative is to refinance for an extended term. For example, if you go from a 20-year loan to a 30-year loan, you may be able to lower your monthly mortgage payments. Keep in mind, this option may mean paying more in interest over the life of your loan. 3. Reassess property taxes Many home loan payments incorporate costs that are put into escrow for the purpose of paying your property insurance and taxes. You may be able to lower your property taxes by having the original assessment reviewed. If the assessment is lower, your lender will adjust the escrow portion of your payment. 4. Reduce energy usage Energy costs can add hundreds of dollars to your monthly home payments. Luckily, there are steps you can take to help save money on your energy bills. While some of these steps may require you to invest money initially, they may result in lower energy payments on an annual basis. Install LED or CFL bulbs throughout your home. Invest in energy-efficient appliances such as refrigerators, washers and dryers. Plant shade trees around your home for a natural cooling effect in the summer. Ensure your home is airtight so that air doesn't seep in or out, making your air conditioner or furnace work harder. Create a home maintenance checklist and regularly complete tasks that will increase your home's overall efficiency. Money-saving preparation Preparation is everything. Before you buy a house, it's important to understand what options are available for you as a buyer. The more you know, the better you'll be able to prepare and potentially save money when you buy a home. Here are a few steps you can take before and during the homebuying process to help you save money wherever possible: 1. Invest in a home inspection: While a home inspection can cost a few hundred dollars, it could also save you thousands if there\u2019s anything wrong with the home. If there is a problem, you can negotiate with the seller to make repairs or bring the asking price down. 2. Find out if the home is in a high-risk location: If the home you want to buy is in a high-risk area vulnerable to disasters such as floods, you may be required to purchase high-risk insurance. This can be costly and is not something that all sellers disclose upfront. Doing your research early on can save you time and money. Consult with your real estate agent if the home is in a known high-risk area. 3. Shop around for the right mortgage lender: Rather than go with the first mortgage lender that offers you a loan, talk to several lenders to make sure you find the best one for your needs. Different lenders will offer different interest rates and loan options, and it's important to know what is available before choosing a lender. 4. Know how much house you can afford: Before you buy a home, it's important to know how much house you can afford. This can ensure you choose a price range and a mortgage with a monthly payment you can afford. One way to determine a comfortable monthly mortgage payment is to use an affordability calculator . This will give you a good estimate of what you can afford based on your income, monthly expenses and anticipated mortgage rate. 5. Buying a home means entering into a contract: When you sign the papers to buy a home, you are entering into a long-term contract that cannot be broken. However, before you sign, there is always room for negotiation. If you feel uncomfortable about any part of the contract, negotiate with the seller until you feel confident in the terms. Consider adding a clause that the property value, based on the lender\u2019s appraisal, must meet or exceed the sale price so you don\u2019t have to make a larger down payment than you expected. 6. Consider hiring a lawyer: Hiring a lawyer before you sign a contract can ensure you aren't signing anything you don't agree with. Choose an experienced attorney who works in real estate and have them thoroughly review the contract before you sign. The more you know before purchasing a home, the more you'll be able to save both before and after you sign on the dotted line. Take time to familiarize yourself with the various factors that can result in high costs, as well as steps you can take to avoid them. For more insight into the homebuying process, talk to our Home Lending Advisors or view available mortgage options to jumpstart your journey to a new home today. Have questions? Connect with a home lending expert today! homebuying mortgage options",
+      "headings": []
+    },
+    {
+      "rank": 12,
+      "domain": "rate.com",
+      "url": "https://www.rate.com/mortgage/resource/best-ways-to-save-money",
+      "title": "What is the best way to save for a house? - Guaranteed Rate",
+      "word_count": 2619,
+      "scrape_status": "tavily_fallback",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": "Select the language you prefer: The Spanish translation of this page is for the convenience of our clients; however, not all pages are translated. If there is a discrepancy between the content of the translated page and the content of the same page in English, the English version will prevail. Homes Find, buy and refinance Personal Loans Fund your future Insurance Protect what\u2019s precious Security and home savings Exclusive offerings and more Student Loans Refinance and save Auto Loans Streamlined auto financing Rate Concierge Stress-free utility setup #### 5 minute applications Take charge of homebuying with smart tools and quick applications. #### Mortgage upgrades Shorten your term, create cash, or get a lower rate and save big. #### Unlocked value Use your home to fund renovations, major expenses, or tackle debt. #### Flexible choices Find options built for first-timers, investors and everyone in between. #### Personalized options Review opportunities, crunch the numbers and pick your perfect rate. #### Help and answers From the big questions to the fine print, we have what you're looking for. Homes Find, buy and refinance Personal Loans Fund your future Insurance Protect what\u2019s precious Security and home savings Exclusive offerings and more Student Loans Refinance and save Auto Loans Streamlined auto financing Rate Concierge Stress-free utility setup Select the language you prefer: The Spanish translation of this page is for the convenience of our clients; however, not all pages are translated. If there is a discrepancy between the content of the translated page and the content of the same page in English, the English version will prevail. # What is the best way to save for a house? Written by Craig Wales Published on 01/30/2026 Tags Buying a home Share A big part of the homebuying process that many potential homeowners could find daunting is the down payment. Down payments are a percentage of the overall home cost that buyers typically have to pay upfront. These down payments can be a sizable investment, one that is typically dependent on personal savings collected over a number of years. And that\u2019s just a part of the overall mortgage costs you\u2019ll be responsible for in the years to come. If you are planning to buy a home, you will need to start saving for your down payment before entering the housing market and getting a home loan. Let\u2019s go over a few ways you can save money and prepare yourself to start the loan process. ## Homebuying 101: Down payment Much of the saving that goes into buying a home is for a down payment. Down payments are just a portion of the overall cost of buying a home, but since they are paid upfront, down payments loom large in the minds of homebuyers, especially for first-time homebuyers. While most people getting ready to buy a house think they need to secure 20% of the purchase price as part of a down payment, that\u2019s not always true. In fact, according to a 2025 report, the national average for down payments for first-time homebuyers was 9%, while the average for repeat buyers was 23%. If you qualify for certain first-time homebuyer programs, you could have down payment options as low as 3%. Getting a VAor USDA loan? You may be eligible for zero down payment options. Of course, choosing a down payment option of less then 20% could come with private mortgage insurance (PMI) or mortgage insurance premium (MIP). These costs can set you back anywhere from 0.5%-5% of the cost of the original mortgage loan per year until you reach 20% total down payment, at which point PMI might no longer be necessary. ## 8 steps to start saving money for a house ## 1. Begin before deciding If buying a home is something you might want to do someday, beginning to save before even making that decision is one of the smartest things you can do. Starting to put money aside as early as possible will put you in a great place when you decide it is time to get serious about buying a home. When saving this early, you don\u2019t need to worry about home prices, affordability or even which down payment options to consider. While it is a good idea to keep an eye on them, you don\u2019t need to worry about the housing market or interest rates just yet. The point of putting away whatever money you can is to start you with a leg up when you decide you want to start considering buying your first home. Starting early allows you to feel closer to your homeowning goal when you feel ready to make a homebuying plan. ## 2. Create savings goals and design a budget When you are ready to start seriously saving for a home, your first step should be to write down a goal amount you\u2019d like to save for. This number will probably look like a lot, maybe even more than you think you will be able to save. But with this number in mind, you can make a realistic savings plan for yourself. Then you will want to decide how many years you\u2019d like to save before shopping for a home. To see your exact savings goals broken down, you can take the total amount you would like to save and subtract what, if any, savings you currently have and could put toward a home. After that, divide it by the number of years you\u2019re hoping to save for. This number will be the amount you should have saved at the end of each year. To fully understand how much you should budget for a home, you can take your annual savings goal and divide it by 12 to see how much you will want to save each month to reach your goal. The amount you save will be for your down payment, closing costs and any other expenses you will have when finalizing your home purchase. ### Savings example A sample list of goals may look like the following if you don\u2019t have anything previously saved: Estimated home purchase price: $250,000 Down payment goal: $50,000 Number years to save: 5 Yearly savings amount: $10,000 Monthly savings amount: $833 Sure, $50,000 might seem like a lot of money right now as a first-time homebuyer. But if you can break it down into yearly and then monthly increments, it will seem less intimidating. If you need to adjust further, then do so. This is just a general approach to get the ball rolling. But make no mistake about it: Setting a budget and sticking to it is a critical step toward . ## 3. Take a look at existing debt and other expenses It can be hard to save for a house if you have previous debts to pay off. Recurring debt and expenses could eat up funds that could go toward saving for a home. Paying off these debts could also raise your credit score, which might help you qualify for better rates. ### Lump-sum payments Can you find a way to pay off your credit card debt or make a lump-sum payment to drastically reduce your auto loan or student loan? These are the kinds of debts that can follow you for years and prevent you from achieving a clear pathway to home savings. The lump-sum can quickly and decisively help you reduce your debt, allowing future cash flow to go toward a home savings account. ### Nonessential expenses Ask yourself: Are there any expenses that can be weeded out or somehow reduced? Is there nonessential spending that can be tamped down or eliminated? What about online purchases or those ever-expanding streaming services? If nothing else, there may be opportunities to select a less expensive cellphone plan or a basic Wi-Fi contract. These minor inconveniences are temporary, but the savings from eliminating or reducing a few monthly expenses or paying off old loans can help you free up money that can be transferred into your home savings account. ## 4. Change your living situation There\u2019s nothing that says you have to save for your future home while living in your current abode. Want to generate some real savings to help you buy your first home? Downsizing might help you with that. While it\u2019s not always feasible for every homebuying candidate, for those who can move to a smaller, less expensive apartment or house for a couple of years, the savings can be dramatic. Is there a certain self-sacrifice involved in this mission? Absolutely, especially if you have a spouse and/or children. However, if you have your eyes on the prize when it comes to saving for a house and ultimately reaping the rewards of home ownership, then this temporary sacrifice in creature comforts could be worth it. ## 5. Pause on your IRA and 401(k) accounts We certainly don\u2019t recommend this over the long term, but for a couple of years, it might benefit you to stop directing cash into your retirement accounts and instead put it into your home savings account. It\u2019s certainly a personal choice, but in doing so, you free up funds that can quickly add up and decrease the time spent saving toward your goal. Some employees set 401(k) triggers at 5-10% of their paychecks, and IRA accounts max out at $7,500 ($8,600 if you\u2019re older than 50). So, it\u2019s pretty clear how that amount could be redirected toward your home savings account. And, of course, once you achieve your home savings goal, you can return to your retirement savings to build for a prosperous future. ## 6. Look into a side hustle/part-time job OK, you\u2019ve doubtlessly heard a lot about side hustles and gig workers these days. The concept is not any different than what people have been doing for generations to make ends meet: getting a second or part-time job. While they certainly have their critics, ride-share work is the kind of hustle that might be manageable around your day job and could quickly add significant funds into the coffers to help you get aligned on your home savings goals. Of course, with a computer you could turn your writing or design skills into a little extra money as well. And while any side hustle almost by definition will impinge upon your free time, it will accelerate your home savings goal. ## 7. Explore renting out space If your current living space has some room you don\u2019t use, you could consider renting it out to make a little extra money. ### Rent out your home Renting out rooms to guests is a great way to bring in extra cash for home-saving purposes. Call it the Airbnb or roommate approach. And while this concept, too, has been around for ages, digital access has made the process of both renting out rooms and receiving payment virtually seamless. If you reside in a safe area with easy access to public transportation and have a large enough living space for the occasional guest to come and go without affecting your home life, renting out your space could be an option. According to many hosts, it can be virtually painless to have a paid guest down the hall while you go about your everyday life. If that notion doesn\u2019t quite appeal to you, you could consider the option of renting out your entire dwelling and go stay with friends and family for a few days. Hospitality services make it easy to customize arrangements and get that extra cash to you quickly. If you don\u2019t mind permanently sharing your space with a friend or even finding someone new, you can consider getting a new roommate. Roommates can help split the cost of living with rent, utilities or even groceries. This is a great way to lower your bills and save some money. ### Rent out your parking space Don\u2019t have the room or inclination to rent out your current home? There\u2019s another way some people can make money when it comes to location, especially if it\u2019s in a desirable urban area where space is at a premium: parking spaces. Many apartments come without a parking space, and your neighbors may be willing to pay, if you have one. This could be an extremely easy way to collect extra money, depending on the precise location and how safe and secure it is. ## 8. Consider savings apps and high-interest accounts There are ways to generate cash, and there are ways to cut down on expenses, but you\u2019ll need a method for putting money into an account earmarked for your new home. That\u2019s the role of savings. For example, numerous financial experts have referred to what\u2019s known as the \u201clatte factor\u201d to illustrate the idea that significant savings are readily within our grasp. In case you\u2019re unfamiliar with the notion, it goes something like this: Rather than forking over $5 a day on upmarket coffee, you could cut out the high-concept caffeine and instantly save over $1,800 a year. It sounds good in theory, but that\u2019s not usually how people work. They like their treats and conveniences. That\u2019s where money-saving apps come in. They can make the whole process painless and effortless. Essentially, there are algorithms at work that divert small increments of money from your checking account at regular intervals and move them to the app for safekeeping until you meet your savings goals. Because it\u2019s automated, the hope is that you\u2019ll hardly notice the activity or feel the pain but will greatly appreciate the gradual buildup of your in-app savings. One caveat: Many of these apps are not ideal places to save for big ticket items like homes because many do not offer substantial savings rates. So be to check around and compare offerings. ### Online savings accounts You may also want to consider opening up a high-interest online savings account. While this sounds a tad conventional, there are some online banks that offer surprisingly high rates. Same goes for money market funds. If you already have a chunk saved, it could be a sound idea to stow some of it in one of these types of savings institutions and have it appreciate while you look for other ways to add to your home savings account. ## Apply when you\u2019re ready While there is unfortunately no single way to guarantee that you\u2019ll master the time-honored art of home savings, these are just some of the useful ideas that can assist you when it comes to buying a house. When you think you\u2019re ready, contact a savvy real-estate agent for guidance and get a better sense of how much of that savings you\u2019ll actually need to tap into on closing day when talking to a trusted and knowledgeable loan officer. Loan officers can walk you through the process and help you get a head start on the mortgage process. *All information provided in this publication is for informational and educational purposes only, and in no way is any of the content contained herein to be construed as financial, investment, or legal advice or instruction. Rate does not guarantee the quality, accuracy, completeness or timelines of the information in this publication. While efforts are made to verify the information provided, the information should not be assumed to be error-free. Some information in the publication may have been provided by third parties and has not necessarily been verified by Rate. Rate its affiliates and subsidiaries do not assume any liability for the information contained herein, be it direct, indirect, consequential, special, or exemplary, or other damages whatsoever and howsoever caused, arising out of or in connection with the use of this publication or in reliance on the information, including any personal or pecuniary loss, whether the action is in ",
+      "headings": []
+    },
+    {
+      "rank": 13,
+      "domain": "wsj.com",
+      "url": "https://www.wsj.com/buyside/personal-finance/mortgage/how-to-save-for-a-house",
+      "title": "How to Save for a House in 2026 - WSJ",
+      "word_count": 2583,
+      "scrape_status": "tavily_fallback",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": "EXPLORE our brands Money Shopping Gifts Style Home Tech Wellness Travel Food Entertainment Main main Certificate of Deposits Savings Explore Options Best Personal Loans Consolidating Debt Lender Reviews FAQ Student Loans Student Loan Refinance FAQ Mortgages Home Equity FAQ How-To Best Companies FAQ Reviews Best Companies Reviews FAQ Best Good to Know Types of Coverage Reviews Best Learn Reviews FAQ Best Lenders of 2025 Lender Reviews Getting Started More Best Auto Refinance Lenders FAQ Auto Purchase Loans Amazon Big Spring Sale Tech Finds Reader Favorites Holiday Gift Ideas For Loved Ones For Festivities For Women For Men For Everyone For Women For Men For Everyone Bags Accessories Living Room Accessories Vacuums Heaters, fans, and air purifiers Reviews Kitchen products Product reviews Office Office Accessories Home Office Guides and How-To's Home and garden Reviews Bedding Pillows Guides Pet Accessories Home Audio Gear Headphones & Earbuds Laptops & Laptop Accessories Tablets & Tablet Accessories Wifi & Computer Accessories Software Glasses & Headsets Smart Watches Electric Bikes & Scooters Smart Devices Grooming Teeth Health Beauty Equipment Wearables Accessories Travel Gear Accessories Coffee Makers & Espresso Machines Online Coffee Shops & Subscriptions Coffee Accessories & How Tos Spirits Wine & Champagne Glasses Wine Accessories Gifts for Wine Lovers Cookbooks Fiction Non-fiction Board Games Puzzles Lego Streaming WSJ | Buy Side is The Wall Street Journal\u2019s research and commerce team. Our commerce content is distinct from our newsroom coverage. We earn a commission from some links in our articles. Learn more. # How to Save for a House in 2026 Saving for a home starts with determining how much you need and finding the right vehicle for your funds Written By Written by Staff Money Writer, WSJ | Buy Side Molly Grace is a staff money writer at Buy Side covering banking, home equity, investing, mortgages, retirement savings, taxes and budgeting. Edited By Written by Staff Deputy Personal Finance Editor, Buy Side Valerie Morris is a staff deputy personal finance editor at Buy Side, with a focus on mortgages, banking and investing. Reviewed By Written by Staff Senior Editor, Buy Side Reina Marszalek is a staff senior personal finance editor at Buy Side. Updated February 6, 2026, 1:11 PM EST ## Key takeaways Owning a home is typically more expensive than renting. In 2024, the median gross rent was $1,487, while homeowners with a mortgage paid a median of $2,035 a month, according to the Census Bureau. But it\u2019s not just the higher monthly costs that can keep renters from making the leap to homeownership; you\u2019ll also need a large chunk of cash upfront to buy a home. The precise amount of funds depends on the price range of homes you\u2019re looking at and average costs in your area\u2014in New York City, the median list price is $925,000, according to Realtor.com, while in Houston, it\u2019s $315,000 (Realtor.com is operated by News Corp, parent of The Wall Street Journal). Even on the low end, you might need to save tens of thousands of dollars. To successfully save for a house, you need to be strategic with your savings and willing to make some sacrifices in your budget. ## How much money do you need to buy a house? How much money you need for a home purchase varies depending on the prices of the homes you\u2019re looking at. The median home price in the U.S. is $410,800, according to Census Bureau and Department of Housing and Urban Development data. However, many first-time buyers shop for smaller, more affordable homes, often referred to as starter homes. According to Realtor.com, the typical starter home price was $292,950 in 2024. ### Down payment If you aren\u2019t paying for the home in cash, you\u2019ll need to get a mortgage loan to finance your purchase, which usually requires a down payment. Conventional loans, the most popular type of mortgage, require putting at least 3% of the home price down, though if you put 20% down you can avoid paying for private mortgage insurance, which adds to your monthly costs. \u201cThe recommendation is to make a down payment of 20%, no more and no less,\u201d says Isabel Barrow, executive director of financial planning for Edelman Financial Engines in Alexandria, Va. \u201cBut realistically, while we know it\u2019s good to get to 20% if you can, not everyone can save that much, especially in a high-cost housing market.\u201d Barrow says if you make a lower down payment, your mortgage rate might be higher. Other types of mortgages have different down payment requirements. FHA loans, which are insured by the Federal Housing Administration, require 3.5% down if you have a credit score above 580 and 10% down for lower scores. VA loans require no down payment but are only available to military veterans, servicemembers and eligible surviving spouses. USDA loans also have no down payment requirement but are only available to buyers in eligible rural areas who meet income limits. Here\u2019s how your minimum down payment can vary depending on loan type and home price: | | | | Loan type | Minimum down payment percentage | Down payment on median-priced home ($410,800) | Down payment on starter home ($292,950) | | Conventional | 3% | $12,324 | $8,789 | | FHA | 3.5% | $14,378 | $10,253 | | VA | 0% | $0 | $0 | | USDA | 0% | $0 | $0 | \\*Sources: Buy Side calculations based on Census Bureau, Department of Housing and Urban Development and Realtor.com data. Depending on your mortgage lender and your financial profile, you might be required to put down more than these minimums. ### Closing costs Your down payment isn\u2019t the only large sum of money you\u2019ll need to purchase a home. Closing costs are due when you close on your home and cover the expenses you incur through the process of getting a mortgage and buying a home, such as lender fees and upfront homeowners-insurance premiums. These costs can range from between 2% to 5% of the home price\u2014meaning it\u2019s possible for your closing costs to exceed the cost of your down payment. Note: On a median-priced home, your closing costs could range from $8,216 to $20,540, while closing costs on a typical starter home could be between $5,859 and $14,648. ### Cash reserves In some cases, your lender might require you to have reserves to qualify for a mortgage. Reserves refer to cash you can use to cover your monthly mortgage payments in an emergency. If you have poor credit or are buying a property with multiple living units, you might be required to have between two and six months of reserves. Reserves don\u2019t have to be liquid cash; while they can come from your everyday checking or savings accounts, you can also use the cash value in a vested life insurance policy or investments as your reserves, including vested funds in a retirement account. ### Moving expenses Moving costs vary depending on whether you\u2019re making a local or long-distance move, how much furniture you have, your location and whether you do it yourself or hire professionals. The average cost of a local move by professionals is $1,250, while the average long-distance move costs $4,890, according to Moving.com. (News Corp, parent of The Wall Street Journal, operates Moving.com.) ### Home maintenance funds If an appliance breaks or there\u2019s damage to the home you own, there\u2019s no landlord to call for help with repairs. Experts recommend setting aside some money each year to cover home maintenance and repair costs\u2014typically at least 1% of your home\u2019s value, though you might want to save up to 4% each year if you have an older home since those properties often require more repairs, according to Fannie Mae. This is why it\u2019s important that you don\u2019t drain your savings to purchase a home. It\u2019s possible you could show up on moving day and find that your home already needs a pricey repair. ## Create a realistic budget Before you start saving, you should have an idea of how much house you can afford. This includes both how much you can put toward your down payment and closing costs as well as how much you can afford to pay each month for a mortgage. A mortgage calculator can help you understand how your home price, down payment and mortgage rate will influence the amount you pay on a monthly basis. For example: If you buy a home for $292,950 with a 3% down payment and a 6.1% mortgage rate, your monthly payment will be $1,722 (not including taxes and insurance). But if you put down 10%, your monthly payment will be $1,598. If you\u2019re able to make a larger upfront payment and want to keep your monthly costs down, it might make sense to save for a larger down payment. On the other hand, if saving for a large down payment isn\u2019t feasible, you might decide it\u2019s worth taking on a higher monthly payment to keep your down payment low. Once you\u2019ve determined your target price range and how much you\u2019ll need for a down payment plus closing costs, think about when you\u2019d like to be able to buy a home and how much you\u2019d need to save to reach your goal within that timeframe. If you want to buy a house in three years, for example, and you need $30,000 saved, you\u2019d need to save a little over $830 each month to get there. If the math isn\u2019t adding up, you might need to lower your target price range, plan for a smaller down payment or give yourself more time to save. If you live in an area with a high cost of living, expanding your search to include more affordable local suburbs can make it easier to find a home and mortgage payment that suits your budget. ## Where to put your home savings ### Savings account With a high-yield savings account, you can earn a higher-than-average annual percentage yield (APY) on your home savings, giving you an extra boost each month. While your cash might not earn as much in savings as it could if you invested it, you won\u2019t risk losing money in a market downturn, and the funds are easier to tap into once you need them. If you\u2019re planning to buy in the next few years, keeping your cash in savings is safer than investing it. ### Certificate of deposit Another high-yield savings option is a certificate of deposit (CD). CD rates are often comparable to or better than the rates on high-yield savings accounts. However, with a CD, you\u2019re required to lock away your funds for a period of time. CD terms can range from a few months to several years. ### Money market account Money market accounts share similarities with both savings accounts and checking accounts. Many of these accounts offer APYs that are comparable to high-yield savings accounts, while also providing more flexibility to access your funds. A money market account might come with a debit card or checks and let you make a limited number of transactions each month. ### Taxable brokerage account If you aren\u2019t planning to buy a property in the next five years or so, you might want to consider investing your home savings. Over the last five years, the S&P 500 has had an annualized return of 12.55% (as of Feb. 3), according to S&P Global. This is much higher than the return you\u2019ll get on any high-yield deposit accounts. However, there\u2019s also significantly more risk involved when you invest your savings. While you can earn more, you could also lose your initial investment. This is why investing typically isn\u2019t recommended if you have a shorter timeframe to save, since you won\u2019t have the time to recover from temporary dips in the market. ### Retirement savings There are typically tax implications if you tap into your retirement savings before age 59 \u00bd, but some retirement accounts allow home buyers to make an early withdrawal to fund a home purchase. If you have a traditional IRA, you can withdraw up to $10,000 without incurring a 10% early withdrawal penalty for a first-time home purchase. However, you will pay income taxes on the funds. Roth IRAs always allow you to withdraw your contributions tax- and penalty-free, since you already paid taxes on that money. If you\u2019ve had the account for at least five years, you can also withdraw your earnings for a first-time home purchase (up to $10,000) with no taxes or penalties. Rules for 401(k)s are less flexible. It\u2019s possible to take a hardship distribution for a home purchase, but you might have to pay a 10% early withdrawal penalty, in addition to income taxes. If your plan allows it, you might be able to take a loan from your 401(k) balance, but you must repay the loan (plus interest) within five years. Taking money from your retirement savings to fund a home purchase can be risky, since you\u2019re losing out on some long-term growth while potentially incurring a heavy tax penalty. ## Tips to boost savings and stay on track ### Seek out home buyer assistance programs Depending on what you qualify for, you might not need to come up with your home purchase funds all on your own. Many entities, including government agencies, nonprofits, lenders and employers offer assistance programs for buyers. Your state\u2019s housing finance agency might offer down payment and closing cost assistance for first-time home buyers. This can come in the form of a grant or a loan. Grants don\u2019t have to be paid back. Some loans are forgivable, which means you won\u2019t have to pay them back as long as you remain in the house for a certain number of years, or deferred, meaning you won\u2019t owe the balance until you sell or refinance. Otherwise, you\u2019ll make regular payments on the loan along with your monthly mortgage payment. Your mortgage lender might also have loans or programs that can give you a boost. Some lenders offer 1% down mortgages, for example. ### Look for ways to lower your biggest costs For most people, some sacrifice is needed to buy a home, says Matt Steenson, head of retail growth strategies for PNC Bank in Pittsburgh. The typical household spends the most money on housing, transportation and food. If you can cut costs in these areas, you\u2019ll potentially make a bigger impact than cutting areas where you\u2019re already spending less. The average car payment is $760 a month. If you have a similarly high car payment, it might be worth seeing if you can lower or eliminate your car payment by refinancing or trading in your current vehicle for a cheaper one. You can also look for ways to reduce your current housing spending, such as bringing in a roommate or relocating to a more affordable rental. If you have the option, you might consider moving in with relatives to eliminate your rent altogether, says Tom Mathews, a certified financial educator and founder of WealthWave, a financial services marketing company in Atlanta. To lower food spending, take a look at how much you\u2019re spending dining out or getting food delivered and consider setting a limit on the number of times you do this each month. \u201cRealistically, you\u2019re not going to cut out everything for several years, but you should consider cutting back on eating out or entertainment,\u201d Barrow says. ### Increase your income Consider asking for a raise at work, looking for a new, higher-paying job or taking on a side hustle. If you\u2019r",
+      "headings": []
+    },
+    {
+      "rank": 14,
+      "domain": "bankrate.com",
+      "url": "https://www.bankrate.com/mortgages/how-to-save-for-a-down-payment/",
+      "title": "How To Save For A Down Payment | Bankrate",
+      "word_count": 1647,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.bankrate.com/brp/2025/08/13135801/homes-how-to-save-for-a-down-payment.png",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.bankrate.com/2022/02/26011159/AMartin.png?auto=webp&quality=85&width=24&height=24&fit=cover&enable=upscale&crop=1:1,smart",
+          "alt": "Allison Martin",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.bankrate.com/brp/2026/04/15114943/2026-Headshot-2-scaled.jpg?auto=webp&quality=85&width=24&height=24&fit=cover&enable=upscale&crop=1:1,smart",
+          "alt": "Madison Hoehn, CFEI",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.bankrate.com/brp/2025/03/17103203/erin_lowry_headshot.jpg?auto=webp&quality=85&width=24&height=24&fit=cover&enable=upscale&crop=1:1,smart",
+          "alt": "Erin Lowry",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.bankrate.com/2022/02/26011159/AMartin.png?auto=webp&quality=85&width=64&height=64&fit=cover&enable=upscale&crop=1:1,smart",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.bankrate.com/brp/2026/04/15114943/2026-Headshot-2-scaled.jpg?auto=webp&quality=85&width=64&height=64&fit=cover&enable=upscale&crop=1:1,smart",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.bankrate.com/brp/2025/03/17103203/erin_lowry_headshot.jpg?auto=webp&quality=85&width=64&height=64&fit=cover&enable=upscale&crop=1:1,smart",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.bankrate.com/brp/2025/08/13135801/homes-how-to-save-for-a-down-payment.png?auto=webp&optimize=high&crop=16:9",
+          "alt": "A piggy bank, a model of a house, a stack of coins and two keyrings.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.bankrate.com/2022/02/26011159/AMartin.png?auto=webp&quality=85&width=96&height=96&fit=cover&enable=upscale&crop=1:1,smart",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.bankrate.com/2022/09/25125728/how-to-make-a-monthly-budget-in-5-simple-steps.jpeg",
+          "alt": "Person shopping at grocery store choosing oranges in the supermarket",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.bankrate.com/2021/05/20173230/How-to-make-a-home-budget_-4-steps-SEO-_-Article-_-Refresh.jpg",
+          "alt": "Mother with baby paying bills online.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.bankrate.com/2011/08/24224648/How-to-lower-your-car-payment.jpeg",
+          "alt": "Close up of mother driving teenage son",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.bankrate.com/brp/2024/04/27162448/Loans-How-to-calculate-loan-payments-and-costs-300x169.jpg",
+          "alt": "A Black man sits at a table using a tablet and doing calculations.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "Table of contents How much do you need for a down payment? 8 ways to save for a down payment How long should you plan to save? Other costs to save for when buying a home Key takeaways There are many strategies to save for a down payment, including maximizing your savings, reducing everyday expenses and applying for down payment assistance. You likely don\u2019t have to save 20% for a down payment on a home. Conventional mortgages require just 3% down, and FHA loans require only 3.5% down, depending on credit score. You\u2019ll also need to consider the costs of home insurance, maintenance and property taxes before buying a house. More than half (52%) of aspiring homeowners cite the down payment and closing costs as a \u201cvery significant\u201d obstacle to homeownership, according to Bankrate\u2019s 2025 Home Affordability Report . Knowing how to minimize these costs upfront can save you from stressors down the road. Here are our top ways to save for a down payment, advice on how much to put down and a rundown of other costs to consider. How much do you need for a down payment? The good news is that most mortgage down payment requirements are far lower than the oft-heard 20%. Here\u2019s how the different loan types compare: Loan type Minimum down payment Minimum credit score Mortgage insurance Conventional loan 3% 620 Private mortgage insurance with a down payment of less than 20% FHA loans 3.5% for credit scores 580 and up 10% for credit scores 500-579 580/500 FHA mortgage insurance required for the life of the loan in most cases VA loan None Varies by lender, but generally 620 None USDA loan None Varies by lender, but generally 640 None Jumbo loan 10%-20% Varies by lender, but often 700 Varies by lender Of course, your minimum down payment is just one piece of the puzzle. The cost of the home you buy will also be a major factor in your down payment. While the median home price in the U.S. was $414,900 in the last quarter of 2025, according to the National Association of Realtors (NAR) , the home price you can expect to find varies by region and even metro area. In the Northeast, for example, the median home price was $514,600, while the Midwest saw a median price of only $317,100 in the fourth quarter. Once you\u2019ve decided how much home you can afford , you can start deciding how much to put down on your house and making a savings plan for your down payment. The median down payment for all homebuyers is 19%, according to the National Association of Realtors . First-time homebuyers make a median down payment of 10%. How to save for a down payment: 8 strategies There are several ways to save for a house: 1. Park the savings in a high-yield account Although mortgage rates may be rising, that can be good news for your savings. Some banks and credit unions are paying as much as 4% annual percentage yield (APY) on select accounts. Consider stashing your savings in one of the following: High-yield savings account : High-yield savings accounts offer significantly higher earning potential than standard savings accounts. Some currently pay between 4% and 5%, as opposed to 0.01% at some big-name banks. Money market account : Money market accounts are a cross between a checking and savings account that may offer higher rates than standard savings accounts. Certificate of deposit (CD) : CDs are fixed-rate savings vehicles with a finite term \u2014 often six, 12 or 18 months. Consider your homebuying timeline when using CDs, since there are penalties for withdrawing money early. If your homebuying plans give you the time, consider a CD ladder to allow you take advantage of changing interest rates over time. 2. Automate your savings Another strategy is to establish automated savings deposits to ensure you will make savings a regular part of your financial plan. If you\u2019re working, your employer may be able to channel part of your direct deposits into a savings account for your down payment. Freelancers, contractors and business owners can schedule regular automatic transfers to their savings. 3. Explore additional sources of income If you have the spare time and energy, another income source or a side hustle can help you save for a down payment. You might even be able to turn a hobby into a money-making proposition. 4. Consider a down payment assistance program Down payment assistance could be an option if you\u2019re struggling to save, especially if you\u2019re a first-time buyer . This assistance can come in various forms, from deferred or forgivable loans to grants. Each program has different eligibility requirements, usually based on income and location. Start your search with your area\u2019s local or state housing authority. 5. Reduce your expenses If you\u2019re saving for a house, cutting back on your spending can help. Here\u2019s how: Lower discretionary spending. These are expenses like subscription services, entertainment, delivery services or eating out. While you may not want to cut out this spending entirely, consider ways to spend less. Save money on your bills. If possible, negotiate recurring monthly or annual expenses, such as shopping around for a better rate on car insurance or reducing an internet bill. Pay down existing debt. A lower debt load will make you a better candidate for a mortgage, and once you\u2019ve eliminated these payments, you can redirect money to your down payment fund. While not an option for everyone, if you\u2019re able to, moving back into your parents\u2019 house or moving in with a roommate can help you save for a down payment as well. A strong majority (64%) of Americans would be willing to make a change to find more affordable housing, according to our 2025 Home Affordability Report. 6. Request a raise While each company\u2019s financial situation and performance measures vary, you might be able to get paid more, especially if you\u2019ve made valuable contributions at work recently. Come to the discussion prepared, outlining the work you\u2019ve done and how it impacted the company\u2019s bottom line. 7. Ask for a gift Many first-time homebuyers have turned to family members for help with a down payment. If a family member or friend is willing to give you some funds for your home, be sure to document this in a gift letter for your lender. 8. Reprioritize your savings goals Your down payment is likely not the only reason you\u2019re stashing money away. While working toward your down payment goal, you may want to temporarily adjust where your savings dollars go. You may be saving for retirement in an IRA or 401(k), for example, or for a child\u2019s college education. Consider diverting part of that money briefly to your down payment fund. One caveat: If you are receiving a company match for retirement savings, you may not want to jeopardize that by lowering your contribution. When looking at how to save for a down payment, it\u2019s best to avoid taking money from your emergency fund . This nest egg should have three to six months of living expenses in it, and should not be used to fund your down payment. You may need this cushion for repairs or other costs once you own your home, and maintaining a healthy savings account can help you qualify for a mortgage. How long should you plan to save for a down payment? Knowing how to save for a house includes establishing a reasonable timeline. Your timing depends on how much you plan to put down and how much you\u2019re able to save each month. Location matters, too, since average home costs vary widely in the U.S. depending on where you live. If you hope to be in a home sooner rather than later, you may choose to put less money down and settle for a higher mortgage rate or choose a longer mortgage term to achieve your homeowner goals more quickly \u2014 just be sure you understand how these tradeoffs affect your total cost of borrowing. Other costs to save for when buying a home While the down payment is the biggest homebuying expense for most people, there are other costs you need to factor in, including: Closing costs: These may include origination fees, title insurance and more. Typically, this is 2% to 5% of the principal amount. Mortgage reserves : Your lender may require you to have cash or accessible assets in reserve, amounting to several months of mortgage payments. Maintenance and repairs: According to Bankrate\u2019s 2025 Hidden Costs of Homeownership Study , home maintenance costs average $8,808 a year. Home insurance: Although not required like car insurance, home insurance offers peace of mind that you\u2019ll have help with catastrophic costs from a fire, hurricane or other covered peril. The average cost of home insurance in the U.S. is $2,424 per year. Moving expenses : These vary widely, depending on location and the number of items you are moving. The average cost of hiring professional movers is $1,705, according to HomeAdvisor data . Why we ask for feedback Your feedback helps us improve our content and services. It takes less than a minute to complete. Your responses are anonymous and will only be used for improving our website. Facebook Icon Twitter Icon LinkedIn Icon Email Envelope Icon Article sources Caret Down Icon We use primary sources to support our work. Bankrate\u2019s authors, reporters and editors are subject-matter experts who thoroughly fact-check editorial content to ensure the information you\u2019re reading is accurate, timely and relevant. \u201c NAR: Most Metros Still Posting Record-high Housing Wealth .\u201d National Association of Realtors. Accessed on Feb. 5, 2026. \u201c NAR 2025 Profile of Home Buyers, Sellers Reveals Market Extremes .\u201d National Association of Realtors. Accessed on Feb. 5, 2026. \u201c How Much Do Movers Cost in 2025? \u201d HomeAdvisor. Accessed on Feb. 5, 2026. You may also like",
+      "headings": []
+    },
+    {
+      "rank": 15,
+      "domain": "sistarmortgage.com",
+      "url": "https://sistarmortgage.com/blog/how-to-save-money-for-a-house",
+      "title": "10 Effective Tips to Save Money for a House - Sistar Mortgage",
+      "word_count": 1731,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://sistarmortgage.com/uploads/blogs/how-to-save-money-for-a-house-10-8832481094.png",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://sistarmortgage.com/assets/aa8a57dc/images/date.svg",
+          "alt": "Date",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://sistarmortgage.com/assets/aa8a57dc/images/admin.svg",
+          "alt": "Admin",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 16,
+      "domain": "homelight.com",
+      "url": "https://www.homelight.com/blog/buyer-money-saving-tips-for-buying-a-house/",
+      "title": "13 Money-Saving Tips to Help You Buy a House for Less - HomeLight",
+      "word_count": 5100,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://hl-blog.homelight.com/wp-content/uploads/2021/03/money-saving-tips-for-buying-a-house.png",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.homelight.com/blog/wp-content/uploads/2021/03/money-saving-tips-for-buying-a-house-775x436.png",
+          "alt": "An image of a piggy bank to depict money saving tips for buying a house.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.homelight.com/blog/wp-content/uploads/2018/12/emma-headshot-150x150.jpg",
+          "alt": "Image of post author",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.homelight.com/blog/wp-content/uploads/2024/07/Jedda_Fernandez-150x150.jpg",
+          "alt": "Image of post author",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.homelight.com/blog/wp-content/themes/ccprototypev5/images/logo-small-cta.png",
+          "alt": "homelight logo",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.homelight.com/blog/wp-content/uploads/2022/01/house-hunting-7-192x102.png",
+          "alt": "A neighborhood where you might go house hunting.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.homelight.com/blog/wp-content/uploads/2021/10/first-time-home-buyer-tips-192x102.png",
+          "alt": "A door in front of a house.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.homelight.com/blog/wp-content/uploads/2021/04/Untitled-design-8-192x108.png",
+          "alt": "A home purchased using our \"How to Buy a House\" tips.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.homelight.com/blog/wp-content/uploads/2024/05/Untitled-design-2024-05-30T022459.216-192x108.png",
+          "alt": "A home whose buyer is learning how to pick a real estate agent",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.homelight.com/blog/wp-content/uploads/2023/09/HomeLight-Featured-Image-14-432x244.png",
+          "alt": "Signing a buy before you sell mortgage agreement",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.homelight.com/blog/wp-content/uploads/2026/04/iriana88w-deposit-photos-1-432x243.jpg",
+          "alt": "A house you can afford if you make $70,000 a year",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.homelight.com/blog/wp-content/uploads/2024/06/HomeLight-Header-Image-1000-\u00d7-563-px-5-432x243.png",
+          "alt": "Downtown cityscape of Boston, where real estate investors can work with a hard money lender",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.homelight.com/blog/wp-content/uploads/2024/07/typical-down-payment-on-a-house-432x243.png",
+          "alt": "A house with a typical down payment.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.homelight.com/blog/wp-content/uploads/2021/07/Untitled-design-4-192x108.png",
+          "alt": "A man puts coins in a jar to symbolize investments to save for a house.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.homelight.com/blog/wp-content/uploads/2021/11/invest-in-401K-or-save-for-a-house-2-192x102.png",
+          "alt": "The word 401k on money, to indicate investing in 401k or saving for a house.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.homelight.com/blog/wp-content/uploads/2022/01/Untitled-design-98-192x108.png",
+          "alt": "A person researching how to save to buy a house.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.homelight.com/blog/wp-content/uploads/2020/05/Untitled-design-2024-08-20T002409.329-min-192x108.jpg",
+          "alt": "A balcony on a house that you could buy.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.homelight.com/blog/wp-content/uploads/2021/10/how-to-save-for-a-house-in-6-months-192x102.png",
+          "alt": "A house that was newly purchased after saving up for 6 months.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.homelight.com/blog/wp-content/uploads/2018/08/how-to-take-real-estate-photos-192x108.png",
+          "alt": "A photo of a woman taking pictures that represents how to take real estate photos and sell faster",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.homelight.com/blog/wp-content/uploads/2022/02/Untitled-design-8-min-192x108.jpg",
+          "alt": "A couple making a list of things to do before hiring a real estate agent.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.homelight.com/blog/wp-content/uploads/2023/06/HomeLight-Header-Image-2-192x108.png",
+          "alt": "An image showing wooden beams indicating that the house may need a termite inspection",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.homelight.com/blog/wp-content/uploads/2026/04/Untitled-design-2026-04-23T212343.926-192x108.jpg",
+          "alt": "A house that an owner might sell for cash in Layton, UT",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.homelight.com/blog/wp-content/uploads/2026/04/How-to-Sell-My-House-for-Cash-in-Carolina-Forest-192x108.jpg",
+          "alt": "A house in Carolina Forest, where home sellers can choose to sell for cash",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 17,
+      "domain": "wealthtender.com",
+      "url": "https://wealthtender.com/insights/money-management/9-simple-ways-to-save-for-a-home-fast/",
+      "title": "9 Simple Ways to Save for a Home Fast - Wealthtender",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://wealthtender.com/wp-content/uploads/2021/01/How-to-Save-for-a-House.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 18,
+      "domain": "nationwide.com",
+      "url": "https://www.nationwide.com/lc/resources/home/articles/saving-for-a-house",
+      "title": "Saving for Your First House - Nationwide",
+      "word_count": 787,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.nationwide.com/staticassets/LC_save-for-house_10599_3800_tcm108-33381.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 19,
+      "domain": "pnc.com",
+      "url": "https://www.pnc.com/insights/personal-finance/borrow/how-to-save-for-a-house.html",
+      "title": "How to Save for a House | PNC Insights",
+      "word_count": 0,
+      "scrape_status": "failed",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 20,
+      "domain": "youtube.com",
+      "url": "https://www.youtube.com/watch?v=OhthfN11lwU",
+      "title": "How to Save Money For A House FAST (7 Downpayment ... - YouTube",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    }
+  ],
+  "battle_plan_generated_at": "2026-04-26T10:44:50.875748+00:00",
+  "competitors_analyzed_count": 4,
+  "battle_plan_method": "local_deterministic_agent_no_api"
+}

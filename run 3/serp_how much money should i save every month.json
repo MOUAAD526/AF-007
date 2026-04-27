@@ -1,0 +1,643 @@
+{
+  "article_context": {
+    "angle": "Manual tracking (spreadsheet/pen & paper) builds superior awareness and control",
+    "pain_points": [
+      "Tracking spending without a budget leads to confusion",
+      "Impulse spending driven by emotional triggers",
+      "Financial leaks from forgotten subscriptions/expenses",
+      "Growing up poor creates shame and skewed money mindset"
+    ],
+    "top_social_questions": [
+      "How much money should I save each month?",
+      "Why am I still broke after tracking my spending?"
+    ],
+    "dominant_emotion": "Confusion/Frustration",
+    "serp_intent": "Searchers using 'how much money should i save every month' seek actionable benchmarks and strategies for allocating income to savings amid everyday expenses and long-term goals like emergencies or retirement. Top SERP results typically include articles from financial advisors, budgeting tools, and rules of thumb that emphasize percentages of income rather than fixed dollars, with overlaps to personal finance blogs and calculators.",
+    "serp_title_pool": {
+      "primary": [
+        "How much money do you save a month? : r/Frugal - Reddit",
+        "How Much Money Should I Save Each Month? - NerdWallet",
+        "How much should I save each month | TIAA",
+        "How Much Money Should You Save Each Month?",
+        "How Much Should I Save Each Month? | Bankrate",
+        "How Much Money Should I Save Each Month?",
+        "How Much Money Should I Save a Month? - SoFi",
+        "Here's how much money you should be saving from every paycheck",
+        "How much money should I save each year for retirement? | Fidelity",
+        "How Much Money Should You Save Monthly? | Best Egg",
+        "How Much Money Should You Save Each Month?",
+        "How Much Money Should You Save Each Month?",
+        "How much should I save each month?",
+        "10 Simple Ways to Save Money Each Month",
+        "Fidelity's easy budgeting guideline",
+        "How much should you REALLY SAVE every month/year?",
+        "14 WAYS TO SAVE MONEY EACH MONTH WITHOUT ...",
+        "How Much Money Should You Have in Savings?",
+        "Save Money Calculator"
+      ],
+      "long_tail": [
+        "What percentage of my income should I save?",
+        "How Much of Your Paycheck Should Go to Savings?",
+        "How Much of My Paycheck Should I Save?",
+        "How Much Money You Should Save Every Paycheck",
+        "How Much of Your Paycheck Should You Save?",
+        "How Much of Your Paycheck Should You Save?",
+        "How much money should you be putting away each payday?",
+        "Fidelity's easy budgeting guideline",
+        "How Much of Your Paycheck Should You Save?",
+        "How much should I save each month"
+      ],
+      "question": [
+        "What percentage of my income should I save? : r/personalfinance",
+        "Here's how much money you should be saving from every paycheck",
+        "How Much of My Paycheck Should I Save? - YNAB",
+        "How much should I save each month | TIAA",
+        "How Much Should I Save Each Month? | Bankrate",
+        "How much money should I save each year for retirement? | Fidelity",
+        "How Much of Your Paycheck Should You Save? - Chime",
+        "What is the 50/30/20 Budget Rule, and Is it Right for You? | Citizens",
+        "Beyond Finances: How Much to Save This Year",
+        "How Much of Your Paycheck Should You Save? | Equifax"
+      ]
+    },
+    "paa_questions": [
+      {
+        "q": "What is a good amount to save a month?",
+        "a": "Here's a final rule of thumb you can consider: at least 20% of your income should go towards savings. More is fine; less may mean saving longer."
+      }
+    ],
+    "related_searches": [
+      "How much money should i save every month calculator",
+      "How much money should i save every month reddit",
+      "How much to save per month calculator based on salary",
+      "How much should I save each month for a house",
+      "Saving $1,000 a month calculator",
+      "How much money should I have in my savings account at 30",
+      "How much should you save a month not including retirement",
+      "How much should I be saving a month for retirement"
+    ]
+  },
+  "primary_keyword": "how much money should i save every month",
+  "competitors": [
+    {
+      "rank": 1,
+      "domain": "reddit.com",
+      "url": "https://www.reddit.com/r/Frugal/comments/1djq53m/how_much_money_do_you_save_a_month/",
+      "title": "How much money do you save a month? : r/Frugal - Reddit",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 2,
+      "domain": "nerdwallet.com",
+      "url": "https://www.nerdwallet.com/finance/learn/how-much-should-i-save-each-month",
+      "title": "How Much Money Should I Save Each Month? - NerdWallet",
+      "word_count": 1562,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.nerdwallet.com/tachyon/2021/11/GettyImages-12924601581.jpg?resize=2400%2C1440",
+        "alt": "",
+        "description": "Clean, minimalist custom illustration or high-quality object stock photo.",
+        "type": "minimalist_branded_asset"
+      },
+      "article_images": [
+        {
+          "url": "https://i.ytimg.com/vi_webp/DK-WciQjfxU/sddefault.webp",
+          "alt": "Video thumbnail",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.nerdwallet.com/assets/blog/wp-content/uploads/2019/08/lschwahn-user-avatar-160x160.jpg",
+          "alt": "Lauren Schwahn",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdns3.nerdwallet.com/lending/publication-logos/Marketwatch.webp",
+          "alt": "MarketWatch",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdns3.nerdwallet.com/lending/publication-logos/NASDAQ.webp",
+          "alt": "Nasdaq.com",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdns3.nerdwallet.com/lending/publication-logos/TheAssociatedPress.webp",
+          "alt": "The Associated Press",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdns3.nerdwallet.com/lending/publication-logos/TheNewYorkTimes.webp",
+          "alt": "The New York Times",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "SOME CARD INFO MAY BE OUTDATED This page includes information about these cards, currently unavailable on NerdWallet. The information has been collected by NerdWallet and has not been provided or reviewed by the card issuer. document.addEventListener(\"DOMContentLoaded\",function(){const t=Array.from(document.querySelectorAll(\".out-of-date-message-flag\"));if(!t.length)return;const n=Array.from(new Set(t.map(e=>(e.getAttribute(\"data-name\")||\"\").trim()).filter(Boolean))).sort();if(!n.length)return;function a(e){return e.length===1?\"the \"+e[0]:e.length===2?\"the \"+e[0]+\" and the \"+e[1]:\"the \"+e.slice(0,-1).join(\", \")+\", and the \"+e[e.length-1]}const r=a(n),o=document.getElementById(\"oodm-text\");o&&(o.textContent=\"This page includes information about \"+r+\", currently unavailable on NerdWallet. The information about \"+r+\" has been collected by NerdWallet and has not been provided or reviewed by the card issuer.\")}); The investing information provided on this page is for educational purposes only. NerdWallet, Inc. does not offer advisory or brokerage services, nor does it recommend or advise investors to buy or sell particular stocks, securities or other investments. The importance of saving money is clear. It can help you cope with life\u2019s unplanned expenses and set you up for a comfortable future. How much of your paycheck should you save each month? Well, that depends on your goals. Many experts say to aim for between 10% and 20%, but that\u2019s not a golden rule. So let\u2019s dig into that. How much should you save each month? One popular guideline, the 50/30/20 budget , proposes spending 20% of your monthly take-home pay on savings and debt repayment. The bulk of your money \u2014 50% \u2014 goes to necessities, and the remaining 30% to wants. The 20% for savings consists of an emergency fund, retirement and other long-term financial goals , such as paying for a home, a reliable car or your child\u2019s education. As for the other buckets, the 50% for necessities includes non-negotiable expenses like utility bills and the monthly minimum payment on any debt you have. The 30% for wants is allocated to leisure spending, such as going out to eat or taking a road trip. Figure out what\u2019s realistic for you The 20% rule is a good general guide, but it isn\u2019t the right fit for everyone. Some people can save above that rate, while others merely struggle to make ends meet. \u201cSome people pay their rent and they have nothing left. So how are they possibly going to save 20%?\u201d says Tara Unverzagt, a certified financial therapist and certified financial planner in Torrance, California. \u201cYou need to look at your situation to see what is reasonable and what\u2019s not reasonable.\u201d You can use a budget template to compare your estimated monthly spending and saving totals with the recommended 50/30/20 budget figures. Don\u2019t feel ashamed if you\u2019re saving below the suggested rate or nothing at all. There may be ways to make more money or cut spending to help you save more. For example, canceling a rarely used gym membership could free up around $40 or $50 every month. Your income, expenses and goals should ultimately determine how much you\u2019re able to save each month. \u201cIf the goal is to retire at 40, you need to save a heck of a lot more than people who are shooting for 65 because you have 25 fewer years for that money to compound,\u201d says Tess Zigo, a CFP in Palm Harbor, Florida. Start with something If saving roughly 20% of your monthly paycheck isn\u2019t within reach, try not to get hung up on that specific number. As Unverzagt puts it, \u201cany savings is good savings.\u201d Start with a manageable amount, such as $10 per week or paycheck, she says. Setting aside $10 each week adds up to $520 a year. That\u2019s a solid amount for a starter emergency fund . Putting savings into a high-yield savings account is one way to leverage compound interest and further grow your savings. Ideally, you\u2019ll save toward multiple financial goals at once. But if you can\u2019t, it\u2019s OK to prioritize. For example, focus on building a basic emergency fund first, then on saving enough to get the employer match on your 401(k) \u2014 if you have one. After that, you can move on to increase retirement contributions or establish a full emergency fund of three to six months\u2019 worth of living expenses. Can you save too much? Having a lot of money saved seems like a good problem to have. But it can have disadvantages. For example, if saving gives you anxiety or causes you to take on debt, you may want to dial back. \u201cThere could be a lot of downsides, right? You\u2019re working more than you need to, so you\u2019re giving up time with your family. You\u2019re not spending that time and that money on things that are important to you today,\u201d Zigo says. \u201cYou can\u2019t take the money to the grave, so what is the end goal here?\u201d Keep your values in perspective. Saving for the future shouldn\u2019t come at the expense of your present-day needs and those of your household. \u201cMaxing out your 401(k) can be appropriate for someone who\u2019s making $120,000 and single with no family. It may not be appropriate for somebody who is not in that situation,\u201d Unverzagt says. In any case, it\u2019s important not to overshoot your savings. If you tie up too much money in a retirement account and end up needing to withdraw early, you could face taxes and penalties. A retirement calculator will help you work out a realistic number. Storing too much in an easily accessible savings account, say for an emergency fund, can also backfire. For example, you can miss out on higher returns compared with investment accounts or the tax savings you\u2019d get by directing some of that money to a 401(k) or IRA. How to save money every month Whether you want to start saving money or get better at it, here\u2019s some advice: Pay yourself first. Each time you receive a paycheck, immediately put some of it away for savings before you can spend it on other expenses. This budgeting approach is known as pay yourself first . Automate. Control the amount and how often you save by automatically setting aside a portion of each paycheck. \u201cThe 401(k) is a great place to start because you don\u2019t have to do much,\u201d Zigo says. \u201cThe company gives you the website. You just go in and click a few buttons and pick a percent to contribute.\u201d You can also set up automatic transfers to your savings account or a retirement account through your financial institution or a savings app. Get professional help: Hiring a financial advisor can be expensive, but there are also ways to get quality free or inexpensive financial advice . Audit your finances periodically. Circumstances change. So should your approach to saving money. As your income and expenses fluctuate, adjust your savings rate as needed. {\"@context\":\"https://schema.org\",\"@type\":\"VideoObject\",\"name\":\"4 Ways To MASTER Savings (Beginner To Pro) | NerdWallet\",\"description\":\"Saving money is an important factor towards financial security and growing your wealth, but you don't know what you don't know so where do YOU start? Finance Nerd Nikita Turk takes you through the 4 levels of saving, from a money newbie to a finance pro, to help you understand where you are at on your financial journey and what to work towards as you grow your finances.\\n\\nSuggested Articles:\\nSavings Tips for Newbies, Experts and Everyone in Between: https://www.nerdwallet.com/article/banking/savings-tips-for-newbies-experts-and-everyone-in-between\\n\\nChapters:\\n0:00 - Intro\\n0:32 - Beginner Tips To Saving: Setting Up Your Savings Account And Adding Consistently Into It\\n2:17 - Intermediate Tips To Saving: Expand Your Account Types\\n4:51 - Advanced Tips To Saving: Build Your Investing Strategy\\n6:51 - Professional Tips to Saving: Scale Your Savings Strategy\\n\\n#NerdWallet #SavingMoney #Budgeting\\n\\nSubscribe to NerdWallet - https://bit.ly/3wGvVf3 \\n\\nAbout NerdWallet:\\nWe\u2019re NerdWallet. And we\u2019re not your typical finance company. We believe that everyone should be able to make financial decisions with confidence. We\u2019ve built a team of Nerds with the knowledge, passion, and skills to make that happen. Thanks to our Nerdy experts, see side-by-side comparisons and objective reviews of the best credit cards, bank accounts, and so much more \u2014 so you can get even more financial clarity. It\u2019s the smartest decision for all your financial decisions. \\n\\nDisclaimer: This video is for informational and educational purposes only. NerdWallet does not offer advisory or brokerage services, nor does it recommend or advise investors to buy or sell particular stocks or securities. Any comments posted under NerdWallet's official account videos are not reviewed or endorsed by NerdWallet or representatives of financial institutions affiliated with the reviewed products unless explicitly stated otherwise. Avoid disclosing personal or sensitive information such as bank accounts or phone numbers. NerdWallet employees do not offer personalized financial advice and will not respond to posts here.\\n\\nConnect with NerdWallet:\\nFollow NerdWallet on TikTok: https://tiktok.com/@nerdwallet \\nFollow NerdWallet on Instagram: https://instagram.com/nerdwallet \\nFollow NerdWallet on Twitter: https://twitter.com/NerdWallet \\nFollow NerdWallet on Facebook: https://facebook.com/NerdWallet \\nNerdWallet Website: https://nerdwallet.com \\n\\n4 Ways To MASTER Savings (Beginner To Pro) | NerdWallet\\n width=\\\"480\\\" height=\\\"270\\\" src=\\\"//www.youtube.com/embed/DK-WciQjfxU\\\" frameborder=\\\"0\\\" allow=\\\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\\\" referrerpolicy=\\\"strict-origin-when-cross-origin\\\" allowfullscreen> \"} \u00bb Learn: Different ways to save money Explore more on The Financial Glow Up Money News You Can Use Money Management Making Money Paying Your Bills Personal Finance Back to top About the author Lauren Schwahn is a writer at NerdWallet who covers credit scoring, debt, budgeting and money-saving strategies. She contributed to the \"Millennial Money\" column for The Associated Press and managed a team of writers producing content for the series. Her work has also been featured by USA Today, MSN, The Washington Post and more. Lauren has a bachelor\u2019s degree in history from the University of California, Santa Cruz. She is based in San Francisco. Published in",
+      "headings": []
+    },
+    {
+      "rank": 3,
+      "domain": "tiaa.org",
+      "url": "https://www.tiaa.org/public/learn/personal-finance-101/how-much-of-my-income-should-i-save-every-month.",
+      "title": "How much should I save each month | TIAA",
+      "word_count": 757,
+      "scrape_status": "tavily_fallback",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": "# How much should I save each month? Authored by Paula Pant When someone asks how much money they should save each month, I throw them a curveball reply: \"What are your savings goals\"? That's a serious question. Your ideal savings rate depends on your specific, long-term reasons for saving. There are three timelines you should consider: ## Less than 1 year Your short-term savings can get used to vacation in Aruba, buy holiday gifts or pay your taxes. ## Less than 1 decade You might use this money to replace your dishwasher, fix your car's timing belt, cover a major insurance deductible, stay afloat when you're between jobs and make a down payment on a home. ## Lifetime Retirement is the ultimate long-term savings goal. Now back to the original question: How much should you save a month? Let's break this down by goal: ## 1. Retirement You should consider saving 10 - 15% of your income for retirement. Sound daunting? Don't worry: your employer match, if you have one, counts. If you save 5% of your income and your boss matches another 5%, you've accomplished a 10% savings rate. Our online tools can help you calculate your needs for retirement and other financial goals. ## 2. Emergencies You should also consider establishing an \"emergency fund\" that can cover 3-9 months of your living expenses. How can you save such a large sum? First, calculate your monthly cost-of-living. Assume that if you lose your job, you'll sacrifice luxuries such as pedicures or your premium cable TV package. How much do you need to survive? Divide that number in half. Can you save this monthly? If so, you'll build a six-month emergency fund within the next year. ## 3. Everything else Make a list of major expenses within the next decade, ranging from replacing your gutters to throwing your wedding. (If it's easier, list broad categories like \"home repairs,\" \"holidays\" and \"wedding.\") Write your ideal savings goal target and deadline. Divide by the number of months remaining to see how much you should save. Want to pay cash for a $10,000 car in five years? You'll need $167 per month. When you run through this exercise, you'll probably discover that you can't save enough for every savings goal on your list. You now have four options: * Re-imagine your savings goals * Lengthen your timeline * Cut your current spending * Earn more Most people opt for a combination of those four choices. You might decide you'd be happy buying a $7,000 car, which will require only $116 per month. You cut your $50 cable bill and pick up a babysitting gig one night per month, and voila \u2014 now you're on-track to pay cash for your next car. ## 50/30/20 rule Did you want a simpler answer? No problem. Here's a final rule of thumb you can consider: at least 20% of your income should go towards savings. More is fine; less may mean saving longer. At least 20% of your income should go towards savings. Meanwhile, another 50% (maximum) should go toward necessities, while 30% goes toward discretionary items. This is called the 50/30/20 rule of thumb, and it provides a quick and easy way for you to budget your money. If you want to optimize your savings, run through the exercise described above. ## Paula Pant Paula Pant is a personal finance journalist who has been featured on MSN Money, Bankrate, Marketplace Money, AARP Bulletin, and more. TIAA has sponsored this post for information purposes only. Paula Pant is not affiliated with TIAA, and TIAA makes no representations regarding the accuracy or completeness of any information on this post or otherwise made available by her. Ms. Pant's statements are solely her own and are not endorsed or recommended by TIAA. ## We're here to help ### Already with TIAA? Manage your money with secure online access. Get online access Opens in new window ### New to TIAA? Enrolling is your first step to saving for the future. Enroll in your plan ### Want to talk first? Let's start the conversation. Contact us This material is for informational or educational purposes only and does not constitute fiduciary investment advice under ERISA, a securities recommendation under all securities laws, or an insurance product recommendation under state insurance laws or regulations. This material does not take into account any specific objectives or circumstances of any particular investor, or suggest any specific course of action. Investment decisions should be made based on the investor's own objectives and circumstances.",
+      "headings": []
+    },
+    {
+      "rank": 4,
+      "domain": "tpfcu.com",
+      "url": "https://tpfcu.com/blog/how-much-money-should-you-save-each-month/",
+      "title": "How Much Money Should You Save Each Month?",
+      "word_count": 101,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://tpfcu.com/wp-content/uploads/2025/05/graphic-representation-of-saving-money-each-month-stacking-coins.jpg",
+        "alt": "",
+        "description": "Data visualization or financial chart graphic.",
+        "type": "graphic_design_data"
+      },
+      "article_images": [
+        {
+          "url": "https://tpfcu.com/wp-content/uploads/2026/04/image1.jpg",
+          "alt": "Someone getting cash from a bank teller",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://tpfcu.com/wp-content/uploads/2021/07/image1.jpg",
+          "alt": "A graphic representation of a man checking his credit score",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://tpfcu.com/wp-content/uploads/2026/03/image2-2.jpg",
+          "alt": "A woman holding her phone and a bank card grinning",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "Federal vs. State Credit Unions: What\u2019s the Difference? Credit unions offer a member-focused alternative to traditional banking, but not all credit unions operate under the same structure. One of the most important distinctions Smart Strategies to Clean Up Your Credit and Boost Your Score Cleaning up your credit can feel overwhelming at first, especially if you\u2019re dealing with missed payments, high balances, or accounts in collections. The good news How Credit Unions Support Smarter Financial Habits Financial success is shaped by repeated behaviors. The way you spend, save, borrow, and review your accounts determines long-term stability more than any single financial",
+      "headings": []
+    },
+    {
+      "rank": 5,
+      "domain": "bankrate.com",
+      "url": "https://www.bankrate.com/banking/savings/how-much-money-should-i-save-each-month/",
+      "title": "How Much Should I Save Each Month? | Bankrate",
+      "word_count": 1626,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.bankrate.com/2020/10/12150537/save-per-month.jpeg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.bankrate.com/2024/04/13115033/Sheiresa-Ngo-Picture.jpeg?auto=webp&quality=85&width=24&height=24&fit=cover&enable=upscale&crop=1:1,smart",
+          "alt": "Sheiresa McRae Ngo, CEPF\u00ae",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.bankrate.com/brp/2024/07/18182829/Rhys-Subitch-pfp-update-1.png?auto=webp&quality=85&width=24&height=24&fit=cover&enable=upscale&crop=1:1,smart",
+          "alt": "Rhys Subitch",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.bankrate.com/brp/2025/01/29160414/Emmanuel-Nyame-11.png?auto=webp&quality=85&width=24&height=24&fit=cover&enable=upscale&crop=1:1,smart",
+          "alt": "Emmanuel Nyame",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.bankrate.com/2024/04/13115033/Sheiresa-Ngo-Picture.jpeg?auto=webp&quality=85&width=64&height=64&fit=cover&enable=upscale&crop=1:1,smart",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.bankrate.com/brp/2024/07/18182829/Rhys-Subitch-pfp-update-1.png?auto=webp&quality=85&width=64&height=64&fit=cover&enable=upscale&crop=1:1,smart",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.bankrate.com/brp/2025/01/29160414/Emmanuel-Nyame-11.png?auto=webp&quality=85&width=64&height=64&fit=cover&enable=upscale&crop=1:1,smart",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.bankrate.com/2020/10/12150537/save-per-month.jpeg?auto=webp&optimize=high&crop=16:9",
+          "alt": "A woman does her budgeting.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.bankrate.com/2024/04/13115033/Sheiresa-Ngo-Picture.jpeg?auto=webp&quality=85&width=96&height=96&fit=cover&enable=upscale&crop=1:1,smart",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.bankrate.com/2021/08/04092301/The-best-places-to-keep-your-emergency-fund.jpeg",
+          "alt": "Man using cell phone in living room",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.bankrate.com/2024/04/06134724/GettyImages-1915378308-1.jpg",
+          "alt": "Man using laptop in kitchen",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.bankrate.com/brp/2024/09/10122921/GettyImages-1484749250-1-300x169.jpg",
+          "alt": "Golden piggy bank and golden coins",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.bankrate.com/brp/2023/10/21104822/How-much-should-you-have-in-savings-at-each-age-300x169.jpg",
+          "alt": "illustration of money growing on trees",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "Table of contents How much you should save a month What should you save for? Where to put your savings each month Ways to boost your savings Building a sustainable savings habit Key takeaways Financial experts typically recommend saving 15-20% of your gross income each month, but the right amount varies based on your personal situation and goals. The 50/30/20 budgeting rule suggests allocating 20% of your take-home pay toward savings and debt repayment. Prioritize building an emergency fund of 3-6 months\u2019 expenses before focusing on other savings goals. Where you save matters: high-yield savings accounts, retirement accounts and other investment vehicles help your money grow faster than traditional savings accounts. Most Americans struggle to save enough money. According to Bankrate\u2019s 2025 Emergency Savings Report , only 41% of U.S. adults could cover an unexpected $1,000 expense from savings. Whether you\u2019re just starting your savings journey or looking to boost your existing savings strategy, understanding how much to save each month is a crucial first step. How much should you save each month? \u201cWhile I know everyone loves rules of thumb and easy tips, there isn\u2019t a percentage that works across the board for everyone,\u201d says Laura Davis, CFP and founder of Financial Labs Inc. There\u2019s no one-size-fits-all answer to how much you should save monthly, but there are several widely accepted guidelines that can help you establish a reasonable target for yourself: The 15% to 20% rule Many financial experts recommend saving at least 15% to 20% of your gross income before taxes and other deductions. This percentage includes retirement contributions \u2014 including employer matches \u2014 emergency fund contributions and savings for specific goals, like a home down payment or vacation. The 50/30/20 budget rule The 50/30/20 budgeting method offers a simplified framework for managing your money. It suggests allocating 50% of your take-home pay toward needs (housing, food, utilities), 30% toward wants (entertainment, dining out), and 20% toward savings and debt repayment. Adjusted for income level Your income level will impact how much you\u2019re able to save. If you have a lower income, focus on building at least a small emergency fund first, even if you can only save 5% to 10% of your income. Some money saved is better than none at all \u2014 even if you have to move it back out of savings to pay for necessities, putting it in to begin with will help build the habit. Those with middle incomes should aim for 15% to 20%, balancing emergency savings, retirement and other goals. Higher-income earners might consider saving more than 20% to maximize tax advantages and build wealth faster. Remember these are guidelines, not strict rules. The right savings amount for you depends on your individual circumstances, including your age, debt level, income stability and long-term goals. Whether using the 50/30/20 roadmap, or some other game plan for savings, the truth is that if it works to help an individual or household achieve financial goals, that\u2019s a good thing. The income, financial resources and expenses vary from household to household. So, what might work for one might be less than optimal for another. \u2014 Mark Hamrick, Bankrate\u2019s Washington bureau chief and senior economic analyst What should you save for? Think about saving money like running a race: The competition is going to feel a lot better if you have an idea of which direction to head for the finish line. Of course, saving isn\u2019t ever really finished \u2014 you\u2019ll be constantly working toward different financial goals over the course of your life . 1. Emergency fund (highest priority) Your emergency fund serves as financial protection against unexpected expenses or income disruptions. Aim to save a minimum of $1,000 as a starter emergency fund, with an ideal target of three to six months\u2019 of essential expenses. Those with variable income or less stable employment should target the higher end of this range or potentially save even more. 2. Retirement savings The earlier you start saving for retirement, the more time your money has to grow through compound interest . At minimum, contribute enough to your employer\u2019s retirement plan to receive the full match \u2014 it\u2019s essentially free money. Ideally, aim to put 10% to 15% of your gross income toward retirement, including employer matches. 3. Specific financial goals After establishing your emergency fund and retirement savings, allocate additional savings toward your personal financial goals. These might include a down payment for a home, children\u2019s education through 529 college savings plans, major purchases like a car or home renovation, travel experiences or even early retirement. Where to put your savings each month In addition to thinking about how much you should be saving, you should also consider where you should be depositing the money. Different savings goals require different types of accounts. For emergency funds and short-term goals (0-3 years) High-yield savings accounts offer significantly better interest rates than traditional savings accounts, helping your money keep pace with or exceed inflation while remaining easily accessible. Money market accounts sometimes offer competitive rates with limited check-writing privileges. For funds you won\u2019t need immediately, certificates of deposit (CDs) can provide higher rates, especially through a CD ladder strategy . For mid-term goals (3-10 years) High-yield savings accounts or CDs will likely still be best for goals within this timeframe. Investment accounts with conservative to moderate allocations may be suitable, depending on your risk tolerance and timeline. Series I savings bonds offer inflation protection for funds you won\u2019t need for at least one year. For long-term goals (10+ years) 401(k)s, IRAs and other retirement accounts offer tax advantages that significantly boost long-term growth. Brokerage accounts provide flexibility for non-retirement long-term goals, while 529 college savings plans offer tax advantages specifically for education savings. Ways to boost your savings Once you have an idea of where things stand and what you can afford, you can begin to focus on how to save more each month. Pay yourself first. Treat savings as a non-negotiable expense, just like your rent or mortgage. Make saving your first financial priority each month before allocating money to discretionary spending. Automate your savings. Set up automatic transfers from your checking account to your savings accounts on payday. What you don\u2019t see in your checking account, you\u2019re less likely to spend. Track your spending. Consider using a budgeting app or spreadsheet to track your spending and identify if there are any places you can cut back and put the difference into savings. Cut unnecessary expenses. Review your spending habits to identify areas where you can reduce expenses. Look for subscription services you rarely use, frequent dining out or takeout meals, impulse purchases and premium services that could be downgraded. Save any windfalls. This could include tax refunds, bonuses or cash gifts. Alternatively, you can look for ways to increase your income, like finding a higher-paying job or starting a side gig . Look for round-up tools. Some banks offer a feature that links your debit card spending to your savings account. For example, if you buy a coffee that costs $4.55, a round-up tool will automatically transfer 45 cents from your checking account to your savings account. Building a sustainable savings habit If saving 20% of your paycheck seems impossible right now, then save what you can. Just follow Davis\u2019 simple one-word rule: \u201cStart.\u201d Set realistic savings goals that challenge you without being so strict that you can\u2019t maintain them. A sustainable approach is better than an ambitious plan you quickly abandon. Remember that consistency over time matters more than the exact percentage you save each month. It\u2019s also a good idea to regularly monitor your savings growth to stay motivated. Many banking apps and financial tools make this easy by automatically tracking your savings and net worth. Seeing your progress visually can provide powerful motivation to continue your savings habit. It\u2019s OK to begin with something less than 20%, but to attempt to escalate the savings funding over time. I have yet to meet anyone who complained that they had saved too much money. \u2014 Mark Hamrick Bankrate\u2019s Washington bureau chief and senior economic analyst Balancing future goals with present needs Effective saving requires balancing tomorrow\u2019s goals with today\u2019s quality of life. To balance your short-term and long-term needs, distribute your savings across different time horizons to ensure you\u2019re prepared for both immediate needs and distant goals. Short-term savings might include your emergency fund, vacation fund and savings for major purchases. Medium-term goals could include a down payment for a home, education costs or career transition funds. Long-term savings typically focus on retirement, children\u2019s college fund and broader wealth building. Trying to save too aggressively can lead to \u201csavings burnout\u201d \u2014 where you become so restricted that you eventually abandon your savings plan entirely. To prevent this, build some discretionary spending into your budget and revisit your savings goals periodically. Find low-cost ways to enjoy life while still saving, and focus on cutting major expenses rather than denying yourself small pleasures. Your savings strategy should evolve as your life circumstances change. Career advancement often means you can increase your savings rate as your income grows. During major life transitions like job changes, moves or health challenges, you might temporarily modify your savings approach. As you approach retirement, shifting toward more conservative savings vehicles often makes sense. Remember that consistency matters more than perfection. The most successful savers aren\u2019t necessarily those who save the most every month, but those who save regularly over time. Why we ask for feedback Your feedback helps us improve our content and services. It takes less than a minute to complete. Your responses are anonymous and will only be used for improving our website. Facebook Icon Twitter Icon LinkedIn Icon Email Envelope Icon You may also like",
+      "headings": []
+    },
+    {
+      "rank": 6,
+      "domain": "ncoa.org",
+      "url": "https://www.ncoa.org/article/how-much-money-should-i-save-each-month/",
+      "title": "How Much Money Should I Save Each Month?",
+      "word_count": 1065,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://assets-us-01.kc-usercontent.com/ffacfe7d-10b6-0083-2632-604077fd4eca/3ea22a3a-fb56-488b-bdad-8226270333bd/How-Much-Money-Should-You-Save-Each-Month-iStock-1139792613-2024-3-FBLI-1200x630.jpg",
+        "alt": "Whether for retirement or an emergency fund, it\u2019s important to save money. Financial benefits programs can help, even when your budget is tight.",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.ncoa.org/_next/image/?url=https%3A%2F%2Fassets-us-01.kc-usercontent.com%3A443%2Fffacfe7d-10b6-0083-2632-604077fd4eca%2Fd34847c4-5db4-44a4-beb8-c1101efa0cf9%2FHow-Much-Money-Should-You-Save-Each-Month-iStock-1139792613-2024-3-Hero-1336x614.jpg&w=3840&q=75",
+          "alt": "Whether for retirement or an emergency fund, it\u2019s important to save money. Financial benefits programs can help, even when your budget is tight.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.ncoa.org/_next/image/?url=https%3A%2F%2Fassets-us-01.kc-usercontent.com%3A443%2Fffacfe7d-10b6-0083-2632-604077fd4eca%2F93999b21-b405-4690-9965-b960007ec568%2F2024-WEB-BCU%2520Featured%2520Content%2520Block%2520Image%2520%25281%2529.png&w=3840&q=75",
+          "alt": "An older couple sits at a dining table, viewing Benefits CheckUp on a laptop.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "Saving money isn\u2019t the easiest thing to do these days. This is even more true for those of us who live on fixed or limited incomes. Costs continue to rise, but our paychecks stay the same. How can we put extra cash in the bank when we can barely afford to cover day-to-day living expenses? \u201cFirst, know that it\u2019s never too late to save money,\u201d advised Jen Teague , Director for Health Coverage and Benefits at NCOA. \u201cAnd you can start with small steps. It\u2019s easy to feel overwhelmed by the idea but remember: anything you can set aside is a good thing.\u201d Whether you\u2019re currently employed and trying to save for retirement\u2014or are out of the workforce and want to build an emergency fund\u2014you likely want to know, \u201cHow much money should I save each month?\u201d As always, the answer depends. But there are some general guidelines that experts recommend. Let\u2019s take a look\u2014and see whether any of them might work for you. Why it\u2019s good to save money But first, a story. Charles, 74 (we changed his name to protect his privacy) lives in an apartment with a monthly cost that already stretched his limited budget. When his landlord recently raised the rent, Charles grew anxious. Even after asking his children for a little extra money\u2014something he really didn\u2019t want to do\u2014the math simply didn\u2019t add up. His Social Security check left no financial cushion for unexpected life events like this. He could pay the increased rent, but wouldn\u2019t have money for food, utilities, and other basic necessities. And what would he do next year if his landlord upped the amount again? \u201cAcross the United States, millions of older adults like Charles find themselves in a similar situation right now,\u201d Teague explained. Our nation\u2019s badly frayed safety net continues to fail people who don\u2019t have extra money to save for retirement\u2014and who now rely heavily on their Social Security paycheck to cover their basic living costs,\u201d Teague said. Fortunately, as Charles learned, there are ways to save money even when your budget is stretched thin. We\u2019ll get to that a little further down. Strategies to save money each month How much money should you save? If you like benchmarks, then it may help to know the current averages by age group, according to the most recent data published by the Federal Reserve: 1 55\u201364: $57,800 65\u201374: $60,400 75 and over: $55,600 These figures represent dollars kept in liquid accounts including checking, savings, money market, and some prepaid debit cards. Keep in mind, however, that they also may have little to do with your own financial reality. The very best way to answer the question, Teague said, is first to sit down and write a list of your income and non-discretionary expenses\u2014the things you need to pay. When you do that, you know exactly what you have to work with. Try using a simple budget calendar , which helps you see and get a handle on your finances in a straightforward way. Using your own personal bottom line as a guide, you then can see whether one or more of the following suggestions works for you. What is the 70/30 rule? This common guideline is easy to follow, at least in principle: Live on no more than 70% of your income Save 30% of your income Let\u2019s say you collect the average monthly Social Security benefit for a retired person, which is $1,976 as of January 2025. Ideally, according to the 70/30 formula, you should save around $593 each month. \u201cOf course, when you live on a fixed income, putting this amount of money aside can seem impossible,\u201d said Teague. \u201cSo instead, think of this guideline as way to prioritize your budget and practice good financial habits.\u201d In other words, the rule still can help guide your spending decisions: Is this purchase something I need ? Or is is something I want ? Try personalizing the rule to fit your situation more closely. Could you make 95/5 work instead? Find ways to cut non-essential costs Can you reduce your spending at all? If your budget is tight, this can be a good way to save money. And some of these savings hide in plain sight. For example, many cell phone providers offer service discounts for older adults. You just need to ask. Taking advantage of senior discounts can save you 5%, 10%, or even more on products and services you already buy. Explore benefits programs that can help you save money Millions of people miss out on saving money through public and private benefits programs simply because they don\u2019t know about them, don\u2019t believe they\u2019re eligible, or aren\u2019t sure how to apply. That\u2019s what Charles learned. And he\u2019s tremendously grateful for the life-saving support he discovered, thanks to his local Benefits Enrollment Center (BEC). These community-based centers and their caring, professional staff help Medicare-eligible people\u2014including older adults with low incomes and younger adults with disabilities\u2014find and apply for crucial financial assistance programs. With help from his benefits counselor, Charles signed up for SNAP (formerly known as Food Stamps), a Medicare Savings Program (MSP), and the Low-Income Home Energy Assistance Program (LIHEAP). Together, these programs will save Charles hundreds of dollars each month! \u201cWhen you qualify for and enroll in these programs, you keep more money in your pocket,\u201d Teague said. \u201cConsider it a different type of savings plan\u2014one that you\u2019ve earned and absolutely deserve.\u201d The bottom line \u201cThe biggest takeaway is that the idea of saving money should make you feel empowered, not ashamed,\u201d Teague said. \u201cAny savings is good savings. While it may be interesting to know how much money other people have in the bank, it\u2019s not always helpful. No two situations are the same. Try to avoid comparing yourself to an arbitrary average and instead focus on what\u2019s reasonable for you right now.\u201d Browse additional money-saving benefits Do you know about NCOA\u2019s BenefitsCheckUp \u00ae? This free, online tool connects millions of older adults with financial assistance programs that can help pay for health care, medicine, food, utilities, and more. Visit today to explore a variety savings opportunities for you or someone you know. 1. Aditya Aladangady, et al. Changes in U.S. Family Finances from 2019 to 2022: Evidence from the Survey of Consumer Finances. Board of Governors of the Federal Reserve System. October 18, 2023. Found on the internet at https://www.federalreserve.gov/econres/scfindex.htm",
+      "headings": []
+    },
+    {
+      "rank": 7,
+      "domain": "sofi.com",
+      "url": "https://www.sofi.com/learn/content/how-much-money-should-i-save-each-month/",
+      "title": "How Much Money Should I Save a Month? - SoFi",
+      "word_count": 2588,
+      "scrape_status": "tavily_fallback",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": "Loans Student Loan Refinancing Private Student Loans Auto Loan Refinance Personal Loans Mortgage Loans Home Equity Investing Invest Credit Cards Premium Membership Banking Crypto Insurance Estate Planning Financial Insights Business Solutions Business Checking Browse all products Member Benefits As a SoFi member, you get access to exclusive benefits designed to help set you up for success with your money, community, and career. See All Benefits SoFi Member Rewards Earn points for making moves toward financial independence\u2014every step of the way. Referral Program Refer your friends & family to SoFi and get paid. Member Advisory Board Meet our panel of SoFi Members who provide invaluable feedback across all our products and services. SoFi Stadium Members get exclusive SoFi Stadium perks like expedited entry, access to the SoFi Member Lounge, and more. Member Experiences SoFi Plus members now get one-of-a-kind entertainment access with SoFi Plus Experiences. Financial Planning Get personalized advice from a credentialed financial planner. Estate Planning Members get an exclusive discount on their trust, will or guardianship estate plan. See All Benefits Resources Get answers to your questions; plus tools, guides, calculators, & more. Visit SoFi Learn On the Money FAQs Eligibility Criteria Research Hub Fraud Support Top Resources See All Resources Top Tools See All Tools Learn More About Us Learn more about our mission and values, how we started, and what we\u2019ve accomplished since then. Learn More About Us Our Leadership Meet the SoFi leadership team and board members. How it Works Read about how SoFi works\u2014and how we can help you reach your financial goals. Our Values Learn more about SoFi\u2019s core values. Press Read through the latest SoFi news coverage. Investors Information for investors in SOFI common stock. Careers Come work with us! Inclusive Culture Learn about our commitment to fostering a welcoming workforce. Contact Us Questions? Comments? Just want to talk? Get in touch with us via phone or email. You are now leaving the SoFi website and entering a third-party website. SoFi has no control over the content, products or services offered nor the security or privacy of information transmitted to others via their website. We recommend that you review the privacy policy of the site you are entering. SoFi does not guarantee or endorse the products, information or recommendations provided in any third party website. Okay ## Select a product to get started. Invest \u2192 Personal Loans \u2192 Student Loan Refinancing \u2192 Banking \u2192 Mortgages \u2192 Credit Card \u2192 Private Student Loans \u2192 Insurance \u2192 Credit Score & Budgeting \u2192 Auto Loan Refinancing \u2192 Or just create an account. # How Much Money Should I Save a Month? By Amanda Holden. January 09, 2026 \u00b7 10 minute read This content may include information about products, features, and/or services that SoFi does not provide and is intended to be educational in nature. How much of your paycheck should you save each month? Financial professionals often recommend putting at least 20% of your monthly take-home income into savings for future financial goals, such as buying a home and funding your retirement. Exactly how much you should save each month, however, will depend on your income, current living expenses and financial obligations, as well as your goals. Here are some guidelines to help you decide how much of your income to stash in savings, plus tips on helping reach your goal. Table of Contents Key Points \u2022 Financial advisors often suggest saving at least 20% of your monthly take-home income for future goals. \u2022 A common budgeting technique is using the 50/30/20 rule: putting 50% of income toward essentials, 30% toward non-essentials, and 20% toward savings. \u2022 One easy way to increase savings is to automate recurring transfers from checking to savings accounts. \u2022 Funneling windfalls into savings and using roundups \u2014 a tool that saves the difference between a purchase price and the nearest higher dollar \u2014 can also boost savings. \u2022 One of the most effective ways to save money is to determine your near-term and long-term financial goals and to track spending and progress in a budget. ## How Much Should You Actually Be Saving Each Month? There\u2019s no one answer to \u201cHow much should I save each month?\u201d Each person\u2019s financial situation is different. Factors impacting how much you should save each month include income, expenses, debt, family size, and cost of living, among others. A commonly quoted bit of advice is to aim to save at least 20% of every paycheck. ### The 50/30/20 Rule Is a Popular Starting Point That 20% figure is part of the popular 50/30/20 budget rule. This technique says to put 50% of your take-home pay toward necessities (housing, utilities, minimum debt payments), 30% toward wants (travel, dining out, entertainment, and other fun purchases), and 20% toward savings and/or additional debt payments. This budget can help you get on track for regular savings and is flexible enough to accommodate the fact that you may be dealing with debt. You might try a 50/30/20 savings calculator to help you do the math or work with a monthly budget template. ### The \u201cPay Yourself First\u201d Method Ensures You Always Save Another strategy for saving is to use what\u2019s known as the \u201cpay yourself\u201d method. This involves automatically transferring a sum of money into your savings account. This means the cash goes into savings before you use it to pay bills or go shopping. In this way, you are prioritizing future goals (such as building an emergency fund, saving for a down payment, or funding a child\u2019s education). Saving money becomes non-negotiable. You might schedule this kind of transfer from checking into savings just after your direct deposit paycheck hits. Online banking can make this a snap. ## What Are Some Common Savings Goals You Should Plan For? It can be difficult to know how much money you should save each month without having a sense of what you are saving for. Setting a few financial goals can also help motivate you to save, rather than spend all of your income. ### Building an Emergency Fund for Unexpected Expenses Is Crucial A major dental or car repair bill, the need for a new hot water heater, the unexpected loss of a job: These are fairly common occurrences that many people aren\u2019t financially prepared for. Experts advise that you have at least three to six months\u2019 worth of living expenses stashed in an emergency fund for just these types of scenarios. By this measure, many Americans don\u2019t have enough emergency savings, according to SoFi\u2019s most recent \u201cHow People Bank Today\u201d survey of 500 U.S. adults. | Amount in emergency savings | People who have saved that amount | | --- | --- | | Less than $500 | 45% | | $500 to $1,000 | 16% | | $1,000 to $5,000 | 19% | | $5,000 to $10,000 | 9% | | More $10,000 | 10% | *Source: SoFi\u2019s April 2024 Banking Survey of 500 U.S. adults* \u201cAn emergency fund is intended to be used at a moment\u2019s notice. Since you never know when an emergency might happen, it\u2019s best to keep your fund relatively liquid.\u201d -Brian Walsh, CFP\u00ae and Head of Advice & Planning at SoFi To start building an emergency fund, it\u2019s wise to keep the money in a liquid form (a high-yield savings account can be a good option). For those who are the sole earner in a family or who have fluctuating incomes, a higher figure may be advisable. You might use an emergency fund calculator to help determine how much money to save to reach your goal. As you build your fund, this money can sit, earning interest, until a safety net of cash is needed. Then, if an emergency does occur, you can dip into the fund instead of relying on high-interest credit cards. ### Saving for a Down Payment on a House Requires a Long-Term Plan Building up cash for a down payment on a house can be part of the American dream for many. Steady savings over the long-term can be a wise move, and it typically takes discipline: This could be the largest sum you\u2019ll ever save. You might open up a dedicated savings account and automatically funnel funds into it. Many people aim for a 20% down payment to avoid private mortgage insurance (PMI), but there are loans available with as little as, say, 3% to 5% down. It can be wise to calculate how much you\u2019ll need and how long you have to save that amount and then determine how much you need to sock away every month (a savings goal calculator or down payment calculator can help). Then you can budget appropriately and also deposit any windfalls into your savings. ### Planning for Retirement Is One of the Most Important Financial Goals Planning for retirement is typically another major financial undertaking. According to a recent Gallup poll, about six out of 10 Americans say they have a retirement savings plan. It\u2019s a wise move to start planning and saving as soon as possible to allow time for your money to grow. There are various online calculators and other tools you can use to assess how much you will need for retirement, or you might choose to meet with a financial planner. When you set out to save for retirement, you may want to take advantage of company matches offered in your workplace retirement plan by contributing the maximum amount the company matches. After emergency savings, a down payment, and retirement, goals may start to look different from person to person. may want to save up to start a business, and yet another may be interested in college savings. Fifty-two percent of the respondents to SoFi\u2019s survey said they are using their savings accounts to save for a specific goal. | Goals People Save For in a Savings Account | | | --- | --- | | Short-term and long-term goals | 40% | | Short-term goals like a vacation or holiday spending | 35% | | Long-term goals like a child\u2019s college education or a house | 26% | Goals People Save For in a Savings Account *Source: SoFi\u2019s April 2024 Banking Survey of 500 U.S. adults* ## Where Is the Best Place to Keep Your Monthly Savings? The best account for building savings will depend on what you are saving for. ### A High-Yield Savings Account Helps Your Money Grow Faster If you are saving up for retirement, for example, you\u2019ll likely want to use a designated retirement account, like a 401(k) or IRA, since they allow you to contribute pretax dollars (which can help lower your annual tax bill). You may want to keep in mind, however, that the IRS (Internal Revenue Service) sets annual contribution limits to retirement funds. For an emergency fund or other short-term savings goals (within three to five years), you may want to open a separate savings account, such as a high-yield savings account, money market account, or a checking and savings account. These savings vehicles typically offer more interest than a traditional savings account, yet allow you to easily access your money when you need it. ## What Are Some Easy Ways You Can Boost Your Savings? Below are some strategies that can help make it easier to start \u2014 and build \u2014 your monthly savings. ### Automating Savings One great way to make sure you stick to a money-saving plan is to automate savings, as referenced above. You may want to set up a recurring transfer from your checking into your savings account on the same day each month, perhaps the day after your paycheck clears. Even setting aside just a small amount of money each month now can, little by little, add up to a significant sum in the future. ### Putting Spare Change to Work There are apps that will automatically use roundups on any amount paid on a credit or debit card. They round your charge up to the next whole dollar amount and put that little bit of extra money into savings accounts or even invest it. This \u201cpocket change\u201d can add up over time. ### Using Windfalls Wisely If a lump sum of cash, such as a bonus or monetary gift, comes your way, you may want to consider funneling all or part of it right into savings. Or, if you get a percentage raise on your salary, you might want to boost your automatic monthly transfer from your checking account to your savings account by the same percentage. ### Reviewing Your Budget If you feel like your budget is too tight to save anything at the end of the month, you may want to review your monthly and habitual expenses. You can do this by combing through your checking and credit card statements for the past few months. Or you may want to track your spending for a month or two. You can then come up with a list of spending categories and determine how much you are spending on average for each. There are online tools that can help make this process easier \u2014 in fact, 23% of people use budgeting tools offered by their bank, SoFi\u2019s survey found. And of the 20% of respondents who have used AI to help manage their finances, 31% have used automated budgeting suggestions. Once you can see exactly where your money is going each month, you may find places where you can fairly easily cut back, such as getting rid of streaming subscriptions you rarely watch, quitting the gym and working out at home, or cooking more and getting take-out less often. ## The Takeaway The right amount to save each month will be unique to you and reflect such factors as your financial goals, how much you earn, and how much you spend each month on essential expenses. One of the most important keys to saving is consistency. No matter how much of your income you choose to set aside each month, depositing small amounts regularly can build to a large sum over time to achieve your goals. Finding the right banking partner can also help you actualize your money aspirations. Interested in opening an online bank account? When you sign up for a SoFi Checking and Savings account with eligible direct deposit, you\u2019ll get a competitive annual percentage yield (APY), pay zero account fees, and enjoy an array of rewards, such as access to the Allpoint Network of 55,000+ fee-free ATMs globally. Qualifying accounts can even access their paycheck up to two days early. *Better banking is here with SoFi, NerdWallet\u2019s 2024 winner for Best Checking Account Overall.\\* Enjoy 3.30% APY on SoFi Checking and Savings with eligible direct deposit.* Interested in opening an online bank account? When you sign up for a SoFi Checking and Savings account with eligible direct deposit, you\u2019ll get a competitive annual percentage yield (APY), pay zero account fees, and enjoy an array of rewards, such as access to the Allpoint Network of 55,000+ fee-free ATMs globally. Qualifying accounts can even access their paycheck up to two days early. ## FAQ ### How much savings should I have by age 30? A common guideline is to have your annual salary saved for retirement by age 30, with some sources suggesting a slightly lower target like 0.5x or 1x your salary for overall savings, which would include an emergency fund. ### Is saving $500 a month considered good? There\u2019s no single amount of money saved every month that qualifies as good. Each person\u2019s financial situation is uniqu",
+      "headings": []
+    },
+    {
+      "rank": 8,
+      "domain": "cnbc.com",
+      "url": "https://www.cnbc.com/select/how-much-money-you-should-save-every-paycheck/",
+      "title": "Here's how much money you should be saving from every paycheck",
+      "word_count": 1249,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://image.cnbcfm.com/api/v1/image/107095334-1659011953178-gettyimages-1066119672-dsc06424.jpeg?v=1753801797&w=1920&h=1080",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://fm.cnbc.com/applications/cnbc.com/resources/product_select/2025/09/04/Quickbooks.png",
+          "alt": "QuickBooks",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://fm.cnbc.com/applications/cnbc.com/resources/product_select/2026/03/13/Taxslayer.png",
+          "alt": "TaxSlayer",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://fm.cnbc.com/applications/cnbc.com/resources/product_select/2025/04/16/monarch.png",
+          "alt": "Monarch",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://fm.cnbc.com/applications/cnbc.com/resources/product_select/2024/12/16/Bluevine_logo.png",
+          "alt": "Bluevine",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://fm.cnbc.com/applications/cnbc.com/resources/product_select/2025/11/06/thumbnail_SBG-Logo_RBG-01.png",
+          "alt": "SBG Funding",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107081307-1656356010445-Lily_Wolfson_headshot.jpg?v=1656356147&w=60&h=60&ffmt=webp",
+          "alt": "By Lily Wolfson, Personal Finance Intern",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://static-redesign.cnbcfm.com/dist/820decf04f42f75fecf4.svg",
+          "alt": "arrow down",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://fm.cnbc.com/applications/cnbc.com/resources/product_select/2026/01/13/mailchimplogo.png",
+          "alt": "Mailchimp",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://fm.cnbc.com/applications/cnbc.com/resources/product_select/2025/07/01/Empower_logo.png",
+          "alt": "Empower",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "Our top picks of timely offers from our partners If the last couple years have taught us one thing about managing money, it's that having some savings set aside is crucial. Despite the significance of having savings, however, research shows that 45% of Americans have less than $1,000 saved \u2014 and in an emergency situation, $1,000 may very well not be sufficient. To ensure you have an adequate amount to cover a worst-case scenario, stashing away a portion of every paycheck is key. Financial security set aside, there are many other benefits that savings can provide. Interest rates are on the rise and having a more robust savings would allow you to pay down high-interest debt, such as credit cards . That's why, given today's volatile economic climate, financial experts recommend getting out of debt as soon as you can. For starters, having some savings allows you to avoid going deeper into debt to cover purchases in the first place. It would also allow more room for you to try new things professionally and take more risks without worrying as much about how your finances might be impacted. While we've established that it's important to save, the next question is just how much should we be putting away? Our best selections in your inbox. Shopping recommendations that help upgrade your life, delivered weekly. Sign-up here . How much you should save every paycheck The standard rule of thumb is to save 20% from every paycheck. This goes back to a popular budgeting rule that's referred to as the 50-30-20 strategy, which means you allocate 50% of your paycheck toward the things you need, 30% toward the things you want and 20% toward savings and investments. Shon Anderson , a certified financial planner at Anderson Financial Strategies , says this \"gold standard\" will not apply to everyone or every situation. Another method, he suggests, involves an 80-20 divide, with 20% of your paycheck allocated to your savings and the remaining 80% allocated to spending related to your needs and wants. The idea is that the 20% allocation remains constant in either approach. It's certainly realistic that, in this latest rule, the 80% takes up all your essential costs, leaving no room to spend on your wants. For example, latest data from Redfin reveals that the average monthly price of rent in the U.S. is $2,016 as of June 2022. With this high average, it makes sense that one's needs could easily reach 80% of one's paycheck. No matter which rule you choose to follow, be sure to find a flexible balance between saving and spending. \"The point with both these methods is that saving 20% is still a priority,\" Anderson says. And if you're wondering how much of that 20% you should invest , it helps to first have a goal in mind to stash about three to six months worth of living expenses into your savings \u2014 it's also how much experts typically recommend saving for an emergency fund . Determining how much to save is followed quickly by figuring out just where to put it. Your best bet is in an online high-yield savings account , which pays more interest than a traditional savings account at your local brick-and-mortar bank. Select ranked LendingClub LevelUp Savings as one of the best accounts because it offers some of the highest returns on your money, with a 4.00% annual percentage yield, or APY, with monthly deposits of at least $250. Without the monthly deposit you will still receive a 3.00% Standard APY. LendingClub LevelUp Savings Account Annual Percentage Yield (APY) 4.00% (with monthly deposits of $250 or more), or 3.00% Minimum balance None Monthly fee None Maximum transactions See terms . Excessive transactions fee None Overdraft fees N/A Offer checking account? Yes Offer ATM card? Yes Terms apply. If you can't afford to save 20% of every paycheck There may very likely be times or circumstances that make it difficult to set aside a fifth of your paycheck \u2014 and that's certainly OK. \"There's no one-size-fits-all answer here,\" says Delyanne Barros of Delyanne The Money Coach . Taking the example above, if your essential costs did equate to 80% of your paycheck, you may want to allocate some of that remaining 20% to discretionary spending and not all put into your savings. At the end of the day, the goal really is to just make sure you're saving some portion of your paycheck \u2014 even just $20. By saving up a little each time you get paid, you'll make saving a habit and it'll soon become second nature to you. It's important to get into the routine of saving no matter how much it is you are setting aside. That way, when the day comes that you can allocate more to your savings, it's already a muscle you've been exercising. \"Starting small and as early as possible can make all the difference in your financial security,\" Anderson adds. You can also try beefing up your savings by freeing up some of your spending money. Make it easy on yourself by signing up for an app such as Rocket Money (formerly Truebill) , which can cancel unwanted subscriptions and negotiate bills on your behalf. Read Select's full review on Rocket Money (formerly Truebill) to learn more. Guidelines for figuring out how much to save Beyond the 20% rule of thumb and making sure you are setting aside at least some portion of every paycheck, Barros says to acknowledge what exactly you're saving for, since what you plan to do with your savings is arguably more important than how much you save. For example, if you're putting together an emergency fund to get you through a few months, you'll need to be saving at a higher rate since you're striving for a short-term, high-priority goal. On the other hand, Barros notes, if you're saving for retirement and you're in your 20s , you can get away with saving between 10% to 15% of every paycheck if you want to retire by age 60 . Barros offers one more guideline: How much you should save depends more on how much money you plan to spend, not how much you currently make. For example, someone who makes a $50,000 salary but lives rent-free will have fewer expenses than someone who makes a $100,000 salary but is paying rent and has a family, both of which will have different implications on their savings habits. Compare offers to find the best savings account Bottom line Building a solid cash cushion can afford you more flexibility in a pinch and help provide some peace of mind knowing you're financially prepared for whatever life throws your way. While saving 20% of every paycheck is a pretty standard rule, use the guidelines we outlined above to help you determine what's best for your personal financial circumstances. Whether you're able to save 20% or 5% of every paycheck, starting with any amount is better than nothing and will help establish the habit of putting money away, which is really the most important takeaway. Catch up on Select's in-depth coverage of personal finance , tech and tools , wellness and more, and follow us on Facebook , Instagram and Twitter to stay up to date. Read more 10 best 0% APR credit cards of April 2026 Brett Holzhauer Capital One miles guide: How to earn and redeem your miles Jason Stauffer How do I choose scalable accounting software for growth? Dana Miranda",
+      "headings": []
+    },
+    {
+      "rank": 9,
+      "domain": "fidelity.com",
+      "url": "https://www.fidelity.com/viewpoints/retirement/how-much-money-should-I-save",
+      "title": "How much money should I save each year for retirement? | Fidelity",
+      "word_count": 1518,
+      "scrape_status": "tavily_fallback",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": "## Learn Great, you have saved this article to you My Learn Profile page. Clicking a link will open a new window. # How much should I save for retirement? ### Key takeaways Who doesn't have a retirement dream? Yours may be as simple as sleeping late or riding your bike on a sunny afternoon, or as daring as jumping out of a plane at age 90. Living your retirement dream the way you want means saving now\u2014and saving enough so you don't have to worry about money in retirement. 1. How much should I save each year for retirement? Research suggests it's a good idea to try to save at least 15% of your income annually, including any employer contribution. 1. How much should I save each year for retirement? Research suggests it's a good idea to try to save at least 15% of your income annually, including any employer contribution. 2. How much do I need to save for retirement? Saving 15% can help you accumulate 10x your income by age 67. 2. How much do I need to save for retirement? Saving 15% can help you accumulate 10x your income by age 67. 3. How can I make my savings last after I retire? A sustainable withdrawal rate is estimated to be no more than 4% to 5% yearly, with adjustments for inflation. 3. How can I make my savings last after I retire? A sustainable withdrawal rate is estimated to be no more than 4% to 5% yearly, with adjustments for inflation. 4. What could my savings cover in retirement? Plan for your savings to provide about 45% of your pretax, preretirement income. ### How much is enough, 15%? Based on Fidelity's Plan Your Pay guideline, we suggest aiming to save at least 15% of your pre-tax income1 each year, which includes any employer match. Together, with steps like managing your nonessential expenses and emergency savings, that should help ensure you have enough income to maintain your current lifestyle in retirement. How did we come up with 15%? Although the choices you make before retirement, when you start saving, and when you retire are factors in determining if 15% is enough, first, we had to understand how much people generally spend in retirement. After analyzing enormous amounts of national spending data, we concluded that most people will need somewhere between 55% and 80% of their preretirement income to maintain their lifestyle in retirement.1 Not all of that money will need to come from your savings, however. Some will likely come from Social Security. Any other income sources you may have, such as a pension, should also be considered. Therefore, we did the math and found that most people will need to generate about 45% of their retirement income (before taxes) from savings. Based on our estimates, saving 15% each year from age 25 to 67 should get you there. If you are lucky enough to have a pension, your target savings rate may be lower. A hypothetical example: Consider Joanna, age 25, who earns $54,000 a year. We assume her income grows 1.5% a year (after inflation) to about $100,000 by the time she is 67 and ready to retire. To maintain her preretirement lifestyle throughout retirement, we estimate that about $45,000 each year (adjusted for inflation), or 45% of her $100,000 preretirement income, needs to come from her savings. (The remainder would come from Social Security.) Because she takes advantage of her employer's 5% dollar-for-dollar match on her 401(k) contributions, she needs to save 10% of her income each year, starting with $5,400 this year, which gets her to 15% of her current income. Now that you have a savings rate to consider, here are some steps to think about. ### Start early One of the most important things you can do is to start saving early. The earlier you start, the more time you have to give your investments the potential to grow\u2014and recover from any of the market's inevitable downturns. If retirement is many years away, it may be hard to think or care about it, but when you're young is precisely the time to start saving for retirement. Even though it can be a challenge to save for the future, giving your savings extra years of growth potential could make the struggle worth it\u2014every little bit you can save helps. ### Delay retirement Our 15% savings guideline assumes that a person retires at age 67, which is when most people will be eligible for full Social Security benefits. If you don't plan to work that long, you will likely need to save more than 15% a year. If you plan to work longer, all things being equal, your required saving rate could be lower. ### Other steps to take The road to retirement is a journey, and there are steps you can take along the way to catch up. Here are 6 tips to get started: ### Make savings a priority Do the best you can to get to at least 15%. You may have more pressing financial demands\u2014children, parents, a leaky roof, a lost job, or other needs. It may not be possible to hit that target every year, but try not to forget about your future. Make your retirement a priority too. ## Ready to open a retirement account? Opening a new account takes just minutes. ## More to explore ### Are you on track for retirement? ### Roth vs. traditional IRAs ## to *Fidelity Viewpoints\u00ae* ### Looking for more ideas and insights? ### Thanks for subscribing! ### We're on our way, but not quite there yet ### Oh, hello again! ### Thanks for subscribing to Looking for more ideas and insights? You might like these too: Looking for more ideas and insights? You might like these too: ### Looking for more ideas and insights? You might like these too: ### *Fidelity Viewpoints\u00ae* ### Decode Crypto ### *Fidelity Smart Money\u2120* ### Active Investor ### *Insights from Fidelity Wealth Management* \u00ae ### Women Talk Money ### Educational Webinars and Events This information is intended to be educational and is not tailored to the investment needs of any specific investor. Diversification and asset allocation do not ensure a profit or guarantee against loss. *Investing involves risk, including risk of loss.* Target Date Funds are an asset mix of stocks, bonds and other investments that automatically becomes more conservative as the fund approaches its target retirement date and beyond. Principal invested is not guaranteed. Fidelity does not provide legal or tax advice. The information herein is general in nature and should not be considered legal or tax advice. Consult an attorney or tax professional regarding your specific situation. Fidelity has developed a series of salary multipliers in order to provide participants with one measure of how their current retirement savings might be compared to potential income needs in retirement. The salary multiplier suggested is based solely on your current age. In developing the series of salary multipliers corresponding to age, Fidelity assumed age-based asset allocations consistent with the equity glide path of a typical target date retirement fund, a 15% savings rate, a 1.5% constant real wage growth, a retirement age of 67 and a planning age through 93. The replacement annual income target is defined as 45% of pre-retirement annual income and assumes no pension income. This target is based on Consumer Expenditure Survey (BLS), Statistics of Income Tax Stat, IRS tax brackets and Social Security Benefit Calculators. Fidelity developed the salary multipliers through multiple market simulations based on historical market data, assuming poor market conditions to support a 90% confidence level of success. These simulations take into account the volatility that a typical target date asset allocation might experience under different market conditions. Volatility of the stocks, bonds and short-term asset classes is based on the historical annual data from 1926 through the most recent year-end data available from Ibbotson Associates, Inc. Stocks (domestic and foreign) are represented by Ibbotson Associates SBBI S&P 500 Total Return Index, bonds are represented by Ibbotson Associates SBBI U.S. Intermediate Term Government Bonds Total Return Index, and short term are represented by Ibbotson Associates SBBI 30-day U.S. Treasury Bills Total Return Index, respectively. It is not possible to invest directly in an index. All indices include reinvestment of dividends and interest income. All calculations are purely hypothetical and a suggested salary multiplier is not a guarantee of future results; it does not reflect the return of any particular investment or take into consideration the composition of a participant\u2019s particular account. The salary multiplier is intended only to be one source of information that may help you assess your retirement income needs. Remember, past performance is no guarantee of future results. Performance returns for actual investments will generally be reduced by fees or expenses not reflected in these hypothetical calculations. Returns also will generally be reduced by taxes. With respect to federal taxation only. Contributions, investment earnings, and distributions may or may not be subject to state taxation. Fidelity Brokerage Services LLC, Member NYSE, SIPC, 900 Salem Street, Smithfield, RI 02917 ### Stay Connected",
+      "headings": []
+    },
+    {
+      "rank": 10,
+      "domain": "bestegg.com",
+      "url": "https://www.bestegg.com/blog/how-much-money-you-should-save-monthly/",
+      "title": "How Much Money Should You Save Monthly? | Best Egg",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.bestegg.com/wp-content/uploads/2020/03/How-Much-Month-You-Should-Save-Monthly.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 11,
+      "domain": "youtube.com",
+      "url": "https://www.youtube.com/watch?v=PFBSNMq_RuY",
+      "title": "How Much Money Should You Save Each Month?",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 12,
+      "domain": "synchrony.com",
+      "url": "https://www.synchrony.com/blog/bank/how-much-should-you-save-each-month",
+      "title": "How Much Money Should You Save Each Month?",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.synchrony.com/syc/img/hero-how-much-money-save-each-month-2400x1000.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.synchrony.com/syc/img/chevron_white.svg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.synchrony.com/syc/img/icon_email_white.svg",
+          "alt": "Share article via Email",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.synchrony.com/syc/img/icon_linkedin_white.png",
+          "alt": "Share article via LinkedIn",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.synchrony.com/syc/img/icon_twitterx_white.png",
+          "alt": "Share article via Twitterx",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.synchrony.com/syc/img/icon_facebook_white.svg",
+          "alt": "Share article via Facebook",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.synchrony.com/syc/img/chevron_textcolor_up.svg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.synchrony.com/syc/img/icon_arrow_right.svg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.synchrony.com/syc/img/icon_arrow_up.png",
+          "alt": "Return to Table of contents",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 13,
+      "domain": "discover.com",
+      "url": "https://www.discover.com/online-banking/banking-topics/how-much-to-save-each-month/",
+      "title": "How much should I save each month?",
+      "word_count": 1345,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.discover.com/online-banking/banking-topics/wp-content/uploads/2025/03/BK-102-109-How-much-should-I-be-saving-each-month-MARQUEE-0-edit1-scaled.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.discover.com/online-banking/banking-topics/wp-content/uploads/2025/03/BK-102-109-How-much-should-I-be-saving-each-month-MARQUEE-0-edit1-992x400.jpg?v=10.jpg",
+          "alt": "A retired couple smiles while cooking together in their kitchen.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.discover.com/online-banking/banking-topics/wp-content/uploads/2025/03/BK-102-109-How-much-should-I-be-saving-each-month-INARTICLE-1-edit1-scaled.jpg",
+          "alt": "A woman works on her laptop while her daughter sits nearby on the sofa, playing with a tablet.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.discover.com/online-banking/banking-topics/wp-content/uploads/2025/03/How_much_should_I_save_each_month_infographic_desktop_2.jpg",
+          "alt": "Infographic showing how to automate your savings in 3 easy steps: Decide how much income to save, choose your accounts, and automate transfers from every paycheck.",
+          "description": "Data visualization or financial chart graphic.",
+          "type": "graphic_design_data"
+        },
+        {
+          "url": "https://www.discover.com/online-banking/banking-topics/wp-content/uploads/2025/03/How_much_should_I_save_each_month_infographic_mobile_2.jpg",
+          "alt": "Infographic showing how to automate your savings in 3 easy steps: Decide how much income to save, choose your accounts, and automate transfers from every paycheck.",
+          "description": "Data visualization or financial chart graphic.",
+          "type": "graphic_design_data"
+        }
+      ],
+      "body_text": "We all want to save money\u2014or save more than we already do. But knowing exactly how much money you need to stash away for rainy days and retirement can be hard, as is figuring out how to go about it. Determining the right amount to save can also be challenging when you\u2019re juggling multiple financial goals, like building an emergency fund, maxing out retirement accounts, or saving for a child\u2019s education. Nearly 9 in 10 Americans save regularly, and those who do typically set aside an average of $985 monthly, according to NerdWallet . What are their top savings motivations? More than half of Americans (53%) regularly save for emergencies, while 43% save for retirement, and 42% for vacations. While this sounds promising, the Federal Reserve\u2019s 2022 Survey of Consumer Finances found that nearly half of all American households had no savings in retirement accounts. If you have a monthly budget, chances are you wondered while creating it, \u201cHow much should I save each month?\u201d The trick to calculating the right amount to save each month is understanding key factors about your finances, like how much money is regularly coming in and going out. To make meeting your savings goals easier, Erika Kullberg, founder of a personal finance website, shares insights into how much money you should save each month. Determining how much to save each month If you struggle with the question, \u201cHow much money should I save each month?\u201d it\u2019s time to do a financial analysis. When deciding how much to save, you should consider your income\u2014your salary plus any other household earnings\u2014as well as all fixed and variable expenses. Financial goals like building an emergency fund, saving for retirement, or planning for large purchases also play a vital role. If you have debt, you should also factor in those repayment obligations. It can be challenging to balance these financial needs, especially with inflation and rising costs causing so much financial stress . But if putting money in a savings account regularly is a goal, the first step is to increase your awareness of your spending habits. These 10 tips will help you be more mindful about how you save money and figure out a monthly savings amount that works for you. 1: Set specific financial goals According to Kullberg, there\u2019s no exact formula for saving enough to feel secure. But a good rule of thumb is to think about your financial goals and future needs, then work backward to set aside the money needed to support them. \u201cHaving specific goals in mind is a great place to start when creating your savings plan,\u201d she says. \u201cFiguring out exactly what goes into your savings plan is the first step in saving the right amount. Whether you want to save for an emergency fund, retirement fund, or new house, nailing down the specifics\u2014from what you\u2019d like to save for to how long you expect it to take\u2014comes first.\u201d Creating a simple budget designed to target financial goals is key. 2: Use a savings calculator Kullberg also recommends turning to a savings calculator for help. \u201cSavings calculators help you estimate how much you\u2019ll need to put away each month to meet your savings targets,\u201d she says. 3: Use the 50-20-30 rule There\u2019s no one right way to create a budget. But the 50-20-30 rule is a popular option: 50% of your income goes toward needs, 20% toward savings and investments, and 30% toward wants. \u201cIt\u2019s a useful budgeting rule of thumb to help you sustain saving money as a habit,\u201d Kullberg explains. This method helps you create a sustainable budget\u2014and one that isn\u2019t so strict that you\u2019ll get off course when spending temptations arise. 4: Calculate your ideal savings rate If you\u2019re struggling to meet your savings goals, create a goal-savings schedule. \u201cAim to save at least 15% to 20% of your gross income if possible,\u201d Kullberg says. \u201cAnd if it\u2019s not, adjust this figure based on your financial needs and goals.\u201d 5: Prioritize your debts Having debt can really slow your savings progress. If you have debts to repay\u2014particularly ones with high interest\u2014prioritize reducing or paying those off before accelerating your savings routine. Every month you carry a debt balance is a month your hard-earned cash is going toward interest payments instead of your savings goals. \u201cIf you have high-interest debt you\u2019re trying to pay off, it\u2019s generally better to put more energy into paying down that debt,\u201d Kullberg says. \u201cHigh-interest charges could quickly counteract all your savings success.\u201d 6: Figure out your emergency fund \u201cOnce high-interest debt is paid off, you can concentrate more on savings\u2014especially for your emergency fund, which should provide you with three to six months of living expenses in case the unexpected happens,\u201d Kullberg says. Build an emergency fund in a place where it can grow. A high interest rate savings account is a great spot to keep your money safe and accessible while taking advantage of the power of compound interest, which is when your money earns interest on both the original amount and the interest already earned. \u201cFiguring out exactly what goes into your savings plan is the first step in saving the right amount.\u201d Erika Kullberg, personal finance expert 7: Factor in retirement savings When asking yourself, \u201cHow much should I put in savings each month?\u201d don\u2019t forget about your retirement plans. Although it\u2019s tempting to push retirement savings to the back of your mind\u2014you may have years to save, after all\u2014doing so can be detrimental to your future financial health. \u201cIt\u2019s important to start saving for retirement early because typically, the longer you save, the more compound interest will significantly amplify your retirement savings,\u201d Kullberg shares. Having a retirement budget in mind can help you determine how much money to set aside so you can enjoy your well-earned retirement. Putting your savings in a certificate of deposit (CD) can be a great way to grow your cash, as can investing it in a 401(k) or individual retirement account (IRA). 8: Set up savings accounts for your goals If you don\u2019t already have a savings account, open one now so you have somewhere safe to keep your funds. Even better\u2014turn to a high interest rate savings account to earn as much interest as possible. And while having one savings account is a great start, feel free to open more if it helps you to stay organized while working toward different financial goals. 9: Let tech help with your financial plan When using the strategies above to build a financial plan , consider letting technology do some of the heavy lifting. Saving money takes discipline, but you can make the task easier by automating your savings to ensure you\u2019re setting aside a certain percentage of each paycheck or deposit. \u201cAutomating transfers to separate savings accounts for your goals\u2014such as home improvements, holidays, and emergencies\u2014will help you to be disciplined and consistent,\u201d Kullberg notes. 10: Review and adjust regularly Creating financial goals and a corresponding budget, getting out of debt, and prioritizing your financial needs is hard work. Don\u2019t let that effort go to waste by just setting and forgetting your plan. \u201cPeriodically reviewing and adjusting your budget is important,\u201d Kullberg says. \u201cDoing this helps you make sure your savings goals are realistic and in line with changing income or priorities.\u201d Finding the right amount to save each month doesn\u2019t need to be a guessing game. By setting clear goals, following these strategies, and revisiting your financial plan regularly, you can strike the perfect balance between enjoying today and saving for tomorrow. Articles may contain information from third parties. The inclusion of such information does not imply an affiliation with the bank or bank sponsorship, endorsement, or verification regarding the third party or information. The information provided herein is for informational purposes only and is not intended to be construed as professional advice. Nothing contained in this article shall give rise to, or be construed to give rise to, any obligation or liability whatsoever on the part of Discover, a division of Capital One, N.A., or its affiliates.",
+      "headings": []
+    },
+    {
+      "rank": 14,
+      "domain": "leaderbank.com",
+      "url": "https://www.leaderbank.com/blog/10-simple-ways-save-money-each-month",
+      "title": "10 Simple Ways to Save Money Each Month",
+      "word_count": 0,
+      "scrape_status": "failed",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 15,
+      "domain": "fidelity.com",
+      "url": "https://www.fidelity.com/learning-center/personal-finance/spending-and-saving",
+      "title": "Fidelity's easy budgeting guideline",
+      "word_count": 1530,
+      "scrape_status": "tavily_fallback",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": "## Learn Great, you have saved this article to you My Learn Profile page. Clicking a link will open a new window. # Fidelity's easy budgeting guideline ### Key takeaways Managing your money doesn\u2019t have to be complicated. Fidelity\u2019s Plan Your Pay (PYP) guideline offers a simple starting point: And aim to save 15% of pre-tax income for retirement\u2014including any employer match. Even small, consistent steps can make a big difference over time. Because everyone\u2019s situation is different, these numbers are goals\u2014not hard rules. If you\u2019re not there yet, that\u2019s OK. PYP is a target you can work toward gradually to strengthen your financial foundation. ### 15%: Pay yourself first and save for retirement before you get your paycheck We recommend saving 15% of pre-tax income for retirement. This includes your contributions plus any matching or profit-sharing contributions from an employer. Starting early, saving consistently, and investing wisely can be important to hitting your retirement goal, as is saving in tax-advantaged retirement savings accounts such as 401(k)s, 403(b)s, or IRAs. Read *Fidelity Smart MoneySM*: 9 types of retirement accounts The easiest way to save before you get your paycheck is by contributing to an employer's workplace savings plan. Many employers match contributions up to a certain percentage of income, which is like \u201cfree\u201d money\u2014so saving at least up to the match makes good sense if you can. Whether you contribute before taxes are taken out (traditional account) or after taxes are taken out (Roth account), your retirement contribution to a workplace retirement plan is made before you get your paycheck. *But what if you don't have a retirement plan through your employer?* You can still automate your savings. Consider setting up direct deposit to an IRA or schedule automatic transfers from your checking/spending accounts on the day you get paid. Read *Fidelity Viewpoints:* Help your money grow with automation *Is saving 15% too much to handle right now?* Don't worry, simply start by saving what you can. Try to save at least enough to get any match offered by your employer and then aim to increase the amount you're saving just a little bit with every raise and promotion. It really can add up. Read *Fidelity Viewpoints:* Just 1% can make a big difference for *Fidelity Viewpoints* weekly email for our latest insights. ### Must-have expenses: 60% Some expenses simply aren\u2019t optional\u2014you need to eat and you need a place to live. Consider allocating no more than 60% of take-home pay to \u201cmust-have\u201d expenses, such as: ### What if your essential expenses are more than 60% of your take-home pay? Everyone's financial life is unique, and some life stages are more expensive than others. If your essential expenses consistently run over 60%, it can make sense to try to slim down some of them down so you can save more and have more money for fun. For example, saving some money by looking for bargains at the grocery store and bringing your lunch to work can help free up some money and may give you some breathing room. For more tips, read *Fidelity Smart MoneySM*: How to save thousands in a year and 13 ways to make money fast It can also be a good idea to familiarize yourself with your employer benefits, if you have them. There can often be benefits that offer \"free\" money and discounted premiums so make sure you are taking full advantage of everything your employer offers. Read *Fidelity Viewpoints:* 4 ways employer benefits can help you save money ### 30%: Nice-to-have expenses While not essential to your survival, these types of expenses make life a little better. We suggest putting 30% of monthly take-home pay toward things you choose to spend your money on, like restaurants, entertainment, hobbies, travel, subscriptions, and charitable donations. ### 10%: Near-term goals and emergency savings Setting aside 10% of monthly take-home pay can help save for both significant events and smaller, unplanned expenses. Being financially prepared will help you feel more confident and less likely to pay for things by adding to an existing credit card balance. For instance, if you're saving for a vacation or a new car, money in this category could help boost your efforts. You could also think about setting aside this money to help with \"one-off\" expenses like a new smartphone, car repairs and maintenance, buying holiday gifts, and so on. It's good practice to have some money set aside for random expenses so you won't be tempted to tap into your emergency savings or pay for one of these things by adding to an existing credit card balance. If you would like to build up your emergency savings, you could consider using some money allocated here as well. If you're starting from scratch, aim to save $1,000 or one month's worth of essential expenses, whichever is more. Then gradually build up to saving enough to cover 3 to 6 months of essential expenses. Read *Viewpoints* on Fidelity.com: How much to save for emergencies ### What about other goals\u2014like saving for a child\u2019s education? If you\u2019re planning ahead for future education costs\u2014say, college for a child\u2014that savings would typically come from the 10% category for near-term goals. This bucket is designed for things you want to fund over the next few years, and education savings fits that description. On the other hand, if you\u2019re currently paying education expenses\u2014such as tuition or fees\u2014that\u2019s more like an essential cost and would fall under the 60% category for must-have expenses. These are obligations you need to cover now, similar to housing or child care. ### Why Plan Your Pay? Separating retirement savings from your everyday budget helps you see two things clearly: what you\u2019re setting aside for the future and what\u2019s available for today. Our guideline breaks this into simple parts\u2014covering daily spending, short-term goals, and long-term savings like retirement. The underlying research and math supporting our guideline suggests that it can help you achieve financial stability today and maintain your current lifestyle in retirement. ### Plan Your Pay with Fidelity's 60/30/10+15 guideline | | | | | \n--- | \n--- | \n--- | | Gross income | | $50,000 | | FICA | 7.65% | $3,825 | | Standard deduction | | $14,600 | | 401(k) contribution (employee contribution) | 8.00% | $4,000 | | Federal tax | 22% | $6,908 | | State tax | 5% | $1,570 | | Take-home pay | | $33,697 | | Essential | 60% | $20,218 | | Discretionary | 30% | $10,109 | | Other | 10% | $3,370 | For hypothetical illustration. Shows a hypothetical annual budget for a single filer in tax year 2024. Federal and state taxes may vary. Other deductions may apply depending on the state. ### What's next? Our guideline is meant to be a flexible starting point\u2014not a substitute for a full financial plan. The good news is that it's not about tracking every penny, it's about feeling in control of where your money goes. Using the 4 categories can help you understand your spending and the flexibility you have in your finances. Life changes\u2014new job, marriage, kids\u2014can shift your cash flow, so be sure to revisit your budget regularly, especially after major events. If you feel that you have a good grasp on the amount of money coming in and going out each month, you may be ready to start optimizing your finances and growing your wealth. If you\u2019d like some help managing spending, consider using Fidelity\u2019s free digital tools. ## It's not too early to save for retirement Start investing today\u2014a small amount now can make a big difference tomorrow. ## More to explore ### https://myguidance.fidelity.com/ftgw/pna/customer/pgc/networth/ See your full financial pictureLog In Required ### Finding investments ## to *Fidelity Viewpoints\u00ae* ### Looking for more ideas and insights? ### Thanks for subscribing! ### We're on our way, but not quite there yet ### Oh, hello again! ### Thanks for subscribing to Looking for more ideas and insights? You might like these too: Looking for more ideas and insights? You might like these too: ### Looking for more ideas and insights? You might like these too: ### *Fidelity Viewpoints\u00ae* ### Decode Crypto ### *Fidelity Smart Money\u2120* ### Active Investor ### *Insights from Fidelity Wealth Management* \u00ae ### Women Talk Money ### Educational Webinars and Events This information is intended to be educational and is not tailored to the investment needs of any specific investor. Fidelity does not provide legal or tax advice. The information herein is general and educational in nature and should not be considered legal or tax advice. Tax laws and regulations are complex and subject to change, which can materially impact investment results. Fidelity cannot guarantee that the information herein is accurate, complete, or timely. Fidelity makes no warranties with regard to such information or results obtained by its use, and disclaims any liability arising out of your use of, or any tax position taken in reliance on, such information. Consult an attorney or tax professional regarding your specific situation. *Investing involves risk, including risk of loss.* Fidelity Brokerage Services LLC, Member NYSE, SIPC, 900 Salem Street, Smithfield, RI 02917 ### Stay Connected Instagram, (Opens in a new window)",
+      "headings": []
+    },
+    {
+      "rank": 16,
+      "domain": "youtube.com",
+      "url": "https://www.youtube.com/watch?v=MHsUYedAE0o",
+      "title": "How much should you REALLY SAVE every month/year?",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 17,
+      "domain": "ifcu.com",
+      "url": "https://www.ifcu.com/about/who-we-are/the-ifcu-blog/detail.html?cId=72067&title=14-ways-to-save-money-each-month-without-depriving-yourself",
+      "title": "14 WAYS TO SAVE MONEY EACH MONTH WITHOUT ...",
+      "word_count": 1437,
+      "scrape_status": "success",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 18,
+      "domain": "usnews.com",
+      "url": "https://www.usnews.com/banking/articles/how-much-money-should-you-have-in-savings",
+      "title": "How Much Money Should You Have in Savings?",
+      "word_count": 0,
+      "scrape_status": "failed",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 19,
+      "domain": "bankrate.com",
+      "url": "https://www.bankrate.com/banking/savings/save-money-calculator/",
+      "title": "Save Money Calculator",
+      "word_count": 19,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.bankrate.com/f/102997/912x513/7126ed7325/how-to-save-money-easy-tips.svg",
+        "alt": "Two children playing on a living room floor with their parent sitting on the floor beside them working on a laptop computer.",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.bankrate.com/f/102997/912x513/517d0e311e/6-tips-to-set-and-hit-your-savings-goals.svg",
+          "alt": "Side view of man running on the street past an old garage door.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.bankrate.com/f/102997/912x513/5454b0fbcd/how-to-start-saving3.png",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    }
+  ],
+  "battle_plan_generated_at": "2026-04-26T10:44:14.668241+00:00",
+  "competitors_analyzed_count": 5,
+  "battle_plan_method": "local_deterministic_agent_no_api"
+}

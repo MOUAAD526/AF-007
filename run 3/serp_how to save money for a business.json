@@ -1,0 +1,646 @@
+{
+  "article_context": {
+    "angle": "The psychological shift from saving for security to compulsive 'hoarding'",
+    "pain_points": [
+      "Anxiety that savings are never enough, despite disciplined saving",
+      "Difficulty tracking spending effectively to identify leaks",
+      "Fear of using savings, leading to extreme frugality or additional work",
+      "Financial anxiety after a large emergency drains savings",
+      "Being 'house poor' or 'car poor', leading to tight finances despite tracking"
+    ],
+    "top_social_questions": [
+      "How can I move from merely tracking expenses to actual budgeting and finding leaks?",
+      "What are sinking funds and how do they help with saving and anxiety?",
+      "How do I balance extreme frugality for a goal (like buying a home) with avoiding burnout?"
+    ],
+    "dominant_emotion": "Anxiety/Worry",
+    "serp_intent": "Searchers for \"how to save money for a business\" are typically entrepreneurs, small business owners, or aspiring business starters seeking practical strategies to allocate personal or operational funds towards business growth, expenses, or startup costs without depleting resources. The SERP intent focuses on informational guides covering budgeting, cost-cutting, savings accounts for business use, and tips tailored to business contexts like cash flow management or tax-efficient saving.",
+    "serp_title_pool": {
+      "primary": [
+        "Fund your business | U.S. Small Business Administration - SBA",
+        "How are normal working people supposed to get enough money for ...",
+        "8 Ways to Help Your Small Business Save Money | FNBT",
+        "12 cost saving ideas to cut business expenses and boost profit - Xero",
+        "Tips to Save Money and Cut Unnecessary Business Expenses",
+        "44 Effective Cost-Saving Ideas For Large Companies (And 1 Game ...",
+        "10 Small Business Money Saving Tips That Will Save ... - YouTube",
+        "20 Easy Ways to Save Money in Your Business | Forbes Burton",
+        "10 ways to reduce your business costs",
+        "10 Ways to Save Money at Startup - SCORE.org",
+        "[PDF] 10+ Tips for Saving Money on Your Business Expenses",
+        "How to start and fund your own business | USAGov",
+        "5 Money-Saving Tips for Small Businesses",
+        "7 Ways Small Business Owners Can Save Money",
+        "9 Ways to Save While Building Your Business",
+        "Saving - Practical Business Skills",
+        "How To Save Money in Business: 10 Proven Strategies for ... - Shopify",
+        "10 Cost-Savings Ideas for Small Businesses",
+        "8 Tips That Save Business Owners Money - Enkel Backoffice Solutions",
+        "6 Money\u2013Saving Strategies for Small Business Owners - BankUnited"
+      ],
+      "long_tail": [
+        "Making a Budget | consumer.gov",
+        "Simple ways to save money for the future",
+        "7 money saving tips you might overlook | First Financial Bank",
+        "10 Proven Ways to Save Money Every Month",
+        "How much should I save each month | TIAA",
+        "Fidelity's easy budgeting guideline",
+        "Small monthly habits that actually save money? : r/SavingMoney",
+        "54 Ways to Save Money | America Saves",
+        "Ways to Save Money Every Day of the Month",
+        "10 ways to start saving money - Vanguard"
+      ],
+      "question": [
+        "How do you guys seriously stop yourself from spending ...",
+        "How to Stop Spending: 7 Strategies to Try",
+        "How to Stop Spending Money: Top 10 Tips to Stay in Control",
+        "16 Ways to STOP Throwing Your Money Away",
+        "Compulsive spending",
+        "How to Stop Spending Money: 5 Tips to Try",
+        "3 Tips on How to Stop Spending Money",
+        "How to Stop Spending Money: 17 Tips to Stay in Control",
+        "54 Ways to Save Money",
+        "10 ways to start saving money - Vanguard"
+      ]
+    },
+    "paa_questions": [
+      {
+        "q": "What is the 70 30 rule in business?",
+        "a": "David Manela explains that successful companies invest roughly 70% of resources into proven strategies and reserve about 30% for testing new ideas."
+      }
+    ],
+    "related_searches": [
+      "How to save money for a business reddit",
+      "How to get money to start a business with no money",
+      "How to invest in a business and make money",
+      "How to raise capital for a small business",
+      "How to invest in a small business startup",
+      "Grants to start a business with no money",
+      "How to invest in a business for beginners",
+      "Startup business loans with no revenue"
+    ]
+  },
+  "primary_keyword": "how to save money for a business",
+  "competitors": [
+    {
+      "rank": 1,
+      "domain": "sba.gov",
+      "url": "https://www.sba.gov/business-guide/plan-your-business/fund-your-business",
+      "title": "Fund your business | U.S. Small Business Administration - SBA",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.sba.gov/themes/custom/sba/dist/img/social/SBASEOImage.jpg",
+        "alt": "Small Business Administration logo",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.sba.gov/sites/default/files/styles/card/public/2023-05/BG_Fund_your_business_self-funding.png.webp?h=4a7d1ed4&itok=YESFHioF",
+          "alt": "Piggy bank",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.sba.gov/sites/default/files/styles/card/public/2023-05/BG_Fund_your_business_investors.png.webp?h=4a7d1ed4&itok=0SQfHzwp",
+          "alt": "Man in shirt and tie",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.sba.gov/sites/default/files/styles/card/public/2023-05/BG_Fund_your_business_loans.png.webp?h=4a7d1ed4&itok=DKqkuSmw",
+          "alt": "Bank and money",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 2,
+      "domain": "reddit.com",
+      "url": "https://www.reddit.com/r/smallbusiness/comments/15p6sk7/how_are_normal_working_people_supposed_to_get/",
+      "title": "How are normal working people supposed to get enough money for ...",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 3,
+      "domain": "bankatfirstnational.com",
+      "url": "https://www.bankatfirstnational.com/wallet-wise-blog/january-2025/8-ways-to-help-your-small-business-save-money/",
+      "title": "8 Ways to Help Your Small Business Save Money | FNBT",
+      "word_count": 229,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.bankatfirstnational.com/8base/media/images/fdic-digital-sign-white.svg",
+        "alt": "FDIC insured",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.bankatfirstnational.com/8base/media/images/FNBT-Division-of-Bank-First_Logo-primary_Primary.svg",
+          "alt": "First National Bank and Trust Home Page",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.bankatfirstnational.com/8base/media/images/FNBT-Division-of-Bank-First_Logo-primary_Light.svg",
+          "alt": "First National Bank and Trust Company",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.bankatfirstnational.com/CMSPages/GetFile.aspx?guid=7ce2237d-8d6f-44fb-9c95-fb5fa10ad770",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.bankatfirstnational.com/8base/media/images/blog/small-business-savings.jpg?ext=.jpg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.bankatfirstnational.com/8BASE/media/images/base/icon_housinglender.png",
+          "alt": "Equal Housing Lender",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "Cut Wasteful Spending Negotiate with Suppliers and Vendors Outsource What You Can Save on Office Space with Remote Work Go Green Open a Savings Account for Your Business Consider Checking Accounts with Extra Benefits Hire a Good Accountant Help Your Business Save with FNBT Recent Updates Credit Cards 101 The Importance of Keeping Your Contact Information Up to Date with Your Bank Financial Check-In: 5 Questions to Ask Yourself Before Spring Arrives Avoid the Debt Trap This Holiday Season Social Engineering Scams: How to Protect Yourself and Your Finances Categories Agriculture Category Auto Loans Category Beginner Guides Category Budgeting Category Calculators Category Small Business > Capital Loans-Operating Loans Category Small Business > Cash Management Category Checking Category Child Savings Category Small Business > Commercial Loans Category Community Category Construction Loans Category COVID Relief Category Credit Cards Category Credit Loans_Personal Category Cybersecurity Category Debit Card Category Small Business > Equipment Loans Category Estate Planning Category Finances Category Financial Education-Literacy Category Fraud Education Category Home Loans Category Home Ownership Category Investing Category Mortgage Category Online Banking Category Retirement Accounts Category Savings Accounts Category Small Business Category Taxes Category Wealth Management Category With BaZing, you'll receive access to these great benefits online or with a convenient mobile app: Identity Theft Protection & Insurance Cell Phone & Travel Protection Roadside Assistance Shopping, Dining & Travel Discounts Pharmacy, Vision & Hearing Discounts Grocery Coupons",
+      "headings": []
+    },
+    {
+      "rank": 4,
+      "domain": "xero.com",
+      "url": "https://www.xero.com/us/guides/business-cost-saving-ideas/",
+      "title": "12 cost saving ideas to cut business expenses and boost profit - Xero",
+      "word_count": 1959,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.xero.com/content/dam/xero/pilot-images/guides/business-ideas/small-business-Ideas-thumbnail.png",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.xero.com/content/dam/xero/pilot-images/guides/business-ideas/small-business-Ideas-hero.1676861367719.svg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "Written by Lena Hanna\u00e2\u0080\u0094Trusted CPA Guidance on Accounting and Tax. Read Lena's full bio Published Thursday 22 January 2026 Table of contents Why you may need to cut business costs How to cut business costs without hurting performance How to analyze your current costs 12 business cost saving ideas How to implement cost-saving strategies effectively Where the best cost-saving ideas come from Managing your cost savings with smart financial tools FAQs on cost saving ideas Key takeaways Analyze your expenses by gathering 6-12 months of financial data, categorizing costs into fixed, variable, and non-essential spending, then identify specific targets for reduction before implementing any cost-cutting measures. Prioritize discretionary spending cuts first, such as canceling unused subscriptions, reducing travel costs through video calls, and eliminating non-essential office perks that don't directly impact operations. Engage your employees in identifying cost-saving opportunities since frontline staff often spot daily operational inefficiencies and process waste that management might miss. Implement smart cost restructuring by adjusting payment timing rather than reducing total expenses, such as negotiating different supplier payment schedules or converting large equipment purchases into monthly lease payments to improve cash flow. Why you may need to cut business costs Business cost cutting becomes necessary when profits shrink due to inflation, declining sales, or market pressures. Raising prices isn't always possible when customers can't afford higher costs. Cost reduction offers a direct path back to profitability. Start by gathering a complete expense list from your business bank statements, receipts, or accounting software like Xero . How to cut business costs without hurting performance You need to plan your cost cuts so they do not disrupt your business operations . Cutting costs in the wrong areas creates serious risks: Quality decline: Reduced product or service standards hurt customer satisfaction Team productivity loss: Inadequate tools and resources stress employees and reduce efficiency Operational inefficiency: Poor working conditions damage morale and output The goal is smart cost reduction that strengthens your business, not weakens it. How to analyze your current costs Before you can cut costs, you need to know where your money is going. A thorough cost analysis helps you spot opportunities for savings without guessing. Even large, complex organizations keep finding new ways to save. A 2025 government report identified 148 new actions to improve efficiency and cut costs. Gather your financial data Collect all your financial documents from the last six to twelve months. This includes bank statements, credit card statements, payroll records, and receipts. Using accounting software can make this step much easier by centralizing your data. Categorize your expenses Group your costs into categories like fixed costs (rent, salaries), variable costs (supplies, shipping), and non-essential costs (entertainment, subscriptions). This helps you see which areas consume the largest part of your budget. Review and identify targets Look at each category for potential savings. Are there subscriptions you no longer use? Can you find a better deal on supplies? Mark any expenses that seem high or unnecessary as targets for reduction. 12 business cost saving ideas You do not need to use every idea at once. Start with the quick wins, then move on to bigger changes as you gain confidence. 1. Reduce discretionary spending Discretionary spending includes non-essential business expenses that don't directly impact operations. Target these areas first: Travel costs: Replace in-person meetings with video calls when possible Entertainment expenses: Reduce client dinners and corporate events Subscriptions: Cancel unused magazine, software, or service subscriptions Office perks: Evaluate premium coffee services, catering, and amenities 2. Review and renegotiate supply chains Supply chain optimization reduces costs through better vendor management and purchasing strategies: Price comparison: Research alternative suppliers for core materials and services Contract renegotiation: Discuss better rates with current vendors before switching Bulk purchasing: Lower per-unit costs but requires higher upfront investment Payment terms: Negotiate extended payment periods to improve cash flow 3. Carry less inventory Inventory reduction frees up cash flow by minimizing stock levels while maintaining adequate supply: Improved liquidity: Less cash tied up in unsold products Lower storage costs: Reduced warehouse and handling expenses Decreased shrinkage: Less inventory loss from damage or theft Trade-off consideration: Smaller orders may eliminate bulk discount opportunities from suppliers. Get inventory management tips to help refine your strategy . 4. Optimize logistics Logistics optimization reduces shipping and transportation costs through strategic planning: Audit shipping bills: Review courier and freight expenses for unnecessary charges Local sourcing: Purchase supplies from nearby vendors to reduce transport costs Speed flexibility: Choose slower, cheaper shipping options when timing allows Customer cost-sharing: Charge for express delivery while offering free standard shipping 5. Develop economy products and services Economy product development creates lower-cost alternatives when customers resist price increases. Develop budget-friendly versions that meet basic needs while maintaining premium options for customers willing to pay higher prices. This tiered pricing strategy preserves revenue from different customer segments. 6. Go remote Remote work transition reduces fixed costs by eliminating unnecessary office space. Mobile office tools enable productive home-based work, allowing you to: Downsize office space: Reduce rent and utility expenses Eliminate commuting costs: Lower employee transportation reimbursements Reduce facility maintenance: Minimize cleaning, security, and equipment costs Retail businesses can achieve similar savings by shifting to online sales and reducing physical storefront needs. 7. Share resources Resource sharing partnerships split costs with complementary businesses to reduce individual expenses: Shared workspace: Split rent for workshop, office, or storage facilities Equipment sharing: Divide costs for expensive machinery or tools Joint consultants: Share professional services like accountants or marketing experts Staff sharing: Split costs for administrative, sales, or labor positions 8. Conserve energy and minimize waste Energy conservation reduces utility costs through systematic waste elimination. Pausing to review major projects can have a huge impact; for example, the Department of Energy was advised that pausing work at a single waste treatment facility could result in saving billions of dollars . An identifies savings opportunities in: Provider selection: Compare rates from different utility companies Equipment efficiency: Identify energy-wasting tools and machinery Facility design: Optimize lighting, heating, and cooling systems Operational waste: Reduce material waste, overproduction, and resource misuse 9. Automate administrative work Automating admin work cuts labor costs and helps people get more done. You save in two ways: Reduced overtime costs: Software handles routine tasks faster than manual processes Increased productivity: Employees focus on high-value work instead of repetitive tasks Error reduction: Automated processes minimize costly mistakes Stay current with productivity apps and workflow automation tools to maximize these benefits, as regularly reviewing technology can yield significant savings. For instance, federal agencies have been advised to conduct annual IT portfolio reviews to reduce duplicative IT investments , a practice that could save over one hundred million dollars. 10. Refinance to lower-cost loans Debt refinancing reduces interest expenses by restructuring existing loans. Consider consolidating high-interest short-term debt into lower-rate long-term financing. You will get better results if a professional reviews your loans. A bookkeeper, accountant, or broker can spot refinancing options and help you negotiate better terms. You can find one in Xero's advisor directory . 11. Restructure costs Cost restructuring improves cash flow by adjusting payment timing rather than reducing total expenses. This strategy helps when multiple large payments cluster together: Adjust supplier payment schedules: Negotiate different due dates to spread costs Stagger order timing: Place purchases at different intervals throughout the year Use low-cost credit: Spread payments using affordable financing options Reschedule commission payments: Distribute sales bonuses across multiple periods Choose leasing over purchasing: Convert large equipment purchases into monthly payments Select flexible insurance plans: Choose quarterly or monthly premium schedules Cash flow forecasting helps you spot when to move payments around. The Xero Analytics cash flow forecast can help you plan when to pay your bills. 12. Outsource to reduce fixed costs Outsourcing converts fixed costs into variable costs by transferring occasional tasks to external providers. Instead of maintaining expensive equipment or permanent staff for sporadic needs, you pay only when services are required. How outsourcing can reduce your costs: Variable pricing: Costs increase only when business activity increases Reduced fixed expenses: Eliminate equipment maintenance and permanent salaries Scalability: Easily adjust service levels based on demand How to implement cost-saving strategies effectively Once you've identified where to save, creating a clear plan is key to success. A structured approach ensures your efforts are effective and sustainable. 1. Set clear goals Define specific, measurable goals for your cost-cutting efforts. For example, aim to reduce supply costs by 10% in the next quarter. Clear targets help you track progress and keep your team focused. 2. Involve your team Share your goals with your employees and ask for their input. They often have firsthand knowledge of where waste occurs and can offer practical solutions. Involving them also builds support for the changes. 3. Monitor your progress Regularly review your financial reports to see if your strategies are working. Track your expenses against your budget and adjust your plan as needed. This helps you stay on course and make informed decisions. Where the best cost-saving ideas come from Employee engagement in cost reduction uses frontline knowledge to identify savings opportunities. Your team sees daily operational inefficiencies that management might miss, and addressing these observations can lead to massive savings. On a national scale, fully addressing recommendations to improve government efficiency could result in over one hundred billion dollars or more in savings. Key sources for cost-saving ideas: Employees: Frontline staff understand process waste and improvement opportunities Mentors: Industry experts provide strategic cost management insights Accountants: Financial professionals identify tax savings and expense optimization Bookkeepers: Day-to-day financial managers spot recurring cost issues Regularly survey your team and consult financial advisors to uncover hidden savings opportunities. If you don't already have one, you can find an accountant or bookkeeper in our advisor directory . Managing your cost savings with smart financial tools Successfully cutting costs is just the beginning. The right tools help you track your savings, maintain financial health, and make sure your business stays lean and profitable. Xero gives you a real-time view of your finances, making it easy to monitor expenses, manage cash flow, and see the impact of your cost-saving efforts. By automating bookkeeping tasks, you not only save money but also free up valuable time to focus on growing your business. Take control of your finances and keep your business on the path to profitability. Get one month free and see how Xero can help. FAQs on cost saving ideas Here are answers to some common questions about reducing business costs. How much should I aim to save through cost cutting? There's no single magic number, as it depends on your industry, business size, and financial situation. A common starting point is to aim for a 5\u00e2\u0080\u009310% reduction in targeted expense categories. The key is to set realistic goals that don't harm your business operations. What's the biggest mistake businesses make when cutting costs? The most common mistake is cutting costs that affect product quality or customer service. Sacrificing the core value you provide can lead to lost customers and long-term damage to your brand, outweighing any short-term savings. How do I know if my cost-cutting efforts are working? Track key financial metrics before and after implementing changes. Monitor your profit and loss statement, cash flow, and specific expense categories. If your profitability improves and cash flow is healthier without a drop in performance, your efforts are successful. Disclaimer Xero does not provide accounting, tax, business or legal advice. This guide has been provided for information purposes only. You should consult your own professional advisors for advice directly relating to your business or before taking action in relation to any of the content provided. Get one month free to any Xero plan, and we will give you the first month free. Get one month free features",
+      "headings": []
+    },
+    {
+      "rank": 5,
+      "domain": "moodybank.com",
+      "url": "https://www.moodybank.com/news/post/tips-to-save-money-and-cut-unnecessary-business-expenses",
+      "title": "Tips to Save Money and Cut Unnecessary Business Expenses",
+      "word_count": 1427,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://cdn.prod.website-files.com/6876bf2b1c932b57913d2f56/6892b76a6a510a9e859297b5_cutbusinesscosts1.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.moodybank.com/public/image/6862e21c15d528d1fd1f88e7/findex-689513f24ec9f4f8fd0c90a7_MB%202c%20horiz%20stacked.png",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.moodybank.com/public/image/6862e21c15d528d1fd1f88e7/findex-6862f60780277571a7ad8d3b_fdic_desktop%201.svg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.moodybank.com/public/image/6862e21c15d528d1fd1f88e7/findex-688c0820831058e0235f5bc1_FDIC.svg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.moodybank.com/public/image/6876bf2b1c932b57913d2f56/findex-6892b76a6a510a9e859297b5_cutbusinesscosts1.jpg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.moodybank.com/public/image/6876bf2b1c932b57913d2f56/findex-6892b7803c9b4f67387bfe35_cutbusinesscosts2.jpg",
+          "alt": "Knowing where your money goes and auditing  your expenses to uncover hidden overspending can help cut wasteful business expenses!",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.moodybank.com/public/image/6876bf2b1c932b57913d2f56/findex-6892b7948269a55bcb25ce05_cutbusinesscosts3.jpg",
+          "alt": "Upgrading outdated technology and automating tasks can help cut costs and boost efficiency.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.moodybank.com/public/image/6876bf2b1c932b57913d2f56/findex-6892b7ad2cb255272513812e_cutbusinesscosts4.jpg",
+          "alt": "Boost Financial Efficiency: Categorize expenses, prioritize cost-cutting, and review budgets quartly.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.moodybank.com/public/image/6862e21c15d528d1fd1f88e7/findex-68e6b0d5d553909be9d5ebd8_Home.png",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.moodybank.com/public/image/6862e21c15d528d1fd1f88e7/findex-68910472227ae1e025ff6aef_blue-seal-293-61-bbb-13000065.png",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "As a reminder, Moody Bank will never ask for your online banking password, access codes, or security verification details\u2014whether by phone, email, or text message. Thank you. Moody Bank will no longer be exchanging pennies due to the discontinued production from the U.S Department of Treasury. Click here to learn more. -Insured - Backed by the full faith and credit of the U.S. Government Personal Checking Savings Loans Credit & Gift Cards Business Checking Savings Loans Treasury Services Business Credit Cards Wealth Management Wealth Services Meet our Wealth Team Resources Lost or Stolen Card Account Access MyCardRules Customer Service Financial Calculators Moody Bank Cares Online & Mobile Banking About us Who We Are Leadership Holiday Closures Locations Contact Us Team News Enroll Login Forgot Password Login BANKING LOGIN Username (Required) Enroll Thank you! Your submission has been received! Oops! Something went wrong while submitting the form. Forgot Password Tips to Save Money and Cut Unnecessary Business Expenses May 12, 2025 Learn How to Identify Unnecessary Expenses and to Create Better Budgeting Practices As a business owner, regardless of the size of your company, you may tend to focus more on keeping up with the latest trends in your field instead of ensuring your fiscal health is in good shape. Just because a competitor is using new platforms for marketing, or throwing lavish parties for your parties will keep moral high, doesn\u2019t mean you should do the same. Being smart about running your business is the best way to ensure long-term success, and Moody Bank can help you along the way. Since 1907 they have been the oldest financial institute in Texas serving customers in the Austin, Galveston, and Houston areas. With deep roots in the community, Moody Bank understand the challenges and needs of business owners. Schedule time with your team to review these steps and recommendations to help reduce wasteful spending, become financially lean, and see how the products and services Moody Bank offers can keep you in business running for years to come. Know Where Your Money is Going While you might have a budget already in place, are you actually spending against it and do you know every expenses? Chances are probably not. Take the time to look at the last quarter of your business expenses to understand where your money is going. You might be surprised where you are overspending or down-right just being wasteful. While this isn\u2019t a definitive list of common wasteful spending by businesses, it is a good framework to use when reviewing your finances. Office Supplies and Employee Expenses Are you overspending on repetitive supplies like paper and pens, snacks for employees, or other items? Ask yourself how important these items are and if bulk purchasing may be a better solution. Similarly, are you spending too much on office parties or dinners, and do you have a reimbursement policy with limits set? Not every occasion requires an expensive celebration, nor should you let employees submit extraneous expense reports. Find ways to keep your employees happy without breaking the bank. Leasing a Big Building Nice office space is a great thing to have, but is it meeting your actual operating needs? If you have wasted space in your office, or many of your employees work remotely, consider a more efficient building to reduce overhead costs. Outdated Software and Unautomated Tasks Technology is evolving at a rapid pace for businesses of all sizes, and change can be scary but also costly. Take a hard look at what platforms you are currently using and subscription costs to ensure they are efficient and cost effective. This includes folding in manual tasks like budget reconciliation, expense report processing, and even financial reporting. There are many companies that offer comprehensive business tools that could help with cutting overhead expenses. Credit Card and Vendor Fees Even if you pay your monthly business credit cards on time, are you getting the best rates? Same with your vendors; are you really getting the best rates? Review how much you spend on all your vendors and see if you can bundle services to a single vendor or negotiate the cost of repeat orders. As for credit card interest rates, Moody Bank offer business credit cards with competitive rates that can help you save on interest. Inefficient Marketing Strategies This may come as a surprise, but you don\u2019t always have to market to the world using the latest trending platforms. Many businesses think more on the tactical level when it comes to marketing and throw a \u2018viral video\u2019 or other trends at the wall, rather than taking the time to create a comprehensive strategy that identifies target audiences and demographics. SCORE (Service Corps of Retired Executives), is a non-profit organization that has been providing small businesses resources and mentoring for free for more than 60 years. They have a wealth of free marketing templates that can help you focus your efforts and budget to target your customer base better. Make Sure You Have a Good Accountant You still need to make sure you put the work into setting and managing your budgets, but having the right accountant can make a world of difference. They can be a partner as you review wasteful spending and can offer professional guidance on how to maximize budgets and maintain healthy operational costs. In addition, they can handle filing year-end taxes and find deductions and tax benefits you may miss when filing on your own. It is one investment that will pay dividends in the long run. Check-up on Your Health Insurance All business owners want to ensure their employees stay healthy, but that doesn't mean you need to spend a fortune. Annually you should review your health insurance policy, especially if you added new employees, to look for any potential savings. SCORE has a great article that outlines tips for picking the right insurance plan for your employees . Another easy way to save is to start a wellness program . It can keep your employees healthy and avoid trips to the doctor. Many times, insurance will offer discounts when these programs are implemented. Another way to help reduce costs on claims is to make sure employees take sick days rather than tough it out and come to the office. Become More Efficient After you and your team have reviewed budgets and identified wasteful spending, it\u2019s time to become more efficient with your money. Instead of tackling everything all at once, put those expenses into some categories to help focus your efforts. Consider these categories: High-greatest impact on profitability and operational budgets Medium-needs additional discussion and negotiation with vendors Low-minimum impact on overall business Additionally, you should set time each quarter to review budgets and conduct regular analysis to identify any additional wasteful expenses. The only way to ensure you are staying on budget, operating at maximum capacity, and protecting your financial health is to constantly review and adjust. Make Moody Bank Your Business Partner for All Your Financial Needs We\u2019ve covered a wide range of topics for eliminating wasteful spending, including streamlining vendors and consolidating efforts. Moody Bank offers a full suite of products and services, making them a valued partner for your business across the Austin, Galveston, and Houston areas. Business Checking : from small deposits to large Treasury Funds, we have the right product to meet your budget. Business Savings : keep your money safe and watch it grow with interest earned on all savings accounts. Treasury Products : we can handle your merchant services, automate accounting tasks, help protect against fraud, and much more. Borrowing : need a line of credit, want to purchase new office space, or upgrade equipment with a loan? We have all the borrowing options your business needs. Wealth Management and Trust : let us show you how to grow your wealth and protect your assets. Contact us today or stop by one of our local branches to speak with a business banking professional. Moody Bank-small enough to know you, big enough to serve you. Check out our blog updates on SBA Paycheck Protection Program . Locations Careers Contact Us Online Security Moody National Bank. . NMLS ID #401676. . www.moodybank.com says You will be linking to another website not owned or operated by Moody National Bank. Moody National Bank is not responsible for the availability or content of this website and does not represent either the linked website or you, should you enter into a transaction. We encourage you to review their privacy and security policies which may differ from Moody National Bank. Cancel OK",
+      "headings": []
+    },
+    {
+      "rank": 6,
+      "domain": "fylehq.com",
+      "url": "https://www.fylehq.com/blog/cost-saving-ideas-for-large-businesses",
+      "title": "44 Effective Cost-Saving Ideas For Large Companies (And 1 Game ...",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://cdn.prod.website-files.com/5dd3ac2a77520f09d34aa5b0/69a1bd0ee318e9e5b73760bc_43%20Effective%20Cost-Saving%20Ideas%20For%20Large%20Companies%20-%20Main%20Banner.webp",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 7,
+      "domain": "youtube.com",
+      "url": "https://www.youtube.com/watch?v=9F_dfs13oRw",
+      "title": "10 Small Business Money Saving Tips That Will Save ... - YouTube",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 8,
+      "domain": "forbesburton.com",
+      "url": "https://www.forbesburton.com/insights/57-20-ways-to-save-money",
+      "title": "20 Easy Ways to Save Money in Your Business | Forbes Burton",
+      "word_count": 1036,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.forbesburton.com/wp-content/uploads/save-money.jpg",
+        "alt": "",
+        "description": "High-end editorial stock photography or crisp financial illustration.",
+        "type": "premium_editorial_asset"
+      },
+      "article_images": [
+        {
+          "url": "https://www.forbesburton.com/wp-content/uploads/save-money-1024x661.jpg",
+          "alt": "monay back - a means of saving money",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.forbesburton.com/wp-content/uploads/Chris-Leadley-2-150x150.jpg",
+          "alt": "Chris Leadley",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.forbesburton.com/wp-content/uploads/cash-reserves-700x627.jpg",
+          "alt": "tin showing business cash reserves",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.forbesburton.com/wp-content/uploads/11-steps-to-save-business-700x627.jpg",
+          "alt": "people planning to save business",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.forbesburton.com/wp-content/uploads/Staff_Banner.png",
+          "alt": "ladies with arms crossed in black and white",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "Is your company struggling financially? Can your company meet its bills as they land? Can your company extend budget for stock or investments? Does your company often find it\u2019s required to make cutbacks in some areas to financially support others? Realistically, if you find that your company has any issues when it comes to finances, then it is time to assess what that means for you and your company. 20 easy ways to save you money: Read on to see if any of the following could get the money back in your pocket. 1. Monitor cash flow Set up a daily cash flow report to control all cash in and out; this may help protect you from wrongful trading, as it stops bounced cheques. 2. Approve all payments personally Make sure that all purchases are approved by you, or that you are aware of approvals made. You should sign all cheques or approve all BACS/CHAPS payments. 3. Evaluate purchase orders Take time to evaluate purchase orders for yourself. If you are not directly responsible for procurement, at least give yourself the chance to ensure your business is not paying over the odds for goods or service. 4.Monitor petty cash If you or anyone in your business draws petty cash be sure YOU know when and how much. You could even set about such that no petty cash is drawn from the bank unless you personally go and get it. This way, you will be more likely to question where every pound is spent. 5. Review expenses Review all expenses claims by the staff and reject all that are not really necessary. This could also mean looking at where you spend the business\u2019 money. 6. Survival is key Remember survival is key; do not worry if you lose people or profits that are not vital. Profits will soon flow again from using very tight cash flow management. If cash is tight, tough decisions will need to be forced, but don\u2019t back down. 7. Ask suppliers to review prices Ask every supplier for a review of their prices \u2013 are they able to cut you a better deal? Also ask them for a few extra weeks payment grace, or ask for regular monthly payments. 8. Get a rent / lease review Speak to the landlord for a breather on the rent. Are able to pay monthly for a while rather than quarterly? Putting yourself in arrears is likely to be ok at this stage. Most landlords are very keen to retain their tenant in these terrible recessionary times. 9. Pay monthly Ask your accountants to accept monthly instalments. It may be that you need someone to do your bookkeeping for you. 10. Get 3rd party input Get someone else\u2019s view if you have a trusted friend or mentor. If so, talk to them about your business; they may suggest cost savings that hadn\u2019t occurred to you. Drive more sales, increase profit, improve performance If you are looking to drive more sales, increase profit, and improve your business\u2019 performance then our Mini Business Review will help you identify critical areas which need action. Find out more about our Free Business Review \u2192 11. Remove company car Do you need that company car? Can you use your own personal car? It may save you a lot of personal tax too. 12. Sell unneeded assets Can you sell any assets to raise cash? Make sure they\u2019re not owned by a leasing company first. 13. Review factoring / invoice financing If you are factoring or invoice discounting, ask your factors to cut their costs, and only drawdown funds weekly. 14. Cut overtime Cut ALL overtime; why do you need it? Is your production planning so poor or weak? If you need more people then hire them, but at lower rates. 15. Look at redundancies If you need to make redundancies and cannot afford them, use the DBIS (DTI) Hardship Scheme. 16. Arrange a Time To Pay plan with HMRC Ask HMRC for a Time to Pay arrangement (TTP) Deal before you build up arrears. 17. Check prices before purchase Use the internet to buy or price everything you can to get fantastic value over the net. 18. Work on your recovery plan Work all hours possible to build the recovery plan. It\u2019s your business, and you are the one that can save it. 19. Record ideas Keep minutes or notes of all decisions and action plans. It\u2019s essential that no idea is forgotten \u2013 this saves time in future when trying to re-think that great idea you had. 20. Still to the principles Whether you\u2019re a large or small company, the process is the same. It has worked for others and it could work for you too\u2026 take no prisoners, work hard, manage cash flow and you will hopefully lead your business out of the dark times. Final thoughts We hope there is something in here that you may not yet have thought of, which could help your company regain much needed cash. We always encourage that, if your business is beginning to present problems, business owners should do all they can to seek help from specialists rather than wait or try to let things sort themselves out. All it takes is a non-obligation phone call on 0800 975 0380 to find out if we can help. If something needs to give, do all you can to get the best help available for your business. Drive more sales, increase profit, improve performance If you are looking to drive more sales, increase profit, and improve your business\u2019 performance then our Mini Business Review will help you identify critical areas which need action. Find out more about our Free Business Review \u2192 Free Confidential Advice And Help For Company Directors Need some advice? Get in touch using the form below or by calling us on 0800 975 0380 Trustpilot Reviews Author Chris Leadley chris.leadley@forbesburton.com Related Articles How to Build up Your Business Cash Reserves in 5 Simple Steps 11 Steps to Save Your Business from Failure We're here for you. As a dedicated team of Advisers and Consultants our aim is to help you fix the issues and solve the problems within your business.",
+      "headings": []
+    },
+    {
+      "rank": 9,
+      "domain": "british-business-bank.co.uk",
+      "url": "https://www.british-business-bank.co.uk/business-guidance/guidance-articles/finance/10-ways-to-reduce-your-business-costs",
+      "title": "10 ways to reduce your business costs",
+      "word_count": 1051,
+      "scrape_status": "tavily_fallback",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": "## Select audience Choose the option that best describes your role. British Business Bank Popular placeholder # 10 ways to reduce your business costs There are many benefits to lowering your outgoings, not least relieving pressure on your cash flow. By improving processes and thinking creatively, you can reduce your costs, which in turn can help you manage pressures around cash flow. It needn't be as painful an exercise as you imagine, although it will require some smart thinking. Here are 10 possible measures for you to consider. ## 1. Explore an alternative place of business Instead of making a long-term commitment to rent office space, why not consider another arrangement? Depending on the nature of your business, you could, for example: * downsize * seek a co-working arrangement * convert your business so that you and your employees work permanently from home. In any case, given the current economic environment, you may be in a strong position when renegotiating rental arrangements with your landlord. ## 2. Draw up a budget and stick to it Having a budget that you keep to will not only help you impose some financial discipline on your business costs but allow you to benchmark those costs on an ongoing basis. It should also let you highlight areas in which you can easily cut down on your spending. For instance, should you consider doing away with documentation and paper-based processes altogether and moving everything to digital? ## 3. Move marketing online You need to make every pound count, so it's important to market your business online. It's a relatively low-cost way to execute marketing campaigns you can measure and monitor. You can also try out new formats and engage with customers via: * social media * blogs * vlogs (video blogs) You can do most of this far more cheaply than you can with traditional marketing methods. ## 4. Pool your equipment with other businesses (or barter) If you have good relationships with other small-business owners, it's worthwhile collaborating so you can: * share equipment * bulk buy goods and materials * barter some services For example, a PR company could provide free publicity to a retailer in return for discounted or free products. ## 5. Use part-time and freelance staff There is a large and neglected talent pool among freelancers and part-time workers, especially those people in their 40s and 50s. For a relatively cheap amount, you can find experienced, hardworking, and knowledgeable workers in this area. They're focused on delivering a service, not climbing the career ladder, and so should be fairly easy to direct. ## 6. Don't automatically renew premiums and services If you automatically renew services - whether that's business insurance, mobile phone contracts, or broadband contracts -you're probably paying over the odds. It's always best to renegotiate each year to make sure you're getting the best price. Read our guide, 7 ways to reduce the cost of your business insurance ## 7. Avoid unnecessary charges for finance You can lose hundreds, even thousands, of pounds each year by going over your business credit card limit and being late with loan repayments. By staying on top of bills and paying them on time, you can avoid such interest charges. Keep a schedule and set up alerts to remind you when payments are due, automating as much of this process as you can. ## 8. Learn from your bank Your bank should be able to offer you some advice on how you might reduce finance costs in your business. As they deal with thousands of business customers, they will have gathered plenty of insights they can share. In any case, it's well worth trying to develop a deeper relationship with them, particularly if you're having cashflow issues. You should also try and make the most of your business bank account. ## 9. Don't be afraid to haggle Be prepared to haggle hard every single day, without any embarrassment, with a smile and humility. Street-savvy business nous never goes out of fashion and if you can develop it, you'll survive in these most cut-throat of times. Haggling should be something that eventually becomes second nature to you as a business owner. ## 10. Seek out tax reliefs You can benefit from a wide range of small-business tax reliefs. If your business is involved in research and development, you could be eligible to claim the cost of your projects as tax relief. You could also qualify for small-business rate relief on your property. And there are tax-deductible expenses across a wide range of categories, from office supplies to vehicle fuel to marketing costs. Reference to any organisation, business and event on this page does not constitute an endorsement or recommendation from the British Business Bank or the UK Government. Whilst we make reasonable efforts to keep the information on this page up to date, we do not guarantee or warrant (implied or otherwise) that it is current, accurate or complete. The information is intended for general information purposes only and does not take into account your personal situation, nor does it constitute legal, financial, tax or other professional advice. You should always consider whether the information is applicable to your particular circumstances and, where appropriate, seek professional or specialist advice or support. ### Tags related to this content: * Read related posts from Finances ## Making business finance work for you: Expanded edition Our *Making business finance work for you: Expanded edition* is designed to help you make an informed choice about accessing the right type of finance for you and your business. Read the guide to making business finance work for you ## Your previously read articles * Visit home page ## Related articles articles ### What is Foreign Exchange risk? Forex risk is caused by fluctuations in exchange rates between currencies. Read article What is Foreign Exchange risk? ### Who qualifies for a loan from a CDFI? Learn more about what types of business a Community Development Finance institution can lend to with our guide. Read article Who qualifies for a loan from a CDFI? ### Is mezzanine finance right for your business? Mezzanine finance could help your businesses to grow. Learn more about mezzanine finance and the difference between it, equity, and debt. Read article Is mezzanine finance right for your business?",
+      "headings": []
+    },
+    {
+      "rank": 10,
+      "domain": "score.org",
+      "url": "https://www.score.org/resource/article/10-ways-save-money-startup",
+      "title": "10 Ways to Save Money at Startup - SCORE.org",
+      "word_count": 38,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.score.org/sites/default/files/styles/ogimage/public/d7_migration/42/AdobeStock_392712128%20%281%29.jpg",
+        "alt": "Young business man going over expenses in home office",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.score.org/sites/default/files/styles/responsive_4_3_250w/public/d7_migration/15/GettyImages-174628024.jpg?itok=GCwvgwZ9",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "Budgeting 101 - Planning For Profit & Success Learn why having a budget is critical for long-term survival and essential to reaching your goals and how to ensure your plan supports your high-level business strategies. View Recorded Webinar",
+      "headings": []
+    },
+    {
+      "rank": 11,
+      "domain": "monticellochamber.org",
+      "url": "https://monticellochamber.org/files/10%20Tips%20for%20Saving%20Money%20on%20Your%20Business%20Expenses.pdf",
+      "title": "[PDF] 10+ Tips for Saving Money on Your Business Expenses",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 12,
+      "domain": "usa.gov",
+      "url": "https://www.usa.gov/start-business",
+      "title": "How to start and fund your own business | USAGov",
+      "word_count": 291,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.usa.gov/themes/custom/usagov/images/Logo_USAGov.png",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.usa.gov/themes/custom/usagov/images/social-media-icons/Facebook_Icon.svg",
+          "alt": "Facebook",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.usa.gov/themes/custom/usagov/images/social-media-icons/X_Twitter_Icon.svg?version=2",
+          "alt": "X Twitter USAGov",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.usa.gov/themes/custom/usagov/images/social-media-icons/Email_Icon.svg?version=2",
+          "alt": "Email",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.usa.gov/themes/custom/usagov/images/ICONS_talk.png",
+          "alt": "talk icon",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.usa.gov/themes/custom/usagov/images/ICONS_chat.png",
+          "alt": "chat icon",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "Learn how to start and manage your small business, and find local support if you need help. How to start a business If you want to start a new business, the Small Business Administration (SBA) can help. SBA\u00e2\u0080\u0099s 10-step guide explains how to plan, launch, and manage your business. As you grow your business, it\u00e2\u0080\u0099s important to understand taxes, how to hire and manage employees, and your legal responsibilities. SBA's Business Guide can help you manage day-to-day operations and prepare for success. Funding your small business Businesses need money to start and grow. And they may need money to recover after a disaster. There are no federal grants for starting a business . But small business owners can get money in different ways. This includes using personal funds, finding investors, or taking out small business loans. The SBA also has funding for groups such as: Women-owned businesses Minority-owned businesses Native American-owned businesses Veteran-owned businesses Military spouse-owned businesses If you own a rural business, you can find support to start, expand, or maintain your farm or rural business. Resources include: SBA financing options for rural businesses Farm Service Agency loans for farmers or ranchers Find local support The SBA provides free or low-cost counseling and training . You can: Find support to learn new skills Connect with other business owners Apply for a loan for a declared disaster area Find help with government contracting, and more. Contact SBA by: Calling SBA\u00e2\u0080\u0099s Answer Desk at 1-800-827-5722 or emailing answerdesk@sba.gov Searching SBA\u00e2\u0080\u0099s network of partners for low-cost or free services in your area LAST UPDATED: February 17, 2026 Have a question? Ask a real person any government-related question for free. They will get you the answer or let you know where to find it.",
+      "headings": []
+    },
+    {
+      "rank": 13,
+      "domain": "gecreditunion.org",
+      "url": "https://www.gecreditunion.org/learn/education/resources/money-minutes/july-2024/5-money-saving-tips-for-small-businesses",
+      "title": "5 Money-Saving Tips for Small Businesses",
+      "word_count": 0,
+      "scrape_status": "failed",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 14,
+      "domain": "basis365.com",
+      "url": "https://www.basis365.com/blog/7-ways-small-business-owners-can-save-money",
+      "title": "7 Ways Small Business Owners Can Save Money",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "http://static1.squarespace.com/static/5342fb92e4b0907609b1bf65/53472596e4b08984da50d020/615778c0e52f97568aab5f1b/1685899382651/sasun-bughdaryan-eYoAbih_riY-unsplash.jpg?format=1500w",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/53306291e4b010786b5d692d/22bbb5c190ad4366ad7725125b760b6a/22bbb5c190ad4366ad7725125b760b6a.jpeg?format=300w",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 15,
+      "domain": "macu.com",
+      "url": "https://www.macu.com/must-reads/business/9-ways-to-save-while-building-your-business",
+      "title": "9 Ways to Save While Building Your Business",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 16,
+      "domain": "practicalbusinessskills.com",
+      "url": "https://www.practicalbusinessskills.com/en/getting-started/financial-basics/saving.html",
+      "title": "Saving - Practical Business Skills",
+      "word_count": 1469,
+      "scrape_status": "tavily_fallback",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": "Saving | Practical Business Skills # # Saving Savings includes money you set aside to cover future planned or unexpected expenses. It\u2019s important to outline savings in any business plan as a way to achieve business goals, prepare for unforeseen events, maintain operations when sales are low and earn interest, if you use a savings account at a financial institution. Why is saving important for growing a business? * Helps you prepare for unpredictable events. With savings on hand, you can ensure slower sales periods or unforeseen challenges won\u2019t impede your business. * Allows you to earn on savings. Maintaining a savings account with a financial institution can generate revenue for you in the form of interest. Consider the options available and choose the one that fits your needs. You will want to consider how much money you hope to save, how you will access the funds, how much interest you can earn and when you\u2019ll want to withdraw the funds. For example, you might be able to earn more interest with a certificate of deposit (CD) account than a basic savings account, but you could have to pay a penalty if you withdraw your money from a CD account before a predetermined time. * Equips you to achieve your goals. Setting medium- and long-term savings goals can help you improve or expand your business, open a new point of sale, make repairs and more. How can you save? If you\u2019re reluctant to start saving or believe it isn\u2019t possible, think of it as a path to exciting opportunities rather than a burden. Chances are you\u2019ll need the funds for unexpected situations in your business, good and bad. Here are some basic steps to get you started. * Create a budget and stick to it. When you make a monthly budget, consider overestimating your expected costs. This way, you\u2019ll likely end up with leftover funds, which can go right into savings. * Pay yourself first. Determine a set amount of money to put away every month and treat it like any other bill. Put away part of your revenue and watch your personal savings grow. * Save wisely. Choose the savings methods that best match your goals. You can research multiple financial institutions to see what types of accounts are available and how much interest each one offers. * Be ready for the unknown. Create an emergency fund with three to six months\u2019 worth of business expenses. All businesses encounter hard times. With savings to help you get through three to six months, you\u2019ll be more equipped to make sure your business stays open. * Set financial goals to stay on track. Use SMART goals so you know exactly how much you want to save and how long it will take to get there. When you set clear goals, it\u2019s easier to stay motivated and track your progress. Set saving goals Before settling on methods for saving your money, you should determine a reason to save. This goal may center around purchasing new equipment, hiring more employees, making improvements to your place of business, or simply saving for unplanned expenses. Having this end goal in sight will help you reach that milestone. Whatever your goal, the amount you save does not need to be large. To jump-start your savings, consider designating a certain amount per month rather than just a one-time deposit. SMART goals Real-life reasons to save are good motivators. Think about short-term goals (current month or year purchases) and long-term objectives (for important events and big expenses) using this SMART goal guideline: Specific goals inspire. Setting a clear goal with specific outcomes will help you focus on saving. Measurable goals let you see the real task at hand. By using real numbers, you can measure your progress along the way. Attainable goals pay off. When setting your goal, ensure that it is within your reach. Relevant goals make good sense. Set a goal only if you know it will be meaningful in the long run. Time-bound goals have a real deadline. Setting a time frame for your goal will help you stay committed to reaching it. Once you\u2019ve set your financial goals, it\u2019s time to start saving. Choosing the right savings method is dependent on a few factors: how much money you hope to save, how you will access your funds and when you\u2019ll want to withdraw them. The first step is evaluating the options available. Savings accounts There are many categories of savings accounts to choose from. You can use one savings account or multiple accounts to organize and separate your money for various purposes. Many businesses use different savings accounts based on when they\u2019ll want to withdraw funds and what they\u2019ll be used for. For example, you may open one savings account for money that\u2019s going to be used to buy a new building in a year, and another savings account for unexpected expenses. Keeping the money separate can help you avoid the temptation to spend the money on something else. One great benefit of keeping your money in savings accounts is that you can earn interest on what you save. The amount you earn will depend on the account\u2019s interest rate and how frequently the interest compounds (how often it gets added to your account). Accounts with a higher interest rate and more frequent compounding rate will earn you more interest. Here are a few different savings accounts to consider: * Basic savings accounts offer the lowest interest rates, usually less than 1 percent, but you can easily withdraw your money by transferring it to a different account or withdrawing cash at a branch or ATM. Look for an account that won\u2019t charge you a fee, no matter how much money you keep in the account. Basic savings accounts are usually offered by brick-and-mortar banks, but may also be available via online banks. * Money market accounts may offer higher interest rates than basic savings accounts and often make it even easier to access your money. You may receive a debit card or checks that can be used to withdraw or spend money from the money market account. However, you often have to deposit a lot of money to meet the minimum balance requirement to open an account and keep the high balance to earn interest. * Online savings accounts offer interest rates that are similar to money market accounts, but generally don\u2019t have checks or debit cards, which may be a benefit if you don\u2019t want to be tempted to spend the money. You can still easily access your money by transferring it to a different account. Or, if you also have an online checking account with the same financial institution, you can withdraw money from your savings account at an ATM. However, with this option, you won\u2019t be able to speak with a customer service representative in person. No matter which type of savings account you choose, consider setting up an automatic savings plan. These plans automatically transfer a set amount from your checking account to savings each month, helping you build your savings without having to think about it. Creating an emergency fund An emergency fund is money that you have saved to help cover unexpected costs associated with running a business. These costs could be related to a slow sales period or an unplanned event, like a natural disaster or damage to your business and inventory. Many of these costs can\u2019t be predicted, and almost everyone will face these expenses throughout the lifecycle of their business. With an emergency fund in place, you can ensure you\u2019re prepared to resolve an unexpected financial setback. Experts recommend building and maintaining an emergency fund that would cover three to six months\u2019 worth of business expenses. Learn more about how to create an emergency fund and plan for emergencies. Share Disclaimer: No Legal Advice Intended *This site provides general information related to creating and running a business. The content of this site is for informational purposes only and not for the purpose of providing legal or tax advice or opinions. The contents of this site, and the viewing of the information on this site, should not be construed as, and should not be relied upon for, legal, financial or tax advice in any particular circumstance or fact situation. No action should be taken in reliance on the information contained on this site, and Visa Inc. disclaims all liability in respect to actions taken or not taken based on any or all of the contents of this site to the fullest extent permitted by law. You should contact an attorney to obtain advice with respect to any particular legal or tax issue or problem, including those relating to your current or potential business.* *The contents of this site have been developed for a U.S. audience.*",
+      "headings": []
+    },
+    {
+      "rank": 17,
+      "domain": "shopify.com",
+      "url": "https://www.shopify.com/blog/startup-financial-tips",
+      "title": "How To Save Money in Business: 10 Proven Strategies for ... - Shopify",
+      "word_count": 2384,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://cdn.shopify.com/s/files/1/0070/7032/articles/money-saving-advice_5eae5075-c9bc-45d4-9d5d-de093081490d.jpg?v=1765798438",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0070/7032/articles/money-saving-advice_5eae5075-c9bc-45d4-9d5d-de093081490d.jpg?v=1765798438&originalWidth=1848&originalHeight=782",
+          "alt": "Illustration of an origami swan made out of money surrounded by dollar bills, representing the ingenuity entrepreneurs show in cutting costs",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.shopify.com/b/shopify-brochure2-assets/c8790c0f3c1fa91ccc845e45ce067bbe.png",
+          "alt": "start-free-trial",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "There are some common financial missteps almost all founders make in their first year. We share their biggest mistakes\u2014and advice for how to save money in business. When it comes to the costs of starting a business , entrepreneurs often learn quickly that the financial realities of doing business don't always match initial expectations. According to a 2021 survey by Clutch , 35% of small business owners reported spending over their business budget. Where did their forecasts go wrong? Did they overspend in certain areas? And what could they have done to reduce costs ? Turns out, there are some financial missteps almost all founders make in their first year\u2014-and most of them are avoidable. To help you avoid these same pitfalls, we interviewed successful Shopify store owners to find out what they would have done differently in their first year and what financial advice they'd give new entrepreneurs. We also pooled the top resources from our blog so you can dive deeper into each topic. If you're starting your own business, you'll want to keep this list handy. Table of contents How to save money in business: Understanding the basics Create a comprehensive financial plan Build a strategic network for resource sharing Leverage free and low-cost digital tools Invest in product research and validate your idea Implement cost-effective marketing strategies Optimize your shipping and fulfillment costs Manage tax obligations strategically Reduce overhead with remote and hybrid work models Negotiate effectively with vendors and suppliers Review and minimize recurring expenses Start saving money with Shopify How to save money in business FAQ How to save money in business: Understanding the basics Learning how to save money in business starts with recognizing that every dollar counts, especially in your first year. Effective money management isn't just about cutting costs\u2014t's about making strategic decisions that maximize the value of your spending while minimizing unnecessary expenses. The foundation of saving money in business is understanding where your money goes and finding opportunities to optimize spending without compromising quality or growth potential. This requires both careful planning before you launch and ongoing vigilance as your business develops. 1. Create a comprehensive financial plan The first step to hitting your financial goals is actually writing them down. Many first-time entrepreneurs find the process of writing a financial plan either too overwhelming or unnecessary in the early days, so they skip it altogether. If you're tempted to do the same, think again. Creating a financial plan forces you to take inventory of where you are right now, where you want to be, and how you want to get there. It also helps you make better decisions in a pinch, and forces you to remember the big picture when you're feeling bogged down by the day to day of entrepreneurship. What's more, just the process of writing a financial plan can save you money. Financial planning isn't just about forecasting or predictions either. Even the simple things, such as opening a business bank account or taking time to understand financial statements go a long way toward potential business success. Managing finances isn't the most glamorous of business-building tasks, but it remains essential nonetheless. \ud83d\udcdaResources: How to write a financial plan A detailed guide to writing a useful business plan Business plan template: A framework to streamline your next business plan 2. Build a strategic network for resource sharing The bigger your professional network, the better. Every person you meet could be a potential adviser, customer, or partner. And in the early days, it can actually help you cut costs significantly by turning your time and skills into currency. Not to mention, the easiest way to accurately forecast how much money you'll need to invest in your business is to talk to people who have started similar businesses, or who advise those businesses. Accurate financial projections can be the difference between finishing the quarter strong and not having enough funds to remain open next month. Some tips for building relationships with like-minded entrepreneurs and small business advisers include: Take charge of your personal Facebook, Instagram, and LinkedIn pages , letting your network know of your new business venture, what help you might need, and what you're offering in return. Join Facebook and LinkedIn groups that are relevant to your business or industry, as well as more general groups related to small businesses. SCORE' s mission is to support small business communities through mentoring and education. In the US, it has a huge network of volunteer expert business mentors and has helped more than 11 million entrepreneurs since 1964. Backstage Capital is a community of investors, mentors, and entrepreneurs focused on supporting Black founders and underrepresented groups in entrepreneurship. The Fireweed Fellowship is an accelerator and hub empowering Indigenous entrepreneurs in Canada with courses, mentorship, professional coaching and much more. As the world opens back up, Meetup.com makes it easy to find local groups of entrepreneurs, whether they're operating in your industry or talking through specific issues. Browse topics like \"Small Biz\" and \"Small Business Owners\" to find meetups near you. Those who have gone down the road before you can offer incredible insight into how to improve your startup's financial health. Experienced entrepreneurs in your network are a treasure trove of knowledge and insight. From business finance best practices to financial management tips, one or two of the right connections can make all the difference. 3. Leverage free and low-cost digital tools Every small business owner wishes they had more time and resources at their disposal. But free goes pretty far these days. Don't hire employees or buy pricey software until you've tried some tools out yourself and know exactly what you're looking for. In the early days, just focus on experimenting, seeing what works and what doesn't, then rinse and repeat. Some popular free tools and apps you want to check out include the following: Logo Maker helps you create professional-looking logos and social media assets without any design experience. Burst allows you to browse and download free, high-resolution photos for your website or commercial use. Modern accounting platforms like Xero now offer comprehensive accounting, invoicing, and payroll services with AI-powered expense categorization, starting at $15 per month with a 30-day free trial. Automation tools that save time and money Implementing automation tools is one of the most effective ways to reduce costs in your business. These tools can handle repetitive tasks that would otherwise require manual labor, freeing up your time to focus on growth-oriented activities. Shopify has many automation tools available to help streamline and automate business operations, freeing you up to spend time on more valuable tasks. Shopify Automations engage customers every day with automated marketing, while Shopify Flow allows you to build custom workflows to help run your business more efficiently. \"I was using Wix before, and it was really easy to build the website, but I needed to have a website that could handle more,\" says Hannah Perry, owner of Floof Cotton Candy . \"Shopify really just made my business feel more professional, and it saves me a lot of time in communicating with customers. It was a big step, but it was crucial to do because I really needed more from my website.\" Some cost-effective automation options include: Email marketing automation tools that send targeted messages based on customer behavior Social media scheduling platforms that post content across multiple channels Inventory management systems that automatically reorder products when stock is low Customer service chatbots that handle common questions and requests Accounting software that categorizes expenses and generates financial reports LEARN MORE: If you're just getting started, Shopify's list of Free Business Tools includes everything from logo makers to purchase order templates. And if you've already decided to launch your store on Shopify, the Shopify App Store has thousands of free apps to help you grow your Shopify business. \ud83d\udcdaResources: Best video editing tools for small business owners How to capture your own high-quality product shots Small business accounting software Best free Shopify apps to grow your Shopify store Top ecommerce automation tools to save time and money in your business 4. Invest in product research and validate your idea With your product idea in mind, you may feel inclined to leapfrog ahead to production, but that can become a huge financial drain if you fail to do any product research or validate your idea first. Understanding the logistics of business operations before you go all-in on your idea is incredibly important. Your new business doesn't start until you've actually validated your idea. If you're manufacturing your own product , you should be spending the better part of your first year investing in research and development. And once you have a prototype, you need to validate that other people will love it just as much as you do. Product validation ensures you're creating a product people want and will pay for, so that you don't waste time, money, and effort on an idea that won't sell. \"I kind of went down this whole product development pipeline to try to understand how to create it and basically spent about a year and a half developing it,\" says Ann McFerran, founder of Glamnetic. \"But I did all the research myself and I realized that every answer that you ever need to find is out there on the internet now. And about a year and a half later, I came up with the prototype, which then got launched.\" There are several ways you can validate your product ideas , including: Talking about your idea with family and friends Sending out an online survey to get feedback Starting a crowdfunding campaign Asking for feedback on forums like Reddit Researching online demand using Google Trends Launching a Coming Soon page to gauge interest via email opt-ins or pre-orders Companies that don't spend enough time on product research and validation and jump ahead to branding and marketing their product often spend more money revisiting their product designs later. Marcia Hacker, founder of Sauipe Swim, says she got distracted by packaging and product photography and invested too much in those areas when she should have been focused on product development. \"In hindsight, we should have taken a step back and figured out how to design our [swimsuits] the right way,\" she says. \"We rushed, and I've had to spend a lot of years making up for it\u2014and financially I'm still paying for a lot of those early mistakes.\" Her number one lesson? \"Don't rush product research,\" she says. \"Evaluate your market. Follow successful competitors for a few months and see how they do things. Then invest in the shiny things.\" \ud83d\udcdaResources: How to develop a new product (from concept to market) How to validate your product How to conduct a competitive analysis 5. Implement cost-effective marketing strategies Startup marketing is tricky, especially if resources and expertise are limited. And even if resources aren't limited, pumping money into paid ads doesn't guarantee you sales. Make sure you've covered the following bases before running any sophisticated campaigns: Choose the right social media channels for your brand. And once you've chosen your platforms, make sure your brand is showing up consistently and constantly on all platforms. Optimize your website for sales. It only takes a second for a customer to form an impression of your website. Everything from your homepage navigation to your site speed to your checkout experience needs to be on point. Grow your email list. You can link to offers on your website that capture email signups (e.g., 15% discount for signing up), or use your social media accounts to host a free giveaway in exchange for contact information. You can even start doing this pre-launch with your Coming Soon page. Reward loyalty. It's more affordable to make money from loyal customers than it is to find new customers. Consider a loyalty program for your VIP customers, or offer them discounts for referrals. Cross promote with complimentary brands. Cross promotion allows you to partner with related businesses who can market your services in exchange for you marketing their services-at no cost to either of you. Get to know micro-influencers in your market. Are there any local influencers in your space who might be interested in your product? Offer them some freebies in exchange for a mention on their platform. Identify key performance metrics (and track them). You'll want to get familiar with Google Analytics to see how your website is performing and where you're losing customers. And if you're running paid campaigns, calculating customer acquisition costs is one way to see if your marketing efforts are working. Digital marketing approaches with high ROI Implementing the right digital marketing strategies is one of the most effective ways to reduce costs in your business while maximizing your reach and impact. Finding the right tools to help you execute your marketing strategy can amplify your campaigns. \"I think email accounts for 54% of our sales,\" says Vicky Pasche, co-founder of Dapper Boi . \"We use Klaviyo. It integrates within Shopify. So it's really awesome, because we're able to segment all of our customers based on different events. It's the information we're able to grab and how efficient we can be with our marketing efforts.\" When it comes to getting the most bang for your marketing buck, certain digital strategies consistently outperform traditional approaches: Content marketing. Creating valuable blog posts , videos, and guides that address your customers' pain points can drive organic traffic for years with minimal ongoing investment. Email marketing. With an average return on investment (ROI) of $36 for every $1 spent, email remains one of the most cost-effective marketing channels. Social media marketing. Platforms like TikTok and Instagram allow you to reach targeted audiences without large ad spends if you create engaging, shareable content. SEO optimization. Investing time in optimizing your website for search engines can generate consistent, free traffic over the long term. User-generated content. Encouraging customers to share their experiences with your products creates authentic marketing materials at virtually no cost. The key is to start small, measure results carefully, and gradually scale up investment in the channels that work best for your specific business. \ud83d\udcdaResources: How to build your own brand from scratch in 7 steps How to write product descriptions that sell Customer acquisition: How to profitably gain new",
+      "headings": []
+    },
+    {
+      "rank": 18,
+      "domain": "psbt.com",
+      "url": "https://www.psbt.com/Learn/Resources/PSBT-Corner-News/Save-Money-For-Your-Business",
+      "title": "10 Cost-Savings Ideas for Small Businesses",
+      "word_count": 857,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.psbt.com/Portals/0/EasyDNNnews/106/business-saving-money-blog1-1.jpeg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.psbt.com/Portals/0/EasyDNNNews/106/images/business-saving-money-blog1-1-1530-448-c-C-97.jpeg",
+          "alt": "10 Cost-Savings Ideas for Small Businesses",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.psbt.com/Portals/0/business-saving-money-blog2 (1).jpeg?ver=xFUXVujhbxHbISPQ-jhlMQ%3d%3d",
+          "alt": "ways businesses can save money",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "Running a small business means keeping an eye on your budget at all times. It's all about finding smart ways to save money without cutting corners on what makes your business great. In this blog, we'll show you some straightforward yet effective tips to help you keep your costs down. Whether it's using new technology or changing the way you do things, these ideas are all about making your money work harder for your business. 10 Ways to Save Money for Your Small Business Smart cost-saving strategies can help you balance your budget without sacrificing the quality of your services or products. Here are ten practical tips to help you reduce expenses and increase efficiency. 1. Embrace Technology is a key driver of efficiency. Small businesses can benefit greatly from adopting digital tools for tasks like accounting, inventory management, and customer relations. These technologies not only streamline processes but also reduce the need for manual labor, leading to cost savings. Moreover, digital tools provide valuable insights that can help in making informed business decisions. 2. Go Green Going green is not just an environmental choice; it's a cost-saving strategy. Small businesses can reduce their utility bills by adopting energy-efficient practices, like using LED lighting and energy-saving appliances. Moreover, reducing paper usage by transitioning to digital documentation can significantly cut down on supply costs. Environmentally friendly practices can also enhance your brand image, attracting eco-conscious customers. 3. Lease Instead of Buy For small businesses, conserving capital is crucial. Leasing equipment rather than buying can free up cash for other essential uses. It allows access to the latest equipment without the potentially large initial investment and often includes maintenance, reducing unexpected repair costs. Leasing can also offer tax benefits, as lease payments are often fully deductible as business expenses. 4. Outsource Non-Core Activities Outsourcing activities that are not central to your business can lead to substantial savings. By hiring external experts for tasks like IT support, accounting, or human resources, you can avoid the costs associated with full-time employees, such as benefits and training. Outsourcing also gives you access to specialized skills and technologies, which can improve efficiency and productivity. 5. Limit In-Office Expenses Managing in-office expenses can significantly reduce overhead costs. Encouraging practices like double-sided printing, turning off equipment when not in use, and controlling heating and cooling can lower utility bills. Additionally, opting for budget-friendly office supplies and furniture can make a noticeable difference in your expenditure. 6. Use Business Credit Cards Wisely Business credit cards can be a useful tool for managing cash flow and earning rewards. It's important to use them judiciously to avoid high interest and debt. Look for cards with benefits like cash back or travel rewards that align with your business needs. Always pay off balances on time to avoid interest charges and maintain a good credit score. 7. Focus on Customer Retention Retaining existing customers is often more cost-effective than acquiring new ones. Implement strategies like excellent customer service, loyalty programs, and regular communication to keep your customers engaged. Satisfied customers are more likely to return and recommend your business to others, reducing the need for expensive marketing campaigns. 8. Negotiate with Suppliers Negotiating with suppliers can lead to significant cost reductions. Don't hesitate to ask for discounts, especially for bulk purchases or long-term contracts. Building a good relationship with suppliers can also lead to more favorable payment terms. Regularly reviewing and comparing supplier costs ensures you are getting the best deals. 9. Create a Budget Plan A well-thought-out budget is crucial for financial management. Regularly monitor your expenses and compare them to your budget to identify areas where you can cut costs. A budget also helps in setting financial goals and tracking progress, ensuring your business stays on a financially sustainable path. 10. Consider a Business Savings Account A business savings account can offer financial security and potential interest income. It's a safe place to set aside a portion of your earnings for future investments or unexpected expenses. Regular contributions to a savings account can build a financial cushion, reducing the need for loans during tough times. Open a Business Savings Account for Your Small Business with Peoples Security Bank & Trust Are you a small business owner looking to open a business savings account in Pennsylvania, New York, or New Jersey seeking a smart way to manage your finances? Look no further than Peoples Security Bank & Trust (PSBT)! We understand the unique challenges small businesses face and offer tailored savings accounts so we can work with you to secure your financial future. With competitive interest rates, easy accessibility, and top-notch customer service, our business savings accounts are designed to give you peace of mind and grow your funds. Conclusion Putting these cost-saving tips into practice can really help your small business do better financially. It's not just about spending less but about making smarter choices that pay off in the long run. By trying out these strategies, you're taking steps to make your business stronger and more secure, financially speaking. Keep looking for ways to save, and you'll see your business grow while keeping your expenses in check!",
+      "headings": []
+    },
+    {
+      "rank": 19,
+      "domain": "enkel.ca",
+      "url": "https://www.enkel.ca/blog/bookkeeping/save-business-owners-money/",
+      "title": "8 Tips That Save Business Owners Money - Enkel Backoffice Solutions",
+      "word_count": 794,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.enkel.ca/wp-content/uploads/2017/11/savings.png",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.enkel.ca/wp-content/uploads/2026/03/The-Audit-Guide-for-Canadian-NPOs.jpg",
+          "alt": "The Audit Guide for Canadian NPOs 2026 \u2013 Enkel E-Book Cover",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.enkel.ca/wp-content/uploads/2026/04/How-to-Prepare-Your-Nonprofit-Financial-Statements-for-the-Board.jpg",
+          "alt": "Executive director preparing nonprofit financial statements for the board including budget variance and cash flow reports",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.enkel.ca/wp-content/uploads/2026/04/The-Ultimate-Month-End-Close-Checklist-for-Nonprofits.jpg",
+          "alt": "",
+          "description": "Graphic design layout of a document, checklist, or tracker.",
+          "type": "graphic_design_document"
+        },
+        {
+          "url": "https://www.enkel.ca/wp-content/uploads/2026/03/Year-End-Bookkeeping-for-Nonprofits_-A-Complete-Guide-for-Canadian-Charities-1.jpg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 20,
+      "domain": "bankunited.com",
+      "url": "https://www.bankunited.com/resource-corner/6-money-saving-strategies-for-small-business-owners",
+      "title": "6 Money\u2013Saving Strategies for Small Business Owners - BankUnited",
+      "word_count": 1418,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.bankunited.com/images/default-source/icon-library/sharing",
+        "alt": "Credit card machine with text",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.bankunited.com/images/default-source/icon-library/printer.png",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.bankunited.com/images/default-source/content-artwork/mastering-payables.jpg?sfvrsn=2b00eecd_1",
+          "alt": "Credit card machine with text",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    }
+  ],
+  "battle_plan_generated_at": "2026-04-26T10:44:46.851650+00:00",
+  "competitors_analyzed_count": 7,
+  "battle_plan_method": "local_deterministic_agent_no_api"
+}

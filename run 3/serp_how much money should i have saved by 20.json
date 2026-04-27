@@ -1,0 +1,636 @@
+{
+  "article_context": {
+    "angle": "Manual tracking (pen/paper/excel) as the foundational step for true awareness",
+    "pain_points": [
+      "Living paycheck to paycheck despite a decent income",
+      "Money disappearing with no clear awareness or control",
+      "Feeling overwhelmed and scared by finances/budgeting",
+      "High childcare costs severely limiting ability to save"
+    ],
+    "top_social_questions": [
+      "How do I save money when I'm living paycheck to paycheck?",
+      "How do I start tracking/budgeting effectively?"
+    ],
+    "dominant_emotion": "Anxiety and fear of confronting financial reality",
+    "serp_intent": "Searchers for \"how much money should i have saved by 20\" seek age-specific financial benchmarks and advice on realistic savings goals for early adulthood, often to gauge progress toward emergency funds, retirement, or life milestones amid limited income. The SERP intent is informational, dominated by expert guides, calculators, and lists from sites like Investopedia or Forbes outlining recommended totals (e.g., 10-20% of annual income) and factors like starting early via compound interest.",
+    "serp_title_pool": {
+      "primary": [
+        "How much should I have saved at 20yo? : r/FinancialPlanning - Reddit",
+        "Savings by Age: How Much to Save in Your 20s, 30s, 40s & Beyond | Ally",
+        "How Much Savings Should I Have for My Age?",
+        "How Much Money Should I Have Saved by My 20s and 30s? - Equifax",
+        "What Is the Average Savings by Age? - SoFi",
+        "How Much Should I Have In Savings At Each Age? | Bankrate",
+        "Average Retirement Savings By Age | Edward Jones",
+        "How Much Money You Should Have Saved in Your 20s? - YouTube",
+        "How much money should I have at age 20? - Quora",
+        "Saving for retirement in your 20s - Alliant Credit Union",
+        "The Exact Amount You Should Have Saved At Every Age - YouTube",
+        "Savings Goals in Your 20s - Peoples Bank",
+        "How to Save Money in Your 20s and 30s (Without Feeling Miserable)",
+        "In Your 20s: Should You Consider Investing? - Charles Schwab",
+        "What Qualifies for Your 20-25% Savings Rate? | Money Guy",
+        "8 Ways You Can Save Money in Your 20s | Atlas Credit",
+        "Savings Goals in Your 20s | First Hawaiian Bank",
+        "What is the 50/30/20 Budget Rule, and Is it Right for You? | Citizens",
+        "How Much Money Should I Have Saved by 21? | The Motley Fool",
+        "How Much Money Should You Have Saved? (By Every Age!)"
+      ],
+      "long_tail": [
+        "I make 110k a year - I want to save 40k this year. How can I do it?",
+        "Save Money Calculator | Bankrate",
+        "10 ways to start saving money - Vanguard",
+        "5 Easy Ways I Used to Save $40000 in a Year - YouTube",
+        "How I Saved $12,000 On A $40K Salary This Year - The Financial Diet",
+        "Savings Goal Calculator: Know How Much to Save Per Month",
+        "In the US, how do you save when you only make $40k per year?",
+        "How Budgeting Is Helping One Man Save $40,000 This Year",
+        "Savings Goal Calculator | Bankrate.com",
+        "Here's how I saved $40k in 3 years and STILL enjoyed life - Facebook"
+      ],
+      "question": [
+        "What percentage of my income should I save? : r/personalfinance - Reddit",
+        "Here's how much money you should be saving from every paycheck",
+        "How Much of My Paycheck Should I Save? - YNAB",
+        "How Much Should I Save Each Month? | Bankrate",
+        "Fidelity's easy budgeting guideline",
+        "How Much of Your Paycheck Should You Save? - Chime",
+        "What is the 50/30/20 Budget Rule, and Is it Right for You? - Citizens Bank",
+        "What % of your income are you saving/investing each month? - Facebook",
+        "How Much of Your Paycheck Should Go to Savings? - SoFi"
+      ]
+    },
+    "paa_questions": [
+      {
+        "q": "How much should a 20 year old save up?",
+        "a": "50/30/20 monthly budget"
+      }
+    ],
+    "related_searches": [
+      "How much money should I have saved by 32",
+      "How much money should I have saved by 23",
+      "How much money should I have saved by 40"
+    ]
+  },
+  "primary_keyword": "how much money should i have saved by 20",
+  "competitors": [
+    {
+      "rank": 1,
+      "domain": "reddit.com",
+      "url": "https://www.reddit.com/r/FinancialPlanning/comments/t6mug2/how_much_should_i_have_saved_at_20yo/",
+      "title": "How much should I have saved at 20yo? : r/FinancialPlanning - Reddit",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 2,
+      "domain": "ally.com",
+      "url": "https://www.ally.com/stories/save/savings-by-age-how-much-to-save-in-your-20s-30s-40s-and-beyond/",
+      "title": "Savings by Age: How Much to Save in Your 20s, 30s, 40s & Beyond | Ally",
+      "word_count": 1504,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://secure.ally.com/acs/content/cms/images/200884/e1t6mg6a6sb5/6ac1MGRSr6nmLWkInz8gHd/8ff5c5991174628eef9f8cf0ad0c0105/savings-by-age-how-much-to-save-in-your-20s-30s-40s-and-beyond-read-next-thumb.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.ally.com/stories/_next/static/media/share.8e075a05.svg",
+          "alt": "Share to Social Media",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.ally.com/acs/content/cms/images/200884/e1t6mg6a6sb5/7FdVI3YQqUfcl8bNML6C4A/6b7cb0613de83a85489b697f1a98fd40/how-to-visualize-your-savings.jpg?fm=webp&q=60",
+          "alt": "A happy couple sitting on the couch in their living room drinking coffee",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.ally.com/acs/content/cms/images/200884/e1t6mg6a6sb5/4z9XcUkFWyPuzTeQCOz5yq/b65225d46e0b96d9bd2bc8b2796ef278/what-are-ally-banks-savings-buckets-and-boosters1.jpg?fm=webp&q=60",
+          "alt": "A young couple chats while enjoying drinks at a coffee shop.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.ally.com/acs/content/cms/images/200884/e1t6mg6a6sb5/4dKOgMAKqDpkLqX8YERjIV/d91b2cfb3eb94199890c34adc3b6f26e/tips-to-manage-financial-stress.jpg?fm=webp&q=60",
+          "alt": "Woman watering her plants on a windowsill.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "No matter what stage of life you're in, one thing will always remain the same: It's never too late \u00e2\u0080\u0094 or too early \u00e2\u0080\u0094 to save money.\u00c2 Read on to see what your savings today can turn into down the road.\u00c2 Average savings by age How much you should have saved at every age How much should you save for retirement? The power of compounding interest How much should you save for emergencies? Where to keep your emergency fund Smart tools and strategies for savers of all ages Average savings by age The average American has $62,410 in savings, according to the Federal Reserve Board\u00e2\u0080\u0099s 2022 Survey of Consumer Finances , the latest available data. When you break that down by age group, it looks like this:\u00c2 Age group \u00c2 Average savings \u00c2 Under 35\u00c2 $20,540\u00c2 35-44\u00c2 $41,540\u00c2 45-54\u00c2 $71,130\u00c2 55-64\u00c2 $72,520\u00c2 65-74\u00c2 $100,250\u00c2 75+\u00c2 \u00c2 $82,800\u00c2 Calculate how long it will take to hit your savings goals with Ally Bank\u00e2\u0080\u0099s savings calculator:\u00c2 How much you should have saved at every age There isn't a one-size-fits-all number. It's important that your savings and goals connect to your lifestyle.\u00c2 Being specific about savings goals will give you a framework for how much you need and how long it could take you to get there. Smart savings tools like buckets let you easily set goals, organize your savings and keep track of your priorities.\u00c2 Read more: Give your savings a boost with Ally Bank Savings Buckets. One way to hit your savings goal is to think of it as a portion of your income. The popular 50/30/20 budget framework dictates that after taxes, 20% of your income should go toward savings and debt repayment, while 50% should go to needs and 30% to wants. Here's what it looks like based on the average salaries of full-time and salaried workers across different age groups:\u00c2 50/30/20 monthly budget Age group \u00c2 Median Monthly Salary \u00c2 50% \u00c2 (Needs) \u00c2 30% \u00c2 (Wants) \u00c2 20% \u00c2 (Savings) \u00c2 \u00c2 20 \u00e2\u0080\u009324\u00c2 \u00c2 $3,136\u00c2 $1,568\u00c2 $941\u00c2 $627\u00c2 \u00c2 25-34\u00c2 \u00c2 $4,544\u00c2 $2,272\u00c2 $1,363\u00c2 $909\u00c2 \u00c2 35-44\u00c2 \u00c2 \u00c2 $5,424\u00c2 \u00c2 \u00c2 $2,712\u00c2 \u00c2 \u00c2 $1,627\u00c2 \u00c2 \u00c2 $1,085\u00c2 \u00c2 \u00c2 45-54\u00c2 \u00c2 \u00c2 $5,344\u00c2 \u00c2 \u00c2 $2,672\u00c2 \u00c2 \u00c2 $1,603\u00c2 \u00c2 \u00c2 $1,069\u00c2 \u00c2 \u00c2 55 \u00e2\u0080\u0093 64\u00c2 \u00c2 \u00c2 $5,072\u00c2 \u00c2 \u00c2 $2,536\u00c2 \u00c2 \u00c2 $1,522\u00c2 \u00c2 \u00c2 $1,014\u00c2 \u00c2 \u00c2 65 and up\u00c2 \u00c2 \u00c2 $4,636\u00c2 \u00c2 \u00c2 $2,318\u00c2 \u00c2 \u00c2 $1,390\u00c2 \u00c2 \u00c2 $927\u00c2 \u00c2 *Each amount is rounded to the nearest dollar.\u00c2 How much do you need to save in your 20s? Your 20s is the time to set strong savings habits. Using the 50/30/20 model, you could aim to save upward of $500 every month (or as much as you can). Saving where and when you can and being strategic with windfalls (such as a bonus), and dedicating additional income (like an annual raise) can help you work toward this goal.\u00c2 How much do you need to save in your 30s? Whether you're starting a family, buying a house or launching a business, saving continues to be essential in your 30s. Saving upward of $800 each month can sound like a daunting task, but consistency is key as you work toward any goal.\u00c2 How much do you need to save in your 40s? At this phase of your life, you might be thinking about a career change, figuring out college education costs for your kids or have your eye on an early retirement . Saving can help you achieve all these, so aim to save nearly $1,000 or more each month. Learn more about savings by age 40. \u00c2 How much do you need to save in your 50s? With retirement on the horizon, saving is more important than ever. Your mindset may be shifting into legacy planning or funding any potential healthcare needs. Putting aside about $1,000 monthly (or hitting that 20% goal) is a great way to ensure that your savings continue to build and fund your goals.\u00c2 How much to save for retirement By looking at your retirement savings in 10-year increments and using age-based benchmarks, it's easier to plan financially and put actionable savings steps in place.\u00c2 Retirement savings goal by age \u00e2\u0080\u008b\u00e2\u0080\u008b By age \u00c2 \u00e2\u0080\u008bYou should aim to save\u00e2\u0080\u00a6 \u00c2 \u00e2\u0080\u008b30\u00c2 \u00e2\u0080\u008b1x your income\u00c2 \u00e2\u0080\u008b40\u00c2 \u00e2\u0080\u008b3x your income\u00c2 \u00e2\u0080\u008b50\u00c2 \u00e2\u0080\u008b5x your income\u00c2 \u00e2\u0080\u008b60 \u00c2 \u00e2\u0080\u008b7x your income\u00c2 Keep in mind the above is a guide. The amount you should save for retirement will depend on: Your income Your planned retirement age The kind of lifestyle you want to have in retirement One way to make the most of your retirement savings is to start by investing 5% to 15% of your paychecks in a tax-advantaged retirement account like a traditional or Roth IRA or a 401(k) until retirement.\u00c2 The power of compounding interest Consistent saving and your retirement savings rate can have a big impact on your total return. The following example is based on the U.S. median household annual income of $74,580 in 2022 (according to 2021 U.S. Census Bureau data) and assumes an average annual return of 6%.\u00c2 Compounded savings by age 65 based on the age you started: \u00e2\u0080\u008b\u00e2\u0080\u008b \u00e2\u0080\u008bStarting age \u00c2 \u00e2\u0080\u008b5% \u00c2 \u00e2\u0080\u008b\u00e2\u0080\u008b \u00e2\u0080\u008bannual retirement savings rate 10% \u00c2 \u00e2\u0080\u008b\u00e2\u0080\u008b \u00e2\u0080\u008bannual retirement savings rate \u00e2\u0080\u008b15% \u00c2 \u00e2\u0080\u008b\u00e2\u0080\u008b \u00e2\u0080\u008bannual retirement savings rate \u00e2\u0080\u008b\u00c2 \u00e2\u0080\u008b\u00c2 \u00e2\u0080\u008b25\u00c2 $575,714\u00c2 \u00e2\u0080\u008b$1,153,286\u00c2 $1,730,857\u00c2 \u00e2\u0080\u008b\u00c2 \u00e2\u0080\u008b\u00c2 \u00e2\u0080\u008b\u00e2\u0080\u008b35\u00c2 \u00e2\u0080\u008b$294,096 $589,141\u00c2 \u00c2 \u00e2\u0080\u008b$884,187\u00c2 \u00e2\u0080\u008b\u00c2 \u00e2\u0080\u008b\u00c2 \u00e2\u0080\u008b45\u00c2 \u00e2\u0080\u008b$136,842\u00c2 \u00e2\u0080\u008b$274,126\u00c2 $411,410 Dedicating 5% to 15% of your pre-tax income to retirement isn't always possible. You may be starting a new career, paying back student loans, or have other financial obligations and aren't able to save that much of your salary all at once. Start with a percentage you're comfortable with and increase your savings rate gradually by 1% each year until you reach the 15% mark.\u00c2 If you're currently paying back loans or other debts, aim to save for retirement while paying off debt simultaneously , putting away what you can while sticking to your loan repayment schedule. How much to save for emergencies Whether your dog swallows a chew toy and needs a trip to the vet or your car's transmission goes kaput, financial curveballs are unavoidable. And in those moments, an emergency fund can save the day.\u00c2 It's all about your monthly spending\u00c2 \u00c2 The ideal size of your emergency fund will likely fluctuate throughout your life based on your monthly expenses. Rule of thumb? Aim to have three-to-six months' worth of expenses set aside.\u00c2 To figure out how much you should have saved for emergencies, multiply the amount of money you spend each month on expenses by either three or six months to get your target goal amount. We've mapped out what that would look like based on national averages in the table below.\u00c2 Emergency fund savings by age Age group \u00c2 Average monthly expenses \u00c2 3 Months of emergency savings \u00c2 6 Months of emergency savings \u00c2 Under 25\u00c2 $4,130\u00c2 $12,390\u00c2 $24,780\u00c2 25-34\u00c2 $5,989\u00c2 $17,967\u00c2 $35,934\u00c2 35-44\u00c2 $7,578\u00c2 $22,734\u00c2 $45,468\u00c2 45-54\u00c2 $8,110\u00c2 $24,330\u00c2 $48,660\u00c2 55-64\u00c2 $6,948\u00c2 $20,844\u00c2 $41,688\u00c2 65 and up\u00c2 $5,007\u00c2 $15,021\u00c2 $30,042\u00c2 Tip: Track your spending to see how much you actually need on a monthly basis.\u00c2 \u00c2 Where to keep your emergency fund\u00c2 \u00c2 Savings or money market accounts offer accessibility and safety for your emergency funds. As an Ally Bank customer, your deposits are -insured up to the maximum allowed by law.\u00c2 \u00c2 Smart tools and strategies for savers of all ages\u00c2 \u00c2 Prioritizing goals and staying organized can keep you from stressing over not saving enough for all the things you want to do with your money. When you have a plan for saving for multiple goals , it reduces the chance that something slips through the cracks.\u00c2 The buckets tool in the Ally Bank Savings Account helps you organize your savings into separate digital categories and set specific goals for each, eliminating the need to open multiple savings accounts to track your progress.\u00c2 To make saving even smoother, consider putting it on autopilot with recurring transfers . This allows you to automatically add money into your respective savings accounts, or by using the Surprise Savings booster in the Ally Bank Savings Account, you can ease some of the stress of reaching your goals.\u00c2 Finally, remember that when you're saving money, every little bit you don't spend counts. Uncover savings opportunities by finding the budgeting style that works for you and using our free budget templates .\u00c2 You\u00e2\u0080\u0099ve got this\u00c2 When mapping out your financial future, age can act as a milestone to guide your savings. But you're never too young or too old to save for the goals that matter most to you.\u00c2 Explore more SAVE 5 visualization tips to help you save more Dec. 11, 2025 . 3 min read SAVE Buckets and boosters: Smart resources to help you save Oct. 25, 2024 . 3 min read SAVE Feeling financially behind? 4 steps to find financial well-being April 9, 2025 . 3 min read",
+      "headings": []
+    },
+    {
+      "rank": 3,
+      "domain": "bankatfirstnational.com",
+      "url": "https://www.bankatfirstnational.com/wallet-wise-blog/august-2022/how-much-savings-should-i-have/",
+      "title": "How Much Savings Should I Have for My Age?",
+      "word_count": 222,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.bankatfirstnational.com/8base/media/images/fdic-digital-sign-white.svg",
+        "alt": "FDIC insured",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.bankatfirstnational.com/8base/media/images/FNBT-Division-of-Bank-First_Logo-primary_Primary.svg",
+          "alt": "First National Bank and Trust Home Page",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.bankatfirstnational.com/8base/media/images/FNBT-Division-of-Bank-First_Logo-primary_Light.svg",
+          "alt": "First National Bank and Trust Company",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.bankatfirstnational.com/CMSPages/GetFile.aspx?guid=7ce2237d-8d6f-44fb-9c95-fb5fa10ad770",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.bankatfirstnational.com/8base/media/images/blog/Feb-5-savings-by-age.jpg?ext=.jpg",
+          "alt": "young couple and daughter putting money in piggy bank",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.bankatfirstnational.com/getmedia/1b745a2d-7e18-4988-9a37-cc620253326a/how-much-should-i-have-saved.jpg.aspx?width=600&height=1200",
+          "alt": "How Much Savings Should I Have for My Age?  Top section:  How Much Savings Should I Have Saved By Age... 21-  This depends on where you are in life. But, a good rule of thumb is to have $6,000 in a savings account for emergencies and long-term financial goals at age 21.  30-  At this age, you should aim to have the equivalent of one year\u2019s worth of your salary in the bank.  Bottom Section:  How much you should have saved for retirement?  Age 35: 2x's your annual salary.  Age 40: 3x's your annual salary.  Age 45: 4x's your annual salary.  Age 50: 6x's your annual salary.  Age 55: 7x's your annual salary.  Age 60: 8x's your annual salary.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.bankatfirstnational.com/8BASE/media/images/base/icon_housinglender.png",
+          "alt": "Equal Housing Lender",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "How much money you should have saved by 21? How much money you should have saved by 30? How much you should have saved for retirement? Start saving at any age with First National Bank and Trust Recent Updates Credit Cards 101 The Importance of Keeping Your Contact Information Up to Date with Your Bank Financial Check-In: 5 Questions to Ask Yourself Before Spring Arrives Avoid the Debt Trap This Holiday Season Social Engineering Scams: How to Protect Yourself and Your Finances Categories Agriculture Category Auto Loans Category Beginner Guides Category Budgeting Category Calculators Category Small Business > Capital Loans-Operating Loans Category Small Business > Cash Management Category Checking Category Child Savings Category Small Business > Commercial Loans Category Community Category Construction Loans Category COVID Relief Category Credit Cards Category Credit Loans_Personal Category Cybersecurity Category Debit Card Category Small Business > Equipment Loans Category Estate Planning Category Finances Category Financial Education-Literacy Category Fraud Education Category Home Loans Category Home Ownership Category Investing Category Mortgage Category Online Banking Category Retirement Accounts Category Savings Accounts Category Small Business Category Taxes Category Wealth Management Category With BaZing, you'll receive access to these great benefits online or with a convenient mobile app: Identity Theft Protection & Insurance Cell Phone & Travel Protection Roadside Assistance Shopping, Dining & Travel Discounts Pharmacy, Vision & Hearing Discounts Grocery Coupons",
+      "headings": []
+    },
+    {
+      "rank": 4,
+      "domain": "equifax.com",
+      "url": "https://www.equifax.com/personal/education/personal-finance/articles/-/learn/how-much-should-i-have-saved-by-20s-30s/",
+      "title": "How Much Money Should I Have Saved by My 20s and 30s? - Equifax",
+      "word_count": 1476,
+      "scrape_status": "tavily_fallback",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": "##### Free Services for Consumers ##### Tell Us Why You're Here ##### Frequently Asked Questions ##### Your Equifax Support Online service so you can do it yourself. Need a live person? Call us! Mail in forms to complete some services. ## Help look after your family with credit monitoring and ID theft protection features. ## Take control with a one-stop credit monitoring and identity theft protection solution from Equifax. ## Don\u2019t let identity theft catch you off guard. Get better prepared to monitor your credit and help better protect your identity with Equifax Complete\u2122. ## Get the basics with your daily credit score and report. Learn More about Core Credit ## Credit Scores Understand credit scores, credit worthiness, and how credit scores are used in day-to-day life. ## Credit Reports Understand how your financial behavior impacts you and your credit, along with what is included on your credit reports and why. ## Fraud & Identity Theft Explore ways to better protect your information, plus warning signs of fraud and identity theft, and what to do if you believe your identity has been stolen. ## Debt Management Learn how debt can affect your credit scores, plus the different types of debt (both good and bad), and best practices for paying it off. ## Credit Cards Explore tips on getting the right credit card for you and what it means for your credit. Plus, managing credit card debt and what to do if you lost your card. ## Personal Finance Discover personal finance tips and tricks around everything from managing your money to saving and planning for the future. ## Loans Explore the nuances of the different types of loans, including personal and student loans, and the potential pros and cons of co-signing a loan. ## Life Stages Whether you\u2019re saving up for a car, home, or college, learn how your credit can help remove friction from making milestone purchases. ## Cybersecurity Understand how to shop online more safely, how to create and store stronger passwords, and more. ## Informaci\u00f3n crediticia de EE. UU. Informaci\u00f3n \u00fatil en espa\u00f1ol que cubre informes de cr\u00e9dito de Equifax\u00ae en los EE. UU., puntajes de cr\u00e9dito y consejos de administraci\u00f3n del dinero. ## Videos Useful information for US consumers about credit scores, credit reports and money management tips. ## Credit Card Offers Find a new credit card that may be right for you! Equifax will communicate your zip code and your selected credit score band to LendingTree. Equifax does not receive or use any other information you provide about your request. Offers not available in all states. Input your home zip code to check eligibility. ## Personal Loan Rates Shop and compare loans to find the right option for you! Answer a few simple questions about your loan request. Equifax will communicate your zip code to LendingTree. Equifax does not receive or use any other information you provide about your request. LendingTree will share your information with their nationwide network of providers. Offers not available in all states. Input your home zip code to check eligibility. ## Auto Loan Rates Shop and compare loans to find the right option for you! Answer a few simple questions about your loan request. Equifax will send your zip code and the purpose of the loan you are interested in to LendingTree. Equifax does not receive or use any other information you provide about your request. LendingTree will share your information with their network of providers. Offers not available in all states. Input your home zip code to check eligibility. ## Insurance Quotes Compare Home, Life, and Auto Insurance Quotes to fit your needs! Answer a few simple questions about your insurance quote request. Equifax will send your zip code and the type of insurance you are interested into LendingTree. Equifax does not receive or use any other information you provide about your request. LendingTree will share your information with their network of providers. Offers not available in all states. Input your home zip code to check eligibility. ### Don\u2019t have an account? Our plans start at FREE. Navigate your credit journey with the myEquifax app ### Don\u2019t have an account? Our plans start at FREE. Looking for Lock & Alert? here # How Much Money Should I Have Saved by My 20s and 30s? ## Highlights: When it comes to building savings, the sooner you start, the better. Saving money in your 20s and 30s can be an important step toward long-term financial goals such as buying a home or funding your retirement. However, when you're just starting your financial journey, saving money can be easier said than done. Here's how to estimate how much money you should aim to save in your 20s and 30s \u2014 plus a few strategies to consider if you find yourself falling short of your goals. ## Setting savings goals at every age The average savings for people in their 20s and 30s varies widely based on earnings, living expenses, debts and overall lifestyle. So, there's no single dollar amount that can fit everyone's financial situation. Instead, aim to set savings goals that are proportionate to your income. For instance, once you start saving, it's a good idea to prioritize building an emergency fund. Also called a rainy day fund, an emergency fund is a reserve of money used to cover unplanned expenses, such as a sudden illness or an unexpected car repair. It's generally recommended that you save between three and six months' worth of expenses for emergencies. For example, one person spending $1,500 per month might need to save $4,500, while another person spending $2,000 per month might aim for a rainy day fund totaling $6,000. Building your savings gradually over time is the best way to meet your financial objectives. But how do you set those objectives and how much cash should you set aside? One popular rule of thumb is the 50/30/20 rule. With this strategy, each month you aim to spend 50% of your after-tax income on needs (necessary expenses such as your housing costs, groceries and utility bills), 30% on things you want (such as entertainment, eating out and travel), and the last 20% on paying debts and building savings. Here's how this strategy might look to help you work toward attainable financial goals in your 20s and 30s. ## How much money should I have saved by 20? By 25? When you're in your early 20s, you may be pursuing an education or trying to get your career off the ground. Some of your living expenses may be covered by a parent or guardian, though this isn't always the case. In general, you're still establishing your career at this age, so you may not have the financial security of workers older than you. While it would be ideal for young adults to set aside 20% of take-home pay for savings, between student loan debt and a limited income, this goal might not be realistic. If you're working with a tight budget, aim to save as much as you can, even if you can't stick to your 20% goal. As your career progresses and your spending power goes up, be sure to increase the amount that you're putting toward your savings. The steps you take in your 20s can help set you up for success down the line. ## How much money should I have saved by 30? By 35? Generally speaking, by the time you reach your 30s, you'll be more settled in your career and earning more than you did throughout your 20s. However, you'll likely be looking toward major financial obligations such as funding a wedding, buying a house, or having children. You'll also need to consider your retirement needs. By 30, you'll want to make sure that you have a solid emergency fund in place. Experts also generally recommend that by age 30, you should have built one year's worth of salary in retirement funds. This includes money in your savings account, as well as any retirement accounts such as a 401(k) or an IRA. If you find yourself successfully balancing multiple savings goals and there's room in your budget, you might consider increasing your 20% savings contribution to a higher amount. Also, evaluate your current spending and savings habits to identify additional opportunities to adjust your savings strategies. ## How to save more money in your 20s and 30s If you're struggling to meet your savings goals in your 20s and 30s, these strategies may help: Remember: While it's important to save money during your 20s and 30s, there's no one-size-fits-all solution. The most important thing is to identify your unique savings goals and work toward them gradually for long-term success. Credit scores are an important part of your financial health. You can get access to your daily free credit score with Equifax Core Credit\u2122. ## Related Content",
+      "headings": []
+    },
+    {
+      "rank": 5,
+      "domain": "sofi.com",
+      "url": "https://www.sofi.com/learn/content/average-savings-by-age/",
+      "title": "What Is the Average Savings by Age? - SoFi",
+      "word_count": 2592,
+      "scrape_status": "tavily_fallback",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": "# What Is the Average Savings by Age? | SoFi To Main Content Accessible - Main * Log InContact Us * Products;) Loans Student Loan Refinancing * Medical Resident Refinancing * Parent PLUS Refinancing * Medical Professional Refinancing * Law and MBA Refinancing * SmartStart Refinancing * * * Private Student Loans * Undergraduate Student Loans * Graduate Student Loans * Law School Loans * MBA Loans * Health Professions Loans * Parent Student Loans * Medical and Veterinary Loans * Dental Loans * STEM Loans * * * Auto Loan Refinance * * * Personal Loans * Home Improvement Loans * Credit Card Consolidation Loans * Family Planning Loans * Travel Loans * Wedding Loans * * * Mortgage Loans * Home Purchase Loans * Mortgage Refinance * Cash-Out Refinance * Jumbo Loans * FHA Loans * VA Loans * Mortgage Preapproval * Mortgage Rates * * * Home Equity * Home Equity Loans * HELOC Investing Invest * Self-Directed Investing * Robo Investing * Retirement Accounts (IRAs) * Stock Trading * IPO Investing * Fractional Shares * ETFs Credit Cards * Credit Cards * Everyday Cash Rewards Card * Essential Card * Unlimited 2% Card Premium Membership * SoFi Plus Banking Banking * Checking Account * High Yield Savings Account * International Money Transfers Crypto Crypto Insurance * Auto Insurance * Life Insurance * Homeowners Insurance * Renters Insurance Estate Planning Financial Insights * Financial Insights * Credit Score Monitoring * Budgeting and Spending * Property Tracking * Investment Portfolio Summary * Debt Summary Business Solutions * SoFi at Work * Small Business Financing * Line of Credit * Equipment Financing * Startup Loans * Business Checking * Business Credit Card Browse all products * SoFi Plus * Member Benefits;)Member Benefits As a SoFi member, you get access to exclusive benefits designed to help set you up for success with your money, community, and career. See All Benefits SoFi Member Rewards Earn points for making moves toward financial independence\u2014every step of the way. Referral Program Refer your friends & family to SoFi and get paid. Member Advisory Board Meet our panel of SoFi Members who provide invaluable feedback across all our products and services. SoFi Stadium Members get exclusive SoFi Stadium perks like expedited entry, access to the SoFi Member Lounge, and more. Member Experiences SoFi Plus members now get one-of-a-kind entertainment access with SoFi Plus Experiences. Financial Planning Get personalized advice from a credentialed financial planner. Estate Planning Members get an exclusive discount on their trust, will or guardianship estate plan. See All Benefits * Resources;) Resources Get answers to your questions; plus tools, guides, calculators, & more. Visit SoFi Learn Visit SoFi Learn * * * On the Money * * * FAQs * * * Eligibility Criteria * * * Research Hub * * * Fraud Support * * * Top Resources * Student Debt Guide * Mortgage Resource Center * Fixed vs. Variable Rates * Medical School Refinance Guide * Investing 101 Guide * Consolidate vs. Refi * Credit Card Resource Hub See All Resources * * * Top Tools * Student Loan Refinance Calculator * Mortgage Calculator * Student Loan Payment Calculator * Personal Loan Calculator * Student Loan Payoff Calculator * Home Affordability Calculator * Life Insurance Calculator See All Tools * * * Learn More * Military Benefits * On the Money * Investment Strategy * FAQs * Eligibility Criteria * Research Hub * Fraud Support * About;)About Us Learn more about our mission and values, how we started, and what we\u2019ve accomplished since then. Learn More about About Us Our Leadership Meet the SoFi leadership team and board members. How it Works Read about how SoFi works\u2014and how we can help you reach your financial goals. Our Values Learn more about SoFi\u2019s core values. Press Read through the latest SoFi news coverage. Investors Information for investors in SOFI common stock. Careers Come work with us! Inclusive Culture Learn about our commitment to fostering a welcoming workforce. Contact Us Questions? Comments? Just want to talk? Get in touch with us via phone or email. * * Get Started X You are now leaving the SoFi website and entering a third-party website. SoFi has no control over the content, products or services offered nor the security or privacy of information transmitted to others via their website. We recommend that you review the privacy policy of the site you are entering. SoFi does not guarantee or endorse the products, information or recommendations provided in any third party website. OkayClose ## Select a product to get started. * Invest \u2192 * Personal Loans \u2192 * Student Loan Refinancing \u2192 * Banking \u2192 * Mortgages \u2192 * Credit Card \u2192 * Private Student Loans \u2192 * Insurance \u2192 * Credit Score & Budgeting \u2192 * Auto Loan Refinancing \u2192 Or just create an account. Share * Facebook * Twitter * LinkedIn * Reddit # Guide to the Average Savings in America by Age By Janet Schaaf. February 05, 2026 \u00b7 10 minute read This content may include information about products, features, and/or services that SoFi does not provide and is intended to be educational in nature. Table of Contents * The Importance of Saving for the Future - same page link * A Savings Shortfall - same page link * Average Savings by Age in the USA - same page link * Median Savings by Age - same page link * Savings vs Retirement Savings - same page link * Saving a Little Bit More - same page link * FAQ - same page link How much does the average American have in savings? Age tends to have a lot to do with it. Generally, as people get older, they are likely to have more savings. But what the average person has in a savings account also depends on their financial goals and personal circumstances. If you\u2019re looking for a benchmark of just how much you should save by a specific age, or how much you should start contributing right now, read on for average savings by age and some tips that could help. Key Points \u2022 The average savings for individuals under 35 is $20,540. \u2022 Individuals between the ages of 35 and 44 have an average savings of $41,540. \u2022 Those aged 45 to 54 have an average savings of $71,130. \u2022 The average savings for individuals between 55 and 64 is $72,520. \u2022 Individuals aged 65 and older have an average savings of $100,2500. ## The Importance of Saving for the Future Life can happen fast. For example, the average cost of having a new baby is almost $19,000, including approximately $3,000 in out-of-pocket expenses for pregnancy and delivery. And then there\u2019s the cost of caring for a child, which some estimates put at more than $310,605 for raising them through age 17. And, if that baby wants to get a college degree, you\u2019re looking at a whole new realm of savings. The cost of a four-year public college education can range from about $108,584 to $182,832, according to the Education Data Initiative. There\u2019s one other big reason to save for the future: People are living longer. According to a 2025 survey by the Employee Benefit Research Institute, only 28% of American workers are \u201cvery confident they will be able to retire comfortably.\u201d Thirty-two percent of workers say their lack of confidence is because they have less than $25,000 in savings and investments. Fortunately, the concept of saving for the future seems to be resonating with people at younger ages. According to the SoFi 2024 Retirement Survey, more than half (51%) of respondents started saving for retirement before age 35, with many of that group starting by age 25. _Source: SoFi 2024 Retirement Survey_ ## A Savings Shortfall Still, Americans\u2019 savings strategy has a way to go. More than half of Americans can\u2019t cover an unexpected $1,000 expense, according to Bankrate\u2019s 2025 emergency savings report. Only 41% say they could cover it. And 37% of all Americans don\u2019t have enough cash in savings to cover even a $400 emergency, the Federal Reserve found in its \u201cEconomic Well-Being of U.S. Households in 2024\u201d report. ## Average Savings by Age in the USA The Federal Reserve\u2019s latest (2022) Survey of Consumer Finances shows that the typical American household has an average savings balance of $62,410. But average savings varies greatly by age and number of people in a household. Here\u2019s what savings by age looks like. ### Average Savings for Those 35 and Younger Americans under the age of 35 had an average savings account balance of $20,540, according to the Fed\u2019s survey. This is a large age bracket that can range from those just graduating high school to recent college grads to young professionals well into a decade\u2019s worth of work. It\u2019s wise to have three to six months of expenses in an emergency fund. At the very least, aiming to have $1,000 handy in a savings account for unexpected expenses is recommended. Use our emergency fund calculator to see how much you should ideally have stashed away. For those who have started their careers, employer-sponsored retirement funds such as a 401(k) plan can be good options to start saving for long-term retirement goals. It makes sense to contribute at least enough to get matching funds from an employer, if that\u2019s an option with your company\u2019s plan. For reference, the average 401(k) savings for those ages 25 to 34 is $42,640, according to Vanguard\u2019s \u201cHow America Saves 2025\u201d report . PDF File. Recommended: Why You Should Start Retirement Planning in Your 20s ### Average Savings by Age: 35 to 44 Americans ages 35 to 44 had an average savings account balance of $41,540, according to the Federal Reserve survey. Those in this age bracket are now well into adulthood. At this stage of life, it\u2019s prudent to have that three-to six-months\u2019 worth of savings in an emergency fund, to cover the cost of everything from an accident to a lost job. This may also be the time to think about diversifying a financial portfolio and possibly investing in the stock or bond market. And, of course, keep contributing to your 401(k). For reference, the average 401(k) savings for those ages 35 to 44 is $103,552, according to the Vanguard report. ### Average Savings by Age: 45 to 54 People ages 45 to 54 had an average savings account balance of $71,130, according to the Fed\u2019s survey. At this point, general financial advice dictates that a 50-year-old should have at least six times their annual salary if their intention is to retire at 67. Those in this age group have an average 401(k) savings of $188,643. ### Average Savings by Age: 55 to 64 The Fed survey found that Americans ages 55 to 64 had an average savings account balance of $72,520. Since this is the time when most Americans are staring down retirement in a few years, it\u2019s generally a good idea to boost retirement savings into high gear. That\u2019s because while younger people in 2025 are capped at contributing $23,500 a year to a 401(k) account, those age 50 and up are allowed to contribute an additional $7,500.This is known as a catch-up contribution. Also for 2026, those under age 50 can contribute up to $24,500, and those 50 and up can contribute an additional $8,000. And those aged 60 to 63 may again contribute an additional $11,250 instead of $8,000. Under a new law that went into effect on January 1, 2026 (as part of SECURE 2.0), individuals aged 50 and older who earned more than $150,000 in FICA wages in 2025 are required to put their 401(k) catch-up contributions into a Roth 401(k) account. With Roth accounts, individuals pay taxes on contributions upfront, but can make qualified withdrawals tax-free in retirement. The average retirement savings account for a person aged 55 to 64 is $271,230. It\u2019s important to note that taking a withdrawal from such a plan before the age of 59 \u00bd could mean paying taxes and penalties. ### Average Savings by Age: 65 and Older This is when savings really peaks for the average American. The latest Federal Reserve Survey of Consumer Finances found that Americans ages 65 to 74 had an average savings account balance of $100,250. However, that savings number does drop over time. According to the survey, Americans ages 75 and up had an average savings account balance of $82,800. This underscores the importance of creating a retirement budget and sticking to it in order to have enough savings for as long as needed. But before retirement, try to hit the average retirement savings amount for those ages 65 and up, which is $299,442. This chart offers an at-a-glance comparison of the average American savings by age. | Age | Average savings | | --- | --- | | Under 35 | $20,540 | | 35-44 | $41,540 | | 45-54 | $71,130 | | 55-64 | $72,520 | | 65+ | $100,250 | ## Median Savings by Age Median savings is different from average savings. The median is the number in the middle of all the other numbers, meaning half the numbers are higher and half are lower. So with median savings, half the people in an age category will have saved more and half will have saved less. These are the median savings by age, according to the latest Federal Reserve Survey of Consumer Finances: \u2022 Under 35: $5,400 \u2022 35-44: $7,500 \u2022 45-54: $8,700 \u2022 55-64: $8,000 \u2022 65-74: $13,400 ## Savings vs Retirement Savings What Americans have saved for emergencies, expenses, and other near-future goals is different from what they have in their retirement savings accounts, as you can see from all the information above. It\u2019s critical to have both types of savings at the same time. And keep this in mind: As you get older, and closer to retirement, it\u2019s important that your retirement savings grow even more. It\u2019s a good idea to contribute the maximum amount allowed to your retirement accounts at this time, if you can. This is one of the ways to save for retirement. ## Saving a Little Bit More Reaching specific savings goals doesn\u2019t have to be complicated. It just means doing a bit of homework, strategizing, and staying diligent about personal finances. The first step in saving more is to analyze current expenses to see what can be cut back on or cut out altogether to make more room for saving. This means creating a personal budget and tracking current spending. \u201cFinancial health isn\u2019t about a person\u2019s savings or how much they currently earn. Think of good financial habits as a future-oriented exercise that starts with small daily steps \u2014 something you do today that\u2019s motivated by longer-term gains.\u201d -Brian Walsh, CFP\u00ae and Head of Advice & Planning at SoFi To track spending, a person could create an excel spreadsheet and list all expenditures by categories like groceries, phone bill, car expenses, housing, medical, entertainment and others over the course of a month, filling it in with every single dollar spent to see where the money is going. Or you can use an online tracker like SoFi\u2019s tracker, which allows users to connect all their accounts to one dashboard and track spending habits in real time. After the month is up, the next step is to look back on the expenditures list. Was there anything that surprised you? Do you need all those streaming subscriptions? How about that gym membership \u2014 did it actually get use",
+      "headings": []
+    },
+    {
+      "rank": 6,
+      "domain": "bankrate.com",
+      "url": "https://www.bankrate.com/retirement/how-much-do-you-need-in-savings-retirement-emergency-fund/",
+      "title": "How Much Should I Have In Savings At Each Age? | Bankrate",
+      "word_count": 2340,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.bankrate.com/brp/2023/10/21104822/How-much-should-you-have-in-savings-at-each-age.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.bankrate.com/2019/02/26150227/Matt-2019-Headshot-275x275.jpg?auto=webp&quality=85&width=24&height=24&fit=cover&enable=upscale&crop=1:1,smart",
+          "alt": "Matthew Goldberg",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.bankrate.com/2019/05/06102103/b-beers-headshot1.jpg?auto=webp&quality=85&width=24&height=24&fit=cover&enable=upscale&crop=1:1,smart",
+          "alt": "Brian Beers",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.bankrate.com/brp/2025/01/24125453/VCM-Headshot.jpg?auto=webp&quality=85&width=24&height=24&fit=cover&enable=upscale&crop=1:1,smart",
+          "alt": "Kenneth Chavis IV",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.bankrate.com/2019/02/26150227/Matt-2019-Headshot-275x275.jpg?auto=webp&quality=85&width=64&height=64&fit=cover&enable=upscale&crop=1:1,smart",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.bankrate.com/2019/05/06102103/b-beers-headshot1.jpg?auto=webp&quality=85&width=64&height=64&fit=cover&enable=upscale&crop=1:1,smart",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.bankrate.com/brp/2025/01/24125453/VCM-Headshot.jpg?auto=webp&quality=85&width=64&height=64&fit=cover&enable=upscale&crop=1:1,smart",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.bankrate.com/brp/2023/10/21104822/How-much-should-you-have-in-savings-at-each-age.jpg?auto=webp&optimize=high&crop=16:9",
+          "alt": "illustration of money growing on trees",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.bankrate.com/2019/02/26150227/Matt-2019-Headshot-275x275.jpg?auto=webp&quality=85&width=96&height=96&fit=cover&enable=upscale&crop=1:1,smart",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.bankrate.com/2022/08/10082722/maximize-retirement-savings.jpg",
+          "alt": "A retired couple rides bikes through a field.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.bankrate.com/brp/2023/11/08112642/9-investing-mistakes-300x169.jpg",
+          "alt": "Portrait of a confident businesswoman",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.bankrate.com/2020/01/31171453/%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB-%D0%A0%D1%83%D0%B4%D0%B5%D0%BD%D0%BA%D0%BE.jpeg",
+          "alt": "Two ships on the open sea",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.bankrate.com/2020/12/04170801/Best-retirement-plans.jpeg",
+          "alt": "A group of family and friends stands together for a photo",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "Table of contents Average retirement savings goal by age How much do you need in an emergency fund? How much should you have in savings by your 20s? How much money should you have saved by your 30s? How much savings should you have in your 40s? How much do you need to save in your 50s? Other common savings goals What balance should you have saved in your 401(k)? Best ways to boost your savings Key takeaways It can be difficult to determine exactly how much you will need to save for retirement, but there are some general guidelines based on age that can serve as a good starting point. Generally, experts recommend have one times your salary saved by age 30 and eight times saved by 60. If you\u2019re feeling behind, there are several ways you can boost your retirement and emergency savings starting now. Workers often find themselves struggling with how much they should be saving for retirement . While it certainly depends on a person\u2019s individual situation, experts and financial advisors have general guidelines on what you need to have saved at each stage of your life. For example, experts at Fidelity Investments recommend that you save: At least one times your salary by your 30th birthday Three times your salary by your 40th birthday Six times your salary by your 50th birthday Eight times your salary by your 60th birthday Here\u2019s how those numbers break down based on age, average income and monthly expenditure, according to nationwide data. Also included are emergency savings goals for three and six months of spending. Average retirement savings goal by age 30 $84,939 $17,967 to $35,934 40 $327,225 $22,735 to $45,470 50 $693,918 $24,330 to $48,660 60 $778,208 $20,845 to $41,690 Note: Retirement savings goals are based on Fidelity\u2019s recommendations above using income after taxes data in the U.S. Bureau of Labor Statistics\u2019 Consumer Expenditure Survey, 2023. Emergency savings goals are calculated using the average annual expenditure mean for that age group in the U.S. Bureau of Labor Statistics\u2019 Consumer Expenditure Survey, 2023. Think of these savings targets as less of an exact number and more of a general range. They will show you how your emergency savings and retirement account balances stack up to the recommendations. Below you\u2019ll find a full savings guide that estimates how much you should have in savings and retirement accounts at different age milestones. How much do you need in an emergency fund? Let\u2019s start with your emergency fund. Standard financial advice says you should aim for three to six months\u2019 worth of essential expenses, kept in some combination of high-yield savings accounts and other liquid accounts. \u201cFor a working individual earning income, the goal should be to have just enough cash to provide an emergency buffer to protect against any pitfalls that could hinder financial well-being,\u201d says Sergio Garcia, senior financial planner at Frontier Investment Management in Dallas. Broadly speaking, there are six key costs to focus on: Housing Transportation Food Health care/insurance Utilities Other household expenses How much you need to save to survive an adverse life event comes down to you and your family\u2019s financial situation and security. A two-income family, for example, may only need to have three months\u2019 worth of expenses, because of the greater stability offered by two earners. But if there is only one income, or wages are largely commission-based, \u201cthe amount held in cash should be closer to six months of expenses, or even longer,\u201d Garcia says. An easy formula for figuring out what your suggested emergency savings range may look like is by multiplying your monthly expenses by three and six. You can also get a sense of your savings\u2019 target by age by looking at recent data from the Bureau of Labor Statistics (BLS). The BLS data show average annual income and expenditures by age and type. Need expert guidance when it comes to managing your investments or planning for retirement? Bankrate\u2019s AdvisorMatch can connect you to a CFP\u00ae professional to help you achieve your financial goals. How much should you have in savings by your 20s? Retirement savings goal : $84,939 Emergency savings goal : $17,967 to $35,934 Households led by someone between the ages of 25 and 34 earn an average of $84,939 a year after taxes, according to the BLS\u2019s 2023 Consumer Expenditure Survey. Couples in their 20s should have about one time their salary socked away in retirement accounts. As for your emergency fund, these households spend a monthly average in the following categories: $2,110 on housing $1,073 on transportation $809 on food $294 on health care $385 on utilities Toss in an estimated $89 per month on other household expenses and that monthly essential spending costs $4,760. Saving anything may seem like a challenge after graduating. But the important thing is to start saving, and to start small, such as putting aside a few hundred dollars into an emergency fund. Consider taking on a side gig or second job to generate a little extra income for your savings. Or you can consider some passive income ideas . As you gain work experience and move onto a career track, you can amp up your contributions to your emergency fund and to your retirement account as well. How much money should you have saved by your 30s? Retirement savings goal : $327,225 Emergency savings goal : $22,735 to $45,470 Those aged 35 to 44 earn an average income of $109,075 after taxes, according to BLS data. Conventional wisdom states couples in their 30s should have three times that amount saved for retirement. Their estimated average monthly spending consists of spending in the following categories: $2,513 on housing $1,277 on transportation $1,001 on food $459 on health care $420 on utilities $122 on other household expenses That comes to a total of $5,792 a month. How much savings should you have in your 40s? Retirement savings goal : $693,918 Emergency savings goal : $24,330 to $48,660 This is the time where you\u2019ll likely hit your peak earnings. It\u2019s also when you can expect to spend the most money in your life. Those aged 45 to 54 earn an average yearly income of $115,653 after taxes. Experts say those in their 40s need six times their earnings in their retirement accounts. Overall monthly expenses remain elevated during this decade. $2,425 on housing $1,443 on transportation $1,078 on food $528 on health care $457 on utilities $132 on other household expenses. Those amounts total $6,063 a month. How much do you need to save in your 50s? Retirement savings goal : $778,208 Emergency savings goal : $20,845 to $41,690 Time to wind down. You\u2019ve probably moved on from the most stressful period of your career, either voluntarily or not, and now you\u2019re preparing for the last third of your life and retirement. That\u2019s why earnings and spending start to fall. Those aged 55 to 64 earn an average yearly income of $97,276 after tax. Once you get into your 50s you\u2019ll want to have saved at least eight times that for retirement. Thankfully, you may need less in your savings account during this time. This age group spends a monthly average on the following categories: $2,133 on housing $1,204 on transportation $839 on food $597 on health care $429 on utilities $129 on other household expenses That\u2019s a monthly total of $5,331. Other common savings goals Of course, there is more to life than simply saving up for emergencies or socking away every spare penny for your long-term goal of retirement. Important as those goals are, you\u2019ll also want to save so you can take advantage of the good things life throws your way, whether it\u2019s getting married, buying a house or simply going on a vacation with your family. Whatever it is, you\u2019ll want to have some money saved up, especially if you want to avoid getting saddled with thousands of dollars in credit card debt. Immediate-term savings: For expenses you\u2019re anticipating within a year, you may want to open separate savings accounts for these additional expenses in order to avoid diluting your emergency fund. Short- or medium-term savings: If you are looking to save for a couple of years out, say for a new car or a down payment on a home, you might consider putting money into a money market fund or a CD, which could earn a bit more interest than your typical savings account. Education savings: For college, you may want to look at a 529 savings plan , which is offered by most states. These college savings plans work like an IRA or 401(k) , with contributions invested in mutual funds and other financial assets. Money invested in 529s uses after-tax dollars, but your earnings grow tax-free. Some states also provide tax deductions for contributing to these plans, so it can be worthwhile to check on whether your state does so. What balance should you have saved in your 401(k)? The average savings rate and retirement savings account balances can give you an idea of what others are saving. Here are the national averages by generation, according to a 2024 Vanguard study of its 401(k) accounts. 25-34 9.2 percent $37,557 35-44 9.9 percent $91,281 45-54 10.5 percent $168,646 55-64 11.7 percent $244,750 How can you boost your 401(k) balance? Those who are fortunate enough to work for a company that matches a certain percent of contributions should try and take full advantage of that benefit. After hitting your match, make your emergency fund and money that can go toward paying high-interest debt, if applicable, your top priorities. Bankrate\u2019s 401(k) calculator can help you estimate your retirement earnings. Best ways to boost your savings It\u2019s never too early to start saving. Your 20s are an ideal time to save for the future . Here are some other things you can do to help boost your savings: Pay down debt. Paying off high-interest student debt and automating your savings so you squirrel away a piece of each paycheck are good places to start. Go for a high-yielding online account. An easy way to increase your savings is by putting it into a high-yield savings account or money market account. Both options offer a boost in earnings with minimal effort, but they are also highly liquid, meaning you can easily access them without a penalty in case an emergency arises. Retirement accounts offer tax advantages. The contributions you make in a traditional 401(k), whether from a new account or a 401(k) rollover for example, aren\u2019t taxed when you invest the money, and you might also get a matching contribution from your employer. The money itself takes advantage of compounding interest. If you save 10 percent to 15 percent of each paycheck, including any match, you\u2019ll be on track. Your emergency savings, meanwhile, is funded with after-tax money that earns barely any return at all. Consider a Roth 401(k). The Roth 401(k) can be a good alternative to the traditional 401(k), though your contributions will be made using after-tax money, meaning you won\u2019t get a tax break today. Instead, your withdrawals in retirement will be tax-free, an attractive benefit. Plus, you can still take advantage of the employer match, if it\u2019s offered. It\u2019s OK to start small. The important part is that you\u2019re thinking about your financial future. As you progress in your career and become more financially stable, you can increase your contributions. Prioritize your savings goals Budgeting and then saving is the first step. But then you have to make sure you\u2019re properly prioritizing your savings goals. Consider an emergency fund to be your most important savings goal. Saving for this during good times is going to help you during an inevitable bad time. There\u2019s no way to predict the cost of that unplanned life event. If you get lucky with a salary raise or bonus, take it straight to the bank and try to live beneath your last salary. And when a debt is paid off, or an ongoing expense evaporates, put that money toward your emergency fund. Automate as much as possible Not having to remember to put away money makes saving easier. Automating saving is one of the most effective ways to achieve your savings goals. There are a couple of ways to do this: Have your employer put part of your direct deposit into a savings account. Set up a recurring transfer from your checking account to your savings account. This same principle applies to contributing to retirement. Those fortunate enough to have a 401(k) plan at their workplace can automate their retirement savings. This again shows the power of set-it-and-forget saving. Consider investing A savings account might not be the best option for long-term money. Once you have an emergency fund, you might be ready to invest. You\u2019ll also want to determine: Your time horizon for when you\u2019ll need to access the money you\u2019re investing. The purpose of the money being invested. Your risk tolerance for the money. Savings accounts and CDs that are within limits and guidelines are some of the safest places to put your money. However, over time you\u2019re more likely to make much higher returns by being invested in a diversified portfolio of stocks. But you\u2019ll have to be comfortable with more risk, too. Bottom line There are many factors to consider when setting your savings and retirement goals. While there\u2019s not one number that will work for everyone, looking at general recommendations by age group can be a good place to start. You may also want to consult with a financial advisor to develop a plan based on your individual needs. Remember, even if you\u2019re behind based on these averages, it\u2019s never too late to make saving a priority and get caught up. Why we ask for feedback Your feedback helps us improve our content and services. It takes less than a minute to complete. Your responses are anonymous and will only be used for improving our website. Facebook Icon Twitter Icon LinkedIn Icon Email Envelope Icon Up next",
+      "headings": []
+    },
+    {
+      "rank": 7,
+      "domain": "edwardjones.com",
+      "url": "https://www.edwardjones.com/us-en/market-news-insights/investor-education/investment-age/average-retirement-savings-age",
+      "title": "Average Retirement Savings By Age | Edward Jones",
+      "word_count": 613,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.edwardjones.com/sites/default/files/acquiadam/2023-06/CAT-14265A-A_Average-retirement-savings-balance.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [],
+      "body_text": "20s (Ages 20-29) 20 $0 - $0 $0 - $0 $0 - $5,000 $0 - $100,000 21 $0 - $0 $0 - $0 $0 - $25,000 $0 - $135,000 22 $0 - $0 $0 - $0 $0 - $50,000 $0 - $170,000 23 $0 - $0 $0 - $0 $0 - $75,000 $0 - $205,000 24 $0 - $5,000 $0 - $5,000 $20,000 - $100,000 $120,000 - $245,000 25 $0 - $10,000 $0 - $20,000 $40,000 - $125,000 $155,000 - $280,000 26 $0 - $20,000 $0 - $35,000 $65,000 - $155,000 $190,000 - $320,000 27 $0 - $25,000 $0 - $55,000 $90,000 - $180,000 $225,000 - $360,000 28 $10,000 - $35,000 $20,000 - $70,000 $115,000 - $210,000 $265,000 - $400,000 29 $15,000 - $45,000 $35,000 - $90,000 $145,000 - $240,000 $305,000 - $445,000 30s (Ages 30-39) 30 $25,000 - $55,000 $50,000 - $105,000 $170,000 - $270,000 $345,000 - $490,000 31 $35,000 - $60,000 $65,000 - $125,000 $200,000 - $300,000 $385,000 - $535,000 32 $40,000 - $70,000 $85,000 - $145,000 $230,000 - $330,000 $425,000 - $580,000 33 $50,000 - $80,000 $100,000 - $165,000 $260,000 - $365,000 $470,000 - $630,000 34 $60,000 - $90,000 $120,000 - $185,000 $290,000 - $395,000 $515,000 - $675,000 35 $70,000 - $100,000 $140,000 - $205,000 $320,000 - $430,000 $560,000 - $730,000 36 $80,000 - $115,000 $160,000 - $225,000 $355,000 - $470,000 $605,000 - $780,000 37 $90,000 - $125,000 $180,000 - $245,000 $385,000 - $505,000 $655,000 - $835,000 38 $100,000 - $135,000 $200,000 - $270,000 $420,000 - $540,000 $705,000 - $890,000 39 $110,000 - $145,000 $220,000 - $295,000 $455,000 - $580,000 $755,000 - $945,000 40s (Ages 40-49) 40 $120,000 - $160,000 $245,000 - $315,000 $490,000 - $620,000 $810,000 - $1,005,000 41 $135,000 - $170,000 $265,000 - $340,000 $530,000 - $665,000 $865,000 - $1,065,000 42 $145,000 - $185,000 $290,000 - $365,000 $570,000 - $705,000 $920,000 - $1,125,000 43 $155,000 - $195,000 $315,000 - $395,000 $610,000 - $750,000 $980,000 - $1,190,000 44 $170,000 - $210,000 $335,000 - $420,000 $650,000 - $795,000 $1,035,000 - $1,255,000 45 $180,000 - $225,000 $360,000 - $450,000 $690,000 - $840,000 $1,100,000 - $1,325,000 46 $195,000 - $240,000 $390,000 - $475,000 $735,000 - $890,000 $1,160,000 - $1,390,000 47 $210,000 - $255,000 $415,000 - $505,000 $780,000 - $935,000 $1,225,000 - $1,465,000 48 $220,000 - $270,000 $445,000 - $535,000 $825,000 - $985,000 $1,290,000 - $1,535,000 49 $235,000 - $285,000 $470,000 - $565,000 $870,000 - $1,040,000 $1,360,000 - $1,615,000 50s (Ages 50-59) 50 $250,000 - $300,000 $500,000 - $600,000 $920,000 - $1,090,000 $1,430,000 - $1,690,000 51 $265,000 - $315,000 $530,000 - $630,000 $970,000 - $1,145,000 $1,505,000 - $1,770,000 52 $280,000 - $335,000 $560,000 - $665,000 $1,020,000 - $1,205,000 $1,580,000 - $1,855,000 53 $295,000 - $350,000 $595,000 - $700,000 $1,075,000 - $1,260,000 $1,655,000 - $1,940,000 54 $315,000 - $370,000 $625,000 - $735,000 $1,130,000 - $1,320,000 $1,735,000 - $2,025,000 55 $330,000 - $385,000 $660,000 - $775,000 $1,185,000 - $1,385,000 $1,815,000 - $2,115,000 56 $345,000 - $405,000 $695,000 - $810,000 $1,245,000 - $1,445,000 $1,900,000 - $2,205,000 57 $365,000 - $425,000 $730,000 - $850,000 $1,300,000 - $1,515,000 $1,985,000 - $2,305,000 58 $385,000 - $445,000 $765,000 - $890,000 $1,365,000 - $1,580,000 $2,075,000 - $2,400,000 59 $400,000 - $465,000 $805,000 - $930,000 $1,425,000 - $1,650,000 $2,165,000 - $2,500,000 60s (Ages 60-65) 60 $420,000 - $485,000 $845,000 - $975,000 $1,490,000 - $1,720,000 $2,260,000 - $2,605,000 61 $440,000 - $510,000 $885,000 - $1,020,000 $1,555,000 - $1,795,000 $2,355,000 - $2,710,000 62 $460,000 - $530,000 $925,000 - $1,065,000 $1,625,000 - $1,870,000 $2,455,000 - $2,820,000 63 $485,000 - $555,000 $965,000 - $1,110,000 $1,695,000 - $1,945,000 $2,560,000 - $2,935,000 64 $505,000 - $580,000 $1,010,000 - $1,155,000 $1,770,000 - $2,025,000 $2,665,000 - $3,050,000 65 $525,000 - $605,000 $1,055,000 - $1,205,000 $1,845,000 - $2,110,000 $2,770,000 - $3,170,000",
+      "headings": []
+    },
+    {
+      "rank": 8,
+      "domain": "youtube.com",
+      "url": "https://www.youtube.com/watch?v=krzjEWqAGkI",
+      "title": "How Much Money You Should Have Saved in Your 20s? - YouTube",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 9,
+      "domain": "quora.com",
+      "url": "https://www.quora.com/How-much-money-should-I-have-at-age-20",
+      "title": "How much money should I have at age 20? - Quora",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 10,
+      "domain": "alliantcreditunion.org",
+      "url": "https://www.alliantcreditunion.org/money-mentor/saving-for-retirement-in-your-20s",
+      "title": "Saving for retirement in your 20s - Alliant Credit Union",
+      "word_count": 1258,
+      "scrape_status": "tavily_fallback",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": "# Saving for retirement in your 20s ##### January 20, 2015 | Pam Leibfried *This is the first in a five-part series on saving for retirement at any age. Check in next Tuesday for information on retirement savings in your 30s.* The most important thing about saving for retirement in your 20s is that you DO IT and do it NOW! Although it\u2019s easy to dismiss the need for retirement savings when you are so young and retirement seems so far off, if you start in your 20s, you\u2019ll have more years during which your retirement savings can grow via the compounding of your earnings. ### What does starting early do for you? Alliant employees teach financial literacy classes using the Banking on Our Future program developed by Operation HOPE. The lesson on compounding includes a table showing the results of a $2,000 a year investment after 10 years, 20 years, 30 years, 40 years and 50 years. At an average annual return of 7% (which is about the historical average for investment funds), someone who invested only $2000 each year starting at age 20 would have $869,972 in retirement savings by age 70. And keep this key fact in mind: 50 years of contributions at $2,000 per year means that only $100,000 of retirement savings were put into that $869,972 account. An astounding 89.6% of the total amount accumulated is due to the compounded earnings. But the most sobering fact that a 20-something should consider is that if the same $2,000 annual contribution were started at age 30 instead of age 20, the account\u2019s balance would be cut in half! The extra 10 years of contributions and compounded earning give you double the resources at retirement. | | | | | | | | --- | --- | --- | --- | --- | --- | | Contributions started at... | Balance at age 30 | Balance at age 40 | Balance at age 50 | Balance at age 60 | Balance at age 70 | | 20 years of age | $29,567 | $87,730 | $202,146 | $427,219 | $869,972 | | 30 years of age | | $29,567 | $87,730 | $202,146 | $427,219 | | 40 years of age | | | $29,567 | $87,730 | $202,146 | | 50 years of age | | | | $29,567 | $87,730 | Although the table above shows a hypothetical investment \u2013 and anyone who was invested in the stock market in 2008 or 2009 knows that there is no guarantee that stock investments won\u2019t lose money \u2013 the long-term impact of compounded earnings and the potential benefits of starting earlier rather than later couldn\u2019t be clearer. The example above is not representative of any specific investment. Your results may vary. | | | --- | | Securities and advisory services offered through LPL Financial, a registered investment advisor. Member FINRA/SIPC. Insurance products offered through LPL Financial or its licensed affiliates. Alliant Credit Union and Alliant Retirement and Investment Services are not registered broker/dealers and are not affiliated with LPL Financial. The financial consultants of Alliant Retirement and Investment Services are registered representatives of LPL Financial. The LPL Financial Registered Representatives associated with this site may only discuss and/or transact securities business with residents of the following states: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, HI, IA, ID, IL, IN, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VI, WA, WI, WV, WY. | | | | | | | --- | --- | --- | | Not NCUA Insured | No Credit Union Guarantee | May Lose Value | The LPL Financial Registered Representatives associated with this site may discuss and/or transact securities business with residents of all 50 states. \\*Financial consultants registered with LPL Financial. | Securities and advisory services offered through LPL Financial, a registered investment advisor. Member FINRA/SIPC. Insurance products offered through LPL Financial or its licensed affiliates. Alliant Credit Union and Alliant Retirement and Investment Services are not registered broker/dealers and are not affiliated with LPL Financial. The financial consultants of Alliant Retirement and Investment Services are registered representatives of LPL Financial. The LPL Financial Registered Representatives associated with this site may only discuss and/or transact securities business with residents of the following states: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, HI, IA, ID, IL, IN, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VI, WA, WI, WV, WY. | | | | | --- | --- | --- | | Not NCUA Insured | No Credit Union Guarantee | May Lose Value | Not NCUA Insured No Credit Union Guarantee May Lose Value The LPL Financial Registered Representatives associated with this site may discuss and/or transact securities business with residents of all 50 states. \\*Financial consultants registered with LPL Financial. #### You might like ### Build your savings faster with an Alliant high-rate saving account ### Take control of your savings with award-winning saving rates and loans ### for our newsletter Get even more personal finance info, tips and tricks delivered right to your inbox each month. Thanks for subscribing to Alliant's Money Mentor newsletter! You will now receive personal finance tips in your email inbox each month. ##### YOU MAY ALSO LIKE _480_320.jpg ) ##### How to budget for summer camp without the stress ##### Give your digital life a spring cleaning ##### What to do with a financial windfall: Your best savings options explained Routing Number: 271081528 NMLS Number: 197185 You are leaving Alliant\u2019s website to enter a website hosted by an organization separate from Alliant Credit Union. The products and services on this website are being offered through LPL Financial or its affiliates, which are separate entities from, and not affiliates of, Alliant Credit Union.The privacy and security policies of the site may differ from those of Alliant Credit Union. You are leaving an Alliant Credit Union website and are about to enter a website operated by a third-party, independent from Alliant Credit Union. Alliant Credit Union does not manage the operation or content of the website you are about to enter. Alliant Credit Union is not responsible for the content and does not provide any products or services at this third-party website. The privacy and security policies of the site may differ from those of Alliant Credit Union. You are leaving an Alliant Credit Union website and are about to enter a website operated by a third-party, independent from Alliant Credit Union. Alliant Credit Union does not manage the operation or content of the website you are about to enter. Alliant Credit Union is not responsible for the content and does not provide any products or services at this third-party website. The privacy and security policies of the site may differ from those of Alliant Credit Union. You are leaving an Alliant Credit Union website and are about to enter a website operated by a third-party, independent from Alliant Credit Union. Alliant Credit Union does not manage the operation or content of the website you are about to enter. Alliant Credit Union is not responsible for the content and does not provide any products or services at this third-party website. The privacy and security policies of the site may differ from those of Alliant Credit Union.",
+      "headings": []
+    },
+    {
+      "rank": 11,
+      "domain": "youtube.com",
+      "url": "https://www.youtube.com/watch?v=8-LUcWcl5gw",
+      "title": "The Exact Amount You Should Have Saved At Every Age - YouTube",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 12,
+      "domain": "peoplesbanknc.com",
+      "url": "https://peoplesbanknc.com/Learn/Savings-Goals-In-Your-20s-1",
+      "title": "Savings Goals in Your 20s - Peoples Bank",
+      "word_count": 1172,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://peoplesbanknc.com/PeoplesBankNC/media/Images/open-graph-peoples-bank-nc.jpg",
+        "alt": "",
+        "description": "Data visualization or financial chart graphic.",
+        "type": "graphic_design_data"
+      },
+      "article_images": [],
+      "body_text": "With age comes more responsibility and larger expenses. While statistics show that people are buying homes and settling down later in life than before, it is important to begin saving in your 20s (or sooner) to fulfill your unique goals and have more financial flexibility in the future. Whether you want the extra money to travel, buy a home, create an emergency fund, further your education, or prepare for retirement, developing a good savings plan in your 20s could be the key. Peoples Bank is here to help you gain the financial security and confidence you need to make a habit out of saving. Let\u2019s dig into some savings goals to have in mind in your 20s. Make a habit of saving Now that you are out of school and making your own money, you can probably afford more than you could before. But with this income comes the additional responsibility to spend and save wisely. Use these savings tips from Peoples Bank to begin to build your savings in your 20s. Watch your spending : With online purchasing and so many monthly subscription sites, it\u2019s easy to over spend. Combat those tempting purchases by only signing up for what you need and cancel any unused memberships to avoid wasting money. Track your spending regularly : Jump-start this plan with a daily spending record. Tracking purchases in real time can help you to evaluate spending and create a realistic savings plan to continue beyond your 20s. Avoid impulse buys : To help avoid impulse buying, always do your research on products before purchasing. You never know when there could be a more affordable option. It also helps to make a list before you go grocery shopping because sticking to a list could encourage you not to overspend on snacks. Save 20% of your earnings : Habitually put away 20% of your paycheck into a Peoples Bank savings account . If you already have a goal in mind, then a savings goal calculator can help you to determine exactly how much to put away per pay period. If student loan debt and your expenses are so high that you cannot afford to put away that much money, then it may be time to look at how you might be able to save on your fixed monthly expenses such as cable, cell phone plan, rent and other household expenses. As your income grows so will that 20%. You will begin to see your savings build, which will help you plan for future goals and put away money for an emergency fund. Keep an emergency fund A sudden illness, accident or even a loss of job are unavoidable circumstances and come with expenses that can put a roadblock in your financial plans. Before you begin investing in the stock market or putting away for retirement , build an emergency fund. Think of this more as insurance for your finances. Use these helpful tips for building an emergency savings fund: Selecting a savings account : Your emergency fund should be easily turned into cash and accessible. Whether you currently have a savings account or not consider a Peoples Bank savings account or money market account . Target saving 3-6 months of living expenses: A rule of thumb for most financial experts is to have a large enough emergency fund to be able to cover three to six months\u2019 worth of living expenses. In order to calculate this, it is important that you keep a budget sheet that lists how much you spend a month on housing, utilities, food, loan payments and the percentage saved. How much to save is going to depend on both your income and expenses. Purchase your first home You may not want to or be able to purchase your first home in your 20s, but it helps to start saving for a down payment as early as possible. If you want to avoid paying private mortgage insurance or PMI then you will need to put down a 20% deposit on your prospective home. Not sure what that means in North Carolina? The average home price in 2023 was $302,549 , so 20% of that is $60,509. Yes, a house is a big expense, so saving early will put you in a better position for when you want to buy your first house . Reduce your debt It\u2019s also important to keep yourself out of debt before purchasing a home, a car or something else big. Your credit score will come into play when getting pre-approved for a large loan. Use this time in your early adult life to build your credit. A secured credit card or credit builder loan could help get you to a solid \u2018fair,\u2019 \u2018good\u2019 or \u2018great\u2019 credit score. Other ways to ensure a good credit score include keeping credit debt as low as possible, as well as paying your bills on time. To make sure that you are paying each bill on time, set up automatic online bill pay with Peoples Bank. Start investing in your retirement It\u2019s hard to think about retirement when you are just entering the workforce, but it is important to start saving for your retirement early on. Most Americans nearing retirement age now only have just over 10% of what they will actually need. Does your employer offer a retirement plan like a 401(k) where they are matching contributions? If so, sign up immediately to help you save for your future. If you do not have access to these contributions through your employer, set up a retirement account like a Roth IRA or Traditional IRA with Peoples Bank and schedule automatic transfers from your checking account to that account. If you start saving in your 20s, you will be amazed how much you will be able to save. Use our retirement calculator to see for yourself. Time and compounding interest are in your favor in your 20s. In other words, whatever you put away early on will grow exponentially. Life is exciting in your 20s and financial knowledge truly is power. A fully established savings plan will give you a leg up on attaining those financial goals in your 20s and beyond. Even if you aren\u2019t at the point where you want to purchase a home or start a family, life will move fast so it\u2019s smart to prepare for when those days come. Contact the team at your local Peoples Bank branch to get advice on how to grow your savings now and as you navigate additional life stages. Peoples Bank will NEVER call or text you and ask for personal information, including account numbers, debit card numbers or online banking passwords. While we do contact customers about potentially fraudulent activity, no one should ever call or text you to make an account change or provide personal information. If you receive a call from someone claiming to be a Peoples Bank representative and you are suspicious, hang up and call the number listed on your account statement or our official website: 877-802-1212.",
+      "headings": []
+    },
+    {
+      "rank": 13,
+      "domain": "middlesexbank.com",
+      "url": "https://www.middlesexbank.com/About/What-s-New/Blog/April-2025/How-to-Save-Money-in-Your-20s-and-30s-Without-Feel",
+      "title": "How to Save Money in Your 20s and 30s (Without Feeling Miserable)",
+      "word_count": 0,
+      "scrape_status": "failed",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 14,
+      "domain": "schwab.com",
+      "url": "https://www.schwab.com/learn/story/your-20s-should-you-consider-investing",
+      "title": "In Your 20s: Should You Consider Investing? - Charles Schwab",
+      "word_count": 1505,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.schwab.com/sites/g/files/eyrktu1071/files/AdobeStock_430014462_2x1.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://educationcontent.schwab.com/sites/g/files/eyrktu1071/files/AdobeStock_430014462_3x2.jpg?imwidth=3840",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://educationcontent.schwab.com/sites/g/files/eyrktu1071/files/Is%20Your%20Portfolio%20Tax%20Efficient%20Custom%20Illustration%20by%20Michele%20Marconi.jpg?im=SmartCrop%2Cwidth%3D368%2Cheight%3D368&imwidth=3840",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://educationcontent.schwab.com/sites/g/files/eyrktu1071/files/Is%20Your%20Tax%20Strategy%20Keeping%20Up%20Custom%20Illustration%20by%20Michele%20Marconi.jpg?im=SmartCrop%2Cwidth%3D368%2Cheight%3D368&imwidth=3840",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://educationcontent.schwab.com/sites/g/files/eyrktu1071/files/When%20Do%20You%20Need%20a%20Wealth%20Advisor%20Custom%20Illustration%20by%20Michele%20Marconi.jpg?im=SmartCrop%2Cwidth%3D368%2Cheight%3D368&imwidth=3840",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "Your 20s go fast. You may be focused on finishing school, starting your career, dating, or adjusting to living on your own and becoming independent. It's so easy to let this decade go by without developing a focused financial plan. Then, one day you could wake up and realize \"What just happened? I'm 30 and have no money saved!\" My niece recently turned 30 and faced this type of financial reckoning. Her 20s flew by in a flash, without any financial focus. She was contributing the minimum to her 401k, but she also got into credit card debt and had no other savings. Suddenly, she turned 30. She developed a serious relationship, and they had the money talk . They both realized that if they wanted to take their relationship to the next level, they needed to start \"adulting\" financially. She asked me for ideas on how to get started. So, we sat down together and did a deep dive on her money beliefs, financial goals, spending and saving activity, and understanding of investing concepts and solutions. My niece realized that she let her 20s go by without being purposeful. Here's what she could have done differently to potentially maximize her future, and ideas for you to consider. Why should you start investing in your 20s? I get it. When you are in your 20s, you probably aren't thinking about retirement. Try looking at it this way: Consider investing now so you can live your dream life later. You are saving and investing for flexibility and choice in your future. I know you may have multiple financial priorities, and it can be hard to pay off student loans, cover everyday living costs, and try to save for a car or home, let alone set aside a percentage of your paycheck for retirement. So, this is what I told my niece. Consider prioritizing investing now\u00ad because the earlier you start, the less you have to save each year due to the power of compound growth. We have banking and lending for investors. In your 20s, time is on your side. Keep it there. Here's an example of how compound growth could help you. In these scenarios, we use a 6% annual growth rate on investments. The below example is for illustrative purposes only. Madison starts investing $5,000 a year when she's 20 years old. She does this for 45 years, earning an average of 6% annually. When Madison turns 65, she will have accumulated over a million dollars \u2014or $1,063,717.57, to be exact . Hannah doesn't start saving until she's 40. In order to achieve a million-dollar nest egg by age 65, she would need to save $20,000 a year , also earning an annual average of 6% to accumulate $1,097,290.24. Six steps to start investing in your 20s 1. Create a spending plan If you don't have one, create a monthly spending plan so you can be intentional in how you save and spend your hard-earned cash. To get a handle on your cash flow, itemize and add up your monthly expenses, then subtract them from your income. Are you overspending regularly? If yes, then it's time to prioritize and figure out what you really need to spend your money on and where you can cut back. If you have credit card debt , make it a goal to pay off this nondeductible, high-interest-rate debt. If you don't have an emergency fund, create a savings account to cover at least three months of essential living expenses. 2. Get educated You may think your friend or your brother is a great investor because all they talk about is their winners. But they may have different goals, different risk tolerance, and possibly many more losses than you know. Educate yourself instead of relying on friends and family. Or, if your parents have a financial advisor, reach out to them, and ask if they can spend an hour with you as a start. Explore these topics: Creating an Investment Plan Finding the Right Asset Allocation Benefits of Compound Growth 3. Start saving and investing today When you're in your 20s, time may be your most valuable asset. Consider saving 10% to 15% of your pre-tax income for retirement, but even if you only have a smaller amount to invest each month, it may still be worth it. Time in the market is key. Get started as soon as you can. Consider automating as much as possible so that you don't have to test yourself and your discipline each month. And don't leave money on the table\u2014consider contributing to your company's retirement plan up to the maximum match. 4. Build a diversified portfolio based on growth Diversification means don't put all your eggs in one basket. In investing, you can spread your risk by adding different types of investments to your portfolio that aren't likely to go up or down at the same time. In practice, this means owning a variety of investment asset classes. Asset allocation refers to the way you divvy up your money between various asset classes, such as stocks, bonds, and cash. Your asset allocation could range from aggressive to conservative and will help determine both your level of risk and your potential for gain. Here's a couple of examples of different types of asset allocation: Conservative asset allocation: This type of portfolio primarily holds investments that have less risk of loss, as well as lower potential for growth. These include investments like U.S. Treasury bonds, CDs, or other types of fixed income investments that can be more stable than stocks. Aggressive asset allocation: This type of portfolio is made up largely of stocks, which can carry significant risk of loss\u2014and higher volatility\u2014but also the potential for growth. This could be appropriate for someone young and saving for retirement because they can keep their money invested for the long term and potentially ride out market ups and downs. When you are in your 20s, explore your comfort level with taking a more aggressive approach and embracing risk. If you have a higher risk tolerance, you could be able to take bigger risks than you would if you were closer to retirement, though investors should consider their own individual circumstances. Yes, you could end up having bigger losses when the market falls, but you also have more time to potentially make up for those losses. History shows that over longer periods of time, aggressive, stock-centric investment portfolios far outpace more conservative or moderate portfolio allocations over time. 5. Keep it simple, and minimize fees and taxes Check out the expense ratio of any fund before you invest. An expense ratio is the percentage of fund assets taken out each year to cover fund expenses. A small difference in annual expenses can add up over time. Be tax aware. Check out what your tax rate is , and explore how investment and retirement accounts are taxed. Make the most tax-aware decision for you. 6. Increase your savings rate over time Each year, consider bumping up your savings rate. Whenever you get a pay raise, consider carving off as much of that pay increase as possible to bump up your savings and to increase the amount you are contributing to your company 401(k) plan . Pay yourself first. Set good financial habits now Talk to older people and ask them what financial mistakes they made when they were young. Many will say, \"I thought I had all the time in the world.\" Today, many Americans don't have enough money saved for retirement\u2014because they thought they had all the time in the world. If you are overwhelmed, start small. Right now, in your 20s, you have time on your side to create positive financial habits and potentially compounded wealth. Investing in your 20s can increase the likelihood of reaching your financial goals and giving yourself choice and flexibility. Your future self will thank you. Next Steps: Explore more personal finance topics. Get money ideas at SchwabMoneywise.com . We have banking and lending for investors. More from Charles Schwab Tax-Efficient Portfolios Your Life, Your Tax Strategy Do You Need a Wealth Advisor? Explore more topics This material is intended for general informational and educational purposes only. This should not be considered an individualized recommendation or personalized investment advice. The securities, investment products and investment strategies mentioned may not be suitable for everyone. Each investor needs to review an investment strategy for his or her own particular situation before making any investment decisions. All expressions of opinion are subject to change without notice in reaction to shifting market conditions. Data contained herein from third-party providers is obtained from what are considered reliable sources. However, its accuracy, completeness, or reliability cannot be guaranteed. For illustrative purposes only. Individual situations will vary. Not intended to be reflective of results you can expect to achieve. Diversification, asset allocation, automatic investing, and rebalancing strategies do not ensure a profit and do not protect against losses in declining markets. Investing involves risk, including loss of principal.",
+      "headings": []
+    },
+    {
+      "rank": 15,
+      "domain": "moneyguy.com",
+      "url": "https://moneyguy.com/article/what-qualifies-for-your-20-25-savings-rate/",
+      "title": "What Qualifies for Your 20-25% Savings Rate? | Money Guy",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://moneyguy.com/wp-content/uploads/2023/05/maxresdefault-1-1-1.webp",
+        "alt": "What Qualifies for Your 20-25% Savings Rate?",
+        "description": "YouTube thumbnail featuring hosts with graphic overlays and financial charts.",
+        "type": "video_thumbnail_branded"
+      },
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 16,
+      "domain": "atlascredit.com",
+      "url": "https://atlascredit.com/blog/post/5-ways-to-get-ahead-financially-while-youre-still-young",
+      "title": "8 Ways You Can Save Money in Your 20s | Atlas Credit",
+      "word_count": 1154,
+      "scrape_status": "tavily_fallback",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": "# 8 Ways You Can Save Money in Your 20s | Atlas Credit If you're in your 20s, you probably aren't as financially sound as you'd like to be. The future probably seems a little intimidating, and you can't be certain what your life (or your bank account) will look like in a decade, let alone your 40s or 50s. That's why it's critical that you start planning and building the foundation for financial success now. Here are some ways you can. ## 1. Pay Off Your Debt Whether it's credit card debt or student debt, you should do everything in your power to make sure you're mostly debt-free when you enter your thirties. This might sound like an impossible task at first. Mountainous debt always looks bigger from base camp. But once you start the climb, paying off more than minimum monthly payments and focusing on the big picture of being debt free, you'll make it to the other side with no obstacles in your path. ## 2. Start Saving for Retirement It may seem a bit early, but it's really not. In fact, people in their 50s now planning for retirement are quickly finding that they don't have enough to live on and will have to work well into their 70s. You don't want to make the same mistake. You should start preparing as soon as possible. Now. By either speaking to your employer and setting up a retirement plan, or creating a separate savings account that you swear to never touch until you're 65, you'll be set to retire comfortably and on time. ## 3. Live Below Your Means Many millennials already understand the meaning of living inexpensively. With crippling college debt and lower-paying jobs than generations before them had, they aren't exactly in the position to live lives of luxury. But even if you could afford to throw caution to the wind and abandon frugality occasionally, you probably shouldn't. That means you should shoot for an apartment that you can easily pay for, buy generic brands, and generally spend less than you plan every month if at all possible. By cutting costs everywhere, even if it means pretending or fully believing you're poorer than you are, when you reach your 30s you'll have saved more money than you could imagine possible. ## 4. Start Investing The vast majority of twenty-somethings have yet to realize the value of investing their money. Sure, many may have savings accounts through their banks that could already be building in a healthy way for their futures, but they're not taking full advantage of their economic potentials. If you start investing in stocks and bonds before your 30s, you'll gain loads of experience and understanding of how the financial markets work. You don't have to be rich to make money in the stock market. With a little know-how, you can make the right investments that will pay off in tremendous ways in your future. ## 5. Be a Little Selfish With Your Money Because the only thing you can truly have control over is your own finances, you'd be wise to play a little closer to the vest when it comes to them. In other words, don't tell everyone you know about the financial moves you make, and focus on improving yourself before you think about helping everyone else. This is not to say you shouldn't be generous or helpful when the opportunity arises. Everyone likes showing friends and family members how much they care, but if you want to establish your future now, when you're still young, it's important to be a little selfish. ## 6. Create a Monthly Budget If you are a regular reader of the Atlas Credit blog, you know we are big fans of budgeting. Learning how to plan for unexpected expenses and save your money will help you get ahead in the long run. You can learn more about your money flow through budgeting, which is one of the best ways to get ahead financially while you're still young. A budget ensures you do not have more money going out than you have coming in. To create one, you first need to tally up your regular monthly expenses, which may include: Your monthly income should balance out these expenses and give you some leftovers. That goes toward extras such as entertainment. In addition to saving for retirement, you also want to save some for an emergency fund you can tap into if something unexpected occurs. That way, if your car breaks down or a pipe bursts, you can pay for the repairs instead of charging them, which can put you behind financially. ## 7. Cut Out Things You Don't Use Saving money is the key to getting ahead financially. Too many young people spend on things they think they need but don't actually require. For example, if you subscribe to cable, you probably use four or five channels more than anything else. Do you really need to pay an arm and a leg to get those other networks? You can just as easily sign up for a streaming plan that gives you a limited package of channels or get a streaming service that delivers similar entertainment for a fraction of the monthly price. Other subscriptions or expenses you can cut down include monthly data plans for your phone or magazine subscriptions. ## 8. Challenge Friends to a No-Spend Challenge You may have seen people refer to no-spend challenges on social media. You and some friends agree to eliminate purchases of \"extras\" like clothing, books and entertainment for a predetermined period. You could go for one, two or even six months. Instead of spending money on these activities, put that money in your savings account. Get together with your friends regularly to do on-the-cheap activities and still have fun, such as cooking at home for each other or playing tennis at a local playground. You can socialize without spending money. By following these tips, you may not immediately change your finances. But once you get a little older and look back at the decisions you made to prepare yourself for later, you'll thank your younger self for your prudence. For more financial tips like these, read more of the Atlas Credit blog! ## Ready to get your money fast? #### Apply for a personal loan, get your rate in minutes! ### Facebook Twitter LinkedIn ##### Resources Get a Loan F.A.Q. Loan Advice Testimonials Sitemap Customer Portal ##### Company About Us Work For Us Complaints Legal & Privacy Disclosure Payments and Deposits Terms and Conditions ##### Personal Loans in Texas, Oklahoma and Missouri Arlington Austin Brownsville Bryan Corpus Christi Dallas Donna Edinburg El Paso Elsa Fort Worth Harlingen Hidalgo Houston Jacksonville Laredo Lockhart Longview Lufkin Marshall McAllen Mission Missouri Online Nacogdoches Oklahoma Online Palestine Pasadena Pharr Raymondville Rio Grande Roma San Antonio San Marcos Temple Terrell Texas Online Tyler Waco Weslaco Zapata",
+      "headings": []
+    },
+    {
+      "rank": 17,
+      "domain": "fhb.com",
+      "url": "https://www.fhb.com/en/resource-center/life-stages/savings-goals-in-your-20s",
+      "title": "Savings Goals in Your 20s | First Hawaiian Bank",
+      "word_count": 1204,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.fhb.com/en/media/23421",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.fhb.com/sites/default/files/styles/original/public/2024-12/20s%20680x442.jpg?itok=5CUcMV4e",
+          "alt": "\"\"",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.fhb.com/sites/default/files/styles/original/public/2026-03/workplace%20tips%20336x218.jpg?itok=hSo8nL7h",
+          "alt": "\"\"",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.fhb.com/sites/default/files/styles/original/public/2026-03/credit%20score%20blue%20336x218.jpg?itok=UdgWiKue",
+          "alt": "\"\"",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.fhb.com/sites/default/files/styles/original/public/2026-02/gen-z%20336x218.jpg?itok=CTDUUFwA",
+          "alt": "\"\"",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.fhb.com/sites/default/files/styles/original/public/2026-02/credit%20cards%20336x218.jpg?itok=ASWdGvSR",
+          "alt": "\"\"",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.fhb.com/sites/default/files/styles/original/public/2025-10/couple%20ipad%20336x218.jpg?itok=KHwE3dLD",
+          "alt": "RA Couple Image Bank in One Place",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.fhb.com/sites/default/files/styles/original/public/2025-07/Checking%20account%20fees%20336x218.jpg?itok=jLpw5yTK",
+          "alt": "\"\"",
+          "description": "Graphic design layout of a document, checklist, or tracker.",
+          "type": "graphic_design_document"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 18,
+      "domain": "citizensbank.com",
+      "url": "https://www.citizensbank.com/learning/50-30-20-budget.aspx",
+      "title": "What is the 50/30/20 Budget Rule, and Is it Right for You? | Citizens",
+      "word_count": 1142,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://p1.aprimocdn.net/citizensbank/1aa7cccf-f1ef-4305-a44e-b0180155874e/503020_Budget_1600x870_Learning-Article.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.citizensbank.com/assets/CB_resources/images/cbds-logos/logo-citizens__horz-green.svg",
+          "alt": "citizens",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://p1.aprimocdn.net/citizensbank/6d647324-a894-452b-9743-b28400ef04b5/2478658_CK25_50-30-20_BudgetRule_VizCTA_WebDownsize.jpg",
+          "alt": "Ready to save. Whatever your goals are, we can help you find ways to live in the moment and still save for tomorrow. Explore options by following the link.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://p1.aprimocdn.net/citizensbank/b019a03d-380c-4998-bb5b-aec2005a5358/GettyImages_1082120546_Feature-Grid-NR.jpg",
+          "alt": "Girls sitting on couch holding credit card",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://p1.aprimocdn.net/citizensbank/da10cc22-f560-493a-a710-b00a00ef1a7c/GettyImages%20640185164_Feature%20Grid%20R.jpg",
+          "alt": "Girls sitting in park",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://p1.aprimocdn.net/citizensbank/b47f4585-dd04-4a56-99f2-b13e0107d8fd/GettyImages-1147468136_Feature-Grid-R.jpg",
+          "alt": "Couple on motor bike",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 19,
+      "domain": "fool.com",
+      "url": "https://www.fool.com/retirement/how-much-saved-by-21/",
+      "title": "How Much Money Should I Have Saved by 21? | The Motley Fool",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://m.foolcdn.com/media/dubs/original_images/Conclusion_Slide_-_woman_sitting_at_kitchen_table_with_computer_making_not.jpg?_w=3840",
+        "alt": "Woman sitting at table with computer and paying bills",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://m.foolcdn.com/media/dubs/original_images/9_retirement_plan_written_on_graph_notebook_with_clocks.jpg?_w=3840",
+          "alt": "The words Retirement Plan and IRA written on graph notebook with other symbols",
+          "description": "Data visualization or financial chart graphic.",
+          "type": "graphic_design_data"
+        },
+        {
+          "url": "https://m.foolcdn.com/media/dubs/original_images/understanding-social-security.jpeg?_w=3840",
+          "alt": "understanding-social-security",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://m.foolcdn.com/media/dubs/original_images/0aCX91MixCnwStv-w4d-tfWRnS9kHzYcTsECWvKWmCHMICERJmBmtzx2lF2zI3q4GUY9XyqXa6gEg3?_w=3840",
+          "alt": "retirement_saving_plan",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://m.foolcdn.com/media/dubs/original_images/19_-_Getty_-_annuity.jpg?_w=3840",
+          "alt": "annuity umbrella",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://m.foolcdn.com/media/dubs/original_images/how-to-save-money-at-30-infographic.png?_w=3840",
+          "alt": "how-to-save-money-at-30-infographic",
+          "description": "Data visualization or financial chart graphic.",
+          "type": "graphic_design_data"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 20,
+      "domain": "youtube.com",
+      "url": "https://www.youtube.com/watch?v=dKFtBSJbL0k",
+      "title": "How Much Money Should You Have Saved? (By Every Age!)",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    }
+  ],
+  "battle_plan_generated_at": "2026-04-26T10:44:00.571991+00:00",
+  "competitors_analyzed_count": 6,
+  "battle_plan_method": "local_deterministic_agent_no_api"
+}

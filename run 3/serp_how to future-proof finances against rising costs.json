@@ -1,0 +1,723 @@
+{
+  "article_context": {
+    "angle": "Moving idle cash to a High Yield Savings Account (HYSA)",
+    "pain_points": [
+      "Living paycheck to paycheck and financial instability",
+      "Impulsive spending and lack of self-control",
+      "Avoiding financial reality ('head-in-the-sand' ostrich)",
+      "Food waste and overspending on groceries/restaurants",
+      "Cash sitting idle and not earning interest"
+    ],
+    "top_social_questions": [
+      "How do I save smart with a lump sum of cash?",
+      "How do I stop wasting money on food?"
+    ],
+    "dominant_emotion": "Fear and anxiety about money",
+    "serp_intent": "Searchers for \"how to future-proof finances against rising costs\" seek actionable strategies to protect their financial stability from inflation, economic uncertainty, and increasing living expenses like groceries, housing, and utilities. The SERP intent focuses on informational content covering budgeting, building emergency funds, reducing debt, and smart investing to maintain purchasing power over time.",
+    "serp_title_pool": {
+      "primary": [
+        "Five tips for protecting your money during high inflation - UNFCU",
+        "Rising costs: How to minimize the impact of inflation",
+        "10 Tips to Help You Combat Rising Costs - Porte Brown",
+        "7 Ways to Bulletproof Your Finances Before the Next Recession",
+        "8 Smart Ways to Beat Inflation This Year | Old National Bank",
+        "How to Protect Your Finances from Inflation - Mid Penn Bank",
+        "Future-Proof Your Finances: 10 Expert Tips for 2025",
+        "10 Ways To Protect Future Wealth as Cost of Living Goes Up",
+        "6 Ways to Stay Ahead of Rising Retirement Costs",
+        "How to Inflation-Proof Your Budget in 2025",
+        "4 ways to inflation-proof your finances - CBS News",
+        "Protect Your Finances Amid Rising Economic Uncertainty",
+        "Rising Costs: How Inflation Affects Your Budget and Savings",
+        "10 Practical Tips to Manage Rising Costs in 2023 | Blue FCU",
+        "How to Future Proof Your Finances During Market Uncertainty | CFP",
+        "4 Steps You Can Take Today to Secure Your Financial Future",
+        "6 Ways to Inflation-Proof Your Retirement Plan",
+        "9 Steps to Plan for Financial Uncertainty - BECU",
+        "How to Survive Inflation: Smart Strategies for Tough Times"
+      ],
+      "long_tail": [
+        "What Savers Should Do After the Fed's First Rate Cut in 2025",
+        "4 smart money moves to make before interest rates drop again - CNBC",
+        "3 ways to maximize your savings returns in 2025 - CBS News",
+        "8 Smart Ways to Beat Inflation This Year | Old National Bank",
+        "20 Ways to Save in 2025 - Hills Bank",
+        "Planning in a High Interest Rate Environment | Wilmington Trust",
+        "The Best Way to Save Money and Earn Interest in 2025",
+        "Where to Put Your Savings in 2025: High-Yield Accounts ... - YouTube",
+        "How to Deal with Inflation: 2025 Guide - Quiver Financial",
+        "Five tips for protecting your money during high inflation - UNFCU"
+      ],
+      "question": [
+        "How can simple interest make saving money easier? A. Because it ...",
+        "Simple Interest Flashcards - Quizlet",
+        "Understanding Simple Interest: Benefits, Formula, and Examples",
+        "Simple Interest vs. Compound Interest: What's the Difference?",
+        "Simple ways to save money for the future",
+        "Simple vs. Compound Interest | Cash Course | PragerU Kids",
+        "[PDF] Simple and Compound Interest\u2014Why It Is Great to Save",
+        "Easy Savings: Best Ways to Save Money | Blog | Academy Bank",
+        "Simple vs. compound interest: Which one works in your favor?",
+        "How can simple interest make saving money easier? A. Because"
+      ]
+    },
+    "paa_questions": [
+      {
+        "q": "What is the 3 3 3 rule for money?",
+        "a": "The 3-3-3 Rule: Confidence in Your Journey to Homeownership By ensuring you have three months of living expenses saved, three months of mortgage payments in reserve, and have thoroughly compared at least three properties, you are not just buying a house\u2014you are making a sound, well-informed investment in your future."
+      },
+      {
+        "q": "What does Dave Ramsey say about lirp?",
+        "a": "David explains how LIRPs work. Their fees are higher in the early years and much lower in the later years. However, when you average it out over the life of the program, it's going to cost you between 1-1.5% of your bucket per year. The longer you keep your LIRP, the lower the average annual expenses over time."
+      }
+    ],
+    "related_searches": [
+      "How to reduce inflation in a country",
+      "How to combat inflation as an individual",
+      "How to survive inflation on a fixed income",
+      "How to reduce inflation as a student",
+      "How to fight inflation at home",
+      "Rising costs meaning",
+      "How to beat inflation with savings",
+      "How to beat inflation with investments"
+    ]
+  },
+  "primary_keyword": "how to future-proof finances against rising costs",
+  "competitors": [
+    {
+      "rank": 1,
+      "domain": "unfcu.org",
+      "url": "https://www.unfcu.org/financial-wellness/protect-your-money-during-high-inflation/",
+      "title": "Five tips for protecting your money during high inflation - UNFCU",
+      "word_count": 966,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.unfcu.org/globalassets/photos/photo-unfcu-universal-social-card.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.unfcu.org/globalassets/photos/articles/photo-fw-nsf-fees.jpg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.unfcu.org/globalassets/photos/articles/photo-financial-wellness-five-ways-save-money-advancing-un-sdgs.jpg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.unfcu.org/globalassets/photos/articles/photo-financial-wellness-achieve-financial-well-being.jpg",
+          "alt": "Aerial view of green field.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "In brief In times of inflation, prices increase and the value of currency decreases. Keep the money you set aside for the future in an account that earns interest. Identify expenses that can be trimmed by tracking your spending. Focus on paying down variable rate loans. Choose a credit card that offers rewards to get more value out of your purchases. What is inflation? Put simply, inflation is a rise in prices over time. In times of inflation, the cost of everything from commodities such as food and housing to services such as health care can rise. A degree of inflation is normal over time. Inflation is why, for example, an item that cost $1.00 in the 1920s would cost about $18.00 today. As prices increase, purchasing power (or the value of currency) consequently decreases. And when inflation \u201csurges,\u201d it means that each unit of currency today is worth less than it was just a few months ago. Even if you make zero changes to your lifestyle or everyday purchases, the amount you spend will be higher. This can put a noticeable strain on your budget. It might also cause you to worry about your savings, as the money you\u2019ve put away decreases in value. Fortunately, there are a few steps you can take to mitigate inflation's impact. 1. Evaluate your savings Where you keep your money can have a significant impact on how much that money is worth over time. Keep the money you set aside for the future in a savings account that earns dividends so that your balance gradually increases over time. This can be an effective way to combat inflation. If you have some money you won't need to access immediately, consider share certificates . The money you deposit in a share certificate grows over a fixed term, often at an even higher rate than a savings account. Keeping your money in savings and share certificate accounts is a wise place to start in protecting yourself from inflation. 2. Track your spending When costs are on the rise, every bit that you're able to save counts. Tracking your spending is a great way to make sure that you're using your money as effectively as possible. Also review your bank and credit card statements from the last few months to determine where there's room to cut back. Are you: Paying for a streaming service you don't watch/listen to? Going out to eat more than you cook at home? Paying for a gym membership that hasn't been used in more than a few months? Trimming this discretionary spending doesn't need to make a major difference in your day-to-day life, but can reduce strain on your budget. 3. Prioritize paying down high-interest debt As inflation rises, central banks have been raising interest rates to make consumers spend less. These increased rates make it more expensive to borrow money, and make existing debt even more costly. For most consumers, the biggest impact of these rate hikes is on credit cards. If you have any credit card debt, that debt will increase at a higher rate, and become more expensive over time. Avoid that extra expense by taking steps to pay down any credit card debt you might have and paying off your balance each month if you can. That said, you don't need to be in a rush to pay off all of your debt. If you have a fixed rate mortgage, for example, your interest rate was locked in at the time of closing and won't be impacted by rate hikes. In fact, the interest rate on your mortgage may actually be lower than the rate of inflation \u2014 meaning it's a safe financial choice to continue paying it off over time. Instead, focus on paying down variable rate loans (including credit cards). When rates increase rapidly, your minimum payment may only cover the interest without any money going toward the principal. Payments that go beyond the minimum amount can help you pay off debt faster. 4. For new mortgages, consider an adjustable rate When interest rates are high, a mortgage where the rate is subject to change may seem like a surprising choice. What makes an adjustable rate mortgage (ARM) a smart choice for a new mortgage during times of high inflation? With a fixed rate mortgage, your rate is locked in for the life of your mortgage. If rates begin to fall, the interest rate on your fixed rate mortgage will stay the same. With an ARM, you can benefit from those falling rates. Your interest rate will decrease as the index used to calculate it decreases. Your rate can also go up with an ARM, but at UNFCU you are shielded from wide fluctuations with a cap on how much your rate can change. 5. Take advantage of rewards Even with a well-managed budget, you'll likely be spending a bit more than usual when inflation is high. Though this can be frustrating, you can make the most of the extra costs by choosing a credit card that offers rewards. Pay off your full balance each month to take advantage of these benefits without owing interest on your purchases. With UNFCU Azure and Elite cards , for example, you accumulate reward points with every dollar you spend. These points can later be redeemed for cash, airfare, and hotel stays \u2014 helping you get more value out of every purchase you make. Further reading Options to save for the future at UNFCU include savings accounts and share certificates . The 50-30-20 rule is just one way to consider organizing your budget. To find the perfect fit for your situation, consult a professional financial planner. How to avoid insufficient funds (NSF) fees Five ways to save money while advancing the UN SDGs Achieving financial well-being",
+      "headings": []
+    },
+    {
+      "rank": 2,
+      "domain": "nb.fidelity.com",
+      "url": "https://nb.fidelity.com/public/nbpreloginnav/spa/fidelitywork/core/rising-costs-minimizing-impact-inflation",
+      "title": "Rising costs: How to minimize the impact of inflation",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 3,
+      "domain": "portebrown.com",
+      "url": "https://www.portebrown.com/newsblog-archive/10-tips-to-help-you-combat-rising-costs",
+      "title": "10 Tips to Help You Combat Rising Costs - Porte Brown",
+      "word_count": 1205,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://cdn.prod.website-files.com/5b8577f3d845b08c92ed7cb4/62a35f1caf4111976de9ba93_PB%20Logo%20-%20Web%20-Large-HighRes%20-%20White%20Heading%20-%20WEBSITE-01.svg",
+        "alt": "Porte Brown logo",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://cdn.prod.website-files.com/5b8577f3d845b08c92ed7cb4/5b8acba5d34728a679c8e9ec_trucks%20grand246x164.jpg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/5b8577f3d845b08c92ed7cb4/681e3bef0feb99bc9486747e_BPTW%202025%20-%20187x134.webp",
+          "alt": "Best Places to Work in IL 2025",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/5b8577f3d845b08c92ed7cb4/6894c7653f2e3405e3009324_IPA%20200%20-%202025%20-%20187x134.webp",
+          "alt": "Inside Public Accounting Top 200 Firm 2025",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/5b8577f3d845b08c92ed7cb4/5b8acdbc012ec39a1ac63b32_register-button.webp",
+          "alt": "Porte Brown Webinars On-Demand",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/5b8577f3d845b08c92ed7cb4/6894ce4f7b0988967e65c469_AccountingToday%20Best%20Firms%20-%20187x134%20-%202025.webp",
+          "alt": "Accounting Today 2025 Best Firms to Work For",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/5b8577f3d845b08c92ed7cb4/6894c8000dcfe48aaa94af9f_IPA%20Fastest-Growing%20-%202025%20-%20187x134.webp",
+          "alt": "Inside Public Accounting Fastest-Growing Firms 2025",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/5b8577f3d845b08c92ed7cb4/5c6c2ea7d1aaf302e0f32afb_Secondary%20Nav%20-%20Down%20Arrow2.png",
+          "alt": "arrow",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/5b8577f3d845b08c92ed7cb4/62bcc3ca2598820ab9bd3256_PrimeGlobal_No%20Tagline_White%20Text%20-%20SVG-01.svg",
+          "alt": "Member Firm of PrimeGlobal",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/5b8577f3d845b08c92ed7cb4/5e74d6d26ecba1df6dc95702_FB40x40.webp",
+          "alt": "Follow us on Facebook!",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/5b8577f3d845b08c92ed7cb4/5e74d677dbb70b04e8ababcd_LI40x40.webp",
+          "alt": "Follow us on LinkedIn!",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/5b8577f3d845b08c92ed7cb4/64e535d2b27f0dc4c540fe97_X40x40-1.webp",
+          "alt": "Follow us on X!",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/5b8577f3d845b08c92ed7cb4/69c57e007095db46659d82e1_Youtube40x40.webp",
+          "alt": "Subscribe to Porte Brown's YouTube Channel!",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/5b8577f3d845b08c92ed7cb4/69c5809ef445dab58edcbba5_IG40x40.webp",
+          "alt": "Follow us on Instagram!",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/5b8577f3d845b08c92ed7cb4/69c57ee04263864925aef11d_BS40x40-1.webp",
+          "alt": "Follow us on Bluesky!",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/5b8577f3d845b08c92ed7cb4/5e5801ff0e511c532832d32c_le-logo-wide%20-%20white%20text-lock%20190.webp",
+          "alt": "SSL Certificate Issued by Let's Encrypt Authority X3",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/5b8577f3d845b08c92ed7cb4/5e5809410e511c77623309e7_Authorized%20IRS%20e-File%20-%20Wide%20Version-195.webp",
+          "alt": "Authorized IRS e-File Provider",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/5b8577f3d845b08c92ed7cb4/5e5854297bf1d72aaa55579c_aicpa-peer-review-program%20-%20190.png",
+          "alt": "AICPA Peer Review Program",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/5b8577f3d845b08c92ed7cb4/5e5858a37bf1d7bab8557262_Top50AccountingLogo_Small%20-%20190.webp",
+          "alt": "Named a Top 50 Construction Accounting Firm",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/5b8577f3d845b08c92ed7cb4/6894c8828f307bd50acc2977_2025%20IPA%20Top200-1SM%20-%20215H%20-%201.1.webp",
+          "alt": "Inside Public Accounting Top 200 Firms 2025",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/5b8577f3d845b08c92ed7cb4/67d9bc7fb39308a0f215479d_AT%202025%20Regional%20Leader%20-%20Website%20Footer%20Logo%20-%20Inverse.webp",
+          "alt": "Accounting Today 2025 Regional Leader",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/5b8577f3d845b08c92ed7cb4/6894c9218558ac3030eaf241_AT%202025%20Best%20Firms%20-%20Website%20Footer%20Logo%20-%20Inverse.webp",
+          "alt": "Accounting Today 2024 Best Firms to Work For",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/5b8577f3d845b08c92ed7cb4/63594f02d13b8d938dffbbff_BitPay-Accepted-Card-Alt-DarkMode%40large.webp",
+          "alt": "Named One of the Best Places to Work in IL",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://seal-chicago.bbb.org/seals/blue-seal-250-52-whitetxt-bbb-21000445.png",
+          "alt": "Porte Brown, LLC BBB Business Review",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://assets.clearlyrated.com/accounting-client-5-year-gold-2026-color-png",
+          "alt": "See the Porte Brown LLC Best of Accounting ratings on ClearlyRated.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "Inflation is up 8.3% year over year, according to the latest data from the U.S. Bureau of Labor Statistics. Many factors \u2014 including supply chain disruptions, multi-trillion-dollar government spending packages, the war in Ukraine and economic fallout from the COVID-19 pandemic \u2014 have contributed to higher prices at the gas pumps, on the grocery shelves and elsewhere, as compared to the same time last year. Most American households are feeling the pinch. But you can take proactive measures to improve your financial picture during these uncertain economic times. Consider the following 10 practical suggestions: 1. Follow an evolving budget. If your monthly cash outflows exceed your inflows, a budget can help you live within your means. Break down your budget into the main categories for incoming funds and outgoing expenses. You'll quickly see if you've sprung a leak that needs patching. This shouldn't be a one-time exercise. You'll need to continuously fine-tune your budget as circumstances change. Also, don't forget to set aside a \"rainy day\" fund for unexpected costs, such as a broken dishwasher or car repairs. 2. Spend less on groceries. An easy way to save money is to curb impulse buying at the grocery store. Do you really need all those perishable items that may spoil or products that will likely remain in your cupboard until you eventually throw them out? Shop with a list and try not to deviate too much. You might even save money overall by shopping online, even with delivery fees. Also take advantage of coupons, customer reward programs and other incentives that make sense for your household. For example, if your local grocery store has a big sale on ground turkey this week, you could plan to have turkey burgers on Monday night and turkey spaghetti later in the week \u2014 then you could freeze a pound to use in two weeks. Buying based on weekly sales flyers, especially for meats, fruits and other higher-priced items, can dramatically lower your weekly food bill. 3. Pay down or consolidate debt. People with excessive credit card debt may fall into a rut that's hard to escape, especially when the Federal Reserve is increasing rates. After the Fed's second consecutive 0.75% rate increase in July, the Federal funds rate is at its highest level since December 2018. This is the rate that commercial banks lend reserve balances to each other overnight on an uncollateralized basis. Every time the so-called \"Fed funds rate\" goes up, the prime lending rate goes up \u2014 along with the annual percentage rate (APR) on your credit cards. If your budget shows that a healthy chunk of your monthly cash outflows are credit card payments, focus on whittling down what you owe. If possible, consolidate debts with a single source that offers a reasonable rate. Depending on the size of your outstanding balance, it could take months or even years to chip away at your debt \u2014 but a consistent, disciplined approach will pay off over the long run. 4. Scale back on luxuries. The current economic outlook warrants cuts in discretionary items. For instance, if you had planned to take multiple vacations within the next year, consider skipping one of the trips. Along the same lines, if you frequently eat dinners out at expensive restaurants, go out for lunch instead, which is generally cheaper. And do you really need that $7 cappuccino every morning? 5. Lower your tax bill. Paying taxes to Uncle Sam is a necessary evil, but you might owe less with some astute year-end tax planning. For example, you could contribute pre-tax dollars to a tax-deferred retirement plan (up to the applicable limit), which lowers your taxable income. Or you could reap a sizable tax credit for making energy-efficient home improvements, such as installing solar panels, energy-efficient water heaters, heat pumps and HVAC systems. Another option: If you're short on cash, you could simply gather household items that you no longer need and donate them to charity. Generally, itemizers can deduct the fair market value of the donated goods. Review your situation with your professional tax advisor. 6. Shop around. If you're like most people, you're probably loyal to certain brands, products and stores. In fact, you may purchase certain items on a regular basis without even thinking about how much they cost. Consider lower-cost alternatives. In many cases, you can spend less without compromising quality. Many grocery stores offer generic or private-label products next to branded products on the shelves. Unbranded products usually are manufactured by smaller companies without large marketing budgets or by the same companies that make branded products. 7. Negotiate prices. Most people don't pay sticker price for a new vehicle at the showroom, so why accept the stated price for other goods and services? You may be surprised to find that some vendors are willing to trim their fees to keep your business. Examples include cellphone plans, cable and internet packages, landscaping, and home repairs. It doesn't hurt to ask \u2014 the worst they can do is say no. 8. Drive smarter. Gas prices have dropped slightly from their mid-year highs in most parts of the country, but it still costs a pretty penny to fill your tank. Simple but effective ways to reduce gas consumption include: Combining errands to reduce the number of trips, Avoiding trips during peak traffic times, Minimizing idle time by shutting off your engine when waiting, Checking tire pressure regularly, Limiting air conditioning usage, and Walking or bike riding whenever possible. Also consider using GPS apps to help you find the fastest route, along with fuel apps to help you find the cheapest gas in your area. 9. Earn more money. Lowering expenses is only one side of the equation. You can also help stem the tide of rising prices by generating more income. The simplest way to do this is to ask for a pay raise or work a little overtime at your job. Alternatively, it might be time to update your resume and hunt for a new job that pays more or provides more generous benefits. Or you might find a \"side hustle\" that can supplement wages from full-time employment \u2014 just be sure not to violate any noncompete agreements you've signed for your day job. 10. Consider rental options. If you have a vacation home or even unused space in your primary residence \u2014 for example, a basement apartment that your kids occupied in their teen years \u2014 you could lease it to bring in some extra cash. Likewise, people who live in areas with seasonal events, such as a golf tournaments or music festivals, could temporarily relocate and rent their homes to attendees at a premium. This income is tax-free if you rent for less than two weeks per year (but you can't deduct rental expenses either). Inflation is expected to continue at least through the end of 2022. The sooner you can get your finances in check, the better prepared you'll be to weather whatever the economy has in store. Contact your financial advisor for other creative solutions that could work for your situation. We Help You Get to Your Next Level\u2122 Get in touch today and find out how we can help you meet your objectives.",
+      "headings": []
+    },
+    {
+      "rank": 4,
+      "domain": "cuofco.org",
+      "url": "https://www.cuofco.org/resources/7-ways-bulletproof-your-finances-next-recession",
+      "title": "7 Ways to Bulletproof Your Finances Before the Next Recession",
+      "word_count": 91,
+      "scrape_status": "success",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": "Goal Manage My Finances Financial management only sounds complicated. Get resources on everything from basic budgeting to digital financial tools. Learn More Goal Start Out on My Own Learn about how your money choices today affect your ability to live your dream lifestyle. Learn More Goal Reduce Debt Money spent on debt payments is money not added to your retirement account, emergency fund, or other money goals. Use our financial resources and tools to help speed up the time to eliminate debt and redirect those funds to other goals. Learn More",
+      "headings": []
+    },
+    {
+      "rank": 5,
+      "domain": "oldnational.com",
+      "url": "https://www.oldnational.com/resources/insights/8-smart-ways-to-beat-inflation-this-year/",
+      "title": "8 Smart Ways to Beat Inflation This Year | Old National Bank",
+      "word_count": 1963,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "http://www.oldnational.com/4a04ad/globalassets/onb-site/onb-images/_global/onb-og-image.png",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://pixel.welcomesoftware.com/px.gif?key=YXJ0aWNsZT05ZDU1MjExOGM4YzgxMWYwYTE2MzZhNDNmYjkwYjNhMw==",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "For Your Life John Boitnott December 1, 2025 Key Summary To combat rising prices, diligently track your expenses to identify areas where money is being spent unnecessarily, enabling more informed purchasing decisions. Protect your purchasing power by actively seeking higher savings rates through accounts, CDs, or T-bills, and strategically paying down high-interest debt to reduce accumulating costs. Diversify your investments with inflation-resistant assets like dividend stocks, TIPS, REITs, and real assets, while also automating savings and cutting \"stealth inflation\" from hidden costs. Regularly reassess your financial plan annually, adjusting goals, budgets, and investments to align with changing circumstances and ensure continued resilience against economic pressures. Inflation feels as intimidating as ever in American life. Prices keep rising, squeezing household budgets in the U.S. According to the Bureau of Labor Statistics , consumer prices rose 2.9% in the 12 months leading up to August 2025. From health insurance to grocery prices, many people feel like their money just doesn\u2019t stretch as far as it used to. But even though your purchasing power is being eroded steadily, you can still take small, practical steps that will protect your money. Here are eight ways to beat inflation this year and keep your finances on solid ground. 1. Track Where Prices Hit Hardest It\u2019s important to track the prices of all your expenses no matter what inflation looks like. When you know where your money goes, you can manage your finances better and prevent emotions from affecting your buying decisions. Ask yourself: What unnecessary items are you buying? What costs are putting the most financial pressure? Get answers to these questions as you evaluate your expenses. Whether it\u2019s utilities, groceries, or the coffee you treat yourself to every day, tracking every detail helps you remain aware of your spending. Every penny adds up, so identify problem areas that quietly increase your expenses. Check your receipts and bank statements, and note the items that are making your monthly expenses higher than they should be. Note the impulse buys and subscriptions. Do you really need them? Do you need to buy the brand name version? Is there a generic version? Here are four ideas to make wise shopping choices: Don\u2019t get a shopping cart if you\u2019re just at the store for only one or two items. It prevents you from subconsciously filling it with unnecessary things. Try to avoid adding items you don\u2019t need. Create a shopping list and stick to it to resist the urge to buy more. Plan meals with cheaper ingredients. Also try meal-prepping to cut costs . Seek alternative brands with lower prices to save money on groceries and essentials. Look for BOGO deals and shop near the end of the day for additional discounts. 2. Use Higher Savings Rates We all know how money can lose its value during inflation. What cost $5 in the past could cost you $10 as prices rise. This is why you should look for a higher savings rate when inflation rises so your savings can grow faster than prices. Here\u2019s what needs to be done to beat inflation with a higher savings rate: Consider opening a bank account that offers strong returns to protect the value of your money. Consider investing in Certificates of Deposit (CDs) that offer fixed interest rates. With this option, you need to deposit your money for a fixed period, and you receive a guaranteed return at the end of that term. Look for CDs that offer high interest rates. Invest in Treasury Bills (T-bills), which are short-term government bonds. Unlike CDs, you can convert T-bills into cash at any time without missing out on competitive returns. 3. Pay Down High-Interest Debt It\u2019s always wise to pay off your credit cards and variable-rate loans to save during inflation. As prices increase over time, such debt becomes more costly . The more time passes, the more interest you need to pay. Pay off your credit card bills monthly to stop debt from piling up. You can also opt for fixed-rate loans, where the interest rate does not change over time. Consider debt consolidation to manage your loan payments better. Consolidation lets you combine debts into one account, secure a lower interest rate, and make repayment easier. 4. Invest in Inflation-Resistant Assets Certain assets can help you get high returns without losing money during inflation. It\u2019s best to diversify your portfolio with a mix of inflation-resistant assets like these: Dividend Stocks: These stocks let you earn profits without selling shares. Dividend stocks are shares from companies that also distribute profits to shareholders. Companies tend to pay higher dividends during periods of inflation. TIPS: Treasury Inflation-Protected Securities (TIPS) are U.S. Treasury-backed investments that are inflation-resistant and potentially safer. The amount you initially invest (principal value) in TIPS increases with inflation. Interest rates are also calculated based on the increased principal amount. During inflation, investors can enjoy a higher principal amount and interest. REITs: Real Estate Investment Trusts (REITs) are companies that own and operate income-generating real estate, such as apartment complexes and warehouses. Typically, during price hikes, the real estate industry booms, generating a higher income, which is why investing in REITs is often a good option to beat inflation. REIT investments are helpful for small investors who want to preserve the value of their money without facing the hassles of property management. Real Assets: Invest in tangible assets such as gold, real estate, and commodities to preserve your money\u2019s value. Commodities include grains, metals, energy, and currency. Gold , a physical asset, retains its value during periods of inflation, unlike many traditional currencies. 5. Automate Savings/Investing If you\u2019re waiting for your salary to come and manually saving up a portion of it, it could tempt you to spend more than you save. Consider automating your transfers. You might create an automatic savings plan to transfer a specific amount each month from your main account to a separate savings or investment account. Here are the best practices to automate your savings: Make sure you have a clear goal ahead. Decide whether you want to save for a home, a vacation, or something else. It\u2019s crucial to think rationally when deciding how much money to save. Make sure to review your income and expenses carefully. Transfer your savings to a separate account to avoid spending them. Many banks provide services that let you set up recurring transfers. Such options help you automatically transfer money into your savings or investment accounts. If you schedule the money to be transferred as soon as you receive your salary, you don\u2019t get the chance to spend it carelessly. Review your earnings, expenses, and progress each month. Adjust your savings amount as needed to align with your goals and financial circumstances. 6. Cut Stealth Inflation Some costs seem so minor that you might not even notice them, but they add up over time with inflation. Have you checked how much you\u2019ve spent on delivery fees over a year? The amount could be surprisingly high. Some costs stay hidden , like subscription fees and energy bills. Here\u2019s how you can cut down these hidden costs to beat inflation: Review your weekly and monthly expenses to find out the services and products you don\u2019t actually need. For example, music streaming or a monthly beauty box subscription service. If you\u2019re eating out regularly, consider packing a lunch from home for school or work. While shopping for groceries, look for store brands or more affordable versions of the same products you wish to buy to save money . Frozen foods are often less expensive and easier to store than fresh fruits, vegetables, and meats, making them an excellent option for saving money. A few simple steps could significantly reduce your home\u2019s energy consumption. Simply fixing dripping faucets, replacing old appliances with energy-saving alternatives, taking shorter showers, and fixing faulty doors and windows could save you hundreds of dollars per month on your bills. 7. Protect Your Health to Protect Wealth Inflation can impact all areas of your life, but it could make medical costs impossible to bear. Protecting your health now is not only about well-being; it is also about securing your wealth . When you\u2019re unwell, you don\u2019t have time to worry about costs. Your health is your number one priority. The best possible route is to stay prepared. Consider leveraging Health Savings Accounts (HSAs), which allow one to save for medical expenses in advance. The best part is that you don\u2019t need to pay taxes on this money. Contributing to an HSA lets you reduce your taxable income and save enough for out-of-pocket medical costs. Try to prevent health issues rather than just save money for health expenses. Spending a few hundred dollars for screenings, check-ups, vaccinations, and healthy habits could save you thousands. Consider using co-pay cards or rebates to lower your medication costs . Sometimes, these options can cover your immediate expenses entirely. However, such options aren\u2019t available for Medicare or Medicaid. Check with your pharmacy or the drug manufacturer\u2019s website for available options . Paying in cash instead of using an insurance card is often way cheaper than you think. Paying out of pocket for minor medical expenses, such as blood tests, can help you save a significant amount. Check the amount you need to pay in cash vs. what you pay through insurance to see which is more cost-effective. Know exactly what your insurance plan covers, including its deductible and co-pays, before paying out a major medical expense. If your insurance plan doesn\u2019t seem beneficial, don\u2019t hesitate to switch over to something more affordable. 8. Revisit the Plan Yearly Even your perfect plan needs a revisit at least once a year to keep beating inflation without fail. See if you\u2019re making progress or your plan needs adjustments. Make sure you carefully examine your goals, budget, and investments. Priorities can change. You may have been saving up for a down payment last year, but now you might want to save for a vacation. This is why updating your goals and adjusting your plan accordingly should take priority. Do a budget review once a year and look for unnecessary expenses to save money. For example, you might have unknowingly increased your overall expenses after a salary increase. But a careful review of your income and spending could help you spot such a thing and spend more wisely. Find out how much risk you\u2019re willing to take, and adjust your investments accordingly. People often wish to take more/fewer risks based on their circumstances and goals. Life events can change your goals. For example, after having children or buying a new house, your priorities may shift significantly. Adjust your plan to beat inflation and align with your new priorities. Beat Inflation with Resilient Finances Inflation shouldn\u2019t scare you; it just means you need to be smarter with your spending. The world has faced periods of severe inflation and financial hardship before and overcome them. You can too. Create a plan to cope with an inflationary economy rather than panicking unnecessarily. An inflation-combating plan becomes successful with steady action and adaptation. Take small steps before big ones to make good habits. Keeping track of your expenses and income should give you a good head start in beating inflation. Once you know what\u2019s keeping you down, you can start preparing your list of strategies and begin implementing them. The eight strategies covered above will lower your financial struggles during inflation, and they will also help you strengthen your future with healthy spending and saving habits. An Old National Savings account is a great way to protect against inflation. This article was written by John Boitnott from Due and was legally licensed through the DiveMarketplace by Industry Dive. Please direct all licensing questions to legal@industrydive.com . for Insights",
+      "headings": []
+    },
+    {
+      "rank": 6,
+      "domain": "midpennbank.com",
+      "url": "https://midpennbank.com/how-to-protect-your-finances-from-inflation/",
+      "title": "How to Protect Your Finances from Inflation - Mid Penn Bank",
+      "word_count": 581,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://midpennbank.com/content/uploads/2025/09/How-to-fight-inflation.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [],
+      "body_text": "At Mid Penn Bank, we understand the challenges rising costs create for individuals, families, and businesses alike. Inflation reduces the purchasing power of your money and can make day-to-day living more difficult. The good news is, with the right strategies and the right banking partner, you can take steps to minimize its impact and keep working toward your financial goals. Create and Follow a Budget Tracking your income and expenses is the first step to taking control of your finances during times of inflation. With our online banking tools , you can easily monitor spending, set transaction limits, and manage your accounts on the go. With MPB Classroom , you can also learn how to create your own budget that aligns with your savings goals. Manage and Reduce High-Interest Debt Carrying debt becomes more costly as interest rates rise. Paying down high-interest balances, such as credit cards, can free up cash for essentials. We can help you explore options such as debt consolidation or financial literacy resources to reduce the burden of debt. Shop Smarter & Reduce Everyday Costs A few simple habits, such as using loyalty rewards, shopping sales, and considering store brands, can stretch your dollars further. Reviewing everyday expenses and reducing utility bills, saving energy, and cutting waste can also help you make the most of your budget. Invest with Inflation in Mind One of the best ways to protect your wealth is by investing in assets that historically outpace inflation. Our wealth management team can help you explore a variety of investment options and design a strategy that aligns with your goals. * Trust and wealth management products and services Not insured | No bank guarantee | May lose value | Not insured by any federal government agency | Not a bank deposit Grow Your Income Inflation often motivates people to seek out new opportunities to increase earnings. Whether you\u2019re negotiating a raise, starting a side business, or investing in your skills, we\u2019re here to provide banking solutions such as business accounts , savings plans, and credit options to support your financial growth. Build and Protect Your Savings Having an emergency fund is critical when prices rise. We recommend setting aside three to six months of living expenses in a safe, accessible account. Our savings and money market accounts offer competitive rates and convenient availability, so your money is both protected and working for you. Plan for the Future with Confidence Inflation may fluctuate, but your long-term goals remain the same. Whether you\u2019re preparing for retirement, saving for college, or planning a major purchase, our team of financial advisors can help you build a strategy that factors in inflation and keeps you moving toward your long-term goals. We\u2019re Here to Help At Mid Penn Bank, our mission is to support you through every financial season, including times of rising costs. By budgeting wisely, managing debt, saving strategically, and investing for the future, you can stay financially strong no matter how inflation shifts. If you\u2019d like to discuss ways to protect your finances from inflation, visit your nearest financial center or connect with one of our financial experts today . Share: Disclosures The material on this site was created for educational purposes. It is not intended to be and should not be treated as legal, tax, investment, accounting, or other professional advice. Securities and Insurance Products: NOT A DEPOSIT | NOT INSURED | NOT BANK GUARANTEED | NOT INSURED BY ANY FEDERAL GOVERNMENT AGENCY | MAY LOSE VALUE",
+      "headings": []
+    },
+    {
+      "rank": 7,
+      "domain": "meriwest.com",
+      "url": "https://www.meriwest.com/our-story/blog/future-proof-your-finances-10-expert-tips-2025",
+      "title": "Future-Proof Your Finances: 10 Expert Tips for 2025",
+      "word_count": 586,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://trabian-canvas-prd-files.s3.amazonaws.com/meriwest-com/files/image/blog-112024-1654x482.webp?VersionId=fHWWOLJKHGPpJMEYFqxZXNmT5wnSGUnr",
+        "alt": "Couple and finances",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [],
+      "body_text": "November 20, 2024 By Meriwest Credit Union As the new year approaches, setting yourself up for financial success in 2025 and beyond requires strategic planning and proactive steps. It's essential to start preparing now to ensure you are on track to meet your long-term financial goals. To help you navigate this journey, here are 10 strategies that will prepare your finances for the upcoming year and beyond: Set Clear Financial Goals Begin by defining specific, measurable, achievable, relevant, and time-bound (SMART) financial goals for 2025. Whether your objectives include saving for a down payment on a home, establishing an emergency fund, or investing for retirement, setting clear goals will provide you with a roadmap to financial success. Create a Budget A budget serves as the foundation of your financial plan by helping you understand your cash flow, identify spending habits, and allocate resources effectively. Track your income, fixed expenses (such as rent or mortgage payments), variable expenses (like groceries and entertainment), savings contributions, and debt repayments to gain a comprehensive view of your financial situation. Establish an Emergency Fund Life's uncertainties can impact your financial stability. Building an emergency fund that covers three to six months' worth of living expenses can safeguard you from unexpected events like job loss, medical emergencies, or home repairs. Start small by setting aside a portion of your income each month until you reach your target amount. Review Your Investments Regularly review your investment portfolio to ensure it aligns with your risk tolerance, time horizon, and financial goals. Consider diversifying your investments across various asset classes to manage risk effectively. Consult with Meriwest Wealth Advisors to rebalance your portfolio and make adjustments based on changing market conditions. Reduce Debt High-interest debt, such as credit card balances and personal loans, can hinder your financial progress. Create a debt payoff plan by prioritizing high-interest debt and leveraging strategies like the debt snowball or avalanche method to accelerate your debt repayment. Once you eliminate debt, redirect those funds towards savings and investments. Automate Savings Harness the power of automation by setting up recurring transfers from your checking account to your savings or investment accounts. Automation ensures consistency in saving and investing, eliminating the temptation to spend discretionary income impulsively. By automating your savings, you can steadily grow your wealth over time. Review Insurance Coverage Protecting your financial well-being involves having adequate insurance coverage. Review your health, life, home, auto, and disability insurance policies to confirm they align with your current needs and lifestyle. Consider updating coverage levels, adding riders for specific risks, or exploring umbrella insurance for added protection. Maximize Retirement Contributions Capitalize on tax-advantaged retirement accounts, such as a 401(k), IRA, or Roth IRA, by maximizing your contributions each year. By contributing the maximum allowable amount, you benefit from tax-deferred or tax-free growth on your retirement savings. Take advantage of employer matching contributions to enhance your retirement nest egg. Educate Yourself Financial literacy is key to making informed decisions about your money. Stay well-informed of financial news, trends, and investment strategies through reading financial publications, attending seminars, or enrolling in online courses. Seek guidance from a financial advisor to deepen your knowledge and develop a personalized financial plan. Plan for the Future Estate planning is crucial for ensuring your assets are distributed according to your wishes and minimizing estate taxes. Develop a comprehensive estate plan that includes a will, trust, powers of attorney, and healthcare directives. Review your estate plan periodically to reflect changes in your financial situation, family dynamics, or legal regulations.",
+      "headings": []
+    },
+    {
+      "rank": 8,
+      "domain": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/news/10-ways-protect-future-wealth-170029518.html",
+      "title": "10 Ways To Protect Future Wealth as Cost of Living Goes Up",
+      "word_count": 394,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://s.yimg.com/ny/api/res/1.2/VxJrWGorwwx6Q8uKbXyxbA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/gobankingrates_644/5f43443e34cfae7a2e71668b8f5e9ace",
+        "alt": "",
+        "description": "Generic editorial stock photo depicting common financial concepts like piggy banks or people with devices.",
+        "type": "editorial_stock_photo"
+      },
+      "article_images": [
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/KO1crwJ.ldECU2TcyqwjPQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI0MjtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2023-09/ee6ba310-4dcd-11ee-abb6-d9983ff24d1b",
+          "alt": "GOBankingRates",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/.Ury4AI8sg1hbRr.tXBjVQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU0MA--/https://media.zenfs.com/en/gobankingrates_644/5f43443e34cfae7a2e71668b8f5e9ace",
+          "alt": "Andrey Arkusha / Shutterstock.com",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "If inflation rates keep you up at night \u2014 don\u2019t panic. Keeping a proactive mindset is essential for taking steps toward protecting your future wealth. According to experts, what\u2019s important is that you take action today. \u201cProtecting future wealth is not just about preserving what you have but also about strategically growing your assets to outpace inflation,\u201d said Chris Yang, personal finance consultant and co-founder of Coins-Value . Check Out: \u200b\u200b The 50 Happiest States in America and How Much It Costs to Live There Read Next: 5 Subtly Genius Things All Wealthy People Do With Their Money By implementing these strategies, individuals can build a robust financial foundation capable of withstanding economic pressures and securing long-term prosperity. Below are some ways you can protect yourself as the cost of living goes up : Wealthy people know the best money secrets. Learn how to copy them . Diversify Investments Across Asset Classes One of the most effective strategies to protect future wealth is diversifying investments across different asset classes. \u201cBy spreading investments across stocks, bonds, real estate, and commodities, individuals can mitigate risks associated with any single market downturn,\u201d said Dennis Shirshikov, head of growth at GoSummer and finance professor at the City University of New York. For example, during periods of high inflation, real estate and commodities like gold tend to perform well, offsetting losses in other areas. Yang agreed. \u201cDiversification is the cornerstone of wealth protection in the face of rising living costs.\u201d He added that a well-balanced portfolio that includes a mix of stocks, bonds, real estate, and alternative investments can help mitigate risks and preserve wealth over the long term. \u201cFor instance, one of my clients, a 45-year-old professional, maintained a 7% annual return on their investments despite a 4% inflation rate by strategically allocating 40% to inflation-protected securities, 30% to value stocks, 20% to real estate investment trusts (REITs), and 10% to precious metals,\u201d Yang said. He noted that this diversified approach preserved their wealth and provided a 3% real return after accounting for inflation. Increase Your Earning Potential Another crucial strategy is to focus on increasing your earning potential. Upskilling or reskilling can lead to significant income growth, outpacing inflation. \u201cI\u2019ve witnessed clients who invested in their education see an average salary increase of 15-20% within two years, effectively countering the impact of rising living costs,\u201d said Yang.",
+      "headings": []
+    },
+    {
+      "rank": 9,
+      "domain": "sfg-planner.com",
+      "url": "https://www.sfg-planner.com/resource-center/retirement/6-ways-to-stay-ahead-of-rising-retirement-costs",
+      "title": "6 Ways to Stay Ahead of Rising Retirement Costs",
+      "word_count": 0,
+      "scrape_status": "failed",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 10,
+      "domain": "thrivewealth.com",
+      "url": "https://thrivewealth.com/how-to-inflation-proof-your-budget-in-2025/",
+      "title": "How to Inflation-Proof Your Budget in 2025",
+      "word_count": 206,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://thrivewealth.com/wp-content/uploads/2025/09/0_iAOpDMpc8lkAfWKk.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://thrivewealth.com/wp-content/uploads/2025/09/transparent-logo-no-tagline.png",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://thrivewealth.com/wp-content/uploads/2026/04/Thrive-Advisor-Spotlight-Website-1280-x-720-px-1024x576.png",
+          "alt": "Michael Stanton of Thrive Wealth Management discussing stock option strategies and estate planning in an advisor spotlight video",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://thrivewealth.com/wp-content/uploads/2026/04/Joint-Planning-The-Ultimate-Safety-Net-Thrive-Wealth--1024x724.png",
+          "alt": "Joint Planning The Ultimate Safety Net Thrive Wealth",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://thrivewealth.com/wp-content/uploads/2026/04/Year-Round-Tax-Planning-With-Thrive-Wealth-Management-1024x732.png",
+          "alt": "Year-Round Tax Planning With Thrive Wealth Management",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "Inflation may have cooled off from the peaks of recent years, but many people are still feeling the squeeze\u2014whether it\u2019s at the grocery store, the gas pump, or in rent increases. As prices continue to stay elevated in certain sectors, updating your financial plan to account for inflation is more important than ever. Here are three practical steps to inflation-proof your budget today: 1. Reevaluate Fixed Expenses Fixed costs like subscriptions, insurance, and even your phone plan may have gone up\u2014or you might be overpaying. Review everything that auto-renews and shop around for better deals. If you haven\u2019t negotiated your internet or car insurance in a while, now\u2019s a good time. 2. Build in Flexibility for Variable Spending Groceries, utilities, and transportation costs can fluctuate wildly. Instead of setting a rigid budget, give yourself spending \u201cranges\u201d and track these categories more closely. Tools like YNAB or Mint can help you stay on top of changes without going overboard. 3. Invest Strategically Leaving money sitting in a low-interest savings account is a losing game in inflationary times. Consider higher-yield savings accounts or money market funds (still earning above 4%). Inflation isn\u2019t something you can control\u2014but with the right strategy, you can control how it impacts your life.",
+      "headings": []
+    },
+    {
+      "rank": 11,
+      "domain": "cbsnews.com",
+      "url": "https://www.cbsnews.com/news/ways-to-inflation-proof-your-finances/",
+      "title": "4 ways to inflation-proof your finances - CBS News",
+      "word_count": 837,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/08/28/1a23a61f-3ddd-45ae-a910-945e94c219a4/thumbnail/1200x630/f701506a21ad19d037a675e308c4381d/gettyimages-1149306452.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/08/28/3e23605a-ba0d-4f39-a7c4-4e5b1c899785/thumbnail/620x399/59e6dfe71620d5ef9ffe45eec41fd9cd/gettyimages-1149306452.jpg#",
+          "alt": "Piggy bank in bubble wrap",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "In today's economy, one of the most significant challenges is inflation . And, while the Federal Reserve has increased the benchmark rate nearly a dozen times since March 2022 to try and get inflation under control, the latest data showed that the inflation rate ticked back up unexpectedly after appearing to cool in the months prior. These rate hikes have made borrowing a lot more expensive at a time when inflation is also eating away at many people's purchasing power. Budgets aren't stretching as far as they once did, and with no clear end in sight, it's essential to take proactive steps to safeguard your financial well-being. Luckily, there are a few simple strategies you can use to inflation-proof your finances and secure a stable future. Find out how the top savings accounts can benefit you here . 4 ways to inflation-proof your finances If you want to safeguard your finances in the midst of persistent inflation, consider employing the following strategies: Switch to a high-yield savings account A fundamental step in protecting your savings from the erosive effects of inflation is to ensure that your money is working for you, even while it's sitting in a savings account. Traditional savings accounts often offer interest rates that struggle to keep up with inflation, resulting in a decline in real value. But there's a better option: high-yield savings accounts . These financial products are offered by online banks and credit unions and typically provide significantly higher interest rates than brick-and-mortar banks. There are quite a few high-yield savings accounts offering interest rates that outpace inflation \u2014 and it's currently possible to find high-yield accounts that offer 4.5% or more without excess requirements or costs. Just be sure to compare the different high-yield savings accounts before making a decision, taking into consideration factors like interest rates, fees and ease of access to your funds. Learn more about the savings rates you could get here now . Lock in a CD rate that beats inflation Certificates of deposit (CDs) are another option for safeguarding your savings against inflation. Unlike traditional savings accounts, CDs offer fixed interest rates for a predetermined period, which can range from a few months to several years. By locking in a CD rate that exceeds the expected inflation projection, you can effectively preserve the value of your money. CDs offer varying terms , and right now, it's possible to find CDs offering rates of 4.5% or higher on your money. And that includes short-term CDs. However, keep in mind that CDs come with limited liquidity; withdrawing your funds before the term is up can result in penalties. So, you should ensure that you're comfortable with the length of the CD term and won't need the funds during that period before putting your money in this type of account. Diversify your investment portfolio Investing wisely is crucial to combating the effects of inflation. Historically, certain asset classes, such as stocks and real estate, have demonstrated the ability to outpace inflation over the long term. While these investments do come with risks, they can be an effective tool in building wealth that maintains its value. Investment diversification is the key to managing risk in your portfolio. By spreading your investments across different asset classes (stocks, bonds, real estate, gold, etc.), you can potentially reduce the impact of market fluctuations on your overall net worth. However, you should always conduct thorough research or consult a financial advisor before making investment decisions to ensure they align with your risk tolerance and financial goals. Focus on your emergency fund In addition to your efforts to grow and protect your wealth, it's also important to focus on your emergency fund when inflation is high. With high inflation often comes an uncertain economy, and your emergency fund is the safety net that provides financial stability during unexpected situations \u2014 such as medical emergencies, job loss or unforeseen expenses. Maintaining an emergency fund can help prevent you from having to liquidate investments or incur high-interest debt during times of crisis. Aim to save three to six months' worth of living expenses in a readily accessible account, such as a high-yield savings account or money market account. This allows you to earn interest that outpaces inflation while ensuring easy access to your money when you need it. The bottom line Inflation-proofing your finances requires a combination of strategic planning and informed decision-making. By switching to high-yield savings accounts, locking in favorable CD rates, diversifying your investments and prioritizing your emergency fund, you can take significant steps towards maintaining your financial security in the face of inflation-related challenges. Just remember that each financial situation is unique, so it may help to tailor these strategies to your specific needs and goals to find the best plan for your money. Debt settlement vs. debt management: Which relief option works faster? What are today's mortgage interest rates: April 24, 2026? Dallas implements hiring freeze, overtime restrictions to help with budget woes Arthur Brooks: Grade Inflation Won\u2019t Make You Happy",
+      "headings": []
+    },
+    {
+      "rank": 12,
+      "domain": "investopedia.com",
+      "url": "https://www.investopedia.com/uncertain-economy-protect-finances-8759794",
+      "title": "Protect Your Finances Amid Rising Economic Uncertainty",
+      "word_count": 0,
+      "scrape_status": "failed",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 13,
+      "domain": "transcendcu.com",
+      "url": "https://www.transcendcu.com/rising-costs-how-inflation-affects-your-budget-and-savings",
+      "title": "Rising Costs: How Inflation Affects Your Budget and Savings",
+      "word_count": 893,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.transcendcu.com/assets/files/xKbtiSes/19.png",
+        "alt": "Discover how to navigate inflation with Transcend Credit Union.",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [],
+      "body_text": "Strategies to protect the purchasing power of your savings Inflation is something that affects everyone, but its impact on your budget and savings can feel more significant as prices rise. Whether you\u2019re trying to make ends meet with the same income or are saving for future goals, inflation can erode the purchasing power of your money and disrupt your financial plans. Understanding inflation and how it impacts your finances is crucial for managing your budget and preserving the value of your savings. In this post, we\u2019ll break down what inflation is, how it affects your budget and savings, and provide practical tips for adjusting your financial strategy in times of rising costs. What is Inflation? Inflation is the rate at which the general price level of goods and services increases over time. Essentially, when inflation rises, the value of money decreases, meaning you\u2019ll need more money to purchase the same goods or services you were able to buy before. For example, if inflation is 3%, a product that costs $100 today would cost $103 next year for the same item. Over time, persistent inflation can result in significant increases in the cost of everyday expenses like groceries, gas, and healthcare. How Inflation Affects Your Budget Inflation has a direct impact on your budget, especially in the following areas: Rising Costs of Goods and Services: The most immediate and obvious effect of inflation is the increase in prices of everyday items. Groceries, gas, utilities, transportation, and even entertainment costs can rise due to inflation. For example, if gas prices go up, your transportation budget increases, or if food prices rise, you\u2019ll need to allocate more to your grocery spending. Increased Interest Rates: To control inflation, central banks like the Federal Reserve often raise interest rates. While this can help reduce inflation in the long term, higher interest rates mean that loans, mortgages , credit cards , and other forms of debt become more expensive. If you have variable-rate loans or credit card balances, you may notice your monthly payments increase. Stagnant Wages vs. Rising Costs: One of the most frustrating aspects of inflation is that wages often don\u2019t rise as quickly as prices do. If your salary remains the same while prices increase, your purchasing power decreases. Essentially, you can buy less with the same amount of income, forcing you to adjust your lifestyle to compensate. How Inflation Affects Your Savings Inflation doesn\u2019t just impact your day-to-day spending; it also reduces the value of the money you have saved over time. Here\u2019s how: Decreased Purchasing Power of Cash : Money sitting in a savings account loses value over time due to inflation. For example, if you have $10,000 saved, and inflation is 3% per year, your money is effectively losing purchasing power. A year from now, those $10,000 may only be worth $9,700 in terms of what they can actually buy. Impact on Fixed-Rate Investments : While some investments can protect against inflation, fixed-rate investments like bonds or certificates of deposit may struggle to keep pace with rising prices. If your investment returns are lower than inflation, the real value of your savings is eroded over time. Impact on Retirement Savings : The longer inflation persists, the greater the effect it will have on retirement savings. If you\u2019re saving for retirement in a fixed-rate account, like a traditional savings account or certain types of bonds, you may not be able to accumulate enough to cover future retirement costs, especially as healthcare, housing, and general living expenses rise. How to Adjust Your Budget and Savings in Times of Inflation So, how can you protect your budget and savings in the face of inflation? Here are some practical strategies: Reevaluate Your Budget Regularly: With rising costs, it\u2019s important to regularly review your budget. Identify areas where you can cut back on discretionary spending (like eating out or subscriptions) to accommodate the increased cost of essentials. It\u2019s important to stay flexible and adjust your budget as needed to reflect the changing prices of goods and services. Increase Your Income : If you\u2019re feeling the pinch of inflation, consider finding ways to increase your income. This could involve negotiating a raise at work, starting a side hustle, or investing in skill development to enhance your earning potential. Diversifying your income streams can help offset the rising costs you\u2019re facing. Look for Ways to Reduce Debt : Rising interest rates can make debt more expensive, so focus on paying down high-interest debt as quickly as possible. If you have credit card balances, consider transferring them to a low-interest card or consolidating them with a personal loan at a lower rate. Reducing debt allows you to free up more of your income to deal with inflationary pressures. Inflation is an inevitable part of the economy, but it doesn\u2019t have to derail your financial goals. By staying proactive and making thoughtful adjustments to your budget and savings strategy, you can minimize the impact of rising costs on your finances. From cutting expenses and increasing income to making smarter investment choices, the more steps you take to protect yourself from inflation, the more likely you are to maintain your financial stability and achieve your long-term goals. Stay informed, remain flexible, and adjust your approach to inflation as needed\u2014doing so will help you weather economic shifts and keep your financial plan on track.",
+      "headings": []
+    },
+    {
+      "rank": 14,
+      "domain": "bluefcu.com",
+      "url": "https://www.bluefcu.com/blogs/10-practical-tips-to-manage-rising-costs/",
+      "title": "10 Practical Tips to Manage Rising Costs in 2023 | Blue FCU",
+      "word_count": 0,
+      "scrape_status": "failed",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 15,
+      "domain": "letsmakeaplan.org",
+      "url": "https://www.letsmakeaplan.org/financial-topics/articles/financial-uncertainty/how-to-future-proof-your-finances-during-market-uncertainty",
+      "title": "How to Future Proof Your Finances During Market Uncertainty | CFP",
+      "word_count": 593,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.letsmakeaplan.org/-/media/2025/lmap-articles/lmap-article-11_5_25-futureprooffinances.jpg",
+        "alt": "How to Future Proof Your Finances During Market Uncertainty",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 16,
+      "domain": "bakerboyer.com",
+      "url": "https://www.bakerboyer.com/resources/articles/4-steps-you-can-take-today-to-secure-your-financial-future",
+      "title": "4 Steps You Can Take Today to Secure Your Financial Future",
+      "word_count": 725,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.bakerboyer.com//Unused%20Assets%20Rollback/4%20Steps%20Secure%20Future_Social.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "Images/Article%20Images/4%20Steps%20Secure%20Future_Main.jpg",
+          "alt": "Millennial woman looking up budgeting tools on laptop in home",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "Images/Article%20Images/Main%20image_Tori%20meeting%20with%20client.png",
+          "alt": "Tori Anguiano meeting with client",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 17,
+      "domain": "bairdwealth.com",
+      "url": "https://www.bairdwealth.com/insights/wealth-management-perspectives/2022/03/6-ways-to-inflation-proof-your-retirement-plan/",
+      "title": "6 Ways to Inflation-Proof Your Retirement Plan",
+      "word_count": 1113,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.bairdwealth.com/globalassets/pwm-images/images-1280x640/investment-management/investmngmt-people-analyzing-stats-1280x640.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.bairdwealth.com/globalassets/pwm-images/images-1280x640/1509850-couple-house-1280x640.jpg",
+          "alt": "Couple standing arm in arm in front of a modern style home.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.bairdwealth.com/contentassets/21ad9ef2407d4dd29050d5a1fabcc652/busexecsvcs-mansportcoat-1280x640.jpg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.bairdwealth.com/globalassets/pwm-images/images-1280x640/retirement-planning/retireplng-couple-reviewing-paperwork-1280x6402.jpg",
+          "alt": "Couple sitting at kitchen table reviewing paperwork.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 18,
+      "domain": "becu.org",
+      "url": "https://www.becu.org/blog/steps-to-plan-for-financial-uncertainty",
+      "title": "9 Steps to Plan for Financial Uncertainty - BECU",
+      "word_count": 2522,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.becu.org/-/media/Images/heroes-page-promos/blog-articles/2025/Budgeting/Blog_Budgeting_9-Steps-to-Plan-for-Financial-Uncertainty_Promo.jpg?rev=c92bd65472bf47a5b27a720e9dfcc45a",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.becu.org/-/media/Images/heroes-page-promos/blog-articles/2025/Budgeting/Blog_Budgeting_9-Steps-to-Plan-for-Financial-Uncertainty_Hero.jpg?h=290&iar=0&w=760&rev=fb671e8fafa94091a12cff12ffc5184a&hash=04DF2BB3721D35E5EEFCD5B032760BB4",
+          "alt": "A woman in a blue blazer seated in a chair engages in conversation with another woman seated in front of her. The woman in blue has her hands up, like she's explaining a concept. They are in an indoor BECU financial setting.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.becu.org/-/media/Images/icons/footer/social-media/Icon_Twitter.svg?h=45&iar=0&w=45&rev=7adb29408a754f4eb7b61b19fadfff00&hash=69750B107DE54836434C86BCDC02C59F",
+          "alt": "Share this article on Twitter",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.becu.org/-/media/Images/icons/footer/social-media/Icon_Facebook.svg?h=45&iar=0&w=45&rev=1aa643bb35e74b4fa64e7d32e1cf1841&hash=A85BDE8030CB18788010F1B915D84821",
+          "alt": "Share this article on Facebook",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.becu.org/-/media/Images/icons/footer/social-media/Icon_Mail.svg?iar=0&rev=5ac8d91cc9334c62b11b2b046d164314&hash=C37B9D8454A65CECE17692F1EA611D44",
+          "alt": "Email this article",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.becu.org/-/media/Images/heroes-page-promos/blog-articles/2026/Budgeting/Blog_Budgeting_Emergency-Funds-Your-Financial-Safety-Net_Promo.jpg?rev=d7b6dc201028429ebbb11067ad073861&v=639105699810000000",
+          "alt": "Two people stand in an auto repair shop reviewing a clipboard beneath a car on a lift.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.becu.org/-/media/Images/heroes-page-promos/660x371/everyday-banking/Savings/Everyday-Banking_Savings_Money-Market.jpg?rev=b7a0833234f141fbbf4ce4a7b5f48fad&v=638494896500000000",
+          "alt": "a man with a mustache and a bandana",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.becu.org/-/media/Images/heroes-page-promos/660x371/everyday-banking/Savings/Everyday-Banking_Savings_Certificate-of-Deposit.jpg?rev=d199eaa86be54db1bf60fb8ebc6bf618&v=638115607990000000",
+          "alt": "Woman wearing a yellow shirt and smiling",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.becu.org/-/media/Images/promo-components/Retail-Promos/Promo_Retail_Reduce-Debt-Video.jpg?rev=4f5c2d1dba8a47c9899a2d050ad067c9&v=638035515710000000",
+          "alt": "Reduce Debt",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.becu.org/-/media/Images/heroes-page-promos/blog-articles/2024/Advancing-Equity/Blog_Advancing-Equity_Mind-and-Money_Promo.jpg?rev=33aa9c271e754a29971cb2d79aa573e2&v=638527668320000000",
+          "alt": "A woman is seated on a couch as she counsels a person who is also seated in a therapy looking setting. She has both her hands raised a bit lower than shoulder length as if she's explaining something. She is wearing a black lanyard, a gray blazer and has long brownish black hair with a side pony tail. The man, who is facing away from the camera has black hair and is wearing a light blue button up. In the background are large windows showing bright light and trees.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.becu.org/-/media/Images/heroes-page-promos/blog-articles/2024/Credit-and-Debt/Blog_Credit-and-Debt_How-To-Use-Secured-Credit-Cards-To-Build-Credit_Promo.jpg?rev=6eb2f221486e43a4a38e817ecafcbcb5&v=638423316220000000",
+          "alt": "A woman is smiling and handing her card to pay her bill at a restaurant. In front of her is a card reader and a figure's hand reaching for her card. In the background are two women talking. The background is a restaurant setting with a bar in the back.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.becu.org/-/media/Images/heroes-page-promos/blog-articles/2022/Everyday-Finance/Blog_Everyday-Finance_Why-Did-My-Credit-Score-Drop-Promo.jpg?rev=fafaa50f572b43a4ace5cca755b2a7e3&v=638054520430000000",
+          "alt": "Illustration of a credit score gauge. A person is sweating from the effort of pulling on the indicator needle, like it's a lever, to move their credit score up.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.becu.org/-/media/Images/heroes-page-promos/blog-articles/2023/Everyday-Finance/CDs-vs-Savings-Accounts/Blog_Everyday-Finance_CDs-vs-Savings-Accounts_Promo.jpg?rev=682a3f523b10458299c6f7b7f83671ad&v=638149330530000000",
+          "alt": "Three people on a kayak in a lake. A man wearing a red life vest in the back, a boy wearing a red life vest in the middle and a boy wearing a yellow life vest in the front. They are holding paddles and smiling at the camera.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 19,
+      "domain": "nationaldebtrelief.com",
+      "url": "https://www.nationaldebtrelief.com/blog/financial-wellness/budgeting/how-to-survive-inflation-smart-strategies-for-tough-times/",
+      "title": "How to Survive Inflation: Smart Strategies for Tough Times",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.nationaldebtrelief.com/wp-content/uploads/2025/03/Payment-Deferral-Explained-A-Comprehensive-Guide-for-Homeowners-v04-1024x683.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.nationaldebtrelief.com/wp-content/uploads/2025/03/IMG_0980-002-150x150.jpg",
+          "alt": "Lorraine Roberte",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.nationaldebtrelief.com/wp-content/uploads/2025/03/IMG_0980-002-300x300.jpg",
+          "alt": "Lorraine Roberte",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    }
+  ],
+  "battle_plan_generated_at": "2026-04-26T10:44:20.697293+00:00",
+  "competitors_analyzed_count": 9,
+  "battle_plan_method": "local_deterministic_agent_no_api"
+}

@@ -1,0 +1,646 @@
+{
+  "article_context": {
+    "angle": "Psychological tricks and gamification for saving",
+    "pain_points": [
+      "Living paycheck to paycheck despite decent income",
+      "Difficulty tracking spending and lack of financial awareness",
+      "Fear/anxiety around using saved money",
+      "Impulse spending and temptation"
+    ],
+    "top_social_questions": [
+      "How do I start budgeting and track my spending effectively?",
+      "What practical methods can help me save money?",
+      "How should I allocate my existing savings?"
+    ],
+    "dominant_emotion": "Relief and pride from reaching savings milestones",
+    "serp_intent": "Searchers for \"how to save 40 000 in a year\" want actionable, aggressive strategies to accumulate a substantial sum quickly through budgeting, expense reduction, side income, and structured plans like challenges, often assuming a moderate income and focusing on lifestyle changes. The SERP intent is informational, delivering guides, calculators, real-life examples, and step-by-step timelines emphasizing discipline and realistic math to hit annual targets without relying heavily on investments.",
+    "serp_title_pool": {
+      "primary": [
+        "I want to save 40k this year. How can I do it? : r/Frugal",
+        "Save Money Calculator",
+        "How to craft a life on $40000/yr",
+        "How I went from $0 to $40000 in savings in Less than a Year",
+        "10 ways to start saving money - Vanguard",
+        "How Budgeting Is Helping One Man Save $40000 This Year",
+        "How to Save $40000 | My Finance Empire",
+        "Savings calculator | Calculate interest on savings & goals",
+        "In the US, how do you save when you only make $40k per ...",
+        "How much you need to save to earn $40000 a year in interest",
+        "Exactly How You Can Save $10K This Year On A $40K Salary",
+        "If you're making $40,000 per year, this is how much money ... - TikTok",
+        "Savings Goal Calculator: Know How Much to Save Per Month",
+        "40k in 52 Weeks Savings Tracker Printable File, Save 40,000 ... - Etsy",
+        "How Budgeting Is Helping One Man Save $40,000 This Year",
+        "So this is how much money I'd keep in my bank accounts if I were ...",
+        "How can I save $40000 per year from my salary when I earn $80000?",
+        "How Much Money to Have Making $40,000 Income - YouTube",
+        "How to Invest $40,000: 7 Smart Investments - SmartAsset"
+      ],
+      "long_tail": [
+        "52-week money challenge guide - Fidelity Investments",
+        "Savings Goal Calculator | Investor.gov",
+        "Year Savings Plan - Pinterest",
+        "Creating a One-Year Savings Plan - SoFi",
+        "Short-term, Midterm and Long-term Savings Goals - Citizens Bank",
+        "Savings Plan Calculator",
+        "How the 52-week savings challenge can help you ... - Yahoo Finance",
+        "[PDF] Setting Savings Goals & Creating a Savings Plan",
+        "Compound Savings Calculator - Office of Financial Readiness"
+      ],
+      "question": [
+        "I'm 25 and I want to earn more on my savings. - Reddit",
+        "How a savings account can earn you money - Chase Bank",
+        "What is a savings account, and how does it work? - Citizens Bank",
+        "7 Low-Risk Ways To Earn More Interest On Your Money | Bankrate",
+        "7 Ways to Earn More Money on Your Savings - Experian",
+        "7 Ways to Grow Your Savings - Vectra Bank",
+        "Save and Invest | MyMoney.gov",
+        "The Basics of High Yield Savings Accounts - American Express",
+        "Best High-Yield Savings Accounts of April 2026: Earn up to 5.00%",
+        "Tips for making extra cash with a high-yield savings account"
+      ]
+    },
+    "paa_questions": [],
+    "related_searches": []
+  },
+  "primary_keyword": "how to save 40 000 in a year",
+  "competitors": [
+    {
+      "rank": 1,
+      "domain": "reddit.com",
+      "url": "https://www.reddit.com/r/Frugal/comments/1aiqyi1/i_make_110k_a_year_i_want_to_save_40k_this_year/",
+      "title": "I want to save 40k this year. How can I do it? : r/Frugal",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 2,
+      "domain": "bankrate.com",
+      "url": "https://www.bankrate.com/banking/savings/save-money-calculator/",
+      "title": "Save Money Calculator",
+      "word_count": 19,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.bankrate.com/f/102997/912x513/7126ed7325/how-to-save-money-easy-tips.svg",
+        "alt": "Two children playing on a living room floor with their parent sitting on the floor beside them working on a laptop computer.",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.bankrate.com/f/102997/912x513/517d0e311e/6-tips-to-set-and-hit-your-savings-goals.svg",
+          "alt": "Side view of man running on the street past an old garage door.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.bankrate.com/f/102997/912x513/5454b0fbcd/how-to-start-saving3.png",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "How to save money: 14 easy tips 6 tips to set (and hit) your savings goals Best savings accounts",
+      "headings": []
+    },
+    {
+      "rank": 3,
+      "domain": "petetheplanner.com",
+      "url": "https://www.petetheplanner.com/blog/craft-life-40000yr",
+      "title": "How to craft a life on $40000/yr",
+      "word_count": 1918,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://cdn.prod.website-files.com/65296bdb65804c624f21970d/6543ea6f5d6f5f67a88d2967_PTP%20logo_svgexport-yellow.svg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://cdn.prod.website-files.com/65296bdb65804c624f21976b/6584515c913bac63757602a3_40000salary.jpeg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/65296bdb65804c624f21976b/6543c7582a5f4330a4bd7d8d_IDEAL-BUDGET.jpeg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/65296bdb65804c624f21970d/6543eb7e5d6f5f67a88e32f2_twitter.svg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/65296bdb65804c624f21970d/6543eb7e7b2c009caeaa0ccf_facebook.svg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/65296bdb65804c624f21970d/6543eb7e77dedf7a9091b7ae_linkedin.svg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/65296bdb65804c624f21970d/6543eb7ed1175a1639dd1dd1_youtube.svg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "You can have a great life on a $40,000/yr household income. Great, as you likely know, is a relative term. My goal is to show you what kind of great you can achieve on $40,000/yr without misrepresenting the truth. Candy-coating your financial reality is always a mistake, and at the $40,000/yr household level, it can lead to a miserable disaster. At the beginning of my career, our household income was$40,000/yr. And no, it wasn't THAT long ago. My wife and I had one choice, craft a financial life on $40,000/yr. That's what you have to do. The weird thing for me is that when I meet people who earn $40,000/yr, or any other income for that matter, they often try to ignore that reality. I think I know why. People don't know the difference between crafting a financial life and ignoring an income. I don't know why you make $40,000/yr. It could be on your way up to a much higher number. It might be on the way down from a much higher number. You may only earn $40,000/yr this year, or it might be your income for the next several decades. No matter your reality, I simply don't care. This isn't me being callous. That looks and feels different. Instead, you need to know spending time trying to justify your $40,000/yr income, is a waste of time, opportunity, and logic. There are certain financial realities that exist at a $40,000/yr household income level. You will likely have a number of friends who earn more money than you do. Naturally, this will lead you to want to live their lifestyle, not yours. If you have significant debt (student loans or other forms), your lifestyle will not be what you think it should be. Homeownership will be a challenge. It won't be impossible, but it won't be close to ideal either. Here's why - if you can't afford to fix the house you live-in, you can't afford to own that house. To be able to save for the future, maintain a lifestyle, and build an emergency fund on $40,000/yr, you have to be one of the most financially disciplined individuals I've ever met. The lifestyle you see depicted in TV commercials, isn't currently for you. You can get mad at me for writing that, or you can email me a a note of thanks for being the first person to be honest with you. Popular culture has this way of making you feel like you must live the life you see on television. You expect to live the same lifestyle as the characters you've seen on TV your whole life. Short of Sanford and Son and Roseanne, name another show in which the TV family wasn't living a pretty darn good financial life. Every car commercial which shows a brand new car careening along the Autobahn, that's not for you. The new 4k curved TV, which you see on TV, it's not for you either. Yes, this sucks. But if you ignore this reality, try and alter your reality, then your true reality will NEVER change. You will never be in a position to build a sustainable healthy life on $40,000/yr, if you lie to yourself by adopting an unsustainable lifestyle You have to stay under control. Your overarching goal at this income level is resourcefulness. Below, I'm going to illustrate the financial life of someone who might now be living your life. As you read through it, focus on \"adjusting the pie.\" In other words, maybe you have day care expenses, or loans or whatever. If you do, you have to carve those alternate expenses from the pie. You have no other choice. It might mean you can spend less on housing, transportation, or even the holidays. If you grew-up in a household in which the household income was significantly higher than $40,000/yr, you're going to be tempted to try and maintain the standard of living you grew up with. I see this all the time, and it can be brutal. And your family doesn't exactly do you a favor when they hold you to that same standard. We need a set of assumptions here. Here they are: You're 30 years old You're single, not quite ready to mingle You have two cats You don't live in one of the crazy expensive cities like NYC or SF. For state tax purposes, you're a Texan. Moo moo, buckaroo. Based on information on average annual health insurances expenses, I'm setting healthcare cost at $250/month. These premiums are not taxable, in our example. I'm not going to assume your income increases. Let's work with what you have now. Pay increases will hopefully serve you well, but I'm not basing your plan on pay increases. I'm not including employer 401k deposits (matches) in my calculations. I don't know what your employer's match policy is, or if they have a match at all. I don't know how long you're going to be at this income level, and frankly, neither do you. You may think you're going to increase your income based on some sort of master plan, but that plan may or may not be ridiculous Your before-tax monthly income prior to any retirement plan contributions or benefit deductions is $3,333.33. We need to decide how much of this should be set-aside for future use. Your income must serve not only your present lifestyle, but also your past if you have debt, and of course your future. At some point in time, likely when you're around 67, your work income will end. You then have to figure-out how to survive financially for the next couple of decades. Have you ever thought of it that way? The problem is that if you wait to solve the problem until it's right in your face, there's no actual solution. The solution starts now. You must prepare for your future, and a 401k is a great place to start. If you were earning $100,000/yr or more, I would implore you to defer $18,000/yr toward your future, because that's how much you can contribute when you're 49 years old or younger. The IRS controls the limits, and it behooves you to take advantage of whatever the IRS lets you take advantage of. Maxing-out your 401k ($18,000 contribution) isn't practical when you earn $40,000yr. However, that doesn't mean you should ignore the need to save for the future. I'm going to set the first option at a 10 percent 401k contribution I'm going to run through three different spending plans. The plans are different based on how much you save for the future, via your employer sponsored retirement plan (401k). That money not only is saved prior to hitting your checking account, but you get to deduct that income from your taxable income. That's a REALLY good thing. Not to get to deep into the weeds here, but if you'd rather put money into a Roth 401k, have at it. You can't deduct the contributions from your taxes now, but you may have better tax advantages at withdrawal. I have a blog post coming soon on the differences between Roth and traditional. Stay tuned. Ten percent contributions to your 401k $2,006.98 take-home pay $333/month 401k contribution Projected 401k balance from age 30-67 $904,561 Broken down, here's how you'd spend your money: $501 for Rent or Mortgage (includes principal, interest, property taxes, and taxes) $300 for Transportation (includes car payment(s), fuel, insurance, maintenance $240 for Groceries and Dining-out $200 for Emergency Fund of Mid-Term Savings (includes college savings) $200 for Utilities (includes EVERYTHING) $100 for Community/Charity $100 for Clothing $100 for Entertainment $100 for Medical $100 for Holidays and Gifts $60 for Miscellaneous. If you live THIS financial life, you will legitimately do as well as possible on $40,000/yr. I can't promise you that, you know, because obviously. But this is a beautiful and flexible financial life. Don't have that high of transportation costs? Cool. Adjust the pie. Spend more on housing? Fine. Adjust the pie. Eat too much pie? Okay, man. Adjust the pie. It's not terribly hard. The key to making this life work is to keep transportation costs lower than $300/month. Five percent contribution to your 401k $2,173.65 take-home pay $166/month 401k contribution Projected 401k balance from age 30-67 $450,922 Broken down, here's how you'd spend your money: $543 for Rent or Mortgage (includes principal, interest, property taxes, and taxes) $325 for Transportation (includes car payment(s), fuel, insurance, maintenance $260 for Groceries and Dining-out $217 for Emergency Fund of Mid-Term Savings (includes college savings) $217 for Utilities (includes EVERYTHING) $108 for Community/Charity $108 for Clothing $108 for Entertainment $108 for Medical $108 for Holidays and Gifts $65 for Miscellaneous. This is probably the most common financial life I see at the $40,000/yr level. My primary issue with this life is that you will have set aside less than $500,000 for retirement when it's all said and done, and that $500k will do next to nothing to create a sustainable retirement income stream. No contribution to your 401k $2,340 take-home pay $0/month 401k contribution Projected 401k balance from age 30-67 Goose Egg Broken down, here's how you'd spend your money: $585 for Rent or Mortgage (includes principal, interest, property taxes, and taxes) $351 for Transportation (includes car payment(s), fuel, insurance, maintenance $280 for Groceries and Dining-out $234 for Emergency Fund of Mid-Term Savings (includes college savings) $234 for Utilities (includes EVERYTHING) $117 for Community/Charity $117 for Clothing $337 for Entertainment $117 for Medical $117 for Holidays and Gifts $70 for Miscellaneous. Please don't do this. It's incredibly short-sided. You are completely ignoring your future. It's borderline childish. What to do now I have no idea how you're going to react to this post. Maybe it motivates you. Maybe it pisses you off. Or maybe it makes you feel like I felt when I didn't get cast on a financial television show because I \"wasn't attractive enough\". Was I attractive enough to be on the show? No. Did that hurt my feelings? Not after about 10 minutes. Did it change who I was or what I needed to do next? Not really. It really just made me want to work harder and control all the things I can control. Your $40,000/yr household income is just your current reality. It is not necessarily your destiny going forward. If you can master your current life on $40,000/yr, then you will be in a great position to make great decision when your income increases. If the numbers I just shared with you don't work for you, then do something about it. Get a second gig. Just make sure your second income doesn't increase your lifestyle even more. Because when that second gig goes away, life will be hell. As evidenced by the \"10 percent contribution to 401k\" life, you can still become a millionaire on a $40,000/yr income, especially if you get money flowing toward retirement prior to age 30. The absolute bottom line is this: Life on a $40,000/yr income only gets ugly when you make bad financial decisions. Need additional help? Check out the Your Money Life series. Thanks again to Phil Schuman from IU MoneySmarts for the paycheck calculator. I owe you lunch, Phil. Step up your financial wellness game. Stay up-to-date with the latest in employee wellbeing from the desk of Pete the Planner\u00ae. to the monthly newsletter to get industry insights and proven strategies on how to be the wellness champion your team wants you to be.",
+      "headings": []
+    },
+    {
+      "rank": 4,
+      "domain": "youtube.com",
+      "url": "https://www.youtube.com/watch?v=Ct6vte00gXA",
+      "title": "How I went from $0 to $40000 in savings in Less than a Year",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 5,
+      "domain": "investor.vanguard.com",
+      "url": "https://investor.vanguard.com/investor-resources-education/article/how-to-save",
+      "title": "10 ways to start saving money - Vanguard",
+      "word_count": 2479,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://investor.vanguard.com/content/dam/retail/digital/en/photos/gi1471614837-man-smiling-vee-shape-red-pattern.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://investor.vanguard.com/content/retail/public/us/en/investor-resources-education/article/how-to-save/_jcr_content/root/container_universalTemplate/container/container_260668011/image.coreimg.svg/1758549088241/vgbrdcill23-006-rgb-objects-on-table-top-revcoinscolors.svg",
+          "alt": "The view is looking down on top of a desk at items. There is a clipboard with a checklist in the center, a notebook and a cup of coffee to the left, and two pens, a red smartphone, and earbuds on the right. Four gold coins appear scattered across the desk, too.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://investor.vanguard.com/content/retail/public/us/en/investor-resources-education/article/how-to-save/_jcr_content/root/container_universalTemplate/container/container_1136512376/image.coreimg.svg/1758549059924/vgbrdill22-033-rgb-revcoincolors.svg",
+          "alt": "An illustration demonstrating a man reaching a milestone by lifting a flag and holding a large gold coin.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://investor.vanguard.com/content/retail/public/us/en/investor-resources-education/article/how-to-save/_jcr_content/root/container_universalTemplate/container/container_127071846/image.coreimg.svg/1758647000474/vg20250912-50-30-20-budget-chart-coins.svg",
+          "alt": "Three stacks of coins, showing the tallest on the left and the smallest on the right, demonstrate the 50/30/20 rule. The tallest stack is labeled \"50% necessities. The middle stack is titled \"30% discretionary\" and the smallest stack is titled \"20% savings.\"",
+          "description": "Data visualization or financial chart graphic.",
+          "type": "graphic_design_data"
+        },
+        {
+          "url": "https://investor.vanguard.com/content/retail/public/us/en/investor-resources-education/article/how-to-save/_jcr_content/root/container_universalTemplate/container/container_127071846/image_652049756.coreimg.svg/1758647239796/vg20250912-50-30-20-budget-chart-coins.svg",
+          "alt": "Three stacks of coins, showing the tallest on the left and the smallest on the right, demonstrate the 50/30/20 rule. The tallest stack is labeled \"50% necessities. The middle stack is titled \"30% discretionary\" and the smallest stack is titled \"20% savings.\"",
+          "description": "Data visualization or financial chart graphic.",
+          "type": "graphic_design_data"
+        },
+        {
+          "url": "https://investor.vanguard.com/content/retail/public/us/en/investor-resources-education/article/how-to-save/_jcr_content/root/container_universalTemplate/container/container_1183166994/image.coreimg.svg/1758549134114/vgbrdill21-020-rgb-revcoinicon.svg",
+          "alt": "An illustration shows a woman holding an exaggeratedly large gold coin in one arm and a cellphone in the other which has a speech bubble with multiple icons coming out of it demonstrating app usage.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://investor.vanguard.com/content/retail/public/us/en/investor-resources-education/article/how-to-save/_jcr_content/root/container_universalTemplate/container/container_240603158/image.coreimg.svg/1758549175539/vgbrdill22-027-rgb-trnsp-revcoins.svg",
+          "alt": "A wallet with credit cards and gold coins peppered around it.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://investor.vanguard.com/content/retail/public/us/en/investor-resources-education/article/how-to-save/_jcr_content/root/container_universalTemplate/container/container_146760456/image.coreimg.svg/1758404630831/vg20250912-two-people-holding-flowers-coins.svg",
+          "alt": "Two people hold a planter box with two flowers that look like sprouting coins coming up, representing savings.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://investor.vanguard.com/content/retail/public/us/en/investor-resources-education/article/how-to-save/_jcr_content/root/container_universalTemplate/container/container_925113735/image.coreimg.svg/1758407489137/vg20250912-person-standing-mobile-phone-charts-coin.svg",
+          "alt": "An illustration of a man standing before a cellphone as large as him, looking at various graphs and charts, representing investing performance.",
+          "description": "Data visualization or financial chart graphic.",
+          "type": "graphic_design_data"
+        }
+      ],
+      "body_text": "Want to learn how to save money and reach your financial goals? Discover 10 practical tips to cut expenses, grow your savings, and feel confident about your finances. Save loading... Email Print Save loading... Email Print Everyone knows they should save more money. But figuring out how to save money is often easier said than done. There are so many rules and methods about the best way to do it that it can easily get overwhelming. Sometimes, the hardest thing is just getting started. Here are 10 ways to save money, so you can jump-start your savings and get closer to your goals. Key takeaways Track your spending to understand where your money goes and how you can save more. Set specific savings goals with timelines to stay motivated and measure progress. Automate transfers to savings and retirement accounts to build consistent financial habits. Cut costs by meal planning, canceling unused subscriptions, and avoiding impulse purchases. Use budgeting strategies like the 50/30/20 rule to prioritize saving as a fixed expense. Grow your savings through high-yield accounts for short-term needs and diversified investments for long-term goals. 1. Track your spending and expenses The first step to start saving money is tracking your spending and expenses. It's hard to know how you can save money if you don't know where your money is going. By tracking your spending and expenses, you can easily see what categories you're spending in and where you could cut back. Budgeting doesn't have to be hard or time-consuming if you use these tips. Use budgeting apps or spreadsheets to track expenses Your budgeting could be as easy as using a spreadsheet, with income in one column and spending in another. Each time you get paid, make a purchase, or pay a bill, log it in the appropriate place. Some budgeting apps can automatically pull information from your bank account and credit cards, giving you a clear view of all your spending activity in one place. Categorize expenses to identify areas where you can cut back After tracking your spending for a month, you can categorize your expenses to gain valuable insights into your spending habits. How much money do you spend dining out? How much do you spend on streaming services? This allows you to identify areas where you might be overspending so you can adjust your budget. Review your spending regularly to stay accountable and adjust Budgeting is never a one-and-done task. It's an ongoing process that changes as your life circumstances change. Let's say you started your budgeting journey when your main goal was to get out of debt. Once you've achieved that goal, your budget should reflect it. You can then prioritize a new goal or allocate a higher dollar amount to saving and investing. 2. Set savings goals Saving money without a clear purpose makes it hard to stay on track and measure progress. By assigning specific goals to your savings, you create a tangible target to work toward. Realistic, achievable goals will keep you motivated and make saving money a more rewarding experience. Consider your short-term, mid-term, and long-term savings goals Because life is a balance between short-, mid-, and long-term goals, it's helpful to categorize your savings accordingly. By structuring your savings this way, you can also use the most appropriate investment strategy for each time frame. Short-term (1\u20133 years). How much should you have in short-term savings ? Start by building up an emergency fund of 3\u20136 months of living expenses. Keep 2 weeks of expenses or $2,000, whichever is greater, in cash for unexpected expenses like a medical emergency or major repair. Consider investing the rest in a brokerage account or Roth IRA. 1 But note that Roth IRAs come with contribution limits, income limitations, and only contributions can be withdrawn tax and penalty free. Once your emergency fund is fully funded, you can focus on other short-term savings goals and investing goals , such as upcoming vacations, new furniture, or electronics. Mid-term (4\u201310 years). For goals like a home down payment or starting a business, consider a moderately aggressive mix of stocks and bonds that can help you potentially grow your money faster. Long-term (more than 10 years). Long-term goals include retirement, college, and legacy planning. You can maximize growth potential with a higher equity allocation. Set realistic deadlines for your savings goals Just as it's important to set realistic, achievable goals, it's also important to set realistic deadlines for those goals. When setting a target date, work backward to determine how much you need to save per month to hit your goals. For example, if you're planning next year's vacation and think it'll cost $8,000, break it up into 12 monthly installments of $667. Break down larger goals into smaller milestones to track progress Some goals might feel so big that you may find it hard to stay motivated along the way. Break down these goals into incremental milestones along the way and celebrate when you hit them. If you're saving for a $30,000 down payment on a house, celebrate your wins and treat yourself when you hit the $5,000, $10,000, and $20,000 marks. Write down your goals and keep them somewhere visible to stay motivated The physical act of writing out your savings goals can help increase the odds you'll achieve them. Posting them somewhere visible can serve as a constant reminder of what you're working toward. Whether it's on your fridge or bathroom mirror, having your goals front and center makes them hard to ignore. 3. Determine how much to save each month Without a specific amount in mind, it's easy for savings to become an afterthought. But how much of your paycheck should you save? One classic rule of thumb is to save 10%\u201320% of your net monthly income. For example, if you take home $3,000 a month, that would mean saving $300 to $600 each month. But your ideal savings amount can vary based on your goals, timeline, and current financial situation. If you live in an expensive city, rent and groceries may eat up a big piece of your paycheck, making it difficult to hit the 20% mark. Don't get discouraged. The important thing is to start saving, no matter how little, and build on your successes. Subtract your monthly expenses from your income to calculate how much you can save To determine how much you can save, start by listing your essential monthly expenses like your housing payment, utilities, groceries, transportation, debts, and insurance. Then deduct the total from your take-home pay. The remaining amount is what you can potentially save each month. From there, figure out how much to allocate to your different goals. Aim to save at least 20% of your income If you're not a fan of complicated budgeting, consider the 50/30/20 rule, which simplifies the budgeting process. It works like this: Spend no more than 50% of your income on necessities, such as your rent or mortgage, utilities, groceries, and debt obligations. Less than 30% of your income should go to discretionary spending\u2014that's the fun stuff, like dining out, entertainment, or hobbies. Dedicate at least 20% of your income to saving, both for retirement and shorter-term goals like vacations, a down payment, and emergency savings. Let's say your monthly after-tax income is $8,000. Following the 50/30/20 rule, $4,000 would go to fixed expenses, $2,400 for things you want, and $1,600 for savings. That's potentially saving $19,200 in one year. Calculate how much you need to save per month to reach your goals Start by determining how much you need to save for a specific goal. Then divide that dollar amount by the deadline you've given yourself. For example, if you need $40,000 for a down payment on a home in 4 years (48 months), you'll need to save approximately $833 per month ($40,000/48). 4. Make a budget Budgeting gets a bad rap, but it's an indispensable tool that can help you see how you can save money and where to trim to make it possible. There are many budgeting strategies out there. Experiment with different approaches until you find the right system that works for your lifestyle and personality. Include savings in your budget as nonnegotiable Prioritizing savings from the start makes it a nonnegotiable habit. Rather than trying to save what's left over after expenses, treat savings like any other monthly \"bill.\" When creating your budget, make a line item for savings that'll automatically contribute toward your savings goals each month, the same way you account for paying rent and buying groceries. Try a zero-based budget With zero-based budgeting, your total income for the month minus expenses should equal zero. In other words, all your income should be accounted for, going either toward expenses, debt, investments, or savings. Start with small changes and adjust periodically Making progress on saving doesn't have to entail major restrictions on your spending. Even small changes can have big results. For instance, if you packed your lunch from home just a few times a week, you could free up hundreds of dollars each month that you could direct toward savings. Other ways to save include canceling subscriptions you never use, swapping a pricey gym membership for a home setup, or using the library instead of buying books. Make sure to track how much money you're saving with these small changes so you can see how quickly they add up. 5. Reduce your spending One of the easiest ways to save more money is to cut back on your current spending. Every dollar you don't spend is a dollar you can save. Consider some of these ways to free up money for savings. Start meal planning While inflation has impacted all areas of your budget, food prices have risen much more than other categories\u201422% between July 2021 and July 2025. 2 One of the most effective strategies for saving money on groceries is meal planning. It helps reduce last-minute takeout orders and impulse grocery buys by giving you a weekly road map of your meals. To save time and money, try cooking larger meals so you can pack the leftovers for lunches. You can also shop with a list based on your meal plan to avoid buying items you don't need. Finally, limit dining out to preplanned treats, not everyday splurges. Review subscriptions, utilities, and other monthly expenses Recurring monthly expenses are easy to overlook, but they add up. In fact, consumers underestimate by $133 a month how much they're spending on subscriptions, a recent study found. 3 Each year, do a full audit of your streaming services, gym memberships, software licenses, and other subscription services. Cancel any you aren't actively using or no longer need. Also, call your utility and mobile phone companies to try and negotiate better rates. These companies may be willing to give you a better deal to keep your business\u2014but you'll only find out if you ask. While you're reviewing your bills, it's also a great time to look for ways to save money on your electric bill\u2014like turning off lights when you leave a room, unplugging devices you're not using, and switching to energy-efficient appliances or smart plugs to cut down on phantom energy use. Avoid impulse shopping with the 30-day rule Impulse purchases provide short-term gratification but little long-term joy. They can also put a hole in your budget. Before any nonessential purchase, impose a 30-day waiting period on yourself. If after 30 days you still want the item, buy it. More likely, you'll lose interest. 6. Review your debt Is it better to pay off debt or save? While saving for the future is important, it often makes more sense to tackle high-interest debt first. Credit card balances and personal loans can act like anchors, slowing down your financial progress. By paying off those balances, you free up money that would otherwise go toward interest and fees\u2014money that could be working for you in savings instead. Learning how to manage debt can help you strike the right balance between saving and paying down what you owe. Pay off high-interest credit card debt Today's credit card interest rates can often be as high as 20%\u201325%, causing balances to rapidly accumulate interest, making it increasingly difficult to pay off debt. Prioritize repayment so you can reallocate funds toward savings sooner. Consider paying off your debts with these approaches: Snowball method: Pay minimums on everything except the smallest balance of debt. Attack that debt aggressively until it's paid off, and then roll those payments to the next lowest balance. Avalanche method: Make minimum payments on everything, but pay down additional amounts on a debt with the highest interest rate. When that's paid off, do that with the second-highest interest rate, and so on. Refinance your mortgage While mortgage rates have risen substantially in recent years, it's still important to periodically review whether refinancing makes sense. If your existing mortgage is well above current rates, refinancing may save you thousands of dollars over the remaining life of the loan. But if rates aren't significantly lower than your current mortgage, you're unlikely to realize any substantial savings to justify the closing costs of a refi. The key is to check rates regularly in case they fall. 7. Automate your savings One of the most effective ways to ensure you consistently save is to adopt a \"pay yourself first\" mentality. Before the money ever hits your checking account, set up recurring transfers into your savings, investment accounts, retirement, and emergency savings. By removing the temptation to spend it, you'll quickly adapt to living off the remaining funds without noticing the savings contribution. Set up recurring transfers to your savings account on payday Configure your bank accounts to sweep money automatically from your checking account into a dedicated savings account each time you get paid. Treating these savings transfers as a recurring bill you owe to yourself makes it nonnegotiable. Take advantage of employer-sponsored retirement plans with automatic payroll deductions Signing up for your company's 401(k), 403(b), or other retirement plan allows you to automatically funnel money directly from your paycheck into your investments. If you use tax-deductible accounts, you can reduce your taxable income for the year in addition to building your savings. Contribute at least enough to get your employer's match. You can also boost your retirement savings by opening an IRA. It's a great way to save more on top of your workplace plan. IRAs come in two main types\u2014traditional and Roth\u2014and each offers different tax benefits. And while there are key differences between IRAs and 401(k)s , both can help balance your retirement strategy and give you more flexibility for the future. Consider using a Health Saving Account or Flexible Spending Account If you have a high-deductible health insurance plan, you may be eligible for a Health Savings Account (HSA), which allows you to make ta",
+      "headings": []
+    },
+    {
+      "rank": 6,
+      "domain": "ramseysolutions.com",
+      "url": "https://www.ramseysolutions.com/budgeting/how-one-man-is-saving-40000-this-year?srsltid=AfmBOooxd8YkRsX9bI7eIUqzoIWWRBPdmEEg8lHaZf_W1yWAE9n7MCnU",
+      "title": "How Budgeting Is Helping One Man Save $40000 This Year",
+      "word_count": 890,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://rs-cdn-ramseysolutions.s3.amazonaws.com/daveramsey.com/media/b2c/every_dollar/ai-pinterest/chris-arnold-testimony.jpg",
+        "alt": "",
+        "description": "Professional studio portrait or clean financial graphic with bold branding.",
+        "type": "branded_studio_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://cdn2.ramseysolutions.net/dynamic/media/landing-pages/blog/author-bio-ramsey-large.jpg/48w.jpg",
+          "alt": "Ramsey Solutions",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.ramseysolutions.net/media/3_way_universal/blog/inline-icons/personal-development.png",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn2.ramseysolutions.net/dynamic/media/landing-pages/blog/author-bio-ramsey-large.jpg/120w.jpg",
+          "alt": "Ramsey Solutions",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.ramseysolutions.net/media/blog/article-template/ask-ramsey-header.svg",
+          "alt": "Ask Ramsey",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.ramseysolutions.net/media/rscom/logos/flat-blue-50-ramsey-logo.svg",
+          "alt": "Ramsey Solutions",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "4 MIN READ | MAY 1, 2023 Link copied! Unable to copy link. Please try again. \u201cI didn\u2019t know what budgeting was. I never learned about money growing up. I didn\u2019t even know how to read a bank statement.\u201d That\u2019s where his story began. Fast-forward to today. Now Chris not only knows how to budget his money (and, yes, read a bank statement), but he\u2019s also kind of a budgeting ninja. \u201cI saved $30,000,\u201d Chris said. The most impressive part? It only took him one year! And now he\u2019s setting out to break his own record. Chris originally set a goal to save another $30,000 this year so he could put a down payment on a house. But now he\u2019s discovered he\u2019s probably going to hit the goal faster than he thought. \u201cI\u2019ll probably reach $20,000 by June or July,\u201d he said. \u201cSo I might be able to change my goal to $40,000.\u201d So how did this ordinary guy manage to turn his finances around so drastically? Simple. He started budgeting. \u201cI always thought budgeting was some tedious process of writing stuff down and keeping receipts,\u201d he said. \u201cBut once I learned what it actually meant, it just became so easy.\u201d Get expert money advice to reach your money goals faster! He hit his massive savings goal by committing to saving $1,500 a month for a full year. But on top of that, he found ways to trim his spending\u2014and even adjusted his budget throughout the month to reflect how much he was really spending in certain categories. If he wasn\u2019t going to spend the full amount he budgeted for groceries, he simply moved the extra money into savings. Before he knew it, he was on the fast track to saving more than ever. And EveryDollar made the whole process even easier. \u201cIt\u2019s so simple to use,\u201d he said. Now, instead of tracking his spending with paper receipts (and letting them stack up for three months), he just uses his EveryDollar app to keep a record of his purchases. \"I feel like I find extra money every month just by budgeting.\" Chris said creating a budget with EveryDollar each month has allowed him so much more freedom\u2014which is great. But it\u2019s also turned what would\u2019ve felt like emergencies into nothing more than minor speed bumps. \u201cThe other day, the check engine light in my car came on,\u201d he explained. \u201cI had to spend $474, and I didn\u2019t even have to go into my emergency fund to cover it.\u201d It\u2019s hard to believe this is the same person who worried about over-drafting his account just a few short years ago. \u201cI used to be the type of person who thought if I didn\u2019t look at my bank account, then money would just appear in it,\u201d he admitted. \u201cIt\u2019s like I was scared to see how I was using my money.\u201d But now that he has a budget in place and makes a plan for his money every month, he feels more responsible, less stressed and even excited about his future. \u201cNow, I feel like I find extra money every month just by budgeting,\u201d he said. \u201cAnd because I don\u2019t have any debt, it\u2019s improving my quality of life. I\u2019m not sending it to a bank. I like that.\u201d \u201cI don\u2019t think people realize little amounts add up. When Chris does find some extra cash, he moves it right into savings. For example, if he has $120 left in his restaurant budget and knows he\u2019s only going out to eat one more time before the month ends. \u201cI\u2019ll keep $50 in my restaurant budget and move the other $70 straight into my house fund. I make myself not spend that extra money. I move it into my savings that day.\u201d Those little savings have paid off. \u201cI don\u2019t think people realize little amounts add up,\u201d he said. If he could give just one piece of advice to people who aren\u2019t living on a budget, it would be to just give budgeting a try. \u201cI think when people think about budgeting, they think about accounting. Like you\u2019re just sitting there in an office with no windows,\u201d he said. \u201cBut be open to learning about it\u2014because it actually improves your life.\u201d He adds that it\u2019s also important to be patient. \u201cIt\u2019s going to take a month or two to get the hang of it. But it can literally change your life. You can quit being stressed about money\u2014and it\u2019s very easy.\u201d Set up a free EveryDollar budget and find extra money each month. It\u2019s easy to use and takes less than 10 minutes to get started! Get Weekly Insights Delivered Straight to Your Inbox Did you find this article helpful? Share it! About the author Ramsey Solutions has been committed to helping people regain control of their money, build wealth, grow their leadership skills, and enhance their lives through personal development since 1992. Millions of people have used our financial advice through 22 books (including 12 national bestsellers) published by Ramsey Press, as well as two syndicated radio shows and 10 podcasts, which have over 17 million weekly listeners. Learn More. Get proven Ramsey answers fast. By continuing on our site, you consent to our use of cookies and other tracking technologies as explained in our , and agree to our . and .",
+      "headings": []
+    },
+    {
+      "rank": 7,
+      "domain": "facebook.com",
+      "url": "https://www.facebook.com/my.finance.empire/videos/how-to-save-40000/702132405732825/",
+      "title": "How to Save $40000 | My Finance Empire",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://scontent.faae2-1.fna.fbcdn.net/v/t15.5256-10/497808519_557706154043933_2762934914119329707_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=a27664&_nc_ohc=ZAxMW2IUX6MQ7kNvwHhzBxm&_nc_oc=AdrfvAeyem5YPQkPeJmfy-qJid1XlKBYhOhVmKw0EBPVHggG28r26mthxFH15gx1ELE&_nc_zt=23&_nc_ht=scontent.faae2-1.fna&_nc_gid=T3s0YYj3NbkhsSZzSnVCUw&_nc_ss=7c20f&oh=00_Af0RWUeCv_CoHEPVM63pNZP80lhHwrJWIO0mPqS26wFJ8g&oe=69F276D0",
+        "alt": "121\u00a0K vues\u00a0\u00b7 881 r\u00e9actions | How to Save $40,000 | My Finance Empire",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 8,
+      "domain": "moneyhelper.org.uk",
+      "url": "https://www.moneyhelper.org.uk/en/savings/how-to-save/savings-calculator",
+      "title": "Savings calculator | Calculate interest on savings & goals",
+      "word_count": 0,
+      "scrape_status": "failed",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 9,
+      "domain": "quora.com",
+      "url": "https://www.quora.com/In-the-US-how-do-you-save-when-you-only-make-40k-per-year",
+      "title": "In the US, how do you save when you only make $40k per ...",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 10,
+      "domain": "cnbc.com",
+      "url": "https://www.cnbc.com/2020/02/21/how-much-you-need-to-save-to-earn-40000-a-year-in-interest.html",
+      "title": "How much you need to save to earn $40000 a year in interest",
+      "word_count": 265,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://image.cnbcfm.com/api/v1/image/106398439-1582133126874cnbcacorns_interestonly_general_thumb2.jpg?v=1582133162&w=1920&h=1080",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106419738-1583168063866iiyrsg_logo_horizontal_fc_433x80.png?v=1583168073&h=80",
+          "alt": "Invest in You: Ready. Set. Grow.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106303398-thumb4.jpg?v=1576698441&w=750&h=422&vtcrop=y",
+          "alt": "How to earn $40,000 in interest every year in retirement",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106848151-1614726199335-gettyimages-625872412-000110310813_Unapproved.jpeg?v=1693408401&w=600&h=300&vtcrop=y",
+          "alt": "Should you be worried about your money, your bank or the U.S. banking system? Experts weigh in",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107068212-1653661462402-gettyimages-1306582149-giof11197.jpeg?v=1678795201&w=600&h=300&vtcrop=y",
+          "alt": "Why you should buy everything with credit cards \u2014 provided you meet 1 condition",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107189022-1675459122099-gettyimages-1458681176-8dsc01925.jpeg?v=1691002354&w=600&h=300&vtcrop=y",
+          "alt": "Missing tax forms will 'definitely' delay your refund, expert warns. How to know which ones you need",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "Most Americans are confident they will be able to retire comfortably. A 2019 study by the Transamerica Center for Retirement Studies and the Aegon Center for Longevity and Retirement found that 63% of U.S. workers are confident that they will be able to fully retire and still live well. And if they plan to stop working in their 60s, that leaves a huge variable of how many years of retirement they will need to fund. An \"interest-only\" retirement plan removes one of the biggest fears about life after leaving your job: Will my money outlast me? Because if you can save enough now, you can fund your retirement by living off your returns without ever touching your nest egg. NerdWallet crunched the numbers, and we can tell you how much you need to save to get $40,000 every year in retirement, without taking a bite out of your principal. First, some ground rules. The numbers assume you will retire at 65 and have no money in savings now. For investing, we assume an annual 6% return when you are saving and a more conservative 3% rate for your interest-only retirement. We do not factor in inflation, taxes or any additional income you may get from Social Security and your 401(k). Check out this video to learn more. More from Invest in You: How much you can expect to get from Social Security if you make $40,000 a year The real 'Catch Me If You Can' con artist says this classic scam is making a comeback Disclosure: NBCUniversal and Comcast Ventures are investors in Acorns .",
+      "headings": []
+    },
+    {
+      "rank": 11,
+      "domain": "thefinancialdiet.com",
+      "url": "https://thefinancialdiet.com/exactly-how-you-can-save-10000-this-year-on-a-40k-salary/",
+      "title": "Exactly How You Can Save $10K This Year On A $40K Salary",
+      "word_count": 1013,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://staging.tfdiet.com/wp-content/uploads/2016/01/pexels-photo-22.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://s14354.pcdn.co/wp-content/uploads/2016/01/pexels-photo-22.jpg",
+          "alt": "pexels-photo (22)",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://s14354.pcdn.co/wp-content/uploads/2015/12/In-Post-Social-Banners_Facebook-02.png",
+          "alt": "In-Post Social Banners_Facebook-02",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://s14354.pcdn.co/wp-content/uploads/2021/09/mathilde-langevin-qzN7DgvoE1k-unsplash.jpg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://s14354.pcdn.co/wp-content/uploads/2021/09/brennan-ehrhardt-HALe2SmkWAI-unsplash.jpg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://s14354.pcdn.co/wp-content/uploads/2021/09/slava-keyzman-ZG4Y6lLPARw-unsplash.jpg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "Last week, while flying back to LA from the east coast, I made a spreadsheet-on-steroids for my 2016 budget. Because I do a lot of freelance work, my budget sheet is significantly more complicated than when I had a salary, benefits, and a parent company. I have a line for each client, and how much I bring in from them each month, and those numbers fluctuate. When I set a savings goal for the year, it\u2019s hard to know what would be a 100% realistic goal because, honestly, I\u2019m not entirely sure how much money I\u2019ll earn in 2016. As a result, I\u2019m well-practiced in the art of developing savings strategies based off projected earnings. In fact, last year, I quit my entry-level job and went freelance, but was still able to save very well. Here\u2019s a breakdown of how I would personally recommend saving about $10K if you make a salary that is around $40K/year. First, you need to calculate what your annual salary comes out to in a month: $3,333 After taxes, that is (approximately): $2,222 Of course, everyone\u2019s expenses are going to be different. If you live in New York City, you\u2019re paying a lot more in rent than if you\u2019re living in upstate New York. For argument\u2019s sake, I used my own expenses as a litmus test. My monthly expenses come out to about $1,450. Within this budget, I\u2019ve covered all my living expenses (including health insurance and car insurance), and built in $240/month for groceries and $150 of allotted \u201cfun\u201d money. Looking at my expenses versus the example income of $3,333, I can see \u2014 now more clearly than ever \u2014 how millennials in their first few post-grad years can end up in debt. When you\u2019re making roughly $2,200 after taxes, and your living costs come out to $1,500+, saving on top of that is extremely difficult. Even if you don\u2019t spend at all on socializing for a month, you would end up putting $700 away every month, which comes out to saving $8,400 for the year. And if we\u2019re being completely honest, I could easily spend that entire $700/month on social engagements. I never would, of course, but most of my friends who live in New York City pay more in rent than I do (I pay $750) and therefore only have about $500 left over after paying their living expenses. And it\u2019s not hard to spend $500 in a month going out in New York City. I wanted to do this breakdown based on $40K/year because I would say it is the mean income of those I graduated with (who are less than three years out of school and work predominantly in communications). In order to save $10K in a year, you have to save $833/month. If your expenses are anywhere close to mine, I would say the most you could save from that is $700. However, you aren\u2019t going to want to deprive yourself of occasionally going out and having fun. Realistically, saving $600 of your current incom e is (in my opinion) an attainable goal. That leaves $230 to come up with every month. First, see if you can cut your monthly expenses by about $70/month. It honestly depends on whether or not you want to make savings a priority. If you are currently paying about $300 in loan payments but want to make income-based payments, thus reducing your payments, you could end up paying under $100/month at the income bracket of $40K/year. This would give you $200 extra dollars per month, but it would also mean not getting ahead on loans with accruing interest. For me, I don\u2019t have loans and I cannot cut my health insurance (which is about $250). However, I called my car insurance company, and I can cut some of my bill with them. I can also be more thrifty when it comes to grocery shopping, and could likely get that number down to $200/month. googletag.cmd.push(function() { googletag.display('div-gpt-ad-1431288993256-1'); }); Then, aim to earn an additional $200/month in #sidehustle money that you can deposit directly into savings. If you can successfully cut your expenses by $70 and earn an additional $200, then you\u2019re actually bringing in more than your savings goal. Personally, I think that is best because then you aren\u2019t having periodic anxiety attacks about pinching pennies. Last year, I brought in about $60/week babysitting on top of my freelance income, which meant I was getting $240 in cash every month. I deposited it directly into my savings account without a second thought, and then I was already ahead of my savings goal. If your work offers overtime, that is another way to bring in the extra $200/month. All you need to do is promise yourself that $200 of your overtime money will go directly into savings. The last way you can meet a $10K savings goal is to save closer to $700/month, and then do a month of aggressive savings to bring you from $8,400 saved to $10K saved. Essentially, if you want to participate in a #nobuy challenge or not eat out for 30 days straight and drastically cut your expenses for a month, then you have the potential to throw a lot of extra savings into your account at once. If you come from a family who does birthday and holiday presents, you can also consider banking your gift money, which is what I did last year. In the last three years, I\u2019ve learned that saving $10K on an entry-level paycheck is incredibly hard. I have honestly never done it successfully. When I got my first post-grad full-time job (which paid less than $40K), my goal was to save $2K. While I stepped it up the next year, my point is that finding spare money in your budget is a daunting task. Whatever your savings goal for 2016 might be, hopefully this got you thinking about how you can achieve that goal. Are there other methods you\u2019ve used to meet a savings goal on an entry-level paycheck? Let us know in the comments. Image via Pexels",
+      "headings": []
+    },
+    {
+      "rank": 12,
+      "domain": "tiktok.com",
+      "url": "https://www.tiktok.com/@calltoleap/video/7395341028850486571",
+      "title": "If you're making $40,000 per year, this is how much money ... - TikTok",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 13,
+      "domain": "nerdwallet.com",
+      "url": "https://www.nerdwallet.com/finance/learn/savings-goal-calculator",
+      "title": "Savings Goal Calculator: Know How Much to Save Per Month",
+      "word_count": 694,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.nerdwallet.com/tachyon/2018/12/GettyImages-862152448.jpg?resize=2400%2C1440",
+        "alt": "",
+        "description": "Clean, minimalist custom illustration or high-quality object stock photo.",
+        "type": "minimalist_branded_asset"
+      },
+      "article_images": [
+        {
+          "url": "https://www.nerdwallet.com/assets/blog/wp-content/uploads/2026/01/Screenshot-2026-01-22-at-4.18.01-PM.png",
+          "alt": "CTA image",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.nerdwallet.com/assets/blog/wp-content/uploads/2019/08/lschwahn-user-avatar-160x160.jpg",
+          "alt": "Lauren Schwahn",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdns3.nerdwallet.com/lending/publication-logos/Marketwatch.webp",
+          "alt": "MarketWatch",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdns3.nerdwallet.com/lending/publication-logos/NASDAQ.webp",
+          "alt": "Nasdaq.com",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdns3.nerdwallet.com/lending/publication-logos/TheAssociatedPress.webp",
+          "alt": "The Associated Press",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdns3.nerdwallet.com/lending/publication-logos/TheNewYorkTimes.webp",
+          "alt": "The New York Times",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.nerdwallet.com/assets/blog/wp-content/uploads/2022/05/Barroso_Amanda_882-MuckRack-Ona30327-160x160.jpg",
+          "alt": "Amanda Barroso",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdns3.nerdwallet.com/lending/publication-logos/TheWashingtonPost.webp",
+          "alt": "The Washington Post",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdns3.nerdwallet.com/lending/publication-logos/YahooFinance.webp",
+          "alt": "Yahoo Finance",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "SOME CARD INFO MAY BE OUTDATED This page includes information about these cards, currently unavailable on NerdWallet. The information has been collected by NerdWallet and has not been provided or reviewed by the card issuer. document.addEventListener(\"DOMContentLoaded\",function(){const t=Array.from(document.querySelectorAll(\".out-of-date-message-flag\"));if(!t.length)return;const n=Array.from(new Set(t.map(e=>(e.getAttribute(\"data-name\")||\"\").trim()).filter(Boolean))).sort();if(!n.length)return;function a(e){return e.length===1?\"the \"+e[0]:e.length===2?\"the \"+e[0]+\" and the \"+e[1]:\"the \"+e.slice(0,-1).join(\", \")+\", and the \"+e[e.length-1]}const r=a(n),o=document.getElementById(\"oodm-text\");o&&(o.textContent=\"This page includes information about \"+r+\", currently unavailable on NerdWallet. The information about \"+r+\" has been collected by NerdWallet and has not been provided or reviewed by the card issuer.\")}); Tell us how much you want to put away and when you want to achieve your savings goal. We\u2019ll calculate how much to save each month. function d(o){try{const t=o.contentDocument;if(!t?.body)return;const n=t.defaultView?.getComputedStyle(t.body),e=parseInt(n?.marginTop||\"0\",10),r=parseInt(n?.marginBottom||\"0\",10),c=Math.max(t.body.scrollHeight+e+r,t.body.offsetHeight+e+r);c>0&&(o.style.height=`${c}px`)}catch{}}const h=document.querySelectorAll(\"[data-wp-embed-srcdoc]\");h.forEach(o=>{const t=o.querySelector(\"iframe\");if(!t)return;const n=()=>{d(t),t.contentDocument?.body&&new ResizeObserver(()=>d(t)).observe(t.contentDocument.body)};t.contentDocument?.readyState===\"complete\"?n():t.addEventListener(\"load\",n,{once:!0})});function f(o){const t=o.dataset.src;if(!t)return;const n=o.querySelector(\"[data-wp-embed-placeholder]\"),e=document.createElement(\"iframe\");e.setAttribute(\"scrolling\",\"no\"),e.setAttribute(\"title\",o.dataset.title||\"Embedded content\"),e.className=\"w-px min-w-full border-none\",e.style.display=\"none\";let r=!1;const c=()=>{r||(r=!0,clearTimeout(m),e.style.display=\"block\",n?.remove())},m=setTimeout(c,3e3),a=()=>{window.addEventListener(\"message\",i=>{if(i.source===e.contentWindow)try{const s=JSON.parse(i.data);s?.context===\"iframe.resize\"&&s.height&&(e.style.height=`${s.height}px`)}catch{}})};\"srcdoc\"in e&&t.includes(\"embeds.nerdwallet\")?fetch(t).then(i=>i.text()).then(i=>{const s=new DOMParser().parseFromString(i,\"text/html\");s.querySelector('meta[name=\"robots\"]')?.remove();const l=s.createElement(\"style\");l.textContent=\"html, body { height: auto !important; }\",s.head?.appendChild(l);const u=\" \"+s.documentElement.outerHTML;e.srcdoc=u,e.addEventListener(\"load\",()=>{d(e),c(),e.contentDocument?.body&&new ResizeObserver(()=>d(e)).observe(e.contentDocument.body)})}).catch(()=>{e.src=t,a(),e.addEventListener(\"load\",c)}):(e.src=t,a(),e.addEventListener(\"load\",c)),o.appendChild(e)}const y=document.querySelectorAll(\"[data-wp-embed]\");y.forEach(o=>{let t=!1;const n=()=>{t||(t=!0,f(o))},e=new IntersectionObserver(([r])=>{r.isIntersecting&&(e.disconnect(),n())},{rootMargin:\"500px\"});e.observe(o),o.addEventListener(\"mouseover\",n,{once:!0}),setTimeout(()=>{e.disconnect(),n()},4e3)}); Savings goal calculator key terms Savings goal : The total amount you want to save \u2014 whether it\u2019s for an emergency fund, short-term goal or long-term goal. Starting balance : The money you already have tucked away for your savings goal. Input \u201c0\u201d if you haven\u2019t saved anything yet. Time to grow : The deadline for your savings goal. For example, if you want to save for a deposit on a home you plan to buy in three years, you would input three years. Annual interest rate : The interest you earn on your savings. The best high-yield savings accounts typically have a higher annual interest rate than average accounts. If you have multiple financial goals in mind, use this calculator to focus on each one. Then, you can decide whether it\u2019s best to prioritize them or start tackling them all at once. Meet MoneyNerd, your weekly news decoder So much news. So little time. NerdWallet's new weekly newsletter makes sense of the headlines that affect your wallet. SUBSCRIBE FOR FREE document?.addEventListener(\"DOMContentLoaded\",()=>{const e=document?.getElementById(\"user-engagement-banner\")?.closest(\"article\");e&&(e.style.position=\"relative\",e.style.zIndex=\"200\")}); How to meet your monthly savings goal Figuring out how much money to save is only half the battle. Next comes taking the right steps to stop spending and start saving more money. Create a budget that includes savings goals One option is to follow the 50/30/20 budget , which means spending 50% of your after-tax income on needs, 30% on wants and 20% on savings and debt repayment beyond minimums. By consistently setting aside 20% of your income for savings, you may be able to generate an emergency fund, contribute to long-term retirement goals or begin paying off high-interest debt like credit cards. Automate transfers and grow your savings in a HYSA Setting up automatic transfers from your checking account to a special savings account can help keep you accountable and make it easier to track your progress. Consider putting money aside in a high-yield savings account . HYSAs typically have higher interest rates than traditional savings accounts. Set up sinking funds for future costs Try creating sinking funds for big, but predictable, expenses such as vacations, car repairs, your child's summer camp or holiday gifts. Setting aside a bit each month means you'll have some money ready when you need it and won't have to fully rely on high-interest credit cards. \u00bb Explore more financial calculators from NerdWallet Explore more on The Financial Glow Up Money News You Can Use Money Management Making Money Paying Your Bills Personal Finance Back to top About the authors Lauren Schwahn is a writer at NerdWallet who covers credit scoring, debt, budgeting and money-saving strategies. She contributed to the \"Millennial Money\" column for The Associated Press and managed a team of writers producing content for the series. Her work has also been featured by USA Today, MSN, The Washington Post and more. Lauren has a bachelor\u2019s degree in history from the University of California, Santa Cruz. She is based in San Francisco. Published in Amanda Barroso Amanda Barroso, Ph.D., is a writer and content strategist helping consumers navigate budgeting, credit building and credit scoring. Before joining NerdWallet, Amanda wrote about demographic trends at the Pew Research Center and earned a Ph.D. from The Ohio State University. Her work has been featured by the Associated Press, Washington Post and Yahoo Finance. Published in",
+      "headings": []
+    },
+    {
+      "rank": 14,
+      "domain": "etsy.com",
+      "url": "https://www.etsy.com/listing/1197066220/40k-in-52-weeks-savings-tracker",
+      "title": "40k in 52 Weeks Savings Tracker Printable File, Save 40,000 ... - Etsy",
+      "word_count": 0,
+      "scrape_status": "failed",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 15,
+      "domain": "ramseysolutions.com",
+      "url": "https://www.ramseysolutions.com/budgeting/how-one-man-is-saving-40000-this-year?srsltid=AfmBOopAStx0-NzR8Xn_OBUjneDtuuG7vDi1j8gVbkD770uo3wXdKCLV",
+      "title": "How Budgeting Is Helping One Man Save $40,000 This Year",
+      "word_count": 890,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://rs-cdn-ramseysolutions.s3.amazonaws.com/daveramsey.com/media/b2c/every_dollar/ai-pinterest/chris-arnold-testimony.jpg",
+        "alt": "",
+        "description": "Professional studio portrait or clean financial graphic with bold branding.",
+        "type": "branded_studio_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://cdn2.ramseysolutions.net/dynamic/media/landing-pages/blog/author-bio-ramsey-large.jpg/48w.jpg",
+          "alt": "Ramsey Solutions",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.ramseysolutions.net/media/3_way_universal/blog/inline-icons/personal-development.png",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn2.ramseysolutions.net/dynamic/media/landing-pages/blog/author-bio-ramsey-large.jpg/120w.jpg",
+          "alt": "Ramsey Solutions",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.ramseysolutions.net/media/blog/article-template/ask-ramsey-header.svg",
+          "alt": "Ask Ramsey",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.ramseysolutions.net/media/rscom/logos/flat-blue-50-ramsey-logo.svg",
+          "alt": "Ramsey Solutions",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "4 MIN READ | MAY 1, 2023 Link copied! Unable to copy link. Please try again. \u201cI didn\u2019t know what budgeting was. I never learned about money growing up. I didn\u2019t even know how to read a bank statement.\u201d That\u2019s where his story began. Fast-forward to today. Now Chris not only knows how to budget his money (and, yes, read a bank statement), but he\u2019s also kind of a budgeting ninja. \u201cI saved $30,000,\u201d Chris said. The most impressive part? It only took him one year! And now he\u2019s setting out to break his own record. Chris originally set a goal to save another $30,000 this year so he could put a down payment on a house. But now he\u2019s discovered he\u2019s probably going to hit the goal faster than he thought. \u201cI\u2019ll probably reach $20,000 by June or July,\u201d he said. \u201cSo I might be able to change my goal to $40,000.\u201d So how did this ordinary guy manage to turn his finances around so drastically? Simple. He started budgeting. \u201cI always thought budgeting was some tedious process of writing stuff down and keeping receipts,\u201d he said. \u201cBut once I learned what it actually meant, it just became so easy.\u201d Get expert money advice to reach your money goals faster! He hit his massive savings goal by committing to saving $1,500 a month for a full year. But on top of that, he found ways to trim his spending\u2014and even adjusted his budget throughout the month to reflect how much he was really spending in certain categories. If he wasn\u2019t going to spend the full amount he budgeted for groceries, he simply moved the extra money into savings. Before he knew it, he was on the fast track to saving more than ever. And EveryDollar made the whole process even easier. \u201cIt\u2019s so simple to use,\u201d he said. Now, instead of tracking his spending with paper receipts (and letting them stack up for three months), he just uses his EveryDollar app to keep a record of his purchases. \"I feel like I find extra money every month just by budgeting.\" Chris said creating a budget with EveryDollar each month has allowed him so much more freedom\u2014which is great. But it\u2019s also turned what would\u2019ve felt like emergencies into nothing more than minor speed bumps. \u201cThe other day, the check engine light in my car came on,\u201d he explained. \u201cI had to spend $474, and I didn\u2019t even have to go into my emergency fund to cover it.\u201d It\u2019s hard to believe this is the same person who worried about over-drafting his account just a few short years ago. \u201cI used to be the type of person who thought if I didn\u2019t look at my bank account, then money would just appear in it,\u201d he admitted. \u201cIt\u2019s like I was scared to see how I was using my money.\u201d But now that he has a budget in place and makes a plan for his money every month, he feels more responsible, less stressed and even excited about his future. \u201cNow, I feel like I find extra money every month just by budgeting,\u201d he said. \u201cAnd because I don\u2019t have any debt, it\u2019s improving my quality of life. I\u2019m not sending it to a bank. I like that.\u201d \u201cI don\u2019t think people realize little amounts add up. When Chris does find some extra cash, he moves it right into savings. For example, if he has $120 left in his restaurant budget and knows he\u2019s only going out to eat one more time before the month ends. \u201cI\u2019ll keep $50 in my restaurant budget and move the other $70 straight into my house fund. I make myself not spend that extra money. I move it into my savings that day.\u201d Those little savings have paid off. \u201cI don\u2019t think people realize little amounts add up,\u201d he said. If he could give just one piece of advice to people who aren\u2019t living on a budget, it would be to just give budgeting a try. \u201cI think when people think about budgeting, they think about accounting. Like you\u2019re just sitting there in an office with no windows,\u201d he said. \u201cBut be open to learning about it\u2014because it actually improves your life.\u201d He adds that it\u2019s also important to be patient. \u201cIt\u2019s going to take a month or two to get the hang of it. But it can literally change your life. You can quit being stressed about money\u2014and it\u2019s very easy.\u201d Set up a free EveryDollar budget and find extra money each month. It\u2019s easy to use and takes less than 10 minutes to get started! Get Weekly Insights Delivered Straight to Your Inbox Did you find this article helpful? Share it! About the author Ramsey Solutions has been committed to helping people regain control of their money, build wealth, grow their leadership skills, and enhance their lives through personal development since 1992. Millions of people have used our financial advice through 22 books (including 12 national bestsellers) published by Ramsey Press, as well as two syndicated radio shows and 10 podcasts, which have over 17 million weekly listeners. Learn More. Get proven Ramsey answers fast. By continuing on our site, you consent to our use of cookies and other tracking technologies as explained in our , and agree to our . and .",
+      "headings": []
+    },
+    {
+      "rank": 16,
+      "domain": "instagram.com",
+      "url": "https://www.instagram.com/reel/DRTDETjj_2C/",
+      "title": "So this is how much money I'd keep in my bank accounts if I were ...",
+      "word_count": 1,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "data:image/png;base64,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",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [],
+      "body_text": "_Body text (44 chars) saved to JSON sidecar_",
+      "headings": []
+    },
+    {
+      "rank": 17,
+      "domain": "quora.com",
+      "url": "https://www.quora.com/How-can-I-save-40-000-per-year-from-my-salary-when-I-earn-80-000",
+      "title": "How can I save $40000 per year from my salary when I earn $80000?",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 18,
+      "domain": "youtube.com",
+      "url": "https://www.youtube.com/shorts/e74Dxd2ULCk",
+      "title": "How Much Money to Have Making $40,000 Income - YouTube",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 19,
+      "domain": "smartasset.com",
+      "url": "https://smartasset.com/investing/how-to-invest-40000",
+      "title": "How to Invest $40,000: 7 Smart Investments - SmartAsset",
+      "word_count": 2210,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://smartasset.com/wp-content/uploads/sites/2/2022/02/trading-charts-on-a-display-picture-id1317587887.jpg",
+        "alt": "An image of a stock chart.",
+        "description": "Data visualization or financial chart graphic.",
+        "type": "graphic_design_data"
+      },
+      "article_images": [
+        {
+          "url": "https://smartasset.com/wp-content/uploads/sites/2/2022/02/home-tax-deduction-picture-id1270111816.jpg",
+          "alt": "A house on a chart, as an investor decides whether to invest $40,000 in real estate.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://smartasset.com/wp-content/uploads/sites/2/2022/02/were-on-our-way-to-a-loan-free-life-picture-id1304258170.jpg",
+          "alt": "A couple deciding how to invest $40,000.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "If you came into an extra $40,000, how would you use it? It might be tempting to put that money into something instantly gratifying, like a vacation. But for some, it may be wiser to use those funds to invest in your future. In a few situations, that might mean paying down debt first. Or it might mean starting an emergency fund . However, using a portion for investing after you take care of those basic necessities can open up several financial opportunities. When deciding how to invest $40,000, you can also consider working with a financial advisor. 1. The Stock Market When you invest in the stock market , your gains or losses depend on the performance of the company and stock you choose. Because of this, your gains may vary vastly. The stock market is subject to volatility, meaning you can earn high returns one day and end with a loss the next. There are numerous ways to invest in stocks, and each way works best with different strategies. For example, you may be interested in index funds , which track benchmark indices like the S&P 500. The S&P 500 acts as a benchmark for the overall U.S. stock market. Although it slightly outperformed the average U.S. stock market return the past 10 years with an average return of 13.6%, according to Goldman Sachs. You don\u2019t need a stockbroker these days, though. There are several online brokerages that offer low management fees, sophisticated tools and educational resources for both novice and experienced traders alike. You can also work with a financial advisor to put together a stock portfolio if you don\u2019t know where to start. 2. Bonds are a form of debt instruments. Essentially, the investor acts as a lender to an entity, such as a company or government. In return for the bond\u2019s value at maturity and regular interest payments, the investor lends said entity money. Bonds come in a couple of varieties, though, such as: Treasury bonds Corporate bonds Municipal bonds Treasury securities are the least risky option, and corporate bonds are the riskiest. That\u2019s because corporate bonds don\u2019t receive any backing from a local, state, or Federal government. Because of that, you can also guess that your greatest rate of return is likely with a corporate bond. Higher risk means you may see an increased rate of return. In general, bonds are lower risk compared to options like stocks. 3. Mutual Funds Mutual funds take money from several investors and pool it together to make investments. This investment vehicle holds multiple securities, including stocks, bonds and other sub-asset classes. You may already be investing in a mutual fund if you have a 401(k) , even, since they are a common choice for the retirement plan. Mutual funds offer investors a simple and inexpensive method way to get diversification. However, they can be slightly more costly than index funds. That\u2019s because many mutual funds come with active fund managers. This manager makes regular trading decisions with the intention to outperform the market, not match it. 4. High-Yield Savings Accounts When people think of \u201cinvesting,\u201d they often associate it with extreme growth. But not every investment is designed to triple in value. In many cases, you may just want a risk-free way to build a little interest on your funds. A high-yield savings account offers you just that. It\u2019s a savings account with a higher interest rate than you would find with a traditional brick and mortar bank. While you may not make much, it can be a great way to protect your money for the time being. So, your funds are safe until you figure out an investment that suits you. Alternatively, a high-yield savings account can also be a good location for an emergency fund. You don\u2019t need to pull all $40,000 away for that. Typically, experts recommend an emergency fund amount to approximately three to six months\u2019 worth of expenses. 5. Certificates of Deposit (CDs) Certificates of deposit (CDs) are low-risk savings products offered by banks and insured by the Federal Deposit Insurance Corporation (FDIC) . They require you to deposit a fixed amount of money for a set period, commonly 1, 3 or 5 years, in exchange for a guaranteed interest rate. Unlike high-yield savings accounts , CDs restrict access to your funds during the term, and early withdrawals typically result in penalties. CDs are ideal when you know you\u2019ll need a specific amount of money at a future date and want a predictable return with minimal risk. However, they\u2019re less suitable if you need ongoing access to your funds or prefer greater flexibility. One popular strategy is CD laddering , where you spread your investment across CDs with staggered maturity dates. For example, instead of putting $15,000 into a single 5-year CD, you could invest $5,000 each in 1-, 3-, and 5-year CDs. This approach allows you to benefit from higher long-term interest rates while ensuring some of your money becomes available periodically, adding flexibility and reducing reinvestment risk. 6. Real Estate While $40,000 can start you toward significant earnings, it likely won\u2019t be enough to purchase property outright. However, there are still several ways you can use it to start investing in real estate. For some, $40,000 can be a sizable portion of your down payment. Or, if you don\u2019t want to handle a physical property, you can invest in REITs. REITs, or real estate investment trusts , are typically publicly traded, similar to stocks, and include spaces like office buildings, residential properties, retail spaces, mortgages or a combination. Some ETFs and mutual funds also offer ways to invest in REITs. You can also consider real estate crowdfunding as an alternative to REITs. With this, you join other investors and put your cash into equity shares of a particular property. Thus, giving you access to a share of cash flow generated by renting out the property or from appreciation when the property sells. 7. Exchange-Traded Funds (ETFs) Exchange-traded funds, or ETFs, are similar to mutual funds since they track market indices; however, they trade like stocks. ETFs come with several advantages, especially for novices. You achieve more diversity than buying individual stocks and possibly minimize your losses if you choose an ETF tracking a broad index. A number of ETFs are index funds and carry low management expense ratios (MER). That is an annual fee expressed as a percentage of the fund\u2019s investment, and it covers various operational costs, like management, marketing, administration, record-keeping, and shareholder services. ETFs work well for investors with long time horizons but want something lower cost than a mutual fund. That\u2019s because they generally come with share prices lower than a mutual fund\u2019s minimum investment requirements. Sample Asset Allocation for a $40,000 Investment Portfolio With a $40,000 investment portfolio, building a diversified asset allocation is essential to balance risk and growth, especially if you\u2019re working toward long-term goals like retirement . A sample allocation for a moderate-risk investor might look like this: 60% Stocks ($24,000): Allocate across a mix of U.S. large-cap, international and dividend-paying stocks or ETFs to capture growth potential. 30% Bonds ($12,000): Include a mix of government and investment-grade corporate bonds or bond funds to provide stability and income. 10% Cash or Short-Term Investments ($4,000): Keep in a high-yield savings or money market account for liquidity and emergencies. This blend aims to offer moderate growth while protecting against major market swings. If you\u2019re younger with a longer time horizon, you might increase your stock allocation to 70% or more. If you\u2019re nearing retirement, a more conservative mix with heavier bond or cash exposure could be more appropriate. Even with a relatively small portfolio, staying diversified and periodically rebalancing your assets can help manage risk and keep your investments aligned with your financial goals. How to Determine the Best Way to Invest $40,000 Investing is not meant to be one-size-fits-all. You may have people in your life, like colleagues or neighbors, ready to tell you how to spend your money. But your specific situation should determine where your $40,000 goes, not the advice of amateur investors. You can narrow down the best strategy for yourself by taking these concepts into consideration. Time Horizon Your time horizon is your timeline; how long you plan to hold on to your investment. Depending on your answer, you may have to adjust your investing strategy. Usually, an investor with a short time horizon should consider avoiding high-risk or aggressive investing strategies. Even if your goal is within a few years, you may still want to consider less-volatile options. For instance, stocks, or equities, can face drastic price fluctuations, leading to loss. If your time horizon is short, you don\u2019t have enough time to financially recover if your stock investment declines. As a result, it may be wise to choose lower-risk investments with a short time horizon. In contrast, someone investing their $40,000 to boost their retirement funds might have a long time horizon. The wider the gap between your current age and intended retirement age, the longer your time horizon. Long-Term Financial Goals Figuring out your goal is the crux of any investment \u2013 your starting point. If you have $40,000, you need to find out what you want to use it for before putting it anywhere. For instance, do you just want to preserve the value of that fund? You may want it to build enough interest to avoid loss due to inflation. That way, you have a viable fund you can dip into as an emergency fund or for costs like utility bills, groceries. Or maybe you have bigger goals. $40,000 may be your first step toward a down payment on an apartment or a home renovation. Like this, narrowing down your goal can help you decide how to invest the money. A larger goal may require more significant risk and rates of return. Smaller goals Risk Tolerance Risk tolerance is essentially how much loss you can afford. No one wants to lose $40,000. But if you can stomach it without financial consequence, you probably have a very high risk tolerance. For others, losing that $40,000 may be the difference between making next month\u2019s bills or not. In that case, you may need a more conservative or passive investment strategy due to your lower risk tolerance. A couple of factors may influence your risk tolerance, like your age, family status, and job. An older individual may want a lower-risk investing strategy so that they don\u2019t jeopardize their retirement fund. In contrast, a younger person has more time to recover from potential drops in the stock market, allowing them to explore riskier options . Tips for Finding the Right Portfolio Balance Finding the right portfolio balance often begins with clearly defining your financial goals. Some investors may be focused on long-term growth for retirement, while others may be saving for shorter-term goals such as a home purchase or major life event. Understanding your timeline and priorities can help determine how aggressively or conservatively your investments should be allocated. Your comfort level with market fluctuations is another important factor when building a balanced portfolio. Investors who are comfortable with higher levels of risk may allocate more money to stocks or growth-oriented assets. Those who prefer stability may choose a greater share of bonds, cash equivalents or other lower-volatility investments. Over time, market performance can shift the balance of your portfolio away from your original allocation. Periodically reviewing and rebalancing your investments can help restore the intended mix of assets. This process may involve selling portions of investments that have grown significantly and reinvesting those funds in underweighted areas. Your investment timeline can play a major role in determining the right portfolio balance. Investors with many years before needing their money may focus more heavily on growth-oriented investments. Those with shorter timelines may prioritize capital preservation and income-producing assets to reduce potential volatility . Bottom Line Investing $40,000 can provide a meaningful opportunity to grow your wealth, but choosing the right mix of investments depends on your financial goals, risk tolerance and time horizon. Diversifying across multiple asset classes and periodically reviewing your portfolio can help manage risk while supporting long-term growth. Whether you focus on stocks, funds, real estate or other investment options, maintaining a balanced strategy can help keep your portfolio aligned with your objectives. Tips on Investing Every investor is unique. Creating the best strategy depends on who you are as an investor. If you need direction, try speaking with a financial advisor. Finding a financial advisor doesn\u2019t have to be hard. SmartAsset\u2019s free tool matches you with vetted financial advisors who serve your area, and you can have a free introductory call with your advisor matches to decide which one you feel is right for you. If you\u2019re ready to find an advisor who can help you achieve your financial goals, get started now . Most investors should think about ways to prevent loss \u2013 a diversified portfolio is one of the most common methods. By finding the right mix of assets to invest in, you also gain more opportunities for return. Consider using our asset allocation calculator to help you find the best balance of investments for your $40,000. Photo credit: \u00a9iStock.com/da-kuk, \u00a9iStock.com/bymuratdeniz, \u00a9iStock.com/PeopleImages",
+      "headings": []
+    }
+  ],
+  "battle_plan_generated_at": "2026-04-26T10:44:32.767078+00:00",
+  "competitors_analyzed_count": 8,
+  "battle_plan_method": "local_deterministic_agent_no_api"
+}

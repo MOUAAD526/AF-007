@@ -1,0 +1,1155 @@
+{
+  "article_context": {
+    "angle": "Manual tracking (pen/paper/spreadsheet) vs. automated budgeting apps for spending awareness",
+    "pain_points": [
+      "Tracking expenses manually but failing to understand or control spending",
+      "Having savings but letting them sit idle and lose value",
+      "Carrying debt while having savings, causing financial inefficiency",
+      "Having income but still feeling broke due to hidden or unchecked spending",
+      "Mindless spending or inability to stop spending despite awareness"
+    ],
+    "top_social_questions": [
+      "How do I make my savings work effectively instead of just sitting idle?",
+      "How do I budget or track spending to actually understand and control my finances?"
+    ],
+    "dominant_emotion": "Confusion and bewilderment about where money goes despite tracking",
+    "serp_intent": "Searchers for \"how to save money on a car rental\" want practical strategies to reduce costs associated with renting vehicles, such as comparing prices, avoiding hidden fees, choosing optimal timing, or using discounts. The SERP intent is informational, featuring travel blogs, comparison sites like Kayak or Expedia, and guides on rental hacks that deliver step-by-step advice tailored to car hire expenses.",
+    "serp_title_pool": {
+      "primary": [
+        "Best Ways to Save With Rental Cars? : r/TravelHacks - Reddit",
+        "The Cheapest Way to Rent a Car: 10 Tips To Save - NerdWallet",
+        "Save with the Best Car Rental Deals | Budget Rent a Car",
+        "How to Save When Renting a Car - Consumer Reports",
+        "How to Save on Rental Cars: 11 Expert Tips to Cut Costs",
+        "10 CHEAP RENTAL CAR HACKS That Will Save You Money",
+        "Tips to help you save money on a rental car: How to never pay full ...",
+        "10 Ways to Save Money on Car Rentals During the Holidays",
+        "8 car rental tips to save money on your next rental - Booking.com",
+        "What tips/tricks/hacks have you discovered to save money on car ...",
+        "Saving Money on Rental Cars - All the Hacks",
+        "15 Ways to Snag the Cheapest Car Rental Deals Available",
+        "Unlock 10 Rental Car Hacks for Big Savings in 2026 - YouTube",
+        "9 Clever Ways to Save Money on a Car Rental - Visitteo",
+        "How to save money on a rental car this spring break - CBS News",
+        "9 Tips For Saving Money On Car Rentals - La Jolla Mom",
+        "What are some tips to save money on a rental car? - Quora",
+        "4 Ways to Save Money on Car Rentals | NerdWallet - YouTube",
+        "Tips to save money on your next rental car - Yahoo Finance",
+        "10 ways to save money on your next rental car - NBC News"
+      ],
+      "long_tail": [],
+      "question": []
+    },
+    "paa_questions": [
+      {
+        "q": "How to pay less for a rental car?",
+        "a": "Don't overlook the car rental savings that come with memberships or workplace benefits. Organizations such as AAA, AARP, frequent flyer programs, credit card rewards programs, and warehouse clubs such as Costco often partner with rental car companies to offer reduced rates, free upgrades, or other perks."
+      },
+      {
+        "q": "Do rental car prices go down closer to the date?",
+        "a": "Do rental car prices go down closer to the date? Not usually, but sometimes. In most cases, rental car prices increase as you get closer to your travel date. That's because car rental companies raise rates when availability drops, especially for in-demand locations or during busy travel periods."
+      }
+    ],
+    "related_searches": [
+      "How to save money on a car rental reddit",
+      "AutoSlash",
+      "Cheapest way to rent a car monthly",
+      "Cheapest way to rent a car for a week",
+      "Budget car rental",
+      "Enterprise car rental",
+      "Best way to rent a car for a month",
+      "Cheapest way to rent a car reddit"
+    ]
+  },
+  "primary_keyword": "how to save money on a car rental",
+  "competitors": [
+    {
+      "rank": 1,
+      "domain": "reddit.com",
+      "url": "https://www.reddit.com/r/TravelHacks/comments/1higspk/best_ways_to_save_with_rental_cars/",
+      "title": "Best Ways to Save With Rental Cars? : r/TravelHacks - Reddit",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 2,
+      "domain": "nerdwallet.com",
+      "url": "https://www.nerdwallet.com/travel/learn/find-cheap-car-rental",
+      "title": "The Cheapest Way to Rent a Car: 10 Tips To Save - NerdWallet",
+      "word_count": 1908,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.nerdwallet.com/tachyon/2017/03/GettyImages-1419724017.jpg?resize=2400%2C1440",
+        "alt": "",
+        "description": "Clean, minimalist custom illustration or high-quality object stock photo.",
+        "type": "minimalist_branded_asset"
+      },
+      "article_images": [
+        {
+          "url": "https://www.nerdwallet.com/assets/blog/wp-content/uploads/2025/01/NW_iso-phone-sparkle.png",
+          "alt": "CTA image",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i.ytimg.com/vi_webp/255dOZss67w/sddefault.webp",
+          "alt": "Video thumbnail",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i.ytimg.com/vi_webp/5ol0oPLfUWs/sddefault.webp",
+          "alt": "Video thumbnail",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.nerdwallet.com/tachyon/2019/08/ksheehy-user-avatar.png?resize=160%2C160",
+          "alt": "Kelsey Sheehy",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdns3.nerdwallet.com/lending/publication-logos/Entrepreneur.webp",
+          "alt": "Entrepreneur",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdns3.nerdwallet.com/lending/publication-logos/Marketwatch.webp",
+          "alt": "MarketWatch",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdns3.nerdwallet.com/lending/publication-logos/NASDAQ.webp",
+          "alt": "Nasdaq.com",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdns3.nerdwallet.com/lending/publication-logos/TheAssociatedPress.webp",
+          "alt": "The Associated Press",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.nerdwallet.com/tachyon/2022/05/teamequinox-106.jpg?resize=160%2C160",
+          "alt": "Sally French",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdns3.nerdwallet.com/lending/publication-logos/TheWashingtonPost.webp",
+          "alt": "The Washington Post",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdns3.nerdwallet.com/lending/publication-logos/YahooFinance.webp",
+          "alt": "Yahoo Finance",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "SOME CARD INFO MAY BE OUTDATED This page includes information about these cards, currently unavailable on NerdWallet. The information has been collected by NerdWallet and has not been provided or reviewed by the card issuer. document.addEventListener(\"DOMContentLoaded\",function(){const t=Array.from(document.querySelectorAll(\".out-of-date-message-flag\"));if(!t.length)return;const n=Array.from(new Set(t.map(e=>(e.getAttribute(\"data-name\")||\"\").trim()).filter(Boolean))).sort();if(!n.length)return;function a(e){return e.length===1?\"the \"+e[0]:e.length===2?\"the \"+e[0]+\" and the \"+e[1]:\"the \"+e.slice(0,-1).join(\", \")+\", and the \"+e[e.length-1]}const r=a(n),o=document.getElementById(\"oodm-text\");o&&(o.textContent=\"This page includes information about \"+r+\", currently unavailable on NerdWallet. The information about \"+r+\" has been collected by NerdWallet and has not been provided or reviewed by the card issuer.\")}); Car rental prices hit sky-high levels in July 2021. Luckily, car rental prices seem to have reached their top and continue to drop. But even today, rental cars are far from cheap (and they're far higher than pre-COVID rates). Inflation has been hitting almost every aspect of the economy, but it's hit car rental prices even harder. Whereas average prices across all items for summer 2024 were up about 23% since before the pandemic, rental car prices in 2024 are up a much sharper 29%. The good news is you don\u2019t have to spend your entire vacation budget on rental cars. These 10 tricks will help you score a cheap rental car for your next road trip , whether it\u2019s a quick weekend getaway or a cross-country odyssey. 1. the airport Renting at the airport is convenient when you\u2019re flying into a new city. But that convenience can come at a premium, thanks to general price increases around demand, and other costs like airport surcharges. These surcharges often come as fixed dollar figures, typically presented as a \u201cCustomer Facility Charge.\u201d You might also find them as a percentage of your overall rental amount \u2014 and sometimes, you\u2019ll owe both. These charges are typically several dollars a day, but can amount to a three-figure charge depending on the length of your trip. A June 2024 NerdWallet study of more than 480 rental car prices taken from cities that host America's 15 largest airports compared the price of a seven-night rental at eight major car rental companies from airport outposts versus the cost to rent at their nearby downtown counterparts. NerdWallet found that seven-night car rentals for downtown locations were, on average, $86 cheaper than airport locations. That is, you can expect to spend about 18.4% more to rent a car at the airport compared to a downtown rental. function d(o){try{const t=o.contentDocument;if(!t?.body)return;const n=t.defaultView?.getComputedStyle(t.body),e=parseInt(n?.marginTop||\"0\",10),r=parseInt(n?.marginBottom||\"0\",10),c=Math.max(t.body.scrollHeight+e+r,t.body.offsetHeight+e+r);c>0&&(o.style.height=`${c}px`)}catch{}}const h=document.querySelectorAll(\"[data-wp-embed-srcdoc]\");h.forEach(o=>{const t=o.querySelector(\"iframe\");if(!t)return;const n=()=>{d(t),t.contentDocument?.body&&new ResizeObserver(()=>d(t)).observe(t.contentDocument.body)};t.contentDocument?.readyState===\"complete\"?n():t.addEventListener(\"load\",n,{once:!0})});function f(o){const t=o.dataset.src;if(!t)return;const n=o.querySelector(\"[data-wp-embed-placeholder]\"),e=document.createElement(\"iframe\");e.setAttribute(\"scrolling\",\"no\"),e.setAttribute(\"title\",o.dataset.title||\"Embedded content\"),e.className=\"w-px min-w-full border-none\",e.style.display=\"none\";let r=!1;const c=()=>{r||(r=!0,clearTimeout(m),e.style.display=\"block\",n?.remove())},m=setTimeout(c,3e3),a=()=>{window.addEventListener(\"message\",i=>{if(i.source===e.contentWindow)try{const s=JSON.parse(i.data);s?.context===\"iframe.resize\"&&s.height&&(e.style.height=`${s.height}px`)}catch{}})};\"srcdoc\"in e&&t.includes(\"embeds.nerdwallet\")?fetch(t).then(i=>i.text()).then(i=>{const s=new DOMParser().parseFromString(i,\"text/html\");s.querySelector('meta[name=\"robots\"]')?.remove();const l=s.createElement(\"style\");l.textContent=\"html, body { height: auto !important; }\",s.head?.appendChild(l);const u=\" \"+s.documentElement.outerHTML;e.srcdoc=u,e.addEventListener(\"load\",()=>{d(e),c(),e.contentDocument?.body&&new ResizeObserver(()=>d(e)).observe(e.contentDocument.body)})}).catch(()=>{e.src=t,a(),e.addEventListener(\"load\",c)}):(e.src=t,a(),e.addEventListener(\"load\",c)),o.appendChild(e)}const y=document.querySelectorAll(\"[data-wp-embed]\");y.forEach(o=>{let t=!1;const n=()=>{t||(t=!0,f(o))},e=new IntersectionObserver(([r])=>{r.isIntersecting&&(e.disconnect(),n())},{rootMargin:\"500px\"});e.observe(o),o.addEventListener(\"mouseover\",n,{once:!0}),setTimeout(()=>{e.disconnect(),n()},4e3)}); Price out rental locations in the city and compare to what you can get at the airport. Make sure you factor in the cost of a taxi or rideshare to and from your rental location if you rent at a location away from the airport. 2. Shop around online Look at sites like Kayak, Priceline and Cheapcarrental.com to compare your options and narrow in on the best deal. Then go directly to the car rental company\u2019s site. You might find an even steeper discount that way, particularly with \u201cPay Now\u201d options. Just keep in mind that rentals paid in advance are typically nonrefundable. Even after you book, keep shopping. If you didn\u2019t book a nonrefundable rental, you can cancel your reservation if you find a better price. Stress less. Track more. See the full picture: savings, debt, investments and more. Smarter money moves start in our app. GET THE APP TODAY document?.addEventListener(\"DOMContentLoaded\",()=>{const e=document?.getElementById(\"user-engagement-banner\")?.closest(\"article\");e&&(e.style.position=\"relative\",e.style.zIndex=\"200\")}); 3. Comparison shop between brands (the discount ones aren't always cheapest) Despite names like Dollar and Budget, those stereotypically-discount bands aren't necessarily the cheapest. NerdWallet's 2024 rental car study found that Thrifty, Hertz and Enterprise Rent-A-Car ranked among the cheapest rental car companies . Whereas the average price for a seven-night rental from the most expensive brand, National, was $601, it was just $414 with Thrifty. Do your own comparison shopping, but don't assume the discount brands like Advantage, Payless and Dollar Rental offer a lower rate than big-name rental companies. 4. Leverage memberships Have a Costco membership? Use it to save money on your next rental car. \u201cI find that Costco consistently beats full-price car rentals on online travel agencies,\u201d says Clem Bason, CEO of the travel website goSEEK.com and formerly of Hotwire.com. An added bonus: You can often add a driver for free. AAA memberships are another great money-saving tool by providing discounts for Hertz rentals as well as no underage driver fees for AAA members ages 20 to 24. Frequent-flyer programs also offer discounts on rental cars. American Airlines, for example, offers AAdvantage members 35% off Budget and Avis \u2014 but you need to rent from an airport. 5. Opt for economy cars Economy cars are typically the cheapest, and therefore the most likely to be booked. You can use this to your advantage, says Brett Graff, a family finance expert and author of a syndicated column called The Home Economist. \u201cWhen renting a car, I reserve the smallest, most affordable vehicle possible, knowing there's a chance it won't be on the lot and I'll get an upgrade,\u201d Graff says. Just don\u2019t book something that\u2019s too small for your party, or you could be stuck cramming five people plus luggage into a two-door coupe. Not exactly the cozy vacation you had in mind, is it? 6. Stick to one driver Most rental car companies will charge you a fee to add an extra driver, which can often be more than $10 per day. There are ways to dodge the fee, though. Some companies, such as Enterprise, waive the additional driver fee for a spouse or domestic partner, but you both need to have the same address on your driver\u2019s licenses. Others, including National, waive the fee for spouses, partners and immediate family members if you enroll in their membership program. You can also leverage other memberships, such as USAA, AARP, AAA or Costco to get a free additional driver with select rental car companies. {\"@context\":\"https://schema.org\",\"@type\":\"VideoObject\",\"name\":\"Rental Cars: How to Get the Best Deal\",\"description\":\"Sally French, our Nerdy travel expert, went on a research spree with rental car data on a quest to find the cheapest rental car companies, the cheapest times to book, and the cheapest cities to rent from.\\n\\nThe travel team spent the month of March tracking 360 rental car prices across:\\n- 8 major U.S. companies\\n- Data from U.S. cities with the 10 largest airports\\n- Prices for both rentals at the airport and offsite facilities, like downtown rental car locations.\\n\\nIf you would like more details, we wrote this all down too: \\n\\nWhat is the Cheapest Rental Car Company?: https://www.nerdwallet.com/article/travel/cheapest-car-rental-company\\nIs It Cheaper to Rent a Car at the Airport?https://www.nerdwallet.com/article/travel/is-it-cheaper-to-rent-a-car-at-the-airport\\nWhich is Cheaper: Booking Rental Cars in Advance or at the Last Minute?https://www.nerdwallet.com/article/travel/best-time-to-rent-car\\n\\nSubscribe to our channel and also follow us here:\\nFacebook: https://facebook.com/nerdwallet\\nInstagram: https://instagram.com/nerdwallet\\nTwitter: https://twitter.com/nerdwallet\\nTikTok: width=\\\"480\\\" height=\\\"270\\\" src=\\\"//www.youtube.com/embed/255dOZss67w\\\" frameborder=\\\"0\\\" allow=\\\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\\\" referrerpolicy=\\\"strict-origin-when-cross-origin\\\" allowfullscreen> \"} 7. Use your own insurance If you have a car, your primary insurance likely covers you when you rent a car . Carless millennials: Have your parents add you as a driver to their insurance. If you have a good driving record, it likely won\u2019t cost any extra. Many credit cards also include basic insurance coverage if you use the card to pay for your rental. So you can skip it and save what often amounts to about $30 a day on your rental. Some cards even offer more comprehensive coverage . Renting overseas? You might be required to purchase insurance, even if you have coverage via your primary car insurance and/or your credit card. Build this into your budget. 8. Forgo the extras Rental agents make more money if they sell you on the benefits of extras like roadside assistance, satellite radio and GPS navigation. You\u2019ll save money if you resist their spiel. NAVIGATION A Garmin device or similar GPS navigation unit can typically cost about $15 per day or more. Use the navigation system you carry around in your pocket and save your money for gas. \u201cWhy rent a GPS when you can use Waze or Google Maps on your phone?\u201d says Michael Goldman, president of AutoRentals.com If you\u2019re overseas, map out your route ahead of time and download directions when connected to Wi-Fi. Or go old school and pick up a paper map. TOLL TRANSPONDER Rental car companies charge a per-day fee for the transponder, which you pay in addition to any tolls. While tolls are unavoidable, there are cheaper ways to go about it. \u201cIn the popular vacation destination of South Florida, car rental companies often charge $25 per day for the SunPass, whether you use it or not,\u201d says Goldman of AutoRentals.com. \u201cInstead, purchase Florida\u2019s SunPass for $19.99 at CVS Pharmacy stores, Walgreens and Publix Super Markets throughout South Florida and pay for only what you use.\u201d CAR SEAT This one may be unavoidable. After all, the safety of your child is more important than saving a few dollars. But if you have friends where you\u2019re traveling, leverage their network to find a car seat to use during your trip. This will save you $10 or more per day. document?.querySelectorAll(\".accordion-container\").forEach(o=>{o?.querySelectorAll(\"details\").forEach(e=>{const r=e.querySelector(\"summary\"),t=e.nextElementSibling,i=()=>{const n=e.open;t&&(t.setAttribute(\"aria-hidden\",n?\"false\":\"true\"),n?t.removeAttribute(\"inert\"):t.setAttribute(\"inert\",\"\")),r&&r.setAttribute(\"aria-expanded\",n?\"true\":\"false\")};i(),e.addEventListener(\"toggle\",i),t?.addEventListener(\"display-hidden-content\",()=>{e.open||r?.click()})})}); 9. Price out prepaid gas Use a site like GasBuddy to scope out nearby gas stations and current fuel prices so you can compare against the prepaid price offered by the rental car company. Factor in how likely it is you will have a near-empty tank upon your return. On a short day or weekend trip, you may just need to top off your tank before returning the car. Longer trips may allow you to roll in on fumes and save a few dollars as you do so. 10. Walk or ride While these tips will help you get a cheap rental car, there is one other surefire way to save: the rental altogether. Most major cities have walkable downtowns and extensive public transportation networks, not to mention taxis and ridesharing apps galore. So save yourself the hassle of traffic and often costly parking rates, if you can, and buy yourself a weekend metro pass. {\"@context\":\"https://schema.org\",\"@type\":\"VideoObject\",\"name\":\"Kyte Rental Car Service: Everything You Need To Know | NerdWallet\",\"description\":\"Sally French breaks down Kyte, a car rental service. While telling you about the service she shows you how the pick up and drop off process works so that you better understand your options for car rentals when traveling.\\n\\n#NerdWallet #TravelTips #KyteCarRental\\n\\nSubscribe to NerdWallet - https://bit.ly/3wGvVf3 \\n\\nAbout NerdWallet:\\nWe\u2019re NerdWallet. And we\u2019re not your typical finance company. We believe that everyone should be able to make financial decisions with confidence. We\u2019ve built a team of Nerds with the knowledge, passion, and skills to make that happen. Thanks to our Nerdy experts, see side-by-side comparisons and objective reviews of the best credit cards, bank accounts, and so much more \u2014 so you can get even more financial clarity. It\u2019s the smartest decision for all your financial decisions. \\n\\nDisclaimer: This video is for informational and educational purposes only. NerdWallet does not offer advisory or brokerage services, nor does it recommend or advise investors to buy or sell particular stocks or securities. Any comments posted under NerdWallet's official account videos are not reviewed or endorsed by NerdWallet or representatives of financial institutions affiliated with the reviewed products unless explicitly stated otherwise. Avoid disclosing personal or sensitive information such as bank accounts or phone numbers. NerdWallet employees do not offer personalized financial advice and will not respond to posts here.\\n\\nConnect with NerdWallet:\\nFollow NerdWallet on TikTok: https://tiktok.com/@nerdwallet \\nFollow NerdWallet on Instagram",
+      "headings": []
+    },
+    {
+      "rank": 3,
+      "domain": "budget.com",
+      "url": "https://www.budget.com/en/offers/us-offers",
+      "title": "Save with the Best Car Rental Deals | Budget Rent a Car",
+      "word_count": 134,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.budget.com/content/budget/content/dam/budget/na/us/common/offers/budget-car-rental-social-brand-1200x630.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [],
+      "body_text": ".standard-deal .standard-deal .deal-content a.standard-deal,.deal-text,.deal-text p{color:#00285f !important}.offers-grids .offers-fullbleedimgtxt button{margin-left:-1.5%}@media only screen and (min-width:991px){}@media(min-width:768px){.standard-deal }@media only screen and (max-width:992px) and (min-width:768px){}@media only screen and (max-width:1024px) and (min-width:768px){.offers-fullbleedimgtxt button{margin-left:-6%}}@media only screen and (min-device-width:768px) and (max-device-width:1024px) and (orientation:landscape) and (-webkit-min-device-pixel-ratio:1){}@media only screen and (-webkit-min-device-pixel-ratio:1) and (max-width:1024px) and (min-width:768px){} var Campaign= Campaign || {};Campaign['CFV6E_content_dam_budget_na_us_common_offers_budget_deals_spring24_desktop_jpg']={\"Renditions\":[{\"width\":768,\"height\":504,\"dpr\":1,\"defaultFile\":\"/content/dam/budget/na/us/common/offers/budget-deals-spring24-desktop.jpg/jcr:content/renditions/cq5dam.web.768.504.jpg\",\"webpFile\":\"/content/dam/budget/na/us/common/offers/budget-deals-spring24-desktop.jpg/jcr:content/renditions/cq5dam.web.768.504.webp\",\"defaultFileMimeType\":\"image/webp\"},{\"width\":1536,\"height\":1008,\"dpr\":2,\"defaultFile\":\"/content/dam/budget/na/us/common/offers/budget-deals-spring24-desktop.jpg/jcr:content/renditions/cq5dam.web.1536.1008.jpg\",\"webpFile\":\"/content/dam/budget/na/us/common/offers/budget-deals-spring24-desktop.jpg/jcr:content/renditions/cq5dam.web.1536.1008.webp\",\"defaultFileMimeType\":\"image/webp\"},{\"width\":375,\"height\":375,\"dpr\":1,\"defaultFile\":\"/content/dam/budget/na/us/common/offers/budget-deals-spring24-desktop.jpg/jcr:content/renditions/cq5dam.web.375.375.jpg\",\"webpFile\":\"/content/dam/budget/na/us/common/offers/budget-deals-spring24-desktop.jpg/jcr:content/renditions/cq5dam.web.375.375.webp\",\"defaultFileMimeType\":\"image/jpg\"},{\"width\":1220,\"height\":500,\"dpr\":1,\"defaultFile\":\"/content/dam/budget/na/us/common/offers/budget-deals-spring24-desktop.jpg/jcr:content/renditions/cq5dam.web.1220.500.jpg\",\"webpFile\":\"/content/dam/budget/na/us/common/offers/budget-deals-spring24-desktop.jpg/jcr:content/renditions/cq5dam.web.1220.500.webp\",\"defaultFileMimeType\":\"image/jpg\"},{\"width\":2440,\"height\":1000,\"dpr\":2,\"defaultFile\":\"/content/dam/budget/na/us/common/offers/budget-deals-spring24-desktop.jpg/jcr:content/renditions/cq5dam.web.2440.1000.jpg\",\"webpFile\":\"/content/dam/budget/na/us/common/offers/budget-deals-spring24-desktop.jpg/jcr:content/renditions/cq5dam.web.2440.1000.webp\",\"defaultFileMimeType\":\"image/jpg\"},{\"width\":750,\"height\":750,\"dpr\":2,\"defaultFile\":\"/content/dam/budget/na/us/common/offers/budget-deals-spring24-desktop.jpg/jcr:content/renditions/cq5dam.web.750.750.jpg\",\"webpFile\":\"/content/dam/budget/na/us/common/offers/budget-deals-spring24-desktop.jpg/jcr:content/renditions/cq5dam.web.750.750.webp\",\"defaultFileMimeType\":\"image/jpg\"}],\"MobileRenditions\":[{\"width\":750,\"height\":750,\"dpr\":2,\"defaultFile\":\"/content/dam/budget/na/us/common/offers/budget-deals-spring24-mobile.jpg/jcr:content/renditions/cq5dam.web.750.750.jpg\",\"webpFile\":\"/content/dam/budget/na/us/common/offers/budget-deals-spring24-mobile.jpg/jcr:content/renditions/cq5dam.web.750.750.webp\",\"defaultFileMimeType\":\"image/jpg\"}]}; Limited Time Spring Sale: Get a free upgrade + up to 25% off base rates! Book Now Spring Sale: Save up to 35% + a free upgrade with Pay Now Save Now Budget Email Offers Email Failed Thank you for Subscribing to Budget Offers. You should receive an email with your exclusively deals shortly. Send me email promotions, offers and news about Budget. You can withdraw your consent at any time. See our Privacy Notice and Terms Of Use for more details, or Contact Us.",
+      "headings": []
+    },
+    {
+      "rank": 4,
+      "domain": "consumerreports.org",
+      "url": "https://www.consumerreports.org/money/car-rentals/how-to-save-when-renting-a-car-a1019661198/",
+      "title": "How to Save When Renting a Car - Consumer Reports",
+      "word_count": 755,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://article.images.consumerreports.org/image/upload/t_article_tout/v1717096307/prod/content/dam/CRO-Images-2024/Magazine/CR-Magazine-InlineHero-How-to-Save-When-Renting-a-Car-Jul24-0524",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://article.images.consumerreports.org/image/upload/w_112,h_112,f_auto/prod/content/dam/cro/news_articles/cars/Editor%20Images/CRO-Author-Benjamin-Preston-v4-02-20",
+          "alt": "Benjamin Preston",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://article.images.consumerreports.org/image/upload/w_652,f_auto,q_auto,ar_16:9,c_lfill/v1717096307/prod/content/dam/CRO-Images-2024/Magazine/CR-Magazine-InlineHero-How-to-Save-When-Renting-a-Car-Jul24-0524",
+          "alt": "an illustration of a woman driving a red convertible car with a dollar bill as the retractable hood",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "Rental car prices are up about 35 percent since before the pandemic, according to NerdWallet, making the cost a significant expense, especially if you overpay for the daily rate and add-ons. Rental companies almost always push expensive insurance coverage (sometimes more than $30 a day). Most of us probably don\u2019t need it, though. The Insurance Information Institute says personal auto policies usually include liability, collision, and comprehensive coverage on rental cars in the U.S. (But don\u2019t assume: Always verify the coverage because credit card benefits can change over time.) Many credit card companies also offer collision protection for vehicle rentals paid for with their card. (See the credit cards with the best perks .) But before you decline coverage, confirm with your auto insurance provider or credit card issuer that your rental car is covered. In addition, some cards won\u2019t cover rentals in Ireland, Israel, Italy, Jamaica, and a few other foreign countries. If you value peace of mind over money, however, paying for the rental car company\u2019s damage coverage means you won\u2019t have to file a claim with your auto insurer, pay a deductible, and risk a premium increase. AAA members who book through the membership club\u2019s website can add insurance that often costs less than what the rental car companies offer. Here are some other things to consider when renting. Cheaper Rental Cars Can Cost You Cars with the lowest rates often come with strings attached. Many rental car companies and third-party sites like Priceline offer big savings in exchange for paying in advance and/or choosing a \u201cmystery car.\u201d We recently found we could save nearly $300 on the cost of a weeklong rental at Hertz in Los Angeles by choosing the mystery car option. But these deals might not include free cancellation, so if your plans change, you could lose your payment. You might also end up getting an electric vehicle, which means you\u2019ll need to find a place\u2014and the time\u2014to charge it. Third-party vendors such as AAA, Costco, and Priceline may offer the lowest rates, but if you need to extend your rental or make any other changes to your booking, you\u2019ll probably have to do it through their websites. That could be more fraught than dealing directly with the rental car company. Be Prepared When Renting an EV Electric vehicles can be the least expensive rental car type, which can make them a tempting choice (and you may get one anyway if that\u2019s what\u2019s available). But before you opt for electric, remember that charging takes a lot longer than gassing up. A DC fast charger will typically add about 150 miles of range in 30 minutes. Level 2 chargers are more common but will add only 10 to 20 miles in the same time frame. Many hotels offer EV charging, but if yours doesn\u2019t, you can find charging stations on Google Maps or by using an app such as ChargeHub or PlugShare. \u201cIf you rent an EV, your best bet is probably a Tesla, which has the biggest, easiest-to-use network of fast chargers,\u201d says Alex Knizek, associate director of auto test development for CR and an EV expert. Don\u2019t expect that adding juice to the battery before drop-off will take just 5 minutes. To save time, pay the fee companies charge to do that for you ($35 at Hertz, for example). Using Alternative Rental Cars Short-term rental companies like Zipcar allow you to rent by the hour (starting around $11) and have cars available throughout many cities. This might be a less expensive option if you need a car for only part of a day. To use Zipcar, you\u2019ll need to become a member, which costs $9 a month or $90 a year, plus a $25 application fee. ( AARP members receive $20 off the annual fee.) Be aware of the laundry list of extra charges you can rack up, for everything from returning the car late to leaving the tank low on gas. Peer-to-peer car rental services, such as Turo , let you rent cars directly from car owners. You may find low prices on peer-to-peer rental platforms, but their biggest advantage is making it easy to rent a classic or exotic car. If you want the latest safety features, check the model year to avoid renting an older vehicle that may lack them. Editor\u2019s Note: This article originally appeared in the July 2024 issue of Consumer Reports magazine. Benjamin Preston covered new and used car buying, auto insurance, car maintenance and repair, and electric bikes for Consumer Reports.",
+      "headings": []
+    },
+    {
+      "rank": 5,
+      "domain": "cluballiance.aaa.com",
+      "url": "https://cluballiance.aaa.com/the-extra-mile/prepare/car/save-on-rental-cars",
+      "title": "How to Save on Rental Cars: 11 Expert Tips to Cut Costs",
+      "word_count": 1015,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://edge.sitecorecloud.io/aaacluballi1493-aaacluballi9b10-production-179a/media/Images/Global/AAA-Content-Hub/Prepare/Car/How-to-Save-on-Rental-Cars/Hero_AdobeStock_178082669_1470x600.jpg?h=600&iar=0&w=1470",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://ads.midatlantic.aaa.com/advertpro/servlet/view/banner/image/zone?zid=349&pid=0&position=1",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://edge.sitecorecloud.io/aaacluballi1493-aaacluballi9b10-production-179a/media/Images/Global/AAA-Content-Hub/Prepare/Car/How-to-Save-on-Rental-Cars/iStock-517382234_768x800.jpg",
+          "alt": "Car Rentals Rental Enterprise Roadtrip Transportation",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://edge.sitecorecloud.io/aaacluballi1493-aaacluballi9b10-production-179a/media/Images/Global/AAA-Content-Hub/Prepare/Car/How-to-Save-on-Rental-Cars/AdobeStock_294180295_768x432.jpg",
+          "alt": "A young woman buys a car in a car showroom. by Studio Romantic",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://edge.sitecorecloud.io/aaacluballi1493-aaacluballi9b10-production-179a/media/Images/Global/AAA-Content-Hub/Prepare/Car/How-to-Save-on-Rental-Cars/AdobeStock_436486952_768x432.jpg?h=432&w=768",
+          "alt": "Action of a customer is signing on the agreement term of car rental service. Close-up and selective focus a human's hand with blurred background of cars in row. Business and transportation concept. by Nattawit",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://edge.sitecorecloud.io/aaacluballi1493-aaacluballi9b10-production-179a/media/Images/Global/AAA-Content-Hub/Prepare/Car/How-to-Save-on-Rental-Cars/AdobeStock_644212192_768x432.jpg",
+          "alt": "Close-up hands of unrecognizable dealer male giving new car key to customer man in business suit on blurred background of new auto in dealership office. Concept of choosing and buying car at showroom. by dikushin",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://edge.sitecorecloud.io/aaacluballi1493-aaacluballi9b10-production-179a/media/Images/Global/AAA-Content-Hub/Prepare/Car/How-to-Save-on-Rental-Cars/AdobeStock_102840513_768x432.jpg?h=432&w=768",
+          "alt": "Creative concept for car rental by Friends Stock",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://edge.sitecorecloud.io/aaacluballi1493-aaacluballi9b10-production-179a/media/Images/Global/AAA-Content-Hub/Prepare/Car/How-to-Save-on-Rental-Cars/AdobeStock_557999700_768x432.jpg",
+          "alt": "row of used cars. Rental or automobile sale services by Kadmy",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "From booking early to leveraging loyalty programs, learn how to save on rental cars and keep your travel budget intact It\u2019s no surprise that car rental prices have been rising in recent years, with demand often outpacing supply as car rental companies aim to keep fleet sizes lean and vehicle model years new. But renting a car doesn\u2019t have to break the bank. You can cut costs significantly with expert-backed rental car tips\u2014before, during, and after your trip. Book early\u2014but not too early One of the biggest mistakes travelers make? Waiting too long to book. \u201cWe always recommend booking as early as possible for the widest selection and availability of car classes,\u201d says Tania Clasen, vice president of strategic alliances and partnerships for Hertz. Waiting until the last minute could mean limited availability and inflated prices. While rental car prices fluctuate based on a number of factors\u2014from vehicle type to location to time of year\u2014the general rule of thumb is to book about one month in advance for the best combination of selection and savings for US rentals; international rentals may require earlier booking\u2014about two to three months in advance. If you\u2019re booking around high-peak times or interested in a niche vehicle, even earlier is better at home and abroad. Prepay for your rental car\u2014with some caveats Prepaying for your rental car can offer major savings. Many rental companies provide their best rates to customers who pay in full upfront. At Hertz, for example, you can save up to 25 percent less than paying at pickup. While this option offers less flexibility to change or cancel your reservation, using a credit card with travel protections can safeguard your budget if plans change. The biggest downside to prepaying? If you don\u2019t end up needing the car, the rental company may charge a fee for cancelling within a specified window\u2014and that fee could jump the longer you wait. Some rental companies do have more flexible cancellation policies on prepaids than others, so be sure to do your homework before you book. for the rental car company\u2019s loyalty program Signing up for the company\u2019s loyalty program can unlock perks such as faster service, upgrades, and exclusive discounts\u2014and most are free to join. \u201cThe Hertz Gold Plus Rewards loyalty program is free to join and provides travelers with a variety of perks like faster pick up and returns by skipping the counter at most airports and member-only rates when booking on Hertz.com,\u201d says Clasen. Loyalty programs can also offer ongoing value, as some allow you to redeem points for free rentals. Make the most of your credit card Certain credit cards offer great discounts or cashback on rental cars. For instance, individuals who book a Hertz rental car with the AAA Travel Advantage Visa Signature Credit Card can earn 4 percent back. Check with the credit card company about eligibility for elite status, discount codes, and even partial insurance coverage. Choose the economy car It might seem obvious, but opting for the smallest car or most fuel-efficient vehicle can mean big savings. Economy cars typically have lower daily rates\u2014and you\u2019ll save on fuel, too. Some rental companies also offer discounts on electric vehicles. Bonus: If the economy class is overbooked, you might score a free upgrade. Consider off-airport rental locations While airport pickups are convenient, they often come with added fees and higher demand. Renting from a neighborhood branch instead can boost car rental savings\u2014especially during peak travel periods. \u201cIf travelers need to book last-minute and have flexibility, they may find better rental availability outside high-volume areas,\u201d says Clasen, adding that this can be especially helpful during peak travel periods. Fill up before you return Be sure to budget enough time to get gas ahead of dropping off your rental car. Rental companies charge a premium if you return the car without a full tank\u2014sometimes double the going rate. Stick with a single driver over the age of 25 In most states, rental car companies often charge extra for additional drivers or for renters under age 25. To avoid these fees, stick with one driver who\u2019s at least 25 years old. There are welcome exceptions to this rule, however: AAA members who book with Hertz can add a second driver for free, and young driver fees are also waived through the AAA\u2013Hertz partnership. Leverage memberships and employer discounts Don\u2019t overlook the car rental savings that come with memberships or workplace benefits. Organizations such as AAA, AARP, frequent flyer programs, credit card rewards programs, and warehouse clubs such as Costco often partner with rental car companies to offer reduced rates, free upgrades, or other perks. For example, AAA members can access exclusive benefits with Hertz\u2014as much as 20 percent off base rates. In addition, many employers\u2014especially larger companies\u2014have negotiated corporate discount codes that employees can use for personal travel. These discounts aren\u2019t always widely advertised, so it\u2019s worth checking with your travel or human resources department before you book. Check for airline promotions Many airlines partner with rental car companies to offer exclusive discounts, bonus miles, or bundled travel deals. After booking your flight, keep an eye on follow-up emails, or check the airline\u2019s website for special offers tied to your reservation. These promotions can lead to meaningful car rental savings\u2014especially if you\u2019re loyal to a particular carrier or enrolled in its frequent flyer program. Think twice about car insurance and extras When you book online, you\u2019ll likely be presented with a slew of upsell offers\u2014things such as GPS navigation, satellite radio, toll packages, or prepaid fuel. While nice to have, these features can add up quickly, so consider if you truly need them. Also consider if the car insurance offered by the rental car company is necessary. Some car insurance companies and credit card companies provide their customers with insurance that extends to rental cars. Check with your insurer or card company to ensure you\u2019re fully covered. \u2026.. A rental car may not be the first thing you book when you\u2019re trip planning, but giving your reservation its proper due will help you save on your rental every time.",
+      "headings": []
+    },
+    {
+      "rank": 6,
+      "domain": "youtube.com",
+      "url": "https://www.youtube.com/watch?v=-6DsBkvFLSw",
+      "title": "10 CHEAP RENTAL CAR HACKS That Will Save You Money",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 7,
+      "domain": "thepointsguy.com",
+      "url": "https://thepointsguy.com/travel/ways-to-save-on-rental-cars/",
+      "title": "Tips to help you save money on a rental car: How to never pay full ...",
+      "word_count": 1936,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://runway-media-production.global.ssl.fastly.net/us/originals/2022/03/20220302_South-Africa_KGenter_cemair-cpt-hds-hoedspruit-rental-cars.jpg",
+        "alt": "Are you renting a car this summer? Check out these must-read tips on how to save money on rental cars.",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://runway-media-production.global.ssl.fastly.net/us/originals/2022/01/Croppedheadshot.jpg?width=96&crop=1%3A1%2Coffset-x50%2Coffset-y50",
+          "alt": "Kyle Olsen",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://runway-media-production.global.ssl.fastly.net/us/originals/2020/03/andrewkunesh.jpg?width=96&crop=1%3A1%2Coffset-x50%2Coffset-y50",
+          "alt": "Andrew Kunesh",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://thepointsguy.com/_next/image/?url=https%3A%2F%2Frunway-media-production.global.ssl.fastly.net%2Fus%2Foriginals%2F2022%2F03%2F20220302_South-Africa_KGenter_cemair-cpt-hds-hoedspruit-rental-cars.jpg&w=3840&q=75",
+          "alt": "South Africa",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://runway-media-production.global.ssl.fastly.net/us/originals/2019/01/GettyImages-953920160-2.jpg?width=3840",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://runway-media-production.global.ssl.fastly.net/us/originals/2023/01/Young-woman-opening-door-of-car-rental_Oscar-Wong.jpg?width=3840",
+          "alt": "Woman on a road trip",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://thepointsguy.com/images/EmailSignUp/daily-dt.svg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://runway-media-production.global.ssl.fastly.net/us/originals/2023/01/Family-loading-luggage-into-rental-car-on-vacation_Thomas-Barwick.jpg?width=3840",
+          "alt": "Family travel",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://runway-media-production.global.ssl.fastly.net/us/originals/2023/02/Man-using-credit-card-with-smart-phone-computer-notebook_-MixMedia.jpg?width=3840",
+          "alt": "Young man checking his phone",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://runway-media-production.global.ssl.fastly.net/us/originals/2022/12/Credit-Card-Man-Computer_Martin-Dimitrov.jpg?width=3840",
+          "alt": "a man sits outside a luxury resort using his laptop to shop online",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://runway-media-production.global.ssl.fastly.net/us/originals/2024/03/Planes-Newark-Savannah-2.jpg?width=3840",
+          "alt": "United Boeing 787-10 Dreamliner Newark",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://runway-media-production.global.ssl.fastly.net/us/originals/2022/10/ord-rental-car.jpeg?width=3840",
+          "alt": "rental car garage",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://runway-media-production.global.ssl.fastly.net/us/originals/2023/05/friends-driving-along-the-coast-in-rental-car_gradyreese.jpg?width=3840",
+          "alt": "Embrace the open road with open arms",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://runway-media-production.global.ssl.fastly.net/us/originals/2022/11/Cars-in-a-Europcar-rental-car-lot-in-Hamburg-Germany.jpg?width=3840",
+          "alt": "Cars in a Europcar rental car lot in Hamburg, Germany",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://runway-media-production.global.ssl.fastly.net/us/originals/2023/07/Woman-paying-for-gas-with-contactless-credit-car-payment-at-gas-station_Maskot.jpg?width=3840",
+          "alt": "Mature woman doing payment via credit card at fuel station",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "Editor's Note Road trip season is in full swing, but rental cars (like everything else) are no longer as affordable as they used to be. Plus, the initial price advertised can be misleading, as there are often hidden fees , damage waivers and other expenses to take into account. If you're looking to cut costs on your upcoming car rental , you've come to the right place. This guide will provide all the tips and tricks you need to save money on your rental car. Related: The 12 best road trips to take with your family this summer Use a corporate, university or alumni code Using a corporate code from your job or university is one of the simplest ways to save on rental cars. It's worth checking your corporate or alumni travel site or student benefits page for rental company discounts. Many universities have deals with Avis, Enterprise, Hertz and National that can save students and alumni significant money. Some codes may even offer additional benefits, such as free extra drivers or waived fees for drivers under 25. Always ensure you can use these codes on personal rentals, as some corporate codes are exclusively for business travel. Sometimes, your company or university may have a separate code for personal use. Although you can often find these codes online, using a code you are not eligible for is highly discouraged. Rental car companies often request proof of employment or alumni status, so booking with a code that doesn't apply to you isn't worth the risk. Related: How to rent a car without a credit card Join AAA to save on rental cars You're likely familiar with AAA , the auto club that offers its members roadside assistance and discounts on various services. One of the most significant discounts is on rental cars: You can save up to 20% on all Hertz rentals with the AAA discount code. Using AAA's code when you book with Hertz provides several other benefits, such as waived fees for drivers under 25, discounts on prepaid fuel, a free additional driver, and a complimentary car seat or booster seat for an infant or child. Depending on how often you rent from Hertz, these discounts can more than compensate for AAA's membership fee. (Membership pricing varies, as it is based on location.) By signing up, you will receive newsletters and promotional content and agree to our and acknowledge the data practices in our . You may unsubscribe at any time. Once you become a member, you can use Hertz's dedicated AAA website to book your discounted rental car. The process is the same as booking through the standard AAA website; all discounts are shown on the checkout screen. Related: How to redeem points and miles for car rentals See if you're eligible for USAA discounts USAA members are eligible for discounted car rentals with Alamo, Avis, Budget, Enterprise, Hertz and National. By booking through the USAA portal , you can receive up to a 35% discount on your next rental and still earn points through the rental company's loyalty program. However, not everyone is eligible for USAA discounts; membership is open to current and former military personnel as well as their spouses and children. If you qualify, it's worthwhile to start your car rental search with USAA to determine the baseline discount before comparing costs with credit card perks and other portals. Related: The best military travel discounts and perks Leverage credit card perks and discounts Several travel credit cards offer rental car perks and discounts. Here's a quick overview of what to expect from some of the most popular travel cards. Chase Sapphire Reserve The Chase Sapphire Reserve\u00ae (see rates and fees ) offers a suite of car rental discounts at Avis, Hertz and National. To take advantage of them, you must enter your Visa Infinite discount code at booking and pay with your Chase Sapphire Reserve card. With the Chase Sapphire Reserve , new cardholders can currently earn 125,000 bonus points after spending $6,000 on purchases in the first three months from account opening. The Platinum Card from American Express Those with The Platinum Card\u00ae from American Express can enjoy complimentary premium status with Avis, Hertz and National, which can save you money and elevate your rental experience. You must first enroll through your American Express online account; terms apply. United Club Card Lastly, the United Club\u2120 Card (see rates and fees ) includes complimentary Avis President's Club status, the highest tier in Avis' loyalty program. This includes valuable perks like two-car-class upgrades, guaranteed car availability, expedited rental service and more. Enrollment is required. Plus, you'll receive $50 in United TravelBank cash, up to $100 each anniversary year, for your first and second Avis or Budget car rental booked directly through cars.united.com and paid for with your United Club Card . If you don't have one of the aforementioned cards, it's worth checking to see if your credit card offers similar benefits. Often, these discounts can be applied to your rental by booking through a specific portal or booking with a designated code. Related: Credit cards that offer elite status for car rentals Use a credit card that includes a rental car damage waiver Damage waivers provide coverage in case of any damage to the rental, limiting your out-of-pocket cost. But buying these waivers from your rental car company, usually at $10-20 per day, can add up fast. Thankfully, some credit cards include rental car insurance when you charge the rental cost to your card. For example, the Chase Sapphire Preferred\u00ae Card (see rates and fees ) and Chase Sapphire Reserve offer a primary damage waiver, so you won't have to file a claim with your personal car insurance if damage is incurred. This is helpful since you won't have to pay a hefty deductible or be subject to rate changes. Just be sure to read the fine print and understand what is and isn't covered. For example, the above cards' policies exclude exotic vehicles and rentals longer than 31 days. Related: Chase Sapphire rental car insurance: What it covers and how to file a claim Book a rental car through an airline portal Many major airlines have partnerships with rental car companies. For example, United Airlines MileagePlus members can earn up to 1,250 miles per qualifying rental and enjoy discounts of up to 35% at Avis and Budget when they book through United's car rental portal . American Airlines' AAdvantage Cars platform is similar, offering up to 35% off base rates at Avis and Budget and the ability to earn AAdvantage miles. Better yet, many airlines, such as Delta and United, offer complimentary rental car status to their elite members. Some car rental programs, like National Emerald Club, match elite status from popular airline and hotel programs. Car rental status can grant you valuable perks like guaranteed free upgrades, bonus points and a wider selection of redemption options. That said, you'll miss out on rental car points if you choose to earn airline miles with your rental, so consider which you find more useful before deciding which currency to earn. Related: Delta adds Hertz status for all Medallion elites, revamps earning structure for rentals Check alternate rental locations Major rental companies have numerous locations in key cities and airports. For instance, Hertz has over a dozen locations in New York City and Enterprise has more than 15 in the Denver metro area. To find the best possible deal, compare prices at all nearby locations. Renting in town may save you money on airport pickup taxes and fees. These savings often apply to rentals where you pick up in town and drop off at the airport. However, there are drawbacks to renting in town \u2014 mainly that there are usually fewer cars to choose from and fewer upgrade options. Additionally, picking up a rental in a city and then returning it to the airport at the end of your trip may subject you to one-way fees or daily rates, which can sometimes be exorbitant. Be sure to carefully compare prices to make sure you're not overpaying. Related: How to skip long rental car pick-up lines for free Borrow someone else's car with Turo You might also consider renting with Turo , a car-sharing platform that allows you to rent cars from individuals in major cities across the U.S. Not only are the prices often competitive, but you can also rent unique cars that you may not find elsewhere, like sports cars and specialized luxury vehicles. Some Turo rentals can even be dropped off and picked up at an airport lot, making it as convenient as any other rental. To determine the best deal for your specific dates, compare the costs of traditional rentals with Turo. Related: You can now earn United miles with Turo Find a deal with AutoSlash is a free website that helps you find the best deal on car rentals. When you enter your rental specifications and any eligible discounts (such as AAA membership), the website searches for rates from different companies as well as coupon codes that you can use. This simplifies the process of comparing prices. Since AutoSlash is free, there are no downsides to using it. However, keep in mind that it cannot search for corporate and university codes, so it's essential to cross-check AutoSlash's price with your corporate code's price. What distinguishes AutoSlash from other car rental sites is its ability to track rates and notify you when they decrease on a rental you've already booked. Specifically, AutoSlash finds cheaper rates using coupons, discount codes and membership-related discounts. You can then cancel your first reservation for a full refund and rebook at the lower rate. How to avoid common fees when renting a car Sometimes, it seems like there are endless fees associated with renting a car \u2014 but most are avoidable. Here are ways to avoid common rental car fees that add up quickly. Fill up the gas tank before you return a car To avoid inflated fuel prices charged by the rental company, the best approach is to fill up the gas tank shortly before returning the car. Another option is to prepay for a full tank when picking up the car. However, remember that most rental car companies don't offer refunds for unused fuel, so this option is only beneficial if you plan to use most of the tank. Bring your own toll transponder Rental cars may come equipped with toll transponders. For instance, Hertz's PlatePass transponders can be used at cashless toll locations for E-ZPass and I-Pass throughout the U.S. Although these transponders are convenient, you may encounter convenience fees for using them. When possible, avoid these fees by bringing your own toll transponder or paying tolls in cash and keeping the rental car's transponder in the provided case. As a Florida resident, TPG's senior editorial director, Nick Ewen , keeps a SunPass Pro transponder that works across Florida and 21 other states. the under-25 fee We've already discussed multiple tricks young renters can use to bypass the costly \"under 25\" fee. You can avoid this fee \u2014 and save a considerable amount of money \u2014 by booking your rental with certain corporate codes, AAA discount codes and university codes. Bottom line Car rental costs can add up, especially on long road trips , but there are plenty of ways to save. Keep these tips in mind when booking your next rental, and remember to compare prices and read the fine print before you book. This will help you find the best deal and enjoy a stress-free rental car experience.",
+      "headings": []
+    },
+    {
+      "rank": 8,
+      "domain": "experian.com",
+      "url": "https://www.experian.com/blogs/ask-experian/ways-to-save-money-on-car-rentals-during-holidays/",
+      "title": "10 Ways to Save Money on Car Rentals During the Holidays",
+      "word_count": 1209,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.experian.com/blogs/ask-experian/wp-content/uploads/Geico-Auto-Insurance-Review-1400x933-1.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.experian.com/static/blog/profiles-byline/marianne-hayes.webp",
+          "alt": "Marianne Hayes profile image",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.experian.com/static/blog/profiles-byline/michelle-tipsword.webp",
+          "alt": "Michelle Tipsword profile image",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.experian.com/static/shared/icons/icon-light-bulb.svg",
+          "alt": "Light bulb icon.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.experian.com/blogs/ask-experian/wp-content/uploads/Geico-Auto-Insurance-Review-1400x933-1.jpg.webp",
+          "alt": "Young man packing backpacks from a car trunk at an airport.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.experian.com/static/shared/icons/icon-wallet.svg",
+          "alt": "Promo icon.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "Quick Answer Some ways to save money on car rentals this holiday season include shopping around, checking for discounts, paying for gas as you go and choosing an economy car. If holiday travel is on your agenda this year, you could spend roughly $54 per day for a car rental in November or December, according to travel site Kayak. And that doesn't include taxes, insurance, gas and tolls. It's a good idea to look for the best deal on car rentals: Every dollar saved is more money you can put toward your holiday budget or other financial goals. If you're looking for tips, check out this list of 10 ways to save on rental cars. 1. Don't Book Too Early bird catches the worm doesn't quite apply to car rentals. In fact, the earlier you book a car rental, the more money you'll spend. The best time to book your car is actually one month in advance, or less, according to Kayak. Example: For travel in November, booking a car rental more than six months in advance costs roughly $12 more a day than booking one month in advance, according to Kayak. For December, it similarly costs $13 more a day to prebook than wait until one month in advance. 2. Shop Around Car rental companies are competing for your business, which means that prices can vary from one company to the next. Shop around and compare rates from several companies. Travel sites like Expedia and AutoSlash can search for deals based on your travel dates, budget and car preference. Check prices directly from car rental companies. Take the quotes you gathered from those travel sites and see how they measure up against the prices being offered directly from car rental companies. It might be lower. In some cases, it could help you negotiate a cheaper rate. 3. Pay With a Rewards Credit Card Using a rewards credit card throughout the year has its perks. Consider the following: A rewards card can allow you to earn cash back that you can use to pay for your holiday car rental. Some credit card companies will dole out extra points if you book your car rental through their platform. If you're going to spend that money anyway, why not get rewarded for it? You might be able to earn additional rewards if you use your card to pay for other holiday travel expenses. That typically includes airfare and hotel stays. Many rewards cards offer car rental insurance \u00e2\u0080\u0094more specifically, a collision damage waiver. That could reimburse you for damages if your rental car is stolen or damaged. Learn more: How Does Credit Card Rental Car Insurance Work? 4. Check for Discounts Looking for discounts can help you find the best deal on car rentals. You might qualify for a lower price if you: Are a senior or AARP member Are an active military service member or veteran (or someone in your family is) Have a USAA or AAA account Are a teacher or student Pay in full when booking Find a lower price elsewhere You can also look for coupon codes from car rental companies and travel sites. 5. Pay for Gas as You Go You can expect a service charge if you return your rental car without a full tank of gas. During check-out, most car rental companies will offer a refueling package for an additional fee. In some cases, it could add up to an extra $17.99. You'll probably do better topping off your tank as you go. Below are some additional ways to save money on gas : Earn rewards with a gas credit card . . Use fuel rewards programs at specific gas stations. Turn the engine off if you're idling for more than 10 seconds. Look for fuel-efficient routes. 6. Map Out Tolls Ahead of Time If you travel on electronic toll roads, your car rental company will add those charges to your bill\u00e2\u0080\u0094plus additional fees that could be more than $30. The good news is that it's possible to sidestep these unwanted costs: Have exact change on hand to cover tolls. Map out your route to minimize or avoid toll roads. Bring your personal toll transponder, such as an E-Z Pass. You might be able to add your rental car to your account and use that to cover tolls. Check with your car rental company and transponder provider ahead of time. 7. Choose an Economy Car Going with a smaller vehicle can help keep your rental costs down. For Thanksgiving 2025, a small car rented at JFK Airport would cost you $371 for the week, while a van was $616 (prices checked October 31). Your options may be limited if you're traveling with a large group\u00e2\u0080\u0094but if you can deal with a tighter ride, it could lead to a better deal. On the upside, your fuel costs should also be lower. Tip: If you plan to rent a small car, make sure you have enough trunk space for all your passengers' luggage. 8. Stick to One Driver Adding additional drivers to your car rental agreement will increase the cost of your rental. Many car rental companies charge per person, per day, so costs can add up fast. Consider sticking to one driver to save money. However, if you have a high status with a car rental company, additional driver fees may be waived. 9. Consider a Ridesharing Alternative Think about how much driving you're actually going to do during the holidays. If you only need a ride to and from the airport, you might save by booking with Uber or Lyft (depending on how far you're traveling). The same goes for getting around once you're at your destination. If you just plan on visiting friends in your hometown, for example, a rideshare app might be your best bet. Learn more: Alternatives to Traditional Rental Car Companies 10. Think About Skipping the Rental This may sound obvious, but you might not need a car rental at all. Consider the following questions before booking a vehicle: How walkable is your destination city? Is public transportation an option? Can you borrow a car from a friend or family member? Is it possible to carpool or hitch a ride with friends to your destination? Having your own car can make traveling more comfortable, but your wallet might thank you for exploring other options. The Bottom Line Holiday travel costs can add up fast, and transportation could be your biggest expense. Finding the best deal on car rentals could save you money this holiday season. Your credit score might even play a role. If you use a debit card to book your car rental, the company may perform a credit check to determine your eligibility. You can check your credit report and FICO \u00c2\u00ae Score \u00ce\u0098 for free with Experian. Want to lower your monthly bills? We\u00e2\u0080\u0099ll negotiate bills for you and cancel unwanted subscriptions. About the author Marianne Hayes is a longtime freelance writer who's been covering personal finance for nearly a decade. She specializes in everything from debt management and budgeting to investing and saving. Marianne has written for CNBC, Redbook, Cosmopolitan, Good Housekeeping and more. Explore more topics Personal finance Budgeting Debt Investing Retirement Taxes Share article",
+      "headings": []
+    },
+    {
+      "rank": 9,
+      "domain": "booking.com",
+      "url": "https://www.booking.com/guides/article/cars/7-easy-ways-to-save-money-on-car-rental.html",
+      "title": "8 car rental tips to save money on your next rental - Booking.com",
+      "word_count": 1585,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://cf.bstatic.com/static/img/fb/4/08e28aab377dcdf343bb51d26fa7f022ea325471.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://xx.bstatic.com/xdata/images/xphoto/max1024/599010898.jpg?k=a6cec3bf8a8b3d79793614833aba809240be65adb35a8d52dd3e9a84efea2b1c&o=",
+          "alt": "8 car rental tips to save money on your next rental",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://xx.bstatic.com/xdata/images/xphoto/max1024/358284730.jpg?k=583f79aa66b16aa15fc45b60c417e46638d418c75c19cdc3795b1814fc23e39d&o=",
+          "alt": "Caroline Lupini",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://xx.bstatic.com/xdata/images/xphoto/max1024/599010915.jpg?k=2576970760b506b0fbd7af2605291bbc3492a6852e151877e172fa01033cdae1&o=",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://xx.bstatic.com/xdata/images/xphoto/max1024/599010971.jpg?k=d026a08a44a8c15a3a5c748293517d40b52c50f201fd941a47e4c9958619e6d2&o=",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://xx.bstatic.com/xdata/images/xphoto/max1024/599010998.jpg?k=c05a607548bd8baadb60ef44afd5ca196909d75bea02b095782436c9ab829b8a&o=",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://xx.bstatic.com/xdata/images/xphoto/square100/614681370.jpg?k=ed8c26363fabe0a072bcf8dcc9506f17b6a2fcdbc37054a30a378528ccb56717&o=",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://xx.bstatic.com/xdata/images/xphoto/square100/614681451.jpg?k=0706f95ed7dd93025cc3d77cb6eb9f162aa9eabaa012449e7fc1df3cc9fb73c7&o=",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://xx.bstatic.com/xdata/images/xphoto/square100/614681397.jpg?k=c9c64c618e8b8de24cc52acb7470632988a628b7d43ee2cf36b4887ef8442b97&o=",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://xx.bstatic.com/xdata/images/xphoto/square100/599010430.jpg?k=7b419bba6b43120dc6d7d2ae9d2a81c004e9b624d6f9f7040f5dd6646c06408e&o=",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://xx.bstatic.com/xdata/images/xphoto/square100/601821748.jpg?k=019b3bdcb25cb5fedf119e89a8d75aede82dbebcecaeaae01e1fb0e76889df71&o=",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://xx.bstatic.com/xdata/images/xphoto/square100/599010554.jpg?k=17a34124801278d6cac8ac536c38047d1d678b735fdd068e27171c98c98e6843&o=",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://xx.bstatic.com/xdata/images/xphoto/square100/599013556.jpg?k=4953a0e76efa91e0ce81e78a29d2fbf601122c8f41b90819abbd04abfa2ebdd6&o=",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://xx.bstatic.com/xdata/images/xphoto/square100/601821891.jpg?k=35e39b08b633d4efcd6688f43cdeb137e3d3bb14f55a93501ae8e45b8a7783e5&o=",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://xx.bstatic.com/xdata/images/xphoto/square100/599011047.jpg?k=188505c28a3c0c48d6f5f6d3a22c67a1c59a25902e39cd82af41775fbdccc333&o=",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://xx.bstatic.com/xdata/images/xphoto/square100/599011486.jpg?k=bff4118204c9153634da0017e699e3c80585ec1e722e0a1d8867e0c78564cdf1&o=",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://xx.bstatic.com/xdata/images/xphoto/square100/599010338.jpg?k=b47470fcc8139fe7c0d0ab8442705e881de0262e92ebf5677b5ed73ed6acedde&o=",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://xx.bstatic.com/xdata/images/xphoto/square100/593095195.jpg?k=292eeec4857f17920403eada926178039f15f126e118d77561f5b74d32323e4f&o=",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://xx.bstatic.com/xdata/images/xphoto/square100/593094787.jpg?k=e338d7a1703c71c0d06372e4b8486854985ea811378cf9b54e152283bb16e616&o=",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://xx.bstatic.com/xdata/images/xphoto/square100/593095008.jpg?k=48299cb02aa5b27f3be5214bbe91593584ac7e60ed772207fe62ad9605112b0f&o=",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://xx.bstatic.com/xdata/images/xphoto/square100/561403220.jpg?k=51977a9df5301277c29fcfd1f6509603c2555794b050b5a35ebee4a8af7701ba&o=",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://xx.bstatic.com/xdata/images/xphoto/square100/561403459.jpg?k=5cb7041600630fdda38a7b18a72a01acb4650ae954abb6054c07c0bb65198dac&o=",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://xx.bstatic.com/xdata/images/xphoto/square100/561403477.jpg?k=a78497892ea165d52fc67898626377c373a59d17c62fb27fc5d7d1a39f33d3b5&o=",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://xx.bstatic.com/xdata/images/xphoto/square100/561403275.jpg?k=f80cfbeeef4d7dfe198db51945a98856990c0e0f67cf4740c596f06ef3824603&o=",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://xx.bstatic.com/xdata/images/xphoto/square100/560984054.jpg?k=913fd0125811902296002dff2f3f3ff73117c5348f845cfeca77ff8d4caa18f1&o=",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://xx.bstatic.com/xdata/images/xphoto/square100/485801879.jpg?k=fd614f03e14557098226b1297e7721b5db8c3794b7d38922710b35bb24c0749f&o=",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://xx.bstatic.com/xdata/images/xphoto/square100/485801937.jpg?k=1c0cf1d8a3114453704bdb0d725e98f803d3011883e03b561ff7436f5ba8d8e2&o=",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://xx.bstatic.com/xdata/images/xphoto/square100/484349524.jpg?k=417c9277ef18e03bddd6cbd4f05c0a1c9d3323157b910b34f0e9a280de3811e8&o=",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://xx.bstatic.com/xdata/images/xphoto/square100/484236412.jpg?k=a65b1689851495391edd0202a5b01b67ca3f669acec838ac52d0daa027981b49&o=",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://xx.bstatic.com/xdata/images/xphoto/square100/482538289.jpg?k=fdaa28e2dfb340bbd39290bf09f8ea374399ab67a8f86632428019651aa8aa5f&o=",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://xx.bstatic.com/xdata/images/xphoto/square100/482592433.jpg?k=ef4218869ee66d5b94f6efbdaf54ce41ad5c70f00f170e354caa6927cf208fad&o=",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://xx.bstatic.com/xdata/images/xphoto/square100/482590121.jpg?k=86f69cdaaf059a65fdb57a625db46f4271839902b0873703b076c4e8f7b891a5&o=",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://xx.bstatic.com/xdata/images/xphoto/square100/482592547.jpg?k=eb51e200536a94ee9bff63647bb3ea26db3109031653d06d55a12a07ace8d05d&o=",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://xx.bstatic.com/xdata/images/xphoto/square100/462099647.jpg?k=dee34ad942b81b959c1bb2e308f224e0b8b816f770b49d6cb1c5f97577cdb483&o=",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://xx.bstatic.com/xdata/images/xphoto/square100/459214559.jpg?k=4eda4daf33f15836d718c145f81791815d10984df3e998227dfc0bb2d72dbfc3&o=",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://xx.bstatic.com/xdata/images/xphoto/square100/459214976.jpg?k=d38f865b37457413fb7a8ef3caff7c7a99fd69fa86c2a148272a03fdd756314d&o=",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://xx.bstatic.com/xdata/images/xphoto/square100/434628019.jpg?k=f7658fb0d097ba6473e400de73fb7ae5b83c44f9db41e15b13ba0b386d374f7c&o=",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://xx.bstatic.com/xdata/images/xphoto/square100/434630230.jpg?k=de8f2a0666f3e42ef27dc1057e6467d611dcfb438864e6810bd6baac499cbbaa&o=",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://xx.bstatic.com/xdata/images/xphoto/square100/434631885.jpg?k=5f0e4834d663af65b6d9a7e16677699e9258a0c7690cf416ca9658335515355e&o=",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://xx.bstatic.com/xdata/images/xphoto/square100/434602168.jpg?k=95fcce94921ddb888f4c55e7e643f339f01745b447154837a99ea81dc68a20c7&o=",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://xx.bstatic.com/xdata/images/xphoto/square100/429985823.jpg?k=15df218b8bfe87ac729b9d387cbd5f6a0f0c70d9b5ea40833ccb65179ab48ea6&o=",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://xx.bstatic.com/xdata/images/xphoto/square100/358294983.jpg?k=d5f010c66af812240bd86aa6cb0c5bc30dbb0077c5cfd7ff65193f680c033b09&o=",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://xx.bstatic.com/xdata/images/xphoto/max1024/614681334.jpg?k=9ba06cc8161fb14cd2b50b24d01e952b5b43f422d20c3ae8b0f663f686e46867&o=",
+          "alt": "The complete guide to driving in France for UK travellers",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://xx.bstatic.com/xdata/images/xphoto/max1024/614681420.jpg?k=2ba15f12337155cd9fa2f790d05b059a1bc4fc4c9bb145669d767994c4a5b767&o=",
+          "alt": "The complete guide to driving in Greece for UK travellers",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://xx.bstatic.com/xdata/images/xphoto/max1024/599010430.jpg?k=7b419bba6b43120dc6d7d2ae9d2a81c004e9b624d6f9f7040f5dd6646c06408e&o=",
+          "alt": "5 car rental tips: What to bring when picking up your rental",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://xx.bstatic.com/xdata/images/xphoto/max1024/599009967.jpg?k=3ae694c50f463c04b7e4cae07b4da2c39d3460788366e9a8a7bf979e4c77536b&o=",
+          "alt": "5 steps to follow if you get into an accident in a rental",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://xx.bstatic.com/xdata/images/xphoto/max1024/601821581.jpg?k=d06725b0cc3ecb5c08dfa0602aab33ed5a85b9e9466b5b279eba8e454fb7c901&o=",
+          "alt": "8 easy steps for returning your rental car stress-free",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "Book in advance and compare prices across platforms Consider off-airport locations and check your existing insurance coverage to avoid unnecessary fees Be strategic with rental periods \u2013 weekly rates often cost less than daily rates, even for shorter rentals Trying to find the cheapest way to rent a car? Car rental costs can take a big bite out of your travel budget but they don't have to. Whether you're traveling for a weekend getaway or a longer adventure, these eight practical car rental tips will help you save money on your next car rental. 1. Book early and compare prices One of the most effective car rental tips to secure better rates is to book your rental car well in advance. Prices may rise as your pickup date approaches, especially during peak travel seasons. Compare prices between different rental car companies to find the best deals. Remember that rates can fluctuate daily, so it's worth checking a few times before making your reservation. Pro tip: many rental companies offer free cancellation, so you can book early and continue to monitor prices. If you find a better deal later, simply cancel and rebook at the lower rate. 2. Choose your pickup location strategically Airport rental locations often charge premium rates and additional fees. Consider picking up your car from a neighborhood location instead \u2013 the savings can be substantial, even after factoring in transportation costs to reach the rental office. However, if you're traveling to a remote area or arriving late at night, the convenience of an airport pickup might outweigh potential savings. 3. Check existing insurance coverage Understanding insurance is one of the most critical car rental tips to ensure you don't overpay. Before accepting additional insurance at the rental counter, check which coverage you already have. Many credit cards provide rental car insurance when you use them to pay for the rental. Your personal auto insurance policy might also extend to rental cars. Contact your credit card company and insurance provider to understand your existing coverage. Remember: while saving money is important, make sure you're adequately protected. If you're traveling internationally or your existing coverage has gaps, purchasing additional insurance might be worth the expense. 4. Join free loyalty programs Most major rental companies offer free membership programs that can help save you money and time. Benefits often include: -the-counter pickup Member-only discounts Free upgrades when available Points toward free rental days Since these programs are free to join, consider signing up for several to maximize your options and compare member rates. 5. Watch for hidden fees Too good of a car rental deal? Read the fine print carefully to avoid unexpected charges. Common fees to watch for include: Additional driver charges Young driver fees Late return penalties Toll transponder charges GPS rental fees Mileage restrictions: Ensure your contract includes unlimited mileage if you plan a long road trip. If not, calculate the potential per-mile surcharge. Ask about all potential fees upfront and decline optional services you don't need. Some companies waive additional driver fees for spouses or business colleagues, so ask about available exceptions. 6. Be smart about fuel Rental companies typically offer several fueling policies but pre-paying for a full tank or returning the car without filling up usually costs more. For the best value: the pre-paid fuel option (usually) Fill up the tank yourself before returning Keep your gas receipt as proof Use apps to find cheaper gas stations near the return location Remember to take a photo of the fuel gauge when picking up and returning the car to document the fuel level and avoid disputes. 7. Maximize your rental period Rental car pricing can vary significantly based on the length of your rental. Weekly rates are often cheaper per day than daily rates so even if you need the car for five days, a weekly rental might cost less. Similarly, extending your rental by a day might lower the overall daily rate. Other timing car rental tips: Weekend rates can be cheaper than weekday rates Renting for a full week might cost less than five or six days Return during business hours to avoid after-hours fees Before finalizing your reservation, try adjusting your pickup and return times to find the most economical combination. 8. Document everything to avoid extra fees One way to avoid a surprise charge after returning your car is by creating a record of its condition. Rental companies charge customers for vehicle damage \u2013 take pictures of your rental car's interior and exterior during pick up to serve as proof for any pre-existing damage. When picking up the car: Check the car thoroughly: Do a thorough walk-around and look for scratches, dents, and chips on every panel, including the roof, wheels, and bumpers. Take pictures: Take photos or a continuous video of the car's exterior from all angles, focusing on any existing damage. The time stamp on the pictures and video can be used as verification. Dashboard: Take a photo of the dashboard showing the current fuel level and odometer reading, both when picking up and dropping off the car. Interior check: Quickly check the interior for any stains, tears, or missing accessories like floor mats. When dropping off the car: Repeat the documentation: Take a final set of photos or video of the clean and refueled car (if applicable). Get the sign-off: If possible, wait for the agent to inspect the vehicle and sign a final return receipt confirming no new damage. Do not lose this receipt. Plan ahead for success Remember that car rental prices and policies vary by location, company, and season. Start your research early and consider all these factors together to find the best deal for your needs. Check travel websites like ours to compare options and find competitive rates. By following these money-saving strategies, you can reduce your car rental costs without sacrificing the quality of your trip. This leaves more room in your budget for other travel experiences \u2013 and that's what making memories is all about. \u0645\u0643\u0627\u0641\u0622\u062a \u062e\u0637\u0648\u0637 \u0627\u0644\u0637\u064a\u0631\u0627\u0646 \u0646\u0635\u0627\u0626\u062d \u062e\u0627\u0635\u0629 \u0628\u0631\u062d\u0644\u0627\u062a \u0627\u0644\u0637\u064a\u0631\u0627\u0646 \u0627\u0644\u0633\u0641\u0631 \u0644\u0645\u063a\u0627\u0645\u0631\u0629 \u0627\u0644\u0633\u0641\u0631 \u0628\u0631\u0641\u0627\u0647\u064a\u0629 \u0627\u0644\u0633\u0641\u0631 \u0628\u062f\u0648\u0627\u0645 \u0643\u0627\u0645\u0644 Misspelled name on your plane ticket: What to do 28 \u0646\u0648\u0641\u0645\u0628\u0631 2025 The ultimate business trip packing list: 23 things you need 28 \u0646\u0648\u0641\u0645\u0628\u0631 2025 Why do people wrap their luggage? 28 \u0646\u0648\u0641\u0645\u0628\u0631 2025 5 car rental tips: What to bring when picking up your rental 16 \u0623\u0643\u062a\u0648\u0628\u0631 2025 5 free easy ways to get airport lounge access 16 \u0623\u0643\u062a\u0648\u0628\u0631 2025 A 5-minute guide to driving in the USA for tourists 16 \u0623\u0643\u062a\u0648\u0628\u0631 2025 How can I get the exact hire car I want? 16 \u0623\u0643\u062a\u0648\u0628\u0631 2025 How old do you have to be to rent a car? 16 \u0623\u0643\u062a\u0648\u0628\u0631 2025 What does travel insurance cover? 16 \u0623\u0643\u062a\u0648\u0628\u0631 2025 What to do if your luggage is lost: a 10-step guide 16 \u0623\u0643\u062a\u0648\u0628\u0631 2025 What to do if you\u2019re on a diverted flight? 16 \u0623\u0643\u062a\u0648\u0628\u0631 2025 Basic economy flights: How to make the most of your ticket 1 \u0623\u0643\u062a\u0648\u0628\u0631 2025 Know your rights: Are plane tickets refundable? 1 \u0623\u0643\u062a\u0648\u0628\u0631 2025 Know your rights: Flight delayed compensation 1 \u0623\u0643\u062a\u0648\u0628\u0631 2025 Airline junk fees: How to avoid hidden flight fees 5 \u0623\u063a\u0633\u0637\u0633 2025 How to get an upgrade on a flight: 11 free and paid upgrades 5 \u0623\u063a\u0633\u0637\u0633 2025 How to travel with an engagement ring: Planning a proposal 5 \u0623\u063a\u0633\u0637\u0633 2025 The best days to fly for fewer delays and cancellations 5 \u0623\u063a\u0633\u0637\u0633 2025 The ultimate guide to European carry-on sizes 4 \u0623\u063a\u0633\u0637\u0633 2025 Essential Tips for Smart Car Rental Decisions 2 \u0623\u0628\u0631\u064a\u0644 2025 What Is an \u2018SUV\u2019 in Car Rental? 2 \u0623\u0628\u0631\u064a\u0644 2025 7 Airline Business Classes Compared 31 \u0645\u0627\u0631\u0633 2025 Business Travel Tips: How to Stay Productive When Flying 31 \u0645\u0627\u0631\u0633 2025 Can I Take My Hire Car on a Ferry? 28 \u0645\u0627\u0631\u0633 2025 Got an Unexpected Charge From Your Car Rental? 28 \u0645\u0627\u0631\u0633 2025 How To Choose Best Economy Plane Seats for Extra Legroom 28 \u0645\u0627\u0631\u0633 2025 What Is a Fuel Policy? 28 \u0645\u0627\u0631\u0633 2025 Understanding Rental Car Fees and Charges 25 \u0641\u0628\u0631\u0627\u064a\u0631 2025 How To Avoid Losing Your Rental Car Deposit 18 \u0641\u0628\u0631\u0627\u064a\u0631 2025 Car Rental Reviews: How Reviews Help You 14 \u0641\u0628\u0631\u0627\u064a\u0631 2025 Tips for Returning Your Rental Car if the Counter is Closed 30 \u062f\u064a\u0633\u0645\u0628\u0631 2024 How to Travel with Bikes in a Rental Car: FAQs 29 \u062f\u064a\u0633\u0645\u0628\u0631 2024 How to Rent a Car for Your Ski Trip 27 \u062f\u064a\u0633\u0645\u0628\u0631 2024 The Complete Guide To Airline Food 27 \u062f\u064a\u0633\u0645\u0628\u0631 2024 What is a Layover? A Complete Guide: Here\u2019s What to Expect 24 \u0646\u0648\u0641\u0645\u0628\u0631 2024 Standby Flights: What are They, and How do They Work? 24 \u064a\u0648\u0644\u064a\u0648 2024 \u0642\u062f \u062a\u0639\u062c\u0628\u0643 \u0647\u0630\u0647 \u0627\u0644\u062e\u064a\u0627\u0631\u0627\u062a \u0623\u064a\u0636\u0627\u064b Navigate the roads of France with confidence! Our guide for UK travellers driving in France covers everything you need to know for a hassle-free trip. Planning on driving in Greece? Our guide for UK travellers covers everything from driving laws to essential tips for a hassle-free trip. Planning to pick up a rental car? Follow these car rental tips to know exactly what to bring with you for a seamless start to your journey. Involved in a rental car accident? Discover essential steps to take rental car after accident steps to take after an accident in a rental car. Learn 8 practical car rental tips to save on your next car rental, from booking strategies to avoiding hidden fees. Returning your rental car doesn't have to be stressful. Follow our 8 easy steps for a hassle-free experience and save time and effort.",
+      "headings": []
+    },
+    {
+      "rank": 10,
+      "domain": "facebook.com",
+      "url": "https://www.facebook.com/groups/15908242749/posts/10161329006762750/",
+      "title": "What tips/tricks/hacks have you discovered to save money on car ...",
+      "word_count": 0,
+      "scrape_status": "failed",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 11,
+      "domain": "chrishutchins.com",
+      "url": "https://www.chrishutchins.com/blog/all-the-rental-car-hacks/",
+      "title": "Saving Money on Rental Cars - All the Hacks",
+      "word_count": 2653,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://images.podpage.com/tr:w-1200,h-630,cm-pad_resize,bg-blurred_70/https://s3.us-west-1.amazonaws.com/redwood-labs/showpage/uploads/images/a695eaf6-d0c7-4b53-90bb-42168392f8fb.png",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://images.podpage.com/https%3A%2F%2Fs3.us-west-1.amazonaws.com%2Fredwood-labs%2Fshowpage%2Fuploads%2Fimages%2Fa695eaf6-d0c7-4b53-90bb-42168392f8fb.png?auto=format&w=480&s=c3dac6f2fceb0883e70f29a454c2a170",
+          "alt": "\ud83d\ude97 Saving Money on Rental Cars",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://images.podpage.com/https%3A%2F%2Fs3.us-west-1.amazonaws.com%2Fredwood-labs%2Fshowpage%2Fuploads%2Fimages%2F9a93086d-6409-440e-907c-f1b78884e603.png?auto=format&dpr=1&fit=crop&h=285&w=285&s=69ac68838fd0dc628794924fda472fd2",
+          "alt": "Hi, I'm Chris Hutchins \ud83d\udc4b Profile Photo",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://images.podpage.com/tr:w-720,h-378,cm-pad_resize,bg-blurred_70/https://s3.us-west-1.amazonaws.com/redwood-labs/showpage/uploads/images/ac32ba8a-bb5d-485d-8bb0-199ed761b97d.png",
+          "alt": "image for \ud83d\udcb0 My Top Finds, Latest Deals, and Best Recommendations (4/18/26)",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://images.podpage.com/tr:w-720,h-378,cm-pad_resize,bg-blurred_70/https://s3.us-west-1.amazonaws.com/redwood-labs/showpage/uploads/images/29684ef9-6d4e-4984-9b3e-55e14c2e43ac.png",
+          "alt": "image for \ud83d\udcb0 My Top Finds, Latest Deals, and Best Recommendations (4/12/26)",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "Advertiser Disclosure Note: American Express is a ChrisHutchins.com advertiser Last month I had a great conversation for the podcast with Jonathan Weinberg ( \ud83c\udfa7 Ep66 ) where we talked about all the deals, tricks and tips for rental cars. So with Labor Day travel coming up, I wanted to share takeaways to help you all save money. Even if you\u2019re not traveling for Labor Day, everything below should help you save real $$ on your next rental. \ud83e\udd14 It's time to rethink how you plan your trips It\u2019s pretty normal to wait to think about booking your rental car until you\u2019ve booked your flights and hotels, but that\u2019s no longer always true. I've recently heard stories of people canceling trips and rearranging flights simply because there were no rental cars available. My conversation with Jonathan Weinberg ( Ep 67 ) was packed with tricks, and money-saving lessons for rental cars and I\u2019m excited to share them with you to help you save $$ on your next trip. After all, he has helped save renters over $100M since starting his company Autoslash 12 years ago. \ud83e\udd2a The rental car market has been crazy Before the pandemic I remember renting a car in LA for as low as $10/day, but now current market rates are more like $80 - $200/day. During the peak craziness, some people even rented U-Hauls for $250/day, because it was the cheapest (or only) option available. Why? Well the extremely low demand during the pandemic basically imploded the rental car market. Companies sold many of their cars to right-size their inventory with the plan to repurchase new ones when the demand came back. Except when they started buying, they couldn't, because there was a computer chip shortage (cars need 1,000-2,000 computer chips to operate). So it\u2019s a whole new world for rental cars. And while rates and availability have gotten a little better, there are still entire states and countries with extreme inventory shortages. \ud83e\udd45 Casting a wider net in your search process The rental car companies are in constant price competition. They are undercutting prices against each as often as by the hour to steer business their way. All of this means an opportunity for the savvy renter. You just need to cast a wider net for your search. I live in the Bay area with three airports. If I were flying here for vacation and wanted a car, I would figure out the rates for each airport and add them to costs for flights to those airports and compare the total prices for each to find the best deal. Look at off-airport. Off-airport rentals can be cheaper, but you have to factor in the time and cost to get you there (Uber or Lyft). Also, off-airport rental car agencies are typically open 8AM - 5PM, so a late arriving flight (whether booked that way or delayed) can make it a challenge. However, you can pick-up and drop-off from separate locations, and while one-way rentals across long distances (pickup in SF, drop off in LA) can be expensive, they\u2019re often the same price if the two locations are in the same city. Unfortunately switching between on-airport and off-airport locations usually require two different searches. Two examples for using this to your advantage: If renting a car off-airport saves you a lot, you might still be able to drop it off at the airport at the same rate, so you\u2019d only have to figure out getting between the airport and rental car location once. If you\u2019re to drive around to explore an area, but don\u2019t need the car for your whole trip, you could pick up at the airport and drop off downtown. Our au pair recently did this and picked up her car at LAS airport for a trip to the Grand Canyon and dropped her car off at a hotel on the Strip before spending a few days in Vegas. Weekly vs. daily rates (and late returns). Different rental periods can often offer significant price differences. For example, the weekly rate (\u22655 days) can often be a better deal, so it might be cheaper to rent for 5 days, even if you only need 4. And fun tip: if you return the car a day early, you might get that weekly rate prorated, because you only used 4/5 days. Also keep in mind that a rental car \u201cday\u201d is a 24-hour period and the timer starts when you pick up the car, so if you pick up early, you\u2019ll have an earlier drop off time before additional charges kick in. Here\u2019s how a few of the major brands charge for late returns: Grace Period: 59min (Enterprise), 29min (Avis/Hertz) Additional Day Charge: Late by 2.5hrs (Enterprise), 1.5hrs (Hertz/Avis) Change pickup times (day, afternoon, evening, within the hour). This one frustrates me, but for some reason, your pickup time can actually change the rate you pay. Sometimes even just booking on the half-hour instead of the hour can change things too. However, the major companies usually let you pick up anytime on your reservation day (after all flights land early and get delayed), so you could book at the lowest price and just come when you arrive. That said, discount brands might not be as flexible, so it may be worth calling and asking. Prepaid rates. I try to avoid prepaying for rentals. Not just because plans can change but because with pay at the counter rates, you can easily cancel and rebook if the rates come down. However, most prepaid rentals don\u2019t require you to forfeit the entire rental cost, there\u2019s usually a fee to cancel depending how far in advance you do it. However, sometimes the cancellation fee is so low (e.g. $25) that prepaid might be worth the savings. However, just keep in mind that prepaying the rate doesn\u2019t give you any more priority for guaranteeing a car for you\u2026 you\u2019ll have the same priority as someone who chose to pay at the counter, which is usually just \u201cfirst come, first serve.\u201d Prepaid fuel. Don't pay for prepaid fuel. It may seem like a better deal because it has much lower cost per gallon than what you pay if you don\u2019t bring the car back full. However, you are likely wasting money, because you have to buy the entire tank and it\u2019s very difficult to manage your fuel levels so you bring the car back exactly empty. The most cost-effective option is to just fill up the tank in the 10 miles before drop off. \ud83d\ude98 The rental car process There are many things to consider when renting a car, so let\u2019s briefly discuss the process and highlight some of the important considerations. Searching for your rental . The search process is fairly intensive because variability in options is tremendous (pickup times, types of cars, and from hundreds of locations within a particular area). I used to assume that the company with the cheapest compact rate would have the cheapest full-size or SUV rate too, so I would try to simplify my results by searching for one type of car and then picking the car I wanted from that company. Well that assumption was totally wrong, so definitely make sure to search for all the types of vehicles you\u2019d be ok renting. Booking your rental . The site you book your rental on matters because different sites offer better discounts, pay-later flexibility, and provider reservation tracking functions to keep looking for a better prices. However, all those rentals are ultimately booked with the same rental car companies, so I would book wherever you find the best price (unlike my recommendations to book hotels/flights directly with the airlines). Tracking your reservation. This part of the process is often overlooked, but because most rental car reservations have no fee to cancel, you can take advantage of any drops in price. You can do this manually by rerunning your search every so often, or use a site like Autoslash , which will just track your reservation daily and send you an email if rates drop and they find you a better price. The best part is that you don't need to book the original reservation with them, you can upload your reservation, and they\u2019ll still track it for a better deal. Picking up the car. Without joining a loyalty program, you usually need to go to the counter to confirm your reservation before going to the lot to pick up your vehicle). I\u2019ve seen lines with dozens of people in them, which is why I think the best loyalty program benefit is the ability to skip the line and go straight to the lot to get your car. These programs are free to sign up for, so there is no reason not to. Here are some tips for selecting your car: Check the mileage. It's an indicator of the car's condition Look at the tread on the tires. And think about the weather forecast Open the door and check the amenities that fit your preferences (e.g. bluetooth, usb chargers, etc) Take a picture or video of the car before driving it off the lot (for your damage protection) Dropping off the car. The drop off process is mainly about protecting yourself. The most important thing is to get a receipt (whether physical or digital) before you leave. Also, take pictures or a video of the vehicle to document the condition you left it in. Any damage under a quarter size shouldn't be a concern (at least in the US), but it's safer to document. The last thing you should do is take a picture of the gas receipt, fuel level and the cars mileage in case you ever need the proof down the road. This sounds like a hassle and 99% of the time is totally unnecessary, but I promise you\u2019ll be glad you did if you\u2019re ever in the 1% of the times it matters. \ud83c\udfc6 How do the brands stack up? There are three major brands (Hertz, Enterprise, and Avis) that own a ton of the rental car market. Hertz owns Dollar & Thrifty. Enterprise owns Alamo & National. Avis owns Budget & Payless. How do they stack up? (according to Jonathan and his team ): National sets the standard for the best overall experience. You can choose your own car, they have better model cars, excellent service and have the best loyalty program for earning free rentals. I was really surprised to learn this and am excited to rent from National in the future and how Jonathan\u2019s take holds up. Hertz follows closely, offering their \u201cUltimate Choice\u201d program that let\u2019s you choose your own vehicle at most airports and get on your way quickly. Avis is next, still solidly in the top tier of rental car companies. The next tier is Enterprise, Alamo and Budget. Enterprise has great customer service, Alamo lets you choose your car, and Budget provides a fast check-in service. But none of the three are as seamless as the higher tiered brands. Dollar, Thrifty and Payless are deep discount brands. The cares are still solid, but you\u2019ll often get the service/experience that\u2019s expected from a discount brand. \ud83d\udcb0 You need to be using discounts Memberships (AAA, Costco, AARP), credit cards and many employers offer valuable discounts that are essential to use for savings on rental cars. But these are not the only ones, you can also find them directly from rental car companies, local or national organizations, college alumni associations, for military personnel and for senior citizens. When I was at Google, their discount with Hertz was so good that I could almost never beat it, but sorting through all the others can be a lot of work. Especially when the discounts from programs like AAA or Costco can be so big it would more than justify getting a membership just to save on one reservation. That\u2019s why I love that Autoslash will compare discount codes from all programs across the board, even before you\u2019re signed up for them. The process takes a few minutes, so you don't have to run multiple searches or maintain a spreadsheet of all the discount codes. It\u2019s also tricky because different membership programs offer discounts with different brands (AAA works with Dollar, Thrifty, Hertz; Costco works with Alamo, Avis, Enterprise, and Budget). And not only will the discount codes save you money on booking, but they also save you on extra fees: AAA will save you on fees for under-25 renters at Hertz AAA rates include a free car seat and provide road-side assistance AAA and Costco rates offer a free extra driver Most major rental car companies will let spouses drive for a fee (note: that if the lines are long and the loyalty program let\u2019s you skip the line, you can usually add an extra driver at the check out window) \ud83d\uded1 Use caution with employer discounts Using a discount code from a previous employer or even a company you\u2019ve never worked at may be tempting, but I'd be careful. Many rental car companies are cracking down because the company rates are so much cheaper. Some people have even been put on a 'do not rent list' for fraudulent use. And you can put yourself in a deeper hole if you get in an accident, because many times the employer has contractually agreed to cover the cost of repairs, but likely won\u2019t cover them if they determine that the renter isn\u2019t actually an employee. So if you\u2019re using a corporate discount code you\u2019re not eligible, always make sure to decline the insurance. \ud83e\udd2cYou show up, and there is no car available for you This happened a lot in the early wake of the pandemic, but it\u2019s probably not something you should be too worried about. However, it\u2019s important to know that rental car companies don't actually hold a car that matches your reservation (see video below). Because most reservations are not prepaid, many people cancel at the last minute or just don\u2019t show up, so companies usually oversell their inventory by up to 30% to ensure they\u2019re maximizing utilization. However, your rental contract is binding, so if you show up and they have no cars, the company should do everything in their power to get you one. Don't accept \u201cthere is nothing I can do\u201d because you should not pay for the inconvenience. It's an opportunity to ask for: Free transportation to pick up a car at another location Request they bring you a car from another location Rental from a competitor (where they cover any difference in price) Free points, upgrades or add-ons for the hassle So should you book a backup reservation? Doing this will just compound the problem and impact someone else waiting for their reservation, so I\u2019d suggest only using a backup reservation for when you absolutely need a vehicle. You can also call ahead to the company to get a sense of the inventory, especially if you're renting off-airport because they have smaller fleets. Also, sometimes companies will also use \u201ccheap upgrades\u201d to mask the fact that they don't actually have the car you booked. It may look good, but challenge them before you take it, because if they don\u2019t have a car in the class you booked, you could be in a position to get that upgrade for free. And if that forced upgrades means less fuel efficiency, I\u2019d definitely ask for free fuel or some other discount. \u274c In most cases, it's safe to decline the insurance The best way to avoid the rental car company's pricey insurance is to use a credit card with primary coverage combined with your personal car insurance policy (assuming it extends coverage to rental cars, which it usually does). The credit card will cover damage to the rental car, but it will not cover liability (damage to other vehicles and injuries to others",
+      "headings": []
+    },
+    {
+      "rank": 12,
+      "domain": "travelandleisure.com",
+      "url": "https://www.travelandleisure.com/travel-tips/ground-transportation/how-get-cheaper-car-rentals",
+      "title": "15 Ways to Snag the Cheapest Car Rental Deals Available",
+      "word_count": 0,
+      "scrape_status": "failed",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 13,
+      "domain": "youtube.com",
+      "url": "https://www.youtube.com/watch?v=c8tTyqAVVpM",
+      "title": "Unlock 10 Rental Car Hacks for Big Savings in 2026 - YouTube",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 14,
+      "domain": "visitteo.com",
+      "url": "https://visitteo.com/9-clever-ways-to-save-money-on-a-car-rental/",
+      "title": "9 Clever Ways to Save Money on a Car Rental - Visitteo",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://visitteo.com/wp-content/uploads/2023/05/car-rental-couple-on-road.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://visitteo.com/wp-content/themes/visitteo/images/logo-visitteo.svg",
+          "alt": "Visitteo Logo",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://visitteo.com/wp-content/uploads/2023/05/car-rental-couple-150x150.jpg.webp",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://visitteo.com/wp-content/uploads/2023/05/car-rental-couple-on-road-150x150.jpg.webp",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://visitteo.com/wp-content/uploads/2023/05/how-to-save-on-car-rental-prices-cheap.jpg.webp",
+          "alt": "How to save on car rental, couple driving a car",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://visitteo.com/wp-content/uploads/2023/05/save-on-car-rental.jpg.webp",
+          "alt": "save on car rental, young girls in car",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://visitteo.com/wp-content/uploads/2023/05/cheapest-way-to-save-on-car-rental.jpg.webp",
+          "alt": "cheapest way to save on car rental",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 15,
+      "domain": "cbsnews.com",
+      "url": "https://www.cbsnews.com/news/spring-break-rental-car-best-deals/",
+      "title": "How to save money on a rental car this spring break - CBS News",
+      "word_count": 1030,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/03/07/ff11ad8c-8f90-4362-b691-3eb9ec2816b8/thumbnail/1200x630/f5d67b2a4fc94188d9ea459002a75101/gettyimages-1438004144.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/04/24/b750c1bd-072b-4932-9a86-70db6d0acbab/thumbnail/1200x630/327d6fdedcc69c62e4532222a28e0549/cape-cod-rental.jpg#",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/04/21/966a4ba5-90e4-4daa-b7bd-7d8c610e63f4/thumbnail/1200x630/3f920a92daa86b0495760461a7709dc0/copy-of-generic-youtube-thumbnail-no-gradient-2026-04-21t120318-000.jpg#",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/04/22/4ab30c21-561c-488a-8f34-9360aae9cf7e/thumbnail/1200x630/a988a0e4630116ae9d0fecf7269ce627/gettyimages-1217493999.jpg#",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/04/22/e3310528-d04c-4acb-b2c7-6860ed95cd97/thumbnail/1200x630/6e94e3f6240437040e9d17f03f9e57d3/gettyimages-2161352405-1.jpg#",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://substackcdn.com/image/fetch/%24s_!q-KA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe01fdf28-ab3a-4add-9dde-60ff5b903fb5_1024x683.jpeg#",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://substackcdn.com/image/fetch/%24s_!Sru-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F278bc410-da3a-4962-a4a0-41696ce4ffef_1024x768.jpeg#",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "For a number of spring breakers , a rental car is a necessity that can add hundreds of dollars to a vacation after paying for flights, accommodations and excursions. While rental car prices have dropped from COVID-19 pandemic highs of hundreds of dollars per day in some locales \u2014 when supply-chain snarls followed by a sudden rebound in travel led to widespread vehicle shortages \u2014 they can still be expensive. The daily rental car price for summer 2024 is averaging at $84, down about 10% from two years ago, according to data from Kayak.com. Currently, car rental prices for Easter weekend are even cheaper, down 19% compared to two years ago. Here are ways to save money on a rental car, financial traps to avoid and how to determine if a rental car company is offering a good deal \u2014 or trying to take you for a ride. Pay with a credit card As is generally the case when making purchases, it's wise to pay for your rental car with a credit card, as they typically have built-in protections \u2014 particularly when it comes to booking a car. For example, some credit cards offer primary and secondary car rental insurance to cardholders, meaning you don't have to purchase insurance as an add-on at the rental counter. A few credit cards, including the Chase Sapphire Reserve, Chase Sapphire Preferred, Capital One Venture X and United Explorer cards come with what's known as primary rental car insurance. It's still important to know exactly what kinds of damage is covered, and when, if you're a vehicle owner, you could have to rely on your own policy. \"The downsides of secondary insurance is it usually doesn't kick in until you've gone through your primary insurer,\" Bankrate senior industry analyst Ted Rossman told CBS MoneyWatch. Additionally, even primary credit card insurance only covers damage to the vehicle that you've rented. \"It won't cover potential damage to other cars or people, if someone in another car, or a pedestrian is injured,\" Rossman added. Do I need to buy insurance? If you're not a vehicle owner yourself and don't have care insurance, it could provide peace of mind to purchase a policy from the rental company, according to Rossman. \"Credit card rental insurance can offer useful benefits, but you want to make sure you're filling in gaps perhaps with personal car insurance company,\" he added. Take a short video of the vehicle As far as damage goes, it's also wise to take a short video of the car's exterior before driving it off the lot, to document any existing scratches or dings, so you're not liable upon returning it. \"I always take a one-minute video showing the top, bottom, left, right so you have a video in the rental company's garage showing what it was like. Do same thing when you turn it back in,\" Summer Hull, content director at travel site The Points Guy, told CBS MoneyWatch. \"It saved me once,\" said Hull, referring to a time when she was being pinned for damage on a rental. \"I had to lean back on the video. It can really help you down the road,\" she said. Shop around, leverage memberships There is a lot of variation in car rental prices from site to site, and company to company, which means it pays to shop around. Consumers can get some of the best rental car deals through memberships they may already have including Costco, AAA, and AARP cards. Costco Travel, which is affiliated with the shopping club, typically has lower prices than one will find elsewhere. \"Only Costco members have access, but I've consistently found that their prices are 15%-20% cheaper,\" said Scott Keyes of Going.com. AAA an AARP offer discounts and promo codes on car rentals too. Don't rent at the airport Stay away from picking up your rental at the airport, where rates are typically higher. Most major car rental agencies have rental locations about five miles away from airports where you can find substantially cheaper prices, according to Keyes. \"The convenience of renting at the airport often comes at a price,\" he said. Don't prepay It's a good idea to lock in a rental as soon as you know your travel dates, but do not pay in advance: Not only can you be charged for a cancellation, but you can also miss out on better deals. \"When you don't have to prepay, you have a lot of options to take advantage of price drops in the future,\" Keyes said. \"You never want to prepay, even if you're offered a small discount. You give up ability to take advantage of future discounts. That's the biggest thing folks can do to get the best price on car rentals.\" Gas it up on your own It pays to make time to fill up your rental car's gas tank before returning it to your agency of choice, as opposed to paying a fee for them to do it for you. \"The price you pay to fill the tank yourself is generally going to be cheaper than the price the rental company charges for the same amount of gas,\" a Kayak spokesperson told CBS MoneyWatch. Hull recommends filling up your car's tank far away from airports, where rates are cheaper. \"Stations near airports charge jacked-up rates,\" she said. What's the cheapest rental? It may sound counterintuitive, but consider upgrading your vehicle for a good deal. It may not be bottom-of-the-barrel cheap, but there's only a few dollars difference between average full-size car rentals and economy rentals, according to Kayak's data. In other words, you can get more bang for your buck by upgrading. In some locales, electric vehicle rentals are cheaper than gas car rentals, according to Hull. But note that if you choose an EV, you'll need to make a plan to charge it, which can come at a cost. Here's what to know about Cape Cod rentals this summer How LA28 Olympics ticket prices could be driven by bots, brokers and a big bill for the Olympics Condom maker warns prices may rise due to Iran war supply disruptions The Gripes of Wrath: Inside NYC\u2019s \u2018Rental Rip-off\u2019 Hearings",
+      "headings": []
+    },
+    {
+      "rank": 16,
+      "domain": "lajollamom.com",
+      "url": "https://lajollamom.com/find-car-rental-deals/",
+      "title": "9 Tips For Saving Money On Car Rentals - La Jolla Mom",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://lajollamom.com/wp-content/uploads/2016/01/how-to-save-money-on-rental-cars.jpg",
+        "alt": "Learn how to save money on rental cars in time for your next vacation.",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://lajollamom.com/wp-content/uploads/w3-webp/uploads/2024/07/katie-dillon-san-diego-blog.jpg.webp",
+          "alt": "Katie Dillon headshot",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://lajollamom.com/wp-content/uploads/w3-webp/uploads/2016/01/tips-for-airport-car-rentals.jpg.webp",
+          "alt": "Learn how to save money on car rentals and find the best prices here.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://lajollamom.com/wp-content/uploads/w3-webp/uploads/2024/07/katie-dillon-san-diego-blog-150x150.jpg.webp",
+          "alt": "Katie Dillon headshot",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://lajollamom.com/wp-content/uploads/w3-webp/uploads/2022/06/katie-dillon-la-jolla-mom-luxury-travel-scaled-crop.jpg.webp",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://lajollamom.com/wp-content/uploads/w3-webp/uploads/2024/08/knotts-berry-farm-discount-tickets-150x150.jpg.webp",
+          "alt": "A roller coaster on the track at Knotts Berry Farm.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://lajollamom.com/wp-content/uploads/2024/08/hotel-del-coronado-resources-1.webp",
+          "alt": "Red and white striped lounge chairs on the beach in front of Hotel Del Coronado.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://lajollamom.com/wp-content/uploads/2024/08/fairmont-grand-del-mar-family-hotel-scaled-scaled-1.webp",
+          "alt": "father and daughter jump into a pool at Fairmont Grand Del Mar",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://lajollamom.com/wp-content/uploads/w3-webp/uploads/2024/08/free-san-diego-ebook.jpg.webp",
+          "alt": "Cover photo of the San Diego Gold List eBook.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://lajollamom.com/wp-content/uploads/w3-webp/uploads/2012/12/san-diego-airport-lounge-airspace-scaled-120x120.jpg.webp",
+          "alt": "The bar inside the Aspire lounge at San Diego Airport.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://lajollamom.com/wp-content/uploads/w3-webp/uploads/2013/06/Alaska-Airlines-Hawaii-San-Diego-SAN-LIH-1-120x120.jpg.webp",
+          "alt": "Flights from san diego to hawaii",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://lajollamom.com/wp-content/uploads/2013/12/Why-Apply-for-Global-Entry-Trusted-Traveler-Program-120x120.jpg",
+          "alt": "Why you need to apply for Global Entry trusted traveler program now.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://lajollamom.com/wp-content/uploads/w3-webp/uploads/2015/03/Southwest-Airlines-plane-in-snow-120x120.jpg.webp",
+          "alt": "A Southwest Airlines plane takes off on a snowy day.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://lajollamom.com/wp-content/uploads/w3-webp/uploads/2020/06/san-diego-tourism-authority.png.webp",
+          "alt": "San Diego Tourism Authority Member - La Jolla Mom",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://lajollamom.com/wp-content/uploads/w3-webp/uploads/2023/11/virtuoso-member-logo.png.webp",
+          "alt": "Virtuoso Member Travel Advisor - La Jolla Mom",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://lajollamom.com/wp-content/uploads/w3-webp/uploads/2020/06/american-society-of-travel-advisors.png.webp",
+          "alt": "American Society of Travel Advisors Member - La Jolla Mom",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://lajollamom.com/wp-content/uploads/w3-webp/uploads/2020/06/Preferred_Partner_White_BOX.png.webp",
+          "alt": "Four Seasons Preferred Partner Travel Advisor",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://lajollamom.com/wp-content/uploads/w3-webp/uploads/2023/11/virtuoso-family-logo.png.webp",
+          "alt": "Virtuoso Family and Celebration Travel Specialist",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://lajollamom.com/wp-content/uploads/w3-webp/uploads/2024/12/endorsed-by-forbes-travel-guide.png.webp",
+          "alt": "Endorsed by Forbes Travel Guide",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://lajollamom.com/wp-content/uploads/w3-webp/uploads/2026/02/lajollamom-logo.png.webp",
+          "alt": "La Jolla Mom logo",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 17,
+      "domain": "quora.com",
+      "url": "https://www.quora.com/What-are-some-tips-to-save-money-on-a-rental-car",
+      "title": "What are some tips to save money on a rental car? - Quora",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 18,
+      "domain": "youtube.com",
+      "url": "https://www.youtube.com/watch?v=mHCUs8zBiQQ",
+      "title": "4 Ways to Save Money on Car Rentals | NerdWallet - YouTube",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 19,
+      "domain": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/news/tips-for-saving-money-on-a-rental-car-155920432.html",
+      "title": "Tips to save money on your next rental car - Yahoo Finance",
+      "word_count": 455,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://s.yimg.com/ny/api/res/1.2/jRBRqY38t0wAMW024d6BHA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzE-/https://media.zenfs.com/en-US/video/video.pd2upload.com/video.yahoofinance.com@c2ea6d65-54b5-3f07-8e28-f28f764ef359_FULL.png",
+        "alt": "",
+        "description": "Generic editorial stock photo depicting common financial concepts like piggy banks or people with devices.",
+        "type": "editorial_stock_photo"
+      },
+      "article_images": [
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/nt5dGx4HiuaxJyO1G5ipxw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIzMjtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2020-12/02246f50-3412-11eb-bfdd-de89f8b3b8b8",
+          "alt": "Yahoo Finance",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/uVas0i.Vev0EUJ7w7WV1Gg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTUzNw--/https://media.zenfs.com/en-US/video/video.pd2upload.com/video.yahoofinance.com@c2ea6d65-54b5-3f07-8e28-f28f764ef359_FULL.png",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/ezDpJ.R6WtdWX4xd2lgt3A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTgwO2g9ODA-/https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2FGLB%2F2017-10-19%2F07a69b80-b506-11e7-8442-91d4935d5bf4_bc15a8e0-8383-11e7-892a-a1880d917874_bjcheadshot.jpg&compress=1&progressive=1&quality=75&client=hawkeye&signature=bba03592cac4939cdb01b710b0ed180ad0225664",
+          "alt": "Brittany Jones-Cooper",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/Im9K9nzEYplE30FXojPIpg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTEwOTc-/https://s.yimg.com/os/publish-images/finance/2016-03-29/98ee76d0-f5c7-11e5-aa52-3b46a8f82e1a_ThinkstockPhotos-501619772.jpg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "Booking a rental car can add hundreds of dollars onto vacation costs, but it doesn\u2019t have to. Here are some money-saving hacks to remember the next time you book. Go off-site Because of extra airport fees, it\u2019s typically more expensive to rent a car from the airport. If possible, take public transportation or a cab and pick up your car at an off-site location . For instance, renting a standard car from Avis at the St. Louis International airport costs $171 for a weekend rental. The exact same car will cost you $102 from an off-site Avis location that\u2019s just a 10-minute drive from the airport. After subtracting $20 for the cab, you\u2019ll save $50 by reserving the car away from the airport. In some cases, the hassle and the cost of getting to an off-site spot might not be worth it. You\u2019ll have to take time to research off-site locations by checking a specific company\u2019s website or searching for locations on Google Maps. Still, if you\u2019re on a tight budget, it\u2019s important to know your options. Join the loyalty program There\u2019s really no downside to joining a car rental company\u2019s loyalty program. It\u2019s free, and members receive regular emails with offers like free upgrades and discounted rentals. Beyond saving money, joining a loyalty program also comes with perks. Members typically get their pick of cars, making it easier to reserve nicer and newer models. Most programs also let their loyalty members bypass the counter and go directly to the car lot, getting you out of the airport quicker after a long flight. the extras When you go to pick up your car, they offer up all of these extras that you feel compelled to buy\u2026 DON\u2019T! Instead of buying rental insurance or a damage waiver, simply book the rental with your credit card. Most cards issued by Visa, Mastercard, American Express and Discover offer basic car insurance coverage that can actually be better than the package offered by the rental car company. With that said, credit cards have various levels of insurance, so before you make a reservation, check with your credit card company on what exactly is covered. Also, don\u2019t pay for a GPS system if you have a smartphone. You can use the GPS on your phone or download an app like Waze . Those two things alone can save you $20 to $30 a day. Always refill yourself Never take the pre-paid gas option. Sure, it\u2019s convenient, but it\u2019s always a few dollars more than what you would pay at the gas station. Instead, take time to fill the tank before you drop the car off. Do you have a question about saving money on rental cars? Email us at yfmoneymailbag@yahoo.com.",
+      "headings": []
+    },
+    {
+      "rank": 20,
+      "domain": "nbcnews.com",
+      "url": "https://www.nbcnews.com/better/lifestyle/10-ways-save-money-your-next-rental-car-ncna986931",
+      "title": "10 ways to save money on your next rental car - NBC News",
+      "word_count": 1720,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2019_13/2798361/190325-rental-cars-cs-229p.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-560w,f_auto,q_auto:best/newscms/2019_13/2798361/190325-rental-cars-cs-229p.jpg",
+          "alt": "Image: Rental cars sit in a lot at Los Angeles International Airport in California in 2013.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/t_focal-760x428,f_auto,q_auto:best/MSNBC/Components/Video/201711/Parking-Thumbnail-Option-3.jpg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://media4.s-nbcnews.com/j/newscms/2019_06/2745361/190207-morocco-camels-desert-cs-1125a_dff97eca3c003ba6b0cb19e814c78782.focal-60x60.jpg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/t_focal-760x428,f_auto,q_auto:best/mpx/2704722219/2023_07/d_better_bw_KondoSuitcase_181025-145m9n.jpg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    }
+  ],
+  "battle_plan_generated_at": "2026-04-26T10:45:10.996440+00:00",
+  "competitors_analyzed_count": 9,
+  "battle_plan_method": "local_deterministic_agent_no_api"
+}
