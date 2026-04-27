@@ -1,0 +1,579 @@
+{
+  "article_context": {
+    "angle": "Implementing practical spending caps and habits to reduce outflow without misery",
+    "pain_points": [
+      "Feeling that savings goals are never met despite growing account balances",
+      "Fear/refusal to use emergency savings for intended emergencies",
+      "Tracking expenses but still not understanding or controlling spending",
+      "Hidden or forgotten recurring expenses draining funds",
+      "Essential bills (car, house) consuming all disposable income"
+    ],
+    "top_social_questions": [
+      "How do I move from tracking expenses to actually saving money?",
+      "How do I stop feeling anxious or overly attached to my savings?",
+      "What are practical habits to cut spending without feeling miserable?"
+    ],
+    "dominant_emotion": "Attachment/hoarding mentality towards savings",
+    "serp_intent": "Searchers for \"how to save money on heating\" seek actionable advice on reducing home heating expenses through efficient practices, equipment choices, and lifestyle adjustments to lower utility bills. The SERP intent is informational, featuring guides on thermostat optimization, insulation improvements, alternative heating sources, and seasonal energy conservation tips from sources like energy agencies and home improvement sites.",
+    "serp_title_pool": {
+      "primary": [
+        "Tips to reduce heating costs : r/Frugal - Reddit",
+        "Fall and Winter Energy-Saving Tips",
+        "Top 10 Ways to Save Money on Winter Heating Bills - Peoples Gas",
+        "How to Cut Costs, Lower Your Heating Bill This Winter - AARP",
+        "Home Heating - How to Save Money on Heat - HVAC Tips",
+        "Cut Your Winter Heating Bill: Learn Top Ways to Save Energy - Trane",
+        "How To Save Money on Heating and Cooling Your Home",
+        "Tips on how to save money on heating bill - YouTube",
+        "6 Tips to Lower Your Heating Bills This Fall and Winter",
+        "8 Creative Ways to Save on Heating Costs this Winter",
+        "What is the best way to save money on heating costs? Should you ...",
+        "10 Ways to Cut Heating Costs and Stay Warm This Winter",
+        "Energy saving tips: Checklist to save \u00a3100s - Money Saving Expert",
+        "17 Ideas for Lowering Your Heating Costs in the Winter - SMO Energy",
+        "A Guide to Cutting Costs with Heat Pumps - Rewiring America",
+        "Helpful Environmentally Friendly Tips for Saving on Heating Costs",
+        "How to Cut Home Heating Costs This Winter - Consumer Reports",
+        "Facing high home heating bills this winter? These tips can help you ..."
+      ],
+      "long_tail": [
+        "How do you guys save on heat during the winter ? : r/Frugal - Reddit",
+        "Fall and Winter Energy-Saving Tips",
+        "8 Creative Ways to Save on Heating Costs this Winter",
+        "Cut Your Winter Heating Bill: Learn Top Ways to Save Energy - Trane",
+        "How to Cut Costs, Lower Your Heating Bill This Winter - AARP",
+        "Lower Heating Bills: Efficiency Tips for 7 Things in Your Home",
+        "Experts explain how people can save money while keeping warm ...",
+        "6 Tips to Lower Your Heating Bills This Fall and Winter",
+        "Top 10 Ways to Save Money on Winter Heating Bills - Peoples Gas"
+      ],
+      "question": [
+        "Best Thermostat Settings for Winter: Save Energy All Year Long",
+        "What Temperature Should I Set My Thermostat to in the Winter?",
+        "House Temp - Comfort vs. Saving Money : r/homeowners - Reddit",
+        "Programmable Thermostats | Department of Energy",
+        "Best Thermostat Temperatures & Settings for Summer & Winter",
+        "The 'sweet spot' temperature to set your thermostat to save money ...",
+        "No Cost Ways to Save - Keep Warm Illinois",
+        "Recommended Thermostat Settings For Summer and Winter - Carrier",
+        "What's the Right Thermostat Temperature for Winter? Find Yours ...",
+        "Keep Your House at This Temperature to Save Money - YouTube"
+      ]
+    },
+    "paa_questions": [
+      {
+        "q": "How can I make my heating bill cheaper?",
+        "a": "LOWER MY MONTHLY BILL"
+      },
+      {
+        "q": "Is 72 a good temperature for heat in the fall?",
+        "a": "The optimal temperature for your thermostat during the fall is typically between 68 to 72 degrees Fahrenheit. This temperature range provides a comfortable environment for your family, while saving you money on your energy bill. The temperature you set to your thermostat is especially important during the fall season."
+      },
+      {
+        "q": "What's the cheapest way to have your heating on?",
+        "a": "Heating tips to save on gas and electricity Turning your thermostat down by 1 degree, could save up to 10% on your energy bill. The Energy Savings Trust recommends 18\u2070C - 21\u2070C as the lowest comfortable temperature. Switch to a smart thermostat so you can control your heating from your smartphone or tablet."
+      }
+    ],
+    "related_searches": [
+      "How to save money on heating reddit",
+      "How to save money on heating bill during winter",
+      "10 ways to save electricity at home",
+      "100 ways to save energy at home",
+      "How to make your home more energy efficient in winter",
+      "50 ways to make your home more energy efficient",
+      "Energy saving tips for summer",
+      "Heating schedule to save money"
+    ]
+  },
+  "primary_keyword": "how to save money on heating",
+  "competitors": [
+    {
+      "rank": 1,
+      "domain": "reddit.com",
+      "url": "https://www.reddit.com/r/Frugal/comments/qjc1pc/tips_to_reduce_heating_costs/",
+      "title": "Tips to reduce heating costs : r/Frugal - Reddit",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 2,
+      "domain": "energy.gov",
+      "url": "https://www.energy.gov/energysaver/fall-and-winter-energy-saving-tips",
+      "title": "Fall and Winter Energy-Saving Tips",
+      "word_count": 783,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.energy.gov/sites/default/files/2023-11/fall_shutterstock_2010964784_0.jpg",
+        "alt": "Sweater wrapped around a decorative ceramic house, sitting in autumn leaves on the ground.",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.energy.gov/sites/default/files/styles/full_article_width/public/2024-01/shutterstock_2010964784-Banner_0_0.jpg?itok=wTAUvdv9",
+          "alt": "Fall Tips",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "The following tips will save money and energy while staying comfortable during the cool fall and cold winter months. Many of these tips can be used on a daily basis to increase your savings; others are simple and inexpensive actions you can take to ensure maximum savings through the winter. If you haven't already, conduct an energy assessment to determine where to save the most, and consider making a larger investment for long-term energy savings. Also check out no-cost and low-cost tips to save energy during the spring and summer . Take Advantage of Heat from the Sun Open curtains on the south-facing windows during the day to allow sunlight to naturally heat the home, and close them at night to reduce the chill from cold windows. Be certain to plant deciduous trees on the south facing side of the home, especially in proximity to windows. They will let the light and warmth in the windows during the winter and will shade the windows in the summer. Cover Drafty Windows Use a heavy-duty, clear plastic sheet on a frame or tape clear plastic film to the inside of window frames during the cold winter months. Make sure the plastic is sealed tightly to the frame to help reduce infiltration. Install tight-fitting, insulating drapes or shades on windows that feel drafty after weatherizing. Find out about other window treatments and coverings that can improve energy efficiency. Adjust the Temperature When you are home and awake, set the thermostat as low as is comfortable. When you are asleep or out of the house, turn the thermostat back to save as much as 10% a year on your heating and cooling bills. A smart or programmable thermostat can make it easy to set back your temperature. But make sure the temperature is comfortable for pets! If you have a heat pump, maintain a moderate setting or use a programmable thermostat specially designed for use with heat pumps. Find and Seal Leaks Seal air leaks around utility cut-throughs for pipes (\"plumbing penetrations\"), gaps around chimneys and recessed lights in insulated ceilings, and unfinished spaces behind cupboards and closets. Find out how to detect air leaks . Learn more about air sealing new and existing homes . Add caulk or weatherstripping to seal air leaks around leaky doors and windows. Find out how to select and apply the appropriate caulk and weatherstripping . Maintain Your Heating Systems Schedule routine service for home heating systems . Replace furnace and heat pump filters once a month or as needed. Find out more about maintaining furnaces or boilers and heat pumps . Regularly clean the flue vent of wood and pellet burning heaters and clean the inside of the appliance with a wire brush periodically to ensure that it is heating efficiently. Find other maintenance recommendations for wood- and pellet-burning appliances . Reduce Heat Loss from the Fireplace Keep the fireplace damper closed unless a fire is burning. Keeping the damper open is like keeping a window wide open during the winter; it allows warm air to go right up the chimney. When using the fireplace, reduce heat loss by opening dampers in the bottom of the firebox (if provided) or open the nearest window slightly--approximately 1 inch--and close doors leading into the room. Lower the thermostat setting to between 50\u00b0 and 55\u00b0F. If the fireplace is never used, plug and seal the chimney flue. Install tempered glass doors and a heat-air exchange system that blows warmed air back into the room. Check the seal on the fireplace flue damper and make it as snug as possible. Purchase grates made of C-shaped metal tubes to draw cool room air into the fireplace and circulate warm air back into the room. Add caulking around the fireplace hearth. Find out more techniques to improve your fireplace or wood-burning appliance's efficiency. Learn tips for safe and efficient fireplace installation and wood burning . Lower Water Heating Costs Keep the temperature of the water heater to the warm setting (120\u00b0F). This will not only save energy, it will also help avoid scalding. Find other ideas for energy-efficient water heating . Lower Holiday Lighting Costs Use light-emitting diode (LED) holiday light strings to reduce the cost of decorating the home for the winter holidays. Learn about the advantages and potential cost savings of LED holiday light strings . Find manufacturers and brands of ENERGY STAR\u00ae certified decorative light strings. Managing Your Home's Comfort February 26, 2024 Home Heating Systems April 16, 2026 Wood and Pellet Heating April 16, 2026 Fuel Economy in Cold Weather March 12, 2025 to receive updates from Energy Saver, including updated content and energy saving tips for consumers and homeowners. Fuel Economy",
+      "headings": []
+    },
+    {
+      "rank": 3,
+      "domain": "peoples-gas.com",
+      "url": "https://www.peoples-gas.com/news/archive/2016/12/save-on-heat",
+      "title": "Top 10 Ways to Save Money on Winter Heating Bills - Peoples Gas",
+      "word_count": 945,
+      "scrape_status": "success",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": "Pennsylvania PUC Public Hearings Scheduled on Proposed Merger of American Water and Essential Utilities Pennsylvania Public Utility Commission to Hold Public Hearings on Proposed Merger of American Water and Essential Utilities. Click here to learn more . 24 hours a day / 7 days a week What is an Emergency? Gas leaks, an odor of gas, damaged lines, and carbon monoxide symptoms are all considered emergencies. If you have an emergency, call our emergency hotline at 1-800-400-4271 . Our personnel are ready to assist you 24/7. When in doubt, call us immediately. If you smell gas, do not attempt to locate the leak. Instead, leave the house or building right away. Do not turn on or off any electrical switches, appliances, or lights, as an electrical charge could create a spark. When you are in a safe place, call the Peoples emergency hotline. We want to give you a couple of helpful tips to help you save money on heat this winter. 1. Seal ductwork. This is the number one way to conserve energy. Make sure that all ductwork is sealed at joints and intersections with duct sealer or silicone caulking. Otherwise, ductwork can leak heated air into the attic or crawl space, and outside air can be drawn into the return ductwork, increasing costs and reducing comfort dramatically. Ducts can be sealed using foil-backed tape or silicon caulking. Sealing and insulating ducts and pipes could reduce fuel usage from 2 to 15%. 2. Seal air leaks. Seal all holes from pipes and wires that enter/exit the living space. This includes entrances, pull-downs and attic stair openings, light fixtures, pipes, and wires. Attic entryways should be weather stripped and insulated. Caulk cracks between window frames or door frames and walls, both inside and outside the home. Press putty into smaller cracks seal larger crevices with a caulking gun. Seal cracks in chimney and foundation bricks and mortar. Caulk where foundation bricks meet the house siding. 3. Seal off wood-burning fireplaces. Never use a wood-burning fireplace as a heat source for your home. Even as a supplemental heat source, the cold air introduced to a warm home through an open flue isn't as efficient as sealing off a fireplace and using the primary source of heat. For natural gas fireplaces, follow the manufacturer\u2019s instructions to turn off the pilot light when not in use. 4. Lower the thermostat. It\u2019s one of the simplest way to save money! In the winter, set the thermostat between 65 and 70 degrees during the day and to 58 degrees at night or when away from home for several hours. Setting the thermostat back at night for a period of eight hours or more will reduce the heating consumption by approximately 1% for each degree below the daytime setting. 5. Lower water heater to 120-125 degrees. Many water heaters are automatically set at 140 degrees. Lowering the temperature on your water heater to between 120 and 125 degrees will reduce the amount of fuel needed to heat the water, while still providing the hot water that you need. 6. Change furnace filters every month This is the number one reason for furnace breakdowns. Inspect heating and cooling equipment annually, or as recommended by the manufacturer. Have a professional check, clean, and tune-up furnaces once a year. Check furnace air filters once a month during the heating season. If they become clogged, clean or replace with new filters and save 2 to 5% in fuel costs. When it is time to replace the natural gas furnace, consider a new high efficiency gas furnace. New gas heating systems are as much as 30% more energy efficient. 7. Weather-strip doors and windows. Inspect windows and doors for air leaks. If you can see daylight around a door or window frame, then the door or window needs sealing. Air leaks can be sealed with caulking or weather-stripping. Make sure the garage door has a reasonably tight seal around the bottom edge. Remember to weather-strip around doors that lead to the attic and garage. Caulking and weather-stripping doors and windows could reduce fuel usage by as much as 7 to 10%. 8. Add insulation. You should insulate the first 3 to 6 feet of cold and hot water pipes near the water heater. Insulating all hot water pipes is not necessary where pipes are located in a crawlspace or attic. Wrapping the water heater with an insulation blanket can save heating money by slowing the drop in temperature from the hot water tank as it sits unused. Inexpensive insulation kits are available at most home improvement stores. When adding insulation to the attic, start at the top and work down only after eliminating air infiltration. Any insulation will help reduce heat loss, but adequate insulation in the ceiling is most important. Ceiling insulation and attic vents could reduce fuel usage by up to 20 to 30 percent. 9. Make small changes inside your home. On sunny days, open shades, draperies and blinds to let the sun help to heat the home. blinds and draperies block radiators or heating ducts. Fuel consumption could be reduced by 3 to 7%. the vents/registers and doors in unused rooms and save up to 8% of the heat. Install a humidifier. It will keep the home at the proper humidity level and keep everyone comfortable at lower temperatures. If the house has radiators, vacuum all surfaces including hard-to-reach areas once a month. Arrange furniture with the heating system in mind. Don\u2019t restrict air flow from registers or cold air returns. Position furniture away from drafts. 10. Do not open and close outside doors needlessly. Reduced traffic means a warmer, draft-free home.",
+      "headings": []
+    },
+    {
+      "rank": 4,
+      "domain": "aarp.org",
+      "url": "https://www.aarp.org/money/personal-finance/lower-heating-bills/",
+      "title": "How to Cut Costs, Lower Your Heating Bill This Winter - AARP",
+      "word_count": 1890,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://aarp.widen.net/content/bqbztuwmwz/jpeg/79183_AARP-Heating-Bills.jpeg?position=c&color=ffffffff&quality=80&u=ucxnmh",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://cdn.aarp.net/etc/uxdia/images/uxdia-spinner.svg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "Home heating and cooling costs are surging. From March 2022 to June 2025, the average monthly energy bill rose from $196 to $265, a 35 percent spike, according to a study by the Century Foundation, a think tank dedicated to addressing inequality. Moreover, the average U.S. home will spend nearly $1,000 on heating this winter, a 9.2 percent uptick from last year, according to a report from the National Energy Assistance Directors Association, which represents state governments in securing federal funding. The bright spot: Keeping your home\u2019s energy costs manageable when the temperature drops doesn\u2019t require wearing three sweaters or installing a new heating system . Making changes to your home and daily habits at little or no cost could improve its energy efficiency and slash your heating bills by 20 percent or more. Adjust your thermostat Setting your thermostat a few degrees cooler than you usually do can lead to significant savings. Knocking the temperature back by\ufeff 7\ufeff to 10 degrees for eight hours per day can save you up to 10 percent annually on heating costs, according to the U.S. Department of Energy. \u201cThe closer you match the thermostat to the temperature outside your home, the easier it will be on the heating unit and your wallet,\u201d says Caroline Fountain, a spokesperson for Duke Energy, a Charlotte, North Carolina-based electric and natural gas utility company with customers in seven mostly Southern states.\ufeff But don\u2019t get too carried away\ufeff. Drastically lowering the temperature or turning the heating off can force your home\u2019s heating system to work harder \u2014 and could even cause pipes to freeze and burst. Kelly Ziegler, department manager of New York-area utility Con Edison\u2019s mass market energy efficiency programs, recommends setting your thermostat to around 68 degrees\ufeff during the day and lowering the temperature when you\u2019re sleeping or out of the house for more than six hours. You can automate this process by installing a programmable or smart thermostat , says Todd Berreman, director of energy efficiency programs at Houston-based CenterPoint Energy, which provides electricity and natural gas in Texas and five other states. These devices allow you to set temperature controls and schedule when your heating turns on, so you can sit back and forget about adjusting it manually. Some energy companies offer rebates to customers who install smart thermostats. Others provide bill credits or compensation to customers who permit their smart thermostats to be temporarily adjusted by the utility company during peak demand periods. Duke Energy, for instance, pays customers $150 when they enroll in its EnergyWise Home program and $50 every year after. Pay attention to your water heater temperature as well. It accounts for almost 20 percent of your home\u2019s energy use. Lowering the setting to 120\ufeff degrees or less can help reduce your heating bill. Stop the leaks Preventing hot air from escaping your home through gaps and cracks can greatly reduce your heating costs. Sealing air leaks with caulk and weatherstripping can cut your energy bill between 10 and 20 percent, and the materials typically cost less than $30. \u201cWarm air will always find ways out of your home,\u201d says Berreman. \u201cAdding caulking, door sweeps, anything that seals gaps can help.\u201d To identify your home\u2019s air leaks, the Department of Energy recommends focusing on exterior areas where different building materials meet, such as corners and outdoor faucets. Inside, cracks and gaps commonly occur around doors and window frames, mail slots, foundation seals, attic hatches, electrical outlets, baseboards, air conditioners, dryer vents, and cable, TV and phone lines. Your fireplace can be a big source of heat loss\ufeff, too. \u201cA wood-burning fireplace is kind of like an open window,\u201d says Berreman. \u201cYour heat goes right up the chimney and out the house if the damper isn\u2019t closed and operating properly.\u201d\ufeff \ufeffKeep the damper closed when a fire isn\u2019t burning and make sure the seal is snug. When a fire is lit, consider lowering the thermostat setting to between 50\ufeff and 55 degrees to save money, the Department of Energy suggests. Look after your equipment Carefully maintaining your heating system can prolong its life and help ensure its efficiency, reducing heating costs by 10 percent or more. \u201cWe recommend doing regular maintenance on your heating equipment every year,\u201d says Berreman. \u201cA clean burner, fan motor and heat exchanger will make the furnace run more efficiently, saving you money over a long winter.\u201d Servicing and preventive checkups may require the expertise of a qualified HVAC technician, but most people can at least make sure the area around the heating system is free of debris such as weeds and leaves, remove rusty water that can accumulate in your boiler and replace the air filters\ufeff, which should be changed regularly to ensure efficiency. \u201cA dirty filter clogs a heating system and makes it work much harder, which uses more energy and can lead to higher costs,\u201d says Fountain. To help you remember to replace air filters according to the manufacturer's maintenance schedule, Berreman recommends setting a calendar notification on your phone. If you need a new heating system, consider an Energy Star-certified one that meets strict efficiency guidelines set by the U.S. Environmental Protection Agency and can reduce energy costs. For example, an Energy Star-certified furnace uses $30 to $80 less energy per year than other models. Get a home energy audit Analyzing your home and energy use can turn up ways to improve your property\u2019s efficiency and comfort. While you can perform a home energy audit yourself , you'll likely get a more thorough examination by hiring a professional who has specialist equipment, such as infrared cameras.\ufeff An assessor should do a room-by-room examination and review your past year\u2019s energy bills to create a report with personalized recommendations that could slash your energy costs between 5 and 30 percent if implemented. However, a professional energy audit can be pricey, typically running between $200 and $700, according to Angi, a contractor-referral website. Check if your utility company offers free or discounted energy assessments. For instance, PSEG, which operates in New Jersey and Long Island, offers customers free professional energy audits, while PPL Electric Utilities in Pennsylvania provides rebates worth up to $350 for customers who get an audit from one of its partner contractors. If you can\u2019t get a free or significantly discounted audit, Ziegler recommends skipping it. \ufeffThe money you\u2019d spend on a full-price audit \ufeff\"is better spent on doing an energy-efficient upgrade to your home,\u201d she says. \u201cThere is a fairly small list of things people can do to improve their home\u2019s efficiency and it doesn't vary a lot house by house. Instead of spending $500 on an audit, you could hire a professional to check your insulation and improve it.\u201d Prep your home for winter Small, seasonal lifestyle changes can help keep your home nice and warm and your heating bills down. Fountain recommends running ceiling fans clockwise in winter to push warm air back down into the room, helping disperse heat. Most ceiling fans have a switch on the base or remote that allows you to reverse the motor. Embrace the sun\u2019s warming rays by opening the blinds, curtains or drapes over your windows, especially those on the south-facing side of your home. Covering the windows when the sun goes down can help insulate the home at night \u2014 drawing your drapes can prevent up to 10 percent of a warm room\u2019s heat from escaping, according to the Department of Energy. If closing drapes isn\u2019t cutting it, consider investing in more efficient windows. Upgrading from single-pane to Energy Star-certified options can lower your heating bill by up to 13 percent, as heat loss through windows accounts for 25 to 30 percent of all heating energy use. You may also want to upgrade your home\u2019s insulation, says Berreman. \ufeff \u201cI hear people say\ufeff, \u2018\ufeffNew windows will solve all my heating problems\ufeff,\u2019 but many homes lose a majority of heat through the attic or walls,\u201d he says. \u201cThe most effective way to keep the house warm is proper air sealing of the attic, especially in older homes that usually don\u2019t have adequate insulation.\u201d How to get help with your energy bills \ufeff\ufeff If high winter heating costs are straining your budget, your local utility company might be able to help you cut your bills. Federal programs may provide assistance, too. Utility company program Your utility provider should be your first call if you\u2019re struggling to pay your heating bills. Most utilities offer a one-time payment deadline extension or will work out a payment plan to split your bill into smaller increments over a set period. \ufeff Of course, paying those installments on top of your current charges can be tricky when you\u2019re already financially stressed. Ask if the company can connect you with community action programs, which can help you access federal, state or other aid to get back on track, says Berreman. Some energy companies have funds set aside to help customers who\u2019ve fallen behind on their bills. For instance, Duke Energy's Share the Light Fund works with community agencies to distribute aid to struggling customers. Low-income households receiving benefits from certain government assistance programs, like Supplemental Nutrition Assistance Program (SNAP) or Supplemental Security Income (SSI), may receive low-rate discounts from their heat provider. Some utility companies offer budget-billing programs that let you pay a set amount each month based on your usage history, making your energy bills predictable even when consumption fluctuates. If your usage spikes, though, your monthly payments could rise or you could get hit with a big bill at the end of the year.\ufeff Low Income Home Energy Assistance Program LIHEAP, as it's known, is a federal program administered by state governments that helps low-income families afford their energy bills. While eligibility requirements and program details vary by state, benefits can be used to cover heating costs, prevent energy shutoffs, reconnect services, improve a home\u2019s energy efficiency and repair or replace heating equipment. To see if you qualify, use the LIHEAP Eligibility Tool or call the National Energy Assistance Referral hotline at 866-674-6327. The program operates on a first-come, first-served basis, but older people and medically homebound individuals typically get priority. Weatherization Assistance Program This program, called WAP, helps limited-income households lower their energy bills by improving their home\u2019s energy efficiency. It provides funding to all 50 states and the District of Columbia to deliver weatherization services at no cost to participants. To qualify, you must meet strict income limits, and your state may have additional eligibility requirements. Households with someone age 60 or older, children or a member with a disability are given priority. You can apply through your local WAP agency \ufeff. Kerri Anne Renzulli has worked as a personal finance and careers reporter for Newsweek , CNBC, and Money . Her writing has appeared in the Wall Street Journal , USA Today , Fortune , Time , Mansion Global , Glamour , Business Insider and Architectural Digest . Unlock Access to AARP Members Edition Already a Member? Login Kerri Anne Renzulli has worked as a personal finance and careers reporter for Newsweek , CNBC, and Money . Her writing has appeared in the Wall Street Journal , USA Today , Fortune , Time , Mansion Global , Glamour , Business Insider and Architectural Digest . Unlock Access to AARP Members Edition Already a Member? Login",
+      "headings": []
+    },
+    {
+      "rank": 5,
+      "domain": "stramowski.com",
+      "url": "https://www.stramowski.com/hvac-tips/home-heating-how-to-save-money-on-heat/",
+      "title": "Home Heating - How to Save Money on Heat - HVAC Tips",
+      "word_count": 2656,
+      "scrape_status": "tavily_fallback",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": "24/7 Emergency Service * Click Here for Services * HOME * SERVICES + - Furnaces - Repair - Install / Replace - Tune Up / Maintenance - Boilers - Repair - Install / Replace - Tune Up / Maintenance + - Air Conditioners - Repair - Install / Replace - Tune Up / Maintenance - Ductless Split Systems - Repair - Install / Replace - Tune Up / Maintenance + Heat Pumps - Learn More About - Ductless Mini-Splits - System Repair - Install / Replace - Tune Up / Maintenance - Rebates & Tax Credits + Indoor Air Quality - Air Filters - Air Purifiers - Humidity Control + Specialty - Thermostats - Duct Work - Zone Heating - Magic Pak Systems * ABOUT + Hours of Operation + Our Service Area + Why Stramowski? + What To Expect + Our Values + Reviews / Testimonials + Certified HVAC Technicians + Career Opportunities * CUSTOMER CARE + Expert HVAC Tips (Our Blog) + Advantage Plus Insider Program * OFFERS + Financing Options + Specials & Coupons + Energy Rebates | Credits | Incentives * CONTACT US + Get A Free Quote Home/HVAC Tips/Home Heating - How to Save Money on Heat ### Recent HVAC Expert Tips & Posts * Do Heat Pumps Work? Focus on Energy Wisconsin Rebates * Beating the Oak Creek Summer Heat: Your Essential A/C Maintenance & Cooling Efficiency Guide * Home Heating - How to Save Money on Heat * 3 Tips for Keeping the Air in your Home Clean * Choosing Thermostats and Types * AC Refrigerants and Freon * Are you prepared to beat the heat this summer? * Finding the Best Service Technicians * 3 Common Furnace Problems and How to Fix Them Blog, HVAC Tips | Stramowski Milwaukee Area # Home Heating - How to Save Money on Heat Nov 17, 2023 by Stramowski Heating and Cooling - Milwaukee Area HVAC These tips can help make your home warmer and safer this winter Heating your home, especially in areas with harsh winters, can really hit the wallet hard. People who understand this are always looking for ways to save money on heating costs without having to spend too much. Nowadays we all understand how tight the budget can be. We at Stramowski fully understand this and want to help. We have put together some great tips and tricks for not only saving on heating costs but ways to keep your furnace running strong through the harsh winter months..... Pinpoint Heating Loss: An Example of Smart Spending A really smart Christmas gift this year has helped one of our Stramowski customers to pinpoint areas of his home that are leaking heat. The gift was a Digital Laser Infrared Thermometer Gun found on Amazon. This is a great present that led to great savings. Using the $16 thermometer gun from the comfort of his living room chair, he was able to \u201cshoot\u201d the red laser beam at areas around the room and measure the temperature at precise points. The unit displays the temperature on a digital screen on the back of the gun so you can clearly see where you\u2019re losing that precious heat,and giving you ideas on where to better weatherproof your home. Pointing it at door frames of external doors will show you where the weather stripping may need to be replaced or where gaps in the seals need to be addressed. The same goes for windows! You\u2019ll know exactly which windows are leaking enough that they should be replaced. This smart spending by a smart gift giver led to a better knowledge for this customer of how to winterize their home. Now this customer can address the issues of heat loss, which is especially important during our winter cold snaps! This example shows how if you\u2019re smart you can spend a little and save a lot. The important thing is to remember to be proactive when it comes to making decisions about how to save. Don\u2019t wait until the bitter cold comes to learn about winterizing your home or worse yet find out your furnace needs a tune-up! We go into more detail below about furnace maintenance as well. First things first let\u2019s break down how important the maintenance of your furnace is and how this is where you want to start with heating cost savings. We also break down some of the best tips for how to save on heating costs later in this blog. With our 8 tips to help you lower your heating costs, you will most certainly be able to lower the heating cost weight on your pocketbook. ##### Your Furnace is Like an Airline Seat If you\u2019ve ever traveled to a warm-weather destination in the summer, you know that airline tickets are typically cheaper. Why? Well because fewer people are traveling and there are more open seats to sell. The airlines price their seats accordingly to fill the plane.The same thing goes for getting your annual furnace tune-up. The cost is often substantially less when the HVAC company has fewer people on their schedule. This can lead to substantial savings for you and don\u2019t worry the business would rather have some customers than no customers! So, what is the best month to save money on your furnace tune-up you ask? The best months to save on your furnace tune-up are March, April, and May. The thing is HVAC companies have fewer scheduled appointments in March, April, and May. By the way, pay no attention to the myth that if your furnace is tuned up in March, the tune-up doesn\u2019t hold up until the Fall because it hasn\u2019t been running. You are not losing any value in the furnace tune-up just because your furnace isn\u2019t running. The idea is to be proactive and not wait until there is an issue. Bottom line the timing of your furnace tune-up doesn\u2019t matter to your furnace; what is key is to tune up your furnace each year. Do the smart thing and save some money. Get your furnace tune-up in March, April or May. CLICK HERE TO SCHEDULE A FURNACE TUNE UP ##### Furnace Energy Ratings and Furnace Maintenance Starting out, the first thing you should understand is that if you have an older, inefficient furnace then you may need to consider purchasing a new one. Therefore when it comes to replacing your home furnace you\u2019ll need to consider a lot of options, including energy efficiency. AFUE ratings (Annual Fuel Utilization Efficiency) determine how well a specific furnace uses energy. The Department of Energy defines AFUE as the ratio of annual heat output compared to the total annual fossil fuel energy used by the furnace. An AFUE rating of 80% indicates that 80% of the energy in the fuel transfers into heat, while 20% is lost. It\u2019s measured at the output vent of the furnace and does not include heat loss via the ducts. Here\u2019s what the energy guide label looks like. If your older furnace doesn\u2019t have a label, you can estimate what the efficiency is. Furnaces that have pilot lights that are on continuously are most likely low efficiency. These systems are typically between 56-70% efficient. High-efficiency furnaces use two heat exchangers and are typically 90-96% efficient Below are the minimum efficiency standards as outlined by the Department of energy: ##### Furnace Type * Gas \u2013 80% efficient * Mobile home \u2013 80% * Oil \u2013 83% efficient Most gas furnaces in the northern states are required to be 90% efficient. ##### Things Homeowners Can Check to Prepare for Heating Season A very common mistake most homeowners make is holding out to turn their heat on until it\u2019s \u201cabsolutely necessary\u201d. Waiting until temperatures drop to an uncomfortable level forcing you to turn your heat on, and realizing there is an issue, is generally what a lot of homeowners experience. Stramowski Heating has found that for homeowners this is a critical mistake. Waiting until the last possible minute to turn on your furnace can result in longer wait times when looking for a contractor to fix an issue. As a homeowner, you can avoid long wait times and be confident that your system is going to operate when you need it, by turning your heating system on before the bitter cold. Having your system checked with a maintenance tune-up is also a good idea to identify any issues with your system and prevent maintenance that could be needed during the wintertime. You don\u2019t want to end up having to replace your furnace in the dead of winter. However, if your energy bills are rising or if repair costs are becoming a problem, you may need to consider replacing your furnace. Installing a new high-efficiency model will save you a bundle each month plus many local energy companies provide incentives and rebates when you put in a new furnace. We do however realize that we can not get to everyone for regular annual maintenance and that not everyone can afford a new furnace. Before the temps start to drop, there are a few things a homeowner can check before starting their equipment. Doing so can help avoid costly repairs at the worst possible time. ##### What to Check Before Starting up Your Heating System Check/change batteries in your thermostat Every fall we are reminded of the life-saving habit of changing and testing the batteries in smoke alarms and carbon monoxide detectors. The reminders typically come when there is a fire that could have been prevented, or when daylight savings time approaches. This year, Daylight savings time is November 6th. Use this a reminder to also check/change your thermostat batteries. Check out our helpful video about checking/changing your thermostat batteries. Check/change your air filter Your air filter is actually important year round. Most people don\u2019t realize your air filter determines air quality not just through furnace season but also air conditioner season. You want to be sure of the air quality in your home year round. Check out our helpful video about changing your air filter and how to know when. Making sure your venting outside is clear: High efficient equipment vents with PVC out of the side of your home and should be checked. Bees & birds can create nests over the summer that block venting causing your heat not to work. Pro Tip:During heavy snow storms, be sure to check the outdoor venting pipes for your furnace and water heater. Keep them clear of snow drifts as the snow will block the exhaust and cause the furnace not to operate or function properly. Checking the circuit breaker: The circuit breaker and main power switch to your heating system should be checked before the heating season. Main switches can easily get turned off causing your system not to run. Circuit breakers could have tripped during summer storms and have gone unnoticed. You don\u2019t want to be calling your HVAC specialist to come to your home just to flip your breaker! If you are unsure of the condition of your furnace do not wait. Don\u2019t be caught in the cold. Contact us for a maintenance tune-up. We can evaluate your system and advise you on the condition of your heating unit. ### Test All Smoke Alarms Smoke alarms are your first defense against calamity during the winter months when your furnace is running at full steam. Test your smoke alarms and replace batteries as needed. Research shows that 33% of residential fire deaths happen in homes without smoke detectors and alarms that work. Fire safety devices that are fully working can give you and your entire family additional protection throughout the year. If you have any smoke alarms that are chirping, that means they\u2019re near the end of their battery life and it\u2019s time to replace batteries. Use Space Heaters with Caution and Never use The Stove If your furnace breaks down and you must use space heaters, be very careful to keep them away from anything flammable. Too close to the windows and it will be \u201ccurtains\u201d for anyone in the room! (they can catch on fire very easily) Also whatever you do, never use the kitchen stove to heat your home, if using a gas furnace. Leaving your stove running for long periods of time can result in carbon monoxide poisoning. #### Don\u2019t do it yourself Working on your furnace without proper training can be dangerous and lead to further damage to fragile components. A small problem could develop into a major repair expense if you are not sure what you are doing. It\u2019s like doing your own dental work, it never works out right. Make your home warm and SAFE this winter. Following these simple tips will make sure you are comfortable through the winter. And if you do need some assistance, the people at Stramowski are here for you! CLICK HERE FOR SERVICE REQUEST #### 8 Tips to \u2018SOCK IT!\u2019 to Your Heating Bill this Winter ##### We Saved the Best for Last! * Leave the bathroom door open. If you live alone or the house is empty when you take a hot shower, leave the bathroom door open so the steam (and heat) spreads to other rooms. Leave the fan off or you\u2019ll suck all the warm air away. * Turn down the water heater temperature. Most likely it\u2019s set between 120-140, but if you drop it 10 or 20 degrees, you likely won\u2019t notice it very much. Every little bit helps. * Stop heat from escaping. Keep doors to rooms open and heat your house as a whole. Keep your doors and windows shut and if you have a fireplace, make sure the flue is closed unless you are burning a fire. If you can install a metal fireplace insert, you may also be able to capture fireplace heat and redirect it into the room rather than up the chimney and out of your home. * Install a programmable thermostat. Programmable thermostats are proven to save. Have your heating and cooling company (that would be Stramowski no doubt) install a programmable thermostat. You can significantly drop your energy usage when you\u2019re away from the house and crank-it-up about a half hour before you arrive back home. * Perform maintenance on your heating system. If you keep your heating system properly maintained, it will help it run more efficiently. Electric and oil heaters gas heaters should be professionally serviced once a year. And don\u2019t forget to change out your filters. Dirty filters lead to higher heating costs. * Look outside. The exterior of your heating unit should be checked. If you have a heat pump, don\u2019t stack anything against it or drape anything over it. Hose the outside unit down to clear it of dirt, leaves and grass clippings. If your indoor unit appears to have excess water around it, see whether the condensate drain or lines are blocked. * Check for drafts. Light a candle and hold the flame near windows, doors and light fixtures and look for smoke moving sideways. If you see it, that means heat is escaping through cracks and leaks you may not be able to see. Use weather-stripping or add some insulating material. That\u2019s heat (and money) disappearing before your eyes. * Keep windows covered. At night, cover your windows. This will help you lower heat loss and keep cold air out, especially if you have a house with old windows. During the day when it\u2019s light out, uncover your windows and let the light in. Take advantage of the thermal heat coming in through the windows. ##### Why Stramowski? Stramowski Heating was founded in 1977 by Alvin and Elaine Stramowski. Your family is important to us and ensuring that they are warm in the winter and cool in the summer is our top priority! We take the worry out of any heating or A/C repair and make it easy to select a new heating ",
+      "headings": []
+    },
+    {
+      "rank": 6,
+      "domain": "trane.com",
+      "url": "https://www.trane.com/residential/en/resources/blog/how-to-save-money-this-winter-on-your-heating-bill-winter-energy-saving-tips/",
+      "title": "Cut Your Winter Heating Bill: Learn Top Ways to Save Energy - Trane",
+      "word_count": 1516,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://live-trane-headless-cms.pantheonsite.io/wp-content/uploads/2023/12/winter-energy-savings-1200x630-1.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.trane.com/_next/image/?url=https%3A%2F%2Flive-trane-headless-cms.pantheonsite.io%2Fwp-content%2Fuploads%2F2025%2F09%2FENERGY-STAR-WindowsClimateSavings_October2023-1600x965.jpg&w=3840&q=75",
+          "alt": "ENERGY STAR WindowsClimateSavings October2023",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.trane.com/_next/image/?url=https%3A%2F%2Flive-trane-headless-cms.pantheonsite.io%2Fwp-content%2Fuploads%2F2024%2F02%2FFurnace_Tune_Up_Thumbnail.webp&w=3840&q=75",
+          "alt": "What Is a Furnace Tune-Up?",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.trane.com/_next/image/?url=https%3A%2F%2Flive-trane-headless-cms.pantheonsite.io%2Fwp-content%2Fuploads%2F2023%2F01%2FHybrid-Systems-How-do-they-work-321x256-1.jpg&w=3840&q=75",
+          "alt": "Hybrid Heat Systems: How Do They Work?",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.trane.com/_next/image/?url=https%3A%2F%2Flive-trane-headless-cms.pantheonsite.io%2Fwp-content%2Fuploads%2F2024%2F09%2Fhome-in-winter_Thumbnail.webp&w=3840&q=75",
+          "alt": "Furnace vs. Boiler: What You Need to Know",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "Top ways to save on your heating bills include upgrading your HVAC system with a smart thermostat, selecting a high-efficiency furnace or heat pump, and optimizing temperature settings. In addition, weatherizing your home stops heat loss. As temperatures drop, the comfort of a warm home often comes at the cost of increased energy consumption and higher heating bills. For homeowners, finding effective strategies to combat the winter chill while keeping utility expenses in check is a top priority. Explore a range of winter energy-saving tips, covering everything from cutting-edge heating systems to practical behavioral changes. 1. Energy-Efficient Heating Systems The cornerstone of winter energy efficiency lies in the choice of your heating system. Embracing the latest advancements in energy-efficient heating technologies can lead to substantial long-term savings and environmental benefits. Smart Thermostats Smart thermostats have revolutionized the way we control indoor temperatures. These devices learn your heating patterns and preferences, allowing for precise temperature control . Some models even adapt to external weather conditions, optimizing energy usage. By investing in a smart thermostat, homeowners can experience both enhanced comfort and notable reductions in energy consumption. Savings: According to ENERGY STAR\u00ae , the average heating and cooling savings from installing and using a smart thermostat is 8%, or an average of $50 a year. Your savings could be substantially greater depending on your climate, your HVAC system, and your usage. Programmable Controls Programmable controls provide an additional layer of customization. They allow users to set different temperature schedules for various times of the day or week. For example, you can lower the temperature when you're away from home and increase it when you return. This level of control ensures that energy is not wasted when it's not needed, contributing to significant cost savings. Savings: ENERGY STAR estimates average savings of 5-10% depending on the thermostat settings, your climate, your HVAC system, how well-insulated your home is, and other factors. High-Efficiency Furnaces Upgrading to a high-efficiency furnace is a substantial investment that pays off in the long run. These furnaces utilize advanced technology to extract more heat from the fuel they burn, resulting in increased efficiency and a lower heating bill. While the initial cost may be higher, the reduced energy consumption and lower monthly bills make high-efficiency furnaces a wise financial decision. Savings: Your savings will vary depending on the furnace you install and natural gas prices in your area. If you currently have a furnace with an Annual Fuel Utilization Efficiency (AFUE ) of 80% and you upgrade to a furnace with an AFUE of 95%, you should save about 15%. 2. Optimal Temperature Settings Can Help You Save on Your Winter Heating Bill Finding the right balance between comfort and energy conservation starts with understanding optimal thermostat settings for winter . Small changes can add up to significant savings over time. During waking hours, consider setting the thermostat to a slightly lower temperature while ensuring comfort. Wear warmer clothing indoors and use blankets to stay cozy. Every degree you lower the thermostat can contribute to noticeable energy savings. Similarly, when everyone is tucked into bed, lowering the thermostat a few degrees can lead to substantial savings without sacrificing sleep comfort. Warm bedding and sleepwear can compensate for the lower room temperature. If you're leaving the house for an extended period, set the thermostat to an energy-saving temperature. Many modern thermostats allow remote control through smartphone apps like the Trane Home App , making it convenient to adjust settings even when you're not at home. Savings: Your savings will vary based on your climate, the average temperature outside, and what you set your thermostat to. 3. Sealing Drafts and Insulation Adequate weatherization of your home is a key factor in lowering your winter heating bill. Addressing common areas of heat loss, such as windows, doors, and attics, can significantly reduce the workload on heating systems and result in noticeable cost savings. Duct Sealing Leaky ductwork can lead to energy waste by allowing heated air to escape before reaching its intended destination. Inspect your ductwork for leaks and seal any gaps. This simple maintenance task can enhance the efficiency of your heating system. Savings: According to ENERGY STAR\u00ae , sealing leaky ducts can save you up to 20% on your heating and cooling bills. Attic Insulation Heat rises, and without adequate heat insulation in the attic, a significant amount of warmth can escape. Ensure that your attic is properly insulated to minimize heat loss. This not only keeps your home warmer but also reduces the strain on your heating system. Savings: The Environmental Protection Agency (EPA) estimates that homeowners can save up to 15% on their heating and cooling bills by properly insulating their attic, and the floors over crawl spaces and basements Windows and Doors Inspect windows and doors for drafts and seal any gaps or cracks. Weatherstripping, window insulation kits, and caulking are effective solutions to prevent cold air from infiltrating your living spaces. Consider using thermal curtains to provide an additional layer of insulation. Savings: According to ENERGY STAR , replacing old single-pane windows with ENERGY STAR-certified windows can save you up to 12% on your annual heating and cooling bills. 4. Regular HVAC Maintenance Routine HVAC maintenance is the unsung hero of energy savings. Regularly changing air filters, inspecting ductwork, and scheduling professional tune-ups can enhance efficiency and prolong the lifespan of heating equipment. Air Filter Replacement A clogged or dirty air filter restricts airflow, forcing the heating system to work harder. Check your air filters monthly and replace them as needed. This simple task ensures that your system operates at peak efficiency. Ductwork Inspection Inspect your ductwork for leaks, loose connections, or other issues that may compromise efficiency. Professional duct sealing can address these issues and optimize the performance of your heating system. Professional Tune-Ups Schedule annual professional tune-ups for your heating system. HVAC technicians can identify and address potential issues, clean and lubricate components, and ensure that your system operates efficiently throughout the winter. Savings: Your savings will vary, but maintaining your HVAC system can enhance energy efficiency, help prevent costly repairs, and prolong the life of your system. 5. Zone Heating Strategies Zone heating involves focusing warmth on frequently used areas while keeping unused rooms cooler. This strategy enables more targeted heating, potentially leading to substantial energy savings. By concentrating warmth in frequently occupied spaces, you can maintain comfort where it matters most. Unused rooms or areas with less foot traffic can be kept at a lower temperature, reducing overall energy consumption. Strategically using space heaters in specific rooms can provide additional warmth without the need to heat the entire house. However, it's essential to use space heaters safely and efficiently to avoid potential hazards. Savings: Actual savings will vary depending on the size of your home, your heat source, and your habits. 6. Behavioral Changes Simple lifestyle adjustments can be a smart and simple way to save energy. Consider adopting the following practices to make your home more energy-efficient during the winter months. Curtains and Drapes: Utilize curtains and drapes to trap heat during the day. Open them when the sun is shining to allow natural warmth into your home and close them at night to minimize heat loss through windows. Dressing Warmly: Wearing warmer clothing indoors allows you to set the thermostat a few degrees lower without sacrificing comfort. Cozy sweaters, socks, and blankets can make a substantial difference in your overall perception of warmth. Mindful Energy Use: Be mindful of unnecessary heat loss when doors and windows are open. Ensure that windows are closed tightly, and doors are kept closed when the heating system is running. This simple habit prevents warm air from escaping and cold air from entering your home. Savings: Savings will vary depending on your climate, sun exposure, the size of your home, and other factors. 7. Government Incentives and Rebates Other ways to save include money back from federal programs. Many regions offer financial assistance to homeowners making upgrades that promote energy efficiency, which can lower your winter heating bill. These programs may include tax credits, rebates, or grants to offset the initial costs of implementing energy-saving measures. Taking advantage of these programs not only reduces the financial burden on homeowners but also contributes to broader energy conservation goals. Savings: Tax credits available for systems installed before December 31, 2025, include: Up to a $2,000 tax credit on a new heat pump system, up to $600 tax credit on a qualifying gas furnace, and up to $2,600 in tax credits on a dual fuel system. You may also qualify for heat pump rebates . Contact Your Local Trane Comfort Specialist As winter approaches, proactively implementing these energy-saving strategies can make a significant difference in your heating bills. Whether it's investing in advanced heating systems, sealing drafts, or making simple lifestyle adjustments, every effort contributes to a more energy-efficient and cost-effective home. To learn more about lowering winter bills for your home, contact your local Trane Comfort Specialis t. Stay warm, stay smart, and enjoy the winter season without the financial chill. Related Articles",
+      "headings": []
+    },
+    {
+      "rank": 7,
+      "domain": "consumer.ftc.gov",
+      "url": "https://consumer.ftc.gov/how-save-money-heating-cooling-your-home",
+      "title": "How To Save Money on Heating and Cooling Your Home",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://consumer.ftc.gov/system/files/styles/social_standard/private/consumer_ftc_gov/images/ArticleGraphics_For-the-Home_1200x630_EN.png?h=ec041e41&itok=ET5Bo2aQ",
+        "alt": "",
+        "description": "Data visualization or financial chart graphic.",
+        "type": "graphic_design_data"
+      },
+      "article_images": [
+        {
+          "url": "https://consumer.ftc.gov/themes/custom/ftc_uswds/img/social-icons/5296499_fb_facebook_facebook logo_icon.png",
+          "alt": "Facebook",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://consumer.ftc.gov/themes/custom/ftc_uswds/img/social-icons/x-twitter-black-logo.png",
+          "alt": "Twitter",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://consumer.ftc.gov/themes/custom/ftc_uswds/img/social-icons/317750_linkedin_icon.png",
+          "alt": "LinkedIn",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 8,
+      "domain": "youtube.com",
+      "url": "https://www.youtube.com/watch?v=3EpPpqfaqw0",
+      "title": "Tips on how to save money on heating bill - YouTube",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 9,
+      "domain": "americanstandardair.com",
+      "url": "https://www.americanstandardair.com/resources/blog/tips-to-save-money-and-lower-your-heating-costs-this-fall-and-winter/",
+      "title": "6 Tips to Lower Your Heating Bills This Fall and Winter",
+      "word_count": 978,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://live-asa-headless-cms.pantheonsite.io/wp-content/uploads/2025/10/Furnace-Maintenance-Near-Me_Social.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.americanstandardair.com/_next/image/?url=https%3A%2F%2Flive-asa-headless-cms.pantheonsite.io%2Fwp-content%2Fuploads%2F2025%2F10%2FFurnace-Maintenance-Near-Me_Cover.webp&w=3840&q=75",
+          "alt": "Furnace Maintenance Near Me",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.americanstandardair.com/_next/image/?url=https%3A%2F%2Flive-asa-headless-cms.pantheonsite.io%2Fwp-content%2Fuploads%2F2025%2F09%2FHeatingMaintenance_NearMe_Thumbnail.webp&w=3840&q=75",
+          "alt": "7 Reasons to Schedule Heating System Maintenance Now",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.americanstandardair.com/_next/image/?url=https%3A%2F%2Flive-asa-headless-cms.pantheonsite.io%2Fwp-content%2Fuploads%2F2025%2F02%2FChange_Your_Air_Thumbnail.webp&w=3840&q=75",
+          "alt": "HVAC Air Filter Replacement: Everything You Need to Know",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.americanstandardair.com/_next/image/?url=https%3A%2F%2Flive-asa-headless-cms.pantheonsite.io%2Fwp-content%2Fuploads%2F2025%2F04%2FASA_HVAC_Install_Near_Me_Thumbnail.webp&w=3840&q=75",
+          "alt": "Top 6 Energy-Efficient Home Improvements to Save You Money",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "By implementing a few energy-saving tricks, such as installing a smart thermostat or increasing insulation levels, you can lower monthly heating costs. By Tom Moor As temperatures drop in the colder months, heating costs usually rise. In fact, homeowners in northern regions often see monthly heating expenses soar well over $100. The good news is that a few simple strategies can help lower those costs this fall and winter, keeping more of your hard-earned money in your wallet. Here\u2019s how. How to lower your utility bills this winter #1: Adjust your thermostat appropriately Most homeowners enjoy a warm, cozy home when it\u2019s frigid outside. But setting the thermostat too high causes your furnace, heat pump , or boiler to work overtime, leading to higher energy expenses. A good rule of thumb is to set your thermostat to 68\u00b0F while at home and 60-64\u00b0F while you\u2019re away or asleep. According to the U.S. Department of Energy , adjusting your thermostat by 7-10 degrees for at least eight hours each day can save you up to 10% a year on heating and cooling costs. If those adjustments feel too chilly, start by lowering the temperature just a degree or two at first, and consider layering with blankets to stay comfortable. #2: Upgrade to a smart thermostat No one wants to adjust their thermostat all day. Let a smart thermostat do the work for you. Like a programmable thermostat, smart units allow you to pre-set temperatures based on the time of day and day of the week, so it automatically lowers the setting before you go to bed or leave for work. Over time, many models even learn your habits and adjust automatically. On average, a smart thermostat can trim about 8% off your heating and cooling costs \u2013 or roughly $50 a year #3: Keep your furnace or heat pump maintained It\u2019s smart to have your heating equipment professionally serviced once a year, preferably in the fall before you start relying on it. During a furnace or heat pump tune-up , an HVAC technician replaces or cleans air filters, lubricates moving parts, tests safety features, and checks electrical components to ensure everything is operating smoothly and safely. This keeps your system running effectively, helps lower monthly bills , and reduces the chance of surprise breakdowns. #4: Seal drafts Even the tiniest openings can allow cold air to sneak into your home. Sealing gaps around doors and windows with weatherstripping or caulk is an easy way to keep cold air out and prevent your furnace from working harder than necessary. Sealing gaps in your home's air barrier can lower heating and cooling costs by as much as 15-20% , according to the U.S. Environmental Protection Agency. #5: Check insulation levels Adequate attic insulation is one of the best defenses against cold air infiltration during the fall and winter. Unfortunately, about nine in 10 homes in the U.S. are under-insulated, according to ENERGY STAR. To check if you need more insulation, watch for uneven room temperatures, drafts, or higher-than-usual utility bills. You can also inspect your attic to see if the insulation is level with or below the attic floor joists. If you notice any of these signs, it may be time to add more insulation to keep your home warm and energy efficient. The U.S. Department of Energy estimates homeowners can s ave up to 20% on heating and cooling costs by adding insulation in basements, attics, and floors over crawl spaces. #6: Upgrade your heating equipment If your current furnace , boiler, or heat pump is old and inefficient, your energy expenses are likely to remain high even after implementing a few of these strategies. While replacing an HVAC system is a significant financial investment, upgrading to a modern, high-efficiency unit can reduce monthly utility bills and improve comfort throughout your home. Today\u2019s ENERGY STAR\u00ae-certified equipment uses far less energy than older models, often paying for themselves over time through lower operating costs . Many utility companies and federal programs also offer rebates or tax credits to help offset upfront expenses. If you\u2019re unsure whether it\u2019s time for an upgrade, an American Standard\u00ae HVAC dealer can inspect your system and recommend whether HVAC repair or replacement makes more sense. To sum up, here are your potential savings. Energy Saving Tip Potential Savings on Heating Costs Lower thermostat 7-10 degrees for 8 hours Up to 10% Install a smart thermostat About 8%, or roughly $50 per year Seal gaps 15-20% Add more insulation Up to 20% Upgrade furnace or heat pump Savings will vary based on the efficiency of the old and new systems Bonus Quick Tips Here are a few more easy ways to save: Using ceiling fans in reverse: Switch your ceiling fan to spin clockwise at a low speed to push warm air back down into the room. Doing so can help keep rooms warmer at a lower thermostat setting. Just be sure to turn the fans off when you leave the room to avoid wasting electricity. Optimizing sunlight: Open blinds and curtains during the day to let in natural warmth. Make sure to close them at night to trap heat indoors and block out the chill from outside. Layering up: Wearing warmer clothing while inside lets you keep the thermostat a few degrees lower without sacrificing comfort. Keeping air vents clear: Make sure furniture, curtains, or rugs aren\u2019t blocking vents so warm air can circulate freely. Keep your home comfortable with American Standard\u00ae Ready to lower energy costs and get the most out of your heating system? American Standard\u2019s network of trustworthy, reliable dealers can provide expert maintenance, repair, and installation services to keep your heating system running properly all winter long. Talk to your local American Standard dealer today! Author: Tom Moor Expert review by Eric Weiss , Training Manager I, Residential HVAC Services Related articles",
+      "headings": []
+    },
+    {
+      "rank": 10,
+      "domain": "highpointfcu.com",
+      "url": "https://www.highpointfcu.com/8-creative-ways-to-save-on-heating-costs-this-winter/",
+      "title": "8 Creative Ways to Save on Heating Costs this Winter",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.highpointfcu.com/wp-content/uploads/2024/01/8WaysHeating.png",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 11,
+      "domain": "quora.com",
+      "url": "https://www.quora.com/What-is-the-best-way-to-save-money-on-heating-costs-Should-you-turn-down-the-thermostat-or-use-an-electric-blanket-at-night",
+      "title": "What is the best way to save money on heating costs? Should you ...",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 12,
+      "domain": "almanac.com",
+      "url": "https://www.almanac.com/10-ways-save-money-heating",
+      "title": "10 Ways to Cut Heating Costs and Stay Warm This Winter",
+      "word_count": 109,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.almanac.com/sites/default/files/styles/large/public/image_nodes/save-money-on-heating-ss.jpg?itok=W1BU0p1g",
+        "alt": "The Old Farmer's Almanac",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.almanac.com/sites/default/files/styles/or/public/image_nodes/save-money-on-heating-ss.jpg?itok=dv4_eESy",
+          "alt": "Fantastic winter landscape with wooden house in snowy mountains. Smoke comes from the chimney of snow covered hut. Christmas holiday and winter vacations concept",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.almanac.com/sites/default/files/houseads/2026-country-calendar-1254x375.jpg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.almanac.com/sites/default/files/images/advent-season-2991694_1920.jpg",
+          "alt": "a cup of hot tea",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.almanac.com/sites/default/files/pictures/2024-10/IMG_0365.jpeg",
+          "alt": "Catherine Boeckmann",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.almanac.com/sites/default/files/styles/landscape/public/image_nodes/socks-1906060_1920.jpg?itok=FG4STJMM",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.almanac.com/sites/default/files/styles/landscape/public/image_nodes/keep-pipes-from-freezing.jpg?itok=ulSBhS19",
+          "alt": "Icicles hanging from a brown pipe. Frozen water and metal surface, winter time concept. selective focus shallow depth of field. frozen pipes",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.almanac.com/sites/default/files/styles/landscape/public/image_nodes/pond-bach-4262900_1920.jpg?itok=B0WJ9DpB",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.almanac.com/sites/default/files/styles/landscape/public/image_nodes/tree%20on%20power%20lines.jpg?itok=DYaw5Fsg",
+          "alt": "Electricity outage as consequences of natural disaster. Damaged power lines after hurricane wind broke tree limbs in Florida suburban area",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.almanac.com/sites/default/files/styles/landscape/public/image_nodes/relaxing-1979674_1920.jpg?itok=e396CMuL",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.almanac.com/sites/default/files/styles/landscape/public/image_nodes/shutterstock_230658661.jpg?itok=A2Rzol5x",
+          "alt": "Welsummer chickens stepping out into the first snow of the year. keeping chickens safe in the winter",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.almanac.com/sites/default/files/promotion/old-farmers-almanac-store-logo-1200px.jpg",
+          "alt": "The Old Farmer's Almanac Store",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "Caption When the cold of winter sets in, it\u2019s time to get creative to cut heating costs! For daily wit & wisdom, sign up for the Almanac newsletter. Catherine Boeckmann Executive Digital Editor and Master Gardener More Like This How to Keep Warm in Winter Preventing Frozen Pipes (and What To Do If They Freeze) How to Cool Your Body Down Power Outages: What to Do Before, During, and After an Outage Ideas for Staying Cozy at Home in Winter 5 Tips for Keeping Your Chickens Safe and Warm in the Winter Caption When the cold of winter sets in, it\u2019s time to get creative to cut heating costs!",
+      "headings": []
+    },
+    {
+      "rank": 13,
+      "domain": "moneysavingexpert.com",
+      "url": "https://www.moneysavingexpert.com/utilities/energy-saving-tips/",
+      "title": "Energy saving tips: Checklist to save \u00a3100s - Money Saving Expert",
+      "word_count": 0,
+      "scrape_status": "failed",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 14,
+      "domain": "smoenergy.com",
+      "url": "https://smoenergy.com/blog/17-ideas-for-lowering-your-heating-costs-in-the-winter/",
+      "title": "17 Ideas for Lowering Your Heating Costs in the Winter - SMO Energy",
+      "word_count": 2834,
+      "scrape_status": "tavily_fallback",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": "SMO Energy # 17 Ideas for Lowering Your Heating Costs in the Winter On a cold winter\u2019s day, you love the idea of staying indoors, comfortable and cozy thanks to your home\u2019s heater. Then you get the heating bill or find that you need to schedule a heating oil delivery sooner than you expected. Home heating is typically one of the most significant utility expenses you face as a homeowner. Heat often makes up more than 40% of a utility bill. Fortunately, your choices in the winter are not to pay a high utility bill or shiver the nights away. There are things you can do to reduce the amount of heating fuel your household uses, improve the efficiency of your heating system and save money on heat. It helps to understand what affects your heating costs per month and the options available to you to reduce your bills. ## Why Is My Heating Bill So High in the Winter? Your home\u2019s condition, the state of your HVAC system or furnace and your own habits can all affect your heating bill. Depending on your approach to heating, you might be using more energy than you need. For example, if your approach to your home\u2019s thermostat is to \u201cset it and forget it,\u201d your home might be warmer than it needs to be when no one is home or when everyone is asleep. If you and your family members like to wear short sleeves or shorts around the house, rather than long sleeves and pants, you might need to keep your home warmer than the average person, leading to higher heating bills. The state of your home might also affect your heating bills. If your house does not have insulation, you might experience heat loss. The same is true if you have poorly sealed windows or doors or if there are air leaks around your power outlets or fireplace. Finally, the condition and age of your heating system can make your energy bill go up. An older heating system is likely to use more fuel and energy than a newer system or a system that\u2019s designed to be energy efficient. Energy efficiency is measured by annual fuel utilization efficiency (AFUE). The higher the AFUE, the more efficient a system is. Older furnaces typically have an AFUE below 70%, while newer, high-efficiency models often have an AFUE above 90%. If you want to save money on heat, it helps to take a systematic approach and to find ways to prevent heat loss, develop energy-saving habits and improve the condition of your home\u2019s heating system. ## Common Areas of Heat Loss in a House One way to reduce your heating bill is to know how to detect and how to prevent heat loss in a house. Since your home is not air-tight, warm air can seep out through small crevices or cracks. In some cases, cold outdoor air can also get into your home through crevices and cracks. Up to one-quarter of your home\u2019s heat can be lost through small openings. Some of the areas in your house that are most likely to experience heat loss include: ### Windows ### Doors ### Fireplaces ### Roof ### Walls ### Power outlets ## 10 Free Ways to Save on Heating During the Winter You might have heard that you sometimes need to spend money to save money. The good news is that when it comes to ways to save on heating, you often do not have to spend any money at all. There are several free things you can do to help lower your bill. ### 1. Bundle Up The more clothing you wear in the winter, the less you need to crank up the heat in your home. Depending on your tolerance for cold, you might notice a difference in your comfort levels if you put on a sweater over a short-sleeved shirt or switch to wearing pants made from a more substantial material, such as denim or wool. It is also a good idea not to go around the house barefoot during the winter. A pair of cozy socks will warm up your feet and keep the rest of your body warm, too. When you are lounging around the house at night, watching television or reading a book, curl up under a blanket to keep warm without turning up the heat. It is also a good idea to put an extra blanket or two on your bed so that you can comfortably turn your thermostat down while you sleep. The more clothing you wear in the winter, the less you need to crank up the heat in your home. Depending on your tolerance for cold, you might notice a difference in your comfort levels if you put on a sweater over a short-sleeved shirt or switch to wearing pants made from a more substantial material, such as denim or wool. It is also a good idea not to go around the house barefoot during the winter. A pair of cozy socks will warm up your feet and keep the rest of your body warm, too. When you are lounging around the house at night, watching television or reading a book, curl up under a blanket to keep warm without turning up the heat. It is also a good idea to put an extra blanket or two on your bed so that you can comfortably turn your thermostat down while you sleep. ### 2. Let the Sun Heat Things Up You might see less of the sun during the winter, but it is not gone entirely. You can use the heat from the sun's rays to help warm your home during the day time. If you have shades, blinds or curtains, open them up on sunny days to take advantage of sunlight's warmth. the curtains or blinds at night to provide another layer of insulation against the windows. ### 3. off Unused Rooms Depending on the size of your home and how many people live in it, you might have some extra rooms that you hardly or never use. There is no need to heat the unused areas of your home. To save money on your heating bill, close the door to any areas you do not use regularly. You might also want to close any vents in the rooms you do not use, so that warm air from the ducts does not travel to them. To effectively seal off those rooms, tuck a towel or draft blocker at the base of the door. A quick word of caution: Do not let unused rooms get too cold, especially if water pipes are located in the walls. While you do not need to heat the rooms you are not using to 68 degrees, you also do not want them to get colder than approximately 40 degrees so your pipes do not freeze. Depending on the size of your home and how many people live in it, you might have some extra rooms that you hardly or never use. There is no need to heat the unused areas of your home. To save money on your heating bill, close the door to any areas you do not use regularly. You might also want to close any vents in the rooms you do not use, so that warm air from the ducts does not travel to them. To effectively seal off those rooms, tuck a towel or draft blocker at the base of the door. A quick word of caution: Do not let unused rooms get too cold, especially if water pipes are located in the walls. While you do not need to heat the rooms you are not using to 68 degrees, you also do not want them to get colder than approximately 40 degrees so your pipes do not freeze. ### 4. Cook or Bake at Home During the winter, you might find that you prefer to eat warm, comforting foods like soups, stews and roasts. You might also find yourself baking more than you do in the summer. Not only will baking or cooking meals at home help you save on restaurant bills and grocery costs, but it will also help to lower your heating bill. The heat from the stove or oven will help to warm up your kitchen. When you are finished baking, switch off the oven and leave the door open slightly, so that the warm air can escape and heat your kitchen. During the winter, you might find that you prefer to eat warm, comforting foods like soups, stews and roasts. You might also find yourself baking more than you do in the summer. Not only will baking or cooking meals at home help you save on restaurant bills and grocery costs, but it will also help to lower your heating bill. The heat from the stove or oven will help to warm up your kitchen. When you are finished baking, switch off the oven and leave the door open slightly, so that the warm air can escape and heat your kitchen. ### 5. Turn the Thermostat Down Adjusting your thermostat can lead to a dramatic drop in your heating bills. Lowering the thermostat by up to 10 degrees can help you save up to 10% annually on heating. Some of the best times to turn down your thermostat are bedtime and before you leave for work in the morning. To save money on heating costs try sleeping with the temperature set around 63 degrees Fahrenheit. When you leave for work, you might want to lower the heat to 63 or even cooler, as long as no one will be home during the day. Adjusting your thermostat can lead to a dramatic drop in your heating bills. Lowering the thermostat by up to 10 degrees can help you save up to 10% annually on heating. Some of the best times to turn down your thermostat are bedtime and before you leave for work in the morning. To save money on heating costs try sleeping with the temperature set around 63 degrees Fahrenheit. When you leave for work, you might want to lower the heat to 63 or even cooler, as long as no one will be home during the day. ### 6. Make Sure Doors and Windows Are Closed Tightly Your home might lose heat through windows and doors, especially if those openings aren't sealed tightly. At the beginning of the winter, it is a good idea to go around to all of the windows and doors in your home and test them for air leaks. You might feel cool air seeping in along the sides of the windows or the bottom of doors. In the case of windows, a quick way to close them tightly is to lock them. Not only will locking the windows help to create a better seal, but it will also help to make your home a bit more secure. Your home might lose heat through windows and doors, especially if those openings aren't sealed tightly. At the beginning of the winter, it is a good idea to go around to all of the windows and doors in your home and test them for air leaks. You might feel cool air seeping in along the sides of the windows or the bottom of doors. In the case of windows, a quick way to close them tightly is to lock them. Not only will locking the windows help to create a better seal, but it will also help to make your home a bit more secure. ### 7. Keep Heat From Escaping From Your Ducts The ducts in your home can be a source of heat loss, especially if they are in uninsulated areas, such as the attic, basement or garage. Sealing your ducts around the joints can help to keep warm air from seeping out. You can use foil tape or mastic sealant to seal the ducts. The ducts in your home can be a source of heat loss, especially if they are in uninsulated areas, such as the attic, basement or garage. Sealing your ducts around the joints can help to keep warm air from seeping out. You can use foil tape or mastic sealant to seal the ducts. ### 8. Use Ceiling Fans If you have ceiling fans in any of the rooms in your home, you can use them during the colder months of the year to help distribute warm air and lower your heating bill. Reverse the fans so that the blades turn clockwise during the winter. There should be a small switch at the base of the fan. The clockwise direction of the blades should pull air upward, so that warm air that's trapped up near the ceiling travels down the walls and around the room. To see if the blades of the fan are spinning the correct direction, stand beneath it. You should not be able to feel air blowing down on you. If you have ceiling fans in any of the rooms in your home, you can use them during the colder months of the year to help distribute warm air and lower your heating bill. Reverse the fans so that the blades turn clockwise during the winter. There should be a small switch at the base of the fan. The clockwise direction of the blades should pull air upward, so that warm air that's trapped up near the ceiling travels down the walls and around the room. To see if the blades of the fan are spinning the correct direction, stand beneath it. You should not be able to feel air blowing down on you. ### 9. Rearrange Your Furniture Giving the rooms of your home a new look can have more than aesthetic benefits. Moving furniture around can also help to improve the airflow in a room, meaning the heat from the vents is distributed better. If you have couches, beds or bookcases placed in front of the heating vents in a room, the furniture pieces are blocking the flow of air. Move furniture away from vents so that the heat can travel freely. It is a good idea to keep furniture at least a few feet away from any vents. Giving the rooms of your home a new look can have more than aesthetic benefits. Moving furniture around can also help to improve the airflow in a room, meaning the heat from the vents is distributed better. If you have couches, beds or bookcases placed in front of the heating vents in a room, the furniture pieces are blocking the flow of air. Move furniture away from vents so that the heat can travel freely. It is a good idea to keep furniture at least a few feet away from any vents. ### 10. for MEAP (Maryland Energy Assistance Program) Depending on your household income and family size, you might qualify for a low-income home energy assistance program to help cover your heating and energy costs. You might also qualify for assistance when you are facing an energy crisis. In Maryland, the energy assistance program is called the Maryland Energy Assistance Program (MEAP). If you apply and are accepted into the program, MEAP will make payments directly to your energy company. Depending on your household income and family size, you might qualify for a low-income home energy assistance program to help cover your heating and energy costs. You might also qualify for assistance when you are facing an energy crisis. In Maryland, the energy assistance program is called the Maryland Energy Assistance Program (MEAP). If you apply and are accepted into the program, MEAP will make payments directly to your energy company. ## Want to learn more about saving on your energy bills? ## 7 Inexpensive Ways to Lower Your Heating Bill Although the best things are often free, there are also low-cost or affordable things you can do to reduce your home\u2019s heating bills during the winter. ### 1. Get an Energy Audit A home energy audit will show you the areas in your house where you are losing heat and will tell you precisely what you need to do to save money on your energy bills. While you can conduct an energy audit yourself, you might find it worthwhile to hire a professional to do the audit for you. A professional will often have more tools and equipment to get a better idea of the specific areas of concern in your home. They might also be able to put energy-saving measures into place immediately after the audit. If you are not sure who to work with for an energy audit, your local electric company can provide you with a referral. ### 2. Change Your Filters If you have a forced-air heating system, there is likely a filter in the furnace that traps dust, pet hair and other small particles. As you use your heating system in the winter, the filter can get pretty dirty, which can a",
+      "headings": []
+    },
+    {
+      "rank": 15,
+      "domain": "homes.rewiringamerica.org",
+      "url": "https://homes.rewiringamerica.org/articles/heating-and-cooling/heat-pump-savings",
+      "title": "A Guide to Cutting Costs with Heat Pumps - Rewiring America",
+      "word_count": 775,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://a-us.storyblok.com/f/1014573/1200x631/bef25f1c24/how-much-money-do-heat-pumps-save-social-share.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://homes.rewiringamerica.org/_next/image?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F1014573%2F1200x675%2Fbddc923c7b%2Fhow-much-money-do-heat-pumps-save-hero.jpg&w=3840&q=75",
+          "alt": "Heat pump projecting dollar signs",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://homes.rewiringamerica.org/_next/image?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F1014573%2F1080x704%2Fc5d488562f%2Fenergy-savings-by-fuel-type.jpg&w=3840&q=75",
+          "alt": "Energy savings by fuel type",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://homes.rewiringamerica.org/_next/image?url=https%3A%2F%2Fa-us.storyblok.com%2Ff%2F1014573%2F1080x890%2F58c7c6fe1a%2Fhow-much-money-do-heat-pumps-save-table.jpg&w=3840&q=75",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "How to estimate your savings For most American homeowners, one of the best ways to save money and energy is to switch to an electric heat pump for space heating and cooling. Because of the very clever way heat pumps work, these heating and cooling machines are anywhere between 2-4x more efficient than traditional furnaces and boilers. But like the cost of a heat pump , the actual amount of savings varies significantly between homes. In this article we\u2019ll help you estimate how much you can save by switching to a whole-home heat pump or mini-split system. What determines how much you can save? The average household in the United States can save $370 per year by switching to a heat pump. Homeowners switching from inefficient systems that run on fuel oil, propane, or traditional electric resistance (like baseboard heat or electric furnaces) can save closer to $1,000 per year. As with other energy upgrades like improving your home insulation, your annual savings will vary. Here are the factors that impact savings the most: 1. The size of your home More square footage means a bigger energy bill. And the more you currently spend the more you will save by switching to a heat pump. Though, as covered in our heat pump sizing article (link needed), you\u2019ll also need a larger system, which costs more upfront. 2. Your local climate Heat pumps work in both warm and cold climates. But people living on the East Coast (and especially the Southeast) will save the most due to the large number of homes that use inefficient electric, fuel oil, and propane heating systems. One common myth you\u2019ll hear is that heat pumps waste money when the temperature drops. In the past this was true, but today\u2019s best cold climate heat pumps work efficiently down to very low temperatures. And many homeowners living in cold climates currently use fuel oil and propane to heat their home, two very inefficient fuels. That\u2019s why, somewhat surprisingly, people living in cold states like Maine, Ohio, Pennsylvania, New York, and Massachusetts can save a lot of money every year by making the switch. 3. How energy efficient your home is If your home is poorly insulated then you probably spend a lot of money to heat and/or cool your home. And that means more opportunity for the heat pump to work its magic. 4. How you currently heat your home Rewiring America has crunched the numbers using data from the National Renewable Energy Laboratory ( NREL ) to help homeowners better understand how much they can save by switching to a heat pump. While there\u2019s a lot of variation based on the different factors above, we calculated the national average savings for households, depending on their current heating fuel: Estimated savings As you can see, the biggest savings will come if you switch from fuel oil, propane, or electricity as your main source of heat.That\u2019s because a heat pump uses so much less electricity than electric furnaces and baseboard heat, and fuel oil and propane are expensive ways to heat a home (and subject to huge price swings). Because of current prices, switching to a heat pump from natural gas doesn\u2019t save much on average. But natural gas is both unhealthy and bad for the environment so homeowners who are able to make the switch should still consider it, especially since we believe gas rates will continue to rise. Estimated emissions reductions We are climate and sustainability nerds so naturally we wanted to know how impactful it is to switch to a heat pump. Here\u2019s what we found in our analysis: Other benefits of upgrading to heat pumps Heat pumps are healthier and easier to maintain Compared to gas, propane, and fuel oil systems, heating your home with electricity doesn\u2019t carry a risk of gas or carbon monoxide leaks. Recent studies have found a link between rates of asthma and gas usage. Heat pumps also require less maintenance than combustion heating systems, which means lower repair and maintenance costs. With new incentives and savings programs coming online across the country, it\u2019s never been more affordable to ditch gas for your health, your comfort, and your wallet! Visit Rewiring America\u2019s IRA savings calculator to see how much you can save! First, a heat pump. Then your whole home? We\u2019ve launched a free tool to help you go all-electric. Make your plan. Maximize your savings. Get help along the way. Rewiring America puts American households at the center of an affordable, resilient, all-electric future. Learn more about our tax-exempt status. to receive Rewiring America's latest updates RewiringAmerica.org \u00b7 About us \u00b7 \u00b7 \u00b7 Accessibility",
+      "headings": []
+    },
+    {
+      "rank": 16,
+      "domain": "agcu.org",
+      "url": "https://agcu.org/helpful-environmentally-friendly-tips-for-saving-on-heating-costs/",
+      "title": "Helpful Environmentally Friendly Tips for Saving on Heating Costs",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 17,
+      "domain": "consumerreports.org",
+      "url": "https://www.consumerreports.org/home-garden/energy-efficiency/how-to-cut-home-heating-costs-this-winter-a2699461742/",
+      "title": "How to Cut Home Heating Costs This Winter - Consumer Reports",
+      "word_count": 1685,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://article.images.consumerreports.org/image/upload/t_article_tout/v1666737111/prod/content/dam/CRO-Images-2022/Magazine/12December/CR-Magazine-InlineHero-How-to-Save-on-Heating-Costs-this-Winter-2212-1022",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://article.images.consumerreports.org/image/upload/w_112,h_112,f_auto/prod/content/dam/cro/news_articles/home_garden/Editor%20Images/CRO-Home-freelance-Janet-Siroto-01-22",
+          "alt": "Janet Siroto",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://article.images.consumerreports.org/image/upload/w_652,f_auto,q_auto,ar_16:9,c_lfill/v1666737111/prod/content/dam/CRO-Images-2022/Magazine/12December/CR-Magazine-InlineHero-How-to-Save-on-Heating-Costs-this-Winter-2212-1022",
+          "alt": "cedar shingled house covered in snow in winter",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "When you shop through retailer links on our site, we may earn affiliate commissions. 100% of the fees we collect are used to support our nonprofit mission. Learn more . Heating your home uses more energy and costs more money than any other system in your home\u2014it typically accounts for about 29 percent of your total utility bill, according to the Department of Energy . In addition to maintaining and upgrading your heating system, you want to prevent that costly warm air from escaping through drafty windows, wonky doors that don\u2019t fit their frames, and underinsulated attics and basements. The DOE estimates that weatherizing your home properly will save you about 30 percent on your energy bill while reducing environmental emissions. Taking advantage of available heat pump rebates and tax credits may save you even more. Below, we\u2019ve rounded up expert guidance on how to make your house less drafty and save money on heating. Reduce Your Heating Bill: Schedule a Heating System Checkup Consider an Energy Audit Increase Your Heating Efficiency: Insulate Your Hot-Water System Seal Window and Door Leaks Address Attic Insulation Batten Down Your Basement How to Take Advantage of Rebates Schedule a Heating System Checkup Professional servicing of your heating system (typically $150 to $500 for an entire heating, ventilating, and air conditioning system ) will include everything from replacing dirty filters to checking for safety issues like potential carbon monoxide leaks. A heating system that\u2019s running efficiently may save you money. For instance, the DOE says a well-maintained heat pump can use up to 25 percent less fuel than a neglected one. \u201cIdeally, have this done in what\u2019s known as the swing season, before the real cold kicks in and contractors are too busy to schedule time for your problem,\u201d says Larry Zarker, Senior Strategic Advisor and former CEO of the Building Performance Institute , a nonprofit credentialing and standards-setting organization for the industry. Also check air filters from time to time for dust and dirt, and change them if they\u2019re dirty. Consider an Energy Audit Think you\u2019d benefit from details on your home\u2019s energy performance? A trained energy assessor can evaluate it for issues like insufficient insulation or a heating system that might warrant replacement\u2014and help develop a plan to improve efficiency and lower your energy bills. This can cost $211 to $700 but may uncover ways to lower your monthly energy bills. The Home Performance with Energy Star program , a collaboration between the DOE and the Environmental Protection Agency, matches consumers in over 20 states with reputable home performance contractors for assessments. Other options that you might want to consider include the Home Energy Score program , an auditor registered with the Residential Energy Services Network , and a local certified inspector from the Building Performance Institute , which sets standards for energy audits and certifies analysts. Utilities may offer free audits, but they\u2019re not always thorough, Zarker says. Insulate Your Hot-Water System Slipping foam \u201csleeves\u201d ( from $1.50 for every 6 feet ) around water pipes in or near exterior walls may save up to $80 per year and reduce the risk of pipes freezing if temperatures dip below zero. Wrap a heat jacket or insulation blanket ( about $30 ) around your water heater (if your utility company allows it) and it won\u2019t have to work as hard. Seal Window and Door Leaks To play air leak detective, hold a lit stick of incense in front of windows and doors while inside. Horizontal smoke indicates less-than-airtight closures. Or dampen the back of your hand and run it around door frames to feel for cool outside air that\u2019s making its way in. You can also use a handheld thermal leak detector. These same techniques will reveal air leaks near sinks and toilets , electrical outlets, attic hatches, and ceiling fixtures. \u201cCan lights in your ceiling can funnel heated air right out of your home,\u201d Zarker says. Now that you\u2019ve identified leaky spots, seal them up . Start by adding inexpensive weather stripping or caulking to doors and window frames that need it. (Weather stripping is best for components that move, like operable windows, and caulking for those that don\u2019t move, like windows that don\u2019t open.) Also consider applying temporary clear plastic window film to the inside of windows and patio doors. Come spring, it will be easy to remove. Best Weather Stripping and Window Sealing Tapes These easy-to-install products are a low-cost way to keep your home more comfortable year-round and to cut your utility bills. For cold air that creeps in at the bottom of doors, you can purchase a draft stopper \u201csnake,\u201d cover the area with a rolled-up towel, or install a screw-on, stick-on, or slip-on door sweep. They\u2019re available at home centers and hardware stores for as low as $8. To keep chilly air from blowing through outlets and switch plates on exterior-touching walls, put foam gaskets behind them. You can buy an eight-pack for less than $10. You\u2019ll have to replace all of these products from time to time. \u201cWeather sealing around doors does wear,\u201d says Christine Ciavardini of MD Energy Advisors, which offers businesses and other organizations advice on energy choices. \u201cSpending $10 to replace it can be impactful.\u201d Add or Replace Windows to Address Leaks If caulking and similar fixes aren\u2019t enough to stop air leaks, consider low-emissivity (low-e) storm windows, which are coated to help keep the warmth inside in colder regions and the heat outside in warmer climates. (Bright sun pouring through glass panes in the summer can make your home a lot hotter.) Adding these products to inefficient older windows can help save 10 to 30 percent in heating and cooling costs, according to the DOE . And you can easily put them in yourself. Still not enough? Consider window replacement . Costs vary widely, depending on factors such as size and style. If you\u2019re a CR member, you can refer to our replacement window ratings of over 20 models to help you choose. The nonprofit National Fenestration Rating Council also rates and labels the energy efficiency of windows, doors, and skylights. You can also check out our replacement window buying guide for more information. CR's Top-Rated Vinyl Windows New windows can make your home quieter and less drafty, and may be easier to clean than older models. Here are three replacement vinyl windows that earn top scores from our tests. Address Attic Insulation The top level of your house can be a notorious source of heat loss because in winter, warm air rises in what\u2019s called the stack effect. So making sure that warm air from living areas doesn\u2019t leak into the attic is quite important. In addition to checking for window drafts and other air leaks, it\u2019s smart to assess attic insulation. Take a look at your attic. If the insulation looks uneven (perhaps it\u2019s heaped up in the middle of the floor but thin along the eaves) or it\u2019s below or just at the level of the floor joists, you probably need to add more of it, according to the Energy Star program . It\u2019s often best to hire a trained insulator or air sealing contractor for this, because attics and insulation materials can make for challenging work, Zarker says. (Find leads at the Insulation Contractors Association of America .) How much insulation is optimal depends on what you already have, the climate in your area , and the kind of insulating product you choose. Batten Down Your Basement \u201cAlong with attics, basements and crawl spaces are responsible for the most energy loss in a home,\u201d Zarker says. Warmth escaping through uninsulated basement walls and windows can account for up to one-third of the heat loss in the average home, according to the Building Science Corporation, a building design consulting firm. Insulating and sealing basement air leaks is often best left to a certified professional with expertise in basement work because of potential combustion, moisture, and air-quality issues. Find certified pros through the Building Performance Institute . Seek Out Savings, Rebates, and Tax Breaks Energy prices may be up, but an increasing number of strategies can help you cover those costs. There\u2019s also funding available for upgrades to everything from doors, windows, and insulation to heating systems and water heaters. (Tankless models, for example, can be significantly more efficient.) So keep your eyes open for local, state, and federal incentive programs. Notably, under the Inflation Reduction Act , you may be eligible for tax credits of up to $3,200 for cutting your energy use. For instance, you may be able to get $1,200 a year for insulation bought and installed by Dec. 31, 2032. An electric heat pump could get you up to $2,000 credited back, and the tax credit for putting in a solar energy system is up to 30 percent of eligible expenses. Plus, \u201cyou can even find zero percent financing for the upgrades not covered by the IRA,\u201d says Zarker. The Inflation Reduction Act provides (IRA) over $9 billion in rebates for energy efficiency upgrades like this through 2030. There are also IRS tax credits available to support this work. For a complete update of the incentives available, check here . Your utility company may also have ways to make it easier to afford your bill, such as level billing (which averages your costs over 12 months) and price locks (which hold costs at a set rate all season). But be aware that some utilities charge more for electricity use at peak times. Ask yours so that you can determine when you can use appliances most economically. Editor\u2019s Note: A version of this article appeared in the December 2022 issue of Consumer Reports magazine. Janet Siroto is a writer and content strategist specializing in lifestyle and wellness topics. She's held senior editorial positions at Good Housekeeping, Vogue, and Cosmopolitan, and contributes to Real Simple, Next Avenue, and other titles. She is also a trend tracker whose work has been presented at South by Southwest, the Wall Street Journal's The Future of Everything, Cannes Lions International Festival of Creativity, and other summits.",
+      "headings": []
+    },
+    {
+      "rank": 18,
+      "domain": "cbsnews.com",
+      "url": "https://www.cbsnews.com/news/home-heating-bill-winter-save-money-2025/",
+      "title": "Facing high home heating bills this winter? These tips can help you ...",
+      "word_count": 426,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/12/24/d0b62cf9-35ea-420f-88e3-d249fb231c46/thumbnail/1200x630/2b87a6ff58aacb5695ee97e6e3bf1063/gettyimages-1433504114.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/04/24/30920abe-2573-4426-8e89-4d37e1cac963/thumbnail/1200x630/e4b45969e3de4fb1dc08041a3a40c5de/gettyimages-2159340113.jpg#",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/04/22/31f976b6-bd94-491c-8f3b-cfa7b3232c1e/thumbnail/1200x630/f5f21bdb4f8cce0d5462e848a9c99cb6/mamdani-earth-day-annou-wcbshkvi-hi-res-still.jpg#",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/04/22/5c53f232-018d-46a0-a8d4-3e03103ef65e/thumbnail/1200x630/52af338e8ee67305c4013f2c247c9c9c/gettyimages-1284113343.jpg#",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/04/22/e3310528-d04c-4acb-b2c7-6860ed95cd97/thumbnail/1200x630/6e94e3f6240437040e9d17f03f9e57d3/gettyimages-2161352405-1.jpg#",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://substackcdn.com/image/fetch/%24s_!jP8a!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9a78a11d-b816-473b-94b5-662bd0d5fa1b_1024x683.jpeg#",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://substackcdn.com/image/fetch/%24s_!v8SA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F348cdcc5-d4b9-4b28-84eb-80a346f2210a_820x1026.jpeg#",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    }
+  ],
+  "battle_plan_generated_at": "2026-04-26T10:45:37.149902+00:00",
+  "competitors_analyzed_count": 7,
+  "battle_plan_method": "local_deterministic_agent_no_api"
+}

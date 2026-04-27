@@ -1,0 +1,638 @@
+{
+  "article_context": {
+    "angle": "Manual tracking (pen/paper/spreadsheet) vs. app tracking for awareness and discipline",
+    "pain_points": [
+      "Tracking spending manually but lacking understanding or actionable insight",
+      "Paycheck-to-paycheck living despite decent income and no major debt",
+      "Feeling behind on savings compared to peers/norms",
+      "High recurring expenses and forgotten subscriptions draining funds",
+      "Difficulty controlling impulse spending and lifestyle creep"
+    ],
+    "top_social_questions": [
+      "How much should I save from each paycheck?",
+      "Why am I still broke after tracking my spending?",
+      "What specific habits can save me money?"
+    ],
+    "dominant_emotion": "Anxiety/Frustration",
+    "serp_intent": "The searcher wants actionable strategies to lower fuel costs for vehicles, such as optimizing driving habits, using rewards programs, or choosing efficient routes. The SERP intent is informational, dominated by guides from finance sites, automotive blogs, and consumer resources offering practical tips, calculators, and regional advice on gas savings.",
+    "serp_title_pool": {
+      "primary": [
+        "10 Ways to Save Money on Gas - AARP",
+        "How do you save the most on fuel? : r/Frugal - Reddit",
+        "How to Save Money at the Gas Pump - Consumer Reports",
+        "5 Smart Strategies for Saving Money at the Gas Pump - RaiseRight",
+        "Fuel Saving Tips - AAA Gas Prices",
+        "11 Simple Tips to Save Money on Gas - Mercury Insurance",
+        "20 Simple Tips to Save Money on Gas | Conway Housing Authority",
+        "How to save money on gas with smarter fill-Ups and driving - YouTube",
+        "Ways to Save Money on Gas - Flagger Force",
+        "HOW TO SAVE ON GAS From skipping chain stations to cash-back ...",
+        "How can I save on gas? - Environment America",
+        "15 Easy Ways to Save Money on Gas (Apps, Rewards and Tips)",
+        "11 Tips To Save Money on Gas Despite Rising Prices - RateGenius",
+        "6 Simple Tips To Save Money On Gas | Golden 1 Credit Union",
+        "Best Gas Apps to Help With Fuel Costs - NerdWallet",
+        "Simple ways to save money on gas - YouTube",
+        "gas savings calculator - Fuel Economy",
+        "How do you save money on gas in the USA? - Quora",
+        "7 Smart Ways To Save Money on Gas - Yahoo Finance",
+        "How to Save Money on Gas Right Now"
+      ],
+      "long_tail": [
+        "Best Gas Apps to Help With Fuel Costs - NerdWallet",
+        "Earn every time you shop: Gas, grocery, and food | Upside",
+        "Upside: Gas & Food Cash Back - App Store - Apple",
+        "Upside: Gas & Food Cash Back - Apps on Google Play",
+        "Some of the best apps out there to help you save money at gas ...",
+        "Gas apps, are they trustworthy? Which one? : r/Frugal - Reddit",
+        "GasBuddy - Cheapest Gas Station Finder App with Money Saving ...",
+        "5 Gas Apps to Get You Through The Price Surge - Bossier City",
+        "GasBuddy: Find & Pay for Gas - App Store - Apple",
+        "Best Gas Apps That Will Save You Money at the Pump"
+      ],
+      "question": [
+        "Simple ways to save money for the future",
+        "20 Brilliant & Easy Ways to Save Money",
+        "7 money saving tips you might overlook",
+        "Extra Cash: Smart Things to Do with Extra Money",
+        "How to Budget Money: A Step-By-Step Guide",
+        "11 ways to save money",
+        "10 ways to start saving money - Vanguard",
+        "54 Ways to Save Money - Tip #3",
+        "10 Tips to Start Saving Money Today",
+        "54 Ways to Save Money"
+      ]
+    },
+    "paa_questions": [
+      {
+        "q": "Is $100 a month on gas a lot?",
+        "a": "The average natural gas bill in the United States is $80 to $100 per month. Your monthly gas bills could vary significantly, depending on the time of year, where you live, the size and age of your home, and other factors."
+      }
+    ],
+    "related_searches": [
+      "How to save money on gas in california",
+      "How to save money on gas reddit",
+      "How to save money on gas for car",
+      "How to save money on gas heating",
+      "How to save money on gas in texas",
+      "How to save money on gas apps",
+      "How to conserve gas while driving",
+      "How to save money on gas bill in winter"
+    ]
+  },
+  "primary_keyword": "how to save money on gas",
+  "competitors": [
+    {
+      "rank": 1,
+      "domain": "aarp.org",
+      "url": "https://www.aarp.org/money/personal-finance/high-gas-prices-saving-tips/",
+      "title": "10 Ways to Save Money on Gas - AARP",
+      "word_count": 1265,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://aarp.widen.net/content/dzdy7vji56/jpeg/AP26064106069279.jpg?crop=true&anchor=0,93&q=80&color=ffffffff&u=k2e9ec&w=1956&h=1124",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://cdn.aarp.net/content/dam/aarp/video/generic-video-poster.gif",
+          "alt": "generic-video-poster",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.aarp.net/etc/uxdia/images/uxdia-spinner.svg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.aarp.net/content/dam/experience-fragments/uxdia-folder-structure/en/next-action-widgets/newsletter_naw/Newsletter_NAW/master/_jcr_content/root/responsivegrid/container/articleimage.coreimg.75.1140.jpeg/content/dam/aarp/QA_bucket/widgetimages/newsletter_NAW_tablet.jpg",
+          "alt": "newsletter-naw-tablet",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.aarp.net/content/dam/experience-fragments/uxdia-folder-structure/en/next-action-widgets/newsletter_naw/Newsletter_NAW/master/_jcr_content/root/responsivegrid/container/container/container/articleimage.coreimg.75.1140.png/content/dam/aarp/QA_bucket/widgetimages/newsletter_NAW_desktop.png",
+          "alt": "Mujer leyendo tableta",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "Drivers who have visited the gas pump in recent days are probably seeking relief for their wallets. Gas prices have surged in the wake of the conflict with Iran, with the average price reaching $4.076 per gallon on April 17, up from $3.790 a month ago, according to the American Automobile Association (AAA). The spike stems from the fighting in the Middle East, which is limiting oil and gas shipments from the Persian Gulf. \u201cThe thing that made this different from past skirmishes or wars in the region was the fact that Iran lashed out at ostensibly friendly neighbors,\u201d says Tom Kloza, chief oil analyst at Gulf Oil, referring to attacks on Kuwait, the United Arab Emirates and Saudi Arabia. \u201cIn the Persian Gulf region, there\u2019s about 7.5 million barrels a day of refining capacity. The fact that has been threatened, that\u2019s the game changer.\u201d If the conflict drags on, gas prices could soar even higher in the coming weeks and months, industry analysts say. How much pain you feel at the pump depends, in part, on where you live. The West Coast tends to see higher gas prices, while places near the Gulf Coast see the lowest. The rise in gas prices comes at a time when many older adults\u2019 wallets are already stretched thin by rising grocery expenses , surging utility costs , and insurance rate hikes that are outpacing inflation . But whether you\u2019re traveling, commuting or simply relying on your car to go about your day, there are steps you can take to save at the pump. 1. for loyalty programs Many gas stations offer free loyalty programs that allow customers to save with every fill-up. Shell\u2019s program offers up to 10 cents off per gallon, Exxon Mobil\u2019s lets customers earn at least 3 cents per gallon in points and 7-Eleven loyalty members save at least 5 cents per gallon. There are sign-up perks too: At the time of this writing, Chevron is offering 25 cents off per gallon on your next five visits to the gas station, just for joining the program. Some grocery chains , such as Giant, Hy-Vee and Tops, also offer gas rewards. For instance, the loyalty program for the Kroger\u2019s network of grocery stores \u2014 which includes Dillons, Fred Meyer and Mariano\u2019s, among other supermarkets \u2014 lets you earn one fuel point per dollar spent on groceries. Every 100 points gets you 10 cents off per gallon. AARP members can earn extra points at Exxon or Mobil stations on everyday purchases like fuel, car washes and convenience store items when they link their Exxon Mobil Rewards+ account to their AARP membership. Members can also get Complimentary Gold Status at Shell \u2014 including savings of at least 5 cents per gallon at participating Shell stations when they link their Fuel Rewards account to their AARP membership. 2. Leverage credit card rewards You\u2019re probably aware that many rewards credit cards let you earn points or cash back for gas purchases. But here\u2019s a lesser-known money-saving tip from credit industry veteran John Ulzheimer: Some card issuers let you use points to purchase gas gift cards. For instance, points earned with credit cards that operate within the Chase Ultimate Rewards program can be redeemed for gift cards from Gulf, BP or Speedway. Capital One\u2019s credit card rewards program also lets customers redeem points for gas station gift cards. 3. Keep your car in tip-top shape Ensuring your vehicle is in optimal condition can help improve its fuel economy, meaning fewer stops at the gas station. Stay on top of oil changes, tire rotations and other routine maintenance, and get to a mechanic ASAP if your car\u2019s check-engine light goes off. Tire pressure is also key. \u201cUnderinflated tires create extra rolling resistance, which makes the engine work harder and burn more gasoline,\u201d says Robert Sinclair Jr., AAA\u2019s senior manager of public affairs. \ufeff You can save as much as 11 cents per gallon just by properly inflating your tires, according to the National Highway Traffic Safety Administration, yet only about 1 in 5 people do so. Sinclair recommends checking tire pressure at least once a month. Typically, you can find your vehicle\u2019s recommended tire pressure on a sticker inside the driver\u2019s door or in your owner\u2019s manual. 4. Adjust your driving habits Speeding, rapid acceleration and hard braking can reduce your gas mileage by 15 to 30 percent on the highway (wind resistance at heightened speeds makes the engine work harder) and 10 to 40 percent in traffic, according to the U.S. Department of Energy (DOE). Sticking to the speed limit and accelerating gently can boost your car\u2019s fuel economy by up to 40 percent. \ufeff\ufeff The DOE also cautions against hauling cargo on the roof of your car and recommends drivers avoid idling, which can burn up to half a gallon of fuel per hour. (Read: Turn off the engine when your vehicle is parked.) \ufeff 5. Maintain at least a quarter tank Don\u2019t wait until your tank is close to empty before filling up. As you get near \u201cE,\u201d sediment in the bottom of the tank can build up and clog the fuel line, Sinclair says. Keeping it at least a quarter full can help prevent that. 6. Shop the smaller brands While you\u2019re likely to drive by more BP, Exxon Mobil and Shell stations, smaller chains like Lukoil, QuikTrip and Speedway often have lower gas prices, Sinclair says. Another option: Warehouse clubs like BJ\u2019s, Costco and Sam\u2019s Club offer discounted gas for their members \u2014 typically 20 cents below the average, Kloza says. 7. Compare prices Don\u2019t just pull over at the first gas station you see. \u201cThe location of a gasoline station can play into how much they charge,\u201d Sinclair says. \u201cGasoline tends to be more expensive at stations that are on or near highways, and in affluent neighborhoods and in poorer neighborhoods.\u201d Shopping around is key. You can use free mobile apps such as AAA Mobile, GasBuddy and FuelUp to find the lowest fuel prices near you. 8. Consider ditching premium gas Unless your car\u2019s manufacturer recommends that you use premium, your car will likely run just fine on regular gas. A gallon of premium costs on average $4.954 on April 17 \u2014 about 88 cents more than regular. 9. Fill up on Sundays A recent GasBuddy analysis found that Sunday is typically the cheapest day to buy gas in most states. Midweek days, especially Wednesday through Friday, are typically the most expensive. 10. Clear your trunk of unnecessary items Excess weight can lower your car\u2019s gas mileage. An extra 100 pounds in your vehicle could reduce your fuel economy by about 1 percent, according to the DOE. Mallika Mitra is a freelance writer and editor whose work has appeared in Bloomberg News , CNBC, Business Insider and The Wall Street Journal's Buy Side , among other places. She was previously a writer and editor at Money, where she wrote a weekly newsletter about investing, as well as a wide range of stories on meme stocks, crypto, generational investing trends and more. Unlock Access to AARP Members Edition Already a Member? Login Mallika Mitra is a freelance writer and editor whose work has appeared in Bloomberg News , CNBC, Business Insider and The Wall Street Journal's Buy Side , among other places. She was previously a writer and editor at Money, where she wrote a weekly newsletter about investing, as well as a wide range of stories on meme stocks, crypto, generational investing trends and more. Unlock Access to AARP Members Edition Already a Member? Login",
+      "headings": []
+    },
+    {
+      "rank": 2,
+      "domain": "reddit.com",
+      "url": "https://www.reddit.com/r/Frugal/comments/196hxfv/how_do_you_save_the_most_on_fuel/",
+      "title": "How do you save the most on fuel? : r/Frugal - Reddit",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 3,
+      "domain": "consumerreports.org",
+      "url": "https://www.consumerreports.org/money/saving-money/how-to-save-money-at-the-gas-pump-a8520505361/",
+      "title": "How to Save Money at the Gas Pump - Consumer Reports",
+      "word_count": 1205,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://article.images.consumerreports.org/image/upload/t_article_tout/v1636580682/prod/content/dam/CRO-Images-2021/Cars/11Nov/CR-Cars-InlineHero-How-To-Save-At-The-Gas-Pump-11-21",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://article.images.consumerreports.org/image/upload/w_112,h_112,f_auto/prod/content/dam/cro/news_articles/cars/Editor%20Images/CRO-Author-Benjamin-Preston-v4-02-20",
+          "alt": "Benjamin Preston",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://article.images.consumerreports.org/image/upload/w_652,f_auto,q_auto,ar_16:9,c_lfill/v1636580682/prod/content/dam/CRO-Images-2021/Cars/11Nov/CR-Cars-InlineHero-How-To-Save-At-The-Gas-Pump-11-21",
+          "alt": "person pumping gas",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "At $4.02 for a gallon as of March 31, 2026, the national average price for regular gasoline is 85 cents more than it was a year ago, according to AAA . Prices at the pump vary by region, trending higher in the West, and lower in some Midwest and central states. Of course, the price you\u2019ll pay depends on the gas station where you fill up. California has the highest average price, at $5.89 per gallon, and Oklahoma has the lowest, at $3.27 per gallon. But there can also be significant price disparities among prices at filling stations in the same town. We\u2019ve seen examples, using GasBuddy\u2019s gas price map, where prices could vary by 80 cents in the same town, from different brands. Choosing where you buy gasoline can make a big difference in how much you\u2019re spending to fuel your vehicle. Putting 15 gallons of regular gasoline into a small SUV would cost $12 more at one station over another. In a year, that price difference could be $624 based on a weekly fill-up. There are also drivers who buy higher-cost premium gasoline unnecessarily for cars designed for regular fuel, according to a study by AAA. Based on current national average gasoline prices, midgrade gasoline ($4.54) costs 52 cents per gallon more than what you\u2019ll pay for regular, and premium gas ($4.90) costs 88 cents more than regular on average, according to AAA. For a 15-gallon fill-up, that\u2019s $7.80 more for midgrade and $13.20 more for premium. (All prices as of March 31, 2026.) Quick Gas-Saving Checklist \u2022 Find the best prices with a gas station app or website. \u2022 Only buy premium gas if it is required. \u2022 Optimize how you pay to save money, using cash or a specific credit card. \u2022 Driving smoothly and obey the speed limits, it pays back in multiple ways. \u2022 Keep up on maintenance, including routine tire pressure checks. \u2022 Remove the roof rack and/or rear-mounted bike rack when not in use. Read on for more detailed advice based on Consumer Reports\u2019 testing and industry experts. How to Spend Less on Gas \u201cIf you\u2019re just looking at the price from the street, you\u2019re leaving money on the table,\u201d says Patrick De Haan , a petroleum anaylyst. There are things you can do to keep your gas expenses down. Among them: Use a Gas Station App or Website Smartphone apps, such as those from AAA , GasBuddy , and Gas Guru , are particularly convenient when you\u2019re traveling and away from your computer. They\u2019re available for Apple and Android devices. Many are free. You can filter results by fuel grade and sort by distance and price, as well as get GPS-guided directions to the station you choose. GasBuddy and Fuel Finder also let you check stations for amenities such as ATMs, restaurants, and car washes. GasBuddy has station reviews, which might tell you, for instance, which restrooms to avoid. And Gas Guru lets you save your favorite stations, so you can remember where to stop on your way back. The Google Maps and Waze apps, which many people use for real-time traffic alerts and driving directions, also offer gas-price info. You\u2019re likely to find that you may be able to get a better deal at stations that are not located on major highways, says Michael Calkins, a manager at AAA. Of course, making a big detour to pay less might not make sense. Calkins also says to make sure that when you compare prices you consider buying only Top-Tier detergent gasoline , which is better for your car. Check the Prices in the Different States You'll Visit Prices can vary significantly among states, often because of differences in state gas taxes. On Interstate 70, for example, gas prices are cheaper on the Missouri side of the border with Illinois. (As of March 31, 2026, the average price for a gallon of regular in Missouri is $3.44 compared with $4.20 in Illinois.) Save Money Based on How You Pay Some stations offer a lower price if you pay with cash instead of a credit card. The difference between the cash and credit price usually ranges from around 10 to 15 cents per gallon, De Haan says, though he adds that it can be as much as a dollar. Another option is to pay with a cash-back credit card. While the credit card price may be higher than the cash price, the reward you receive could make using the credit card a better deal. It\u2019s worth noting that a rewards credit card could even provide greater savings than a gas credit card from a big oil company (such as Texaco or Chevron), De Haan says. Some cards offer introductory cash or points bonuses for signing up, and others offer discounts at the pump. The Bank of America Customized Cash Rewards credit card , for example, offers a $200 bonus to people who spend $1,000 on purchases during the first 90 days of opening an account The ExxonMobile Smart Card , by contrast, gives a 10-cent discount per gallon of fuel purchased. By combining these tips with tricks like buying on days that a station offers a discount, you can stack your gas rewards and maximize savings. If you plan to pay by debit card, don\u2019t assume that you are getting the cash price. Some stations could charge you the credit card rate instead. Check the posted prices at the pump. Selecting the debit option and entering a PIN when you pump your gas is often a good indication that your transaction will be handled as cash, says Lyle Beckwith, senior vice president of the National Association of Convenience Stores, based in Alexandria, Va. Slow Down De Haan says it may sound silly, but with prices being as high as they are, it\u2019s a good idea to keep your foot off the accelerator pedal. Around town, that means reducing your acceleration rate, and on the highway, keeping your speed below 75 mph, above which he says wind resistance eats into your fuel economy. \u201cReducing your speed to 65 on the highway can increase fuel economy by as much as 15 to 20 percent,\u201d he says. Consumer Reports\u2019 testing has shown that speeding up from 55 to 75 mph is like moving from a compact car to a large SUV. Check Tire Pressure Making sure your car\u2019s tires are properly inflated to the pressure indicated on the sticker inside the driver\u2019s door will make it run more efficiently, based on our tests. Reduce the Number of Car Trips You Make If you can avoid traveling by car, either by walking, taking public transportation, or staying home, you\u2019ll save money at the pump. If you do have to drive somewhere, try to bundle errands and appointments so you don\u2019t have to make multiple trips and use more fuel. More on Saving \u2022 Best Car Insurance Companies \u2022 Cheapest Car Insurance Companies \u2022 Who Makes the Most Reliable New Cars? \u2022 Top Pick Tires: The Best Car, SUV, and Truck Tires \u2022 Car Brands Ranked by Maintenance and Repair Costs Over Time Benjamin Preston covered new and used car buying, auto insurance, car maintenance and repair, and electric bikes for Consumer Reports.",
+      "headings": []
+    },
+    {
+      "rank": 4,
+      "domain": "raiseright.com",
+      "url": "https://www.raiseright.com/blog/saving-money-at-the-gas-pump",
+      "title": "5 Smart Strategies for Saving Money at the Gas Pump - RaiseRight",
+      "word_count": 745,
+      "scrape_status": "tavily_fallback",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": "# 5 Smart Strategies for Saving Money at the Gas Pump Gas is expensive these days, and it isn't getting any cheaper. While you can't control gas prices, you *can* control how much money you spend on it. Here are the best ways to save money on gas, starting with your next fill-up. ##### 1. Wait for non-peak times According to Nasdaq, Mondays and Tuesdays are the best days to fill up your tank as there's less demand early in the week. For the same reasons, gas is often cheaper late at night or early in the morning. So, if your schedule allows it, fill up outside of peak times. As a bonus, you may be able to squeeze out some extra gas in the morning or night. Gasoline expands when it's warm, so colder temperatures can make a difference! ##### 2. Change your payment method the cash or credit card. Instead, pay with a gas gift card from RaiseRight, and earn up to 5% back on every fill-up. RaiseRight is a fundraising platform where you can buy gift cards from brands you already use to generate earnings for schools, sports teams, or other programs. The brands fund the earnings, so you're not spending anything extra. RaiseRight carries gift cards for several major gas stations, including: Most gas gift cards are reloadable, too, so if you run low mid-trip, you can add funds instantly from the RaiseRight app. See how much you could earn in one year with our free calculator: ##### 3. Use apps to find the best deal You might be surprised to learn about these easy tools that can help you save on gas. Instead of driving from station to station on the hunt for cheaper fuel (oh, the irony!), you can use an app to find the lowest prices. Some of the best money-saving apps for gas include: ##### 4. Use grocery store discounts and rewards Hot tip: one of the best ways to save on gas is to simply buy food and groceries for the week! Some grocery stores include a gas coupon on your receipt, so you can save money by filling up at the store's gas station on your way out. Other grocery stores have reward systems. For example, when you shop at Albertsons, Safeway, or ACME, you can earn Gas Reward points that save you up to $1 per gallon at participating stations. Other stores have similar programs, so check in with your local grocery chain to see what's available near you. And if you want to stretch your savings even further, use RaiseRight. RaiseRight user Ann H. shares how she stacks grocery store gas rewards with gift cards to save on every fill-up. ##### 5. Drive less (it's simpler than you think) The *best* way to save gas involves driving your car less often. It may not always be possible, but even the smallest tweaks can make a difference. Whenever you head out, plan your errands and stops, and know your route. The more you combine trips, the less gas you'll spend driving across town (and the more efficient your errand-running will become!). Or, create a carpool system with families in your neighborhood. If your kids participate in the same activities as other neighborhood kids, consider riding together so you can reduce everyone's driving. ##### Discover more ways to save with RaiseRight Fuel prices may seem scary, but when you have the right tricks up your sleeve, you can hit the road without breaking the bank. Now that you know the best ways to save money on gas, check out our other money-saving tips. From savvy vacation advice to grocery store hacks, we have plenty of ideas for stretching your dollar. ## Related posts 6 Ideas to Raise Money During Your Golf Tournament Fundraiser Talking to Your Organization About RaiseRight 6 Tips to Host a Memorable Trivia Night or Game Night Fundraiser Planning a Raffle Fundraiser? 5 Things You Need to Know 5 Tips to Organize the Best Pancake Breakfast Fundraiser ## Download the Guide See how you can start earning 5x more for your fundraising program! Fundraising Info Brands Company Shop On Our App COPYRIGHT - 2026 RAISERIGHT. ALL RIGHTS RESERVED. The merchants represented are not sponsors of RaiseRight or otherwise affiliated with RaiseRight. The Logos and other identifying marks on this website are trademarks of and owned by each represented company and/or its affiliates. Please visit each company\u2019s website for additional terms and conditions.",
+      "headings": []
+    },
+    {
+      "rank": 5,
+      "domain": "gasprices.aaa.com",
+      "url": "https://gasprices.aaa.com/news/fuel-saving-tips/",
+      "title": "Fuel Saving Tips - AAA Gas Prices",
+      "word_count": 683,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://gasprices.aaa.com/wp-content/uploads/2022/07/2501368_DIGITAL_TMO_BluDown_WebBanner_300x250_RGB_EN.png",
+        "alt": "T-Mobile Deal for AAA Members",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [],
+      "body_text": "Today\u2019s AAA National Average $4.086 Price as of 4/25/26 Bad driving isn\u2019t just unsafe. It\u2019s expensive. Studies have repeatedly shown that personal driving habits are the single biggest factor that affects vehicle fuel consumption. Adopting new and improved driving behaviors not only makes car travel safer, but it can also contribute to significant savings at the gas pump. Here are some simple ways you can improve your car\u2019s gas mileage: Ownership, Maintenance & Repairs \u25ba When buying a car, look for models that offer the best fuel economy in their class. For most drivers, an optional larger and/or more-powerful engine is unnecessary. \u25ba Maintain your car according to the manufacturer\u2019s recommendations. Modern cars don\u2019t need \u201ctune-ups,\u201d but regular service will ensure optimum fuel economy, performance and longevity. \u25ba Take your car to a repair shop as soon as possible if the \u201cCheck Engine\u201d light comes on. This indicates a problem that is causing excessive emissions and likely reducing fuel economy. \u25ba Keep tires properly inflated. Underinflation reduces fuel economy, but more importantly, tires low on air degrade handling and braking, wear more rapidly and can overheat and blow out. The Daily Drive \u25ba Slow down and drive the speed limit. On the highway, aerodynamic drag causes fuel economy to drop off significantly as speeds increase above 50 mph. \u25ba Avoid \u201cjackrabbit\u201d starts and hard acceleration. These actions greatly increase fuel consumption. \u25ba Avoid extended idling to warm up the engine, even in winter. It\u2019s unnecessary and wastes fuel. \u25ba Avoid prolonged idling in general. If your car will be stopped for more than 60 seconds, shut off the engine to save fuel. Many newer cars have automatic engine stop-start systems that do this. \u25ba When driving in town, adjust your speed to \u201ctime\u201d the traffic lights. This reduces repeated braking and acceleration that consume additional fuel. \u25ba When approaching a red light or stop sign, take your foot off the gas early and allow your car to coast down to a slower speed until it is time to brake. \u25ba Accelerate smoothly with light to moderate throttle. This allows the automatic transmission to upshift into higher gears sooner, reducing engine rpm and saving fuel. \u25ba Use cruise control to help maintain a constant speed and save fuel. However, never use cruise control on slippery roads because a loss of vehicle control could result. \u25ba If your car has a manual transmission, upshift as soon as you can without \u201clugging\u201d the engine. When practical, you can also save fuel by skip-shifting \u2013 for example, going directly from first gear to third. Don\u2019t be Fueled into Wasting Gas The practices above will definitely help improve fuel economy. Also, keep these more general fuel-saving tips in mind: \u25ba Minimize your use of air conditioning. Even at highway speeds, open windows have less effect on fuel economy than the engine power required to operate the air conditioning compressor. \u25ba Plan ahead to accomplish multiple errands in one trip, and whenever possible travel outside high-traffic times of the day. \u25ba If you own more than one car, use the most fuel-efficient model that meets the needs of any given journey. Other Tips & Tricks \u25ba In hot weather, park in the shade or use a windshield sunscreen to lessen heat buildup inside the car. This reduces the need for air conditioning (and thus fuel) to cool down the car. \u25ba Remove unnecessary and bulky items from your car. It takes more fuel to accelerate a heavier car, and the reduction in fuel economy is greater for small cars than for larger models. \u25ba Minimize your use of roof racks and remove special carriers when not in use. On the highway, even an empty bike, canoe or ski rack can reduce fuel economy, and a loaded rack or car-top container will have a major effect on gas mileage. \u25ba AAA research has found that unless premium fuel is recommended or required by your car\u2019s manufacturer, it provides no added benefit. Motorists should refer to their vehicle\u2019s owner\u2019s manual to check which type of gasoline is recommended for their engine.",
+      "headings": []
+    },
+    {
+      "rank": 6,
+      "domain": "mercuryinsurance.com",
+      "url": "https://www.mercuryinsurance.com/resources/insurance-cost-savings/how-to-save-money-on-gas.html",
+      "title": "11 Simple Tips to Save Money on Gas - Mercury Insurance",
+      "word_count": 1399,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://media.ffycdn.net/us/mercury-insurance/zy1jU1WtyHy4hmofDVq5.jpg?mod=v1/output=webp/cover=3:2/resize=350/quality=70",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://media.ffycdn.net/us/mercury-insurance/gz6RnA6gmXwd9isziY4w.svg",
+          "alt": "Verified content button",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://media.ffycdn.net/us/mercury-insurance/Wraaq1kGuiTdpsBucZCx.jpg?mod=v1/output=webp/cover=1:1/resize=700/crop=400x400@150x55/quality=70",
+          "alt": "Chaya Milchtein headshot",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://media.ffycdn.net/us/mercury-insurance/u5L6mLtJemKRM5PBn6Ja.png",
+          "alt": "Mercury Insurance blog author logo",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "Posted Nov 18, 2025 Gas prices seem to rise faster than your fuel gauge drops, but saving money on gas doesn\u2019t have to feel impossible. However, you can implement a few simple strategies to save money on gas, whether it\u2019s at the pump, while driving, or through proper car maintenance . To help uncover the best ways to save, we spoke with Chaya Milchtein , an automotive educator, influencer, and author of Mechanic Shop Femme\u2019s Guide to Car Ownership. Chaya has made it her mission to teach everyday drivers, especially women and queer people, how to take control of their car knowledge and confidence. She\u2019s taught classes at libraries, universities, and businesses across the country and has partnered with major brands like Mercury Insurance, CarMax, and TireRack. With her expert advice, you can learn how to save money on gas and keep more cash in your wallet. Saving at the Pump Regardless of the average gas price, there are ways to reduce costs at the pump with these gas-saving tips. Use Apps to Find the Cheapest Gas Your smartphone is a powerful tool for finding the best gas prices in your area. Gas price apps like GasBuddy display prices at nearby stations, which is especially useful on road trips . Many stations right off the highway or in major city centers have higher prices, so an app can help you find cheaper options along your route. However, Chaya advises being strategic. \u201cYou should absolutely shop for the best price in gas when it makes sense,\u201d she says. \u201cYou don\u2019t want to make an additional, out-of-the-way trip to the gas station and use more gas than you actually end up saving.\u201d Buy the Right Fuel Unless your car\u2019s manufacturer specifically requires premium gasoline or diesel , using a higher-octane gas is usually unnecessary. This type of fuel can cost much more per gallon than regular unleaded gasoline. Chaya confirms that it\u2019s a common misconception. \u201cUsing premium fuel in vehicles that don\u2019t recommend or require it doesn\u2019t protect your engine or increase fuel efficiency,\u201d she explains. So, save some money at the pump by using the fuel grade your car was designed to use. Choose a Good Rewards Program Many gas stations and grocery chains offer loyalty or rewards programs that can help lower your fuel costs. For example, Costco and Sam\u2019s Club offer discounted fuel with a membership, while Shell Fuel Rewards and Kroger Fuel Points let you earn cents off per gallon every time you shop. Compare programs to see which one fits your driving habits and spending patterns best. Saving While Driving Your driving habits have a direct impact on your vehicle\u2019s fuel consumption. Here are a few tips on how to save gas while driving: Drive The Speed Limit Speeding is one of the biggest factors in decreased fuel economy. According to the U.S. Department of Energy, every 5 mph you drive over 50 mph is like paying an additional $0.22 per gallon for gas. \u201cWhen you\u2019re driving your vehicle and you decide to exceed the speed limit, all of the tips you\u2019ve used to save on gas are going out the window,\u201d Chaya warns. \u201cPlus, all of the data shows that you\u2019re not actually getting anywhere faster.\u201d Also, driving at safe and reasonable speeds can help avoid accidents, which is one way to help lower your car insurance rate . Use Cruise Control When driving on open roads, cruise control can be a great tool for improving fuel efficiency. It helps maintain a constant speed, preventing the unnecessary acceleration and deceleration that burns extra fuel. \u201cIf you are driving on the highway, using cruise control can help with fuel efficiency because then the vehicle can tend to optimize for efficiency in a way that a driver may not be able to,\u201d says Chaya. Plan Your Routes Efficiently planning your trips can reduce the number of times you need to visit the pump. Try to combine errands into a single outing. For example, stop by the grocery store, swing by the post office, then grab lunch on the way home instead of making three separate trips. Chaya has a practical method for this: \u201cI like putting all the places that I need to go into Google Maps, then adjusting the destinations until it finds the most efficient route.\u201d She adds, \u201cSitting down and planning what your day looks like and what your stops will be is best for not only your time, but your fuel efficiency as well.\u201d Windows Closed, Air Conditioning On It might seem counterintuitive, but on the highway, it\u2019s typically more fuel-efficient to use your air conditioner than to roll down the windows. Why? Open windows create significant aerodynamic drag at high speeds, which forces your engine to work harder. \u201cAir conditioning absolutely uses gas,\u201d Chaya clarifies, \u201cbut when driving at highway speeds, keeping your windows open and producing unnecessary drag will be less fuel efficient than not using air conditioning.\u201d Reducing Warm-Up Time Modern cars don\u2019t need to idle for long periods to warm up. Letting your car idle wastes fuel and produces unnecessary emissions. \u201cI always suggest getting into your car, turning the car on, buckling your seat belt, and adjusting the radio. By the time you\u2019re done with that, your car is ready to go,\u201d Chaya recommends. \u201cThe car will warm up much faster if you\u2019re actually driving.\u201d Saving with Maintenance Proper vehicle upkeep is key for both safety and fuel economy. These money-saving car maintenance tips will help keep your car running efficiently. Keep Your Tires Aired Up According to the U.S. Department of Energy , underinflated tires can lower gas mileage by about 0.2% for every pound per square inch (psi) that your tire deflates. Additionally, underinflated tires can reduce your grip on the road and make your car harder to handle, which increases your risk of an accident. With that being said, make it a habit to check your tire pressure regularly. \u201cCheck and adjust your tire pressure at least once a month, or twice a month if you don\u2019t have working tire pressure sensors,\u201d advises Chaya. The correct pressure for your manufacturer-installed tires is listed on the sticker inside your driver\u2019s side door jamb, not on the tire itself. The PSI printed on the tire refers to the maximum pressure the tire can handle, not the ideal pressure for your vehicle. Don\u2019t Oil Changes Regularly replacing your vehicle\u2019s oil helps reduce friction in the engine, which can help give your car better gas mileage. Using the right type of oil for your vehicle is also important. According to the U.S. Department of Energy , using the manufacturer\u2019s recommended motor oil for your vehicle can improve your gas mileage by 1-2%. Lighten the Load and Remove Unneeded Car Accessories Extra weight and wind resistance can quietly chip away at your fuel efficiency. Take a few minutes to clear out anything you don\u2019t need (e.g., old sports gear or heavy tools) and remove unused roof or bike racks. Chaya notes, \u201cPrimarily for highway driving, you\u2019ll have aerodynamic issues going at higher speeds with bike and roof racks.\u201d The lighter and more streamlined your car is, the less work your engine has to do, which means better gas mileage and smoother handling. Drive Smarter and Save Whether you\u2019re filling up at the pump, driving on the highway, or performing routine maintenance, gasoline-saving tips can make a noticeable difference in your budget. Another way to save is by making sure you have the right auto insurance . Mercury offers reliable coverage at an affordable price, so you can protect your vehicle and your wallet at the same time. Contact us today for a fast, free quote! Chaya Milchtein Automotive Educator, Influencer, and Journalist Chaya Milchtein is an automotive educator, influencer, and author of Mechanic Shop Femme's Guide to Car Ownership. She unapologetically stands out in a crowd, flaunting her fashion sense while teaching about cars, traveling the world, and breaking all kinds of norms. Chaya made it her life\u2019s mission to educate women and queer people about their cars. Read More Articles by Chaya Milchtein Mercury Team The Mercury Marketing Team is made up of professionals in the fields of Content Creation, Public Relations, Social Media and Journalism. The team works together to deliver professionally written and researched content to provide information for consumers. Read More Articles by the Mercury Team",
+      "headings": []
+    },
+    {
+      "rank": 7,
+      "domain": "conwayhousingsc.org",
+      "url": "https://www.conwayhousingsc.org/20-simple-tips-to-save-money-on-gas",
+      "title": "20 Simple Tips to Save Money on Gas | Conway Housing Authority",
+      "word_count": 616,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://conwayhousingsc.org/templates/conwayhousingsc.org/images/fb-posting-logo.png",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [],
+      "body_text": "For people living paycheck to paycheck or simply trying to keep their living expenses down, every item in the weekly or monthly budget matters. It's easy to cut out some of the luxuries, but when it comes to necessities, it gets a little trickier. Reducing spending on groceries is one smart way to save. Gas for your vehicle is another generally unavoidable expense that can add up quickly. But with some determination and planning, it's not too hard to cut back on gas consumption for significant savings over the course of the month and year. So, below are some sensible tips to save money on gas to help stay on track with your budget. As an added bonus, many of these ideas also cut back on wear and tear on your vehicle, reducing maintenance costs over time and even extending the life of your car, truck, SUV, or motorcycle. How to Spend Less on Gas Don't drive when you don't have to. Walk or ride your bike instead. It's not just one of the best tips to save money on gas - it's also great exercise, and it helps the environment! Carpool with friends, family, neighbors, or co-workers whenever possible, whether you're going shopping, to work, out for a meal, or elsewhere. Hop on a bus or train instead of making a significant drive. Obviously, you only save if the fare is less than the gas would cost. Drive slower. The faster you go, the more gas you use traveling the same distance. Focus on keeping your foot steady on the pedals. Smooth driving and stopping are more fuel efficient than frequently slowing and accelerating or sharp stops. Use cruise control on longer drives to keep the vehicle running smoothly and efficiently. Pick smart routes. Sometimes, it's the shortest one. But often, it's the one with the fewest traffic lights and stop signs, or the one with the least traffic. Don't warm up your car before driving. That idling just wastes gas. Don't leave your car running if you're waiting in it for more than a minute or two. Keep your tires properly inflated. Low air pressure in the tires not only wears them out faster, it also makes your vehicle less fuel efficient. Use the air conditioning as little as possible, as it increases gas consumption considerably. Change your oil on schedule and make sure you're using the right type of oil, as specified in the manual. This is important to fuel efficiency. Replace filters as needed to keep your vehicle running more fuel efficiently. Buy gas early in the morning or at night when it's cooler out. As gas gets hotter, it expands, meaning you get less for your money. Fill up your tank early in the week. Gas prices tend to rise over the course of the week and peak on Fridays and weekends. Stay away from gas stations right off highways, near airports, and near major tourist destinations. They usually have the highest prices. Don't wait till you're on empty to fuel up, or you may end up having to settle for a more expensive gas station. Use the various websites and apps that show you the cheapest gas stations near your location. Put one of these free apps on your phone. Check out discount gift card websites like CardCash and Gift Card Granny , where you can sometimes buy cards you can use on gas at a lower price than their value. Research gas prices by state before an interstate road trip. Gasoline taxes vary by state, so you may save a good amount by filling up right before leaving one state or waiting till you get to the next one.",
+      "headings": []
+    },
+    {
+      "rank": 8,
+      "domain": "youtube.com",
+      "url": "https://www.youtube.com/watch?v=un0AX--u9fk",
+      "title": "How to save money on gas with smarter fill-Ups and driving - YouTube",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 9,
+      "domain": "flaggerforce.com",
+      "url": "https://flaggerforce.com/blog/ways-to-save-money-on-gas/",
+      "title": "Ways to Save Money on Gas - Flagger Force",
+      "word_count": 705,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://flaggerforce.com/content/uploads/2022/12/2023_SavingGasAtPump_Thumbnails.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://flaggerforce.com/content/uploads/2023/01/2023_SavingGasAtPump_Thumbnails_650x650_web.jpg",
+          "alt": "Save on Gas",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://flaggerforce.com/content/uploads/2024/04/National-Work-Zone-Awareness-Week-Graphic-251x253.jpg",
+          "alt": "NWZAW 2024 Stay Alert Stay Alive",
+          "description": "Data visualization or financial chart graphic.",
+          "type": "graphic_design_data"
+        },
+        {
+          "url": "https://flaggerforce.com/content/uploads/2023/04/2023_NWZAW-1-251x253.jpg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "$2.50, $3.00, $4.00, $5.00 a gallon. Gas prices have steadily increased in the past year putting pressure on businesses and household budgets alike. One way to adapt to high gas costs is to adjust lifestyles and driving habits until prices go down. Looking for some ideas to save money on gas? In this post, we\u2019ll take a look at gas prices, compare electric cars to gas-powered ones, and provide tips on how to save on gas. Why do Gas Prices Fluctuate? According to CNN , global issues and the pandemic are the main drivers of rising gas prices. The war between Russia and Ukraine is a major reason as Russia sent millions of crude oil barrels to global markets, with little of that going to the United States right before they invaded Ukraine. Since then, the United States banned imports of Russian energy, oil included. The pandemic has also affected the rise of gas prices. Since fewer people traveled and drove during the pandemic, there was a slowdown in gas consumption since less of it was needed. As society returned to normal, the oil supply has not and less of it is available than before. Flagger Force Fleet\u2014How to Save Money on Gas Workers who drive Flagger Force trucks often travel long distances which can consume lots of gas. Together, our fleet puts more than a million miles on the road per month. Here are tips to reduce mileage, save gas and reduce maintenance costs. Limit a truck\u2019s usage to breaks only, emergencies, and traveling or transportation. Be mindful of the use of heating or air conditioning, especially when the truck is not being actively used. Fill up with gas on the way to or from a job instead of going on off days. Use cruise-control when traveling on highways. Electric vs. Gas Cars\u2014Pros and Cons As gas prices soar, many people ask the question, \u201cIs it worth it to buy an electric car?\u201d There are both pros and cons to electric cars with the same thing being said about gas-powered cars. Some advantages to electric cars are gas savings (the cost of electricity is much less than gas). Buyers can also qualify for tax credits using an electric car, plus maintenance costs are lower. Some cons to electric cars are that they tend to be much more expensive than gas cars. They also take hours to charge, which can be inconvenient for the driver, and on top of that, they have limited mileage per charge. According to MetroMile , the average gas car gets 400 miles per tank, while the average electric car only gets 250-300 miles per charge. Get the Most Out of Every Drop of Gas Use A/C less often. Drive with the windows down. Drive with your friends or family if you are going to the same place. Tune up your car. Maintenance issues can often lead to decreased gas mileage. Turn off your engine when parked. Idling burns a lot of gas in your car. Keep proper air pressure in your tires. Air pressure decreases about every 30 days. Plan your routes. Pick the most efficient routes to avoid traveling unnecessary miles. Empty your trunk and backseat of unneeded items. The added extra weight can lead to decreased gas mileage. Join a fuel rewards program. You can get money off per gallon. Plan fill-ups. Gas gets more expensive as the week goes on so fill up Monday or Tuesday for the cheapest prices of the week. Use apps such as \u201cGasBuddy\u201d or \u201cGasGuru.\u201d Find the cheapest gas in your area. Use credit cards that offer cash back on gas. This can save you a few bucks per fill-up. Get a warehouse club membership. Places like \u201cBJ\u2019s\u201d or \u201cSam\u2019s Club\u201d often have much cheaper gas than gas stations. Avoid driving aggressively. Quick accelerations lead to bad gas mileage. Avoid driving at speeds over 50 mph. Efficiency decreases as soon as you go over 50 mph. Saving Money on Gas is Possible During periods of high as gas prices, use these tips and practice safer driving on the road to save money and increase safety which also saves you time and money! Additional Sources: www.cnn.com/2022/06/01/energy/record-gas-price-causes/index.html www.forbes.com/wheels/advice/gas-saving-tips/ www.wdam.com/2022/06/07/save-money-gas-with-these-fuel-saving-tips/ www.pennsylvaniagasprices.com/retail_price_chart.aspx www.metromile.com/blog/electric-cars-pros-and-cons/ www.incharge.org/financial-literacy/budgeting-saving/gas-saving-tips/ www.axios.com/2022/06/08/gas-prices-money-savings-tips-apps www.compare.com/electric-cars/guides/electric-vs-gas-cars",
+      "headings": []
+    },
+    {
+      "rank": 10,
+      "domain": "instagram.com",
+      "url": "https://www.instagram.com/reel/DVucvMpjG1e/",
+      "title": "HOW TO SAVE ON GAS From skipping chain stations to cash-back ...",
+      "word_count": 1,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "data:image/png;base64,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",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [],
+      "body_text": "_Body text (44 chars) saved to JSON sidecar_",
+      "headings": []
+    },
+    {
+      "rank": 11,
+      "domain": "environmentamerica.org",
+      "url": "https://environmentamerica.org/center/resources/how-can-i-save-money-on-gas/",
+      "title": "How can I save on gas? - Environment America",
+      "word_count": 1681,
+      "scrape_status": "tavily_fallback",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": "Part of the Public Interest Network ##### Trending $ Donate *Search* ##### Trending ##### Trending $ Donate Nav #### # How can I save on gas? ## 10 tips for reducing gasoline consumption. When we use less gas, it benefits our environment and our health in addition to delivering financial savings. Here are some tips for using less gas. Energy efficiency March 19, 2026 Take Action #### Tell the EPA: Protect the air we breathe Speak up for clean air ##### Johanna Neumann Senior Director, Campaign for 100% Renewable Energy, Environment America Research & Policy Center ##### Abe Scarr State Director, Illinois PIRG; Energy and Utilities Program Director, PIRG When we use less gasoline, it benefits our environment and our health, in addition to reducing how much we spend at the pump. Here are 10 tips for using less gas. ## Make sure your tires are properly inflated. According to the U.S. Department of Energy, under-inflated tires can reduce fuel economy by roughly 0.2% for every one PSI drop in the average pressure of all four tires. So, now is a good time to make sure your car\u2019s tires are properly inflated. To find the precise safe pressure for your car\u2019s tires, check the sticker inside the driver\u2019s side door jamb or the owner\u2019s manual.Most gas stations have air terminals where you can check your tire pressure and inflate your tires to the recommended pressure. ## Buy efficient replacement tires. The tires that come on new vehicles are often energy-efficient, because efficient tires is one of the easiest steps car manufacturers can take to meet the fuel economy standards set for them by regulators. But, when it\u2019s time to replace tires, consumers often default to buying the tires that are most readily available at the lowest up front cost. That can be misleading. While efficient tires often cost slightly more than less efficient alternatives, the up-front investment pays for themselves many times over. According to Consumer Reports, the incremental cost of choosing a set of replacement tires that matches the efficiency of tires typically placed on a new vehicle is about $26. Testing in California found that drivers of gasoline powered vehicles with more efficient tires saved $184 in gasoline costs over the lifetime of a set of tires \u2013 a 6 to 7x return on investment for purchasing the more efficient tires. So, rather than getting the cheapest tire, getting one that delivers the highest value over the life of the product will better serve consumers in the long run. ## Drive gently and at reasonable speeds. Aggressive driving \u2013 which includes speeding, accelerating and braking abruptly \u2013 not only contributes to accidents but also wastes gas. According to the U.S. Department of Energy, driving aggressively can lower gas mileage by roughly 15% to 30% at highway speeds and 10% to 40% in stop-and-go traffic. Switching from aggressive driving to gentler sensible driving can translate to $0.38\u2013$1.53/gallon in fuel savings. On highways, using cruise control and setting it at the speed limit or even a little bit below can help reduce aggressive driving habits and save fuel. ## Use your car\u2019s eco and the auto start/stop modes. Many modern gas cars often have settings you can use to boost fuel economy. To help save gas, use your car\u2019s \u201ceco\u201d setting. If you have auto on/off start, make sure it\u2019s not disabled. One analysis found that this feature can improve fuel economy by between about 7% and 26%, depending on driving conditions. Every little bit adds up. ## Remove any roof-mounted equipment, such as racks or cargo boxes. Cargo on the roof of your vehicle creates aerodynamic drag in the form of wind resistance, which lowers fuel economy. If an external cargo container is needed for a vacation or other big trip, remove it when it\u2019s not in use to save fuel and money. ## Combine trips to conserve fuel. A little bit of planning to combine trips heading in the same direction can save time and money. Several short trips taken from a cold start can use twice as much fuel as a longer multi-purpose trip covering the same distance with a warm engine. To make the most of this energy-saving strategy, make a list of errands and map out the most efficient route to avoid unnecessary mileage and backtracking. If possible, avoid peak traffic since stop-and-go driving and excessive idling wastes fuel. ## Try walking, biking\u2026 Most Americans use cars to get around \u2013 to travel to work and school, run errands, visit friends, and more. Relying on your car when there might be other options not only costs money, it also harms the environment. If you\u2019re trying to reduce how much you drive, one good first step is to practice traveling somewhere without your car. Google maps can be helpful for planning routes for walking or cycling. If you have a bike sitting in your garage, now would be a good time to take it to the shop for a tune up. For the cost of a tank or two of gas, you can have good transportation that\u2019ll help you reach more places and get fit. Try it one or two days a week or for the trips where it\u2019s easiest. You might then want to work your way up. After doing this a few times, you might find that you appreciate how being active outside \u2013 on bike or by foot \u2013 reduces stress, enhances concentration, and makes you feel better. ## Consider public transit. If you live in a community with access to public transit, now\u2019s a great time to explore that option to see if you can make it work for you. Google maps can help you find a route that\u2019s right for you, tell you where to make connections and estimate the cost of the trip. You can look for schedules close to when you\u2019re planning to leave the house. Many transit agencies are also making it easier to pay on board. ## Seek out carpools. If you often drive alone on a consistent schedule, another option to spend less on gas is to carpool. Carpooling basically means riding with other people who are going to the same location. Carpooling daily with just one other person cuts fuel consumption in half compared to each person driving by themselves. Carpooling can also be a chance to meet people and build connections with others who live in your community. Many states and localities have set up carpooling programs where people can match-up with nearby commuters. Some employers offer corporate carpooling programs to their employees, so it\u2019s worth checking with your employer if that\u2019s an option. And many employers offer their employees commuter benefits that allow them to pay for carpooling or vanpooling to work with pre-tax dollars, which can save hundreds of dollars per year on commuting expenses. Some private companies such as Ridesharing.com have also set up dedicated apps and websites to help connect people in carpools. ## Consider making your next vehicle electric. Electric vehicles (EVs) are far more energy-efficient than gas powered vehicles, and are increasingly powered by locally harvested renewable energy. For homeowners with solar panels and an electric vehicle, the energy to power their daily the commute literally shines down on them every day. Over the lifespan of an EV, the savings on fuel and maintenance can add up to thousands of dollars. This makes EVs a smart long-term investment for cost-conscious consumers. Now is a particularly good time to consider a used electric vehicle because a flood of three-year-old EVs will be coming off lease this year. Electric vehicles #### Used electric vehicle buyer\u2019s guide January 23, 2023 Clean air #### Tell the EPA: Protect the air we breathe The EPA just stopped counting the cost of lives lost to air pollution. Speak up for clean air ##### Authors ### Johanna Neumann Senior Director, Campaign for 100% Renewable Energy, Environment America Research & Policy Center Johanna directs strategy and staff for Environment America's energy campaigns at the local, state and national level. In her prior positions, she led the campaign to ban smoking in all Maryland workplaces, helped stop the construction of a new nuclear reactor on the shores of the Chesapeake Bay and helped build the support necessary to pass the EmPOWER Maryland Act, which set a goal of reducing the state\u2019s per capita electricity use by 15 percent. She also currently serves on the board of Community Action Works. Johanna lives in Amherst, Massachusetts, with her family, where she enjoys growing dahlias, biking and the occasional game of goaltimate. ### Abe Scarr State Director, Illinois PIRG; Energy and Utilities Program Director, PIRG Abe Scarr is the director of Illinois PIRG and is the PIRG Energy and Utilities Program Director. He is a lead advocate in the Illinois Capitol and in the media for stronger consumer protections, utility accountability, and good government. In 2017, Abe led a coalition to pass legislation to implement automatic voter registration in Illinois, winning unanimous support in the Illinois General Assembly for the bill. He has co-authored multiple in-depth reports on Illinois utility policy and leads coalition campaigns to reform the Peoples Gas pipe replacement program. As PIRG's Energy and Utilities Program Director, Abe supports PIRG energy and utility campaigns across the country. He also serves as a board member for the Consumer Federation of America. Abe lives in Chicago, where he enjoys biking, cooking and tending his garden. ##### Find Out More Energy efficiency #### Saving energy, money and lives: How energy efficiency has improved America\u2019s homes Data Visualization \u25cf February 26, 2026 Clean energy #### Clean energy across America Report \u25cf November 4, 2025 Energy efficiency #### How energy efficiency benefits Americans Explainer \u25cf October 9, 2025 Energy efficiency #### Winterization Resource Guide Tips & Guides \u25cf September 23, 2025 ##### Get Updates We\u2019ll send you email updates with the latest news, valuable resources and opportunities to take action on the issues you care about. Donate Environment America Research & Policy Center Visit the website of Environment America, our sister 501(c)(4) organization.",
+      "headings": []
+    },
+    {
+      "rank": 12,
+      "domain": "thepennyhoarder.com",
+      "url": "https://www.thepennyhoarder.com/save-money/how-to-save-on-gas/",
+      "title": "15 Easy Ways to Save Money on Gas (Apps, Rewards and Tips)",
+      "word_count": 2621,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://cdn.thepennyhoarder.com/wp-content/uploads/2023/05/02133613/gas-price-increase-final-1024x683.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://cdn.thepennyhoarder.com/wp-content/uploads/2023/08/09161735/pexels-olly-3812750-360x240.jpg",
+          "alt": "A woman puts gas in her car.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.thepennyhoarder.com/wp-content/uploads/2023/08/09161943/pexels-uhgo-3160544-360x240.jpg",
+          "alt": "Someone drives their car on a highway behind a semi truck",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.thepennyhoarder.com/wp-content/uploads/2023/08/09162138/pexels-mikebirdy-110844-360x202.jpg",
+          "alt": "An electric vehicle is connected to a charger.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "by Mackenzie Raetz, CEPF\u00ae Senior Editor of Freelance Gas prices go up and down for many reasons, which can make it a tough expense to budget for . The average price for a gallon of regular unleaded gasoline is about $4.02 nationally as of April 21, 2026, according to AAA , up from about $3.15 this time last year. One of the biggest drivers of that change? The war in Iran affecting both the production and transportation of oil. But you can still save money on gas based on where you fill up, how you pay, when you visit the gas station, how you drive, how you maintain your car, and by using cash back apps and credit cards. Learning how to spend less on fuel can make a big difference in your transportation budget. For example, if you drive about 1,000 miles a month and your car averages 25 miles per gallon, you\u2019ll buy about 40 gallons of gas each month. Saving just 20 cents per gallon could reduce your fuel spending by about $8 per month, or nearly $100 per year. Gas Prices Aren\u2019t the Only Bills You Can Lower This Month If you\u2019re looking to cut everyday costs, gas isn\u2019t the only place to focus. From your internet bill to your auto insurance, there are tons of other ways to trim your monthly spending without sacrificing quality or convenience. We\u2019ve rounded up some of our favorite ways to save on everyday essentials. The Penny Hoarder Auto Insurance Tool Save ~$500 per year Provide some basic information Compare Quotes AmOne Save on interest payments with a personal loan Answer a 10 quick qualifying questions Save On Interest Balance Transfer Credit Cards* Cancel Your Interest Payments Until 2026 Apply for a 0% Interest Credit Card Cancel My Interest Upside Save $40/month on Gas The Fastest Ways to Save Money on Gas You can save money on gas quickly with a combination of cash back apps, gas rewards programs and smarter fueling habits. Quick strategies include: Use a cash back gas app like Upside , which offers rebates at participating gas stations Compare prices with gas finder apps like GasBuddy Use a credit card that offers gas rewards or cash back Join fuel rewards programs These strategies can reduce the effective price per gallon without changing how much you drive. Using them together can help you save even more. How to Find the Cheapest Gas Near You can find the cheapest gas near you by researching prices at gas stations nearby. Apps and price comparison tools can help you quickly find the lowest prices before filling up. App What It Does Potential Savings Best For Upside Cash back offers at participating gas stations Up to ~25\u00a2 per gallon depending on location Drivers who want fuel rebates GasBuddy Shows nearby gas prices and user reports Varies by station Finding the cheapest gas nearby Avoid higher-priced gas at busy stations by finding the best prices before heading to the pump. 15 Ways to Save Money on Gas 1. Use a Cashback Gas App (Like Upside) You can save money on gas by earning cash back with an app called Upside , which helps you earn cash back on everyday purchases. The app shows you participating local gas stations where you can beat the pump price by as much as 25 cents per gallon. Plus, you can earn cash back at grocery stores and restaurants including places like Domino\u2019s, Taco Bell, Five Guys, Popeyes and Applebee\u2019s. People who use the app regularly can earn an average of $254 every year as cash money deposited straight into their PayPal or bank account. Or redeem it for a gift card from popular brands like Amazon and Starbucks. , set up a free account and check the map to find participating stores near you. When you\u2019re ready, claim an offer, tap \u201cCheck In\u201d before you pay with your linked card. You can cash out any time, and you\u2019ll get your money within two days of initiating a transfer. and use code TPH25 to get an extra 25 cents per gallon off your first purchase. You can also learn more about Upside in our Upside review . 2. Compare Gas Prices With a Gas Finder App Gas finder apps help drivers identify the lowest prices nearby before filling up. You don\u2019t want to buy gas at one place and then come across a station with cheaper fuel just down the street. Several websites and apps tell you the price of gasoline at the stations in your area. GasBuddy and Waze are two popular options. Look for the cheapest gas stations along any of the routes you normally drive for work or shopping. Don\u2019t wait until your tank is near empty and be forced to buy gas wherever is closest. The price of gas can vary significantly across state lines, so if you\u2019re planning a trip, check where prices are lower throughout your route. Avoid getting gas at stations just off a highway exit or in the middle of a major city \u2014 stations in those locations tend to charge more than ones a little more out of the way. 3. Use a Credit Card That Earns Cash Back or Rewards on Gas Some credit cards offer bonus rewards or cash back for fuel purchases. When you fuel up, choose a credit card that pays you cash back or one that allows you to earn rewards points when you purchase gas. Just be sure you know what you\u2019re getting into before opening a rewards credit card. Also, pay the fuel charges off in full each month so you\u2019re not paying interest on your gas purchases. 4. Join Gas Station Rewards Programs Many gas station chains and grocery stores across the country offer discounts and loyalty programs in hopes of turning you into a loyal customer. Each gas station fuel rewards program and grocery store fuel rewards program has its own set of rules on how much you can save and what you have to spend to get the rewards, so read up on the details. GasBuddy also offers its own fuel savings program called Pay with GasBuddy . Join for free, and you\u2019ll save up to 25 cents per gallon when you fill up at most national gas station chains. You can also sign up for a paid version. Pay with GasBuddy Premium is $9.99 a month and offers up to 50 cents off per gallon. Just check that your gas station of choice accepts the Pay with GasBuddy card \u2014 not everywhere does. 5. Use Grocery Store Fuel Rewards Some grocery chains like Kroger allow shoppers to earn fuel points when they buy groceries. These points can typically be redeemed at partner gas stations for discounts per gallon. For households already buying groceries weekly, these programs may offer an easy way to save on fuel. 6. Choose Regular Gas If Your Car Allows It Premium gas often costs significantly more per gallon, but many vehicles are designed to run on regular fuel. Higher-octane gas isn\u2019t necessary or beneficial in most cars, so you\u2019re just spending more money when you buy premium. Premium gas can cost about 20 to 40 cents per gallon more than regular-grade fuel. Use regular-grade gasoline unless your car\u2019s manufacturer specifically requires premium. If your car\u2019s manual says regular gasoline is OK, choosing it may help reduce fuel costs. 7. Fill Up Earlier in the Week Gas prices sometimes increase later in the week as travel demand rises before the weekend, although trends can vary by region. According to a GasBuddy gas price analysis , gas prices tend to be the lowest on Sundays. If you\u2019re looking to buy cheap gas, avoid filling your tank on Wednesdays, Thursdays and Fridays, when gas prices tend to be the most expensive. 8. Plan Trips to Reduce Driving Plan your shopping trips and other outings in efficient ways to reduce how many miles you drive. If the grocery store is near your job, do your shopping after work rather than waiting until the weekend. Do your errands all in one day rather than making several trips on different days. Cutting a few miles several times weekly could save a fill-up or two. 9. Maintain Proper Tire Pressure Underinflated tires increase rolling resistance, which can lower your gas mileage and cause you to lose about 2 cents per gallon, according to the U.S. Department of Energy . To find the proper tire pressure for your car, check your owner\u2019s manual or the sticker in the driver\u2019s side door jamb or in the glove box. 10. Drive Smoothly and Avoid Rapid Acceleration Aggressive driving behaviors like rapid acceleration and sudden braking can increase fuel consumption. Following the speed limit or driving just under it can pay off in more ways than one. The faster you drive, the more wind resistance you face, which reduces your fuel economy. But many cars are also more fuel efficient at highway speeds, so there\u2019s a trade-off. 11. Remove Unnecessary Weight From Your Vehicle Extra weight in your vehicle requires more fuel to move. The less you have weighing down your vehicle, the better gas mileage it gets. Look at what you\u2019ve got in your car and remove anything you don\u2019t need. The neglected sports equipment in your trunk can go. 12. Use Cruise Control on Long Highway Drives Cruise control helps maintain steady speeds during highway travel. When it\u2019s hilly, you might get better mileage without cruise control because the system will tend to downshift too much and waste gas. But otherwise, cruise! Staying at a steady speed with cruise control has been shown to save on fuel usage \u2014 plus you can make sure you don\u2019t go over the speed limit. 13. Avoid Idling Your Car for Long Periods Running the engine while parked consumes fuel without moving the vehicle. Don\u2019t start the car and then leave it running for a long time while you wait for everyone to get in or to fiddle with your navigation. Make sure you\u2019re ready to go before starting your engine. 14. Keep Your Vehicle Properly Maintained Routine vehicle maintenance helps engines operate efficiently. Don\u2019t wait for the check engine light to come on before taking your ride to the garage. Keeping a fuel-efficient vehicle means investing in preventive checkups to keep your car firing on all cylinders. 15. Consider a More Fuel-Efficient Vehicle Choosing a more fuel-efficient vehicle may reduce long-term fuel expenses if you\u2019re planning to replace your current car. Making your next vehicle one that has a higher MPG (miles per gallon) rating is a sure-fire way to spend less on gasoline. Consider a hybrid car \u2014 or a used electric one, if you never want to worry about buying gas again. A vehicle with a manual transmission also tends to have better fuel efficiency than an automatic. Frequently Asked Questions About Gas Prices The lowest gas prices usually depend on your location. Many drivers find cheaper fuel at warehouse clubs, grocery store fuel centers or discount stations. Gas price apps can also help compare nearby stations before filling up. Gas prices often fluctuate during the week, but some markets see lower prices on Sundays before demand increases heading into the weekend. However, patterns can vary depending on local supply and demand. Apps like GasBuddy and Upside allow drivers to view nearby gas prices and identify stations offering lower prices or cash back offers. These tools use location data and user reports to help drivers compare options quickly. Warehouse retailers sometimes sell gasoline at lower profit margins to attract customers to their stores. Membership fees and in-store purchases may help offset those lower margins. Fuel prices typically change based on regional supply, wholesale fuel costs and demand patterns rather than the time of day. Checking local price comparison apps may be a more reliable way to find lower prices. Gas cash back apps may provide rebates ranging from a few cents to around 25 cents per gallon depending on location, promotions and participating stations. Savings vary by driver, but these apps can help reduce the effective price per gallon over time. Final Verdict Saving money on gas usually comes from combining several strategies rather than relying on one tactic. Use cash back apps, compare gas prices nearby and participate in fuel rewards programs to help reduce the price you pay per gallon. At the same time, fuel-efficient driving habits and routine vehicle maintenance can lower how much gas your car uses overall. These strategies can reduce gas expenses and help you secure discounts at many gas stations nationwide. Before you hit the road, get up to speed on reducing fuel prices so you can spend your money when you get there instead of on getting there. Former Penny Hoarder staff writers Mike Brassfield, Kaz Weida, Nicole Dow and contributor Steve Gillman contributed to this post. Ready to stop worrying about money? Get the Penny Hoarder Daily Gas prices go up and down for many reasons, which can make it a tough expense to budget for . The average price for a gallon of regular unleaded gasoline is about $4.02 nationally as of April 21, 2026, according to AAA , up from about $3.15 this time last year. One of the biggest drivers of that change? The war in Iran affecting both the production and transportation of oil. But you can still save money on gas based on where you fill up, how you pay, when you visit the gas station, how you drive, how you maintain your car, and by using cash back apps and credit cards. Learning how to spend less on fuel can make a big difference in your transportation budget. For example, if you drive about 1,000 miles a month and your car averages 25 miles per gallon, you\u2019ll buy about 40 gallons of gas each month. Saving just 20 cents per gallon could reduce your fuel spending by about $8 per month, or nearly $100 per year. Gas Prices Aren\u2019t the Only Bills You Can Lower This Month If you\u2019re looking to cut everyday costs, gas isn\u2019t the only place to focus. From your internet bill to your auto insurance, there are tons of other ways to trim your monthly spending without sacrificing quality or convenience. We\u2019ve rounded up some of our favorite ways to save on everyday essentials. The Penny Hoarder Auto Insurance Tool Save ~$500 per year Provide some basic information Compare Quotes AmOne Save on interest payments with a personal loan Answer a 10 quick qualifying questions Save On Interest Balance Transfer Credit Cards* Cancel Your Interest Payments Until 2026 Apply for a 0% Interest Credit Card Cancel My Interest Upside Save $40/month on Gas The Fastest Ways to Save Money on Gas You can save money on gas quickly with a combination of cash back apps, gas rewards programs and smarter fueling habits. Quick strategies include: Use a cash back gas app like Upside , which offers rebates at participating gas stations Compare prices with gas finder apps like GasBuddy Use a credit card that offers gas rewards or cash back Join fuel rewards programs These strategies can reduce the effective price per gallon without changing how much you drive. Using them together can help you save even more. How to Find the Cheapest Gas Near You can find the cheapest gas near you by researching prices at gas stations nearby. Apps and price comparison tools can help you quickly find the lowest prices before filling up. App What It Does Potential Savings Best For Upside Cash back offers at participating gas stations Up to ~25\u00a2 per gallon depending on location Drivers who want fuel rebates ",
+      "headings": []
+    },
+    {
+      "rank": 13,
+      "domain": "rategenius.com",
+      "url": "https://www.rategenius.com/tips-to-save-gas-money/",
+      "title": "11 Tips To Save Money on Gas Despite Rising Prices - RateGenius",
+      "word_count": 1432,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.rategenius.com/wp-content/uploads/FF-empty-wallet-1024x491.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.rategenius.com/wp-content/uploads/does-not-exist-130x130.png);",
+          "alt": "Author Image",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.rategenius.com/wp-content/uploads/FF-empty-wallet-scaled.jpg",
+          "alt": "Close up photo of a man holding open an empty wallet next to a gas tank with hundred dollar bills sticking out | 11 Tips to Save Money on Gas Despite Rising Prices",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.rategenius.com/wp-content/uploads/cta-loan-finder-banner-mobile.jpg",
+          "alt": "What rate can I get?",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.rategenius.com/wp-content/uploads/cta-loan-finder-banner.jpg",
+          "alt": "What rate can I get?",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.rategenius.com/wp-content/uploads/does-not-exist-130x130.png",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 14,
+      "domain": "golden1.com",
+      "url": "https://www.golden1.com/blog/6-simple-tips-to-save-money-on-gas",
+      "title": "6 Simple Tips To Save Money On Gas | Golden 1 Credit Union",
+      "word_count": 0,
+      "scrape_status": "failed",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 15,
+      "domain": "nerdwallet.com",
+      "url": "https://www.nerdwallet.com/finance/learn/gas-apps",
+      "title": "Best Gas Apps to Help With Fuel Costs - NerdWallet",
+      "word_count": 2149,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.nerdwallet.com/assets/blog/wp-content/uploads/2022/03/GettyImages-1331082994-2400x1440.jpg",
+        "alt": "",
+        "description": "Clean, minimalist custom illustration or high-quality object stock photo.",
+        "type": "minimalist_branded_asset"
+      },
+      "article_images": [
+        {
+          "url": "https://www.nerdwallet.com/assets/blog/wp-content/uploads/2026/01/Screenshot-2026-01-22-at-4.18.01-PM.png",
+          "alt": "CTA image",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i.ytimg.com/vi_webp/yBxAlbG76bk/sddefault.webp",
+          "alt": "Video thumbnail",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.nerdwallet.com/tachyon/2021/12/IMG_3114_edited.jpg?resize=160%2C160",
+          "alt": "Tommy Tindall",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdns3.nerdwallet.com/lending/publication-logos/Marketwatch.webp",
+          "alt": "MarketWatch",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdns3.nerdwallet.com/lending/publication-logos/TheAssociatedPress.webp",
+          "alt": "The Associated Press",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdns3.nerdwallet.com/lending/publication-logos/TheWashingtonPost.webp",
+          "alt": "The Washington Post",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.nerdwallet.com/tachyon/2023/10/Lisa-Mulka-e1697230193587.jpg?resize=160%2C160",
+          "alt": "Lisa Mulka",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 16,
+      "domain": "youtube.com",
+      "url": "https://www.youtube.com/watch?v=CkIBHU58BsM",
+      "title": "Simple ways to save money on gas - YouTube",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 17,
+      "domain": "fueleconomy.gov",
+      "url": "https://www.fueleconomy.gov/feg/savemoney.jsp",
+      "title": "gas savings calculator - Fuel Economy",
+      "word_count": 221,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.fueleconomy.gov/feg/images/save-money.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.fueleconomy.gov/feg/icons/info_3d73a7_14.png",
+          "alt": "Info icon",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "../feg/images/sbsTab1/ffvBlue.png",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "../feg/photos/nophoto.gif",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.fueleconomy.gov/feg/images/sbsTab1/ffvBlue.png",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.fueleconomy.gov/feg/photos/nophoto.gif",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 18,
+      "domain": "quora.com",
+      "url": "https://www.quora.com/How-do-you-save-money-on-gas-in-the-USA",
+      "title": "How do you save money on gas in the USA? - Quora",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 19,
+      "domain": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/8-ways-smart-people-save-170123318.html",
+      "title": "7 Smart Ways To Save Money on Gas - Yahoo Finance",
+      "word_count": 494,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://s.yimg.com/ny/api/res/1.2/w8m5veNfKGoBfhioSIrorw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/gobankingrates_644/89c64f9ff4d94c69616d164c8b04bffc",
+        "alt": "",
+        "description": "Generic editorial stock photo depicting common financial concepts like piggy banks or people with devices.",
+        "type": "editorial_stock_photo"
+      },
+      "article_images": [
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/KO1crwJ.ldECU2TcyqwjPQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI0MjtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2023-09/ee6ba310-4dcd-11ee-abb6-d9983ff24d1b",
+          "alt": "GOBankingRates",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 20,
+      "domain": "money.com",
+      "url": "https://money.com/how-to-save-money-on-gas/",
+      "title": "How to Save Money on Gas Right Now",
+      "word_count": 2355,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://img.money.com/2026/03/News-Save-Money-Gas.jpg?quality=85",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://img.money.com/2022/01/a_adam-hardy.jpg?quality=85&w=400&h=440&crop=1",
+          "alt": "Adam Hardy, expert in Personal finance, student loans, credit, job market, low-income finances, and Lead Data Reporter at Money",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://img.money.com/2014/01/Brad-Tuttle.png?w=226&h=247&crop=1",
+          "alt": "Brad Tuttle, expert in Personal finance, shopping, consumer trends, and Senior Editor at Money",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://img.money.com/2023/02/peter.png?w=350&h=430&crop=1",
+          "alt": "Pete Grieve, expert in Personal finance, housing, and Lead News Reporter at Money",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://money.com/wp-content/uploads/2026/03/News-Save-Money-Gas.jpg?quality=60&w=600",
+          "alt": "Photo-illustration of gas station signs",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://s3.money.com/prd/image/image/15240/163e573e-202a-466a-b8b8-93da65db2b13.png",
+          "alt": "Ads by Money disclaimer",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://rs.consumersadvocate.org/a/images/uiv4/vector-1-transparent.png",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    }
+  ],
+  "battle_plan_generated_at": "2026-04-26T10:45:33.124261+00:00",
+  "competitors_analyzed_count": 7,
+  "battle_plan_method": "local_deterministic_agent_no_api"
+}

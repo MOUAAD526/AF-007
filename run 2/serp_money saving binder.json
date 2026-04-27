@@ -1,0 +1,1397 @@
+{
+  "article_context": {
+    "angle": "Manual tracking (pen/paper/excel) forces awareness and reduces spending",
+    "pain_points": [
+      "Tracking expenses manually but money still disappears / never saving enough",
+      "Forgotten recurring expenses and subscriptions draining funds",
+      "Difficulty saving as a young adult with high living costs (rent, etc.)",
+      "Lack of discipline or mindset to stop spending despite a budget"
+    ],
+    "top_social_questions": [
+      "How much of my paycheck should I put into savings?",
+      "How do I effectively track spending to find and stop money leaks?",
+      "What are practical habits to cut spending without misery?"
+    ],
+    "dominant_emotion": "Confusion & Frustration",
+    "serp_intent": "A searcher for \"money saving binder\" wants a practical tool or system, often DIY or printable, to organize and track savings goals, envelopes, or challenges in a physical binder format to build saving habits. The SERP intent is primarily informational with commercial elements, featuring tutorials, free printables, Etsy products, and guides on envelope systems or 52-week challenges.",
+    "serp_title_pool": {
+      "primary": [
+        "Money Saving Binder - Amazon.com",
+        "CASH BINDERS - Christina Loves Planning",
+        "Money Saving - Secure Boxes, Envelopes, Piggy Banks - Target",
+        "Money Saving Binders for Organized Budgeting and Savings Plans",
+        "Money Saving Binder - eBay",
+        "Budget Binder - Etsy",
+        "Has anyone ever used a budget binder? : r/irishpersonalfinance",
+        "Budget Binder - Walmart",
+        "2026 CASH BINDER SETUP (step 1) : Savings Challenges - YouTube",
+        "Newly Designed Bill & Savings Cash Binder",
+        "22 Budget binders ideas",
+        "Mini Money Saving Binder, Save $1000 Envelopes ...",
+        "Savings Challenge Binders",
+        "Budget Binder WholeSale - Price List, Bulk Buy at ...",
+        "Make your Cash Stuffing Binder MAGICAL \u2728 Full DIY Tutorial",
+        "HOW TO MAKE MINI SAVINGS BINDER FOR 26 WEEK ...",
+        "Free Printable Budget Binder (with Cash Envelopes!)",
+        "Savings Challenges Binder, Budget Binder with Cash ..."
+      ],
+      "long_tail": [
+        "100 Envelope Binder - Amazon.com",
+        "100 Envelope Savings Binder - Budget Organizer with Cash ...",
+        "1k Savings Challenge Budget Binder: A6 Cash Envelope System",
+        "Money Saving Binder 100Pc Envelope Budget Challenge Planer ...",
+        "100 Envelopes Challenge Binder A5 Money Saving ... - TikTok Shop",
+        "How to Make a Money Saving Binder - Pinterest",
+        "CHRISTMAS BLING LAUNCH HAUL | CASH STUFFING - YouTube",
+        "12-Month Envelopes Money Saving Challenge Binder, Budget ...",
+        "Budget Binder Envelopes - Pinterest"
+      ],
+      "question": [
+        "Budget Binder Books Money Saving Challenge",
+        "Breakdown My Budget Binders + Cash Envelope ...",
+        "How to Effectively Fill Your Savings Binder",
+        "The Ultimate Guide to Using a Budget Binder and Cash ...",
+        "how to use a money binder",
+        "\ud83d\udcab 2026 CASH BINDER SETUP (step 1) : Savings Challenges",
+        "Budget Binders Are All Over TikTok - Saving Money",
+        "How to Set Up a Money Budget Binder for Saving",
+        "Money Savings Binder Review | 100 Envelopes Challenge ...",
+        "Has anyone ever used a budget binder?"
+      ]
+    },
+    "paa_questions": [
+      {
+        "q": "How does the $100 envelope challenge work?",
+        "a": "The 100 Envelope Challenge is a savings technique where participants set aside increasing amounts of money daily for 100 days, aiming to save over $5,000. Participants can choose to fill envelopes in numeric order or randomly, providing flexibility in their savings approach tailored to individual preferences."
+      }
+    ],
+    "related_searches": [
+      "Money Saving Binder with Envelopes",
+      "Money saving binder template",
+      "Money Saving Challenge Binder",
+      "Budget Binder Savings Challenge",
+      "Money Saving Book $5000",
+      "Money Saving Book with Envelopes",
+      "Money Saving Binder in store",
+      "Money saving binder 10k"
+    ]
+  },
+  "primary_keyword": "money saving binder",
+  "competitors": [
+    {
+      "rank": 1,
+      "domain": "amazon.com",
+      "url": "https://www.amazon.com/money-saving-binder/s?k=money+saving+binder",
+      "title": "Money Saving Binder - Amazon.com",
+      "word_count": 0,
+      "scrape_status": "failed",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 2,
+      "domain": "christinalovesplanning.com",
+      "url": "https://christinalovesplanning.com/collections/shop-binders?srsltid=AfmBOoqfi9qitvz31dkCALGdIC9JZQ_sXQjebmXwDhuZlAUJ4nZN5Bi6",
+      "title": "CASH BINDERS - Christina Loves Planning",
+      "word_count": 236,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "http://christinalovesplanning.com/cdn/shop/files/IMG_6900_1200x630.jpg?v=1775054257",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://christinalovesplanning.com/cdn/shop/files/IMG_6900_{width}x.jpg?v=1775054257",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://christinalovesplanning.com/cdn/shop/files/IMG_6900_400x.jpg?v=1775054257",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://christinalovesplanning.com/cdn/shop/files/IMG_6886_{width}x.jpg?v=1774896398",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://christinalovesplanning.com/cdn/shop/files/IMG_6886_400x.jpg?v=1774896398",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://christinalovesplanning.com/cdn/shop/files/IMG_2065_{width}x.jpg?v=1774895653",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://christinalovesplanning.com/cdn/shop/files/IMG_2065_400x.jpg?v=1774895653",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://christinalovesplanning.com/cdn/shop/files/IMG_9392_{width}x.jpg?v=1774896507",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://christinalovesplanning.com/cdn/shop/files/IMG_9392_400x.jpg?v=1774896507",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://christinalovesplanning.com/cdn/shop/files/IMG_7485_{width}x.jpg?v=1774897251",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://christinalovesplanning.com/cdn/shop/files/IMG_7485_400x.jpg?v=1774897251",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://christinalovesplanning.com/cdn/shop/files/IMG_6128_jpg_{width}x.jpg?v=1774896940",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://christinalovesplanning.com/cdn/shop/files/IMG_6128_jpg_400x.jpg?v=1774896940",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://christinalovesplanning.com/cdn/shop/files/IMG_6128_jpg_513a257c-7709-493a-a6c0-d17d760db237_{width}x.jpg?v=1774897312",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://christinalovesplanning.com/cdn/shop/files/IMG_6128_jpg_513a257c-7709-493a-a6c0-d17d760db237_400x.jpg?v=1774897312",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://christinalovesplanning.com/cdn/shop/files/Screen_Shot_2025-03-21_at_6.29.17_AM_{width}x.png?v=1774897884",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://christinalovesplanning.com/cdn/shop/files/Screen_Shot_2025-03-21_at_6.29.17_AM_400x.png?v=1774897884",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://christinalovesplanning.com/cdn/shop/files/IMG_7500_{width}x.jpg?v=1774905346",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://christinalovesplanning.com/cdn/shop/files/IMG_7500_400x.jpg?v=1774905346",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://christinalovesplanning.com/cdn/shop/files/IMG_3001_{width}x.jpg?v=1774906122",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://christinalovesplanning.com/cdn/shop/files/IMG_3001_400x.jpg?v=1774906122",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://christinalovesplanning.com/cdn/shop/files/IMG_0414_2_{width}x.jpg?v=1774906568",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://christinalovesplanning.com/cdn/shop/files/IMG_0414_2_400x.jpg?v=1774906568",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://christinalovesplanning.com/cdn/shop/files/IMG_8716_{width}x.jpg?v=1774906657",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://christinalovesplanning.com/cdn/shop/files/IMG_8716_400x.jpg?v=1774906657",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://christinalovesplanning.com/cdn/shop/files/IMG_0973_{width}x.jpg?v=1774906933",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://christinalovesplanning.com/cdn/shop/files/IMG_0973_400x.jpg?v=1774906933",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "CASH BINDERS Filter menu Shop DATED BUDGET PLANNER UNDATED BUDGET PLANNERS CASH BINDERS CASH ENVELOPES A5 BINDERS SAVINGS CHALLENGES CADDIES + BAGS ACCESSORIES DASHBOARDS + CHARMS STICKER SHEETS STICKY NOTES + NOTEPADS VINYL STICKERS PLANNER POUCHES / HANDMADE DIGITAL PRODUCTS Shop DATED BUDGET PLANNER UNDATED BUDGET PLANNERS CASH BINDERS CASH ENVELOPES A5 BINDERS SAVINGS CHALLENGES CADDIES + BAGS ACCESSORIES DASHBOARDS + CHARMS STICKER SHEETS STICKY NOTES + NOTEPADS VINYL STICKERS PLANNER POUCHES / HANDMADE DIGITAL PRODUCTS @media screen and (min-width: 769px) { .collection-filteritem--drawer { display: none; } .collection-filteritem--count { text-align: left; } } Our cash binders are personal size 6.75 x 3.75. Filter 13 products Sort Featured Most relevant Best selling Alphabetically, A-Z Alphabetically, Z-A Price, low to high Price, high to low Date, old to new Date, new to old 13 products The Fully Loaded Cash Binder \u2013 Assembled by Christina $160.00 SALE!!!! The Starter Budgeting Kit SALE !!!! $175.00 Sienna Binders Or Fly Leaf from $5.00 Starter Binder | The Sienna Binder + 1 Binder + 1 Fly Leaf + Set of Variable Envelopes $45.00 Adelina Binders Tiny Wider Personal Gold Rings) $19.99 Adelina Binders (Personal Size) SILVER RINGS $25.00 Adelina Personal Binders GOLD RINGS $25.00 Adelina Zippy Wallets W/ Strap $45.00 Adelina Zippy Wallets POCKET SIZE $45.00 Classic Collection | Binders For Cash Envelopes | Personal Size $45.00 The Luxe Organizer $25.00 Pebble Binders w/ Gold Rings from $25.00 Home Buyers Binder $45.00",
+      "headings": []
+    },
+    {
+      "rank": 3,
+      "domain": "target.com",
+      "url": "https://www.target.com/s/money+saving",
+      "title": "Money Saving - Secure Boxes, Envelopes, Piggy Banks - Target",
+      "word_count": 31,
+      "scrape_status": "success",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"name\":\"\\\"money saving\\\" : Target\",\"url\":\"https://www.target.com/s/money+saving\"} money saving Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Loading... Sponsored",
+      "headings": []
+    },
+    {
+      "rank": 4,
+      "domain": "walmart.com",
+      "url": "https://www.walmart.com/c/kp/money-saving-binder",
+      "title": "Money Saving Binders for Organized Budgeting and Savings Plans",
+      "word_count": 113,
+      "scrape_status": "success",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": "Robot or human? Activate and hold the button to confirm that you\u2019re human. Thank You! window._pxAppId = 'PXu6b0qd2S'; window._pxJsClientSrc = '/px/' + window._pxAppId + '/init.js'; window._pxFirstPartyEnabled = true; window._pxHostUrl = '/px/' + window._pxAppId + '/xhr'; window._pxreCaptchaTheme = 'light'; window._PXETnJ2Y5H = { challenge: { view: { textFont: \"BogleWeb, Helvetica Neue, Helvetica, Arial, sans-serif\" } } }; var hc = getUrlParam('g', 'b'); var alt = hc if (alt=='a') { document.getElementById('message').innerHTML = ' Check the box to confirm that you\u2019re human. Thank You! '; } var captchajs = \"/px/\" + window._pxAppId + \"/captcha/captcha.js?a=c&m=0&g=\" + hc document.getElementById('blockScript').src = captchajs; Do Not Sell My Personal Information Request My Personal Information \u00a9 document.getElementById(\"year\").innerHTML = (new Date().getFullYear()); Walmart Stores, Inc.",
+      "headings": []
+    },
+    {
+      "rank": 5,
+      "domain": "ebay.com",
+      "url": "https://www.ebay.com/shop/money-saving-binder?_nkw=money+saving+binder",
+      "title": "Money Saving Binder - eBay",
+      "word_count": 3316,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://i.ebayimg.com/images/g/xoUAAOSwGpNnY~7b/s-l2400.jpg",
+        "alt": "",
+        "description": "Generic editorial stock photo depicting common financial concepts like piggy banks or people with devices.",
+        "type": "editorial_stock_photo"
+      },
+      "article_images": [
+        {
+          "url": "https://ir.ebaystatic.com/rs/v/fxxj3ttftm5ltcqnto1o4baovyl.png",
+          "alt": "Shop on eBay",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i.ebayimg.com/images/g/ROkAAeSw~4BpGR~O/s-l500.jpg",
+          "alt": "Money Saving Binder 100Pc Envelope Budget Challenge Planer Pouch Money Save Book",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i.ebayimg.com/images/g/Gm0AAeSwcnFp1hn0/s-l500.jpg",
+          "alt": "budget Binder Cash Envelopes A6 Money Saving Binder with Zipper Envelopes (Purpl",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i.ebayimg.com/images/g/OFwAAeSwM~Rp1hn0/s-l140.jpg",
+          "alt": "A6 Budget Binder with Zipper Cash Envelopes for Money Organizer & Budgeting, PU",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i.ebayimg.com/images/g/YHQAAeSwEYJpliSz/s-l140.jpg",
+          "alt": "Budget Binder Cash Envelope System Zipper Envelopes Expense Sheets Money Saving",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i.ebayimg.com/images/g/VikAAeSwmJBpwbVn/s-l140.jpg",
+          "alt": "Money Saving Binder 100Pc Envelope Budget Challenge Planer Pouch Money Save Book",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i.ebayimg.com/images/g/qYsAAeSwNOtpzjC~/s-l140.jpg",
+          "alt": "Money Saving Binder Book,100 Days Money Saving Challenge Coin Envelope Budgetsto",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i.ebayimg.com/images/g/rncAAOSwfGdn-ocS/s-l140.jpg",
+          "alt": "Budget Binder Cash Envelopes for Budgeting Money Organizer for Cash Money Envelo",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i.ebayimg.com/images/g/UswAAeSwumBpoTgT/s-l140.jpg",
+          "alt": "100 Days Envelope Challenge Binder Budget Savings Challenge Saving Money Book",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i.ebayimg.com/images/g/8yUAAeSwtR9pmhLy/s-l140.jpg",
+          "alt": "Money Saving Binder 100Pc Envelope Budget Challenge Planer Pouch Money Save Book",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i.ebayimg.com/images/g/KfkAAeSw9lFpzf2w/s-l140.jpg",
+          "alt": "Money Binder for Cash Saving Savings Challenge Budgeting Book Envelope",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i.ebayimg.com/images/g/E9IAAeSwDWppTC-E/s-l140.jpg",
+          "alt": "A6 Budget Binder with Zipper Cash Envelopes for Money Organizer & Budgeting, PU",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i.ebayimg.com/images/g/fNgAAeSwacJpZ-~Y/s-l140.jpg",
+          "alt": "Money Saving Binder 100Pc Envelope Budget Challenge Planer Pouch Money Save Book",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i.ebayimg.com/images/g/bGUAAeSwrHRp4hb0/s-l140.jpg",
+          "alt": "100 Envelope Money Saving Challenge Binder 100 Slots Budget Book PU Leather",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i.ebayimg.com/images/g/Pp0AAeSw3zdpfQhY/s-l140.jpg",
+          "alt": "100 Envelopes Money Saving Challenge Binder Reusable Budget Book Savings Tracker",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i.ebayimg.com/images/g/LkYAAeSw3w1p1hn4/s-l140.jpg",
+          "alt": "Budget Binder, Money Saving Binder with Zipper Envelopes, Cash Envelopes and Exp",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i.ebayimg.com/images/g/3LoAAeSwk-FpXl09/s-l140.jpg",
+          "alt": "A6 Budget Binder with Cash Envelopes, Zipper Money Saving Organizer, Black",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i.ebayimg.com/images/g/izEAAeSwyiVp1b6P/s-l140.jpg",
+          "alt": "Cash Book Money Booklet Saver Stuffing Binder Cute Saving Envelopes",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i.ebayimg.com/images/g/cCUAAeSw63JpgwLz/s-l140.jpg",
+          "alt": "$1000 Savings Challenge Binder \u2013 Reusable Budget Planner Book",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i.ebayimg.com/images/g/8aQAAeSwrkRp4pJo/s-l140.jpg",
+          "alt": "100 Envelope Savings Challenge Black Budget Book 100 Cash Slots",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i.ebayimg.com/images/g/DD8AAeSwu8xoHoJc/s-l140.jpg",
+          "alt": "NICOOTHBudget Binder Cash Envelopes A6 Money Saving Binder with Zipper envelo...",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i.ebayimg.com/images/g/tagAAeSwNzNpWzRF/s-l140.jpg",
+          "alt": "48 Sheets Budgeting Binder Money Saving Cash Savings Challenge Envelope Book",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i.ebayimg.com/images/g/lsUAAeSwK2JpVdES/s-l140.jpg",
+          "alt": "Financial Goals Binder Money Saving Challenge with Lock Book Locked",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i.ebayimg.com/images/g/~DkAAOSwnVNlf0wA/s-l140.jpg",
+          "alt": "Budget Binder Envelope Bundle A6 Laminated Matt Money Organizer for Cash Saving",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i.ebayimg.com/images/g/R48AAeSwo~hpTDcx/s-l140.jpg",
+          "alt": "100 Envelopes Money Saving Challenge Binder, Fun and Easy Savings System to Save",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i.ebayimg.com/images/g/0n4AAOSwAY5nJiuv/s-l140.jpg",
+          "alt": "100 Envelope Challenge Budget Planner $5,050 Money Saving Cash Challenge Book",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i.ebayimg.com/images/g/nSoAAeSwjzloGYcm/s-l140.jpg",
+          "alt": "Money Savings Challenges Binder 52 Week Savings Challenges Book with Envelope",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i.ebayimg.com/images/g/BAEAAeSwuN9pYYYs/s-l140.jpg",
+          "alt": "Money Saving Binder 100p Envelope Budget Challenge Planner Pouch Money Save Book",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i.ebayimg.com/images/g/ih0AAeSwsA1pm9Nj/s-l140.jpg",
+          "alt": "Money Saving Book Cash Stuffing Envelopes Binder Loose Leaf Folders",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i.ebayimg.com/images/g/HYIAAeSwbcdouxK2/s-l140.jpg",
+          "alt": "100 Envelope Challenge Budget Planner $5,050 Money Saving Cash Challenge Book",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i.ebayimg.com/images/g/VJ8AAeSwPw9p1he1/s-l140.jpg",
+          "alt": "SKYDUE Budget Binder, Money Saving Binder with Zipper Envelopes, Cash Envelopes",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i.ebayimg.com/images/g/lBYAAeSwhANp6-y2/s-l140.jpg",
+          "alt": "Money Saving Binder 100Pc Envelope Budget Challenge Planer Pouch Money Save Book",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i.ebayimg.com/images/g/F7cAAeSwi~Jpq~4a/s-l140.jpg",
+          "alt": "100 Envelope Savings Challenge Binder Cash Organizer 100 Pocket Money Saver",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i.ebayimg.com/images/g/HEAAAeSw-Uxog4kN/s-l140.jpg",
+          "alt": "Creative \u00a31,000 Money Saving Binder Mini Savings Challenges Book Envelope Pink",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i.ebayimg.com/images/g/5t0AAeSwhCRpvO~m/s-l140.jpg",
+          "alt": "Budget Binder Cash Envelopes A6 Money Saving Binder with Zipper envelopes Purple",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i.ebayimg.com/images/g/lqQAAeSwpvJprjz-/s-l140.jpg",
+          "alt": "Notebook with Lock and Key Personal Finance Binder Locked Money Saving",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i.ebayimg.com/images/g/ao8AAeSw129p6zDG/s-l140.jpg",
+          "alt": "Money Savings Binder Kit with Envelopes and Tracker",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i.ebayimg.com/images/g/9MEAAeSwiQJpAlYk/s-l140.jpg",
+          "alt": "Money Savings Challenges Binder 52 Week Savings Challenge Book Cash Envelopes",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i.ebayimg.com/images/g/5vMAAeSwLydpxh6o/s-l140.jpg",
+          "alt": "Money Saving Binder Spiral Notepad Cash Book for Budget Planner Men",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i.ebayimg.com/images/g/4RYAAeSwhANp6rPO/s-l140.jpg",
+          "alt": "Envelope Money Savings Challenge Binder Book Save Cash - Pink",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i.ebayimg.com/images/g/6iYAAeSwd8VoX3lf/s-l140.jpg",
+          "alt": "100 Day Money Saving Challenge Binder \u2013 Lockable Cash Envelope Binder with Track",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i.ebayimg.com/images/g/F90AAOSwsmZmTrzs/s-l140.jpg",
+          "alt": "100 Envelopes Money Saving Challenge Binder,  A5 Money Saving Challenges Book",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i.ebayimg.com/images/g/fpkAAeSw~FRo72RO/s-l140.jpg",
+          "alt": "Cash Storage Book Money Folder for Saving Budget Binder Envelopes",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i.ebayimg.com/images/g/HnIAAeSw4LZoPOHj/s-l140.jpg",
+          "alt": "12 Budget Cash Envelope System Money & 100 Envelope Savings Challenge Tracker",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i.ebayimg.com/images/g/qFMAAeSwMX9pV1D~/s-l140.jpg",
+          "alt": "A6 Cash Budget Binder Wallet w/ Zipper Envelopes Money Saving Organizer Purple",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i.ebayimg.com/images/g/S3EAAeSw9s1prxAf/s-l140.jpg",
+          "alt": "A6 Budget Binder for Money Saving, PU Leather Budget Planner with 8 Cash Envelop",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i.ebayimg.com/images/g/yWAAAeSwSoBonCp7/s-l140.jpg",
+          "alt": "Money Saving Challenge Book Binder |100 envelopes budgeting book",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i.ebayimg.com/images/g/dxoAAeSwzRxp6wXU/s-l140.jpg",
+          "alt": "100 Envelope Savings Challenges Book Leather Cash Organizer 100 Pocket Money Cha",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i.ebayimg.com/images/g/vv8AAeSw12lpnX6l/s-l140.jpg",
+          "alt": "Savings Challenge Book Money Safe Binder with Lock Bill Holder for Cash",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i.ebayimg.com/images/g/V4cAAeSwW99pnkNB/s-l140.jpg",
+          "alt": "Cash Book Multi-purpose Organizer Envelopes Money Saving Binder Storage",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i.ebayimg.com/images/g/N4UAAOSwZCxjVrnG/s-l140.jpg",
+          "alt": "24PCS Savings Binder Cash Envelope Trackers Money Envelopes for Cash Budget New",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i.ebayimg.com/images/g/yh8AAeSwzLRpWBev/s-l140.jpg",
+          "alt": "100 Envelopes Money Saving Binder A5 Savings Challenge Book (Green)",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i.ebayimg.com/images/g/DnAAAOSwVFVmBc4I/s-l140.jpg",
+          "alt": "52 Week Money Saving Challenge Binder (Free Shipping)",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i.ebayimg.com/images/g/Q~8AAeSwPpJpKriP/s-l140.jpg",
+          "alt": "Money Saving Bank Book Savings Challenge Notebook Budget Binder with Lock",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i.ebayimg.com/images/g/UNMAAeSwAWNpHRIP/s-l140.jpg",
+          "alt": "8 Sheets Saving Money Challenge Budget Sticker Labels Cute Stickers",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i.ebayimg.com/images/g/GN0AAeSwRJ9pLBIu/s-l140.jpg",
+          "alt": "Money Saving Budget Binder Envelope Challenge Locking Collection Book with",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i.ebayimg.com/images/g/cIQAAeSwu55poT08/s-l140.jpg",
+          "alt": "Money Saving Challenge Binder Cash for Budgeting Card Holder Book Organizer",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i.ebayimg.com/images/g/bekAAeSwCc1pvdNT/s-l140.jpg",
+          "alt": "100 Envelopes Money Saving Challenge Binder, A5 Savings Budget Challenges Bin...",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i.ebayimg.com/images/g/WrMAAeSwptlpUyc4/s-l140.jpg",
+          "alt": "Budget Binder Cash Envelopes A6 Money Saving Binder with Zipper envelopes",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i.ebayimg.com/images/g/A-wAAeSwFAlpr5rP/s-l140.jpg",
+          "alt": "100 Envelope Savings Challenge Binder Money Budget Book, Light Blue",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "All Auction Buy It Now Shop on eBay Brand New $20.00 or Best Offer 2\u2063 D\u2063 S\u2063 p\u2063 \u2063 X\u2063 4\u2063 \u043e\u2063 n\u2063 s\u2063 \u2063 U\u2063 2\u2063 \u2063 Y\u2063 R\u2063 \u2063 o\u2063 V\u2063 r\u2063 e\u2063 D\u2063 \u2063 d\u2063 F\u2063 \u2063 \u2063 \u2063 Shop on eBay Brand New $20.00 or Best Offer P\u2063 W\u2063 \u2063 S\u2063 p\u2063 o\u2063 n\u2063 N\u2063 s\u2063 o\u2063 r\u2063 S\u2063 e\u2063 d\u2063 \u2063 \u2063 3\u2063 \u2063 6\u2063 \u2063 \u2063 \u2063 \u2063 7\u2063 \u2063 \u2063 Y\u2063 \u2063 Popular Filters Large - apply Popular Filters filter Small - apply Popular Filters filter Leather - apply Popular Filters filter Medium - apply Popular Filters filter Faux Leather - apply Popular Filters filter Money Saving Binder 100Pc Envelope Budget Challenge Planer Pouch Money Save Book Opens in a new window or tab Brand New $5.89 to $7.39 Buy It Now +$31.28 delivery Located in United States 18+ sold Save up to 10% when you buy more karyg76 98.2% positive (1.9K) 8\u2063 S\u2063 A\u2063 \u2063 p\u2063 o\u2063 n\u2063 s\u2063 B\u2063 L\u2063 o\u2063 r\u2063 \u2063 4\u2063 6\u2063 \u2063 e\u2063 d\u2063 X\u2063 \u2063 F\u2063 \u2063 \u2063 \u2063 \u2063 V\u2063 \u2063 \u2063 budget Binder Cash Envelopes A6 Money Saving Binder with Zipper Envelopes (Purpl Opens in a new window or tab Brand New $16.99 Buy It Now +$102.15 delivery Located in United States luckyhorseshop 99.4% positive (670) B\u2063 S\u2063 G\u2063 \u2063 5\u2063 p\u2063 o\u2063 X\u2063 \u2063 n\u2063 s\u2063 Z\u2063 S\u2063 \u043e\u2063 r\u2063 \u2063 Q\u2063 H\u2063 e\u2063 d\u2063 \u2063 \u2063 \u2063 \u2063 K\u2063 Q\u2063 \u2063 \u2063 A6 Budget Binder with Zipper Cash Envelopes for Money Organizer & Budgeting, PU Opens in a new window or tab Brand New $22.99 Buy It Now +$102.33 delivery Located in United States luckyhorseshop 99.4% positive (670) 3\u2063 6\u2063 \u2063 S\u2063 B\u2063 3\u2063 \u2063 p\u2063 \u043e\u2063 I\u2063 1\u2063 \u2063 N\u2063 n\u2063 V\u2063 \u2063 8\u2063 s\u2063 7\u2063 o\u2063 r\u2063 \u2063 L\u2063 e\u2063 d\u2063 \u2063 \u2063 \u2063 Budget Binder Cash Envelope System Zipper Envelopes Expense Sheets Money Saving Opens in a new window or tab Brand New $10.99 Buy It Now +$63.70 delivery Located in United States cartify.llc 100% positive (136) S\u2063 p\u2063 o\u2063 S\u2063 0\u2063 \u2063 4\u2063 n\u2063 \u0455\u2063 o\u2063 8\u2063 r\u2063 \u2063 Y\u2063 e\u2063 d\u2063 \u2063 D\u2063 \u2063 \u2063 \u2063 7\u2063 T\u2063 \u2063 \u2063 \u2063 \u2063 \u2063 Money Saving Binder 100Pc Envelope Budget Challenge Planer Pouch Money Save Book Opens in a new window or tab Brand New $1.20 to $5.75 Buy It Now +$31.10 delivery Located in United States anminc 97.9% positive (1.5K) 1\u2063 S\u2063 p\u2063 o\u2063 8\u2063 \u2063 7\u2063 X\u2063 \u2063 n\u2063 s\u2063 o\u2063 r\u2063 7\u2063 e\u2063 R\u2063 \u2063 d\u2063 \u2063 6\u2063 \u2063 \u2063 \u2063 F\u2063 \u2063 \u2063 \u2063 A\u2063 Money Saving Binder Book,100 Days Money Saving Challenge Coin Envelope Budgetsto Opens in a new window or tab Brand New $11.53 Buy It Now +$63.72 delivery Located in United States simplesmartshop 99.3% positive (574) R\u2063 W\u2063 S\u2063 \u2063 p\u2063 A\u2063 U\u2063 o\u2063 \u2063 n\u2063 s\u2063 o\u2063 X\u2063 r\u2063 J\u2063 e\u2063 d\u2063 \u2063 \u2063 \u2063 \u2063 K\u2063 \u2063 \u2063 2\u2063 \u2063 \u2063 4\u2063 Budget Binder Cash Envelopes for Budgeting Money Organizer for Cash Money Envelo Opens in a new window or tab Brand New $11.05 Buy It Now +$101.98 delivery Located in United States Last one 14 sold creativeendeavors223 99.2% positive (1.1K) 5\u2063 X\u2063 S\u2063 \u2063 p\u2063 o\u2063 C\u2063 n\u2063 5\u2063 s\u2063 o\u2063 \u2063 r\u2063 B\u2063 8\u2063 e\u2063 \u2063 d\u2063 \u2063 \u2063 2\u2063 \u2063 B\u2063 \u2063 \u2063 \u2063 5\u2063 \u2063 100 Days Envelope Challenge Binder Budget Savings Challenge Saving Money Book Opens in a new window or tab Brand New $15.89 Buy It Now +$32.62 delivery Located in United States joint2018 99.3% positive (19.6K) S\u2063 6\u2063 p\u2063 o\u2063 n\u2063 R\u2063 s\u2063 o\u2063 r\u2063 \u2063 X\u2063 e\u2063 d\u2063 2\u2063 \u2063 \u2063 \u2063 \u2063 \u2063 \u2063 \u2063 \u2063 \u2063 \u2063 \u2063 M\u2063 T\u2063 \u2063 Money Saving Binder 100Pc Envelope Budget Challenge Planer Pouch Money Save Book Opens in a new window or tab Brand New $5.95 to $5.99 Buy It Now +$31.24 delivery Located in United States Save up to 15% when you buy more day697 98.7% positive (505) 0\u2063 S\u2063 p\u2063 Z\u2063 o\u2063 n\u2063 s\u2063 o\u2063 \u2063 J\u2063 7\u2063 \u2063 r\u2063 e\u2063 D\u2063 d\u2063 \u2063 \u2063 3\u2063 \u2063 \u2063 \u2063 \u2063 \u2063 6\u2063 2\u2063 \u2063 \u2063 Money Binder for Cash Saving Savings Challenge Budgeting Book Envelope Opens in a new window or tab Brand New $19.82 to $20.10 Buy It Now +$2.69 delivery Located in China kastficcd 99.1% positive (4.5K) S\u2063 p\u2063 O\u2063 R\u2063 o\u2063 n\u2063 \u2063 N\u2063 s\u2063 N\u2063 o\u2063 \u2063 r\u2063 C\u2063 e\u2063 U\u2063 \u2063 O\u2063 0\u2063 d\u2063 \u2063 \u2063 \u2063 \u2063 A\u2063 \u2063 K\u2063 \u2063 A6 Budget Binder with Zipper Cash Envelopes for Money Organizer & Budgeting, PU Opens in a new window or tab Brand New $13.87 Buy It Now +$102.06 delivery Located in United States Free returns Last one 3 watchers shuradoe-0 99.6% positive (28.4K) S\u2063 9\u2063 p\u2063 F\u2063 \u2063 Z\u2063 B\u2063 o\u2063 n\u2063 s\u2063 \u2063 o\u2063 A\u2063 r\u2063 L\u2063 e\u2063 \u2063 I\u2063 d\u2063 \u2063 \u2063 8\u2063 \u2063 \u2063 \u2063 \u2063 \u2063 G\u2063 Money Saving Binder 100Pc Envelope Budget Challenge Planer Pouch Money Save Book Opens in a new window or tab Brand New $5.88 Buy It Now +$31.23 delivery Located in United States Save up to 15% when you buy more kralix18 96.9% positive (1.8K) A\u2063 S\u2063 X\u2063 \u2063 p\u2063 o\u2063 3\u2063 0\u2063 \u2063 n\u2063 K\u2063 8\u2063 s\u2063 \u2063 o\u2063 r\u2063 e\u2063 M\u2063 C\u2063 d\u2063 \u2063 \u2063 \u2063 \u2063 \u2063 9\u2063 8\u2063 \u2063 100 Envelope Money Saving Challenge Binder 100 Slots Budget Book PU Leather Opens in a new window or tab Brand New $19.99 Buy It Now +$31.65 delivery Located in United States nasa-7340 99.4% positive (4.2K) S\u2063 p\u2063 6\u2063 5\u2063 \u2063 o\u2063 n\u2063 s\u2063 H\u2063 o\u2063 U\u2063 r\u2063 e\u2063 d\u2063 \u2063 \u2063 \u2063 2\u2063 Q\u2063 \u2063 5\u2063 E\u2063 \u2063 \u2063 \u2063 \u2063 \u2063 \u2063 100 Envelopes Money Saving Challenge Binder Reusable Budget Book Savings Tracker Opens in a new window or tab Brand New $8.00 Buy It Now +$31.30 delivery Located in United States 18 watchers Save up to 70% when you buy more josser97 99% positive (2.7K) 7\u2063 S\u2063 p\u2063 o\u2063 L\u2063 n\u2063 s\u2063 \u2063 X\u2063 \u043e\u2063 S\u2063 r\u2063 e\u2063 \u2063 2\u2063 d\u2063 \u2063 1\u2063 \u2063 \u2063 \u2063 1\u2063 K\u2063 \u2063 \u2063 \u2063 \u2063 0\u2063 Budget Binder, Money Saving Binder with Zipper Envelopes, Cash Envelopes and Exp Opens in a new window or tab Brand New $20.99 Buy It Now +$22.51 delivery Located in United States luckyhorseshop 99.4% positive (670) S\u2063 p\u2063 o\u2063 P\u2063 H\u2063 n\u2063 s\u2063 \u2063 \u043e\u2063 V\u2063 Z\u2063 r\u2063 \u2063 C\u2063 L\u2063 e\u2063 d\u2063 \u2063 \u2063 N\u2063 P\u2063 \u2063 4\u2063 \u2063 9\u2063 \u2063 \u2063 D\u2063 A6 Budget Binder with Cash Envelopes, Zipper Money Saving Organizer, Black Opens in a new window or tab Brand New $17.99 Buy It Now +$102.18 delivery Located in United States seratizon 99.6% positive (5.8K) J\u2063 E\u2063 \u2063 M\u2063 W\u2063 S\u2063 \u2063 p\u2063 J\u2063 o\u2063 3\u2063 n\u2063 \u2063 \u0455\u2063 Z\u2063 P\u2063 \u2063 o\u2063 r\u2063 e\u2063 P\u2063 d\u2063 \u2063 \u2063 J\u2063 \u2063 \u2063 P\u2063 Cash Book Money Booklet Saver Stuffing Binder Cute Saving Envelopes Opens in a new window or tab Brand New $20.28 Buy It Now +$2.69 delivery Located in China capsanmall 98.7% positive (15.6K) H\u2063 S\u2063 J\u2063 \u2063 p\u2063 D\u2063 o\u2063 n\u2063 Y\u2063 \u2063 H\u2063 s\u2063 W\u2063 \u2063 o\u2063 r\u2063 I\u2063 e\u2063 4\u2063 \u2063 K\u2063 d\u2063 \u2063 \u2063 \u2063 9\u2063 \u2063 \u2063 $1000 Savings Challenge Binder \u2013 Reusable Budget Planner Book Opens in a new window or tab Brand New $8.99 Buy It Now +$32.42 delivery Located in United States Save up to 15% when you buy more mspandastore 99.3% positive (1.8K) L\u2063 S\u2063 9\u2063 \u2063 C\u2063 7\u2063 \u2063 P\u2063 8\u2063 \u2063 p\u2063 o\u2063 n\u2063 s\u2063 Y\u2063 4\u2063 o\u2063 r\u2063 e\u2063 d\u2063 \u2063 \u2063 Y\u2063 \u2063 \u2063 N\u2063 \u2063 \u2063 100 Envelope Savings Challenge Black Budget Book 100 Cash Slots Opens in a new window or tab Brand New $13.99 or Best Offer +$31.47 delivery Located in United States anchoredjourney 100% positive (2.1K) U\u2063 4\u2063 S\u2063 \u2063 S\u2063 5\u2063 \u2063 p\u2063 M\u2063 o\u2063 Q\u2063 \u2063 N\u2063 n\u2063 L\u2063 \u2063 s\u2063 K\u2063 o\u2063 K\u2063 \u2063 \u2063 r\u2063 e\u2063 \u2063 \u2063 d\u2063 \u2063 NICOOTHBudget Binder Cash Envelopes A6 Money Saving Binder with Zipper envelo... Opens in a new window or tab Brand New $9.85 Buy It Now +$31.35 delivery Located in United States Free returns 18 sold Save up to 5% when you buy more brmenga_0 98.8% positive (679) S\u2063 p\u2063 R\u2063 T\u2063 \u2063 o\u2063 V\u2063 G\u2063 \u2063 V\u2063 n\u2063 C\u2063 \u2063 G\u2063 I\u2063 \u2063 4\u2063 P\u2063 \u2063 O\u2063 s\u2063 \u2063 \u2063 o\u2063 r\u2063 \u2063 e\u2063 d\u2063 48 Sheets Budgeting Binder Money Saving Cash Savings Challenge Envelope Book Opens in a new window or tab Brand New $13.10 Buy It Now +$2.69 delivery Located in China deskaial 99.3% positive (3.5K) S\u2063 p\u2063 5\u2063 N\u2063 \u2063 1\u2063 E\u2063 \u2063 o\u2063 n\u2063 s\u2063 D\u2063 N\u2063 \u2063 S\u2063 9\u2063 \u2063 o\u2063 r\u2063 e\u2063 H\u2063 d\u2063 \u2063 X\u2063 \u2063 P\u2063 \u2063 \u2063 Financial Goals Binder Money Saving Challenge with Lock Book Locked Opens in a new window or tab Brand New $20.00 Buy It Now +$2.69 delivery Located in China phobeyondar 98.7% positive (2K) S\u2063 S\u2063 T\u2063 p\u2063 o\u2063 n\u2063 \u2063 s\u2063 L\u2063 o\u2063 r\u2063 e\u2063 R\u2063 \u2063 Z\u2063 2\u2063 d\u2063 \u2063 \u2063 V\u2063 \u2063 V\u2063 \u2063 V\u2063 \u2063 O\u2063 \u2063 \u2063 Budget Binder Envelope Bundle A6 Laminated Matt Money Organizer for Cash Saving Opens in a new window or tab Brand New $16.47 or Best Offer +$38.59 delivery Located in United States zion313 99.6% positive (2.6K) S\u2063 J\u2063 D\u2063 \u2063 p\u2063 o\u2063 n\u2063 3\u2063 s\u2063 o\u2063 r\u2063 I\u2063 e\u2063 d\u2063 \u2063 \u2063 \u2063 \u2063 \u2063 4\u2063 \u2063 \u2063 \u2063 \u2063 4\u2063 \u2063 3\u2063 \u2063 100 Envelopes Money Saving Challenge Binder, Fun and Easy Savings System to Save Opens in a new window or tab Brand New $13.87 Buy It Now +$22.30 delivery Located in United States Free returns Last one 2 watchers shuradoe-0 99.6% positive (28.4K) R\u2063 S\u2063 E\u2063 \u2063 p\u2063 E\u2063 o\u2063 C\u2063 \u2063 8\u2063 6\u2063 n\u2063 s\u2063 o\u2063 \u2063 r\u2063 e\u2063 W\u2063 d\u2063 \u2063 \u2063 \u2063 2\u2063 \u2063 Q\u2063 U\u2063 \u2063 \u2063 100 Envelope Challenge Budget Planner $5,050 Money Saving Cash Challenge Book Opens in a new window or tab Brand New $10.99 or Best Offer +$57.76 delivery Located in United States 10 watchers turbotrader5 99.2% positive (266) S\u2063 0\u2063 E\u2063 p\u2063 \u2063 o\u2063 n\u2063 G\u2063 s\u2063 o\u2063 B\u2063 r\u2063 e\u2063 d\u2063 \u2063 \u2063 \u2063 \u2063 \u2063 8\u2063 \u2063 \u2063 4\u2063 \u2063 \u2063 \u2063 R\u2063 \u2063 Money Savings Challenges Binder 52 Week Savings Challenges Book with Envelope Opens in a new window or tab New \u2013 Open box $6.50 Buy It Now +$38.12 delivery Located in United States Last one 1 watchers Save up to 20% when you buy more michevil 100% positive (710) A\u2063 4\u2063 \u2063 2\u2063 S\u2063 B\u2063 \u2063 N\u2063 p\u2063 1\u2063 \u2063 3\u2063 o\u2063 D\u2063 \u2063 5\u2063 n\u2063 M\u2063 s\u2063 o\u2063 r\u2063 \u2063 e\u2063 d\u2063 \u2063 \u2063 \u2063 \u2063 Money Saving Binder 100p Envelope Budget Challenge Planner Pouch Money Save Book Opens in a new window or tab Brand New $7.39 Buy It Now +$31.28 delivery Located in United States mub-5625 98.7% positive (448) P\u2063 W\u2063 \u2063 M\u2063 1\u2063 S\u2063 \u2063 p\u2063 4\u2063 o\u2063 n\u2063 s\u2063 5\u2063 o\u2063 r\u2063 e\u2063 \u2063 J\u2063 d\u2063 \u2063 \u2063 K\u2063 \u2063 \u2063 \u2063 C\u2063 D\u2063 \u2063 Money Saving Book Cash Stuffing Envelopes Binder Loose Leaf Folders Opens in a new window or tab Brand New $23.75 to $24.21 Buy It Now +$2.69 delivery Located in China propertye 99% positive (4.5K) M\u2063 P\u2063 \u2063 S\u2063 C\u2063 S\u2063 \u2063 A\u2063 8\u2063 \u2063 P\u2063 4\u2063 \u2063 p\u2063 A\u2063 2\u2063 \u2063 o\u2063 n\u2063 \u2063 s\u2063 o\u2063 r\u2063 e\u2063 d\u2063 \u2063 \u2063 \u2063 100 Envelope Challenge Budget Planner $5,050 Money Saving Cash Challenge Book Opens in a new window or tab New \u2013 Open box $15.00 or Best Offer +$38.53 delivery Located in United States kegar649 100% positive (102) N\u2063 H\u2063 S\u2063 p\u2063 \u2063 F\u2063 5\u2063 \u043e\u2063 \u2063 n\u2063 s\u2063 K\u2063 o\u2063 P\u2063 \u2063 r\u2063 e\u2063 5\u2063 d\u2063 7\u2063 \u2063 \u2063 T\u2063 \u2063 \u2063 \u2063 4\u2063 \u2063 SKYDUE Budget Binder, Money Saving Binder with Zipper Envelopes, Cash Envelopes Opens in a new window or tab Brand New $20.99 Buy It Now +$22.51 delivery Located in United States bravurstore 99.7% positive (6.6K) 9\u2063 3\u2063 S\u2063 p\u2063 \u2063 C\u2063 o\u2063 n\u2063 H\u2063 \u0455\u2063 o\u2063 r\u2063 \u2063 6\u2063 P\u2063 \u2063 1\u2063 S\u2063 e\u2063 \u2063 d\u2063 \u2063 L\u2063 \u2063 I\u2063 \u2063 \u2063 \u2063 New Listing Money Saving Binder 100Pc Envelope Budget Challenge Planer Pouch Money Save Book Opens in a new window or tab Brand New $5.78 Buy It Now +$31.23 delivery Located in United States Save up to 15% when you buy more slyzzlesupply 98.6% positive (3K) \u0405\u2063 1\u2063 p\u2063 W\u2063 o\u2063 n\u2063 \u2063 S\u2063 R\u2063 s\u2063 o\u2063 r\u2063 \u2063 e\u2063 5\u2063 d\u2063 T\u2063 \u2063 \u2063 \u2063 \u2063 9\u2063 \u2063 I\u2063 \u2063 A\u2063 I\u2063 \u2063 100 Envelope Savings Challenge Binder Cash Organizer 100 Pocket Money Saver Opens in a new window or tab Brand New $23.99 Buy It Now +$70.11 delivery Located in United States seratizon 99.6% positive (5.8K) S\u2063 L\u2063 p\u2063 H\u2063 o\u2063 n\u2063 \u2063 \u0455\u2063 0\u2063 o\u2063 3\u2063 r\u2063 \u2063 L\u2063 0\u2063 e\u2063 d\u2063 \u2063 3\u2063 \u2063 7\u2063 \u2063 \u2063 \u2063 \u2063 E\u2063 \u2063 B\u2063 Creative \u00a31,000 Money Saving Binder Mini Savings Challenges Book Envelope Pink Opens in a new window or tab Brand New $8.11 Buy It Now +$13.53 delivery Located in United Kingdom biggesthype 100% positive (774) Y\u2063 7\u2063 \u2063 S\u2063 E\u2063 T\u2063 p\u2063 o\u2063 n\u2063 \u2063 2\u2063 s\u2063 o\u2063 r\u2063 e\u2063 N\u2063 \u2063 R\u2063 d\u2063 \u2063 6\u2063 \u2063 C\u2063 \u2063 \u2063 O\u2063 \u2063 \u2063 Budget Binder Cash Envelopes A6 Money Saving Binder with Zipper envelopes Purple Opens in a new window or tab Brand New $19.20 $24.00 or Best Offer +$31.63 delivery Located in United States Last one iconi-3657 99.5% positive (367) S\u2063 p\u2063 9\u2063 o\u2063 n\u2063 7\u2063 s\u2063 o\u2063 r\u2063 e\u2063 \u2063 4\u2063 d\u2063 A\u2063 \u2063 \u2063 \u2063 V\u2063 P\u2063 \u2063 \u2063 5\u2063 \u2063 \u2063 \u2063 \u2063 \u2063 \u2063 Notebook with Lock and Key Personal Finance Binder Locked Money Saving Opens in a new window or tab Brand New $18.12 to $21.37 Buy It Now +$2.69 delivery Located in China calreeren 98.5% positive (3.2K) 9\u2063 I\u2063 S\u2063 p\u2063 \u2063 M\u2063 o\u2063 n\u2063 C\u2063 s\u2063 o\u2063 r\u2063 e\u2063 d\u2063 \u2063 \u2063 \u2063 \u2063 \u2063 \u2063 \u2063 \u2063 \u2063 X\u2063 I\u2063 \u2063 \u2063 \u2063 Money Savings Binder Kit with Envelopes and Tracker Opens in a new window or tab Brand New $44.09 $48.99 or Best Offer +$72.67 delivery Located in United States $15 off $200+ with coupon locke_store_30 100% positive (28) S\u2063 p\u2063 W\u2063 o\u2063 n\u2063 H\u2063 \u2063 s\u2063 o\u2063 r\u2063 e\u2063 S\u2063 E\u2063 \u2063 d\u2063 \u2063 A\u2063 W\u2063 \u2063 \u2063 \u2063 G\u2063 \u2063 Q\u2063 \u2063 \u2063 \u2063 \u2063 Money Savings Challenges Binder 52 Week Savings Challenge Book Cash Envelopes Opens in a new window or tab New \u2013 Open box $6.99 or Best Offer +$39.89 delivery Located in United States ukittenme-007 98.9% positive (176) I\u2063 K\u2063 S\u2063 p\u2063 o\u2063 \u2063 6\u2063 I\u2063 n\u2063 \u2063 O\u2063 s\u2063 o\u2063 r\u2063 1\u2063 e\u2063 d\u2063 \u2063 \u2063 \u2063 7\u2063 1\u2063 \u2063 W\u2063 B\u2063 \u2063 \u2063 \u2063 Money Saving Binder Spiral Notepad Cash Book for Budget Planner Men Opens in a new window or tab Brand New $28.40 Buy It Now +$2.69 delivery Located in China nukanorshop 99.1% positive (4.6K) S\u2063 p\u2063 9\u2063 Z\u2063 o\u2063 n\u2063 s\u2063 o\u2063 r\u2063 \u2063 e\u2063 d\u2063 A\u2063 K\u2063 \u2063 X\u2063 \u2063 3\u2063 \u2063 \u2063 \u2063 Z\u2063 \u2063 N\u2063 \u2063 \u2063 Z\u2063 2\u2063 Envelope Money Savings Challenge Binder Book Save Cash - Pink Opens in a new window or tab Brand New $6.00 or Best Offer +$45.38 delivery Located in United States maidservi40 100% positive (564) B\u2063 3\u2063 S\u2063 \u2063 W\u2063 T\u2063 p\u2063 o\u2063 n\u2063 \u2063 \u0455\u2063 o\u2063 V\u2063 r\u2063 e\u2063 d\u2063 \u2063 8\u2063 \u2063 \u2063 \u2063 \u2063 A\u2063 U\u2063 \u2063 Q\u2063 \u2063 L\u2063 100 Day Money Saving Challenge Binder \u2013 Lockable Cash Envelope Binder with Track Opens in a new window or tab Brand New $10.99 or Best Offer +$74.22 delivery Located in United States turbotrader5 99.2% positive (266) 0\u2063 X\u2063 S\u2063 \u2063 p\u2063 Q\u2063 3\u2063 \u2063 3\u2063 W\u2063 \u2063 o\u2063 n\u2063 s\u2063 T\u2063 G\u2063 o\u2063 \u2063 4\u2063 K\u2063 \u2063 r\u2063 V\u2063 \u0435\u2063 \u2063 d\u2063 \u2063 \u2063 NEW LOW PRICE 100 Envelopes Money Saving Challenge Binder, A5 Money Saving Challenges Book Opens in a new window or tab Brand New $5.39 $8.99 Buy It Now +$58.91 delivery Located in United States Save up to 8% when you buy more logancollectsstuff 99.9% positive (1.8K) K\u2063 5\u2063 S\u2063 p\u2063 \u2063 Z\u2063 Z\u2063 \u2063 o\u2063 n\u2063 U\u2063 s\u2063 W\u2063 \u2063 o\u2063 U\u2063 E\u2063 \u2063 R\u2063 r\u2063 e\u2063 d\u2063 \u2063 \u2063 \u2063 T\u2063 \u2063 I\u2063 Cash Storage Book Money Folder for Saving Budget Binder Envelopes Opens in a new window or tab Brand New $18.79 $19.99 Buy It Now +$1.99 delivery Located in China gehqshop 96.4% positive (1.8K) S\u2063 1\u2063 p\u2063 A\u2063 o\u2063 n\u2063 s\u2063 \u2063 U\u2063 2\u2063 o\u2063 r\u2063 e\u2063 \u2063 d\u2063 2\u2063 \u2063 \u2063 \u2063 \u2063 W\u2063 \u2063 \u2063 \u2063 \u2063 V\u2063 \u2063 A\u2063 12 Budget Cash Envelope System Money & 100 Envelope Savings Challenge Tracker Opens in a new window or tab Pre-Owned $14.37 $16.90 Buy It Now +$37.58 delivery Located in United States rkvjhv 99.9% positive (1.9K) S\u2063 p\u2063 K\u2063 E\u2063 \u2063 o\u2063 B\u2063 n\u2063 Y\u2063 s\u2063 o\u2063 r\u2063 e\u2063 d\u2063 \u2063 V\u2063 \u2063 S\u2063 \u2063 \u2063 5\u2063 J\u2063 \u2063 \u2063 U\u2063 \u2063 \u2063 F\u2063 A6 Cash Budget Binder Wallet w/ Zipper Envelopes Money Saving Organizer Purple Opens in a new window or tab Brand New $17.99 Buy It Now +$32.68 delivery Located in United States beehivebox 100% positive (40) S\u2063 U\u2063 p\u2063 Z\u2063 o\u2063 n\u2063 \u2063 G\u2063 s\u2063 O\u2063 \u2063 0\u2063 Q\u2063 \u2063 o\u2063 r\u2063 e\u2063 0\u2063 M\u2063 d\u2063 \u2063 S\u2063 0\u2063 \u2063 \u2063 \u2063 E\u2063 \u2063 A6 Budget Binder for Money Saving, PU Leather Budget Planner with 8 Cash Envelop Opens in a new window or tab Brand New $20.88 Buy It Now +$102.27 delivery Located in United States sun-9319 98.8% positive (82) I\u2063 I\u2063 \u2063 8\u2063 S\u2063 p\u2063 o\u2063 X\u2063 \u2063 n\u2063 s\u2063 4\u2063 o\u2063 4\u2063 r\u2063 \u2063 e\u2063 d\u2063 \u2063 M\u2063 K\u2063 \u2063 \u2063 N\u2063 9\u2063 \u2063 \u2063 H\u2063 Money Saving Challenge Book Binder |100 envelopes budgeting book Opens in a new window or tab Brand New $10.99 or Best Offer +$36.98 delivery Located in United States turbotrader5 99.2% positive (266) Y\u2063 S\u2063 G\u2063 \u2063 p\u2063 o\u2063 W\u2063 S\u2063 n\u2063 s\u2063 \u2063 o\u2063 9\u2063 4\u2063 \u2063 r\u2063 B\u2063 e\u2063 d\u2063 \u2063 O\u2063 \u2063 \u2063 \u2063 F\u2063 P\u2063 \u2063 9\u2063 100 Envelope Savings Challenges Book Leather Cash Organizer 100 Pocket Money Cha Opens in a new window or tab Brand New $24.16 Buy It Now +$70.11 delivery Located in United States nethubinc 96.8% positive (237) Y\u2063 S\u2063 p\u2063 O\u2063 o\u2063 \u2063 n\u2063 s\u2063 S\u2063 G\u2063 \u2063 M\u2063 o\u2063 r\u2063 e\u2063 V\u2063 d\u2063 \u2063 \u2063 Z\u2063 \u2063 L\u2063 \u2063 \u2063 I\u2063 F\u2063 \u2063 \u2063 Savings Challenge Book Money Safe Binder with Lock Bill Holder for Cash Opens in a new window or tab Brand New $21.91 to $22.30 Buy It Now +$2.69 delivery Located in China deskaial 99.3% positive (3.5K) F\u2063 F\u2063 S\u2063 p\u2063 o\u2063 n\u2063 \u2063 s\u2063 E\u2063 o\u2063 F\u2063 r\u2063 \u2063 e\u2063 d\u2063 0\u2063 O\u2063 \u2063 \u2063 \u2063 \u2063 F\u2063 2\u2063 \u2063 4\u2063 \u2063 B\u2063 \u2063 Cash Book Multi-purpose Organizer Envelopes Money Saving Binder Storage Opens in a new window or tab Brand New $21.50 Buy It Now +$2.69 delivery Located in China thoorium 98.8% positive (3.1K) 1\u2063 S\u2063 W\u2063 p\u2063 \u2063 0\u2063 o\u2063 n\u2063 A\u2063 \u2063 s\u2063 o\u2063 r\u2063 e\u2063 d\u2063 \u2063 B\u2063 \u2063 F\u2063 \u2063 \u2063 0\u2063 N\u2063 \u2063 \u2063 \u2063 O\u2063 \u2063 24PCS Savings Binder Cash Envelope Trackers Money Envelopes for Cash Budget New Opens in a new window or tab Brand New $17.99 or Best Offer +$1.99 deliver",
+      "headings": []
+    },
+    {
+      "rank": 6,
+      "domain": "etsy.com",
+      "url": "https://www.etsy.com/market/budget_binder",
+      "title": "Budget Binder - Etsy",
+      "word_count": 0,
+      "scrape_status": "failed",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 7,
+      "domain": "reddit.com",
+      "url": "https://www.reddit.com/r/irishpersonalfinance/comments/11orlpu/has_anyone_ever_used_a_budget_binder/",
+      "title": "Has anyone ever used a budget binder? : r/irishpersonalfinance",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 8,
+      "domain": "walmart.com",
+      "url": "https://www.walmart.com/c/kp/budget-binder",
+      "title": "Budget Binder - Walmart",
+      "word_count": 113,
+      "scrape_status": "success",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": "Robot or human? Activate and hold the button to confirm that you\u2019re human. Thank You! window._pxAppId = 'PXu6b0qd2S'; window._pxJsClientSrc = '/px/' + window._pxAppId + '/init.js'; window._pxFirstPartyEnabled = true; window._pxHostUrl = '/px/' + window._pxAppId + '/xhr'; window._pxreCaptchaTheme = 'light'; window._PXETnJ2Y5H = { challenge: { view: { textFont: \"BogleWeb, Helvetica Neue, Helvetica, Arial, sans-serif\" } } }; var hc = getUrlParam('g', 'b'); var alt = hc if (alt=='a') { document.getElementById('message').innerHTML = ' Check the box to confirm that you\u2019re human. Thank You! '; } var captchajs = \"/px/\" + window._pxAppId + \"/captcha/captcha.js?a=c&m=0&g=\" + hc document.getElementById('blockScript').src = captchajs; Do Not Sell My Personal Information Request My Personal Information \u00a9 document.getElementById(\"year\").innerHTML = (new Date().getFullYear()); Walmart Stores, Inc.",
+      "headings": []
+    },
+    {
+      "rank": 9,
+      "domain": "youtube.com",
+      "url": "https://www.youtube.com/watch?v=z6HzEOZGYDA",
+      "title": "2026 CASH BINDER SETUP (step 1) : Savings Challenges - YouTube",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 10,
+      "domain": "youtube.com",
+      "url": "https://www.youtube.com/watch?v=rTm-l3Ypcbo",
+      "title": "Newly Designed Bill & Savings Cash Binder",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 11,
+      "domain": "pinterest.com",
+      "url": "https://www.pinterest.com/cbra8603/budget-binders/",
+      "title": "22 Budget binders ideas",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://i.pinimg.com/200x150/c2/59/78/c25978c3799503c6da72f02a48148f01.jpg",
+        "alt": "",
+        "description": "Lifestyle stock photo with high-contrast text overlay for social sharing.",
+        "type": "social_graphic_lifestyle"
+      },
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 12,
+      "domain": "thefabulousplanner.com",
+      "url": "https://www.thefabulousplanner.com/products/mini-money-saving-binder-save-1000-envelopes-money-saving-challenge-book?srsltid=AfmBOopfXF_8QfOx6G2Vq3TAa3SlFFpHnu7eRLtKZ5CcK1_2CmoVeHqx",
+      "title": "Mini Money Saving Binder, Save $1000 Envelopes ...",
+      "word_count": 243,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "http://www.thefabulousplanner.com/cdn/shop/files/12.png?v=1749088807",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.thefabulousplanner.com/cdn/shop/files/12.png?v=1749088807&width=1946",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.thefabulousplanner.com/cdn/shop/files/14.png?v=1749088808&width=1946",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.thefabulousplanner.com/cdn/shop/files/13.png?v=1749088808&width=1946",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.thefabulousplanner.com/cdn/shop/files/15.png?v=1749088808&width=1946",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.thefabulousplanner.com/cdn/shop/files/12.png?crop=center&height=84&v=1749088807&width=84",
+          "alt": "Mini Money Saving Binder, Save $1000 Envelopes Money Saving Challenge Book",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.thefabulousplanner.com/cdn/shop/files/14.png?crop=center&height=84&v=1749088808&width=84",
+          "alt": "Mini Money Saving Binder, Save $1000 Envelopes Money Saving Challenge Book",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.thefabulousplanner.com/cdn/shop/files/13.png?crop=center&height=84&v=1749088808&width=84",
+          "alt": "Mini Money Saving Binder, Save $1000 Envelopes Money Saving Challenge Book",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.thefabulousplanner.com/cdn/shop/files/15.png?crop=center&height=84&v=1749088808&width=84",
+          "alt": "Mini Money Saving Binder, Save $1000 Envelopes Money Saving Challenge Book",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.thefabulousplanner.com/cdn/shop/files/12.png?v=1749088807&width=1445",
+          "alt": "Mini Money Saving Binder, Save $1000 Envelopes Money Saving Challenge Book",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.thefabulousplanner.com/cdn/shop/files/14.png?v=1749088808&width=1445",
+          "alt": "Mini Money Saving Binder, Save $1000 Envelopes Money Saving Challenge Book",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.thefabulousplanner.com/cdn/shop/files/13.png?v=1749088808&width=1445",
+          "alt": "Mini Money Saving Binder, Save $1000 Envelopes Money Saving Challenge Book",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.thefabulousplanner.com/cdn/shop/files/15.png?v=1749088808&width=1445",
+          "alt": "Mini Money Saving Binder, Save $1000 Envelopes Money Saving Challenge Book",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "Open media 1 in modal Open media 2 in modal Open media 3 in modal Open media 4 in modal Mini Money Saving Binder, Save $1000 Envelopes Money Saving Challenge Book Couldn't load pickup availability Mini Money Saving Binder | $1000 Savings Challenge | Cash Envelope Binder for Budgeting | Portable Money Organizer with Zipper Pockets & Stickers Take control of your finances in a fun and stylish way with this Mini Money Saving Binder \u2014your go-to tool for tackling the $1000 Savings Challenge ! Whether you're budgeting for a big goal, building an emergency fund, or just want to make saving cash exciting, this compact and portable savings binder makes it easy and motivating. \ud83d\udc96 What's Included : \u2714 1 Mini Binder (4\" x 4.5\") with pink rings & snap closure \u2714 1 Frosted Cover with \"$1000 Savings Challenge\" design \u2714 1 Cardstock Challenge Tracker to mark deposits \u2714 1 Sheet of 30 reusable $40 stickers \u2714 25 Clear Envelopes for storing your cash \u2728 Why You'll Love It : Perfect for beginners or cash-stuffing pros Aesthetic design with pink accents and clear pockets Lightweight and portable\u2014take your savings tracker anywhere! Helps build consistency with visual motivation Great gift for budgeters, students, or anyone setting financial goals! Whether you're doing the 100 envelope challenge or simply want to build a better savings habit, this budget binder with envelopes keeps you organized, on track, and feeling fabulous. Shipping & Returns Shipping information here",
+      "headings": []
+    },
+    {
+      "rank": 13,
+      "domain": "iamherstationary.com",
+      "url": "https://www.iamherstationary.com/collections/savings-challenge-binders",
+      "title": "Savings Challenge Binders",
+      "word_count": 153,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "http://www.iamherstationary.com/cdn/shop/collections/image_5a712220-11d6-4ce4-9da9-5c9cd6c363df.jpg?v=1702332629",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.iamherstationary.com/cdn/shop/files/ACA1DFC9-B080-4AF8-B912-F2B62AD67A30_{width}x.heic?v=1702442945",
+          "alt": "In Her Bag - $5,050 Challenge Binder",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.iamherstationary.com/cdn/shop/files/69ACE1A4-8C3D-4621-BC85-BE0EE187AA07_600x.jpg?v=1702442945",
+          "alt": "In Her Bag - $5,050 Challenge Binder",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.iamherstationary.com/cdn/shop/files/ACA1DFC9-B080-4AF8-B912-F2B62AD67A30_600x.heic?v=1702442945",
+          "alt": "In Her Bag - $5,050 Challenge Binder",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.iamherstationary.com/cdn/shop/files/3pg_{width}x.png?v=1753992684",
+          "alt": "Pretty Girls Binder & Book Set",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.iamherstationary.com/cdn/shopifycloud/storefront/assets/no-image-2048-a2addb12_600x.gif",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.iamherstationary.com/cdn/shop/files/3pg_600x.png?v=1753992684",
+          "alt": "Pretty Girls Binder & Book Set",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.iamherstationary.com/cdn/shop/files/4BC3E529-CBA9-456D-AADB-211C8FA0EE01_{width}x.jpg?v=1702270929",
+          "alt": "Bankroll Barbi - $1378 Goal - 52 week challenge binder",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.iamherstationary.com/cdn/shop/files/78062465-B8F0-41AB-8187-1C13B2719792_600x.jpg?v=1702270928",
+          "alt": "Bankroll Barbi - $1378 Goal - 52 week challenge binder",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.iamherstationary.com/cdn/shop/files/4BC3E529-CBA9-456D-AADB-211C8FA0EE01_600x.jpg?v=1702270929",
+          "alt": "Bankroll Barbi - $1378 Goal - 52 week challenge binder",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.iamherstationary.com/cdn/shop/files/IMG_7865_{width}x.heic?v=1746154249",
+          "alt": "Ri$H Cash Tray",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.iamherstationary.com/cdn/shop/files/IMG_7871_600x.heic?v=1746154249",
+          "alt": "Ri$H Cash Tray",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.iamherstationary.com/cdn/shop/files/IMG_7865_600x.heic?v=1746154249",
+          "alt": "Ri$H Cash Tray",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.iamherstationary.com/cdn/shop/files/5_{width}x.png?v=1702655677",
+          "alt": "Her Buck$ - Placeholder Bills - 9 Pack",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.iamherstationary.com/cdn/shop/files/D9753138-CD1E-4318-9F96-5D02391D33B4_600x.jpg?v=1702657678",
+          "alt": "Her Buck$ - Placeholder Bills - 9 Pack",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.iamherstationary.com/cdn/shop/files/5_600x.png?v=1702655677",
+          "alt": "Her Buck$ - Placeholder Bills - 9 Pack",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.iamherstationary.com/cdn/shop/files/4878B6C7-F908-4869-B669-25C10711504C_{width}x.jpg?v=1702272091",
+          "alt": "Pretty Girls Binder Set",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.iamherstationary.com/cdn/shop/files/19B6B4FC-2A9B-4A76-86B7-96B2D1C5FD32_600x.jpg?v=1702272156",
+          "alt": "Pretty Girls Binder Set",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.iamherstationary.com/cdn/shop/files/4878B6C7-F908-4869-B669-25C10711504C_600x.jpg?v=1702272091",
+          "alt": "Pretty Girls Binder Set",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.iamherstationary.com/cdn/shop/files/IMG-1434_{width}x.png?v=1715465808",
+          "alt": "22 Pcs. Sliding Envelopes",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.iamherstationary.com/cdn/shop/files/IMG-1434_600x.png?v=1715465808",
+          "alt": "22 Pcs. Sliding Envelopes",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.iamherstationary.com/cdn/shop/files/BMFHEROIMAGE2_{width}x.jpg?v=1709161173",
+          "alt": "BMF - $5,050 Men's Challenge Binder",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.iamherstationary.com/cdn/shop/files/BMFBINDERINTERNAL2_600x.jpg?v=1709856035",
+          "alt": "BMF - $5,050 Men's Challenge Binder",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.iamherstationary.com/cdn/shop/files/BMFHEROIMAGE2_600x.jpg?v=1709161173",
+          "alt": "BMF - $5,050 Men's Challenge Binder",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.iamherstationary.com/cdn/shop/files/777_{width}x.png?v=1746018835",
+          "alt": "Everything Ri$h: Savings Challenge Book & Binder Set",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.iamherstationary.com/cdn/shop/files/lov_600x.png?v=1746140772",
+          "alt": "Everything Ri$h: Savings Challenge Book & Binder Set",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.iamherstationary.com/cdn/shop/files/777_600x.png?v=1746018835",
+          "alt": "Everything Ri$h: Savings Challenge Book & Binder Set",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.iamherstationary.com/cdn/shop/files/SMPBINDERBundle2_{width}x.jpg?v=1714237226",
+          "alt": "Stackin My Paper Binder Set",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.iamherstationary.com/cdn/shop/files/SMPBINDERFront_600x.jpg?v=1714237226",
+          "alt": "Stackin My Paper Binder Set",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.iamherstationary.com/cdn/shop/files/SMPBINDERBundle2_600x.jpg?v=1714237226",
+          "alt": "Stackin My Paper Binder Set",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.iamherstationary.com/cdn/shop/files/6A43793A-187A-42F8-B6A2-7A09A2561014_{width}x.jpg?v=1746017931",
+          "alt": "Everything Ri$h Binder Set",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.iamherstationary.com/cdn/shop/files/6A43793A-187A-42F8-B6A2-7A09A2561014_600x.jpg?v=1746017931",
+          "alt": "Everything Ri$h Binder Set",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "Savings Challenge Binders \ud83d\udd25 Binders To Hold Your Fund$ \ud83d\udd25 Keep Your Money Straight So It Come Straight Back To You Filters cash envelopes savings challenge book wallet Reset Apply Sort Featured Most relevant Best selling Alphabetically, A-Z Alphabetically, Z-A Price, low to high Price, high to low Date, old to new Date, new to old Filters cash envelopes savings challenge book wallet Reset On sale In Her Bag - $5,050 Challenge Binder $25 $50 Pretty Girls Binder & Book Set $76 On sale Bankroll Barbi - $1378 Goal - 52 week challenge binder $20 $40 Ri$H Cash Tray $18 Her Buck$ - Placeholder Bills - 9 Pack $5 Pretty Girls Binder Set $42 22 Pcs. Sliding Envelopes $22 On sale BMF - $5,050 Men's Challenge Binder $25 $50 Everything Ri$h: Savings Challenge Book & Binder Set $76 Stackin My Paper Binder Set $40 Everything Ri$h Binder Set $42 Filter Sort Recently viewed",
+      "headings": []
+    },
+    {
+      "rank": 14,
+      "domain": "supplyleader.com",
+      "url": "https://supplyleader.com/budget-binder",
+      "title": "Budget Binder WholeSale - Price List, Bulk Buy at ...",
+      "word_count": 933,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://supplyleader.com/assets/images/logo.png",
+        "alt": "Supply Leader",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://supplyleader.com/assets/images/use-product-photo.jpg",
+          "alt": "Product Stickers",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://supplyleader.com/assets/images/row-truspilot.png",
+          "alt": "supplyleader.com",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://supplyleader.com/assets/images/logo-footer.jpg",
+          "alt": "Supply Leader",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://supplyleader.com/assets/images/app-store-footer-v2.png",
+          "alt": "Available on the App Store",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://supplyleader.com/assets/images/pay-methods.png",
+          "alt": "Payment Methods",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "Toggle navigation Open Wholesale Account Check Amazon Best Sellers by Category Arts, Crafts & Sewing Beading & Jewelry Making Craft Supplies Fabric Knitting & Crochet Needlework Painting, Drawing & Art Supplies Printmaking Scrapbooking Sewing Yarn Fabric Painting & Dyeing Organization & Storage Photo Transfer & Coloring Supplies Thread & Floss Automotive Interior Accessories Exterior Accessories Car Care Motorcycle & ATV Replacement Parts Tools & Equipment Light & Lighting Accessories Oils & Fluids Paint & Paint Supplies Performance Parts & Accessories RV Parts & Accessories Wheels & Tires Baby Potty Training Strollers Car Seats Diapering Feeding For Moms Gifts Nursery Safety Travel Gear Beauty & Personal Care Foot, Hand & Nail Care Gift Sets Hair Care Makeup Skin Care Fragrance Personal Care Salon & Spa Equipment Shave & Hair Removal Tools & Accessories Camera & Photo Binoculars & Scopes Digital Picture Frames DSLR Cameras Accessories Bags & Cases Camcorders Lenses Point & Shoot Digit Clothing, Shoes & Jewelry Costumes & Accessories Luggage & Travel Gear Baby Boys Girls Men Novelty & More Shoe, Jewelry & Watch Accessories Sport Specific Clothing Uniforms, Work & Safety Women Computers & Accessories Computer Components Laptops Tablets Routers Data Storage Tablet Accessories Monitors Networking Products Servers Printers Computer Accessories & Peripherals Desktops External Components Laptop Accessories Scanners Electronics Car Electronics Cell Phones & Accessories Computers & Accessories eBook Readers & Accessories Headphones Home Audio & Theater Marine Electronics Office Electronics Security & Surveillance Video Game Consoles & Accessories & Supplies Camera & Photo GPS & Navigation Portable Audio & Video Televisions & Video Projectors Wearable Technology Home & Kitchen Bath Bedding Furniture Heating, Cooling & Air Quality Home Decor Seasonal Decor Storage & Organization Wall Decor Cleaning Supplies Irons & Steamers Kids Home Store Kitchen & Dining Vacuums & Floor Care Kitchen & Dining Cookware Dining & Entertaining Bar Tools & Drinkware Glassware & Drinkware Home Brewing & Wine Making Kitchen & Table Linens Kitchen Utensils & Gadgets Small Appliances Storage & Organization Wine Accessories Bakeware Coffee, Tea & Espresso Appliances Musical Instruments Drums & Percussion Guitars Instrument Accessories Keyboards Recording Equipment Band & Orchestra Bass Guitars Electronic Music, DJ & Karaoke Live Sound & Stage Ukuleles, Mandolins & Banjos Cell phones & Accessories Cases, Holsters & Clips Accessories Office Products Education & Crafts Office Supplies Envelopes, Mailers & Shipping Supplies Office Electronics Office Furniture & Accessories Office Lighting Presentation Boards Patio, Lawn & Garden Generators & Portable Power Grills & Outdoor Cooking Outdoor Heating Outdoor Storage Patio Furniture & Accessories Pest Control Pools, Hot Tubs & Supplies Snow Removal Farm & Ranch Gardening Mowers & Outdoor Power Tools Outdoor Decor Pet Supplies Birds Cats Dogs Fish & Aquatic Pets Horses Reptiles & Amphibians Small Animals Sports & Outdoors Exercise & Fitness Outdoor Recreation Accessories Fan Shop Hunting & Fishing Memorabilia Display & Storage Sports Medicine Tools & Home Improvement Air Tools Building Supplies Hardware Kitchen & Bath Fixtures Lighting & Ceiling Fans Measuring & Layout Tools Paint, Wall Treatments & Supplies Power & Hand Tools Rough Plumbing Safety & Security Storage & Home Organization Appliances Electrical Toys & Games Action & Toy Figures Baby & Toddler Toys Building & Construction Toys Collectible Card Games Dolls & Accessories Electronics for Kids Games Learning & Education Novelty & Gag Toys Party Supplies Play Vehicles Puppets & Puppet Theaters Puzzles Arts & Crafts Bikes, Skates & Ride-Ons Dressing Up & Costumes Musical Instruments Preschool Remote- & App-Controlled Toys Sports & Outdoor Play Stuffed Animals & Toys Health & Household Baby & Child Care Diet & Sports Nutrition Health Care House Supplies Medical Supplies & Equipment Oral Care Personal Care Sales & Deals Sexual Wellness Sports Nutrition Stationery & Gift Wrapping Supplies Vision Care Vitamins, Minerals & Supplements Wellness & Relaxation Industrial & Scientific Abrasive & Finishing Products Additive Manufacturing Products Adhesives, Sealants & Lubricants Commercial Door Products Commercial Lighting Cutting Tools Digital Signage Fasteners Filtration Food Service Equipment & Supplies Industrial Electrical Industrial Hardware Janitorial & Sanitation Supplies Lab & Scientific Products Material Handling Products Occupational Health & Safety Products Packaging & Shipping Supplies Power & Hand Tools Power Transmission Products Professional Dental Supplies Professional Medical Supplies Raw Materials Retail Store Fixtures & Equipment Robotics Science Education Unique Finds 4-Star Store All Gifts Baby & Toddler Beauty & Health Clothing, Shoes & Jewelry Electronics Grocery Home Indiegogo Kitchen & Dining Life Hacks Pets Shark Tank Collection Sports & Outdoors Toys Home Budget Binder Wholesale Sort by: Newest arrivals Amazon price low to high Amazon price high to low Featured first Amazon price: Amazon rating: Price: GO products Upload Budget Binder Photo to Find its Supply Terms. Upload Product Photo Now for Free \u00d7 Lowest Prices from Manufacturer Lowest price from search for manufacturers by first product image. Please note that shown prices may be per component, not for entire product. \u00d7 Use the product photo to find wholesale prices. Continue \u00d7 Open Supply Leader account to gain access Shipping costs vary from almost always free for original products to $3 to $8 per volumetric kg for White Label manufacturers. Analysis of retail prices and sales on Amazon, eBay and Walmart around the world. The largest manufacturers database with the lowest prices and low MOQ. Easy and affordable customization process to create your own brand. Worldwide shipping including Amazon, Ebay or Wallmart warehouse. Our customers say Excellent Starting from $147/month Try now just for $98 Wholesale supply service. About Us Contact Us Special Product Request Track Order Legal Info Policy Follow Us Facebook Twitter Instagram YouTube Contact [email protected] 5830 E 2nd St, Casper, WY 82609, USA - 2026 Supply Leader. .",
+      "headings": []
+    },
+    {
+      "rank": 15,
+      "domain": "youtube.com",
+      "url": "https://www.youtube.com/watch?v=gkfNa5OG2-A",
+      "title": "Make your Cash Stuffing Binder MAGICAL \u2728 Full DIY Tutorial",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 16,
+      "domain": "youtube.com",
+      "url": "https://www.youtube.com/watch?v=O_U3U1ykrbE",
+      "title": "HOW TO MAKE MINI SAVINGS BINDER FOR 26 WEEK ...",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 17,
+      "domain": "freeorganizingprintables.com",
+      "url": "https://freeorganizingprintables.com/free-printable-budget-binder/",
+      "title": "Free Printable Budget Binder (with Cash Envelopes!)",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://freeorganizingprintables.com/wp-content/uploads/2022/12/Budget-Binder.jpg",
+        "alt": "",
+        "description": "Graphic design layout of a document, checklist, or tracker.",
+        "type": "graphic_design_document"
+      },
+      "article_images": [
+        {
+          "url": "https://freeorganizingprintables.com/wp-content/uploads/2022/12/Aqua-Budget-Binder-Cover-Horizontal-1920x1280.jpg",
+          "alt": "Free Printable Budget Binder from freeorganizingprintables.com",
+          "description": "Graphic design layout of a document, checklist, or tracker.",
+          "type": "graphic_design_document"
+        },
+        {
+          "url": "https://freeorganizingprintables.com/wp-content/uploads/2022/12/Purple-Budget-Binder-Cover-Horizontal-1920x1280.jpg",
+          "alt": "Free Printable Budget Binder from freeorganizingprintables.com",
+          "description": "Graphic design layout of a document, checklist, or tracker.",
+          "type": "graphic_design_document"
+        },
+        {
+          "url": "https://freeorganizingprintables.com/wp-content/uploads/2022/12/Pink-Budget-Binder-Cover-Horizontal-1920x1280.jpg",
+          "alt": "Finance Binder Free Printables, freeorganizingprintables.com",
+          "description": "Graphic design layout of a document, checklist, or tracker.",
+          "type": "graphic_design_document"
+        },
+        {
+          "url": "https://freeorganizingprintables.com/wp-content/uploads/2022/12/Financial-Goals-Cover-1280x1920.jpg",
+          "alt": "Financial Goals Cover Page, Part of the Free Printable Budget Binder at freeorganizingprintables.com",
+          "description": "Graphic design layout of a document, checklist, or tracker.",
+          "type": "graphic_design_document"
+        },
+        {
+          "url": "https://freeorganizingprintables.com/wp-content/uploads/2022/12/Financial-Goals-Horizontal-1920x1280.jpg",
+          "alt": "Financial Goal Setting Worksheet from freeorganizingprintables.com",
+          "description": "Graphic design layout of a document, checklist, or tracker.",
+          "type": "graphic_design_document"
+        },
+        {
+          "url": "https://freeorganizingprintables.com/wp-content/uploads/2022/12/Aqua-Monthly-Review-Horizontal-1920x1280.jpg",
+          "alt": "Monthly Review Worksheet, Part of the Free Printable Budget Binder at freeorganizingprintables.com",
+          "description": "Graphic design layout of a document, checklist, or tracker.",
+          "type": "graphic_design_document"
+        },
+        {
+          "url": "https://freeorganizingprintables.com/wp-content/uploads/2022/12/Tracking-Spending-Cover-1280x1920.jpg",
+          "alt": "Tracking Spending Cover Page, Part of the Free Printable Budget Binder at freeorganizingprintables.com",
+          "description": "Graphic design layout of a document, checklist, or tracker.",
+          "type": "graphic_design_document"
+        },
+        {
+          "url": "https://freeorganizingprintables.com/wp-content/uploads/2022/12/Monthly-Budget-Horizontal-1920x1280.jpg",
+          "alt": "Monthly Budgeting Worksheet from freeorganizingprintables.com",
+          "description": "Graphic design layout of a document, checklist, or tracker.",
+          "type": "graphic_design_document"
+        },
+        {
+          "url": "https://freeorganizingprintables.com/wp-content/uploads/2022/12/2-Aqua-Recurring-Bill-Tracker-Horizontal-1920x1280.jpg",
+          "alt": "Recurring Bill Tracker from freeorganizingprintables.com",
+          "description": "Graphic design layout of a document, checklist, or tracker.",
+          "type": "graphic_design_document"
+        },
+        {
+          "url": "https://freeorganizingprintables.com/wp-content/uploads/2022/12/Envelope-Templates-Mockup.jpg",
+          "alt": "Free Printable Cash Envelopes Templates from freeorganizingprintables.com",
+          "description": "Graphic design layout of a document, checklist, or tracker.",
+          "type": "graphic_design_document"
+        },
+        {
+          "url": "https://freeorganizingprintables.com/wp-content/uploads/2022/12/Fronts-of-Aqua-Envelopes.jpg",
+          "alt": "Free Printable Cash Envelopes with Spending Trackers, freeorganizingprintables.com",
+          "description": "Graphic design layout of a document, checklist, or tracker.",
+          "type": "graphic_design_document"
+        },
+        {
+          "url": "https://freeorganizingprintables.com/wp-content/uploads/2022/12/Tracking-Expenses-Horizontal-1920x1280.jpg",
+          "alt": "Free Printable Checkbook Register from freeorganizingprintables.com",
+          "description": "Graphic design layout of a document, checklist, or tracker.",
+          "type": "graphic_design_document"
+        },
+        {
+          "url": "https://freeorganizingprintables.com/wp-content/uploads/2022/12/Aqua-Charitable-Contributions-Horizontal-1920x1280.jpg",
+          "alt": "Tracking Charitable Contributions, Free Printable from freeorganizingprintables.com",
+          "description": "Graphic design layout of a document, checklist, or tracker.",
+          "type": "graphic_design_document"
+        },
+        {
+          "url": "https://freeorganizingprintables.com/wp-content/uploads/2022/12/Savings-Cover-1920x1280.jpg",
+          "alt": "Boosting Savings Cover Page, Part of the Free Printable Budget Binder at freeorganizingprintables.com",
+          "description": "Graphic design layout of a document, checklist, or tracker.",
+          "type": "graphic_design_document"
+        },
+        {
+          "url": "https://freeorganizingprintables.com/wp-content/uploads/2022/12/Aqua-Savings-Bucket-List-Horizontal-1920x1280.jpg",
+          "alt": "Savings Bucket List Printable from freeorganizingprintables.com",
+          "description": "Graphic design layout of a document, checklist, or tracker.",
+          "type": "graphic_design_document"
+        },
+        {
+          "url": "https://freeorganizingprintables.com/wp-content/uploads/2022/12/2-Savings-Tracker-1-Horizontal-1920x1280.jpg",
+          "alt": "Savings Tracker Chart from freeorganizingprintables.com",
+          "description": "Graphic design layout of a document, checklist, or tracker.",
+          "type": "graphic_design_document"
+        },
+        {
+          "url": "https://freeorganizingprintables.com/wp-content/uploads/2022/12/Aqua-Savings-Tracker-2-Horizontal-1920x1280.jpg",
+          "alt": "Savings Tracker Road Map from freeorganizingprintables.com",
+          "description": "Graphic design layout of a document, checklist, or tracker.",
+          "type": "graphic_design_document"
+        },
+        {
+          "url": "https://freeorganizingprintables.com/wp-content/uploads/2022/12/Savings-Tracker-3-Horizontal-1920x1280.jpg",
+          "alt": "Savings Tracker Piggy Bank from freeorganizingprintables.com",
+          "description": "Graphic design layout of a document, checklist, or tracker.",
+          "type": "graphic_design_document"
+        },
+        {
+          "url": "https://freeorganizingprintables.com/wp-content/uploads/2022/12/Aqua-Savings-Tracker-4-Horizontal-1920x1280.jpg",
+          "alt": "Savings Tracker Jar from freeorganizingprintables.com",
+          "description": "Graphic design layout of a document, checklist, or tracker.",
+          "type": "graphic_design_document"
+        },
+        {
+          "url": "https://freeorganizingprintables.com/wp-content/uploads/2022/12/Savings-Tracker-5-Horizontal-1920x1280.jpg",
+          "alt": "Jewel Savings Tracker from freeorganizingprintables.com",
+          "description": "Graphic design layout of a document, checklist, or tracker.",
+          "type": "graphic_design_document"
+        },
+        {
+          "url": "https://freeorganizingprintables.com/wp-content/uploads/2022/12/Tackling-Debt-Cover-1920x1280.jpg",
+          "alt": "Tackling Debt Cover Page, part of the free printable Budget Binder from freeorganizingprintables.com",
+          "description": "Graphic design layout of a document, checklist, or tracker.",
+          "type": "graphic_design_document"
+        },
+        {
+          "url": "https://freeorganizingprintables.com/wp-content/uploads/2022/12/Debt-Overview-Horizontal-1920x1280.jpg",
+          "alt": "Debt Overview Worksheet from freeorganizingprintables.com",
+          "description": "Graphic design layout of a document, checklist, or tracker.",
+          "type": "graphic_design_document"
+        },
+        {
+          "url": "https://freeorganizingprintables.com/wp-content/uploads/2022/12/Aqua-Debt-Payoff-Worksheet-Horizontal-1920x1280.jpg",
+          "alt": "Debt Payoff Worksheet from freeorganizingprintables.com",
+          "description": "Graphic design layout of a document, checklist, or tracker.",
+          "type": "graphic_design_document"
+        },
+        {
+          "url": "https://freeorganizingprintables.com/wp-content/uploads/2022/12/2-Debt-Payoff-Tracker-1-Horizontal-1920x1280.jpg",
+          "alt": "Debt Payoff Tracker Chart from freeorganizingprintables.com",
+          "description": "Graphic design layout of a document, checklist, or tracker.",
+          "type": "graphic_design_document"
+        },
+        {
+          "url": "https://freeorganizingprintables.com/wp-content/uploads/2022/12/Aqua-Debt-Payoff-Calendar-2-Horizontal-1920x1280.jpg",
+          "alt": "Debt Payoff Tracker Road Map from freeorganizingprintables.com",
+          "description": "Graphic design layout of a document, checklist, or tracker.",
+          "type": "graphic_design_document"
+        },
+        {
+          "url": "https://freeorganizingprintables.com/wp-content/uploads/2022/12/Debt-Payoff-Tracker-3-Horizontal-1920x1280.jpg",
+          "alt": "Debt Payoff Tracker from freeorganizingprintables.com",
+          "description": "Graphic design layout of a document, checklist, or tracker.",
+          "type": "graphic_design_document"
+        },
+        {
+          "url": "https://freeorganizingprintables.com/wp-content/uploads/2022/12/Aqua-Debt-Payoff-Tracker-4-Horizontal-1920x1280.jpg",
+          "alt": "Debt Payoff Tracker Wheel from freeorganizingprintables.com",
+          "description": "Graphic design layout of a document, checklist, or tracker.",
+          "type": "graphic_design_document"
+        },
+        {
+          "url": "https://freeorganizingprintables.com/wp-content/uploads/2022/12/Debt-Payoff-Tracker-5-Horizontal-1920x1280.jpg",
+          "alt": "Debt Payoff Tracker Banners from freeorganizingprintables.com",
+          "description": "Graphic design layout of a document, checklist, or tracker.",
+          "type": "graphic_design_document"
+        },
+        {
+          "url": "https://freeorganizingprintables.com/wp-content/uploads/2022/12/Managing-Accounts-Cover-1280x1920.jpg",
+          "alt": "Managing Accounts Cover Page, part of the free printable Budget Binder at freeorganizingprintables.com",
+          "description": "Graphic design layout of a document, checklist, or tracker.",
+          "type": "graphic_design_document"
+        },
+        {
+          "url": "https://freeorganizingprintables.com/wp-content/uploads/2022/12/Aqua-Account-Information-Horizontal-1920x1280.jpg",
+          "alt": "Account Information Printable from freeorganizingprintables.com",
+          "description": "Graphic design layout of a document, checklist, or tracker.",
+          "type": "graphic_design_document"
+        },
+        {
+          "url": "https://freeorganizingprintables.com/wp-content/uploads/2022/12/Credit-Card-Information-Horizontal-1920x1280.jpg",
+          "alt": "Credit Card Information Printable, Part of the Free Budget Binder at freeorganizingprintables.com",
+          "description": "Graphic design layout of a document, checklist, or tracker.",
+          "type": "graphic_design_document"
+        },
+        {
+          "url": "https://freeorganizingprintables.com/wp-content/uploads/2022/09/Lightbulb-Icon.gif",
+          "alt": "",
+          "description": "Graphic design layout of a document, checklist, or tracker.",
+          "type": "graphic_design_document"
+        },
+        {
+          "url": "https://freeorganizingprintables.com/wp-content/uploads/2022/12/Free-Printable-Budget-Binder.png",
+          "alt": "Free Printable Budget Binder with More than 25 Printable Pages from freeorganizingprintables.com",
+          "description": "Graphic design layout of a document, checklist, or tracker.",
+          "type": "graphic_design_document"
+        },
+        {
+          "url": "https://freeorganizingprintables.com/wp-content/uploads/2022/11/Life-Planning-Binder-768x768.jpg",
+          "alt": "Free Printable Life Planning Binder",
+          "description": "Graphic design layout of a document, checklist, or tracker.",
+          "type": "graphic_design_document"
+        },
+        {
+          "url": "https://freeorganizingprintables.com/wp-content/uploads/2022/09/Home-Management-Binder-768x768.jpg",
+          "alt": "Free Printable Home Binder at freeorganizingprintbles.com",
+          "description": "Graphic design layout of a document, checklist, or tracker.",
+          "type": "graphic_design_document"
+        },
+        {
+          "url": "https://freeorganizingprintables.com/wp-content/uploads/2022/12/Debt-Payoff-Trackers.jpg",
+          "alt": "Debt Payoff Tracker Printables, Part of the Free Printable Budget Binder from freeorganizingprintables.com",
+          "description": "Graphic design layout of a document, checklist, or tracker.",
+          "type": "graphic_design_document"
+        },
+        {
+          "url": "https://freeorganizingprintables.com/wp-content/uploads/2022/12/Recurring-Bill-Tracker.jpg",
+          "alt": "Free Bill Tracker Printable, Part of the Budget Binder at freeorganizingprintables.com",
+          "description": "Graphic design layout of a document, checklist, or tracker.",
+          "type": "graphic_design_document"
+        },
+        {
+          "url": "https://freeorganizingprintables.com/wp-content/uploads/2022/12/Monthly-Budget-Worksheet.jpg",
+          "alt": "Free Printable Monthly Budget Worksheet at freeorganizingprintables.com",
+          "description": "Graphic design layout of a document, checklist, or tracker.",
+          "type": "graphic_design_document"
+        },
+        {
+          "url": "https://freeorganizingprintables.com/wp-content/uploads/2022/12/Debt-Payoff-Worksheets.jpg",
+          "alt": "Free Printable Debt Payoff Planner Pages from freeorganizingprintables.com",
+          "description": "Graphic design layout of a document, checklist, or tracker.",
+          "type": "graphic_design_document"
+        },
+        {
+          "url": "https://freeorganizingprintables.com/wp-content/uploads/2022/12/Cash-Envelopes.jpg",
+          "alt": "Free Printable Cash Envelopes for Budgeting, part of the Budget Binder at freeorganizingprintables.com",
+          "description": "Graphic design layout of a document, checklist, or tracker.",
+          "type": "graphic_design_document"
+        },
+        {
+          "url": "https://freeorganizingprintables.com/wp-content/uploads/2022/12/Charitable-Contributions.jpg",
+          "alt": "Charitable Contributions Printable from freeorganizingprintables.com",
+          "description": "Graphic design layout of a document, checklist, or tracker.",
+          "type": "graphic_design_document"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 18,
+      "domain": "amazon.com",
+      "url": "https://www.amazon.com/Envelope-Challenge-Binder-Easy-Save/dp/B0CCTXH8VX",
+      "title": "Savings Challenges Binder, Budget Binder with Cash ...",
+      "word_count": 26,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://fls-na.amazon.com/1/oc-csi/1/OP/requestId=AXRCTZESH8XTD935RYSS&js=0",
+        "alt": "",
+        "description": "Small tracking pixel or low-resolution product icon.",
+        "type": "tracking_pixel_or_icon"
+      },
+      "article_images": [],
+      "body_text": "Click the button below to continue shopping Continue shopping Conditions of Use -2025, Amazon.com, Inc. or its affiliates if (true === true) { document.write(' '); };",
+      "headings": []
+    }
+  ],
+  "battle_plan_generated_at": "2026-04-26T10:46:19.740261+00:00",
+  "competitors_analyzed_count": 4,
+  "battle_plan_method": "local_deterministic_agent_no_api"
+}

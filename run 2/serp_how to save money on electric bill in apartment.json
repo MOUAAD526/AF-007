@@ -1,0 +1,798 @@
+{
+  "article_context": {
+    "angle": "Psychological shift: From savings anxiety to financial peace using sinking funds",
+    "pain_points": [
+      "Savings anxiety escalating with higher balances",
+      "Reluctance or inability to use saved money (savings hoarding)",
+      "Tracking spending without a budget yields no savings",
+      "Fear of emergencies draining savings despite preparation"
+    ],
+    "top_social_questions": [
+      "Why does having savings cause more anxiety than having no savings?",
+      "How can I stop myself from hoarding savings and not using them for emergencies?",
+      "Why am I still broke after meticulously tracking my spending?",
+      "How do I balance saving for known expenses and unknown emergencies?"
+    ],
+    "dominant_emotion": "Anxiety & Persistent Worry",
+    "serp_intent": "The searcher wants actionable, apartment-specific strategies to lower electricity usage and costs, such as adjusting thermostats, using efficient appliances, and optimizing habits without permanent changes. SERP intent focuses on informational guides from utility sites, blogs, and energy organizations offering tips tailored to renters, emphasizing quick wins like unplugging devices and sealing drafts for immediate bill reductions.",
+    "serp_title_pool": {
+      "primary": [
+        "New apartment... how can I save as much on utilities as humanly ...",
+        "12 simple tips to save energy at your rental | Efficiency Vermont",
+        "19 Tips to Lower Your Apartment Electricity Bill - BKV Energy",
+        "7 Ways to Save Money on Utilities in an Apartment",
+        "Easy ways for renters to save energy and trim costs",
+        "Tips to Reduce Electric in a Philadelphia Apartment | Allan Domb",
+        "Cut Your Electric Bill for Free: 25 Energy-Saving Habits That Work",
+        "13 Ways to Lower Your Electric Bill - NerdWallet",
+        "10 Easy Ways to Save On Your Electric Bill | Rent. Blog",
+        "8 Ways to Lower the Electricity Bills in Your First Apartment",
+        "How can someone living alone in their own apartment reduce the ...",
+        "Low- to No-Cost Tips for Saving Energy at Home",
+        "How to Lower Your Electricity Bill in Your Apartment - ElectricityPlans",
+        "20 Tips on How to Lower Your Electric Bill in an Apartment",
+        "How To Lower The Electric Bill At Your Indianapolis Apartment",
+        "Energy-Saving Tips To Keep Your Electricity Bill Low | StreetEasy",
+        "Smart Ways to Slash Your Apartment's Electricity Bill"
+      ],
+      "long_tail": [
+        "Best temperature to run AC to keep costs down : r/hvacadvice - Reddit",
+        "The best AC temperature for summer energy savings",
+        "The Best AC Temperature to Save Money While Combatting ...",
+        "Best Setting for Your Central Air Conditioning - Consumer Reports",
+        "What temperature should I set my AC for comfort and low bills?",
+        "What Is the Best AC Temperature for Energy Savings? - EcoFlow",
+        "Does it cost less to have my AC set to 78 in the day and then 72 at ...",
+        "Local energy expert shares money-saving AC tips as temperatures ...",
+        "Best Ac Temperature For Energy And Financial Savings - APHW",
+        "Should You Really Set Your Thermostat to 78 in the Summer? - Trane"
+      ],
+      "question": [
+        "Simple ways to save money for the future",
+        "10 ways to start saving money - Vanguard",
+        "Save and Invest | MyMoney.gov",
+        "54 Ways to Save Money | America Saves",
+        "What's the sneakiest way you save money that actually works?",
+        "7 Mind-Blowing Saving Tips You Probably Didn't Know Existed",
+        "10 Tips to Start Saving Money Today \u2013 Intuit Blog",
+        "How to Save Money: 28 Ways - NerdWallet",
+        "Save Money Calculator | Bankrate",
+        "How To Save for Financial Goals: Emergencies, College, Retirement"
+      ]
+    },
+    "paa_questions": [
+      {
+        "q": "How can I lower my electric bill in an apartment?",
+        "a": "12 SIMPLE TIPS TO SAVE ENERGY AT YOUR RENTAL"
+      },
+      {
+        "q": "What runs up the electricity bill the most in apartments?",
+        "a": "1. Air Conditioning, Ventilation, and Heating. With a lot more people in a space, environmental conditioning is typically the largest energy consumer. To reduce electricity usage, consider bringing the space to the desired temperature before people enter."
+      },
+      {
+        "q": "How to use less energy in an apartment?",
+        "a": "Schedule washing machine, drying machine, dish washer to go on at night. Change bulbs to energy saving ones. Dont turn on lights during the day. Don't have TV on just for the background noise."
+      },
+      {
+        "q": "Why is my electric bill so high when I live in an apartment?",
+        "a": "The most likely culprit is your heating and cooling system. The largest usage of electric energy in your home is temperature control, and if you can reduce this, you will save a lot of money on your monthly energy bill. Other appliances, such as the refrigerator and freezer, must continue to function."
+      }
+    ],
+    "related_searches": [
+      "How to save money on electric bill in apartment reddit",
+      "How to lower electric bill in apartment reddit",
+      "How to save money on electric bill thermostat",
+      "How to lower electric bill in winter in apartment",
+      "Cut electric bill by 75 percent",
+      "How to save money on electric bill in apartment in texas",
+      "How to save on electric bill in winter",
+      "How to save money on electric bill in apartment california"
+    ]
+  },
+  "primary_keyword": "how to save money on electric bill in apartment",
+  "competitors": [
+    {
+      "rank": 1,
+      "domain": "reddit.com",
+      "url": "https://www.reddit.com/r/Frugal/comments/8ke4k7/new_apartment_how_can_i_save_as_much_on_utilities/",
+      "title": "New apartment... how can I save as much on utilities as humanly ...",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 2,
+      "domain": "efficiencyvermont.com",
+      "url": "https://www.efficiencyvermont.com/blog/how-to/12-simple-tips-to-save-energy-at-your-rental",
+      "title": "12 simple tips to save energy at your rental | Efficiency Vermont",
+      "word_count": 0,
+      "scrape_status": "failed",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 3,
+      "domain": "bkvenergy.com",
+      "url": "https://bkvenergy.com/blog/19-tips-for-lowering-your-apartments-electric-bill/",
+      "title": "19 Tips to Lower Your Apartment Electricity Bill - BKV Energy",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://bkvenergy.com/wp-content/uploads/2023/07/lower-apartment-electric-bill.webp",
+        "alt": "how to lower apartment electric bill",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://bkvenergy.com/wp-content/uploads/2024/05/woman-on-computer-1-700x440.webp",
+          "alt": "bkv energy customer reviews",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://bkvenergy.com/wp-content/uploads/2024/02/apartment-building-700x440.webp",
+          "alt": "apartment building",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 4,
+      "domain": "acadianpoint.com",
+      "url": "https://www.acadianpoint.com/7-ways-to-save-money-on-utilities-in-an-apartment",
+      "title": "7 Ways to Save Money on Utilities in an Apartment",
+      "word_count": 0,
+      "scrape_status": "failed",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 5,
+      "domain": "illumination.duke-energy.com",
+      "url": "https://illumination.duke-energy.com/articles/easy-ways-for-renters-to-save-energy-and-trim-costs",
+      "title": "Easy ways for renters to save energy and trim costs",
+      "word_count": 476,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://iprsoftwaremedia.com/264/files/20234/64625bb1b3aed3285868ac2e_2023-0517-ee-renters-hero1/2023-0517-ee-renters-hero1_hero.jpg",
+        "alt": "2023-0517-ee-renters-hero1",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://iprsoftwaremedia.com/264/files/20198/5d8cba4c2cfac2278626ff19_Schenck_Laurinda80/Schenck_Laurinda80_s.jpg",
+          "alt": "Laurinda Schenck",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://illumination.duke-energy.com/media/themes/624e7042b3aed35aa883791a/fonts/icon-social-facebook.svg",
+          "alt": "Follow in Facebook",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://illumination.duke-energy.com/media/themes/624e7042b3aed35aa883791a/fonts/icon-social-twitter.svg",
+          "alt": "Follow in Twitter",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://illumination.duke-energy.com/media/themes/624e7042b3aed35aa883791a/fonts/icon-social-linkedin.svg",
+          "alt": "Follow in LinkedIn",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://illumination.duke-energy.com/media/themes/624e7042b3aed35aa883791a/fonts/icon-social-email.svg",
+          "alt": "Send Email",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://illumination.duke-energy.com/media/themes/624e7042b3aed35aa883791a/fonts/icon-social-print.svg",
+          "alt": "Print",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://iprsoftwaremedia.com/264/files/20234/appliancetemp.gif",
+          "alt": "appliancetemp gif",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://iprsoftwaremedia.com/264/files/20234/2023-0517-ee-renters-led.jpg",
+          "alt": "2023-0517-ee-renters-led",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://iprsoftwaremedia.com/264/files/20234/cooking_gif.gif",
+          "alt": "2023-0517-ee-cooking_gif",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://iprsoftwaremedia.com/264/files/20234/202-0517-ee-renters-vampires.jpg",
+          "alt": "202-0517-ee-renters-vampires",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://iprsoftwaremedia.com/264/files/20234/2023-0517-ee-thermostatGIF.gif",
+          "alt": "2023-0517-ee-thermostatGIF",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://iprsoftwaremedia.com/264/files/20234/202-0517-ee-renters-leak2.jpg",
+          "alt": "202-0517-ee-renters-leak2",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://iprsoftwaremedia.com/264/files/20234/2023-0517-ee-airventsGIF.gif",
+          "alt": "2023-0517-ee-curtainsGIF",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://iprsoftwaremedia.com/264/files/20234/202305161539/2023-0517-ee-airventsGIF.gif",
+          "alt": "2023-0517-ee-airventsGIF",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://iprsoftwaremedia.com/264/files/20235/6499fc38b3aed32f7e9f5c25_2023-summer-ee-cat-hero/2023-summer-ee-cat-hero_mid.jpg",
+          "alt": "How you can save energy during hot weather",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://iprsoftwaremedia.com/264/files/20234/202305221253/646b65d5b3aed3279ff6f1e6_2023-0524-tax-credit-dealer-hero/2023-0524-tax-credit-dealer-hero_mid.jpg",
+          "alt": "Need help buying an EV? Here's how to navigate the tax credits",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://iprsoftwaremedia.com/264/files/20182/5ab29eae2cfac26338a1f154_2018-0320-DeclutterHERO/2018-0320-DeclutterHERO_mid.jpg",
+          "alt": "How to avoid 'bites' from energy vampires lurking in your home",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://iprsoftwaremedia.com/264/files/20222/621e91beb3aed3130c4bc627_2022-ee-landing-hero/2022-ee-landing-hero_mid.jpg",
+          "alt": "How to be more energy efficient and save",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "Try these renter-friendly, low- to no-cost tips to help conserve energy and cut back on costs: Adjust appliance temperature settings Here are the optimal temperature settings to keep your appliances running as efficiently as possible: Refrigerator: 36\u00b0-38\u00b0F Freezer: 0\u00b0F Water heater: 120\u00b0F Washer: cold setting (this can cut a load\u2019s energy use in half) Switch to energy-efficient LED lightbulbs Choose LED lightbulbs, especially for fixtures and lamps you use most often. Energy.gov says lighting accounts for around 15% of an average home\u2019s electricity use, and the average household saves about $225 in energy costs per year by using LED lighting. Make sure to turn off lights when not in use for extra savings. Save energy when you\u2019re cooking Cover pots and pans while cooking on the stovetop. Match the size of the pot or pan to the heating element. Keep range-top burners clean. Cook in the microwave or on top of the range instead of in the oven. Microwave ovens use up to 70% less energy than conventional ovens. Pull the plug on energy vampires An increasing number of devices draw power even when turned off. Be sure to unplug electronics when not in use to reduce the amount of wasted energy. Common culprits are printers, gaming consoles and desktop computers. Smart power strips can further reduce energy waste by cutting power to unused devices. Adjust your thermostat Your air conditioner and heater are likely your biggest energy wasters. Keep the thermostat at the highest comfortable setting during hotter months and the lowest comfortable level during colder months. When you leave, bump your thermostat up or down a few degrees so you aren\u2019t paying to heat or cool an empty apartment or home. If you don\u2019t already have a programmable (smart) thermostat, check with your landlord to see if they\u2019re willing to install one to adjust the temperature automatically and save even more. Report leaks or malfunctioning appliances A leaky faucet or constantly running toilet can cost you big when it comes to your bill. As a renter, be sure to report any leaky faucets, toilets or broken appliances \u2013 appliances not working efficiently can drive up your energy bill. Use curtains and shades for efficiency In the summer, close blinds during the day to help keep the sun\u2019s heat out. During winter, open curtains or blinds during the day to capture the sun\u2019s heat and close them at night to keep the warm air inside. This will help your home stay at a more comfortable temperature, and you\u2019ll need less AC or heat. Keep air vents and radiators clear Putting furniture or rugs in front or over air vents blocks airflow and forces your HVAC system to work harder to cool or heat your home, driving up your energy bill. Make sure vents are clear to help keep your heating and cooling system running efficiently.",
+      "headings": []
+    },
+    {
+      "rank": 6,
+      "domain": "allandomb.com",
+      "url": "https://allandomb.com/ways-to-reduce-your-electric-bills-in-your-philadelphia-apartment/",
+      "title": "Tips to Reduce Electric in a Philadelphia Apartment | Allan Domb",
+      "word_count": 734,
+      "scrape_status": "success",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": "Many Philadelphians are spending more time in their apartments than ever before. You may be among the many. Whether it\u2019s due to remote work/learning or the desire to enjoy your home and its wonderful amenities, your apartment is truly the center of your universe. Unfortunately, more time spent at home means higher electricity bills. If you were previously commuting to and working an office for 8-10 hours a day, then your apartment\u2019s meter was barely moving. Now, if you have your lights on, the coffee maker brewing, a computer and printer running, and, depending on the season, your heater or air conditioning is working overtime. In essence, you\u2019re using more energy than ever before. In turn, that increased usage is raising your electricity bill to new heights. While your last electric bill may have been a bit surprising, there\u2019s no reason to let that trend continue. Below, we\u2019ll show you how to lower your electric bill in an apartment or condo. 1. Use Energy-Efficient Light Bulbs If you are still using traditional incandescent light bulbs in your apartment, then it\u2019s time to make a switch to an energy-efficient alternative. Incandescent light bulbs, although inexpensive, use a lot of energy which contributes to higher electric bills. However, if you replace these bulbs with LED light bulbs or compact fluorescent light bulbs (CFL), you\u2019ll use less electricity and help lower your bills. These bulbs also last longer (both bulbs have an average lifespan of 9 years), so you\u2019ll replace them less often than soft white incandescent bulbs. 2. Unplug Inactive Appliances When you\u2019re not using a light, you turn it off. This simple practice is a real energy-saving solution. That same practice should also be attributed to non-essential appliances, too. While you should never unplug necessary appliances that require constant electricity (like your refrigerator), you should get in the habit of unplugging less essential appliances when they\u2019re not in use. Simply unplugging smartphone chargers, coffee makers, toasters, hairdryers, and other appliances and devices when they\u2019re not being used will help reduce your monthly energy bills. 3. Change Your Kitchen Habits Kitchens are one of the most high-energy rooms in your apartment. Refrigerators are always running to keep your food from spoiling. Electric ovens set the meter spinning every time you use the stovetop or bake. And then there\u2019s the various accessories and appliances that you use every day like dishwashers, microwaves, coffee makers, and toasters, just to name a few. Luckily, you can make a few minor adjustments to your kitchen habits to help lower your energy usage. Instead of heating water, broth, soup, gravy, and other liquids on an electric stovetop, use the microwave instead. Not only does this method heat the liquid faster, but it also uses less electricity. When you\u2019re washing dishes, turn off the heated drying option since it uses a lot of energy. Instead, simply crack the dishwasher door slightly and let the dishes dry naturally after the washing cycle is complete. 4. Give Your HVAC Unit a Rest While you\u2019ll definitely want your HVAC unit to keep you warm and cozy during frigid winter weather and comfortably cool during the sweltering heat of summer, you can give it a rest (and lower utility costs) on those milder days. On mild fall and winter days, turn your thermostat down and wear a sweater. When the spring and summer weather is in the high 60s, turn your unit off, open your drapes and windows and enjoy the sunshine and gentle breezes. By taking advantage of these milder temperatures and giving your HVAC unit a much-needed break, you\u2019ll lower your energy costs \u2013 and give your bank account a rest, too. Now you know a few easy and effective ways to lower your electric bill in your apartment or condo. We hope this helps you save a few dollars on your monthly bills so you can invest those savings into your vacation plans, another bill, or your bank account. Recognizing how important it is for our clients to save money on their energy bills, Allan Domb Real Estate is committed to offering energy-saving solutions in many of our rental properties. From Energy Star heating/cooling systems to energy-efficient appliances and windows, we\u2019re committed to incorporating energy-saving amenities in our rental properties to help you live a more comfortable and accommodating life. Contact our office today to learn more about our currently available energy-efficient properties!",
+      "headings": []
+    },
+    {
+      "rank": 7,
+      "domain": "youtube.com",
+      "url": "https://www.youtube.com/watch?v=wRTJZUkBoEQ",
+      "title": "Cut Your Electric Bill for Free: 25 Energy-Saving Habits That Work",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 8,
+      "domain": "nerdwallet.com",
+      "url": "https://www.nerdwallet.com/finance/learn/how-to-save-money-on-your-electric-bill",
+      "title": "13 Ways to Lower Your Electric Bill - NerdWallet",
+      "word_count": 158,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.nerdwallet.com/tachyon/2023/08/GettyImages-722208743.jpg?resize=2400%2C1440",
+        "alt": "",
+        "description": "Clean, minimalist custom illustration or high-quality object stock photo.",
+        "type": "minimalist_branded_asset"
+      },
+      "article_images": [
+        {
+          "url": "https://www.nerdwallet.com/assets/blog/wp-content/uploads/2026/01/Screenshot-2026-01-22-at-4.18.01-PM.png",
+          "alt": "CTA image",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i.ytimg.com/vi_webp/oJkkG2V1iiU/sddefault.webp",
+          "alt": "Video thumbnail",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.nerdwallet.com/tachyon/2021/12/IMG_3114_edited.jpg?resize=160%2C160",
+          "alt": "Tommy Tindall",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdns3.nerdwallet.com/lending/publication-logos/Marketwatch.webp",
+          "alt": "MarketWatch",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdns3.nerdwallet.com/lending/publication-logos/TheAssociatedPress.webp",
+          "alt": "The Associated Press",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdns3.nerdwallet.com/lending/publication-logos/TheWashingtonPost.webp",
+          "alt": "The Washington Post",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.nerdwallet.com/assets/blog/wp-content/uploads/2019/08/lschwahn-user-avatar-160x160.jpg",
+          "alt": "Lauren Schwahn",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdns3.nerdwallet.com/lending/publication-logos/NASDAQ.webp",
+          "alt": "Nasdaq.com",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdns3.nerdwallet.com/lending/publication-logos/TheNewYorkTimes.webp",
+          "alt": "The New York Times",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "This page includes information about these cards, currently unavailable on NerdWallet. The information has been collected by NerdWallet and has not been provided or reviewed by the card issuer. Do an energy audit. Give your thermostat a nudge. Adjust your fridge and freezer temperature. Keep up with routine maintenance. Take shorter showers. Replace your showerhead. Wash clothes in warm or cold water. Adjust the temperature on your water heater. Purchase energy-efficient appliances. Ask about discounted rates. Switch to LED lighting. Install dimmer switches. Use smart power strips. Heating and cooling Do an energy audit Give your thermostat a nudge Adjust your fridge and freezer temperature Keep up with routine maintenance Meet MoneyNerd, your weekly news decoder Water Take shorter showers Replace your showerhead Wash clothes in warm or cold water Adjust the temperature on your water heater Purchase energy-efficient appliances Ask about discounted rates Power and lighting Switch to LED lighting Install dimmer switches Use smart power strips",
+      "headings": []
+    },
+    {
+      "rank": 9,
+      "domain": "rent.com",
+      "url": "https://www.rent.com/blog/10-ways-save-apartments-monthly-electric-bill/",
+      "title": "10 Easy Ways to Save On Your Electric Bill | Rent. Blog",
+      "word_count": 1251,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.rent.com/blog/wp-content/uploads/2020/11/electricbill_hero_diz-play-PIrOQrqewLE-unsplash.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.rent.com/blog/wp-content/uploads/2020/11/thermostat_dan-lefebvre-RFAHj4tI37Y-unsplash.jpg",
+          "alt": "thermostat",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.rent.com/blog/wp-content/uploads/2020/11/led_shutterstock_362890436.jpg",
+          "alt": "lightbulbs ways to save on electric bill",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.rent.com/blog/wp-content/uploads/2020/11/airfilter_shutterstock_1094304836.jpg",
+          "alt": "air filter",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.rent.com/blog/wp-content/uploads/2020/11/waterheater_shutterstock_405622711.jpg",
+          "alt": "water heater ways to save on electric bill",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.rent.com/blog/wp-content/uploads/2020/11/showerhead_pexels-karolina-grabowska-4194866.jpg",
+          "alt": "shower head",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.rent.com/blog/wp-content/uploads/2020/11/unpluggingappliances_shutterstock_607378124.jpg",
+          "alt": "unplugging appliances ways to save on electric bill",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.rent.com/blog/wp-content/uploads/2020/11/microwave_shutterstock_735463006.jpg",
+          "alt": "microwave",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.rent.com/blog/wp-content/uploads/2020/11/light_shutterstock_605255828.jpg",
+          "alt": "turning off lights ways to save on electric bill",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.rent.com/blog/wp-content/uploads/2020/11/talkingtolandlord_shutterstock_1361250668.jpg",
+          "alt": "landlord",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.rent.com/blog/wp-content/uploads/2020/11/hangdry_ricardo-gomez-angel-OnkqXwxWYAE-unsplash.jpg",
+          "alt": "hand dry clothes ways to save on electric bill",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.rent.com/blog/wp-content/uploads/2019/04/Morgan-Henderson.jpeg",
+          "alt": "Morgen Henderson",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.rent.com/blog/wp-content/uploads/2023/05/Rectangle-38.jpg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.rent.com/blog/wp-content/uploads/2023/02/hero-blurry-suburban-neighborhoods-shutterstock_1209673780__281_29.jpg",
+          "alt": "Image for Your Complete Guide to Suburban Neighborhoods",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.rent.com/blog/wp-content/uploads/2025/03/Feature-Image-Couch.jpg",
+          "alt": "Image for Creating a Peaceful Home: Design Ideas for the Ultimate Relaxation Station",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.rent.com/blog/wp-content/uploads/2023/02/hero-gabrielle-henderson-HJckKnwCXxQ-unsplash.jpg",
+          "alt": "Image for Can Your Landlord Raise Your Rent? What to Do if You Receive a Rent Increase Note",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.rent.com/blog/wp-content/uploads/2014/03/pexels-glambeau-design-2014648-11513516-scaled.jpg",
+          "alt": "Image for 8 St. Patrick's Day Party Ideas",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.rent.com/blog/wp-content/uploads/2023/09/bri-rtp-Kukdz3VKzNc-unsplash.jpg",
+          "alt": "Image for Pantry Organization Ideas to Streamline Kitchens and More",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.rent.com/blog/wp-content/uploads/2022/03/keys_to_new_apartment_shutterstock_1958231833.jpg",
+          "alt": "Image for 86 New Apartment Essentials For Your First Place",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.rent.com/blog/wp-content/uploads/2023/02/hero-apartment-balcony-ideas-shutterstock_1438974374.jpg",
+          "alt": "Image for Optimize Your Outdoor Living Space with These Apartment Balcony Ideas",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.rent.com/blog/wp-content/uploads/2023/04/hero-apt-with-gym-shutterstock_2250770273__281_29.jpg",
+          "alt": "Image for 13 Reasons Why Your Next Apartment Should Have a Gym",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.rent.com/blog/wp-content/uploads/2019/02/shutterstock_679069948-copy-e1523640111665.jpg",
+          "alt": "Image for Lease Renewal: How to Renew Your Lease, Step by Step",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.rent.com/blog/wp-content/uploads/2025/02/Featured-V-Day-1500x650-1.jpg",
+          "alt": "Image for Celebrate Valentine\u2019s Day At Home",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.rent.com/blog/wp-content/uploads/2023/05/Rent_1color_white-1.png",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "Apartment residents are often frustrated by their utility bills being higher than they think that they should be, and are often looking for ways to save on their electric bill. Utility bills are based on a lot of factors, including the size of your apartment, the apartment\u2019s insulation and the complex\u2019s furnace. Luckily, there are some ways that you can cut costs. How to lower the electric bill in your apartment Lowering your electric bill doesn\u2019t always require you to take extreme measures like getting rid of your refrigerator and never using your air conditioning. You can still live a normal, comfortable life while saving energy and money each month. Here\u2019s a look at some ways to save on your electric bill. 1. Adjust your thermostat A large portion of your monthly utility bill is based on your heating and cooling usage. You can save money on your utility bill by simply lowering or raising the temperature on your thermostat by a few degrees depending on the season. Instead of setting the thermostat to 68 degrees in the summer, bump it up to 71. And in the winter, keep it a little bit cooler than normal and wear a jacket and socks while at home. Also, consider switching to a programmable thermostat . A programmable thermostat can help reduce your utility bill by lowering or raising the temperature while you\u2019re away from your apartment, so your HVAC unit won\u2019t be running all day while you\u2019re not at home. And if you\u2019re going on vacation and won\u2019t be at home, even if it\u2019s just for a day or two, turn off your air conditioning and heating so it won\u2019t run when you\u2019re gone. 2. Use energy-efficient light bulbs According to the U.S. Department of Energy , 5 percent of the average American household\u2019s energy consumption is lighting. By switching over to LED lights, you\u2019ll use substantially less energy than you would with a standard light bulb. Some LED light bulbs can last more than 10 years. 3. Check the air filter and ducts Worn out air filters make things harder for your HVAC system, so make sure your filters are clean and change them out if needed. Having a dirty air filter will actually add to your expenses since your HVAC unit will have to work double-time to push through the grime and dirt. Air filters come in different sizes and are made from different materials. If you use cardboard and fiberglass filters, you\u2019ll save money on your utility bill. You can also check your vents and ducts for dirt and debris. Over time, dust can build up, and leaves and dirt can get stuck inside your air ducts and block the airflow. As a result, your HVAC unit may be running for a long time, but may not be adequately cooling or heating your apartment. 4. Fix your water heater The majority of water heaters are designed to keep water at a specific temperature at all times. Your water heater may be heating up water even though you aren\u2019t at home. You can reduce your heating costs by turning down your water heater temperature while you aren\u2019t at home and then turning it back up overnight. 5. Purchase a new shower head Instead of wasting gallons of water as you wait for the water to heat up before you step into the shower, consider purchasing a shower-head adapter. Install the adapter on your shower-head, and you can save money as the adapter lowers the water flow until you\u2019re ready to get into the shower. 6. Turn off some appliances People spend billions of dollars every year on standby power. Turn off or unplug electronics such as computers and televisions when you aren\u2019t using them. There are new devices available that will automatically shut down electronics when they aren\u2019t being used, such as smart plugs, so you don\u2019t have to do it manually each time. 7. Change your kitchen usage The heat generated from cooking can certainly raise your AC costs. To save money, use your microwave instead of your stove to heat liquids, and try to cook more often at night when it\u2019s cooler. And if you\u2019re baking something in the oven when it\u2019s cold outside, lower your thermostat and take advantage of the heat already coming from your oven to warm the room a bit. 8. Turn off the lights We\u2019ve been hearing it since the day we were born \u2014 turn off the lights when you leave the room! You\u2019ll see a reduction in your utility bill by turning off the lights in rooms that you\u2019re not using at the moment. And if you really want to see big energy savings, harness the natural light via windows during the day, and don\u2019t turn on the lights in a room until it gets dark. 9. Speak with your landlord Talk to your landlord about making some energy-efficient property upgrades. Your landlord may be able to wrap some pipes, add insulation, seal leaks around doors and windows or lower your water heater settings. You may even be able to convince them to invest in smart devices , like smart outlets and light bulbs, if you make a good case about their energy-saving benefits! 10. Wash large loads of clothes and hang dry Try to wash only full loads of clothes. Your washer and dryer use about the same amount of energy to wash a large load and a small load, so washing one large load instead of multiple small loads will save lots of energy and water. Most detergents dissolve in cold water, so you can save even more energy by using cold water, rather than hot water since it uses energy to heat up. Dryers are great, but they can use a lot of energy. Try hanging your clothes on a line or drying rack when the weather is warm instead of letting them tumble around in the dryer. There are already some clothing items that shouldn\u2019t be put in the dryer , so why not use that method for all of your clothes? Be conscious of ways to save on your electric bill Fluctuating bills can be frustrating, so try to be a little more conscious of how you use energy each day. By keeping top of mind these ways to save on your electric bill, you can hopefully reduce your expenses while doing your part for the environment. Morgen Henderson is a writer who grew up in Utah. She lived in the Dominican Republic for a year and a half, where she was involved in humanitarian service. Some of Morgen\u2019s work has appeared in State of Digital, The Next Scoop and TechPatio. In her free time, she loves to travel, bake, master DIY projects and improve her Spanish skills. Moving? Get connected with the best moving company! Your Complete Guide to Suburban Neighborhoods Creating a Peaceful Home: Design Ideas for the Ultimate Relaxation Station Can Your Landlord Raise Your Rent? What to Do if You Receive a Rent Increase Note 8 St. Patrick\u2019s Day Party Ideas Pantry Organization Ideas to Streamline Kitchens and More 86 New Apartment Essentials For Your First Place Optimize Your Outdoor Living Space with These Apartment Balcony Ideas 13 Reasons Why Your Next Apartment Should Have a Gym Lease Renewal: How to Renew Your Lease, Step by Step Celebrate Valentine\u2019s Day At Home like a boss! to keep up with all the best\u2026 Rent like a boss! to keep up with all the best\u2026",
+      "headings": []
+    },
+    {
+      "rank": 10,
+      "domain": "directenergy.com",
+      "url": "https://www.directenergy.com/en/learn/reduce-energy-costs/8-ways-lower-apartment-electricity-bills",
+      "title": "8 Ways to Lower the Electricity Bills in Your First Apartment",
+      "word_count": 885,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.directenergy.com/content/dam/deu/web/en/multimedia/learn/energy-choice/first-apartment-d.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.directenergy.com/en/learn/reduce-energy-costs/8-ways-lower-apartment-electricity-bills/_jcr_content/root/column-container/_2_column_container/par1/content_block_copy_119277613/responsiveimage1/default.coreimg.jpeg/1719949271499/first-apartment-d.jpeg",
+          "alt": "Image of a beautiful, well-furnished and decorated apartment",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.directenergy.com/en/learn/reduce-energy-costs/8-ways-lower-apartment-electricity-bills/_jcr_content/root/column-container/_2_column_container/par1/content_block_copy_119277613/responsiveimage1/tablet.coreimg.jpeg/1719949271502/first-apartment-t.jpeg",
+          "alt": "Image of a beautiful, well-furnished and decorated apartment",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.directenergy.com/en/learn/reduce-energy-costs/8-ways-lower-apartment-electricity-bills/_jcr_content/root/column-container/_2_column_container/par1/content_block_copy_119277613/responsiveimage1/mobile.coreimg.jpeg/1719949271506/first-apartment-m.jpeg",
+          "alt": "Image of a beautiful, well-furnished and decorated apartment",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "So, you've moved most of your stuff out of your parents' place, and after all the hassle, drama, and unexpected expenses, you're finally settling into your first apartment. That means you'll be paying your own electricity bills. While there's no need to panic, your energy habits do affect your monthly bill. While nobody's habits are exactly the same, let's look at the most common ways you can start saving energy. Individually, these examples don't offer huge savings, BUT the combination of them can really help you save on your electricity bill. How to lower electric bills in your apartment Lighting has come a long way since the days of incandescent bulbs. There are better options available to us that use less electricity, have longer lifespans, and are affordable as well. In the past, incandescent bulbs were a popular choice. However, as part of a greater initiative to meet climate goals, the current administration is effectively phasing out CFLs by 2025 . Luckily, there are far more efficient options available. LED bulbs are a better option than CFLs and are at least 75% more efficient than old incandescent bulbs. LEDs also have a longer lifespan than CFLs and are incredibly affordable. Best of all, they come in all different shapes and styles. Looking to add some extra flair to your bedroom? LED strips are easy to install and can be quickly removed should you ever have to move. Dirty air filters make your heat and air conditioning system work harder to circulate air. If you are paying for your own heat and air conditioning, a dirty air filter will add to the expense. Air filters are made from different materials in different thicknesses and sizes. These factors affect their MERV, which is rated 1-13. You can use inexpensive cardboard and spun fiberglass filters (MERV 1-4) to clean large particulates. Better ones (MERV 5-7) will cost a little more, but they also filter the air better and may help reduce the chances of illness or allergies. Most water heaters are merely large tanks designed to keep water at a set temperature whether you are using it or not. Not all apartments have their own water heater, but if you do, consider that your water heater might be heating up water when no one is at home. A good tip is to turn your water heater temperature down during the day when you are out and then turn it back up to 120\u00b0F to heat water overnight. Depending on where your water is situated, an inexpensive water heater jacket can also help reduce your heating costs. Smart power strips turn completely off after a set period of time. That means anything connected to them, like TVs, game consoles, routers, cable boxes, and other things that use stand-by power when they are switched off, will be completely turned off. Many people believe that ceiling fans help heat or cool. The truth is that they do neither. They just help circulate heated or cooled air and make the room feel more comfortable. So, if you're not there, why keep it running? Similarly, remembering to switch off the lights when you leave a room reduces you usage as well. Cooking creates lots of heat, and in the summer, that can pile on to your apartment's heat load and raise your air conditioning costs. Use the microwave to heat liquids rather than the stove. It's faster and uses less electricity. A 350\u00b0F oven is even more expensive to run when your air conditioner is running. Bake at night when it's cooler outside. Then, you can open some windows and use a fan to blow out the heat until you're finished. Dishwashers mainly use electricity to heat water and for drying. By running your dishwasher only at night, it reduces your AC's heat load. Plus, you can also reduce the energy use by turning off the heated dry and leaving the door propped open right after it's done washing. The hot dishes will quickly air dry. Since most detergents now dissolve in cold water, you can reduce the amount of hot water you use. Smart thermostats can help you reduce your heating and cooling bills by setting back temperatures while you sleep and are away at work. Smart thermostats give you even more flexibility and a means of seeing what temperatures work best for your apartment. Some lease agreements will let you install your own thermostat as long as you remember to swap-back in the old one when you move out. There's really no need to fear your electricity bills when you get your first apartment. This should be a new and exciting time in your life! Use these 8 great tips to reduce your energy usage now, and the savings and habits will carry forth into the future! Save even more with an electricity plan from Direct Energy! Save more on your summer electricity bill with an electricity plan from Direct Energy! We give you the tips and tools you need to track your usage and save energy. Explore our other categories by selecting one from the dropdown menu. Signing up for Direct Energy is easy! We offer a wide range of plans and even help you customize them to fit your needs! Shop our plans to find your best fit today.",
+      "headings": []
+    },
+    {
+      "rank": 11,
+      "domain": "quora.com",
+      "url": "https://www.quora.com/How-can-someone-living-alone-in-their-own-apartment-reduce-the-cost-of-their-electric-bills",
+      "title": "How can someone living alone in their own apartment reduce the ...",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 12,
+      "domain": "energystar.gov",
+      "url": "https://www.energystar.gov/products/recent_program_updates/low-no-cost-tips",
+      "title": "Low- to No-Cost Tips for Saving Energy at Home",
+      "word_count": 1162,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.energystar.gov/sites/default/files/",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [],
+      "body_text": "Low- to No-Cost Tips for Saving Energy at Home If you rent an apartment, townhouse, or a home, these tips will show you how to be more energy efficient while saving money, and reducing the risks of climate change. If there are things you can't change on your own, share these tips and encourage your landlord to help you make a change for the better. Lighting is one of the easiest places to start saving energy. Replacing your five most frequently used light fixtures or the bulbs in them with ENERGY STAR certified lights can save about $40 a year in energy costs. ENERGY STAR certified LED light bulbs provide high-quality light output, use up to 90% less energy, and last 15 times longer than standard bulbs, saving money on energy bills and replacement costs. Replace a bulb and reduce your carbon footprint! A single light bulb that has earned the ENERGY STAR prevents, on average, 780 pounds of greenhouse gas emissions over its lifetime. Cooling Considering purchasing a room air conditioner? Choose an ENERGY STAR certified model . They use 9 percent less energy than standard models and on average, cost less than $70 per year to run. ENERGY STAR certified room air conditioners come with better materials and clearer instructions to improve sealing and insulation around the unit, so costly and uncomfortable air leaks are minimized. In the winter, be sure to insulate room air conditioners from the outside with a tight-fitting a/c unit cover, available at your local home improvement center or hardware store. This keeps heated air from escaping outside. Alternately, you can remove the window unit in the winter months to prevent energy losses. Be sure the window unit fits tightly in the window so outdoor air is not getting in. ENERGY STAR certified room air conditioners with connected functionality offer additional convenience, comfort and energy-savings, including the ability to: turn off the unit remotely using your phone or computer; schedule changes to temperature settings based on your needs; receive feedback on the energy use of the product. To keep out the heat of the summer sun, close window shades and drapes in warm weather. During cold weather, take advantage of the sun's warmth by keeping drapes open during daylight hours. Smart Thermostats For the average American household, almost half the annual energy bill goes to heating and cooling \u2013 more than $900 a year! Being smart about how you control your temperature settings will help you save money and stay comfortable in your home. If possible, install a smart thermostat to automatically adjust your home's temperature settings for optimal performance. An ENERGY STAR certified smart thermostat can reduce your heating and cooling bill by more than 8% and save you about $50 a year, on average. If your home is unoccupied much of the day, an ENERGY STAR certified smart thermostat can save approximately $100 a year. Electronics Consumer electronics play an large role in your home's energy consumption. According to the Consumer Technology Association, 3.4 billion consumer electronic devices consumed about 143 TWh of electricity in 2017, representing about 10% of residential sector electricity consumption. A home equipped with televisions, set-top boxes, a Blu-Ray player and a soundbar that have earned the ENERGY STAR can save about $130 over the life of those products. Use a power strip as a central \"turn off\" point when you are done using equipment. Even when turned off, electronic and IT equipment can use a small amount of electricity. Using a power strip for your computer and all peripheral equipment allows you to completely disconnect the power supply from the power source, eliminating standby power consumption. Air Registers/Vents Make sure all air registers are clear of furniture so that air can circulate freely. If your home has radiators, place heat-resistant reflectors between radiators and walls. In the winter, this will help heat the room instead of the wall. Water Savings Shower/Bath A ten minute shower can use less water than a full bath. With a new 2.5 gallon-per-minute (low-flow) shower head, a 10-minute shower will use about 25 gallons of water, saving you five gallons of water over a typical bath. A new showerhead also will save energy \u2014 up to $145 each year on electricity \u2014 beating out both the bath and an old-fashioned showerhead. To avoid moisture problems, control humidity in your bathroom by running your ventilating fan during and 15 minutes after showers and baths. Dishwashing Save water by scraping dishes instead of rinsing them before loading in the dishwasher. Run your dishwasher with a full load and use the air-dry option if available. Rinsing dirty dishes before loading your dishwasher uses a lot of water and energy. Most dishwashers today can thoroughly clean dishes that have had food scraped, rather than rinsed, off \u2014 the wash cycle and detergent take care of the rest. To make the most efficient use of your dishwasher's energy and water consumption, run the dishwasher only when enough dirty dishes have accumulated for a full load. Clothes Washing Wash your laundry with cold water whenever possible. To save water, try to wash full loads or, if you must wash a partial load, reduce the level of water appropriately. Hot water heating accounts for about 90 percent of the energy your machine uses to wash clothes \u2014 only 10 percent goes to electricity used by the washer motor. Depending on the clothes and local water quality (hardness), many homeowners can effectively do laundry exclusively with cold water, using cold water laundry detergents. Washing full loads can save you more than 3,400 gallons of water each year. Clothes Drying Don't over dry your clothes. If your dryer has a moisture sensor that will automatically turn the machine off when clothes are done, use it to avoid over drying. Remember to clean the lint trap before every load. Dry full loads, or reduce drying time for partial loads. It's easy to over dry your clothes, if one setting is used for various fabric types. Try to dry loads made up of similar fabrics, so the entire load dries just as the cycle ends. Many dryers come with energy-saving moisture or humidity sensors that shut off the heat when the clothes are dry. If you don't have this feature, try to match the cycle length to the size and weight of the load. A dryer operating an extra 15 minutes per load can cost you up to $34, every year. The lint trap is an important energy saver. Dryers work by moving heated air through wet clothes, evaporating and then venting water vapor outside. If the dryer cannot provide enough heat, or move air sufficiently through the clothes, they will take longer to dry, and may not dry at all. One of the easiest things you can do to increase drying efficiency is to clean the lint trap before each and every load. This step also can save you up to $34 each year.",
+      "headings": []
+    },
+    {
+      "rank": 13,
+      "domain": "electricityplans.com",
+      "url": "https://electricityplans.com/7-ways-reduce-apartment-electric-bill/",
+      "title": "How to Lower Your Electricity Bill in Your Apartment - ElectricityPlans",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://electricityplans.com/wp-content/uploads/2018/07/apartment-electric-bill.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 14,
+      "domain": "apartmentguide.com",
+      "url": "https://www.apartmentguide.com/blog/way-to-reduce-electric-bill/",
+      "title": "20 Tips on How to Lower Your Electric Bill in an Apartment",
+      "word_count": 138,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.apartmentguide.com/blog/wp-content/uploads/2025/02/shutterstock_2371621871-scaled.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.apartmentguide.com/blog/wp-content/uploads/2023/07/declutter_sarah-brown-oa7pqZmmhuA-unsplash__281_29-768x333.jpg",
+          "alt": "how to declutter your home, room by room",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.apartmentguide.com/blog/wp-content/uploads/2024/03/chewy-KIqJfzbII9w-unsplash-768x512.jpg",
+          "alt": "Dog laying in their bed besides houseplants",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.apartmentguide.com/blog/wp-content/uploads/2024/08/shutterstock_1767105518-768x512.jpg",
+          "alt": "paying termination fees for moving out apartment early",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.apartmentguide.com/blog/wp-content/uploads/2024/12/FeaturedPhoto-Scaled-768x329.jpg",
+          "alt": "Take care of yourself by creating a sleep sanctuary.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.apartmentguide.com/blog/wp-content/uploads/2025/01/shutterstock_1613722165-768x512.jpg",
+          "alt": "what to look for in a walkthrough",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.apartmentguide.com/blog/wp-content/uploads/2024/07/Featured-Photo-1-768x332.jpg",
+          "alt": "Growing herbs indoors is a great way to have control over your food.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.apartmentguide.com/blog/wp-content/uploads/2020/11/apartmenthunting_hero_shutterstock_626698784__281_29-768x333.jpg",
+          "alt": "apartment hunting checklist",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.apartmentguide.com/blog/wp-content/uploads/2019/03/moving-min-768x447.jpg",
+          "alt": "family moving",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "How to Declutter Your Home Fast: Tips From Our Experts The Ultimate Home Reset: 20 Ways to Boost Happiness This Spring How Much Does it Cost to Break A Lease? How to Curate a Sleep Sanctuary: Sleep Experts Reveal Their Secrets Apartment Walkthrough Checklist: Don\u2019t Move In Without Checking These Things 9 Beginner Tips for Growing Herbs Indoors: Experts Share Their Ideas How to Declutter Your Home Fast: Tips From Our Experts The Ultimate Home Reset: 20 Ways to Boost Happiness This Spring How Much Does it Cost to Break A Lease? How to Curate a Sleep Sanctuary: Sleep Experts Reveal Their Secrets Apartment Walkthrough Checklist: Don\u2019t Move In Without Checking These Things 9 Beginner Tips for Growing Herbs Indoors: Experts Share Their Ideas The Ultimate Apartment Hunting Checklist 18 Essential Spring Moving Tips For a Stress-Free Transition",
+      "headings": []
+    },
+    {
+      "rank": 15,
+      "domain": "homeisstonebridge.com",
+      "url": "https://www.homeisstonebridge.com/blog/how-to-lower-the-electric-bill-at-your-indianapolis-apartment",
+      "title": "How To Lower The Electric Bill At Your Indianapolis Apartment",
+      "word_count": 528,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.homeisstonebridge.com/img/corporate/images/wheelhousebanner.jpg?t=1740432493",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.homeisstonebridge.com/corporate/uploads/wheelhousebanner.jpg",
+          "alt": "View of living room and kitchen in open-concept apartment",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.homeisstonebridge.com/corporate/uploads/eastbanklivingroomfurnished.jpg",
+          "alt": "Modern style living room at East Bank",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.homeisstonebridge.com/corporate/uploads/block20kitchenstainlesssteelappliances.jpg",
+          "alt": "Stainless steel appliances in kitchen of Indianapolis apartment",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.homeisstonebridge.com/corporate/uploads/theedgekitchen25.jpg",
+          "alt": "Kitchen island with seating and overhead lights at an upscale apartment",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "Are you experiencing the assault of rising energy bills and looking for a solution? An alarming fee for electrical services can be discouraging, especially when you\u2019re already paying for things like housing, student loans, and vehicle payments. Thankfully, there are many things you can do to save money. Learn how to lower the electric bill at your Indianapolis apartment with our straightforward energy-smart recommendations. Start With Your HVAC Equipment Do you like having your spacious interior at a chilly 68 degrees in the summer or a balmy 75 during wintertime? Changing how you use your heating and cooling systems can impact your pocketbook over time. Lower your temperature a couple of degrees in the depths of winter and increase it a bit during the dog days. If your community approves, you can switch to a smart thermostat to to manage your HVAC equipment and curb bills even more. How Do You Run Your Appliances? Appliances are another considerable draw on electricity, but you can implement some simple changes to reduce their use. Tweak your refrigerator to a warmer temp and lower your water heater temperature by one or two degrees. In all probability your food will remain cooled and fresh, and your showers will still be plenty warm. Additionally, ensure you\u2019re only operating your dishwasher and washing machine when they are full. If you have electrical devices or appliances that aren\u2019t in use, unplug them! More Ideas For Cutting Your Indianapolis Electric Bill After considering your appliance and HVAC settings, evaluate these additional ideas for reducing your electric bill: Change to LED bulbs that use much less energy and burn longer than regular incandescent lights. Consider getting a smart power strip that cuts power to devices when they\u2019re not in use. This device allows you to prevent \u201cphantom\u201d energy drain. Use task lights rather than keeping overhead lights on continually. Power off lights before you depart to use the fitness center or other amenities. You can also think about setting timers to make sure lights aren\u2019t constantly illuminated. Use overhead fans and windows to ease the burden on your A/C and furnace. Fans use substantially less electricity than your cooling and heating equipment. Switch your furnace filter every 2-3 months (or have your maintenance team do so). This simple maintenance detail will reduce the strain on your system, allowing it to function more efficiently. Shut window treatments during hot summer days to reduce heat gain. On the other hand, sunlight through your window will help warm your apartment in the winter. Whenever you use appliances and HVAC tools wisely and integrate these other suggestions, you can lower your energy costs. In addition to trimming your electric bill, you\u2019ll be doing your share to help protect our environment. Implement These Energy-ConservingEnergy-Smart Recommendations At Your New Indianapolis Apartment Now that you\u2019re ready with a plan to keep your electric bill within reason, you need to find somewhere to live! StoneBridge Luxury Apartment Homes is thrilled to show you our wonderful Indianapolis community. You\u2019ll appreciate our location, the roomy floor plans, and the numerous amenities we offer. Schedule a tour or find out more by placing a call to 317-743-2959 today.",
+      "headings": []
+    },
+    {
+      "rank": 16,
+      "domain": "streeteasy.com",
+      "url": "https://streeteasy.com/blog/summer-energy-saving-tips-for-your-nyc-apartment-to-keep-your-electricity-bill-low/",
+      "title": "Energy-Saving Tips To Keep Your Electricity Bill Low | StreetEasy",
+      "word_count": 1470,
+      "scrape_status": "tavily_fallback",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": "main navigation NYC Apartments NYC Apartments Buyer Tips and Advice # Summer Energy-Saving Tips for Your NYC Apartment to Keep Your Electricity Bill Low By Isabel Galupo July 20, 2023 Record-breaking heat waves have dominated the news cycle this summer. In addition to serious climate implications, the intense heat poses a threat to many of our wallets as we inevitably increase our electricity use to cool off. The good news? We can take action to keep the temperature of our homes low \u2014 and our bills even lower. Read on for several summer energy-saving tips that put money back in your bank account. Table of Contents ## 10 Energy-Saving Tips for Your NYC Home ### Check Your Air Conditioning Unit ASAP First things first when trying to keep your electricity bill low in the summertime: Know what you\u2019re working with. We suggest an inspection of your A/C unit to make sure that all of its parts are running efficiently. Things like clogged filters and dirty coils can affect the air conditioner\u2019s ability to absorb heat. Doing your due diligence to replace these parts may significantly lower your A/C\u2019s energy consumption by upwards of 15%, which in turn can translate to a slashed electricity bill. And if you\u2019ve had the same window unit for decades, it might be time for an upgrade. ### Choose Fans Over A/C If you\u2019re really serious about cutting energy costs this summer, you might consider divesting from your air conditioner \u2014 or at least using it in moderation. Standing, ceiling, and desk/tabletop fans can provide great alternatives for cooling off for a fraction of the cost. According to USA Today, fans use only approximately 1% of the electricity used to power an air conditioning unit. While you admittedly might feel the difference in the air (fans only cool your skin, not the entire room), you\u2019ll feel this switch most in your decreased electric bill. ### Unplug Your Devices You\u2019ve probably heard this piece of advice time and time again. You\u2019ve maybe even shrugged it off. After all, how much of a difference can unplugging unused devices really make? Turns out, idle electronics continue to draw costly phantom loads of energy even when not actively in use. So while it might be tempting to ignore this seemingly small action, it can end up costing you over time. If remembering to unplug everything feels like an insurmountable chore, you can also purchase smart power strips that can detect when your electronics are in standby mode and power off accordingly. NYC Homes Under $1M on StreetEasy Article continues below Yorkville 325 East 79th Street $900,000 3 | 2 Central Park South 150 Central Park South $950,000 1 | 1 Lenox Hill 520 East 72nd Street $700,000 1 | 1 Murray Hill 200 East 36th Street $417,000 Studio | 1 Saint George 10 Bay Street Landing $829,000 2 | 1.5 Astoria 24-51 38th Street $650,000 2 | 1 Paulus Hook 77 Hudson Street $875,000 1 | 1 Sutton Place 225 East 57th Street $749,000 1 | 1 Jackson Heights 35-34 84th Street $549,000 2 | 1 The Heights 194 Hopkins Avenue $729,000 3 | 2.5 The Heights 86 Waverly Street $729,000 5 | 2 Beekman 2 Beekman Place $825,000 1 | 1 ### Turn Off Your Lights An easy way to minimize electricity costs is to get in the habit of turning off a light switch whenever you leave a room. Better yet, try to go as long as possible throughout your day without turning on any lights at all. You\u2019d be surprised how quickly your eyes can adjust to natural light in heavily windowed spaces. ### Think Twice About Washing If you\u2019re someone who routinely runs a half-empty dishwasher or presses \u201cstart\u201d on a load of laundry consisting of a pair of socks and two shirts (assuming you\u2019re fortunate enough to have in-unit laundry in NYC), you might want to re-examine your habits this summer. Strategic washing can decrease the amount of times you run your energy-sucking appliances, thereby significantly lowering your electric bill. Here\u2019s a handy guide for which items of clothes you can safely re-wear a few times \u2014 and which ones you must always wash after one use. As for dishes, it\u2019s a pretty safe bet to reuse your water glass a few times before throwing it in the dishwasher. And don\u2019t forget to play a fun game of dish tetris to make sure you\u2019re maximizing the space in your dish rack. ### Switch Your Bulbs to LED One of the easiest summer energy-saving tips to keep your electricity bill low?Switch your lightbulbs. LED lighting uses at least 75% less energy than more traditional incandescent lighting. Head over to your local hardware store and install these low-cost, high-savings bulbs around your home today. ### Keep Your Blinds Closed A sure-fire way to save on your electricity bill is to stop heat from accumulating in your living spaces before you even have to contemplate turning on your air conditioning unit. Keeping your blinds and/or curtains closed can help keep the indoor temperature of your home down. You can also invest in specific types of materials \u2014 such as blackout or thermal insulated curtains \u2014 to help block the heat from your windows. NYC Rentals Under $3,000 On StreetEasy Article continues below Ridgewood 59-23 Woodbine Street $2,995 base rent 3 | 1 Flatbush 1365 Nostrand Avenue $2,404 base rent Studio | 1 Rego Park 62-64 Saunders Street $2,250 base rent 1 | 1 Flatbush 1365 Nostrand Avenue $2,958 base rent 2 | 1 Flatbush 1365 Nostrand Avenue $2,958 base rent 2 | 1 Brownsville 255 Grafton Street $2,830 base rent 2 | 1 Flatbush 1365 Nostrand Avenue $2,404 base rent Studio | 1 Hudson Heights 4469 Broadway $2,450 base rent Studio | 1 Ridgewood 586 Onderdonk Avenue $2,750 base rent 1 | 1 Washington Heights 514 West 170th Street $2,275 base rent 1 | 1 Ridgewood 1815 Putnam Avenue $2,649 base rent 1 | 1 Crown Heights 641 Saint Mark\u2019s Avenue $2,769 base rent 2 | 1 ### Add Some Plants Want cost-efficient cooling that doubles as decor? Strategically adding plants to your home not only helps to block oppressive sunlight and naturally keep the temperature of your place down, but also helps you achieve Instagram-worthy spaces. We especially love monsteras, fiddle leaf trees, dracaenas and large palms for their sizable, light-blocking leaves. As an added bonus, many indoor plants can help eliminate toxic airborne chemicals such as formaldehyde and benzene, and replace them with fresh oxygen. This means that you can ditch expensive, energy-guzzling air purifier units. Snake plants, rubber trees, calathea pinstripes and many different types of ivies are particularly great for both obstructing hot light rays and producing fresh, clean indoor air. ### Be Mindful of Peak Hours Listen, we get it: Most of the time, there\u2019s no way to avoid using electronics entirely during the hot months of summer. But there is a way to organize your day around your electronic use to avoid extra costs. A lot of electric companies charge more money for energy used during \u201cpeak\u201d hours. Usually these hours correspond with the hottest part of the day, but be sure to check with your area\u2019s electric company to identify your most expensive timeframe. Then, challenge yourself to only use electronics during \u201coff\u201d hours. Every bit of savings counts! ### Spend More Time Outside The ultimate summer energy-saving tip to keep your electricity bill low is to simply spend time outside of your home. After all, you can\u2019t rack up electricity charges from afar! So unplug your laptop, turn off your A/C unit and lights, pack a fun lunch and keep cool in one of the countless public spaces available to New Yorkers. Check out these refreshing neighborhood pools, snag a shady spot in one of these awesome and underrated NYC parks, browse the stacks in your local library for an afternoon, or head to the beach for the day! You\u2019ll enjoy yourself even more knowing that you\u2019re saving money while you relax. # MORE FROM STREETEASY Everything to know about buying your first home in NYC Should You Rent or Buy a Home in NYC? Working With a Buyer's Agent: Resource Hub for Buyers Quiz: Which NYC Borough Should You Live In? How to find a rent-stabilized apartment in NYC * # Find your Next Home * ## Follow Streeteasy # Keep Reading in Buying and Selling Using StreetEasy # Keep your home search organized with StreetEasy InboxSM By StreetEasy Team \u00b7 March 25, 2026 Buyer Tips and Advice # Buying a co-op in NYC: A guide for first-time buyers By Deirdre Sullivan \u00b7 March 11, 2026 Buyer Tips and Advice # Co-op vs. condo: The ultimate explainer for NYC buyers Buying Your First Home in NYC March 3, 2026",
+      "headings": []
+    },
+    {
+      "rank": 17,
+      "domain": "bearpropertymanagement.com",
+      "url": "https://www.bearpropertymanagement.com/tips-to-reduce-electric-bill-apartment",
+      "title": "Smart Ways to Slash Your Apartment's Electricity Bill",
+      "word_count": 752,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://lirp.cdn-website.com/c9ae98d0/dms3rep/multi/opt/how-to-lower-electric-bill-in-apartment-bpm-blog-banner-1920w.png",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://lirp.cdn-website.com/c9ae98d0/dms3rep/multi/opt/BPM+Blog+Banner+%283%29-1920w.png",
+          "alt": "BPM Lakefront Apartments in WI - banner",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://lirp.cdn-website.com/c9ae98d0/dms3rep/multi/opt/relocating-to-kenosha-county-wi-1920w.png",
+          "alt": "Relocating to Kenosha County, WI Blog Banner",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://lirp.cdn-website.com/c9ae98d0/dms3rep/multi/opt/BPM+-+Apartment+with+a+pool-1920w.png",
+          "alt": "Bear Property Management has apartment complexes with pools in Wisconsin",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://lirp.cdn-website.com/c9ae98d0/dms3rep/multi/opt/apartment-security-deposits-101-1920w.png",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://lirp.cdn-website.com/c9ae98d0/dms3rep/multi/opt/how-to-budget-for-your-first-apartment-guide-blog-banner-1920w.png",
+          "alt": "How to Budget for Your First Apartment Blog Banner",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://lirp.cdn-website.com/c9ae98d0/dms3rep/multi/opt/affordable-senior-housing-kenosha-county-824e073d-1920w.png",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "Reducing your electricity bill is not only beneficial for your wallet but also for the environment. Living in an apartment comes with unique opportunities to implement energy-saving strategies that can lead to significant reductions in your monthly bills. This guide offers general tips applicable year-round and additional seasonal strategies to optimize your energy usage. You can thank me later! \ud83d\ude09 Year-Round Energy-Saving Tips Before diving into seasonal advice, here are some everyday actions you can take to start saving now: Lighting : Switch to LED bulbs which use at least 75% less energy and last 25 times longer than traditional incandescent bulbs. Appliances : Most rentals use energy-efficient appliances and run dishwashers and laundry machines during off-peak hours to save on utility costs. Be sure to ask about this when you\u2019re touring a new apartment ! Home Office : Whether you WFH or have an elite gaming setup, it\u2019s vital to equip your workspace with smart power strips! Make sure you utilize energy-saving modes on electronics to reduce phantom energy loss. Windows : Utilize your curtains and blinds effectively to control temperature; open them to let sunlight warm your home naturally during the day and close them at night to keep the heat in. Spring Savings Strategies Spring's mild weather is perfect for setting up efficient and energy-saving habits: Natural Ventilation : Take advantage of the breezy spring weather, and open windows to cool your apartment naturally, reducing the need for turning on the air conditioning early in the season. Appliance Use : Electricity rates can vary depending on the time of day due to the demand put on the grid. So using appliances during off-peak hours, like early morning and late at night can reduce your energy bill! You can also consider air-drying clothes and dishes to save even more money. \ufeff Summer Energy-Saving Techniques Combat the summer heat without causing a spike in your energy bill: Cooling : If your household can stand it, keep your air conditioning at an economical 74-78 degrees when home, and higher when away unless you\u2019re in a pet-friendly rental \u2013 fido needs to be cool too! You can utilize ceiling and box fans to also aid in cooling. Window Treatments : If you\u2019re willing to spend some money, you can invest in blackout curtains or reflective films to reflect heat away and keep your space cooler. But always remember to clear additions with your landlord or property manager before applying. These items are crucial to keeping your apartment cool in the warm summer months! \ufeff List of Services Looking to Lower Your Rent Bill too? Here at Bear Property Management, we recognize the growing need for affordable housing and offer income-restricted apartments throughout Wisconsin. Learn more about our affordable units! See if You Qualify! List Item 1 Fall Focus on Efficiency Get ready for the colder months, (especially in the Midwest!) while you\u2019re still enjoying the crisp fall air: Heating Preparations : Reach out to your landlord or property manager to ensure that your heating system has been serviced, all filters have been replaced, and it\u2019s ready to take on the chilly season. Light Adjustments : Prepare for shorter days by double-checking that the lighting in your home is efficient and possibly consider sensor-activated floor lights for early evenings. Winter Ways to Reduce Bills Keep warm during winter without overspending on heating: Insulation : Use window insulation kits and thermal curtains to keep warm air inside your rentals this winter. Also, consider adding throw rugs on any hard flooring to help hold in heat! Mindful Heating : To prevent spending too much on heating, lower your thermostat a few degrees, especially when you're asleep or out of the house, to significantly reduce your heating costs. But remember to think about your pets as well! Are you still looking for more winter heating tips? Don\u2019t worry! We\u2019ve curated an in-depth guide to keep your apartment warm and cozy this winter ! \ufeff Implementing these general and seasonal energy-saving tips will help you enjoy a comfortable apartment while managing your electricity costs effectively. Each small change accumulates to noticeable savings and contributes to a greener planet. Discover Apartments and Lofts for Rent near Lake Michigan Relocating to Kenosha County, Wisconsin: A Guide to Your New Home Discover The Best Apartments with Pools to Beat the Summer Heat < Older Post Share this post Security Deposits 101: What Renters Should Know Budgeting for Your First Apartment: Costs, Savings & Tips Income-Restricted Senior Apartments in Kenosha County, WI",
+      "headings": []
+    }
+  ],
+  "battle_plan_generated_at": "2026-04-26T10:45:25.075965+00:00",
+  "competitors_analyzed_count": 7,
+  "battle_plan_method": "local_deterministic_agent_no_api"
+}

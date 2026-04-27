@@ -1,0 +1,584 @@
+{
+  "article_context": {
+    "angle": "Manual tracking vs. app-based budgeting for spending awareness and leak identification",
+    "pain_points": [
+      "Tracking spending but not understanding budget leaks",
+      "Moving goalpost for savings satisfaction (feeling it's never enough)",
+      "Paralyzing anxiety over using saved funds (fear of touching savings)",
+      "Fear of returning to debt or financial insecurity after progress",
+      "Compulsive attachment to saving balance described as addiction or hoarding"
+    ],
+    "top_social_questions": [
+      "Why am I still broke despite tracking my spending?",
+      "Does saving money make you more worried and less satisfied?",
+      "What are sinking funds?"
+    ],
+    "dominant_emotion": "Anxiety about financial security",
+    "serp_intent": "Searchers for \"how to save money on utilities\" want actionable, practical advice on reducing household bills for electricity, water, gas, heating, and similar services through conservation, efficiency upgrades, and smart habits. The SERP intent is informational, featuring blog posts, guides, and tip lists focused on energy-saving techniques and cost-cutting strategies for everyday utility expenses.",
+    "serp_title_pool": {
+      "primary": [
+        "Any tips for saving money on utilities? : r/Frugal - Reddit",
+        "5 Effective Tips For Lowering Your Utility Bills",
+        "How to Lower Your Energy Bills in Any Season",
+        "12 Ways to Save on Electric Bills - Wawanesa U.S.",
+        "7 ways to lower your gas and energy bill - Fidelity Investments",
+        "What's the most creative way to save on utility costs? - Quora",
+        "How to Lower Your Bills: 45 Ways to Save - NerdWallet",
+        "Ways to save on the energy bill - YouTube",
+        "The Top 13 Ways To Save Money On Your Utility Bills - AARP",
+        "Reducing Electricity Use and Costs",
+        "Lowering Your Utility Bills This Winter Is Easy With These 8 ...",
+        "8 easy ways to save money on your utility bills",
+        "6 Ways to Instantly SAVE MONEY on Utility Bills!",
+        "How To Save on Utility Bills: Energy Tips for Your Home",
+        "19 Super-Smart Tips on How to Save Money on Utilities",
+        "What You Need To Know To Hold Down Home Utility Costs",
+        "22 Tips: How to Save Money on Utilities",
+        "12 Ways to Save Energy and Money",
+        "How To Save Money on Utilities"
+      ],
+      "long_tail": [
+        "What Are Ways To Save Money Around The House That ... - Reddit",
+        "60 Smart Life Hacks to Save Money Every Day",
+        "34 Small Ideas to Save Big Money - Mountain America Credit Union",
+        "13 Genius Ways to Save Money at Home | Frugal Living - YouTube",
+        "Energy Saver Guide: Tips on Saving Money and Energy at Home",
+        "Saving Money at Home: 15 Money Saving Tips to Cut Costs",
+        "How To Save Money For A House: Tips to Start Saving Quickly & Easily",
+        "14 Ways to Save More Money in 2025 | Quicken",
+        "20 Brilliant & Easy Ways to Save Money | North Country Savings Bank"
+      ],
+      "question": [
+        "Save and Invest | MyMoney.gov",
+        "7 Places to Save Your Money Based on Your Goals - Experian",
+        "Trying to figure out where to actually SAVE my money - Reddit",
+        "8 Types Of Savings Accounts: Where To Save Your Money | Bankrate",
+        "6 Best Places To Save Money And Earn Interest \u2013 Forbes Advisor",
+        "The Best Places to Save Money and Earn Interest - NerdWallet",
+        "54 Ways to Save Money | America Saves",
+        "10 ways to start saving money - Vanguard",
+        "7 Places Your Money Needs To Go (Save Money Fast) - YouTube",
+        "7 places to save your extra money - Yahoo Finance"
+      ]
+    },
+    "paa_questions": [
+      {
+        "q": "What is the cheapest way to pay utility bills?",
+        "a": "Paying by direct debit is the most common and often the most affordable way to pay for your energy. Your supplier automatically collects money from your bank account each month or every three months."
+      },
+      {
+        "q": "How to cut your bills by $800 a month or more?",
+        "a": "CUT YOUR BILLS BY MORE THAN $800 A MONTH"
+      },
+      {
+        "q": "What runs your water bill up the most?",
+        "a": "SOME COMMON CAUSES OF HIGH WATER BILLS INCLUDE:"
+      }
+    ],
+    "related_searches": [
+      "How to save money on utilities reddit",
+      "How to save money on utilities in an apartment",
+      "How to save money on electric bill thermostat",
+      "How to save money on heating bill during winter",
+      "Tips for saving money for transportation",
+      "Cut electric bill by 75 percent",
+      "How to save money on water bill",
+      "How to lower electric bill in summer"
+    ]
+  },
+  "primary_keyword": "how to save money on utilities",
+  "competitors": [
+    {
+      "rank": 1,
+      "domain": "reddit.com",
+      "url": "https://www.reddit.com/r/Frugal/comments/17s69gu/any_tips_for_saving_money_on_utilities/",
+      "title": "Any tips for saving money on utilities? : r/Frugal - Reddit",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 2,
+      "domain": "incharge.org",
+      "url": "https://www.incharge.org/financial-literacy/budgeting-saving/how-to-save-money-on-electric-gas-water-bill/",
+      "title": "5 Effective Tips For Lowering Your Utility Bills",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.incharge.org/wp-content/uploads/2015/06/Save-Money-Energy.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://secure.gravatar.com/avatar/d4a5084eed5905347e979073cfff5135d2b1868f160c8f3cc8a28b71264ed1f4?s=150&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 3,
+      "domain": "nrdc.org",
+      "url": "https://www.nrdc.org/stories/how-save-your-energy-bills",
+      "title": "How to Lower Your Energy Bills in Any Season",
+      "word_count": 0,
+      "scrape_status": "failed",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 4,
+      "domain": "wawanesa.com",
+      "url": "https://www.wawanesa.com/us/blog/6-ways-to-save-on-electric-bills",
+      "title": "12 Ways to Save on Electric Bills - Wawanesa U.S.",
+      "word_count": 2434,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "http://www.wawanesa.com/dA/01e9feb2de/iStock-1454098804.jpg",
+        "alt": "Woman turning off lights after looking at electricity bill",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [],
+      "body_text": "When you\u2019re looking for ways to save money, lowering your bills should be a top priority. Some bills are easy to lower, such as that premium cable subscription you never use. Others might seem impossible to cut down. If you\u2019re like a lot of people, you\u2019d love to lower your electric bill, but you\u2019re not sure where to start. The good news is that lowering the electric bill starts with a lot of little changes you can make to help cut energy costs. Start by trying these 12 simple tips to reduce your electric bill. 1. Program Your Heating and Cooling Homeowners have a lot of fancy smart-home devices to choose from today, and they can get pretty expensive. Luckily, you don\u2019t need to spend a fortune to add a few smart elements that can help you lower your power bills. Start with a programmable thermostat. You can opt for a top-of-the-line smart thermostat or a simple programmable one. Some smart thermostats allow you to change your home\u2019s temperature from your remotely from your smartphone. Even a simple programmable thermostat lets you set the temperature in your home for specific times of the day. Programming your heating and cooling saves you money on electricity by maximizing efficiency when you need it most. In the summer, you could set the thermostat to start running the air conditioning about an hour before you get home from work in the evening. You\u2019ll come home to a cool house without wasting money cooling the house when no one\u2019s home. 2. Unplug Appliances When Not in Use It\u2019s not always easy to tell if an appliance or gadget is using electricity when it\u2019s turned off, but a lot of them do. Even if you hit the \u201coff\u201d button, leaving an appliance plugged in could be costing you money. You can cut this unnecessary expense by unplugging appliances when you\u2019re done with them. After making breakfast, unplug the toaster so it doesn\u2019t sap energy till the next morning. You can do the same with almost any appliance or tool in your home \u2014 from gaming consoles and televisions to coffee makers and microwaves. Unplugging all of your appliances after each use might seem inconvenient. Once you\u2019re in the habit, however, you\u2019ll enjoy a lower electric bill while also reducing your chance of overloading an outlet and causing a home fire . 3. Choose the Best Times to Use Electricity Did you know that California utility companies and many across the country charge variable rates for electricity? They charge more at times when many customers use electricity, and less when demand drops. These periods of high and low energy demand are referred to as peak and off-peak hours. Pricing according to fluctuating demand is known as the company\u2019s Time-of-Use (TOU) rate plan. Running your dishwasher or washing clothes during off-peak hours when electricity is cheaper is a great way to lower your electric bill. (Smart appliances that let you program their start time are so handy for taking advantage of off-peak energy savings.) But when is electricity cheapest to use? Peak hours are generally late afternoon to early evening, while off-peak hours are typically overnight and early morning. Check with your utility company for their time-of-use electricity plan tips and the timing necessary to maximize your off-peak energy savings. 4. Wash Your Clothes in Cold Water Traditional clothes-washing wisdom might tell you to use hot water to get your clothes clean. That\u2019s because laundry detergents of the past needed the heat from hot water to activate. Most modern detergents, however, can work just as well in cold water. This is good news for your wallet since heating the water for a load of laundry uses a lot of energy. By washing clothes in cold water, you\u2019re reducing the amount of electricity you need. As a bonus, you\u2019ll also get more use out of your clothes. Cold water is generally less harsh on your clothing than hot water. Hot water can cause fibers to break down and lead to shrinking, running dyes, or faded colors. Make your laundry even more energy-efficient by skipping a cycle in the hot dryer. You can line-dry your clothes for similar benefits \u2014 you\u2019ll save money on energy costs, and your clothes won\u2019t be exposed to extreme heat. 5. Wear the Right Clothing It may sound silly, but wearing the right clothes indoors can help reduce your heating and cooling costs, ultimately lowering your electric bill. In the winter, you might be tempted to crank the heater and start a cozy fire in the fireplace. After a while, you realize you\u2019re warm. Instead of turning down the heat or putting out the fire, you remove layers of clothing to beat the heat. In the summer, you could end up doing the opposite. You run the air conditioner so the house is cold, then pull on a sweatshirt or long pants because you\u2019re chilly. Most of the time, you probably don\u2019t realize you\u2019re changing to match your current comfort level. The next time you reach for an extra layer or change into summer clothes in the winter, try adjusting your home\u2019s thermostat instead. 6. Use Low-Energy Strategies to Stay Comfortable Indoors Did you know that heating and cooling your home accounts for about half of your electricity consumption? Never fear \u2014 learning how to lower your electric bill doesn\u2019t have to leave you shivering or sweating. You can save electricity without being cold. You can even lower the electricity bill without turning off the A/C or sacrificing comfort with a few low-energy strategies: Layer up before adjusting the thermostat \u2014 start with cozy socks, long sleeves, or hoodies. Wear thermal or silk base layers in winter for maximum warmth and minimum bulk. Use heated throws before turning up the heat. Swap heavy clothes for light , breathable fabrics in summer. Use fans to circulate air and cool individual rooms. Set ceiling fans to rotate clockwise in winter to push warm air down and counterclockwise in summer for better cooling. curtains or blinds during hot afternoons to block heat from entering. Open windows at night when it's cooler, then close them during the day. Install blackout curtains to reduce heat transfer year-round. Apply energy-efficient window film to help insulate your windows. Use a space heater to warm only the room you\u2019re using. Cook with smaller appliances (such as toaster ovens or Instant Pots) to avoid heating the entire house. These tips to lower your electric bill ensure energy savings without discomfort. 7. Maintain Your HVAC System Your heating and cooling system has to work hard to give you an ideal indoor temperature, especially if the outdoor temperature is extreme. The best way to keep your HVAC system from running up your electric bill is to practice proper maintenance . The easiest step is to replace your air filter regularly. The air filter works to keep debris, dust, and allergens out of the air in your home. As the particles collect in the filter, the system has to work harder to move air through. Check your air filter regularly. If it\u2019s dirty and dusty, it\u2019s time to replace it. You should also consider hiring a professional HVAC technician to service your system each year. A professional will have the tools and knowledge to alert you if there are any issues and clean your system so it\u2019s running properly. 8. Keep Your Appliances in Good Condition A dirty appliance in need of repairs often costs a lot more to run than a clean one. Reduce your energy costs by keeping your appliances in good repair. If you notice an appliance isn\u2019t running as efficiently, such as a dryer not drying clothes, clean out dust, dirt, and buildup, or contact a repair company. When your appliance gets beyond repair, you might want to think about replacing it with a newer, more efficient model. Many modern appliances are designed to reduce energy costs and may even come with a rebate from your local power company. 9. Change Your Light Bulbs If you\u2019re still using incandescent light bulbs, it\u2019s time for an upgrade . Replacing traditional incandescent bulbs with compact fluorescent light bulbs (CFLs) or light-emitting diodes (LEDs) is one of the quickest and easiest ways to save money and conserve energy. CFLs last up to 10 times longer and use 75 percent less energy than the old bulb type. Both CFLs and LEDs outperform incandescent bulbs, but the newer generations of LEDs have even surpassed the quality and efficiency of CFLs. Incandescent bulbs are less expensive to buy, but over 20 years, they will cost you around four times more in purchase cost and energy usage \u2013 over $200 compared to $50 for the longer-lasting and more energy-efficient LEDs. 10. Focus on Your Fridge and Freezer At the right temperature, your fridge will keep food cold and safe to eat for weeks by slowing the growth of bacteria. Your freezer can prevent bacterial growth for even longer. But what is the right temperature, and how do you know you\u2019re not wasting energy by keeping it colder than it needs to be? The FDA recommends setting your fridge to 40 degrees and your freezer between 0 and 5 degrees. So, use the top end of both ranges to save energy while keeping food safe. Another way to conserve energy is to keep your fridge and freezer running optimally by performing regular maintenance. Check the door seals \u2014 especially if you have an older model fridge \u2014 since a loose seal will leak cold air, making the fridge work harder to stay at the correct temperature. Another energy drain: dust buildup on the condenser coils. Twice a year, pull the refrigerator out from the wall and vacuum the coils found on the back. 11. Insulate Your Home According to energy.gov , a poorly insulated home can drive your energy bill up by 20 percent. In summer and winter, it takes a lot of energy to keep your home at a comfortable temperature. So, if your home isn\u2019t properly insulated, your HVAC appliances will need to work harder, which increases costs. To find the offending areas, start with a visual inspection of both the inside and the outside of your home. If you see gaps between doors and frames or around windows, you may need to fix them with weather stripping or caulking. Inspect your basement for cracks that could be letting air in or out, and fill them with expanding foam. If you experience chilly parts of your home where cold drafts blow in winter, chances are these same spots are letting out cool air in summer. Upgrading your home\u2019s insulation is an easy fix to lower the electric bill. 12. Shorten Your Showers While there are many ways to save energy by reducing or giving up certain behaviors, foregoing a regular shower is not an option for most. However, there are ways to conserve energy and water while remaining clean and odor-free. A typical shower can use up to 40 gallons of water. If you trim even two minutes off your shower time, you can reduce water consumption by five gallons each time you lather up. Replacing your old showerhead with an energy-efficient model will save you 2,700 gallons of water per year. And the less hot water you use, the more energy you conserve. Before we wrap up, it\u2019s worth taking the time to better understand how to read your electric bill so you can get a handle on where your money is going and how to lower your electric bill. Understanding Your Electric Bill: What Are You Really Paying For? Understanding how to read your electric bill is essential if you\u2019re serious about lowering your energy costs. It\u2019s also the first step in answering the common question, \u201cWhy is my electric bill so high?\u201d Even better, it can provide insights into how to lower your electric bill. Most electric bills include two main types of charges: Fixed charges : These are monthly fees that don\u2019t change regardless of how much energy you use. These base fees cover power grid maintenance, metering costs, and customer service. Usage-based charges : These fees are based on the amount of energy you used in the month, measured in kilowatt-hours (kWh). One kWh equals the electricity consumed when a one kilowatt (1,000 watts) device is run for one hour. Let\u2019s say you use 1,000 kWh in a single month. If the price were $0.15 per kWh, your usage-based fee would come to $150. If you\u2019re on a time-of-use (TOU) plan, the price you pay per kWh is higher during peak hours and lower during off-peak hours. The price per kWh is made up of two charges: Supply Charges : The cost of the electricity you actually use. Delivery Charges : The cost of delivering the electricity you use from the power plant to your home. Learning how to read your electric bill helps you to see how much electricity you use throughout the day, week, and month. You\u2019ll see what uses the most electricity at home and when. In most homes, heating and cooling account for about half of the energy used, with the water heater, refrigerator, and clothes dryer coming next. A smart plug or home energy monitor can help you do a simple DIY energy audit to identify which appliances draw the most power. This, in turn, can help you find ways to lower your electric bill. Did you know that many appliances and small devices draw electricity even when they\u2019re not in use? Items with internal clocks, LED displays, or remote control sensors, like the microwave, coffee pot, gaming console, printer, TV, and more, are considered \u201calways on\u201d and they continuously draw 0.5-30 watts even when \u201coff.\u201d Your energy audit will help you identify high-use devices that you might unplug when not in use or upgrade to a more energy-efficient model. Using power strips makes it easy to turn off several devices at once, perhaps saving $4 to $6 per month or $50 to $72 annually. Learning how to lower the electric bill can be easy if you follow these twelve steps. Remember to monitor your monthly statement to see the impact these cost-saving ideas can have on your electric bill . At the same time, you should feel good that you\u2019re doing your part for the environment by reducing energy usage. While you\u2019re looking to save money, why not contact a friendly Wawanesa agent to review your car insurance coverage? We may be able to save you money while ensuring you\u2019re fully protected.",
+      "headings": []
+    },
+    {
+      "rank": 5,
+      "domain": "fidelity.com",
+      "url": "https://www.fidelity.com/learning-center/smart-money/how-to-lower-utilities",
+      "title": "7 ways to lower your gas and energy bill - Fidelity Investments",
+      "word_count": 977,
+      "scrape_status": "tavily_fallback",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": "## Learn Great, you have saved this article to you My Learn Profile page. Clicking a link will open a new window. # 7 ways to lower your gas and energy bill ### Key takeaways Prices are on the rise in many areas. With tariffs and other policy-driven factors contributing to a mixed picture for consumers, you might be looking to cut costs in ways you have a little more control over. Read on for 7 easy tips for lowering your gas and electric bills. ### Request an energy audit Shrinking your energy bill can feel like an uphill battle\u2014who really knows whether their water heater, air conditioner, and other units are working harder than they should? That's why an energy audit can be a productive first step toward lowering your expenses. An inspector can examine your entire home for possible pitfalls, such as air leaks, insufficient insulation, and inefficient appliances, and suggest fixes for them. If you implement these in your own home\u2014or, if you're a renter, you suggest these upgrades to your landlord\u2014the changes could potentially save you 5% to 30% on your bills.1 That could amount to thousands of dollars over the years. Your energy provider may offer an energy audit for free or a discount. Or, you can try to do it on your own using the US Department of Energy's Do-it-yourself home energy assessments list as a guide. ### Unplug \"vampire\" appliances These household items suck up energy even when you're not using them. This can account for 5% to 10% of residential energy use and add somewhere between $150 and $200 a year to the average home's energy costs.2 So look around your home for anything that doesn't need to be plugged in all the time, such as cable/satellite boxes, coffee makers, and charging cables. Unplugging them\u2014or leaving them plugged into a power strip that you can switch off\u2014could put dollars back in your account every month. ### Use less hot water Water takes a lot of energy to heat. In fact, it accounts for about 19% of home energy use, on average.3 You don't have to take cold showers to save on hot water costs (but, hey, we won't stop you); just think about washing your clothes in cold water. Hotter water used to mean a cleaner wardrobe, but most detergents today are designed for water temperatures around 65 degrees, the average temp of cold water taps.4 And your washing machine works just fine with cool water. You could turn down the resting temperature of your water heater too. Most water heaters are preset at 140 degrees, 20 degrees above the Department of Energy's recommendation. ### Use a new dishwasher over washing dishes by hand Most dishwashers, unfortunately, haven't gotten the cold water memo. Still, that's no reason to switch to handwashing. Manually cleaning your dishes can use 27 gallons or more of hot water per day on average; a newer dishwasher uses only 5 gallons or less per cycle.5 (Older dishwashers use as much as 10 to 16 gallons per load.) All that excess hot water can translate to big energy bills. ### Don't run appliances unless they're full Sometimes you just need a couple of items cleaned quickly. But most dishwashers, washing machines, and dryers use the same amount of energy regardless of how full they are. Although having your own washer/dryer is cheaper than popping quarters into a laundromat machine, you should treat each home load as though you're paying for it individually. This can help discourage you from pressing start before the machine is full. ### Only heat or cool your home when you're there More than half of the average utility bill goes towards heating and cooling,6 so turning off the heat or AC (or at least adjusting it to a less-comfortable temp) while you're out can make a big impact. If you have a newer, programmable thermostat, schedule it to your preferred temperatures only when you're likely to be home. If you have an older HVAC system, adjust the thermostat when you leave and return. Less comfortable temperatures when you just get back will make for a more comfortable energy bill later. ### Change your air filters regularly Air conditioners and furnaces have filters that keep dirt and dust out of your home's airflow. Clogged filters not only make your house dustier but also make running your appliances more expensive. Change your air filters every 60 to 90 days so everything chugs along as efficiently as possible. You may not be able to use all of these ideas. Luckily, implementing just a couple of these tips could potentially save you hundreds every year. ## Saved some money? Now put it to work. Find ways to spend, save, and help grow your money for today and tomorrow. ## More to explore ### https://digital.fidelity.com/ftgw/digital/smart-habits/ Try the 52-week challengeLog In Required ### How to save money at the grocery store ## to *Fidelity Smart Money\u2120* ### Looking for more ideas and insights? ### Thanks for subscribing! ### We're on our way, but not quite there yet ### Oh, hello again! ### Thanks for subscribing to Looking for more ideas and insights? You might like these too: Looking for more ideas and insights? You might like these too: ### Looking for more ideas and insights? You might like these too: ### *Fidelity Viewpoints\u00ae* ### Decode Crypto ### *Fidelity Smart Money\u2120* ### Active Investor ### *Insights from Fidelity Wealth Management* \u00ae ### Women Talk Money ### Educational Webinars and Events This information is intended to be educational and is not tailored to the investment needs of any specific investor. Fidelity Brokerage Services LLC, Member NYSE, SIPC, 900 Salem Street, Smithfield, RI 02917 ### Stay Connected Instagram, (Opens in a new window) LinkedIn, (Opens in a new window) YouTube, (Opens in a new window) Reddit, (Opens in a new window)",
+      "headings": []
+    },
+    {
+      "rank": 6,
+      "domain": "quora.com",
+      "url": "https://www.quora.com/Whats-the-most-creative-way-to-save-on-utility-costs",
+      "title": "What's the most creative way to save on utility costs? - Quora",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 7,
+      "domain": "nerdwallet.com",
+      "url": "https://www.nerdwallet.com/finance/learn/how-to-lower-your-bills",
+      "title": "How to Lower Your Bills: 45 Ways to Save - NerdWallet",
+      "word_count": 2382,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.nerdwallet.com/tachyon/2023/08/GettyImages-1410119324.jpg?resize=2400%2C1440",
+        "alt": "",
+        "description": "Clean, minimalist custom illustration or high-quality object stock photo.",
+        "type": "minimalist_branded_asset"
+      },
+      "article_images": [
+        {
+          "url": "https://www.nerdwallet.com/assets/blog/wp-content/uploads/2026/01/Screenshot-2026-01-22-at-4.18.01-PM.png",
+          "alt": "CTA image",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.nerdwallet.com/tachyon/2019/08/ksheehy-user-avatar.png?resize=160%2C160",
+          "alt": "Kelsey Sheehy",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdns3.nerdwallet.com/lending/publication-logos/Entrepreneur.webp",
+          "alt": "Entrepreneur",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdns3.nerdwallet.com/lending/publication-logos/Marketwatch.webp",
+          "alt": "MarketWatch",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdns3.nerdwallet.com/lending/publication-logos/NASDAQ.webp",
+          "alt": "Nasdaq.com",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdns3.nerdwallet.com/lending/publication-logos/TheAssociatedPress.webp",
+          "alt": "The Associated Press",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.nerdwallet.com/assets/blog/wp-content/uploads/2022/05/DSC01645_crop-e1771878504383-160x160.jpg",
+          "alt": "Laura McMullen",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdns3.nerdwallet.com/lending/publication-logos/MSN.webp",
+          "alt": "MSN",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdns3.nerdwallet.com/lending/publication-logos/TheNewYorkTimes.webp",
+          "alt": "The New York Times",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdns3.nerdwallet.com/lending/publication-logos/TheWashingtonPost.webp",
+          "alt": "The Washington Post",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.nerdwallet.com/tachyon/2022/06/20210424_153824.jpg?resize=160%2C160",
+          "alt": "Tiffany Curtis",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "SOME CARD INFO MAY BE OUTDATED This page includes information about these cards, currently unavailable on NerdWallet. The information has been collected by NerdWallet and has not been provided or reviewed by the card issuer. document.addEventListener(\"DOMContentLoaded\",function(){const t=Array.from(document.querySelectorAll(\".out-of-date-message-flag\"));if(!t.length)return;const n=Array.from(new Set(t.map(e=>(e.getAttribute(\"data-name\")||\"\").trim()).filter(Boolean))).sort();if(!n.length)return;function a(e){return e.length===1?\"the \"+e[0]:e.length===2?\"the \"+e[0]+\" and the \"+e[1]:\"the \"+e.slice(0,-1).join(\", \")+\", and the \"+e[e.length-1]}const r=a(n),o=document.getElementById(\"oodm-text\");o&&(o.textContent=\"This page includes information about \"+r+\", currently unavailable on NerdWallet. The information about \"+r+\" has been collected by NerdWallet and has not been provided or reviewed by the card issuer.\")}); Need to find more money in your budget? Evaluating ways to lower your bills is a good place to start. Small tweaks can help you save on things like groceries and homeowners insurance. Cutting more significant expenses, such as rent, mortgage and car payments require more legwork but can yield a bigger budget boost. Here's how to lower your bills and save on your monthly expenses in these categories: Housing (rent, mortgage, insurance) Lowering your housing costs is a heavier lift than, say, trimming your grocery bill, but doing so can create big savings. Learn how you can save on your rent, mortgage and homeowners insurance. Rent 1. Downsize . Moving your family from a three-bedroom apartment to a two-bedroom unit could lower your rent by hundreds, depending on the city. However, it may mean doubling up on bedrooms or losing a guest room or office space. 2. Get a roommate . It seems counterintuitive, but you can lower your rent by upgrading to a larger apartment \u2014 so long as you share that apartment with a roommate who contributes to the rent. In Pittsburgh, for example, the current median rent for a two-bedroom apartment is $1,636, according to the website Apartment List. That\u2019s about $818 per person if split between two people, compared with $1,376 median rent for a one-bedroom place by yourself. 3. Negotiate . If moving isn\u2019t an option, try negotiating with your landlord. They may be willing to lower your rent in exchange for a longer lease or handling your own repairs. \u00bb Learn how much to spend on rent Mortgage 4. Refinance your mortgage . If you're able to lower your existing interest rate, you could save money on your monthly mortgage payment. Our mortgage refinance calculator can help you understand how much you could save. Get your free credit score and make sure it\u2019s in good shape, so you can get the best rate possible. Then shop around and compare rates and fees from multiple lenders. 5. Drop your private mortgage insurance . If you put less than 20% down when you purchased your home, you likely had to get private mortgage insurance. Your lender should drop the PMI requirement once the balance on your mortgage dips to 80% of the home\u2019s original appraised value or its current market value. The average annual cost of PMI is based on the loan amount and the borrower\u2019s credit score, among other factors. It\u2019s generally between 0.46% to 1.5% of the loan amount, according to a December 2024 report from the Urban Institute's Housing Finance Policy Center. [1] Urban Institute. Housing Finance At A Glance. Accessed Sep 30, 2025. sources Borrowers with excellent credit get the lowest PMI rates. (Learn about credit score ranges .) Mortgage insurance works a little differently with FHA loans, backed by the Federal Housing Administration. (Learn more about FHA mortgage insurance .) Homeowners insurance 6. Shop around for the best rate . Homeowners insurance costs an average of $176 per month, according to a NerdWallet analysis of the average cost of homeowners insurance . Get several quotes before settling on a policy. \u00bb Get started: See home insurance quotes 7. Bundle your home and auto insurance . This could potentially lower your insurance premium by up to 30%, depending on the insurer and your location. 8. Look for discounts. Ask your insurer about available discounts. For example, you may be able to save money on your homeowners insurance by paying in full, signing up for electronic payments or having a home security system. \u00bb LEARN: How to save on home insurance document?.querySelectorAll(\".accordion-container\").forEach(o=>{o?.querySelectorAll(\"details\").forEach(e=>{const r=e.querySelector(\"summary\"),t=e.nextElementSibling,i=()=>{const n=e.open;t&&(t.setAttribute(\"aria-hidden\",n?\"false\":\"true\"),n?t.removeAttribute(\"inert\"):t.setAttribute(\"inert\",\"\")),r&&r.setAttribute(\"aria-expanded\",n?\"true\":\"false\")};i(),e.addEventListener(\"toggle\",i),t?.addEventListener(\"display-hidden-content\",()=>{e.open||r?.click()})})}); Meet MoneyNerd, your weekly news decoder So much news. So little time. NerdWallet's new weekly newsletter makes sense of the headlines that affect your wallet. SUBSCRIBE FOR FREE document?.addEventListener(\"DOMContentLoaded\",()=>{const e=document?.getElementById(\"user-engagement-banner\")?.closest(\"article\");e&&(e.style.position=\"relative\",e.style.zIndex=\"200\")}); Utilities (water, electricity, gas, internet) Your monthly utility bills are a smart place to look for quick savings. Small tweaks such as adjusting your thermostat or signing up for automatic payments can add up to major savings. Cable and internet 9. Bundle your cable and internet . You can typically reduce your cable and internet costs if you bundle those services with the same provider. You can also reduce your internet costs by switching to a lower speed tier or opting to buy a modem rather than renting one from your provider. Cell phone 10. for automatic and paperless payments. Many wireless carriers, including Verizon, AT&T and T-Mobile offer monthly discounts on select plans when you sign up for paperless billing and automatic payments. This billing method also helps ensure you pay your bills on time. Like with all automated payments, track your money to make sure you have enough to fund these bills without overdrafting. 11. Change or remove your insurance. Check with your cell phone provider to see if it offers a less expensive protection plan. Standard insurance may provide enough coverage and is often less expensive than premium options. Some credit cards also offer cell phone insurance for free, so check your existing benefits to make sure you\u2019re not paying twice for protection. 12. Switch your plan or carrier. Take inventory of your plan and data use, then see if you can get a better deal with your carrier or another one. Keep in mind that the cheapest phone plans are typically prepaid. \u00bb LEARN: H ow to compare cell phone plans Electricity, heat and water Electricity, heat and water 13. Dial down your thermostat. Dropping the temperature degrees at night or when you\u2019re away can lower your heating bill. Doing the same on your water heater can also help lower your heating or gas bill. 14. Power down energy hogs. You may reduce your electric bill with a smart power strip, which shuts off power to devices not in use. Also consider requesting an energy audit from your utility provider to get household-specific insights. Is money tight? Use this tool if you need help paying bills ASAP . Or call your provider to learn about hardship programs that may help. Here\u2019s a script for what you could say on that call. Transportation (car payments, insurance and public transportation) Transportation costs, whether for a car or public transportation, fall squarely into the \u201cneeds\u201d category of most budgets. Find more room in your budget by lowering what you spend on getting around every month. Car payment 15. Refinance your auto loan. You might be able to lower your car payment by qualifying for a better interest rate or extending the length of your loan. You\u2019ll need a track record of on-time payments spanning six to 12 months. \u00bb LEARN: How to refinance a car loan 16. Sell your car. Look into selling your car and using the proceeds to pay off all or most of your current car loan. Then, buy a less expensive model \u2014 preferably a used car, which won\u2019t lose value as quickly as a new one. Whether you opt for new or used, aim to keep your total costs \u2014 gas, insurance, car payment, registration and repairs \u2014 below 20% of your take-home pay, or net income. \u00bb LEARN: W hat is net income? 17. Evaluate whether you even need a car. If the answer is no, sell your car and use the proceeds to pay off your existing car loan. What you save in monthly insurance, gas, parking and maintenance costs will probably be more than enough to cover public transportation (more on that below) and the occasional rideshare ride. Auto insurance 18. Increase your deductible. A higher car insurance deductible will bump up your out-of-pocket costs if you\u2019re in an accident, but will lower your monthly insurance premium. 19. Reduce your coverage. Full coverage may not be necessary for an older car. If your car is worth less than your deductible plus a year's worth of premiums, consider dropping collision and comprehensive coverage , which cover damage to your vehicle. 20. Ask about discounts , such as good student, safe driver and multi-driver, or bundle your car insurance with your home or life insurance. \u00bb LEARN: H ow to save on car insurance Public transportation 21. Use passes and subscriptions. Signing up for monthly passes is likely a better option than buying single fares every day. 22. Look for discounts. Many transit agencies offer cheaper fares for seniors, military veterans, students and low-income riders. Your employer might even offer a commuter benefit program where you can use your pre-tax income for transit passes. Food Switching to store brands at the grocery store and finding discounts at local restaurants may cut your food costs. Groceries 23. Make a grocery list. You\u2019re less likely to overspend if you have a plan. Plus, you can look for coupons and save money on groceries. (Learn more about how to coupon .) 24. Opt for the store brand. Generic labels and store brands are a surefire way to save money, even if you\u2019re shopping at pricier stores. And you won\u2019t be sacrificing quality since many private labels are produced by name brands. 25. Become a member. Unlock exclusive sales and coupons by signing up for the store\u2019s loyalty program and downloading its app, if it has one. 26. Try a discounted grocery chain. Stores like Aldi, Lidl and Grocery Outlet offer many of the same items you\u2019d find at traditional grocers but at a discount. You can still find plenty of organic options but stores are typically smaller and have fewer options to choose from. Dining out 27. Scope out specials. Take advantage of happy hours or other specials, like burger nights, Taco Tuesday deals and game-day promotions. Mark your calendar for nights where kids eat free to save on meals for the whole family. 28. or split the entree. Order an appetizer instead of an entree to shave a few bucks off your dining bill. Or save money by splitting an entree with your friend or date. Debt There are many ways to pay off debt , whether you handle it yourself with strategies such as the debt snowball or debt avalanche , or if you use a loan or credit card for debt consolidation . Student loans 29. Apply for an income-driven repayment plan . Federal loans have several income-based options that cap your monthly payments at 10% to 20% of your discretionary income. \u00bb Learn what borrowers can expect in 2025 and beyond . 30. Ask for a deferment. If you qualify, a deferment halts your payments, often for up to three years. However, interest may still accrue, increasing your overall balance. It\u2019s wise to first apply for an income-driven repayment plan. 31. Refinance your student loans. If you qualify for a better interest rate, you can lower your payments by refinancing student loans with a private lender. Refinancing is always worth trying with private loans, particularly if you or a co-signer have good credit. But note that if you choose to refinance federal loans, they'll become ineligible for government programs like student loan forgiveness and income-driven repayment. \u00bb Learn more about how to lower student loan payments Credit card debt 32. Ask for a lower interest rate. Your card issuer is more likely to give you a lower interest rate if you have a solid payment history and good credit score. 33. Transfer your balance. Take advantage of a balance transfer offer with an existing card, or open a balance transfer card with a 0% interest rate. Moving your balance to either will allow you to pay it off interest-free for a designated length of time \u2014 after that period ends, you\u2019ll face interest on your balance. This move generally requires an excellent credit score. 34. Consolidate your credit card debt. Personal loans often have lower interest rates than credit cards. If you qualify for one, you can consolidate your credit card debt with a personal loan to lower your monthly payments and save on interest charges in the long run. \u00bb Compare the best balance transfer credit cards Memberships Your monthly subscriptions may not feel like a lot, but $7.99 here and $9.99 there can add up quickly. Use these tips to chip away at your membership fees or cut these services altogether to quickly see some wiggle room in your budget. Streaming services 35. Limit the number of services to which you subscribe. If there\u2019s a service that provides just a couple shows you enjoy, consider binging them, then canceling the service. Also take advantage of free trials to watch what you want in that time period, without committing to the expense. Finding a service that can provide multiple benefits can also save you money in the long run. Amazon Prime members, for example, get free streaming on hundreds of movies and shows and free shipping. (If you\u2019re choosing just one, learn the best streaming service for you .) 36. Look into family plans. Popular music streaming services such as Spotify and Apple Music also offer family plans, which allow multiple people to share one account and save big. \u00bb LEARN: How much do Spotify and Apple Music cost? Gym memberships 37. Negotiate for a lower monthly membership rate. Come to the conversation armed with competitors' rates and the gym\u2019s own new customer promotions to get the best deal. 38. Cancel your membership and gym-hop. Most gyms and studios will give you a free class or two to test the waters. And many yoga studios hold community classes that are free or by donation. Thousands of free online workouts let you break a sweat without leaving home \u2014 and the only cost is dedication. Magazines and newspapers 39. Cancel any publications you don\u2019t read regularly. You can always resubscribe later when you see a discounted rate. Or, better yet, pick one up at your local library. 40. Downsize print subscri",
+      "headings": []
+    },
+    {
+      "rank": 8,
+      "domain": "youtube.com",
+      "url": "https://www.youtube.com/watch?v=umSNfqhB27E",
+      "title": "Ways to save on the energy bill - YouTube",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 9,
+      "domain": "aarp.org",
+      "url": "https://www.aarp.org/money/personal-finance/ways-to-save-on-utilities/",
+      "title": "The Top 13 Ways To Save Money On Your Utility Bills - AARP",
+      "word_count": 519,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://cdn.aarp.net/content/dam/aarp/money/budgeting_savings/2018/07/99-ways-logo/1140-utilities-ls.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://cdn.aarp.net/etc/uxdia/images/uxdia-spinner.svg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.aarp.net/content/dam/aarpe/en/home/money/personal-finance/ways-to-save-on-utilities/_jcr_content/root/container_main/container_body_main/container_body1/container_body_cf/container_image/articlecontentfragment/cfimage.coreimg.50.932.jpeg/content/dam/aarp/money/budgeting_savings/2018/07/99-ways-logo/1140-utilities-ls.jpg",
+          "alt": "faucet with money coming out of it",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.aarp.net/content/dam/experience-fragments/uxdia-folder-structure/en/next-action-widgets/newsletter_naw/Newsletter_NAW/master/_jcr_content/root/responsivegrid/container/articleimage.coreimg.75.1140.jpeg/content/dam/aarp/QA_bucket/widgetimages/newsletter_NAW_tablet.jpg",
+          "alt": "newsletter-naw-tablet",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.aarp.net/content/dam/experience-fragments/uxdia-folder-structure/en/next-action-widgets/newsletter_naw/Newsletter_NAW/master/_jcr_content/root/responsivegrid/container/container/container/articleimage.coreimg.75.1140.png/content/dam/aarp/QA_bucket/widgetimages/newsletter_NAW_desktop.png",
+          "alt": "Mujer leyendo tableta",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "Seal your chimney flue. As much as 8 percent of your heating dollars could be escaping up the chimney. Seal it or install a chimney pillow, and save $80 on a $1,000 heating bill. 2. Get a programmable thermostat. Lowering or raising your home\u2019s temperature by 7 to 10 degrees for eight hours as you sleep can save $100 a year. Get a programmable thermostat so you don\u2019t forget. 3. Ease your internet speed. Internet providers always push the newest, fastest options, but a basic service of 20 megabits per second (Mbps) is fine for the typical family to surf, email and stream videos. Optimum Online offers that speed at $29.99 a month. Save $120 every year. 4. Turn down your water heater. Most water heaters come from the factory set at 140 degrees \u2013 hot enough to scald. Turn it down to 120 degrees and save about $60 per year. 5. Seal your home. Inspect for leaks at windows and doors with a lighted incense stick. Sealing them could cut a $1,000 heating and cooling bill by $200. Really! 6. Get a tankless water heater. These units produce hot water on demand. They\u2019re up to 30 percent more efficient than tanks that waste energy keeping water hot all the time. The typical family spends $500 a year heating water. Annual savings: $150. 7. Don\u2019t drench your lawn. It needs just 1 inch of water per week, including rain. Sprinklers often deliver much more than that. Put a coffee mug under the sprinkler and stick in a ruler when you are done. If you collected 2 inches of water, you are spending about $158 a month during the summer on wasted water. 8. Clean your trap. A dryer can lose 75 percent of its efficiency if lint clogs its trap. Clean it after every use and save $101 on the annual cost of operating a dryer. 9. Find free Wi-Fi. Going over your phone\u2019s data limit can easily cost you $180 a year. that locates nearby locations where Wi-Fi is free. It works worldwide. 10. Save on your bulbs. LED bulbs are no longer scarily expensive. Replace 40 incandescent bulbs with LEDs, and you could save $1,500 over their 10-year life span. 11. Get it fixed for free. At Repair Caf\u00e9 events nationwide, volunteers help fix a variety of household items that folks can\u2019t fix themselves. Go to RepairCafe.org to find an event near you. You could save $100 by fixing that old lamp. 12. Stamp out stamps. to have all those bills paid by automatic withdrawal. If you are still mailing off five bills a month, you can save $30 a year on stamps \u2014 and avoid the hassle of visiting the post office. 13. Scan for unused subscriptions: Truebill , which helps users find subscription services and determine how much they're paying for them each year, claims that the average user can save $100 or more a year canceling what they don't need or renegotiating the bill. Unlock Access to AARP Members Edition Already a Member? Login Unlock Access to AARP Members Edition Already a Member? Login",
+      "headings": []
+    },
+    {
+      "rank": 10,
+      "domain": "energy.gov",
+      "url": "https://www.energy.gov/energysaver/reducing-electricity-use-and-costs",
+      "title": "Reducing Electricity Use and Costs",
+      "word_count": 417,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.energy.gov/sites/default/files/2021-10/iStock_000005024531Medium.jpg",
+        "alt": "Electric use",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [],
+      "body_text": "Reducing energy use in your home saves you money, increases our energy security, and reduces the pollution that is emitted from non-renewable sources of energy. If you are planning to install a small renewable energy system to make your own electricity , such as a solar electric system or small wind turbine, reducing your electricity loads is the first step because it allows you to purchase a smaller and less expensive system. First look at your utility bill. The national average electricity consumption is about 1000 kWh/month. If you use more, even greater savings may be possible. There are many ways you can reduce electricity use in your home: Appliances and electronics -- Purchase energy-efficient products and operate them efficiently. Use an advanced power strip to reduce \"vampire loads\"--electricity that is wasted when electronics are not in use. Lighting -- Purchase energy-efficient lighting, operate them efficiently, and incorporate more daylighting into your home using energy-efficient windows and skylights . Electric space heating and cooling -- Purchase energy-efficient electric systems and operate them efficiently. Incorporate passive solar design concepts into your home, which include using energy-efficient windows . Properly insulate and air seal your home. Select an energy-efficient heating system that doesn't use electricity. Electric water heating -- Purchase an Energy Star heat pump water heater and operate it efficiently . Reduce your \u201calways-on\u201d appliances. If your home has a smart meter and you can see your hourly consumption, then examine your consumption at 3AM. It should be significantly less than your use at 7pm. If it isn\u2019t then you might have \u201cvampire loads.\u201d. Look for electronics that you don\u2019t use (like DVD players!) or can switch off, or perhaps get rid of that extra refrigerator. To improve the overall energy efficiency of your home, see the Energy Saver home energy assessment page. Time-Based Electricity Rates Many utilities are introducing programs that encourage their customers to use electricity during off-peak hours. The programs pass on the savings to you, the customer, through rebates or reduced electricity rates. Smart meters and home energy management systems allow customers to program how and when their home uses energy. If you are able to shift your power use to off-peak times -- such as running your dishwasher late in the evening -- these programs can save you money. Time-based rates are very attractive to owners of plug-in hybrids and electric vehicles since typically these vehicles are recharged at night. See buying and driving fuel efficient and alternative fuel vehicles for more information.",
+      "headings": []
+    },
+    {
+      "rank": 11,
+      "domain": "cnet.com",
+      "url": "https://www.cnet.com/home/energy-and-utilities/lower-your-electric-gas-and-water-bills-this-winter-8-tips-that-actually-work/",
+      "title": "Lowering Your Utility Bills This Winter Is Easy With These 8 ...",
+      "word_count": 1182,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.cnet.com/a/img/resize/1805601b89c9367232534ff6ad966e5d0d3cb33f/hub/2020/07/27/29fe7b4d-2ca5-487c-a8ea-6b237ddf12e5/money-stimulus-cash-bills-dollars-9718.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/868b85e641038c7268da338c16157b5fe113442e/hub/2021/03/05/a7d2c418-5bef-442f-96cb-c9738af427d1/gettyimages-1194920464.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "alt": "Person putting in credit card information at a computer.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "Find out how to make your home more efficient and lower your bills with these expert tips. Winter has arrived, delivering single digit temperatures, snow and ice on much of the United States. Frigid temps can make it difficult to keep your heating costs affordable, making it hard to stay warm without burning through your budget. A CNET survey found almost 80% of adults are stressed about how expensive utilities are becoming. Here's the good news: You don't have to choose between going broke or freezing all winter. A few simple, expert-approved tweaks to your daily habits can actually make a huge difference, letting you save money without sacrificing comfort. Small changes such as unplugging your \"vampire\" electronics, being smarter about how you do laundry, and finding the right temperature for your thermostat can add up to real savings on gas, water and electricity. Here's how to stop wasting money and make your home more efficient. Here are eight steps you can take to start saving electricity, gas, water -- and cash. For additional money-saving tips, check out more on how to weatherstrip your home to save on bills and a simple home upgrade that can help you save on summer cooling costs. 1. Get an electricity audit Many electric companies offer a free audit , where they do a room-by-room examination of your home and look at your electricity bills to help determine where you're wasting energy. You can follow the recommendations to help reduce your electric bill. If you can't get a free audit, you might still be able to qualify for it under the energy efficient home improvement credit and recoup the costs during tax season. Even if your electric company doesn't provide this service, you can easily perform a DIY home energy audit using the US Department of Energy website's instructions. Here Are 23 Ways to Save On Your Electric Bills Right Now 2. Adjust your thermostat One of the simplest ways to reduce your electricity bill is to adjust your thermostat . According to the Department of Energy , you can save as much as 10% on your heating and cooling costs by adjusting your thermostat by 7 to 10 degrees for 8 hours per day. In other words, keep it a bit warmer in the summer and a bit cooler in the winter. A simple way to do this is to adjust your thermostat when you're either asleep or away from home. If you have a smart thermostat , you can preset your thermostat to adjust during these hours so you don't forget. Adjusting your thermostat a few hours a day can save you big on energy bills. 3. Turn down your water heater Many water heater manufacturers set thermostats at 140 degrees Fahrenheit (60 C). But in reality, most households only need it set at a maximum of 120 degrees Fahrenheit. Setting your water heater to a lower temperature can save hundreds of dollars a year . Adjusting a water heater's temperature is a quick and easy fix . The thermostat dial on your water heater is likely near the bottom of the tank on the electric or gas control valve. Be sure to check the owner's manual for instructions to adjust it -- and if you have any questions, consult a professional technician. Adjusting your water heater can save electricity and reduce bills. 4. Turn off and unplug what you aren't using By leaving things around your house plugged in and turned on when you aren't using them, you're driving up your electric bill unnecessarily. You can start by turning off lights when you aren't in the room or when it's light enough outside to rely solely on natural light. Multiply your light bulb's wattage by what your electricity provider charges per kilowatt to find out how much you're saving . That amount only increases with the wattage of the bulb. While it doesn't seem like much, it can add up over time. You can also save money by unplugging appliances you aren't using. Phantom energy, the energy your appliances use when they're plugged in but not turned on, can cost an average of $100 per year . 5. Use your dishwasher It might sound counterintuitive to suggest running an appliance to save on your electricity bill. And yes, there was a time where dishwashers used far more water than they do today. But the Department of Energy regulates how much water modern dishwashers can use. Any dishwasher manufactured since 2013 is limited to using 5 gallons of water. If it's a compact size dishwasher, it's limited to 3.5 gallons. You might think that surely you use less than 5 gallons of water to hand-wash your dishes. But the US Geological Survey estimates that it takes anywhere from 9 to 27 gallons of water to hand-wash a load of dishes. (If you're curious, we also have a tip on how to load your dishwasher the right way .) 6. Take advantage of off-peak rates Electricity use tends to be higher during certain times of the day and the year. First, demand is higher in the winter and summer when people are running heaters and air conditioners . It's also higher during the daytime and evening hours. Some electricity companies offer time-of-use plans , increasing rates during peak hours and decreasing them during off-peak hours. If you have one of these plans, you can save money by running large appliances like your dishwasher and washing machine early in the morning or late at night. 7. Change your air filters Your air filter helps to catch any dirt, dust and pet hair, preventing it from making its way into your HVAC. When you don't change your air filters regularly enough, this debris gets into your HVAC system and bogs it down, reducing its efficiency. According to the Department of Energy, replacing your filters on schedule can lower your air conditioner's energy consumption by anywhere from 5% to 15% . 8. More ways to save on your bills There are many steps, big and small, that you can take to reduce your consumption and save money on your bills. The Department of Energy has an entire section of its website devoted to providing tips to help you save on energy. And while plenty of them come with a price tag, there are many more just like those on this list that you can do free. For more, check out the ceiling fan trick that can help your house stay cooler and you can explore our solar cheat sheet . More energy and money saving tips Want to Save Money? Look to Your Curtains, Blinds and Drapes The Best Thermostat Setting to Lower Your Energy Bill The Best and Worst Places to Install a Thermostat if You Care About Your Electric Bill Energy-Efficient Renters: Use Less Energy in Your Apartment and Save Money Home Sustainability Cheat Sheet: How to Make Your Home More Eco-Friendly 5 Easy Ways to Save on Your Water Bills All Summer Long Save Money on Your AC Bill: Change the Placement of Your Fan",
+      "headings": []
+    },
+    {
+      "rank": 12,
+      "domain": "sffirecu.org",
+      "url": "https://sffirecu.org/learning/eight-easy-ways-to-save-money-on-your-utility-bills",
+      "title": "8 easy ways to save money on your utility bills",
+      "word_count": 824,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://sffirecu.org/wp-content/uploads/Facebook-Share-Card_homepage.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [],
+      "body_text": "How to save money on utilities It\u2019s no secret that housing costs are high in the Bay Area, so it helps to save money wherever you can. If you\u2019re a new homeowner or just tired of high utility bills each month, here are some tips and tricks to help you cut costs. If you\u2019re thinking of buying your first home, SF Fire has a list of tips for new homeowners to help with your process. Cutting costs on your utility bills could help make your monthly mortgage payment easier, allow you to put more towards high-interest debt, or start saving for things that really matter like vacations or retirement. 8 easy ways to lower electric bill costs and save water When you\u2019re trying to cut down your monthly expenses, every little thing you do goes a long way. Here are some small changes you can make that could add up to big savings. 1. Change your filters and clean your vents Get into the habit of changing your air conditioning filters regularly. Air flow gets blocked when filters are clogged with dust, dirt, or pet hair. When filters get clogged, your air conditioning unit has to work harder to push out air. As a rule, you should change your filters (or at least check on them) every month or so. Mark your calendar, set a reminder on your phone, or pick a date each month to check your filters. Change them out if they\u2019re too dirty. The same is true for your vents. Regularly cleaning off that thin layer of dirt, dust, or pet hair can ease the burden on your AC unit. 2. Buy ceiling fans Also, fans can help lower your utility bills in both hot and cold months. Most fans have a switch that changes the rotation direction. Setting your fans to spin counterclockwise in the hotter moths will bring down cool air. Switching them to spin clockwise in the winter will pull up cold air. 3. Check your outlets Did you know that when appliances are plugged in, they can draw what\u2019s called a \u201cphantom charge?\u201d This means they can increase your energy bill even when you\u2019re not using them. It\u2019s a good idea to unplug appliances that you\u2019re not using. Considering the amount of technology we all use every day, this might sound like a tedious and time-consuming task. Consider buying a few smart power strips to make this task more efficient. Also, most people don\u2019t realize that their outlets could be letting cool air escape while pulling in warm air (and vice versa). Covering those unused outlets with socket seals or plug covers could help lower your energy costs. 4. Invest in energy-efficient bulbs According to the Department of Energy , if you replace the five most-used lightbulbs in your house with energy-efficient bulbs, you could save around $45 a year. Energy-efficient bulbs can be a little pricier, but they\u2019re worth it in the long run. And you don\u2019t have to replace every bulb in your house all at once. Start with the five most-used. Then when old bulbs burn out, slowly replace them with more efficient bulbs. 5. Upgrade your appliances New, energy-efficient appliances such as refrigerators and dishwashers can be expensive purchases. But considering that they\u2019ll help you save money in the long run, you can consider them investments, not just upgrades. You might want to plan ahead and set up a budget to help you save for these purchases in advance. A low-interest personal loan might also help you cover the initial costs. You can also consider using a HELOC to help you afford home improvements such as investing in new, energy efficient appliances. Be sure to keep an eye out for big sales events too. These usually happen around holidays like Memorial Day and the Fourth of July. 6. Check the seals on your windows and doors If your windows and doors have bad seals, they\u2019re probably contributing to your high energy bill. Bad seals let air out of your house, which means your AC unit has to work harder to keep the right temperature. It\u2019s also a good idea to check the seals on your refrigerator and freezer. 7. Replace your shower head Did you know that an energy-efficient shower head can reduce your water usage by 2,700 gallons a year? This could really help reduce your water bill. When shopping around, look for showerheads with the WaterSense label. These models are certified to meet efficiency standards set by the Environmental Protection Agency . 8. Do an energy audit Some utility providers will conduct a home energy audit to identify other ways you can reduce your energy costs. Home energy audits are often free. These simple tips and tricks could help save you money on your utility bills and free up some money for your home loan payment. Even small steps or tiny changes can lead to big savings in the long run.",
+      "headings": []
+    },
+    {
+      "rank": 13,
+      "domain": "youtube.com",
+      "url": "https://www.youtube.com/watch?v=op9xAWs75cE",
+      "title": "6 Ways to Instantly SAVE MONEY on Utility Bills!",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 14,
+      "domain": "truist.com",
+      "url": "https://www.truist.com/money-mindset/principles/homeowning-happiness/how-to-save-on-utilities",
+      "title": "How To Save on Utility Bills: Energy Tips for Your Home",
+      "word_count": 1461,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.truist.com",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://static.truist.com/content/dam/truist-bank/us/en/images/article/mm/mam-save-on-utility-bills-mother-kid-playing-under-fort-hero.jpg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.truist.com/content/dam/truist-bank/us/en/images/article/mm/mam-tips-that-can-help you-save-on-utility-bills-electric-power-icon.svg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "The highlights It\u2019s possible to reduce your monthly energy expenses by taking simple steps, but the steps you can take may depend on your home and where you live. Small changes like cutting down on your use of large energy-zapping appliances, sealing air leaks, and replacing air filters more frequently can potentially lead to savings on utilities. Bigger home investments\u2014like solar panels or energy-efficient appliances\u2014may also potentially lead to long-term savings. Having access to utilities is so important in our day-to-day lives, but paying for them can be a potential stressor. More than 34% of Americans have cut back or skipped other necessary expenses at least once to afford their utility bills. Disclosure 1 The bright side? There are steps we can take that may give us more control over the cost of our utilities. Some of them may even be good for the environment, to boot. It could be worth it\u2014especially if you\u2019re working, schooling, or entertaining a lot from home\u2014to try these tips that may help you save on utilities. 1. Replace old light bulbs and upgrade plugs. If you have \u201cold-school\u201d incandescent light bulbs in your home, replacing them with modern LED bulbs can be a cost-efficient energy upgrade. Not only do they use significantly less energy than incandescent bulbs, they also last much longer Disclosure 2 \u2014so it can help you save on both energy costs and replacement costs. You can get even more modern by using smart bulbs or smart plugs that can be controlled remotely by an app or a voice-activated smart speaker when they\u2019re connected to Wi-Fi. These smart accessories may also allow you to schedule when to turn certain appliances on and off\u2014helping you to save energy without even thinking about it. 2. Use your large appliances wisely. You might be surprised by how much energy a clothes dryer can consume. If you have the time and space, consider hang drying your clothes. When you do use your clothes dryer, using the lowest heat setting may help reduce its energy use. As an added bonus, hang drying or drying on low heat can also help your clothes last longer. Your water heater is another appliance that can take up a lot of energy. You may be able to cut down on the amount of time you use it by washing clothes in cold water, taking shorter or cooler showers, and using your dishwasher instead of hand washing. Dishwashers\u2014even older models\u2014are typically more energy- and water-efficient than hand washing. When it comes to your heating and cooling system, try to resist the urge to crank the thermostat in either direction. The closer your indoor temperature is to the outdoor temperature, the less your heating or air conditioning will cost you by the end of the month. Disclosure 3 (More on this in the next tip.) 3. Set your thermostat to the most cost-effective temperature. Heating and cooling likely make up the majority of your utility bill. The Department of Energy says you can save as much as 10% a year by turning back your thermostat 7 to 10 degrees from its normal setting for eight hours a day. Disclosure 4 Keeping the temperature just a few degrees lower in colder months and a few degrees higher in hotter months could add up to your year-round utility savings. Disclosure 5 If you don\u2019t already have a smart or programmable thermostat\u2014or simply haven\u2019t taken the time to program yours for when you\u2019re not home\u2014now may be the time. 4. Warm up with the sun and cool down with shade. Letting as much sunlight in as possible may help warm your home and boost your mood during the winter, especially if you have well-positioned windows or skylights in your home. Disclosure 6 Alternatively, during the hot summer months, keeping your blinds closed can help your home stay cooler. You might also consider some energy-efficient home upgrades: Insulated curtains can help keep your home warm in the winter and cool in the summer. Installing reflective window films can also block out heat and protect you from harmful UV rays 5. Use your ceiling fans\u2014and switch them in the winter During warmer months, try to rely on ceiling fans more than your air conditioner and see if it helps keep your bill down. And here\u2019s a pro tip for the winter: Hit that switch at the base of your ceiling fans to reverse their direction so they rotate clockwise, which can help with warm air circulation. This move can potentially help reduce your heating costs by up to 10%. Disclosure 7 6. Get under the covers. Depending on your tolerance and the climate where you live, you could consider relying more on blankets and clothing to try to stay warm in the winter. Investing in a warmer comforter is another option that could help. Even if it helps you keep the thermostat down by just a few extra degrees, it could add up. 7. Change filters more frequently. During the hottest and coldest days of the year, your HVAC system runs its hardest. Replacing your air filters regularly may be able to help it work more efficiently, which could help save you money. If you think you\u2019ll forget, set calendar reminders. Although filters cost money, overworking equipment that\u2019s sending air through clogged or dirty filters can potentially cost you more in the long run\u2014and lower the quality of indoor air. 8. Make sure vents are free and clear. If you haven\u2019t already figured out where all the vents are in your home, it\u2019s time to locate them. Are they blocked by furniture, drapes, or artwork? Make sure the areas in front of the vents are clear so air moves more efficiently throughout your home. If airflow feels weak anywhere in your home when your HVAC is running, then something might be blocking it. 9. Find and seal any leaks. The U.S. Department of Energy says sealing air leaks around windows, doors, and ceilings can save you 5% \u2013 30% a year on energy costs and make your home more comfortable. Disclosure 8 Air leaks can cause problems both in summer and winter, so this fix could benefit your utility bill year-round. As far as home improvement projects go, it\u2019s a fairly simple one. So if you\u2019re feeling handy, you may even be able to seal those leaks yourself. It\u2019s also possible for your HVAC\u2019s air ducts to leak. Some possible signs of leaky ducts include uneven temperatures in different rooms, excessive dust, or seemingly inefficient heating or cooling in general. Disclosure 9 If you suspect you have leaky ducts and are unable to pinpoint or fix the problem yourself, consider calling a local specialist. Want more predictable utility payments? You could check to see if your utility provider offers a budget billing program , which may help make your monthly energy costs more even throughout the year. 10. Request an audit and ask about rebates. Reach out to your utility provider and ask if they provide free or inexpensive energy audits. What does an energy audit do? It locates where your home is losing the most energy. The whole purpose is to pinpoint improvements that can help save energy and reduce your monthly bill. While you\u2019re chatting with the provider, ask if they offer equipment rebates, too. 11. Consider investing in greener energy options. Keep energy savings on your mind when it\u2019s time to eventually replace major appliances by investing in Energy Star-certified appliances that can help lower your utility bill. Geothermal heating and cooling units compared to traditional HVACs, for example, could reduce your energy costs significantly, according to the Department of Energy. Disclosure 10 The upfront costs of installing a solar rooftop can be high, but it could potentially pay off over time. Project Sunroof offers a guess at how much you can save by adding rooftop solar if you put in your address. You may also be able to take advantage of federal tax incentives to help offset the initial cost. On average, it takes five to 10 years to pay back the cost of solar panels. Over the course of their lifetime, they can save you anywhere from $25,500 to $33,000 on electricity expenses. Disclosure 11 Utilities are a recurring expense we all deal with\u2014but they\u2019re an expense we can at least have some control over. Taking small steps where you can may add up over time and help with your financial confidence. Next steps Make small, low-cost changes that can add up\u2014like swapping light bulbs, hang drying clothes, and sealing leaks. Consider scheduling a home energy audit to identify inefficiencies and find ways to lower your utility costs. Be mindful of your energy habits throughout the year and adjust your home for seasonal changes.",
+      "headings": []
+    },
+    {
+      "rank": 15,
+      "domain": "thepennyhoarder.com",
+      "url": "https://www.thepennyhoarder.com/save-money/how-to-save-money-on-utilities/",
+      "title": "19 Super-Smart Tips on How to Save Money on Utilities",
+      "word_count": 2657,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://cdn.thepennyhoarder.com/wp-content/uploads/2023/01/07142832/utilities-save-money-final-1024x683.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.thepennyhoarder.com/wp-content/uploads/2018/07/save-utilties-fan-final-1024x683.jpg",
+          "alt": "A boy stands in front of a fan that blows his hair up in the air.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.thepennyhoarder.com/wp-content/uploads/2018/07/save-utilities-LED-bulbs-final-1024x683.jpg",
+          "alt": "A man replaces a light bulb on a light fixture attached to his ceiling.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.thepennyhoarder.com/wp-content/uploads/2018/07/save-utilities-dishwasher-final-1024x683.jpg",
+          "alt": "A baby leans on the dishwasher as their mother unloads it.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.thepennyhoarder.com/wp-content/uploads/2018/07/save-utilities-faucet-final-1024x683.jpg",
+          "alt": "A man fixes a leaky pipe underneath a sink.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "by Timothy Moore Contributor We\u2019ve seen summer after summer of historic heat waves across the world, with particularly high temps in the South and out West. These unusually warm summers aren\u2019t going anywhere soon. As NASA climatologist Gavin Schmidt told the Washington Post in 2022 , \u201cThere is no going back.\u201d Rising temperatures mean more extreme and dangerous weather, more uncomfortable days no matter where we live, increased chances of heat-related injury and death and, yes, more expensive energy bills. In the face of continued inflation, it\u2019s important to look for ways to save energy and keep utility bills low. But short of turning off your air conditioner and hoping for the occasional breeze through some open windows, what can you do to keep your electricity bill down? 19 Ways to Save Money on Utility Bills Change air filters and keep vents clean Adjust the thermostat throughout the day Adjust temperature on water heater Invest in fans Get into the habit of unplugging Invest in blackout curtains Check ductwork and attic Use energy saving light bulbs Cut dryer time with dryer balls Upgrade to energy-efficient appliances Check options from power company Get caulking Develop water-saving habits If you have a dishwasher, use it Use less water when flushing Master the art of washing clothes Keep an eye out for leaks Install water-saving showerheads and faucets Run appliances at night Utilities are the services used to run your home, which include water, electric and gas. Some may consider phone, internet and other services utilities as well, but we\u2019ll just stick to the first three. Because your electric bill is the main one that can get out of hand \u2014 and is probably top of mind as we contend with high temps \u2014 we\u2019ll start with how to lower electricity bills. If you have gas heat and gas-powered appliances, some of these tips will be useful as well. Save on More Than Just Utilities Want to beat more than just the heat? Save more money! From beating high-interest to high car insurance premiums, check out some of our favorite ways to save. The Penny Hoarder Auto Insurance Tool Save ~$500 per year Provide some basic information Compare Quotes AmOne Save on interest payments with a personal loan Answer a 10 quick qualifying questions Save On Interest Balance Transfer Credit Cards* Cancel Your Interest Payments Until 2026 Apply for a 0% Interest Credit Card Cancel My Interest Upside Save $40/month on Gas Tips and Tricks for Saving Money on Your Electric Bill Whether you\u2019ve fallen victim to paying nearly half your rent or mortgage just to keep the lights on, or you\u2019re just starting out and want to know what to expect, try these tips for cutting back your electric bill \u2014 and, if you have one, your natural gas bill, too. 1. Change Air Filters and Keep Vents Clean Let\u2019s face it, air-conditioning vents aren\u2019t pretty. You may feel inclined to place furniture in front of them, but it\u2019s important to leave enough room so that cool or warm air can actually flow out and into your space. In fact, blocking vents with furniture could cause your HVAC system to work extra hard \u2014 and eventually break down. But more important for the health and efficiency of your HVAC system is actually keeping up with routine maintenance. That is, changing out the air filter every couple of months \u2014 more frequently if you have dogs or cats. When air filters get clogged up with dust, dirt and pet hair, the airflow becomes blocked, making your air conditioner and furnace work harder (i.e., less efficiently) until it decides to call it quits. When changing out the filter, use your vacuum\u2019s brush extension to brush off and suck up any dust around the slot. The same goes for your outdoor AC unit: Trim back bushes and remove any debris touching the unit, leaving at least a foot of space for it to work its magic. 2. Adjust the Thermostat Throughout the Day If you\u2019ll be gone during the day (and don\u2019t have pets at home), set the thermostat a little higher than what you\u2019d otherwise leave it at during the summer. You can also save energy by turning the thermostat up a smidge at night. But don\u2019t get too stingy with the cool air. If you set the temperature too high while you\u2019re away, your unit will have to work even harder to cool down the place when you get home. This drives your energy bill up and can also stress the unit, and no one needs added stress \u2014 not even your HVAC system. Is Your Bank Holding You Back? Got $1,000 in checking? These smart moves could help you reach your next big savings goal. If you own a home, you can really put it on autopilot by investing in a programmable thermostat that adjusts the temperature according to the schedule you set. You can get a smart programmable thermostat and use voice control or your phone to adjust the temp while you\u2019re home. Some even remind you to change the air filter! 3. Adjust the Temperature on Your Water Heater While you\u2019re adjusting your thermostat, you may as well tinker with your water heater temperature too. Whether it\u2019s powered by electric or gas, lowering the max temp on your hot water heater can lower your utility bills (and protect your skin \u2014 scorching hot showers are bad news for your body\u2019s largest organ). The default temperature for a water heater is 140 degrees, which wastes between $36 and $61 a year, according to the U.S. Department of Energy. Lowering the temp to 120 degrees is perfectly fine for most people. 4. Invest in Fans use way less energy than your furnace or air conditioner and can actually be used to help cut both heating and cooling costs. Most ceiling fans come equipped with a switch to change the rotation direction \u2014 set them counterclockwise in summer to bring down the cool air and clockwise in the winter to pull cool air up and push warm air down. If you can\u2019t invest in ceiling fans or are renting from a landlord who won\u2019t install them, not all hope is lost. Just get some tower fans for the hot summer months. They also use way less energy so you don\u2019t have to turn down that thermostat any lower than it needs to go. Some even come with remote controls so you can adjust them from the couch while binging The Bear . 5. Get Into the Habit of Unplugging Some appliances should stay plugged in all the time, like your refrigerator and digital alarm clock. But the Department of Energy points to other household electronics, including TVs, computers and toaster ovens, that you should unplug when not in use. Electronics that unnecessarily stay plugged in are in standby mode, which accounts for 5% to 10% of the average household\u2019s energy usage. By unplugging these appliances and electronics, the DOE estimates that you could save about $100 on your energy bills every year. That\u2019s about $8 a month in savings on your electricity bill. To make it easier on yourself, you can plug these electronics into a single power strip, then just flip the strip off when you\u2019re done using the appliances for the day. Also, your electrical outlets could be letting warm air escape while pulling cool air in (and vice versa), so socket seals are another way to save on energy. And if you have sockets you\u2019re not using, consider outlet plug covers for a complete seal. 6. Invest in Blackout Curtains Blackout curtains block out light and noise while keeping cool or warm air from escaping, allowing you to set your thermostat a few degrees higher or lower than you normally would. Unless you\u2019re a night owl (or a vampire) and get all your sleep during the day, there\u2019s no need to get these for every window in your home. Just buy them for the ones getting the most sunshine throughout the day (south-facing windows are the biggest culprits). In the winter, thicker window treatments like curtains can help keep heat from escaping. 7. Check Ductwork and Attic Your home\u2019s ductwork and attic can also be allowing warm or cool air to escape, and there are a couple of obvious signs when they\u2019re in need of repairs. If you can see the support beams in your attic, your attic needs more insulation. As for ductwork, seeing dust is actually a good thing. If you see parts of your ductwork that aren\u2019t collecting dust, this means air is leaking out of the joints and seals, and it needs to be patched up. The Department of Energy\u2019s website has more in-depth instructions for how to insulate your home , and you can find plenty of DIY tutorials on YouTube. However, insulation takes skill to install, and recommendations vary by climate, so it\u2019s really best to hire a professional to inspect and do the work for you. 8. Use Energy-Saving Light Bulbs Replacing your home\u2019s incandescent, compact fluorescent and halogen light bulbs to the much more energy-efficient light-emitting diodes (LEDs) can save you about $225 a year. Which LEDs you choose depends on how much you\u2019re willing to spend, how often you\u2019re willing to replace them and your lighting preferences; however, the Department of Energy agrees that LED light bulbs, whichever you choose, are an easy way to lower utility bills. Of course, these bulbs generally cost more up front, but they save more energy and last longer than the other options, so the investment may be worth it. There\u2019s no need to replace every light bulb in your home at the same time if you\u2019re strapped for cash. Just replace them as they burn out, that way your energy savers can be money savers from the start. 9. Cut Dryer Time With Dryer Balls You might think that dryer balls are meant to prevent static and wrinkles \u2014 and you\u2019re right \u2014 but they do more than that. Dryer balls can actually cut drying time by up to 25%. So not only can you save a little bit of money on utility bills, but you can also cut down your chore time. Regularly cleaning your dryer\u2019s lint trap can also improve its efficiency and help prevent fires. 10. Upgrade to Energy-Efficient Appliances Heating and cooling systems, refrigerators, ovens, washers and dryers cost quite a bit of money upfront, but investing in energy-efficient options will save you money in the long run. Make sure you get one with the official Energy Star label. Because these big-ticket appliances are an investment, you might need to budget and figure out ways to save money ahead of time. You can also check out the best times to buy new appliances by keeping track of big sales and new model releases. The best sales usually fall around holidays, including Memorial Day, Fourth of July, Labor Day, Veterans Day and Black Friday. Many brands also run sales with deeper discounts when they\u2019re planning on rolling out new models, which usually happens in September, October and January. (The exception is refrigerators, which usually make their new model debuts in May.) If you\u2019re comfortable making these buying decisions online or simply like to avoid crowded stores, you can find discounts on all appliances year-round. However, shipping costs can add up, so shop around and compare prices. You may even be able to find upgraded used appliances on sites like eBay, Craigslist, OfferUp, LetGo and Facebook Marketplace and at donation centers like The Salvation Army. 11. Check Out Options From the Power Company Many power companies offer something called budget billing that averages your utility bills throughout the year to create a flat-rate bill with no surprises. That means you\u2019ll pay a little more than you typically would in the spring and fall when temperatures are moderate, but your electric bill and gas bill should be more manageable during peak hot and cold seasons. Check your power company\u2019s website, or call the company to discuss what it has to offer. You can also check out programs like WattBuy to see if you\u2019re eligible to switch energy providers. 12. Get Caulking around windows and doors can keep hot air inside in the winter and cold air inside in the summer. It\u2019s one of the easiest DIY home repairs you can tackle; the Department of Energy says you can caulk the whole house in a couple of hours for as little as $3. Caulking helps solve minor air leaks, but if your utility costs skyrocket in the winter and summer, you might need to think about more extensive upgrades, like a new roof or storm windows, which can prevent more serious air leaks. A home energy audit can tell you what the most strategic energy-efficient upgrades to your house might be. Need Some Quick Cash? If you\u2019re looking to boost your income this month, we\u2019ve got just the thing for you. From quick gigs to smart side hustles, check out these 50 easy ways to make a quick buck \u2014 there\u2019s something for everyone. Tips for Saving Money on Your Water Bill Unless you\u2019re living in a household with several other people or your pipes have leaks, you don\u2019t have to worry as much about your water bill getting out of hand. But there are a few things you can do to shave some dollars off that bill, while going green to protect the environment. 13. Develop Water-Saving Habits Remember when your parents would yell at you for letting the water run while brushing your teeth or taking too long in the shower? Well, they kind of had a reason: They were paying the water bill. Now that you\u2019re footing the bill, get in the habit of turning the water off while brushing your teeth, lathering yourself up in the shower and even scrubbing dishes before rinsing. Another water-saving habit: If you take a glass of water to bed and don\u2019t drink it all, don\u2019t dump it in the morning. Use it to water houseplants or fill up the dog bowl; they\u2019re much less picky drinkers. 14. If You Have a Dishwasher, Use It You would think a big appliance like a dishwasher takes a lot of water to run, but it actually uses less water than washing dishes by hand \u2014 and it does a better job of sanitizing too. If you ask me, any reason not to hand wash my dishes is a win. This doesn\u2019t mean you should run the dishwasher every time there are a few dishes loaded up \u2014 make sure it\u2019s a full load to be the most cost-effective. To save even more pennies, don\u2019t rinse your dishes and pick the air dry cycle. Can You Survive 10 Days of Budgeting? If you need to wrangle your budget, it may be time to consider a savings challenge. Our 10-Day Savings Challenge will teach you how to make your money work for you with a high-yield savings account, stop overpaying on Amazon, earn money for trying out apps or watching movie previews and more. Start saving now ! 15. Use Less Water When Flushing Want a simple trick to save water when flushing? Simply load a couple of plastic soda bottles with an inch or two of pebbles or sand, and fill them up with water. Then, screw on the lids, and put them in the toilet tank. Make sure they\u2019re away from all the operating mechanisms. This easy hack reduces the amount of water your toilet uses every time you flush. If you\u2019d prefer not to go the DIY route to save on flushing, you can save a lot of money by investing in low-flow toilets . You\u2019ll just have to budget for the upfront cost of purchase and installation. 16. Master the Art of Washing Clothes There are a few ways you can conserv",
+      "headings": []
+    },
+    {
+      "rank": 16,
+      "domain": "psc.ga.gov",
+      "url": "https://psc.ga.gov/about-the-psc/consumer-corner/consumer-advisories/lowering-utility-costs/",
+      "title": "What You Need To Know To Hold Down Home Utility Costs",
+      "word_count": 664,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://psc.ga.gov/site/images/gapsc_logo_gold_shadow.png",
+        "alt": "Logo",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "http://www.psc.state.ga.us/consumer_corner/images/Image10.gif",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "http://www.psc.state.ga.us/consumer_corner/images/Image9.gif",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "http://www.psc.state.ga.us/consumer_corner/images/Image11.gif",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "http://www.psc.state.ga.us/consumer_corner/images/Image12.gif",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "http://www.psc.state.ga.us/consumer_corner/images/Image13.gif",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "Lowering Utility Costs Almost one-half of the energy we use in our homes is used for heating and cooling. Hot water heaters are the second largest users of our home energy followed by refrigerators and freezers. Energy is also used for lighting, cooking, and appliances. Saving energy in your home can help control your living costs. Many energy savings actually cost little or nothing to implement and help us hold down our home energy costs. Stop Air Leaks Small air leaks add up in a hurry. Often, many leaks around poorly fitting windows and doors have the same effect as leaving a door standing open. Weather-strip around all exterior doors and openings. Cover the openings of unused fireplaces. Caulk, weather-strip and put plastic over windows. all outside vents to crawlspaces in the winter. Open the vents in the summer. Cover window air conditioning units during the winter. Heating And Cooling Seasons Before placing your heating and cooling equipment into service each year, have your system safety checked by a qualified service technician. Open draperies and shades in sunny windows on cold days. Keep them closed at night to prevent heat from escaping. Lower your heating thermostat to 55 degrees at night when you will be away (heat pump owners may achieve greater savings by keeping their thermostat at 70 degrees unless an extended absence from home is planned). Clean and replace filters often. Check ductwork for leaks. heating vents and doors to unused rooms during the winter (make sure there are no pipes to freeze in the unheated rooms. Heat pump owners should check their owner's manual before closing the vents). Raise your cooling thermostat to 78 degrees during the summer. Use fans instead of air conditioning to move air whenever possible. Use drapes and shades to keep out unwanted sun. Turn off window air conditioners when you will be away for several hours. Keep windows and doors closed during the hottest or the coldest parts of the day. Hot Water Saver s Heating water costs you money whether you use the water or not. Set the thermostat on your water heater to lower temperature and save money Add insulation around the water heater. Be sure not to block needed air vents for gas and oil heaters. Insulate hot water piping. Repair Water Leaks Leaking faucets and toilets waste money you spend for both hot water and cold water. Repair leaks in toilets and faucets. Lighting and Appliances Use long life, lower wattage light bulbs. Change to fluorescent lights when possible. In the summer, cook during the cooler parts of the day. Use the dishwasher only when full. Let dishes air dry, instead of using the dishwasher. Remember, each time your refrigerator door is opened, you use energy. If you need a new appliance, always shop for the most energy efficient. Household Appliances The golden rule is, \"If you are not using it, turn it off!\" About 30 percent of the average consumer's electric bill results from use of these appliances. KWH Per Month Cost Per Month Automatic coffee pot 10 $.80 Clothes washer 5 $.40 Clocks 1 $.08 Hair Dryer 3 $.24 Iron 4 $.32 Lighting 40 $3.20 Radio 4 $.32 Range oven and surface 54 $4.32 Refrigerator-freezer 134 $10.72 Television or stereo 46 $3.68 Toaster 3 $.24 Vacuum Cleaner 3 $.24 Clothes Dryer 56 $4.48 Dishwasher 19 $1.92 Electric Blanket 20 $1.60 Freezer 99 $7.92 Microwave Oven 10 $.80 Pool Pump 259 $20.72 Waterbed 100 $8.00 Georgia Public Service Commission 244 Washington Street, SW Atlanta, GA 30334 (404) 656-4501 1-800-282-5813 Fax: (404) 656-2341 Email: gapsc@psc.state.ga.us Last Updated: June 15, 2000 File a complaint File an opinion Check Status of my Complaint Upcoming Events Apr 30 9:30 am Facilities Protection/Telecommunication/Energy And Administrative Affairs Committees 4-30-2026 May 5 9:30 am Administrative Session 5-5-2026 May 5 9:35 am Docket # 56765 Hearing Georgia Power Company's Fuel Cost Recovery (FCR-27) May 6 9:30 am Docket # 56765 Hearing Georgia Power Company's Fuel Cost Recovery (FCR-27) 5-6-2026",
+      "headings": []
+    },
+    {
+      "rank": 17,
+      "domain": "mercuryinsurance.com",
+      "url": "https://www.mercuryinsurance.com/resources/insurance-cost-savings/how-to-save-money-on-utilities.html",
+      "title": "22 Tips: How to Save Money on Utilities",
+      "word_count": 1666,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://media.ffycdn.net/us/mercury-insurance/YnSEu22APrYVWCQ7gE18.jpg?mod=v1/output=webp/cover=3:2/resize=350/quality=70",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://media.ffycdn.net/us/mercury-insurance/gz6RnA6gmXwd9isziY4w.svg",
+          "alt": "Verified content button",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://media.ffycdn.net/us/mercury-insurance/NWa5bmyTB3E4XCE8odFh.png?mod=v1/output=webp/quality=90",
+          "alt": "Steve Ward",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://media.ffycdn.net/us/mercury-insurance/u5L6mLtJemKRM5PBn6Ja.png",
+          "alt": "Mercury Insurance blog author logo",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 18,
+      "domain": "washtrust.com",
+      "url": "https://www.washtrust.com/blog/12-ways-to-save-energy-and-money",
+      "title": "12 Ways to Save Energy and Money",
+      "word_count": 518,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://stdidwashtrustprod.blob.core.windows.net/washtrust/images/Blog/_1200x630_crop_center-center_82_none/WebsiteImage_Energy-RESIZED.jpg?mtime=1638905474",
+        "alt": "Washington Trust logo graphic",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://stdidwashtrustprod.blob.core.windows.net/washtrust/images/Blog/_bannerWebp/40802/WebsiteImage_Energy-RESIZED.webp",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 19,
+      "domain": "clark.com",
+      "url": "https://clark.com/save-money/how-to-save-money-on-utilities/",
+      "title": "How To Save Money on Utilities",
+      "word_count": 0,
+      "scrape_status": "failed",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    }
+  ],
+  "battle_plan_generated_at": "2026-04-26T10:45:41.172338+00:00",
+  "competitors_analyzed_count": 9,
+  "battle_plan_method": "local_deterministic_agent_no_api"
+}

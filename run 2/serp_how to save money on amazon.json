@@ -1,0 +1,1025 @@
+{
+  "article_context": {
+    "angle": "Sinking funds to alleviate savings anxiety and plan for known expenses",
+    "pain_points": [
+      "Savings anxiety despite accumulating savings",
+      "Fear of using savings / pathological hoarding",
+      "Tracking spending but still broke / cannot see patterns",
+      "Emergencies wiping out savings and creating fear",
+      "Unsure how much to save or where to start"
+    ],
+    "top_social_questions": [
+      "How much of my paycheck should I save?",
+      "Are high-yield savings accounts worth it?",
+      "What are sinking funds?",
+      "How do I make sense of my tracked spending?"
+    ],
+    "dominant_emotion": "Anxiety/Worry",
+    "serp_intent": "The searcher wants practical, actionable tips and strategies for reducing spending specifically on Amazon purchases, such as using discounts, coupons, shipping hacks, or membership benefits to maximize value without cutting out shopping entirely. The SERP intent is informational, delivering listicles, guides, and tutorials focused on Amazon-specific savings tools and habits rather than general budgeting.",
+    "serp_title_pool": {
+      "primary": [
+        "Three ways to save if you buy on Amazon : r/Frugal - Reddit",
+        "14 Tricks to Save Money on Amazon Orders - Good Housekeeping",
+        "12 Amazon Shopping Secrets You Can't Afford to Ignore! - YouTube",
+        "4 secret Amazon tricks to save you BIG money - Facebook",
+        "15 Secret Ways to Save Money on Amazon That Most Shoppers ...",
+        "21 Secret Ways to Save at Amazon - Credit.com",
+        "10 Unique Ways To Save Money Shopping With Amazon - Kiplinger",
+        "How to save money on Amazon purchases? - Facebook",
+        "How to Shop Efficiently & Save Money on Amazon | Retail Analyst",
+        "21 Amazon hacks to save money - Save the Student",
+        "4 Secret Amazon Tricks to Save BIG - YouTube",
+        "HOW TO SAVE MONEY SHOPPING ON AMAZON - YouTube",
+        "12 Money-Saving Tricks to Save Big While Shopping on Amazon",
+        "15 Tricks to Save Money on Amazon That Make You Surprised",
+        "14 Money-Saving Amazon Tricks You Need to Know - Reader's Digest",
+        "3 secret ways to save money on Amazon (that most shoppers never ...",
+        "Complete Guide To Saving Money On Amazon (Save 8% - 27%+)",
+        "How can we save money while shopping at Amazon? - Quora",
+        "Ultimate Ways to Save Money on Amazon (includes Amazon Secret ..."
+      ],
+      "long_tail": [
+        "Money Saving Jar - Amazon.com",
+        "Money Jars - Amazon.com",
+        "Money Jar - Amazon.com",
+        "Money Saver Jar - Amazon.com",
+        "Money Jar For Cash Saving - Amazon.com",
+        "Savings Jar - Amazon.com",
+        "Savings Jar - Amazon.com",
+        "Watch Easy to use Digital Coin Counting Money Jar!! on Amazon Live",
+        "Money Jars For Bills - Amazon.com",
+        "Money Jars: Toys & Games - Amazon.com"
+      ],
+      "question": [
+        "The Importance of Money: Beyond the Materialistic Perspective",
+        "Why Money Is Important (Even If You Wish It Weren't) - LendEDU",
+        "Why Money Is Important - Movi.vn",
+        "Proof That Money Can Buy Happiness (or a Life with Less Stress)",
+        "Why Money Is Important in Life - YouTube",
+        "\"Is Money the Most Important Thing in Life?\" | by Shizu Homes",
+        "Can Money Buy Happiness? - Taking Charge of Your Wellbeing",
+        "What Is Money and How Does It Drive the Economy? - Royal Bank",
+        "The Importance of Saving Money",
+        "Does Money Buy You Happiness? - Affinity Federal Credit Union"
+      ]
+    },
+    "paa_questions": [
+      {
+        "q": "How to get a 15% discount on Amazon?",
+        "a": "Get an Amazon Store Card . It gives you 5% cash back on Amazon purchases and has no annual fee. Also, do anything g you don't need right away as Subscribe and Save and bunch up the months to have at least 5 items in any month you don't skip the Subscribe and Save order. That gives you a total of 10% to 15% off."
+      }
+    ],
+    "related_searches": [
+      "How to save money on amazon prime",
+      "How to save money on amazon app",
+      "How to save money on amazon reddit",
+      "Save money on Amazon codes",
+      "Amazon warehouse",
+      "Amazon Outlet",
+      "Amazon promo codes today",
+      "Amazon Saver"
+    ]
+  },
+  "primary_keyword": "how to save money on amazon",
+  "competitors": [
+    {
+      "rank": 1,
+      "domain": "reddit.com",
+      "url": "https://www.reddit.com/r/Frugal/comments/1jbw40h/three_ways_to_save_if_you_buy_on_amazon/",
+      "title": "Three ways to save if you buy on Amazon : r/Frugal - Reddit",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 2,
+      "domain": "goodhousekeeping.com",
+      "url": "https://www.goodhousekeeping.com/life/money/a36086/tricks-to-save-money-amazon/",
+      "title": "14 Tricks to Save Money on Amazon Orders - Good Housekeeping",
+      "word_count": 1571,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://hips.hearstapps.com/hmg-prod/images/screenshot-2024-07-02-at-12-25-50-pm-66842a18579d3.png?crop=1.00xw:0.444xh;0,0.264xh&resize=1200:*",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.goodhousekeeping.com/_assets/design-tokens/fre/static/icons/social/sharing.89c15b8.svg",
+          "alt": "Open share options",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://hips.hearstapps.com/hmg-prod/images/screenshot-2024-07-02-at-1-58-59-pm-66843ff70cb63.png?crop=0.9432485322896281xw:1xh;center,top&resize=980:*",
+          "alt": "amazon prime perks",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://hips.hearstapps.com/hmg-prod/images/screenshot-2024-07-02-at-12-18-43-pm-6684287104747.png?crop=0.670xw:0.934xh;0,0.0213xh&resize=980:*",
+          "alt": "coupons on amazon",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://hips.hearstapps.com/hmg-prod/images/screenshot-2024-07-02-at-10-51-48-am-6684140ecd760.png?crop=0.980xw:0.989xh;0.0119xw,0&resize=980:*",
+          "alt": "amazon outlet",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://hips.hearstapps.com/hmg-prod/images/tricks-save-money-amazon-set-price-alert-1578935574.png?resize=980:*",
+          "alt": "tricks save money amazon - camelcamelcamel",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-1209052022.png?crop=0.682xw:1.00xh;0.131xw,0&resize=300:*",
+          "alt": "What Is Amazon Warehouse?",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://hips.hearstapps.com/hmg-prod/images/gh-amazon-prime-day-amazon-outlet-68e6ab053bbf0.png?crop=0.492xw:0.984xh;0,0&resize=300:*",
+          "alt": "amazon outlet overstock deals",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://hips.hearstapps.com/hmg-prod/images/190614-prime-day-1562077715.jpg?crop=0.502xw:1.00xh;0.250xw,0&resize=300:*",
+          "alt": "How to Sign Up Amazon Prime",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://hips.hearstapps.com/rover/profile_photos/a6df94ee-b38e-46c3-920f-17c88fc4d488_1551904382.png?fill=1:1&resize=120:*",
+          "alt": "Headshot of Shanon Maglente",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://hips.hearstapps.com/rover/profile_photos/25b9b7f1-2fe6-4d1a-bf51-e1be4692264d_1679923790.file?fill=1:1&resize=120:*",
+          "alt": "Headshot of Alyssa Gautieri",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://hips.hearstapps.com/hmg-prod/images/99aab8a0-d426-4015-972e-f083df4a3e82.png?crop=0.5xw:1xh;center,top&resize=360:*",
+          "alt": "best wedding guest dresses on amazon",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://hips.hearstapps.com/hmg-prod/images/e1cdb4e0-2947-49f5-bc64-e04f02aa6484.jpg?crop=1xw:1.0xh;center,top&resize=360:*",
+          "alt": "money",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://hips.hearstapps.com/hmg-prod/images/c3557bdf-b64b-481a-9cdf-cb369e613d11.png?crop=0.520xw:0.984xh;0.233xw,0&resize=360:*",
+          "alt": "baby items you should not buy secondhand",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://hips.hearstapps.com/hmg-prod/images/good-housekeeping-reusable-household-items-to-save-money-69a1daa35a18d.jpg?crop=0.500xw:1.00xh;0.250xw,0&resize=360:*",
+          "alt": "hand holding patterned paper sheets with various designs",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://hips.hearstapps.com/hmg-prod/images/good-houskeeping-48-hour-rule-shopping-699f5adbe9e29.png?crop=0.502xw:1.00xh;0.250xw,0&resize=360:*",
+          "alt": "clock surrounded by dollar bills on a turquoise background",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://hips.hearstapps.com/hmg-prod/images/3e67f02c-b4e7-4fca-80e6-107c28cdd6a2.jpeg?crop=0.666666666667xw:1xh;center,top&resize=360:*",
+          "alt": "Receipts",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://hips.hearstapps.com/hmg-prod/images/amazonvalentine-sdaystorefront-1-69839c3962689.png?crop=0.5xw:1xh;center,top&resize=360:*",
+          "alt": "amazon valentine's day shop",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://hips.hearstapps.com/hmg-prod/images/t-j-maxx-store-696a53a7b27ad.jpg?crop=0.660xw:1.00xh;0.168xw,0&resize=360:*",
+          "alt": "shoppers at t.j. maxx",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://hips.hearstapps.com/hmg-prod/images/credit-card-dining-perks-696175f1102dd.jpg?crop=0.627xw:1.00xh;0.135xw,0&resize=360:*",
+          "alt": "person handing server a credit card to pay for restaurant meal",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://hips.hearstapps.com/hmg-prod/images/early-prime-day-home-deals-68d183f6e035f.png?crop=0.5xw:1xh;center,top&resize=360:*",
+          "alt": "early prime day home deals",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-1459134578-68caea7cda240.jpg?crop=0.647xw:0.969xh;0.165xw,0.0313xh&resize=360:*",
+          "alt": "tj maxx shopping tips",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://hips.hearstapps.com/hmg-prod/images/laundry-stripping-1-6700016332c85.png?crop=0.5xw:1xh;center,top&resize=360:*",
+          "alt": "how we find deals",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "We've been independently researching and testing products for over 120 years. If you buy through our links, we may earn a commission. Learn more about our review process. Whether you're shopping for beauty essentials , cleaning products, affordable furniture or a last-minute gift idea , Amazon has you covered. Not only does the online retailer offer a wide selection of products, but Amazon prioritizes low prices, fast shipping and real customer reviews that make it easy to decide which best-selling Amazon products are worth the hype. From Amazon Prime Day to \"daily deals,\" Amazon is constantly offering discounts to its customers, but these low prices don't always stick around. If you know where \u2014 and when \u2014 to shop on Amazon, you can capitalize on all of the best deals, promotions and little-known opportunities. Luckily, we spoke with money-saving experts and Amazon representatives to compile 14 genius ways to make the most out of your Amazon shopping experience. 1. Become an Amazon Prime member First and foremost, becoming an Amazon Prime member comes with a ton of great perks . When you sign up for Amazon Prime , you're essentially paying up front for benefits that save you money in the long run. This includes exclusive discounts on eligible items, free and fast shipping, free grocery delivery with Amazon Fresh , early access to Amazon sales events and much more. Keep in mind: You must be a member to shop the deals and score freebies on Amazon Prime Day (which takes place July 16-17 this year). Amazon Prime costs $139 per year, or $14.99 per month after a 30-day trial period. College students and qualifying government assistance recipients can get memberships for 50% less, costing either $7 and $7.49 per month. Sara Skirboll, shopping & trends expert for RetailMeNot , says a Prime membership is essential if you think you'll place at least 15 orders a year. That's at least one order per month \u2014 taking a closer look at your Amazon history might help you decide what's best. 2. Take advantage of free digital offers with your membership Don't forget your Prime membership includes exclusive access to digital items, from popular movies and TV shows to ad-free music. You can also enjoy a selection of Kindle books, original audio series and games for free with a Prime membership. Other benefits you may not be aware of include unlimited, full-resolution photo storage with Amazon Photos and free Grubhub+. 3. For non-members, score free shipping by bundling items If you aren't a Prime member, you can still snag free shipping. When your order includes at least $35 of eligible items, you can receive free 5-8 day shipping. Eligible items include anything labeled \"Free Shipping\" on the product detail page that is fulfilled and shipped by Amazon. This might mean putting a little more effort in planning out your purchases. But for free shipping? It's worth it. 4. Get Amazon credit for choosing no-rush shipping If you're not in a rush to receive your package, select no-rush shipping instead of the standard two-day shipping to earn Amazon rewards. (This hack is for Prime members only). By choosing a slower shipping speed, a special discount is instantly applied to your order, and a promotional credit gets applied to your account for a future order once your current order is shipped. 5. Shop with credit card points Depending on your credit card company, like AMEX and Chase, you may be able to redeem your credit card points into Amazon credit. After you register an eligible rewards program to your account, you can use your Shop with Points balance during checkout. Amazon Prime members can also earn 5% cash back on Amazon purchases with the Amazon Prime Rewards Visa Signature Card . 6. Set household staples to autopilot ordering Amazon's & Save program works just how it sounds: You select various items you need on a regular basis (think: laundry detergent, coffee pods, baby care items and more), set the quantity and schedule, and then get up to 15% off and free shipping automatically. \"The discounts are small, and in some cases, the prices may not be any better than we could get elsewhere. However, the time we save by not having to re-purchase diapers, soap and toiletries is worth it,\" says Julia Scott, the blogger behind Bargain Babe . \"Before my monthly shipment, Amazon emails me a reminder so I have several days to cancel any items I don't want.\" 7. Clip coupons for extra savings Yes, Amazon Coupons exist! \"Many of these special coupon codes can be found in the 'Special Offers' section on specific product pages,\" says Collin Morgan, of Hip 2 Save . \"You can also find loads of clippable coupons on Amazon to save on groceries, household items and more.\" Simply click \"Clip Coupon\" and the savings are automatically applied during checkout. 8. Take advantage of daily deals At the top of your Amazon.com page, click on the tab that says \" Today's Deals .\" Get ready to save on Deals of the Day (items discounted for one day only) and Lightning Deals (items discounted for a few hours or until the set stock runs out). You can also use an Echo device to learn about the latest deals by asking, \"Alexa, what are my deals?\" \"Many products are discounted to the lowest prices they've ever been , with some items discount by 70% or more,\" says Morgan. To make sure you never miss a deal, you can take advantage of the Watch a Deal alert on the Amazon App. \"Simply click 'Watch this Deal' on any item and receive a notification to your mobile phone when the deal is about to start,\" an Amazon.com representative tells GH. 9. Buy overstocked products at steep discounts It takes a bit of digging around to find Amazon Outlet , but once you do find it, prepare to save. The Outlet is a dedicated section of Amazon where you can find markdowns on overstock and clearance products. It features categories like clothing , beauty , home and furniture , and even products under $10 . 10. Trade in electronics you no longer need If you've got an old speaker, cell phone or tablet collecting dust, why not trade it in for Amazon credit? The Amazon Trade-In program lets you swap eligible electronics (think: video games, internet routers and more) for an Amazon.com gift card, plus a discount towards a new Amazon device. The process even includes a free, pre-paid shipping label. 11. Shop pre-owned and used items at a discount Amazon Resale is where returned, warehouse-damaged, used or refurbished products go to be discounted. Sometimes, that just means a box is missing or torn. \"I got my wife a camera lens that had a damaged box, but the lens was in perfect shape,\" says Grayson Bell, from Debt Roundup , who nabbed the lens at a 35% discount. 12. Get refurbished items for way less Amazon Renewed offers pre-owned, refurbished and open-box products. An Amazon rep tells GH, \"By shopping Amazon Renewed, customers can score products from top brands that work and look like new, but are more affordable.\" Each item on Amazon Renewed has been carefully evaluated by suppliers and is backed with a 90-day warranty. To ensure the best and safest shopping experience possible, the experts in the Good Housekeeping Institute advise that you read through this warranty, be mindful of any fine print on the product, and understand the return policy. 13. Set alerts to get the lowest prices Camelcamelcamel.com tracks prices on Amazon as they change over time. Instead of manually tracking, you can also set target prices for products. If and when the price dips, you'll get an email alert so you can swoop in. \"I was able to save $240 by having [Camel] email me when the price dropped,\" says Bell. 14. Or, let your cart track prices for you If you're considering some pricier items you don't need right away, consider putting them in your cart on Amazon and clicking the \"save for later\" button. Amazon will alert you if there have been any price decreases (or increases!). Shanon Maglente is a writer and editor who specializes in deals, trends, and best-of product roundups. She has about a decade\u2019s worth of experience, and has worked with Good Housekeeping as a writer and editor since 2019. Alyssa Gautieri (she/her) leads Good Housekeeping \u2019s gift guide strategy. She writes and edits commerce content, where she analyzes lifestyle trends, shopping data, and works closely with the Good Housekeeping Institute to recommend top-tested products. Previously, she was the associate lifestyle editor for GH and wrote for publications including ELLE Decor , BobVila.com, and Unique Homes Magazine . When she\u2019s not tracking down buzzy products, you can find her walking her dog, Skye, around Jersey City. Money & Shopping Tips 15 Best Wedding Guest Dresses on Amazon 8 Things I Never Buy Cheap Anymore A Guide to Thrifting Baby Gear 9 Reusable Items I Use to Save Money I Tried the 48-Hour Rule for a Month 7 Services I\u2019ve Completely Stopped Paying For Our Top Gifts From Amazon's Valentine\u2019s Day Shop T.J. Maxx Has Tons of Surprising Items Right Now All the Credit Cards with Dining Credits I Found the Best Early Prime Day Home Deals I Swear By These T.J. Maxx Shopping Tips How Good Housekeeping Editors Find the Best Deals",
+      "headings": []
+    },
+    {
+      "rank": 3,
+      "domain": "youtube.com",
+      "url": "https://www.youtube.com/watch?v=twnDpMlXWDk",
+      "title": "12 Amazon Shopping Secrets You Can't Afford to Ignore! - YouTube",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 4,
+      "domain": "facebook.com",
+      "url": "https://www.facebook.com/rossenreports/posts/4-secret-amazon-tricks-to-save-you-big-money/1427302762090507/",
+      "title": "4 secret Amazon tricks to save you BIG money - Facebook",
+      "word_count": 0,
+      "scrape_status": "failed",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 5,
+      "domain": "johnnyjet.com",
+      "url": "https://johnnyjet.com/15-secret-ways-to-save-money-on-amazon-that-most-shoppers-dont-know/",
+      "title": "15 Secret Ways to Save Money on Amazon That Most Shoppers ...",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://johnnyjet.com/wp-content/uploads/2025/03/amazon-shopping-deals.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://johnnyjet.com/wp-content/uploads/2026/04/I-Asked-United-Airlines-CEO-Scott-Kirby-for-His-Top-Travel-Tip.-The-Answer-Surprised-Me.jpg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://johnnyjet.com/wp-content/uploads/2026/04/SFO-LAX-on-United-Aug-4-2023-3.jpg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://johnnyjet.com/wp-content/uploads/2024/06/luggage-on-baggage-carousel.jpg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 6,
+      "domain": "credit.com",
+      "url": "https://credit.com/blog/ways-to-save-at-amazon-174062",
+      "title": "21 Secret Ways to Save at Amazon - Credit.com",
+      "word_count": 2462,
+      "scrape_status": "tavily_fallback",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": "# 21 Secret Ways to Save at Amazon Published October 18, 2018 Author ### Cheryl Lock When you go to Amazon, you\u2019ll find savings on everything from books and electronics to groceries and baby needs, but are you really getting the best deals available? It\u2019s no question that if you want something, you can probably find it on Amazon. The options go on and on \u2014 and it\u2019s all one click away. Getting an Amazon deal is easy, but how do you get a steal? Learn how to save money on Amazon by following our tips and tricks. Don\u2019t let over-clicking and overspending lead you into debt. Follow our strategies to make the most out of your Amazon shopping experience and start saving even more on purchases made at this online retailer. Read on to learn 21 secret ways to save at Amazon, get the best deals available, and decide if the Amazon Visa Card is right for you or if an alternative cash rewards credit card is a better option. ## 1. For & Save Signing up for Amazon\u2019s & Save program can help you save up to 15% and get you free shipping on items you regularly buy, like deodorant, toothpaste, makeup, cereal, pet food, and cleaning supplies. All you have to do is find the items you want, hit \u201cSubscribe & Save\u201d instead of \u201cOne-Time Purchase,\u201d and you can set up a regular schedule for receiving these items. Once you subscribe, the items will be delivered to you automatically. So the next time you run out of soap, you don\u2019t have to worry about making a last-minute pharmacy run. Amazon has you covered. But keep in mind, item prices may fluctuate over time. ## 2. Earn Free Amazon Gift Cards or Buy Discounted Gift Cards If you download apps like Swagbucks, Survey Junkie, Inbox Dollars, or Ibotta, you can earn free Amazon gift cards by simply answering surveys, playing online games, or submitting receipts. For many, you can earn $5 cash back when you sign up. You can also buy discounted Amazon gift cards from sites like Raise.com and Gift Card Granny to score Amazon gift cards at less than face value. ## 3. Save with the Amazon Prime Rewards Visa Signature Card Amazon offers a traditional credit card in addition to their store credit card. This Amazon.com card offers 5% cash back on purchases made at Amazon.com or at Whole Foods Market, as well as 2% cash back on restaurant, gas station, and drugstore purchases. On top of that, you can earn 1% cash back on everything else, and it can be used anywhere that Visa is accepted. ## 4. Use Your Current Rewards Credit Card to Shop How can you save on Amazon if you\u2019re not interested in acquiring new plastic? Prime altogether and get some kickback on your purchases by using a different rewards credit card. Check out another credit card from one of our trusted partners\\*: Discover it\u00ae Cash Back, which doesn\u2019t require you to be an Amazon Prime Member. Just be careful not to spend more than you\u2019ll be able to pay off in full. Otherwise, your points, miles, or cash back will be lost to accumulating interest. Remember, high credit card balances can hurt your credit. To see where your credit score is currently at, you can view two of your credit scores for free on Credit.com, updated every 14 days. ## 5. Make the Most of Amazon Prime If you\u2019re a frequent Amazon shopper, you\u2019re probably wondering how you can save money on Amazon. You can pay a $99 yearly fee to join Amazon Prime. Members earn rewards on purchases, get free two-day shipping, and free same-day delivery and/or two-hour delivery in eligible zip codes (yes, two-hour delivery is an option). With a Prime membership, you\u2019ll also get access to a selection of streaming exclusive TV shows and movies, earn additional Amazon coupons, and get a free two-month trial on the family plan of Amazon Music Unlimited \u2014 plus a discount on the full membership if you decide to join. ## 6. Get 30 Days of Discounts or Save Month-to-Month With Prime Monthly If you don\u2019t shop online often or if you\u2019re not sure Amazon Prime is right for you, sign up for a free 30-day trial, take advantage of the deals, and cancel it before the month is over. If you like Amazon Prime, but can\u2019t afford to pay for a yearly membership, consider paying the $12.99-per-month fee, with or without free shipping. Just keep in mind, if you end up paying the monthly fee for a whole year, you\u2019ll end up spending more than the yearly fee. ## 7. Join Prime Student for Discounts If you\u2019re a student with a valid *.edu* email address, you can sign up for Prime Student and get all of the benefits of an Amazon Prime membership for half the price. You\u2019ll get a free six-month trial, and then you\u2019ll get upgraded to standard Prime for 50% off. As a Prime Student member, you get free two-day shipping, access to streaming video, thousands of books and magazines, as well as early access to select Amazon Lightning Deals, among other perks. ## 8. Save Money on Amazon Family If you\u2019re a family-oriented Prime member, you can sign up for free at Amazon Family and get access to exclusive Amazon offers and coupons, in addition to 20% off subscriptions on family-related items like diapers, baby formula, vitamins, etc. Plus, get a 15% Baby Registry completion discount. All you have to do is create a child profile to get started. ## 9. Add Family Members to Your Account Amazon Prime Members get another great perk: they can join Amazon Household and add up to 10 family members to their account. Adults and teens can share select Prime benefits, as well as digital content through Family Library. Children can use Amazon FreeTime, a subscription that comes with unlimited access to thousands of kid-friendly books, educations apps, etc. ## 10. Try Before You Buy With Prime Wardrobe, Amazon Prime members can have clothes delivered before purchasing them, so they can actually try them on. That\u2019s right. You get the benefits of shopping in-store, but the luxury of shopping from home. Once you decide what you want, you only pay for what you keep and return the rest using Amazon\u2019s pre-paid shipping label. ## 11. Consider the Amazon Store Credit Card The retail giant offers a standard Amazon.com card (the Amazon Prime Store Card), which is strictly no-frills for non-Prime members. If you are a Prime member, you\u2019ll receive a full 5% cash back on Amazon purchases, which can really add up for frequent Amazon shoppers. ## 12. Shop Amazon With Rewards Amazon partners with quite a few credit card issuers (like Chase and Discover), so you can pay for your Amazon.com purchases using your points or cash back \u2014 and not the hard-earned funds in your bank account. This is one of the easiest ways to avoid the Amazon.com card but earn rewards for Amazon purchases. ## 13. Check Out Today\u2019s Deals and Coupons Every day can feel like Cyber Monday if you browse the \u201cToday\u2019s Deals\u201d section on Amazon. From coupons and 24-hour deals to open box and used items, the savings are endless on your Amazon purchases. For even more discounts, check out Amazon Coupons and clip the coupons you\u2019re interested in. ## 14. Wait to Buy and Save Money Amazon price tracker sites like camel.com, Keepa, and Tracktor monitors millions of products on Amazon and send you price drop alerts on the items you want, so you can take advantage of the lowest price available. You can also add items to your checkout bag and leave them there \u2014 and eventually, Amazon could reward you with an additional discount (but this isn\u2019t guaranteed). ## 15. Shop Around for Lower Prices Use price comparison sites like PriceBlink.com or install a coupon aggregator like Honey on your computer or phone to see if there are lower prices and/or coupons on the items you want. There\u2019s no reason to miss out on great deals if the items are cheaper elsewhere. While you\u2019re viewing a product, PriceBlink.com, for instance, scans more than 4,000 additional merchants for lower prices, so you know you\u2019re always making the most informed purchase. ## 16. Get Paid to Shop Online for a MyPoints account, and you\u2019ll earn points for every dollar you spend when you go to MyPoints Amazon. If you\u2019re already shopping on Amazon, you might as well make money while you do it. Plus, you\u2019ll even earn a $10 Amazon card with your first qualified purchase. ## 17. Do Some Research Before You Buy If you\u2019re searching for a specific product on Amazon, don\u2019t always think the first item that pops up will be the cheapest. In fact, if you\u2019re in the market for a certain product, you can save on Amazon, if you dig deeper. Rather than just typing in the object name in the search bar and buying the first thing that appears, check out the \u201cCustomers Who Bought This Item Also Bought\u201d carousel below the item for products that are likely to be very similar to what you\u2019re looking for \u2014 but potentially much cheaper. ## 18. Trade in Items on Amazon and Earn Cash Rewards Use the Amazon Trade-In program to earn gift cards on items you no longer use. Instead of taking your books, toys, or video games to a secondhand store, add trade-in items to your account and earn cash rewards through Amazon.com gift cards. Don\u2019t worry about shipping costs. Amazon takes care of that for you. You can also browse the Trade-In Store for items you\u2019re interested in buying. ## 19. Buy Slightly Used in the Warehouse If you want deep discounts, Amazon Warehouse is where you should go. You can find items that are like-new, used, or refurbished at fantastically low prices. Amazon also carries open-box products, which includes functioning computer games and software. Don\u2019t worry, all of the items included in the warehouse are in decent condition, thanks to Amazon\u2019s strict policies. ## 20. Donate a Portion of Your Purchases This isn\u2019t necessarily a price-saving hack, but AmazonSmile lets you donate 0.5% of your purchase to the charity of your choice. You pay nothing extra. Just go to Smile.Amazon.com and start shopping on Amazon like you normally would. ## 21. Turn Off One-Click Okay, this move won\u2019t net you a discount, but it may stop you from going overboard and busting your budget. Amazon makes it easy (almost too easy) to buy items, so if you want to stop yourself from hitting \u201cBuy Now,\u201d go to Amazon\u2019s 1-Click Settings, click \u201cMake default,\u201d click \u201cchange,\u201d and finally, click \u201cturn off everywhere.\u201d Now you don\u2019t have to worry about accidentally ordering. Want more shopping hacks? We\u2019ve got plenty. You can find secret ways to save at Target here. Have another brand you\u2019d like us to tackle? Let us know in the comments. ## Amazon Q&A: How to Save Money on Amazon Know that you know how to save money on Amazon, here are answers to shoppers most common questions: Q: Can I get savings on Audiobooks specifically? A: Yes, Amazon owns Audible. Like Amazon Prime, you sign up for a 30-day trial of an Audible account and take advantage of all of the book deals available. If you choose to sign up, you get two free books. If you are an AARP member, you can also get up to 50% off audiobooks *without* being an Audible member. Q: How can I check Amazon credit on Amazon.com? A: You can check your Amazon Appstore credit balance by clicking \u201cRedeem a gift card or promotional code and view balance.\u201d If you have gift cards on your account, you can also check that balance by clicking on \u201cGift Cards\u201d in your Account settings. Q: How can I make money on Amazon.com? A: If you want to make money on Amazon.com, the easiest way is to start selling. You can sell products you\u2019ve made, books you\u2019ve written, or movies you no longer watch. Q: How can I view an item\u2019s price history? A: As mentioned above, we suggest using an Amazon price tracker, which gives you updates on price drops, but also gives you a detailed price history chart. That way, you know if the current price is worth taking. Q: What happened to Amazon\u2019s MyHabit? A: If you used to shop for designer goods on Amazon\u2019s MyHabit, you\u2019re probably wondering why you can\u2019t still find up to 70% on goods and clothing. MyHabit no longer exists. However, you can still shop on Amazon Warehouse or Amazon Outlet. Now that you know how to save money on Amazon, enjoy shopping (and all of your Amazon savings). *Note: It\u2019s important to remember that interest rates, fees and terms for credit cards, loans and other financial products frequently change. As a result, rates, fees and terms for credit cards, loans and other products cited in these articles may have changed since the date of publication. Please be sure to verify current rates, fees and terms with credit card issuers, banks or other financial institutions directly.* *Image: Petar Chernaev* Author ### Cheryl Lock Advertiser Disclosure ## You might also like ## It's Financial Literacy Month: Here's What Your Credit Score Wants You to Know Learn how to improve your credit score with essential tips on payment history, credit utilization, and more this Financial Literacy Month. Kevin Cook April 07, 2026 ## Can a Tax Refund Help You Build Better Credit? Learn how to use your tax refund to improve your credit score with these strategic financial tips. Boost your financial health and achieve your credit goals. Kevin Cook February 25, 2026 ## For the Love of Money: Why Today Is the Perfect Time to Check In on Your Financial Relationship Take control of your financial health and strengthen your money relationship with practical tips to improve your credit score and set financial goals today. Kevin Cook January 28, 2026 -2026 Credit.com \u2122, LLC. | Privacy Notice | Terms of Service | Do not sell or share my personal information | Change Preferences The offers that appear on Credit.com's website are from companies from which Credit.com receives compensation. This compensation may influence the selection, appearance, and order of appearance of the offers listed on the website. Compensation is not a factor in the substantive evaluation of any product. However, this compensation also facilitates the provision by Credit.com of certain services to you at no charge. The website does not include all financial services companies or all of their available product and service offerings. Google Play and the Google Play logo are trademarks of Google LLC.",
+      "headings": []
+    },
+    {
+      "rank": 7,
+      "domain": "kiplinger.com",
+      "url": "https://www.kiplinger.com/personal-finance/shopping/money-saving-hacks-for-amazon-shoppers",
+      "title": "10 Unique Ways To Save Money Shopping With Amazon - Kiplinger",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://cdn.mos.cms.futurecdn.net/rBqwiK7q5f3bws32zPdVdW-2156-80.jpg",
+        "alt": "Amazon shopping app displayed on smartphone with Prime delivery box",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/fSpmnh7rBdFGNQWX9sFiYM-200-80.jpg",
+          "alt": "Kathryn Pomroy's avatar",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/Cz67FUT8psSrZNMjq7rgL4.jpg",
+          "alt": "Kiplinger Today",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/Zhxc7fTLQWFF8G3ABVrdSR.jpg",
+          "alt": "Kiplinger A Step Ahead",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/564qqJEiSykJwRmnoziZAf.jpg",
+          "alt": "Kiplinger Closing Bell",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/3rtFjW5untZ5gvv54S2iA4.jpg",
+          "alt": "Kiplinger Adviser Intel",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/nNZAGb5zafwV83TX9J5XUM.jpg",
+          "alt": "Kiplinger Tax Tips",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/mgzV3FbpbDnEfxtErC36pe.jpg",
+          "alt": "Kiplinger Retirement Tips",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/UpPo4bgpUFwJYsgaiHT7C4.jpg",
+          "alt": "Kiplinger Adviser Angle",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/d36qiFiZZ4kuHvrFsSipXN.jpg",
+          "alt": "Kiplinger Investing Weekly",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/q32bdLaWponxbDpZ4ZyrtX.jpg",
+          "alt": "Kiplinger Invest for Retirement",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/rBqwiK7q5f3bws32zPdVdW.jpg",
+          "alt": "Amazon shopping app displayed on smartphone with Prime delivery box",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/flexiimages/y99mlvgqmn1763972420.png",
+          "alt": "https://cdn.mos.cms.futurecdn.net/flexiimages/y99mlvgqmn1763972420.png",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/FCRgrSGRNe8gktQrW9MXFF-200-80.jpg.webp",
+          "alt": "Amazon Prime",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/9EYnES54xccpeWJXJGQzcH-200-80.jpg.webp",
+          "alt": "Image",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/fwKKc756J9HChrZVNCDxpB.jpg",
+          "alt": "A couple opening their online order",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/fSpmnh7rBdFGNQWX9sFiYM.jpg",
+          "alt": "Kathryn Pomroy",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 8,
+      "domain": "facebook.com",
+      "url": "https://www.facebook.com/groups/5668319929882800/posts/10056896844358398/",
+      "title": "How to save money on Amazon purchases? - Facebook",
+      "word_count": 0,
+      "scrape_status": "failed",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 9,
+      "domain": "hithaherzog.com",
+      "url": "https://www.hithaherzog.com/blog/how-to-save-money-on-amazon",
+      "title": "How to Shop Efficiently & Save Money on Amazon | Retail Analyst",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "http://static1.squarespace.com/static/56c7ab86f850827f409af9b0/574f1a30ef1a76f74a24efd4/6105b3b8005cc607ae085f8f/1627764183373/Amazon+Outlet.jpg?format=1500w",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/56c7ab86f850827f409af9b0/1627763821187-4CFG7WGUWCM20MF3CT64/Amazon+Warehouse.jpg",
+          "alt": "Amazon Warehouse.jpg",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/56c7ab86f850827f409af9b0/1627764155170-6YZ9UW2BM3749739DXT0/Amazon+Like+New.jpg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/56c7ab86f850827f409af9b0/1627763927672-SRV2ULIQ7BSVEI74JZZ6/Amazon+Outlet.jpg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/56c7ab86f850827f409af9b0/1627763944582-0JQ7830FENBKOOF5MXUQ/Amazon+Gift+Card.jpg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/56c7ab86f850827f409af9b0/1627763956396-5M23MTJ6UZIOYD2T078C/Amazon+Coupons.jpg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/56c7ab86f850827f409af9b0/1627763969614-UQCTJLOP8PC4W2T3FRNJ/Amazon+Trade-In.jpg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/56c7ab86f850827f409af9b0/1627763995616-OMWC32PU61Z1400YYLRZ/Amazon+Lightning+Deals.jpg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 10,
+      "domain": "savethestudent.org",
+      "url": "https://www.savethestudent.org/shopping/amazon-shopping-hacks-for-students.html",
+      "title": "21 Amazon hacks to save money - Save the Student",
+      "word_count": 0,
+      "scrape_status": "failed",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 11,
+      "domain": "youtube.com",
+      "url": "https://www.youtube.com/shorts/PzQBhkbeV-8",
+      "title": "4 Secret Amazon Tricks to Save BIG - YouTube",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 12,
+      "domain": "youtube.com",
+      "url": "https://www.youtube.com/watch?v=u8_oZpYpw9I",
+      "title": "HOW TO SAVE MONEY SHOPPING ON AMAZON - YouTube",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 13,
+      "domain": "onehundreddollarsamonth.com",
+      "url": "https://www.onehundreddollarsamonth.com/12-money-saving-tricks-to-save-big-while-shopping-on-amazon/",
+      "title": "12 Money-Saving Tricks to Save Big While Shopping on Amazon",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://i0.wp.com/www.onehundreddollarsamonth.com/wp-content/uploads/2016/01/amazon-shopping-tips-1.jpg?fit=550%2C1100&ssl=1",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://i0.wp.com/onehundreddollarsamonth.com/wp-content/uploads/2016/01/amazon-shopping-tips.jpg?resize=800%2C1600&ssl=1",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i0.wp.com/onehundreddollarsamonth.com/wp-content/uploads/2016/01/amazon-shopping-tips-1.jpg?resize=550%2C1100&ssl=1",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i0.wp.com/onehundreddollarsamonth.com/wp-content/uploads/2013/10/amazon-prime-membership.jpg?resize=550%2C272&ssl=1",
+          "alt": "amazon-prime-membership",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i0.wp.com/onehundreddollarsamonth.com/wp-content/uploads/2016/01/amazon-subscribe-and-save.jpg?resize=600%2C275&ssl=1",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i0.wp.com/onehundreddollarsamonth.com/wp-content/uploads/2016/01/amazon-boxes.jpg?resize=550%2C330&ssl=1",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i0.wp.com/onehundreddollarsamonth.com/wp-content/uploads/2017/07/amazon-kindle-trade-in-program.jpg?resize=600%2C214&ssl=1",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i0.wp.com/onehundreddollarsamonth.com/wp-content/uploads/2016/01/amazon-ebooks.jpg?resize=598%2C204&ssl=1",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 14,
+      "domain": "loveable.us",
+      "url": "https://loveable.us/blogs/news/tricks-to-save-money-amazon?srsltid=AfmBOopGOOAyUmGxHRbPzEoH_72U-ufAVWJ4ANyz0xEMvbTzYS2qfD1f",
+      "title": "15 Tricks to Save Money on Amazon That Make You Surprised",
+      "word_count": 2014,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://loveable.us/cdn/shop/articles/Tricks_to_Save_Money_on_Amazon_600x.jpg?v=1731053917",
+        "alt": "Tricks to Save Money on Amazon",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://loveable.us/cdn/shop/files/loveable-logo-fixed2_715f7c3c-f418-4c6c-849a-00859e67173f_410x.png?v=1746028443",
+          "alt": "Logo",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0618/2941/5144/files/facebook.svg?v=1746280326",
+          "alt": "Icon 2",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0618/2941/5144/files/instagram.svg?v=1746280326",
+          "alt": "Icon 1",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0618/2941/5144/files/twitter.svg?v=1746280326",
+          "alt": "Icon 3",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0618/2941/5144/files/pinterest.svg?v=1746280326",
+          "alt": "Icon 4",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0618/2941/5144/files/mail.svg?v=1746280325",
+          "alt": "Icon 5",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0618/2941/5144/files/visa.svg?v=1746281170",
+          "alt": "Icon 2",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0618/2941/5144/files/mastercard.svg?v=1746281170",
+          "alt": "Icon 1",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0618/2941/5144/files/applepay.svg?v=1746281170",
+          "alt": "Icon 3",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0618/2941/5144/files/americanexpress.svg?v=1746281170",
+          "alt": "Icon 4",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0618/2941/5144/files/paypal.svg?v=1746281170",
+          "alt": "Icon 5",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0618/2941/5144/files/googlepay.svg?v=1746283614",
+          "alt": "Icon 6",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://loveable.us/cdn/shop/articles/Tricks_to_Save_Money_on_Amazon_50x.jpg?v=1731053917",
+          "alt": "Tricks to Save Money on Amazon",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://loveable.us/cdn/shop/articles/Tricks_to_Save_Money_on_Amazon_2000x.jpg?v=1731053917",
+          "alt": "Tricks to Save Money on Amazon",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://storage.googleapis.com/loveable.appspot.com/blog/uploads/2023/02/22152332/trick-to-save-money-on-amazon-1.jpg",
+          "alt": "Join Amazon Prime today",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://storage.googleapis.com/loveable.appspot.com/blog/uploads/2023/02/22152302/trick-to-save-money-on-amazon-2.jpg",
+          "alt": "Save even more money by clipping Amazon coupons",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://storage.googleapis.com/loveable.appspot.com/blog/uploads/2023/02/22152214/trick-to-save-money-on-amazon-3.jpg",
+          "alt": "Trade in items you purchased but do not need",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://storage.googleapis.com/loveable.appspot.com/blog/uploads/2023/02/22152144/trick-to-save-money-on-amazon-4.jpg",
+          "alt": "Actively Seek Out Coupons Each Day",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0618/2941/5144/files/information.svg?v=1746451590",
+          "alt": "Icon 2",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0618/2941/5144/files/shield-tick.svg?v=1746451590",
+          "alt": "Icon 2",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0618/2941/5144/files/faq-circle.svg?v=1746451590",
+          "alt": "Icon 2",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "FREE Shipping For Orders Over $50! Reviews Our Story Women Empowerment Tee Gifts For Her Mother's Day Our Products Happy Customers\ud83d\ude0d Grandma Mom Wife Sister Daughter Girlfriend Daughter-In-Law Apparel T-shirt Hoodie Sweatshirt Ugly Sweater Cap Men's Boxers Apron Shoes Wearable Blanket Drinkware Tumbler Mugs Glassware Desk Decor Candles Led Candle \ud83d\udd25 Light & Lamp Plaque Plant Pot Dock Station Calendar Home Decor Ornament\ud83d\udd25 Canvas/Poster Clocks Cutting Board Key Holder Photo Clip Frame Doormat Blanket Metal Sign Magnet Puzzles Wind Chimes Jewelry & Accessory Necklace Watch Keychain Leather Bag Sacks Pillow Journal Wallet Cuban Link Chain Phone Case Wooden Sign\ud83d\udd25 \u2630 \u2715 Our Categories \ud83d\udc9d Women Empowerment Tee Gifts For Her Grandma Mom Wife Sister Daughter Girlfriend Daughter-In-Law Mother's Day Our Products Apparel T-shirt Hoodie Sweatshirt Ugly Sweater Cap Men's Boxers Apron Shoes Wearable Blanket Drinkware Tumbler Mugs Glassware Desk Decor Candles Led Candle \ud83d\udd25 Light & Lamp Plaque Plant Pot Dock Station Calendar Home Decor Ornament\ud83d\udd25 Canvas/Poster Clocks Cutting Board Key Holder Photo Clip Frame Doormat Blanket Metal Sign Magnet Puzzles Wind Chimes Jewelry & Accessory Necklace Watch Keychain Leather Bag Sacks Pillow Journal Wallet Cuban Link Chain Phone Case Wooden Sign\ud83d\udd25 For customer \ud83d\ude0d Reviews Gift Finder By Loveable About Us Contact Us Blog Terms of Service Shipping Policy Loveable\u2122 . Loveable LLC #header-jesse li.mobile-menu-item a{ color: black; } .header-main-search-form-jesse button.search-formsubmit-button { color: gray; } li.mega-menu-item-jesse { margin-bottom: unset; padding-bottom: 12px; } .mega-menu-item-jesse:hover + .dropdown-level-2[data-index=\"1\"], .mega-menu-item-jesse:hover + .dropdown-level-2[data-index=\"2\"], .mega-menu-item-jesse:hover + .dropdown-level-2[data-index=\"3\"] { display: block; } .dropdown-level-2 { position: absolute; left: 50%; transform: translateX(-50%); opacity: 0; visibility: hidden; transition: opacity 0.3s ease, visibility 0.3s ease; } .submenu-level-2-head { border-bottom: 1px solid #f13c20; } #header-jesse .search-form-container { border: 2px solid black; border-radius: 5px; transition: border-color 0.3s ease-in-out, box-shadow 0.3s ease-in-out; } #header-jesse .search-form-container:focus-within { border-color: #f13c20; box-shadow: 0 0 5px rgba(241, 60, 32, 0.5); } #header-jesse { width: 100%; } .submenu-level-2-head a .top-bar-jesse { display: flex; justify-content: center; align-items: center; height: 45px; } .top-bar-content-jesse { color: white; font-size: 16px; font-weight: 500; margin: 15px 0; } .header-main-jesse { display: flex; justify-content: space-between; align-items: center; padding: 15px 60px 15px 60px; box-sizing: border-box; flex-wrap: wrap; } .header-main-logo-jesse img { width: 150px; height: 45px; } .header-main-search-form-jesse { flex: 1; display: flex; justify-content: center; padding: 0 15px; } .header-main-search-form-jesse .search-forminput { height: 45px; border-radius: 4px; flex: 1; } .header-main-left-jesse { display: flex; justify-content: flex-end; align-items: center; } .header-main-left-content-jesse { display: flex; gap: 1rem; } a.left-section-item { text-decoration: none; color: black; font-size: 16px; } .left-section-item.icon-user, .left-section-item.icon-cart { font-size: 21px; } .left-section-item:hover { color: #FD788B; } #header-jesse form.search-form { max-width: unset; } #header-jesse .search-forminput-wrapper { width: 100%; } .header-bottom-jesse-bar { display: none; } .mega-menu-jesse { display: flex; justify-content: center; align-items: center; } .mega-menu-list-jesse { list-style: none; display: flex; margin: 0; padding: 0; gap: 2rem; } .mega-menu-item-jesse { position: relative; } .menu-link { text-decoration: none; color: black; font-size: 16px; font-weight: 600; transition: color 0.3s; } .menu-link:hover { color: #f13c20; } .dropdown-level-2 { width: auto; min-width: 200px; border: 1px solid #ddd; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); padding: 20px; box-sizing: border-box; z-index: 10; } .submenu-level-2 { display: flex; gap: 2rem; list-style: none; margin: 0; padding: 0; justify-content: center; } .submenu-item-jesse { position: relative; } .submenu-link { text-decoration: none; color: black; font-size: 16px; font-weight: 500; } .submenu-link:hover { color: #f13c20; } .dropdown-level-3 { display: block !important; min-width: 200px; } .submenu-level-3 { display: flex; flex-direction: column; list-style: none; margin: 0; padding: 0; } .submenu-column-item a { text-decoration: none; color: black; font-size: 16px; } .submenu-column-item a:hover { color: #f13c20; } .submenu-item-jesse:hover .dropdown-level-3 { display: block; } .dropdown-level-2.active { opacity: 1; visibility: visible; } .header-main-search-form-jesse li.mega-menu-item-jesse a{ color: black; } #header-jesse{ border-bottom: 1px solid #cccccc; } @media only screen and (max-width: 768px) { #header-jesse ul #header-jesse #header-jesse a button ul .mobile-submenu-level3 { list-style: none; margin: 0; padding: 0; max-height: 0; overflow: scroll; transition: max-height 0.3s ease; } .mobile-submenu-level3.open { max-height: 500px; /* \u0111\u1ee7 l\u1edbn \u0111\u1ec3 ch\u1ee9a h\u1ebft item */ } .header-main-jesse { padding: 0px 20px 0px 20px; } div .mega-menu-jesse { display: none; } .mega-menu-list-jesse, .submenu-level-2 { flex-direction: column; gap: 1rem; } .header-main-logo-jesse img { width: 95px; height: 30px; margin-top: 10px; } .dropdown-level-2, .dropdown-level-3 { position: static; box-shadow: none; border: none; padding: 10px 0; } .submenu-level-3 { gap: 0.5rem; } .header-bottom-jesse-bar { display: flex; justify-content: space-between; align-items: center; padding: 0 20px 10px; } .nav-toggle-btn { color: black; border: none; font-size: 30px; cursor: pointer; border-radius: 4px; padding: 0 10px 0 0; } .nav-toggle-btn:hover { } .header-bottom-search .search-form-container { width: 100%; } .mobile-menu-overlay { position: fixed; top: 0; left: 0; width: 100%; height: 100%; display: none; z-index: 999; } .mobile-menu { position: fixed; top: 0; left: -360px; width: 360px; height: 100%; box-shadow: 2px 0 5px rgba(0,0,0,0.2); transition: left 0.3s ease; z-index: 1000; padding: 20px; overflow-y: auto; } .mobile-menu.active { left: 0; } .mobile-menu-overlay.active { display: block; } .close-mobile-menu { border: none; font-size: 24px; float: right; cursor: pointer; } .mobile-menu-list { list-style: none; padding: 0; } ul .mobile-menu-item { margin-bottom: 0px; } .mobile-menu-link { text-decoration: none; color: black; font-size: 16px; } .submenu-toggle { border: none; font-size: 16px; margin-left: 10px; cursor: pointer; } .mobile-submenu { margin: unset; list-style: none; max-height: 0; overflow: scroll; transition: max-height 0.3s ease, padding 0.3s ease; } .mobile-submenu li { margin-bottom: 5px; } .mobile-submenu a { text-decoration: none; color: #555; } .mobile-submenu a:hover { color: #f13c20; } .mobile-submenu.open { max-height: 500px; padding-top: 10px; } } document.addEventListener('DOMContentLoaded', function() { const navToggleBtn = document.getElementById('navToggleBtn'); const mobileMenu = document.getElementById('mobileMenu'); const overlay = document.getElementById('mobileMenuOverlay'); const closeBtn = document.getElementById('closeMobileMenu'); const submenuToggles = document.querySelectorAll('.submenu-toggle'); navToggleBtn.addEventListener('click', function() { mobileMenu.classList.add('active'); overlay.classList.add('active'); }); closeBtn.addEventListener('click', function() { mobileMenu.classList.remove('active'); overlay.classList.remove('active'); }); overlay.addEventListener('click', function() { mobileMenu.classList.remove('active'); overlay.classList.remove('active'); }); submenuToggles.forEach(function(toggle) { toggle.addEventListener('click', function() { const submenu = this.nextElementSibling; const isOpen = submenu.classList.contains('open'); // \u0110\u00f3ng t\u1ea5t c\u1ea3 submenus kh\u00e1c document.querySelectorAll('.mobile-submenu.open').forEach(function(openSub) { openSub.classList.remove('open'); openSub.previousElementSibling.innerHTML = ' '; }); // Toggle hi\u1ec7n t\u1ea1i // Toggle hi\u1ec7n t\u1ea1i if (!isOpen) { submenu.classList.add('open'); this.innerHTML = ' '; } else { submenu.classList.remove('open'); this.innerHTML = ' '; } }); }); }); const submenuLevel3Toggles = document.querySelectorAll('.submenu-toggle-level3'); submenuLevel3Toggles.forEach(function(toggle) { toggle.addEventListener('click', function() { const submenu = this.nextElementSibling; const isOpen = submenu.classList.contains('open'); // \u0110\u00f3ng t\u1ea5t c\u1ea3 level3 kh\u00e1c document.querySelectorAll('.mobile-submenu-level3.open').forEach(function(openSub) { openSub.classList.remove('open'); openSub.previousElementSibling.innerHTML = ' '; }); if (!isOpen) { submenu.classList.add('open'); this.innerHTML = ' '; } else { submenu.classList.remove('open'); this.innerHTML = ' '; } }); }); document.addEventListener('DOMContentLoaded', function() { const menuItems = document.querySelectorAll('.mega-menu-item-jesse'); const dropdowns = document.querySelectorAll('.dropdown-level-2'); menuItems.forEach(item => { const index = item.dataset.index; const dropdown = document.querySelector(`.dropdown-level-2[data-index=\"${index}\"]`); item.addEventListener('mouseenter', () => { dropdowns.forEach(d => d.classList.remove('active')); if (dropdown) { dropdown.classList.add('active'); } }); item.addEventListener('mouseleave', () => { if (dropdown) { dropdown.classList.remove('active'); } }); // N\u1ebfu mu\u1ed1n dropdown kh\u00f4ng bi\u1ebfn m\u1ea5t khi r\u00ea chu\u1ed9t v\u00e0o n\u00f3: if (dropdown) { dropdown.addEventListener('mouseenter', () => { dropdown.classList.add('active'); }); dropdown.addEventListener('mouseleave', () => { dropdown.classList.remove('active'); }); } }); }); { \"@context\": \"https://schema.org\", \"@type\": \"BreadcrumbList\", \"itemListElement\": [ { \"@type\": \"ListItem\", \"position\": 1, \"item\": { \"@id\": \"https://loveable.us\", \"name\": \"Home\" } }, { \"@type\": \"ListItem\", \"position\": 2, \"item\": { \"@id\": \"/blogs/news\", \"name\": \"News\" } } ] } Home / News Previous / Next 15 Tricks to Save Money on Amazon That Make You Surprised by Loveable Content Team November 08, 2024 7 min read Most of us love Amazon for its convenient shopping experience and a wide variety of products, but did you know there is some hidden trick to saving money on Amazon? You can slash your expenses on Amazon with a few creative steps and get amazing discounts. Are you looking for how to save money on Amazon purchases? This article will share 15 proven ways to save big on Amazon purchases , guaranteed to surprise and delight even the savviest shoppers! So if you're seeking a surefire way to stretch your budget further without sacrificing quality or selection, read on - it's time to learn how easy saving money on Amazon can be. 1. Join Amazon Prime today If you aren't currently an Amazon Prime member, you've definitely heard about all the fantastic benefits of being a member. When you join Amazon Prime, you are effectively paying a one-time fee for perks that will save you money in the long term. This includes exclusive discounts on eligible items, free and fast shipping, free grocery delivery with Amazon Fresh, one free book per month, early access to Amazon sales events, special family-oriented offers such as up to 20% off subscriptions to diapers, baby food, and more, and a 15% Baby Registry completion discount. Amazon Prime membership costs $119, so the simplest way to assess if this Amazon Prime saving trick is worth it is to consider how much you often spend on Amazon. If you anticipate placing at least 15 items per year, a Prime membership is a need. That's at least one order per month; you might find it helpful to consider your Amazon history while deciding what's best. 2. Bundle your purchases to receive free shipping Not a Prime member, but don't want to pay for shipping? When you spend at least $25 on certain goods, you'll get free 5-8 day shipping. Anything branded \"Free Shipping\" on the product description page that is fulfilled and sent by Amazon is eligible. This trick to save money on Amazon may include grouping things that you would not ordinarily do and, in general, putting in a bit more work in planning your purchases. But what about free shipping? It's worthwhile. 3. Get credit from Amazon for choosing slower shipping options If you have Amazon Prime, you can learn more about how to save more money on Amazon with this. You can get free, no-rush shipping instead of regular two-day shipping. By selecting a slower shipment speed, a special discount is provided to your order immediately, and a promotional credit is credited to your account for a future order after your current order is sent. This is a very simple trick to save money on Amazon. 4. Save even more money by clipping Amazon coupons really exist! Many of these special coupon codes could well be found on individual product pages in the 'Special Offers' area. You may also save money on food, home supplies, and other items by clipping coupons from Amazon. The discounts will be reflected immediately during checkout as you simply click \"Clip Coupon.\" There are offers for 30% off apparel and up to 20% off home and kitchen. 5. To get the best deal, set an alert Camelcamelcamel.com monitors Amazon pricing as they vary over time. You may specify target prices for items instead of manually tracking them. If the price drops, you'll receive an email notice so you may jump in. For example, you could save $240 by having them email you when the price drops. 6. Utilize daily discounts Pay careful attention to the page's header on Amazon.com. See the little tab labeled \"Today's Deals\"? To save, click that and prepare to do so. Deals of the Day (products reduced for just one day) and Lightning Deals may be found there (items discounted for a few hours or until the set stock runs out). By asking Alexa, what are my deals? on an Echo device, you may also find out about the newest offers. Many products have been reduced to their lowest prices ever, with some items reduced by 70% or more. You may use the Watch a Deal alert on the Amazon App to ensure you never miss a deal. Simply click 'Watch this Deal' on any product to receive an alert on your phone when the deal is about to begin. 7. Purchase overstocked items at a great discount It may take some searching to locate Amazon Outlet, but once you do, be ready to save. The Outlet is a part of Amazon where you can discover discounts on overstock and clearance items. It includes apparel, cosmetics, home and furnishings, and even things under $10. 8. Trade in items you purchased but do not need Consider unneeded items as a trick to save money on Amazon. For example, you bought the book back in October, but you have no need for it. You may trade in approved items (such as books, gadgets, video games, DVDs, and more) through the Amazon Trade-In program in exchange for an Amazon.com gift card. A free, pre-paid delivery label ",
+      "headings": []
+    },
+    {
+      "rank": 15,
+      "domain": "rd.com",
+      "url": "https://www.rd.com/article/money-saving-amazon-tricks/",
+      "title": "14 Money-Saving Amazon Tricks You Need to Know - Reader's Digest",
+      "word_count": 1531,
+      "scrape_status": "tavily_fallback",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": "A Trusted Friend in a Complicated World 21 Little-Known Amazon Hacks Every Online Shopper Needs to Know # 14 Money-Saving Amazon Tricks You\u2019ll Wish You Knew Sooner By Bryce Gruber and Lindsay Tigar Updated on Feb. 22, 2023 These tools, tricks, and strategies will save you serious cash when shopping on Amazon. Saving money on the things you always buy on Amazon is easier than you think. Experts agree that the best way to spend less is to use a few somewhat hidden tools. You can score major discounts on Amazon products you use every day and special purchases when you make the most of your Amazon Prime benefits, clippable coupons, and browser extensions. Heck, you can even find hundreds of things you can buy on Amazon for less than $1 if you study this list of nearly secret tips and tricks. ## for a free Amazon Prime trial If you haven\u2019t jumped on the Amazon Prime bandwagon yet, you\u2019re falling majorly behind. That goes double if you shop frequently at this mega online retailer; you could be losing out on lots of savings by not subscribing to the yearly program. Not only do you get free two-day shipping on many items, but you will also enjoy a handful of additional free things on Amazon, including free Prime Video streaming, free access to thousands of e-books, free streaming music, and other benefits. As a bonus, you can do a free trial to get started. Another perk: Through the settings page for \u201cAmazon Household,\u201d up to two adults and up to four teens and four children can share a single Prime account. ## Look for coupons Believe it or not, there are always coupons for Amazon floating around the site\u2014you just have to be on the lookout. Stay alert for little orange coupon flags (they\u2019ll appear beneath the price on a product\u2019s Amazon page) or head to the Amazon Coupons page to browse coupons for products in various categories. You\u2019ll find discounts on everything from supplements and cleaning supplies to leggings and other must-have goodies. Keep in mind: As with paper coupons, these eventually expire. Collecting coupons is easy: Simply click \u201cclip coupon\u201d and add to your cart. The discount will be automatically applied when you check out. When you find a coupon outside of Amazon\u2014say, on coupon site RetailMeNot\u2014you can always add a promo code at checkout. ## Shop major savings events Did you know Amazon offers some of the best Black Friday sales and Cyber Monday savings? It\u2019s true, and it\u2019s one of the best times of the year to save up to 80 percent on best-selling Amazon products. Amazon Prime Day is the other savings hero to look forward to each year\u2014sometimes twice. Prime Day is brimming with deals on just about everything that the site offers, and you\u2019ll be hard-pressed to find brands that aren\u2019t offering at least 10 percent off on these days. ## Use the & Save option Perhaps you always use Amazon to refill your pantry. After all, it has the olive oil you love, so why make shopping more stressful? Some people are hesitant to use Amazon\u2019s subscription option when filling their shopping cart, but they\u2019re missing out on big savings. Use this underappreciated function to schedule automatic delivery of eligible items, from necessities to some of the strangest things on Amazon. That alone will save you money, but you can get additional savings (up to 15 percent off) by opting to receive five or more products in a single auto-delivery. For things you purchase regularly, like laundry detergent, set the delivery frequency to monthly or bimonthly. For products you use less often, choose a longer replenishment interval, like every six months. You can always skip a shipment or cancel the subscription down the line. ## Check out Epic Daily Deals When you\u2019re on the hunt for a hairdryer after yours bit the dust, you probably don\u2019t pause on Amazon\u2019s home page to see the deal of the day. This could be a missed opportunity, as Amazon changes the selection every 24 hours. Visit the Epic Daily Deals page to see lightning deals (limit discounts for a short period of time), coupons, and other limited-time offers for hidden-gem Amazon products. ## Choose no-rush shipping for added rewards Amazon Prime members who choose free no-rush shipping instead of free two-day shipping can actually earn rewards and perks for future Amazon purchases. Sometimes the site even offers immediate discounts and rebates. The rewards are typically credited to accounts after purchases ship. If you\u2019re not in a rush to receive your item, this can be one of the best ways to rack up rewards without putting in any extra effort. Start shopping by checking out these Amazon products with perfect reviews. ## Consider the Amazon Student perk Amazon offers major savings for college students, starting with a six-month free trial of Prime Student. It offers many of the perks of Amazon Prime. Once you\u2019ve made it through the first half of the year, you\u2019ll be upgraded to the traditional Amazon Prime membership but at half-the-cost\u2014until you graduate. Win-win! ## Explore cash back offers Earning money by spending money sounds contradictory, but it\u2019s possible with a credit card that offers cash back. Amazon\u2019s rewards Visa gives 3 percent cash back, while its Prime rewards Visa will give you 5 percent back on your Amazon and Whole Foods purchases. Plus, the Prime card will get you 10 percent back on select items on Amazon. It\u2019s a good option if you spend most of your money at Amazon or Whole Foods. ## Use the Amazon Assistant browser extension Here\u2019s a cool Amazon hack you may not have heard about. The Amazon Assistant browser extension allows you to see related items while you\u2019re browsing on Amazon or Google. It shows you the best offers, ratings, and reviews and will give you an update\u2014in real-time\u2014as a price drops or changes. You can also save as you browse, regardless of whether it\u2019s a product on Amazon or not, giving you a one-stop shopping basket for everything you\u2019ve set your eye on. ## Compare, compare, compare You probably don\u2019t think twice before buying hand soap off of Amazon since it\u2019s fast, easy, and reliable. But like you would with any other purchase, it\u2019s important to compare prices on other sites to ensure you\u2019re actually getting the best deal ever. Typically, when you browse a particular product, Amazon will show you similar items on the same screen. Some may be sold by the same brand and have the same specs but feature a different scent or color, which is sometimes significantly cheaper. As you\u2019re browsing, be sure to read the reviews to be sure you\u2019re not about to waste your money on a poorly made product. And while you\u2019re at it, check out these funny Amazon reviews. ## Check third-party sellers When you\u2019re making a big purchase\u2014say, a washing machine or a new part for your car\u2014you probably shop around for a few quotes before whipping out your credit card. So why not apply that same logic to Amazon? As Karl Quist, the president of PriceBlink says, Amazon can be a little tricky and misleading since it doesn\u2019t always show the cheapest price on its product pages. \u201cSometimes there are third-party sellers that offer the product for a lower price than what is shown on the main product page,\u201d he explains. He suggests looking for a message that says \u201cavailable for a lower price from other sellers\u201d on the bottom right of the page. According to Quist, many of the lower-priced alternatives still qualify for Prime two-day shipping. Before you commit, look for these signs an Amazon seller can\u2019t be trusted. ## Save on child and baby items with Amazon Family The Amazon Family program offers Amazon Prime members competitive deals on baby registry items and essentials. Items like diapers, wipes, and other gear are offered at prices meant to stand up to retailers like Walmart, Costco, and Buy Baby. For time- and cash-strapped parents, this can be a lifesaver. ## Share your Prime membership You don\u2019t have to sign up everyone in the family for a Prime membership. In fact, a single paying member of your household can add up to ten additional names to the account for free. Just head to your Amazon Household page and invite other family members to share your Prime benefits. They don\u2019t have to live at the same address, and each person\u2019s purchases can be kept private. Once invited, your parents can buy all the Amazon\u2019s Choice paper towels their kitchen can handle. ## Trade the old for the new Though technically you won\u2019t get cash in your pocket, per se, you can trade in your old tablets, phones, TVs, video games, and books for newer upgrades or Amazon credit. The Amazon Trade-In Program is easy to access and a productive way to organize your workspace and home. Sources: Our Brands ### for Our Newsletters We are no longer supporting IE (Internet Explorer) as we strive to provide site experiences for browsers that support new web standards and security practices. We recommend our users to update the browser.",
+      "headings": []
+    },
+    {
+      "rank": 16,
+      "domain": "consumeraffairs.com",
+      "url": "https://www.consumeraffairs.com/news/3-secret-ways-to-save-money-on-amazon-that-most-shoppers-never-use-121025.html",
+      "title": "3 secret ways to save money on Amazon (that most shoppers never ...",
+      "word_count": 1538,
+      "scrape_status": "tavily_fallback",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": "For Businesses Write a Review 1. News 2. Smart Shopping and Savings Tips # 3 secret ways to save money on Amazon (that most shoppers never use) Image (c) ConsumerAffairs. Discover three underused tricks to save money on Amazon, including using coupons and exploring resale options for big discounts. ## The hidden pages and buttons Amazon hopes you\u2019re too busy to click Kyle James, Reporter \u2022 Add ConsumerAffairs on Google * Use the Amazon app to \u201cbreak\u201d the price by tapping through sizes, colors, and pack counts, and compare per-unit prices \u2014 the non-default option is often cheaper * Start on the Amazon Coupons page, clip a coupon for something you already buy, then stack it with & Save for extra savings (and cancel later if you want) * Before paying full price, check Amazon Resale for open-box \u201cLike New\u201d or \u201cVery Good\u201d items, often 20\u201370% off on electronics, appliances, kids\u2019 gear, and seasonal stuff --- Amazon is really good at convincing you that you\u2019re already getting the best possible deal. \u201cLimited-time deal,\u201d little strikethrough \u201cwas\u201d prices, lightning deals flashing at you from every corner of the screen. But there are a few features buried on their website that flip the power a bit back in your favor. They don\u2019t require promo codes, browser extensions or being glued to your phone 24/7, just a little setup and some patience. Here are three under-used ways to quietly pay less on Amazon. ## 1. Use the app to \u201cBreak\u201d the price: sizes, colors, and pack tricks Amazon rarely charges the same price for every version of the same item. Have you ever noticed that sometimes a different size, color, or pack count is dramatically cheaper for no logical reason? The only way to see it is to start tapping around. Think of it as \u201cbreaking\u201d the price and looking for the one-off. That one weird variant that the Amazon pricing algorithm forgot to mark up. How to do it in the Amazon app The first thing you\u2019ll want to do is find an item you actually buy regularly. Think items like detergent, T-shirts, or snacks. Then do the following test: 1. Open the product page and scroll just below the main price. 2. Tap through every size option (16 oz, 24 oz, 32 oz, 3-pack, 6-pack, etc.). Watch how the price changes each time. 3. Do the same with colors and styles. Some colors cost more simply because they\u2019re more popular. Others are weirdly cheaper. 4. Tap \u201cOther sellers\u201d when they appear. You\u2019ll want to do that as sometimes a 3rd party seller will have the exact item cheaper than Amazon directly, but in a slightly different size or pack. That\u2019s when you want to pounce on the savings. Pro tip: The key with this tip is to always watch the per-unit price, not just the total price. For example, a giant \u201cvalue pack\u201d of a product, that looks like a \u201cdeal\u201d, will often be more expensive per ounce, or per count, than a smaller size in a different color or scent. Where this hack saves the most * Household staples: Products like paper towels, toilet paper, detergent, dish soap, trash bags, and pet food. * Basics with lots of variants: Underwear, socks, shoes, T-shirts, water bottles, storage bins, phone cases. * Snacks and pantry foods: Different flavors or pack sizes of the same chips, bars, or coffee can vary wildly. Example: The 120-count pack of trash bags might be more per bag than the 80-count in a different scent. Or the \u201cnavy\u201d hoodie is mysteriously $26 while the \u201cblack\u201d one is $34. Quick rule of thumb * I like to always change at least one thing (size, color, pack count) before I buy. I\u2019ve found that if you get in the habit of only buying the default option, you end up overspending. * Also, here\u2019s a tip if you\u2019re in a rush. Check one smaller size and one larger size and one different color. If the per-unit price doesn\u2019t move much, go ahead and buy it. If the price jumps around, it\u2019s worth a deeper look when you have more time. ## 2. Stack the \u201cSecret\u201d coupon page with & Save Amazon has a dedicated coupons hub that most shoppers never think to visit. Instead, they only notice coupons when they happen to see a small orange or green \u201ccoupon\u201d flag under a price on a product page. You need to actually flip that around and always start on the coupon page, then work backward to the product. How to use the coupon page: 1. for \u201cAmazon Coupons\u201d in Amazon\u2019s search bar and it will take you to the main coupons page. 2. You can then filter by category (for example, Grocery, Home, Electronics). 3. Scroll down until you see something you actually buy anyway. Think laundry detergent, trash bags, razors, and snacks. 4. Click \u201cClip coupon\u201d before adding the item to your cart. The discount applies automatically at checkout so if you don\u2019t clip it, you pay full price even though a coupon was available. Not good. The \u201csecret\u201d move: combine with & Save For eligible items, you can stack the following: * The clipped coupon you found. * Then stack that with the & Save discount which is often 5\u201315% off. Sometimes the discount is more depending on how many active subscriptions you have. That combination will often beat any \u201csale\u201d price you\u2019ll find at your local store. When this works best * Try to use this hack when buying non-perishables that you\u2019ll definitely use. Things like paper towels, dish soap, dog food, toilet paper, and vitamins. * Are you flexible on the brand? If so, always start from the coupon page and let the coupon decide what you buy, instead of searching your usual brand name and paying more. Watch-outs * Track your subscriptions. If prices creep up over time, the subscription discount can mask a higher base price. * Set reminders to re-check prices every few months and cancel anything that\u2019s no longer a deal. Pro tip: Amazon lets you cancel the subscription as soon as the first product is sent. So if you wanted to sign-up for the \u201cSubscribe & Save\u201d, get the discount, then cancel, there is nothing stopping you. Just be careful to not do this too much as it might get your account flagged. ## 3. Shop Amazon Resale (open-box) instead of paying \u201cnew\u201d prices One of Amazon\u2019s biggest under-the-radar money-savers is Amazon Resale (used to be called Amazon Warehouse). It\u2019s basically the place where a lot of their returns end up. They are your open-box, pre-owned, and slightly imperfect items sold at a big discount, often in the 20\u201370% off range. These items are inspected and graded (\u201cLike New,\u201d \u201cVery Good,\u201d \u201cGood,\u201d \u201cAcceptable\u201d), and most are still eligible for Prime shipping and the standard return window. How to find Amazon Resale deals * \u201cAmazon Resale\u201d or \u201cAmazon Warehouse\u201d in your browser to go directly to the storefront, or * Look for condition options (\u201cUsed \u2013 Like New,\u201d \u201cUsed \u2013 Very Good,\u201d etc.) under the \u201cOther sellers\u201d section on a product page. Once you\u2019re there: 1. Filter by category (electronics, home & kitchen, tools, baby, etc.). 2. Sort by price or discount size if possible. 3. Read the condition notes carefully. They are usually very good at telling you about any damage. You want to know if the damage is just to the packaging or to the actual product itself. The products where this saves you the most * Electronics & gadgets: In particular you can find deals on headphones, laptops, monitors, tablets, routers, and Bluetooth speakers. * Small appliances: Think things like air fryers, mixers, vacuums, and coffee makers. These items are often returned by shoppers after testing them once and nit-picking a small detail and returning them. * Kids\u2019 gear and seasonal items: You can find really good Resale deals on strollers, playpens, patio furniture, and even holiday d\u00e9cor. All products where you care more about function than if the packaging has a small crease or rip in it. Things to watch out for I\u2019ve found that items that are good deals can disappear quickly from the Resale section. In other words, if you see a highly discounted \u201cLike New\u201d item, especially if it\u2019s something you already planned to buy, you\u2019d be smart to buy it quickly. Otherwise, there\u2019s a great chance it won\u2019t be there the next time you look. Also, be sure to always double-check that the seller is Amazon (or an Amazon Resale listing) if you care about the standard 30-day return window. Sometimes 3rd parties have a wonky return policy, so be sure you know what it is before buying from them. --- Thanks for subscribing. You have successfully subscribed to our newsletter! Enjoy reading our tips and recommendations. Kyle JamesReporter Kyle James is a consumer-savings writer who turns real store intel into practical, repeatable wins that lower your cost of living. When he isn\u2019t interviewing employees for insider tips, he\u2019s golfing or hiking around his hometown of Redding, CA. Read Full Bio ## Was this article helpful? Share your experience about ConsumerAffairs Yes ## Was this article helpful? Share your experience about ConsumerAffairs Yes",
+      "headings": []
+    },
+    {
+      "rank": 17,
+      "domain": "doctorofcredit.com",
+      "url": "https://www.doctorofcredit.com/complete-guide-saving-money-amazon-save-8-25/",
+      "title": "Complete Guide To Saving Money On Amazon (Save 8% - 27%+)",
+      "word_count": 1837,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.doctorofcredit.com/wp-content/uploads/2016/12/amazon.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.doctorofcredit.com/wp-content/uploads/2020/06/paypal-deal-1-145x100.png",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.doctorofcredit.com/wp-content/uploads/2016/11/topcashback-e1480006871460.png",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.doctorofcredit.com/wp-content/uploads/2021/03/chewy-giftcards-1-145x100.png",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.doctorofcredit.com/wp-content/uploads/2018/01/freebies.png",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.doctorofcredit.com/wp-content/uploads/2019/07/ikea.png",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.doctorofcredit.com/wp-content/uploads/2025/08/evgo-5-charging-credit-145x100.png",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "The majority of readers will spend a lot of money on Amazon. There are a lot of different ways to save money on Amazon purchases so I thought I\u2019d create a post that lists all of the different ways to save on these purchases so readers can bookmark this page and quickly reference it whenever making purchases from Amazon. Links marked with * contain our affiliate link and we receive a commission based on your purchases. Contents 1 Credit Card/Gift Card 1.1 Credit Cards 1.2 Gift Cards 1.3 Checking Account 2 Shopping Portals 3 Discount Codes 4 Amazon Prime Offers 5 Other Promotions/Discounts/Freebies 6 Give To Charity For Free 7 Price Check 8 Opening A New Account 9 Misc 10 Our Verdict Credit Card/Gift Card The first step is to decide whether to use a credit card or gift card. This option will depend on what promotions and credit cards you have available. Credit Cards C heck this Amazon link* to see a list of cards you are enrolled with Shop With Points. Tip : Scroll down at this same link* and it will show which in whether you used it up yet. Note: you first need to save the offers using the links, below; this link* is just useful after saving the offers, to track what you have left to use. Also note, the link isn\u2019t reliable and doesn\u2019t always show all saved offers. Just use it as supplementary information. You might be eligible for one of the following offers. (* Direct Amazon link | another link ) Amazon: Get 40% off Amazon, up to $50 discount, when Using 1 Discover Point through 6/11/26 (* Direct Amazon Link ) Amazon: Get 40% Off When Using $3 American Express Reward Dollars (Up To $40 In Discounts) through 12/31/26 (* Direct Amazon link ) Amazon: Use Citi ThankYou Points & Get 40% Discount, Up To $50 Savings, valid through December 31, 2025 (* Direct Amazon link ) Amazon: Get 50%/$80 Discount When American Express Membership Rewards Points until 12/31/25 (* Direct Amazon Link ) Amazon: Add American Express Card & Get $15 Off (Code AMEXQ4ABC15) through (12/29/25?) (* Direct Amazon link | another link ) Amazon: Add Discover Card And Get $10 off $10.01 with promo code 25Q3DISCO valid until 9/19/25 (* Direct Amazon Link ) Amazon: Get 50% Off Amazon when Using 1 U.S. Bank Point (Max $50 Savings) through December 31, 2024 (* Direct Amazon Lin k) Amazon: Get 40% Discount When You Shop With Capital One Points through January 3, 2025 (* Direct Amazon link | another link ) Amazon: Get $15 Credit By Making Discover Your Default Payment Method until January 10, 2024 (* Direct Amazon link ) Amazon: Use 1 Chase Ultimate Rewards Point & Get 50% Off (Max $60 Discount) through ? (* Direct Amazon Link ) [YMMV] Amazon: Add Citi Card & Get $15 Off (Promo Code 24CITIPD) through July 19, 2024 (* Direct Amazon Link ) [YMMV] Amazon: Add Visa, Amex or Discover Card & Get $5 Credit Other credit card tips and offers: Best credit cards to use for Amazon purchases * Amazon Store Prime Card frequently has additional discounts here . AmEx Offers: Amazon, Earn 5x Bonus Membership Rewards Points (Up To 2,500 Points) AmEx Offers: Amazon, Get $10 Statement Credit With $50 Purchase Chase Offers/BofA: 10% Back at Whole Foods/Amazon Fresh on Amazon.com (Max $7) Gift Cards There are three promotions that are always available, but you can only do them once. Plus other limited time bonuses: Amazon Cash: Reload $100 & Get $12 [First Time Users] Purchase $50 in Amazon gift cards and receive a free $10 promotional credit on Amazon. Use promo code: 1121GCARDS at checkout * (* Direct Amazon link ) [YMMV] Amazon: Send $50 Giftcard Via Text & Get $5 Bonus Amazon Cash: Reload $20 & Get $5 [First Time Users] CardCash lets you sell other third party gift cards for Amazon gift cards . These rates are better than their cash rates, but make sure you compare to other third party gift card buyers. Your best option with the first two of the above promotions is to still use a credit card that earns at a high rate on Amazon purchases. Lots of stores also sell Amazon gift cards and if you have a credit card that earns a category bonus for those stores then you could easily purchase Amazon gift cards there. For example if you had a Chase Ink Cash card you could buy them at Staples.com and earn 5% cash back. You can view all the credit cards that earn at least 4%/4x here . Additional some stores will have discounts that might be useful for stocking up on Amazon gift cards: American Express regularly have AmEx offers that can be used to purchase Amazon gift cards, we will update this section when one of these promotions is available ( currently one available here ) A lot of grocery stores have fuel rewards programs and usually Amazon gift cards will trigger points for these programs. Sometimes they have increased offers for up to 4x points. Checking Account If you don\u2019t have access to a credit card or debit card you can link your checking account to Amazon. They\u2019ll also give you a 2% bonus, more details here . Shopping Portals Most shopping portals (e.g Topcashback) will offer 6% in specific categories ( this currently isn\u2019t true as Amazon has been pulled from most portals ). These categories change from time to time and the portal offering the best rates also changes from time to time. You can view the best rates here . Keep in mind Ibotta usually has some extra categories that other portals do not have. JetBlue used to offer 3 JetBlue points on all purchases, but that is unfortunately no longer the case . If you\u2019d like to support this site, you can also do so by using our Amazon link found here *. Just keep in mind you won\u2019t earn any portal rewards if you do use our link. Discount Codes It\u2019s possible to get discount codes for Amazon that work on all purchases. In particular there are three worth keeping in mind: Change Your Address With USPS & Get A 10% Off Amazon Coupon ($20 Maximum Discount) Create Amazon Baby Registry \u2013 Get Free Welcome Box & Up To 15% Off Amazon Wedding Registry Completion Discount \u2013 Up To 20% Off On Up To $1,500 [YMMV] Bank of America: For A New Amazon Business Account & Get 20% Off ($100 Maximum Discount) Amazon Prime Offers You can usually get a discount on new Amazon Prime subscriptions. Here is what is currently available: Get a free 30-day trial for Amazon Prime* You can get a monthly membership for $14.99 or annual membership for $139* EBT or Medicaid users can signup for a cheaper $6.99 monthly plan*. Young Adults ages 18-24 and students of all ages can get six months for free* (our full review of Amazon Student & Young Adult here ). Students and young adults also pay a discounted rate of $7.49/month after the free trial.* A yearly subscription costs $139 . I\u2019d recommend against using our link to signup as if you go through a shopping portal you can get cash back or a gift card when signing up. Currently, Swagbucks is offering a $15 Amazon gift card and Topcashback is offering $15. Free Business Prime For American Express Amazon Business Cardholders (First 30 Days Only) If you\u2019re new to Prime then I recommend reading this guide to maximizing your Prime account . As a prime member you also get discounts at Whole Foods . Other Promotions/Discounts/Freebies Amazon often has specific discounts that might be of interest to some readers, we will post the more popular ones here. Amazon Prime: Get a $20 Amazon when you Backup your Photos with Amazon Photos & More Amazon Prime: Complete In-Garage Delivery & Get $30 Amazon Credit [YMMV] Amazon Kindle Unlimited: 2 Months For Free for New & Previous Members Amazon: To Amazon App & Get $10 Off $20+ [YMMV] Amazon Prime: Watch Any Video & Get $5 Credit Amazon frequently sell $50 third party gift cards for $40 . You can see what\u2019s available by clicking here *. Chase/BofA/Others: Get 15% Back on Amazon Prime Now, Max $11 [Targeted] [YMMV] Amazon: 40-50% Off & Save Pet Food Order, $50 Maximum Discount Amazon Prime: Starz or Showtime Channel For $0.99 A Month For First 2 Months [YMMV] Amazon: 10% Off AmazonBasics With Promo Code WELCOME10 [Targeted] Amazon: Purchase 1 Item In Selected Category & Get $10 Off $20+ On Future Order Discounted items: [YMMV] Amazon: Smart Plug For $0.99 With Promo Code SMARTPLUG99, SMART10, AMZNPLUG [YMMV] Amazon: Fire Stick For $19.99 With Promo Code FIRETVSTICK [YMMV] Amazon Echo Glow for $4.99 With Promo Code GLOW5 (Save $25) Give To Charity For Free AmazonSmile is Amazon\u2019s charitable arm, by enrolling you can select a charity and they will receive 0.5% of the price of your eligible AmazonSmile purchases. Your shopping needs to start with smile.amazon.com to be eligible. You can stack this with JetBlue according to this comment (JetBlue portal no longer works, but other portals should work on specific categories). This is also officially confirmed by Amazon here . Read more about Amazon Smile and how to stack it with a shopping portal in this post. Price Check Prices on Amazon fluctuate constantly and it can be difficult to know if you\u2019re getting a good price or not. I use camel to easily see the price history for specific items. You can also set up alerts if it\u2019s a non urgent item. Opening A New Account There are several perks to opening a new account. This is discussed in detail here . Misc This is just for miscellaneous pieces of information. How to Use an Amazon Gift Card with a Shop-with-Points Order How To Use Amazon Dash Wand To Purchase Alexa Only Deals Amazon Launches \u2018Amazon Day\u2019 Shipping \u2013 Choose The Day Items Are Shipped [Prime & Invite Only] Prime Members can Order \u2018Add-On Items\u2019 with Free Shipping \u2013 No Minimum on Amazon Day How To Force Getting Targeted For American Express / Chase / Citi / Discover / Wells Fargo Amazon Promotions Our Verdict Hopefully you learned a new way to save a bit of money on Amazon purchases. As I mentioned earlier, we do appreciate readers who use our Amazon links * but at the end of the day I like to think that our job is to save and make you as much money as possible so I think it\u2019s important to point out that by using our links you are forgoing other options (e.g possibly 6% cash back). Did I miss any ways to save money on Amazon? As mentioned I\u2019ll be keeping this up to date, so feel free to bookmark this page for later reference. Also I\u2019ve marked links that are our Amazon link with a * throughout this post.",
+      "headings": []
+    },
+    {
+      "rank": 18,
+      "domain": "quora.com",
+      "url": "https://www.quora.com/How-can-we-save-money-while-shopping-at-Amazon",
+      "title": "How can we save money while shopping at Amazon? - Quora",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 19,
+      "domain": "savingslifestyle.com",
+      "url": "https://savingslifestyle.com/how-to-save-money-amazon/",
+      "title": "Ultimate Ways to Save Money on Amazon (includes Amazon Secret ...",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://savingslifestyle.com/wp-content/uploads/2017/12/Best-amazon-deals-to-save-money.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://savingslifestyle.com/wp-content/uploads/2017/12/Amazon-Prime-Discount-Codes.jpg",
+          "alt": "Save money on Amazon with this epic list! Learn about exclusive Amazon coupons, hidden deals, discounted items and other great Amazon savings to use everyday!",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://savingslifestyle.com/wp-content/uploads/2013/12/Free-Music-on-Amazon.jpg",
+          "alt": "Free Music on Amazon",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://savingslifestyle.com/wp-content/uploads/2013/12/Free_Benefits_with_Amazon_Prime_Memberships.png",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://savingslifestyle.com/wp-content/uploads/2013/12/Amazon-Mom-3-Months-Free-Trial.jpg",
+          "alt": "Amazon Mom 3 Months Free Trial",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://savingslifestyle.com/wp-content/uploads/2013/12/Amazon_Prime_Free_Student_Account.png",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://savingslifestyle.com/wp-content/uploads/2013/12/Amazon_Warehouse_Deals_Discounts.png",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://savingslifestyle.com/wp-content/uploads/2013/12/Free-Amazon-Prime-Trial-and-Free-Shipping.jpg",
+          "alt": "Free Amazon Prime Trial and Free Shipping",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://savingslifestyle.com/wp-content/uploads/2013/12/Amazon-Grocery-Deals.jpg",
+          "alt": "Amazon Grocery Deals",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://savingslifestyle.com/wp-content/uploads/2013/12/Amazon-Coupons.jpg",
+          "alt": "Amazon Coupons",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://savingslifestyle.com/wp-content/uploads/2013/12/Amazon-Subscribe-and-Save-Discount-and-Benefits.jpg",
+          "alt": "Amazon Subscribe and Save Discount and Benefits",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://savingslifestyle.com/wp-content/uploads/2013/12/Amazon-Wedding-Registry-Discount.jpg",
+          "alt": "Amazon Wedding Registry Discount",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://savingslifestyle.com/wp-content/uploads/2018/01/Amazon-Prime-Free-Samplers.png",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://savingslifestyle.com/wp-content/uploads/2018/01/Amazon-Household-Best-Buys-on-Amazon.jpg",
+          "alt": "Epic list of the best household items to buy on Amazon and save!",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://savingslifestyle.com/wp-content/uploads/2012/01/Weights-or-Dumbbells.png",
+          "alt": "Save More with Increased Fitness Levels",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://savingslifestyle.com/wp-content/uploads/2012/06/tomatoes.png",
+          "alt": "Waste Nothing",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://savingslifestyle.com/wp-content/uploads/2020/04/Eating-Real-Food-on-a-SNAP-Food-Stamp-Budget-ig-200x200.jpg",
+          "alt": "Eating Real Food on a Food Stamp or SNAP Budget",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://savingslifestyle.com/wp-content/uploads/2012/07/Club-DLM-Rewards.png",
+          "alt": "Dorothy Lane Market: *New* Club DLM Rewards Program",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://savingslifestyle.com/wp-content/uploads/2011/07/Dryer.jpg",
+          "alt": "How to Make Homemade Dryer Sheets",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/38455bee786b3725cfc0760f178f10b9d7ce4ca6d62760bd13006b1364cb9752?s=60&d=blank&r=pg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/3ea815b0d041ef88351d0948fc0d26ae1ee49f8f891529364ff3165be24f4ca4?s=60&d=blank&r=pg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/bf0bef2b429f15797d96acb7a41175eb86014082eafcb7a9f79bb8e5523ad9d4?s=60&d=blank&r=pg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/cde7bc1af17038c4f12012bc04a775d383f8de9518aa34b5f9ab2b862333ecc8?s=60&d=blank&r=pg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/9e1b69fce196f0411936963239b1f5b6821050cd215d07cfcefa45344ceb0e5f?s=60&d=blank&r=pg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/52313cec4cd74bb2649d446f215eeb466ec3d1775703b9c5543ac023d9e370da?s=60&d=blank&r=pg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/51df79ca282f53f68dea383e4b34364ccc87c5dbfb494f088e410e2d82a6dcbe?s=60&d=blank&r=pg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/7e9567a7ec3403dc376535d1098c2dba802ec0936aff7f7b40ba8948b0fca345?s=60&d=blank&r=pg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/268619b4b319f81a8024f153b5c5044715c476a3f1806322307a85ea35d724c1?s=60&d=blank&r=pg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/96c25cbd95b0d829b5568676140a747a7fe8c17e54fb59978018512fa8812ba1?s=60&d=blank&r=pg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    }
+  ],
+  "battle_plan_generated_at": "2026-04-26T10:45:19.038774+00:00",
+  "competitors_analyzed_count": 3,
+  "battle_plan_method": "local_deterministic_agent_no_api"
+}

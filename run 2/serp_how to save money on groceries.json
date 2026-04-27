@@ -1,0 +1,730 @@
+{
+  "article_context": {
+    "angle": "The debate over manual tracking vs. automated apps for financial awareness",
+    "pain_points": [
+      "Tracking spending but still feeling broke and not seeing savings",
+      "Forgotten recurring subscriptions and services draining money",
+      "Saving turns into obsessive hoarding and anxiety about using money",
+      "Impulse spending and lack of control over daily expenses",
+      "High grocery costs creating budget pressure"
+    ],
+    "top_social_questions": [
+      "How do I track my spending effectively to find money leaks?",
+      "Is my grocery spending too high?",
+      "What habits can help me save money consistently without misery?",
+      "Why does saving money feel like an addiction or cause more anxiety?"
+    ],
+    "dominant_emotion": "Frustration",
+    "serp_intent": "Searchers for \"how to save money on groceries\" seek actionable advice on reducing food and shopping costs through everyday techniques like budgeting, smart purchasing, and waste reduction. The SERP intent is informational, dominated by listicles, guides, and blog articles from finance and lifestyle sites offering tips such as using coupons, meal prepping, and choosing budget stores, with minimal commercial ads or tools.",
+    "serp_title_pool": {
+      "primary": [
+        "What's the best way to save on groceries? : r/Frugal - Reddit",
+        "How Our Readers Are Saving Money on Groceries - NYT Cooking",
+        "Saving Money on Groceries: How I Saved $347 in One Month",
+        "The Best Way to Save Money on Groceries, According to Financial ...",
+        "25 Simple Tips to Save Money on Groceries | South Carolina",
+        "How to save BIG on groceries when costs are rising - YouTube",
+        "13 Ways to Save Money on Groceries - RaiseRight",
+        "20 tips to save money at the grocery store - The Whole U",
+        "14 Easy Hacks I Use to Save Money at the Grocery Store",
+        "How to save money on groceries | Pay less for food | Fidelity",
+        "SIMPLE Grocery Hacks That Will Save You HUNDREDS in 2025!",
+        "How to save money on groceries: 13 ways to stretch your food budget",
+        "15 Simple Ways to Save Money on Groceries",
+        "Six Easy Food Swaps That Save Me Hundreds On Groceries",
+        "12 Grocery Store Habits That Can Slash Your Weekly Food Bill",
+        "How to Save Money on Groceries: 14 Tips to Try - NerdWallet",
+        "12 tips for saving money at the grocery store - CNBC",
+        "How to Save Money on Groceries: 11 Ways to Save Money",
+        "35 EASY Ways to Save Money on Groceries (without skimping on ...",
+        "How to save money on groceries effectively - Albert"
+      ],
+      "long_tail": [
+        "What grocery apps do you love? : r/budgetfood - Reddit",
+        "5 Grocery Shopping Apps that Save Money - The Rambling Ramnaths",
+        "How to save money on grocery staples, meals using these apps",
+        "The Best Apps To Save Money on Groceries - Clark Howard",
+        "Grocery store apps are changing the way we shop - YouTube",
+        "Basket | Smart Grocery Shopping List App | Compare Grocery Prices",
+        "How many people use grocery store apps to save money? - Facebook",
+        "10 apps that will help you save money on food - Yahoo Finance",
+        "Essential food apps to save money - Facebook",
+        "Apps help save on groceries as prices rise - YouTube"
+      ],
+      "question": [
+        "Saving Money Tips to Save Money on Everyday Expenses",
+        "60 Smart Life Hacks to Save Money Every Day",
+        "10 ways to start saving money - Vanguard",
+        "Making a Budget | consumer.gov",
+        "What practical tips do you use to keep your expenses and savings in ...",
+        "14 SIMPLE WAYS TO SAVE MORE MONEY EVERYDAY",
+        "How to save money on daily living expenses - TD Bank",
+        "16 Ways to Cut Costs: Strategies for Reducing Expenses - Debt.org",
+        "How to Lower Your Bills: 45 Ways to Save - NerdWallet",
+        "8 Mistakes You're Making with Everyday Expenses - YouTube"
+      ]
+    },
+    "paa_questions": [
+      {
+        "q": "What is the cheapest way to buy groceries?",
+        "a": "8 TIPS FOR FINDING CHEAP GROCERIES"
+      }
+    ],
+    "related_searches": [
+      "How to save money on groceries at Walmart",
+      "How to save money on groceries reddit",
+      "How to save money on groceries for one person",
+      "How to save money on groceries app",
+      "How to save money on groceries With coupons",
+      "How to save money on groceries and eat healthy",
+      "How to save money on groceries for a family of 4",
+      "I save money on groceries by Blank"
+    ]
+  },
+  "primary_keyword": "how to save money on groceries",
+  "competitors": [
+    {
+      "rank": 1,
+      "domain": "reddit.com",
+      "url": "https://www.reddit.com/r/Frugal/comments/1blzunb/whats_the_best_way_to_save_on_groceries/",
+      "title": "What's the best way to save on groceries? : r/Frugal - Reddit",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 2,
+      "domain": "cooking.nytimes.com",
+      "url": "https://cooking.nytimes.com/article/readers-grocery-budget-recommendations",
+      "title": "How Our Readers Are Saving Money on Groceries - NYT Cooking",
+      "word_count": 1253,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://static01.nyt.com/images/2025/06/02/multimedia/02FDBUDGET-ROUNDUP-grocery-store-qhtf/02FDBUDGET-ROUNDUP-grocery-store-qhtf-articleLarge.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [],
+      "body_text": "By Sharon Attia and Allison Jiang Published June 2, 2025 Updated June 2, 2025 With grocery costs in flux as a result of inflation, tariffs and other factors, it can feel like eating well means you have to spend a fortune. But our clever readers prove that that\u2019s not the case. We asked them if they have changed how they shop and cook. Below are some of their smart, money-saving tips. 1. Cook a pantry meal before you go shopping. \u201cOnce a week, we\u2019ll do an unplanned pantry dinner that involves groceries we have instead of groceries we need to buy.\u201d Before you make yet-another trip to the grocery store, take stock of what\u2019s in your pantry , fridge and freezer to ensure that nothing goes to waste. Soups , pastas and fried rice are a great way to use up those leftover bits and bobs of meat and vegetables you have on hand. And Melissa Clark recommends leaning on bright, bold pantry staples, such as anchovies, chile paste, salsa or Dijon mustard, to turn everyday staples into something wonderful. Highly Pantry-Friendly Recipes Vegetable Pajeon | Chickpea Harissa Soup | Midnight Pasta With Garlic, Anchovy, Capers and Red Pepper 2. Avoid the center of the grocery store if you can. \u201cI have focused on buying for meals! Ingredient shopping only!\u201d Shop with a list \u2014 and keep to the list. To resist impulse purchases, one reader keeps to the edges of the grocery store, avoiding the packaged food in the center of the store as much as possible. Five-Ingredient Recipes Tomato Rice With Crispy Cheddar | Five-Ingredient Creamy Miso Pasta | Salmon and Kimchi Skillet 3. Plan multiple meals around one main ingredient then vary the surrounding flavors. \u201cWe started saving by meal planning with a theme. We repeat ingredients as much as possible. We try to make a game of finding as many different flavors out there that use the same ingredients so we still get a variety throughout the week.\u201d Repeating ingredients doesn\u2019t mean you\u2019re cursed to eat the same protein, grain and vegetable every day. That would be so sad, so boring! A big pot of black beans can be tucked into burritos for breakfast, served over rice for lunch and loaded onto cheesy baked sweet potatoes for dinner. Sausages can be baked into a buttery breakfast casserole , pan-seared with peppers and onions or cooked in a quick skillet pasta with your chosen green veg. Multi-Purpose Recipes Chili | Sausage With Peppers and Onions | Baked Potatoes 4. Buy on-sale items and freeze in servings. \u201cI\u2019ve long bought the chopped beef I prefer on sale and package it up by servings or recipe amounts for burgers, meatballs, meatloaf and freeze it.\u201d Taking advantage of lower prices on certain ingredients when you see them may lead to meaningful savings. Ground beef, chicken, pork and turkey all freeze well. Ground Meat Recipes Creamy, Spicy Weeknight Bolognese | Porcupine Meatballs | Easy Turkey Meatloaf 5. Shop more often. \u201cI go to the grocery nearly daily now to buy produce and pretend I\u2019m Emily in Paris! I found I was wasting a lot of beautiful produce by guessing what I was going to cook and then pivoting in another direction.\u201d It may seem counterintuitive, but making more frequent, intentional trips to the supermarket instead of one big trip can reduce the likelihood that you\u2019ll waste food. Going more often also ensures that you can peruse the freshest items that the market has to offer, and plan your menu accordingly. Recipes That Make Use of Seasonal Produce Miso-Parmesan Asparagus | Creamy Corn Pasta With Basil | Quick Fresh Tomato Sauce 6. Respect the rotisserie chicken. \u201cWhen I was a student on a restricted budget, I learned to stretch a whole chicken over a week of meals.\u201d Brilliant! Meat from a store-bought rotisserie chicken \u2014 or a simple, homemade roast chicken \u2014 is a hearty addition to salads, pastas, soups and stews. Save the leftover bones and make chicken stock to freeze. Rotisserie Chicken Recipes Rotisserie Chicken and Greens Pasta | White Chicken Chili | Crispy Wonton Chicken Salad 7. Don\u2019t buy it; make it. \u201cI\u2019m making my own chile crisp, which is not at all difficult, as it turns out. Last week we polished off three ounces of my homemade stuff in ONE MEAL.\u201d Lots of basic grocery staples are cheaper and surprisingly easy to make at home: yogurt , for instance, bread , granola and more. You may even find that you prefer the taste and the quality of the homemade stuff, which you can customize to your taste. Readers also wrote in about multi-cookers like the Instant Pot, which quickly and efficiently cook beans from dried without the need for a lengthy soaking process. Things You Should Make, Not Buy Focaccia | Chile Crisp | Pancake Mix 8. Cheaper doesn\u2019t mean less flavor. \u201cA less-expensive item isn\u2019t innately less delicious, and dark meat chicken is the best example of this. Swap a chicken breast with a chicken thigh any time, and you\u2019re definitely going to have a richer, more tender dish.\u201d Consider cheaper cuts of meat like chicken thighs or drumsticks, chuck roast, pork shoulder or shank. You may find you like them even better, especially in braised dishes like pot roast, carnitas and ropa vieja. Braised Recipes Pressure Cooker Pot Roast | Slow Cooker Honey-Chipotle Chicken Tacos | Ropa Vieja 9. Eat less or no meat \u201cI cook a lot of cannellini bean recipes. This is great cost saver, and I\u2019ve learned to spruce them up with pesto, red sauce, etc.\u201d Meatless Mondays are an opportunity to experiment with plant-based proteins like tofu and beans, which are endlessly versatile. Some of our most popular recipes, like these creamy, spicy tomato beans and greens , are fast, easy to prepare and delicious \u2014 all in part because they\u2019re vegetarian. Cheap Vegetarian Recipes Beans and Greens alla Vodka | Pesto Beans | Kung Pao Tofu 10. Buy in bulk \u201cBuy basics (flour, sugar, rice, pasta, oats) in bulk and use it!\u201d It may be obvious, but buying in bulk not only ensures that you save on grocery costs. It also assures that you\u2019ll always have ingredients for a meal. Rice, for example, freezes well and can be a main , a side or a dessert . Recipes for Staples Big Pot of Beans | Farro | Can\u2019t-Miss Rice 11. If you have the space, grow your own food. \u201cWe\u2019re growing herbs to reduce waste, cost and add convenience when cooking.\u201d Many wrote in about the cost-saving (and therapeutic) virtues of having a garden. Homegrown herbs, whether fresh or frozen , can elevate a meal exponentially, and many, like mint, dill, thyme and scallions, are easy to grow on your kitchen counter, even in urban kitchens. ( Here\u2019s how to store and extend the life of your herbs.) Recipes for Using Up All of Those Herbs Creamy White Beans With Herb Oil | Uchucuta Sauce (Andean Green Herb and Chile Sauce) | Greek Goddess Dip 12. Lean on community resources. \u201cOnce a month I utilize my local food bank. A blow to my ego for sure. Nevertheless, I\u2019m grateful.\u201d Some readers \u2014 especially those living on a fixed income \u2014 rely on food banks, community fridges and pantries to help them get by. Feeding America is a website that helps you find a food bank in your area by plugging in your ZIP code. You can also call a local church or community center.",
+      "headings": []
+    },
+    {
+      "rank": 3,
+      "domain": "thedinnerdaily.com",
+      "url": "https://thedinnerdaily.com/saving-money-on-groceries-how-i-saved-347-in-one-month/",
+      "title": "Saving Money on Groceries: How I Saved $347 in One Month",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://thedinnerdaily.com/wp-content/uploads/2023/08/Saving-money-on-groceries-shopping-cart-1024x512.png",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://thedinnerdaily.com/wp-content/uploads/2023/08/Saving-money-on-groceries-shopping-cart.png",
+          "alt": "saving money on groceries",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://thedinnerdaily.com/wp-content/uploads/2017/05/Try-it-Free-Button-250x50-1.png",
+          "alt": "Try The Dinner Daily for Free!",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://thedinnerdaily.com/wp-content/uploads/2026/04/why-your-grocery-budget-is-increasing--110x80.png",
+          "alt": "why your grocery budget keeps increasing",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://thedinnerdaily.com/wp-content/uploads/2026/03/Why-Meal-Planning-Fails--110x80.png",
+          "alt": "Why meal planning fails",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://thedinnerdaily.com/wp-content/uploads/2024/06/reducing-Food-waste-110x80.png",
+          "alt": "reducing your food waste",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://thedinnerdaily.com/wp-content/uploads/2026/01/Getting-organized-with-dinner--110x80.png",
+          "alt": "How to get organized with dinner planning",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://thedinnerdaily.com/wp-content/uploads/2015/11/Thanksgivingblog-scaled-110x80.jpg",
+          "alt": "Thanksgiving Tips",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://thedinnerdaily.com/wp-content/uploads/2022/11/Thanksgiving-300x184.jpg-110x80.png",
+          "alt": "Thanksgiving money saving tips",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 4,
+      "domain": "thekitchn.com",
+      "url": "https://www.thekitchn.com/best-grocery-budget-tip-financial-advisors-23755446",
+      "title": "The Best Way to Save Money on Groceries, According to Financial ...",
+      "word_count": 0,
+      "scrape_status": "failed",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 5,
+      "domain": "conwayhousingsc.org",
+      "url": "https://www.conwayhousingsc.org/25-simple-tips-to-save-money-on-groceries",
+      "title": "25 Simple Tips to Save Money on Groceries | South Carolina",
+      "word_count": 869,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://conwayhousingsc.org/templates/conwayhousingsc.org/images/fb-posting-logo.png",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [],
+      "body_text": "We all know that eating out is more expensive than preparing meals at home. But it's easy to fall into the trap of eating out anyway, often because it's quicker and more convenient, and also sometimes because it seems more affordable than laying out a lot of cash at one time for a full food-shopping trip. There are plenty of ways to save money on groceries, though, and they make it easier on the budget to buy food you can make yourself. It's not only significantly cheaper over the course of the month to prepare most of your food at home; it's also easier to eat healthier this way. For starters, take a look at these budget-friendly healthy foods. Get in the habit of picking up at least several of them every time you go food shopping. Then, follow the advice below on how to save money on groceries, and you shouldn't struggle too much to make the savvier choice to prepare the majority of your meals at home. How to Save Money on Groceries Go on a price-comparing mission. Visit the grocery stores in your area and write down the prices of the 10 or 20 items you purchase most often. This helps you figure out where to do your shopping trips for the lowest cost. Cut out coupons and buy sale items. Even if they're not the brand you usually buy, they'll save money on groceries for you. But don't buy things just because you have a coupon or they're on sale if you don't really need them. And remember, coupons don't only come from newspapers and circulars these days; lots of websites have lots of coupons to download and print. Just Google a coupon website to find plenty of options. Ask your grocery store of choice if they accept any competitor coupons so you don't miss out on any opportunities to save. Take advantage of grocery store buy-one-get-one deals. Stock up on non-perishables you know you'll use if there's room in the food budget. Don't fall for deals that aren't actually deals. Just because something says \"10 for $10,\" that doesn't mean the cans don't always cost $1 each. And remember that when sale items are advertised with something like \"3 for $5,\" you usually don't have to buy three; you can generally get one item at the sale price. Don't buy more than you need, since you'll just be spending extra. Plan out the meals you'll make with the groceries you get on each trip so you know exactly what you do and don't need to buy. Make a shopping list before going to the store. You won't forget things and have to go back (and probably buy other stuff), and you won't buy extra items you don't need. Only grocery shop once per week. The more trips you make, the more you buy. And this can even save you on gas over time. And shop alone - especially without the kids. The more people with you, the more you buy because everyone wants to pick things out. Keep track of what you have and use it up. A Google search usually works to give you ideas for ingredients you have lying around in the pantry or freezer. Watch out for fresh produce starting to go bad, too. Don't shop when you're hungry. You actually purchase more - and often it's junk food - if you're craving food while buying it. Check the unit price or price by weight on price tags. Often, you get a better deal on a larger package. Still, you're spending more, so only buy bigger if you really need it all. food packaged in individual servings, as it almost always costs more. Go for the generic version over name-brand products. Buy frozen fruit and vegetables. It's cheaper than fresh, has the same (or even higher) nutritional value, and lasts much longer, reducing the likelihood of waste. When you buy fresh produce, buy what's in season because it's at its lowest price; out-of-season produce is at its peak price. Avoid prepared meals, pre-cut fruit or veggies, and similar convenience items. You pay a premium for the convenience, but it really doesn't take long to cut up a piece of fruit yourself. Buy meat in bulk and freeze what you don't use right away. Also, if the seafood you're buying from the seafood counter is previously frozen, you can probably find the same thing cheaper in the frozen aisle. Look into membership at bulk grocery stores, as these are great places to save money on groceries. Ask a friend, family member, or neighbor about splitting things if you don't use them fast enough to justify buying so much at one time. Take a look at your receipt, identify the most expensive items, and find cheaper alternatives (ground turkey instead of ground beef, for example). Look at the top and bottom shelves; these are where the lowest-cost items tend to be placed. The products at your eye level (and your kid's) and on end-caps at the end of aisles are generally the highest priced. Pay with cash rather than a debit or credit card. People spend less when they're handing over actual cash.",
+      "headings": []
+    },
+    {
+      "rank": 6,
+      "domain": "youtube.com",
+      "url": "https://www.youtube.com/watch?v=fFHLv-BscEI",
+      "title": "How to save BIG on groceries when costs are rising - YouTube",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 7,
+      "domain": "raiseright.com",
+      "url": "https://www.raiseright.com/blog/13-ways-to-save-money-on-groceries",
+      "title": "13 Ways to Save Money on Groceries - RaiseRight",
+      "word_count": 1005,
+      "scrape_status": "tavily_fallback",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": "# 13 Ways to Save Money on Groceries Americans continue to spend more on food each year. Cooking at home can help your hard-earned dollars go further, but as you've probably noticed, the cost of your groceries is climbing, too. As of January 2026, grocery store and supermarket food prices are 2.1 percent higher than in January 2025. Luckily, food spending doesn't have to take a major bite out of your budget\u2014especially if you know ways to save money on groceries. We've put together a smorgasbord of 13 grocery shopping hacks that will have your wallet just as well-fed as your family. ##### 1. Use cash or gift cards to stay within budget The #1 way to save money on groceries is to set a spending limit. If you have trouble sticking to your weekly grocery budget, try going to the store with only that amount of cash in hand. Prefer the convenience of a card? Consider using a reloadable grocery gift card with the exact amount you're able to spend. ###### Pro-tip ##### 2. Embrace digital tools Modern shoppers can use technology to get the edge over ballooning grocery prices. Some apps can help with every aspect of cost-effective grocery shopping, including: ##### 3. Use curbside pickup and delivery wisely You might assume that the convenience of curbside pickup and home delivery would cost more, but savvy shoppers can save money on groceries this way, too. Some grocery stores offer free online ordering and pickup. Put your order together at home while price-checking against competitors to ensure you're getting a good deal. Plus, shopping from home lets you avoid all those tempting impulse buys. The savings you rack up by shopping this way may even cover the delivery cost, so check your local store's fees to be sure. ##### 4. Plan your meals Planning meals in advance is a great way to save money on groceries\u2014sidestep unnecessary purchases while ensuring nothing goes to waste. Meal planning also encourages you to skip eating out or getting takeout, which leads to big cost savings over time. Here are a few ways to plan your meals efficiently: ##### 5. Leverage coupons and discounts You may not clip them out of the Sunday paper anymore, but couponing is still one of the best ways to save money on groceries. Try this advice: ##### 6. Join rewards programs Most major grocers offer loyalty programs or discounts when you sign up for their programs or mailing lists. These members-only offers can add up over time. However, there *is* a catch: you can't let discounts tempt you into buying items you don't need or won't use. ##### 7. Take advantage of store apps Additionally, grocery stores often offer member-only coupons and deals via their proprietary apps. A few that are known for offering big savings this way include: ##### 8. Buy generic As you learn how to shop for groceries on a budget, remember that many generic or store-brand items are identical to the name brand. In some cases, generic items are processed in exactly the same plants as their name-brand cousins, and only the labels differ. How much can you save buying a generic version? One financial advising firm found that using generic items for three dinners a week could save more than $500 a year for a family of four. ##### 9. Shop seasonal and local Financial experts and eco-conscious shoppers alike champion this tip for being both cost-effective *and* sustainable. Seasonal produce tends to be more affordable, better tasting, and closer to peak freshness. ###### Pro-tip ##### 10. Buy in bulk Buying in bulk can help you save money on groceries by reducing the per-unit cost and minimizing the frequency of your shopping trips. Items that are likely to be cheaper in large quantities include: ##### 11. Avoid individually wrapped or prepared foods Convenient, prepared foods are nearly always more expensive (and often less fresh) than preparing foods at home. Prepped foods that can bloat your bottom line include: ##### 12. Avoid impulse buys You know what we're talking about: chips to eat in the car, a quick sugary beverage, and day-old cookies at a can't-beat-it price. Here are some tricks to avoid the dreaded impulse buy: ##### 13. Know what expiration dates mean Don't lose money by immediately disposing of food past its sell-by or best-by date. Per the USDA, these dates are \"for quality, not for safety.\" As long as you handle the food safely, it should be safe to consume if you don't see or smell signs of spoilage. The one exception? Infant formula. After its use-by date, baby formula may not contain adequate nutrients for infant health. ##### Use RaiseRight to shop for groceries on a budget These tips can help you spend smarter without sacrificing taste or nutrition. And when you pair them with RaiseRight, your grocery spending does double duty, helping you manage costs while earning for a school, sports team, band, or church you care about. Start by buying a grocery gift card on RaiseRight that matches your weekly budget. Use it for purchases, reload when needed, and watch the earnings add up. Ready to get started? If you're already part of an organization that uses RaiseRight, you just need your enrollment code to create an account and begin earning right away. ## Related posts Mobile Fundraising 101: Give Anywhere, Anytime 4 Major Drawbacks of Coupon Card Fundraisers 14 Tips to Incorporate Gift Card Fundraising Into Your Fall Routine Have Candy and Chocolate Fundraisers Run Their Course? 8 Fun St. Patrick\u2019s Day Activities for All Ages ## Download the Guide See how you can start earning 5x more for your fundraising program! Fundraising Info Brands Company Shop On Our App COPYRIGHT - 2026 RAISERIGHT. ALL RIGHTS RESERVED. The merchants represented are not sponsors of RaiseRight or otherwise affiliated with RaiseRight. The Logos and other identifying marks on this website are trademarks of and owned by each represented company and/or its affiliates. Please visit each company\u2019s website for additional terms and conditions.",
+      "headings": []
+    },
+    {
+      "rank": 8,
+      "domain": "thewholeu.uw.edu",
+      "url": "https://thewholeu.uw.edu/2025/09/01/20-tips-to-save-money-at-the-grocery-store/",
+      "title": "20 tips to save money at the grocery store - The Whole U",
+      "word_count": 2142,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/10/2019/06/21094817/Univ-of-Washington_Memorial-Way.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://thewholeu.uw.edu/wp-content/uploads/grocery-store-300x200.jpeg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://thewholeu.uw.edu/wp-content/uploads/AdobeStock_286952502_Editorial_Use_Only-300x200.jpeg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://thewholeu.uw.edu/wp-content/uploads/AdobeStock_322785992-300x166.jpeg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://thewholeu.uw.edu/wp-content/uploads/AdobeStock_322902892_Editorial_Use_Only-300x214.jpeg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://thewholeu.uw.edu/wp-content/uploads/AdobeStock_65080014-300x199.jpeg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://thewholeu.uw.edu/wp-content/uploads/AdobeStock_228268749-300x200.jpeg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://thewholeu.uw.edu/wp-content/uploads/AdobeStock_185299533-300x198.jpeg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "Trips to the grocery store can be expensive, especially if you have a lot of mouths to feed. The average U.S. household spends $4,942 on groceries per year, based on 2020 U.S. Bureau of Labor Statistics data. That\u2019s roughly $412 per month. With inflation rising and continued supply chain shortages due to the COVID-19 pandemic, many individuals and families have noticed that grocery bill rising even higher. There are a lot of factors that impact the cost of your groceries, such as your diet, budget, region, and number of people eating in your household. While most of these are factors that we cannot control, there are various strategies on how you grocery shop that can help you save your hard earned cash. If you are struggling to meet your basic food needs, we encourage you to visit Any Hungry Husky to learn more about resources for food instability. Food instability is common and there are many pantries and programs to help. If you are in a place where you can give, visit this resource article from the UW Combined Food Drive to see how you can contribute. Here\u2019s 20 tried and true tips for your next grocery shopping run. These won\u2019t answer all the questions, but at the end of the day every dollar counts. Try a handful and see how much you can see. Use a cash back credit card. Depending on how much your average grocery bill is, using a cash back credit card to make your grocery purchases can be a great way to get those precious dollars back! Some cards can even offer up to 8% back on purchases, depending on how the card works. Click here to see which cards NerdWallet recommends for grocery shopping in 2022. *Be sure that you only spend as much as you would in cash or from a debit card, and read the fine print. Some cards have special rewards cycles, and if you\u2019re able to follow along, that\u2019s when you can really ring in the benefits. for loyalty programs. Most grocery stores have loyalty programs that provide points for cents off at the gas pump, coupons for your favorite items, and full access to store sales. Generally, grocery loyalty programs are free to join. If you shop regularly at a large retailer, these programs can really help shave dollars off your final bill. Consider joining a wholesale club. Wholesale clubs like Costco and Sam\u2019s Club do have an annual fee, but if you are a large family or are able to shop in bulk and store items, you can really save. Items like beans, nuts, seeds, canned goods and cooking ingredients tend to be cheaper when purchased in bulk through wholesale clubs. Wholesale clubs like Costco can also help you save on gas if you live in an area where gas is expensive-like here in Seattle! One trick to seeing if your wholesale club is cost effective for you is to keep a log in your first year. While tedious, you\u2019ll be able to see if you saved money and how much. Start by logging what you buy, how much you got, and how much it cost. Compare to your local grocery store and estimate how much you would have spent on the same goods. Subtract your annual wholesale membership fee, and see what your bottom line is. Stick to your list and set a realistic grocery budget. It\u2019s a tale as old as time. Going to the store with no grocery list can really increase your final bill! Shopping by the list can be a great help to save more at the grocery store. Not sure how to structure your list and navigate the store? Click here for The Whole U\u2019s guide to navigating the grocery store. Setting a grocery budget can be difficult, but it is important to understand your limits and needs. What foods can you afford? What is a splurge and what are your staples? Click here to learn more about grocery budgeting and recommendations for how much of your income to spend. Quick note: Groceries typically fit into the necessities bucket of your budget. Avoid pre-packaged items and prep your own food. Pre-packaged items like yogurt, hummus, and snacks are convenient, but they cost much more than if you purchase in bulk and package at home. A few ways you can do this is to invest up front in Tupperware or glassware you will use ongoing or repurpose store containers. Save your cream cheese containers, clean them out, and voila! Avoiding pre-packaged foods is great for the wallet and the environment. Shopping second hand is another great way to find gently used glass bottles to start packaging your goods. Make bulk batches and freeze meals. Do you find you are constantly purchasing too much food, and then it\u2019s going bad? Making your meals in bulk and taking advantage of the magical qualities of a freezer may be the trick for you. Then, the following week when you\u2019re too tired to cook, you can pop your prepared meal in the oven or microwave and be good to go. This may also help you visit the store less. You won\u2019t have to return as soon when you have meals prepared and waiting for you. Got time on your hands? Compare prices. My grandfather always shopped the daily paper looking at advertisements and comparing prices. I used to wonder how it was worth the effort, but now I find myself doing the same. If you have the flexibility to visit multiple stores, shopping paper or online advertisements can be a great way to find the best deals. There\u2019s no need to feel married to one store. Pro tip: If you don\u2019t get the advertisements in your mail or online, you can always find copies in the front of most grocery stores when you first enter. Ask a clerk if you need assistance. Buy generic brands. I will always laugh at the fact that I used to beg for the MAIN BRAND! At the end of the day, generic brands taste just as good and cost less. Win, win! It\u2019s a known, but often forgotten, trick that grocery stores keep the more expensive items at your eye level. Look up and down. That\u2019s where you\u2019ll find Kroger cereal, crackers, etc. Bring your own bag. This is a very simple, yet effective tip and it really does add up. Let\u2019s say you live in Washington state. We have an 8 cent bag tax. Some regions it\u2019s even higher, and this fee is taxable because the store is selling you the bag. If you go the store about 2 times per week and purchase a bag, that\u2019s about $10 a year. That may not sound like a lot of savings, but it\u2019s a yummy coffee or lunch item. And using your own bags is better for the environment. We love a win, win. Clip coupons. We\u2019ve all heard of those extreme coupon clippers\u2026they save thousands of dollars each year! While this takes all sorts of time and energy, keeping track of what you buy each month and saving coupons from both the manufacturers and the stores you shop at can give you generous savings each year. Plan recipes ahead of time. If you know what you\u2019re going to be cooking and eating, you can make fewer visits to the grocery store and be successful in one large haul. This tip goes hand in hand with having a good list prepared before you visit the store and utilizing freezer storage. When you know what recipes you\u2019re cooking, it\u2019s not as tempting to throw yummy things in your cart that may end up going to waste. Not sure where to start? Download this guide to meal planning and preparing from The Whole U. Without planned meals, you may also buy something that sounds good, go home, and realize that you need even more ingredients to go along with that item. After you head back, you\u2019ve spent more than if you had a list based on your meals pre-planned. Shop alone and on a full-stomach. If you have the luxury of shopping alone, you can make your trip a mindful experience. Yes, I really said that about the grocery store! Take your time and try not to get wrapped up in the hustle and bustle of it all. Fit your grocery shopping into a time in your week that you can carve out intentionally for you. You won\u2019t be coaxed into buying things you don\u2019t need by other people who had to come with you, and you\u2019ll be able to make better decisions on what you really need. The next part of this tip is to never shop hungry. We all know where that leads\u2026a cart full of comfort, quick fix food that is typically more expensive. It\u2019s also difficult to shop hungry, our brains just cannot compute! Take inventory before you shop. We\u2019ve all been there. Standing in the aisle wondering, \u201cDo I have eggs at home?\u201d It\u2019s just the worst buying double, coming home, and realizing you already have something. Especially if it is perishable. It\u2019s difficult to shop unprepared. Knowing what is in your pantry, freezer, and fridge is a guaranteed way to help you save money. One way to do this is to keep a kitchen inventory. Some people swear by the reverse list: Keep a list of all the things you have and regularly use. Cross off when you are out of that item, and then it moves to your \u2018Need to buy\u2019 list. When it\u2019s time to shop, you already have your list and are ready to go. Shop in season. Are you buying blackberries in winter? Odds are they cost much more than when they are in season. Shopping your local and seasonal produce is a great way to save money on produce. Click here for a Washington seasonal produce guide from The Whole U. Print it out and display in your kitchen, and you\u2019ll never have to wonder what\u2019s in season anymore. Consider limiting high priced items. There are some luxury items that are always going to be more expensive. Consider limiting these items and making them more of a treat. Things like alcohol or meat. You can try meatless Monday\u2019s, and creating meals focused on lower priced items. Vegetable and bean-based protein is more nutrient dense and more affordable. Buy frozen vegetables and fruits. Are your vegetables always going bad? What a waste of food and money! Consider buying frozen goods so that you can extend the shelf-life of your favorite produce. It\u2019s a myth that frozen fruit and vegetables aren\u2019t good for you. Frozen is a great option for many households. Don\u2019t get down on yourself if you\u2019re not able to sustain cooking fresh food. We all have different needs and lifestyles, and frozen veggies and fruits are better than nothing at all. Shop at discount grocery stores. Consider mixing discount stores like Grocery Outlet and the Dollar Store into your shopping rotation. These stores often carry the same products for a much better rate. Pay attention to the price per unit. Ah the price per unit, the extra numbers on the price ticket that everyone gets confused by. Understanding the price per unit is a great way to know what the best deals are. If you only shop by the price listed, you may not notice that you could buy the same item in a large quantity and higher price, but at the end of the day, you are saving more. *Make sure to factor in whether you can store the item properly to preserve. Click here to read how to understand the price per unit. Find out when your store\u2019s discounting cycle is. Do you always shop at a particular store? Ask your checker when they do the discounting for the week. Often, weekdays are cheaper than weekends, and stores tend to begin sales mid week, especially on items that will eventually spoil. There\u2019s no shame in making sure you get the best deals! If you are able to shop early in the day on sale days, even better. You\u2019ll get first access to the best deals and won\u2019t feel rushed by the hustle and bustle of the store. Pay attention at the register. If you use only one of these tips, this is definitely one to consider. Stores have complicated sales and thousands of items. Make sure your items are ringing up as listed. If your grocery bill comes out without all the wonderful savings and perks, what\u2019s the point of even shopping for those deals? Grocery shopping can be stressful and expensive. We hope that these tips help you navigate the store with a little bit more finesse and confidence. Share with us your other favorite tips in the comments below!",
+      "headings": []
+    },
+    {
+      "rank": 9,
+      "domain": "theeverygirl.com",
+      "url": "https://theeverygirl.com/grocery-store-hacks-to-save-money/",
+      "title": "14 Easy Hacks I Use to Save Money at the Grocery Store",
+      "word_count": 0,
+      "scrape_status": "failed",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 10,
+      "domain": "fidelity.com",
+      "url": "https://www.fidelity.com/learning-center/smart-money/save-on-groceries",
+      "title": "How to save money on groceries | Pay less for food | Fidelity",
+      "word_count": 755,
+      "scrape_status": "tavily_fallback",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": "## Learn Great, you have saved this article to you My Learn Profile page. Clicking a link will open a new window. # How to save money at the grocery store ### Key takeaways ### Know the tricks Grocery stores are designed to make you buy more than you plan\u2014the store setup encourages quick decisions and impulse buys. Here are some of the most common tactics: ### Buy in bulk If you have the storage space, bulk purchases of foods that don't spoil quickly and that you eat frequently can be a great way to save money in the long run. Individually portioned food, such as snack bags for taking on the go, come with an upcharge. Buying a single container with a large amount of food inside and doing the portioning yourself at home can cost much less. Sodas, seltzers, and other drinks are typically cheaper in bulk too. If you have a habit of buying a single drink on your way to, from, or at work every day, consider buying in bulk at the grocery store and bringing your drink from home instead. But heads up: Bigger doesn't always equal cheaper. Before you go bulk, do the math. Figure out the per-item or per-ounce cost for the bulk buy and compare it with the smaller version to ensure that the price really is right. One more thing to watch out for: Stores will often discount bulk items, tempting you to buy what you won't finish fast enough. If you won't finish something before it spoils, avoid buying it in the first place, no matter how much of a steal it seems to be. ### Plan meals with what you have Planning meals with ingredients you already have can help you reduce food (and money) waste because you'll be more likely to use up what's in your fridge or pantry. Think of the grocery store as a supplement to what you already have, or, better yet, aim for meals you can make without buying anything additional. Use an online recipe generator, which prompts you to enter the foods in your home, to get ideas. And don't stress if you're missing a spice or 2: Your dinner will probably taste just fine without that pinch of paprika. ### Buy in season and locally If a favorite fruit or vegetable isn't growing in your area when you want it, it might have to be shipped in from afar, which could raise the price. If you focus on local, in-season produce, this could potentially save you money and provide you with fresher food. If a recipe calls for something that's out of season, choose an alternative or head to the frozen aisle. ### Get fruits and vegetables elsewhere Supermarkets are convenient\u2014everything you want to eat in 1 place\u2014but convenience comes with a price. Consider venturing outside the grocery store for items you can get for less, such as produce. Vendors at farmers' markets often offer bulk discounts on their in-season produce. Got a green thumb? Consider growing, freezing, canning, and preserving fruits and vegetables yourself. Tomatoes, cucumbers, strawberries, and garlic are easy to grow with cheap seeds in your own little garden. That can give you access to the tastiest ingredients at a fraction of grocery store prices. ### Bottom line Saving money on food might require some habit changes, but it doesn't require much sacrifice. Try these little tweaks to your routine to potentially save hundreds, if not thousands, of dollars each year. ## Take your smart money habits to the next level We have account options to match any money goal. ## More to explore ### Help me budget ### How to save thousands in a year ## to *Fidelity Smart Money\u2120* ### Looking for more ideas and insights? ### Thanks for subscribing! ### We're on our way, but not quite there yet ### Oh, hello again! ### Thanks for subscribing to Looking for more ideas and insights? You might like these too: Looking for more ideas and insights? You might like these too: ### Looking for more ideas and insights? You might like these too: ### *Fidelity Viewpoints\u00ae* ### Decode Crypto ### *Fidelity Smart Money\u2120* ### Active Investor ### *Insights from Fidelity Wealth Management* \u00ae ### Women Talk Money ### Educational Webinars and Events Fidelity Brokerage Services LLC, Member NYSE, SIPC, 900 Salem Street, Smithfield, RI 02917 ### Stay Connected Instagram, (Opens in a new window) LinkedIn, (Opens in a new window) YouTube, (Opens in a new window) Reddit, (Opens in a new window)",
+      "headings": []
+    },
+    {
+      "rank": 11,
+      "domain": "youtube.com",
+      "url": "https://www.youtube.com/watch?v=sbRxaS2PMoU",
+      "title": "SIMPLE Grocery Hacks That Will Save You HUNDREDS in 2025!",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 12,
+      "domain": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/how-to-save-money-on-groceries-ways-stretch-food-budget-214426031.html",
+      "title": "How to save money on groceries: 13 ways to stretch your food budget",
+      "word_count": 1781,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://s.yimg.com/ny/api/res/1.2/owLmO7GZ9GAHSwY882pbAg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://d29szjachogqwa.cloudfront.net/images/2026-03/6d800336-38a6-4882-9dfd-15ef7423c342",
+        "alt": "",
+        "description": "Generic editorial stock photo depicting common financial concepts like piggy banks or people with devices.",
+        "type": "editorial_stock_photo"
+      },
+      "article_images": [
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/CG1fItRs06KVm5zJRlJavg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIzMjtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2020-12/e70e9a00-35a2-11eb-bdfd-3f73c982ffa9",
+          "alt": "Yahoo Personal Finance",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://s.yimg.com/lo/mysterio/api/210884DFE9400559C830166606152336323EF695031957F47463FB6D9253A477/subgraphmysterio/resizefill_w194_h109;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-05%2Fe5b2e090-3bff-11f0-bff9-cc4c6bb3831a",
+          "alt": "10 clever ways to save money that really work",
+          "description": "Data visualization or financial chart graphic.",
+          "type": "graphic_design_data"
+        },
+        {
+          "url": "https://s.yimg.com/lo/mysterio/api/607EE86232954AFC7421CD9817D799DB022D8DBB815BBFC98706012F959F01B1/subgraphmysterio/resizefill_w194_h109;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-06%2Faa175970-2ce3-11ef-b7ee-91d3c92b1f41",
+          "alt": "How to save money in 2026: 54 tips to grow your wealth",
+          "description": "Data visualization or financial chart graphic.",
+          "type": "graphic_design_data"
+        },
+        {
+          "url": "https://s.yimg.com/lo/mysterio/api/B692386936A3FC50C92A52633C909A39CB70812980B620473BB15F94C4A8C749/subgraphmysterio/resizefill_w194_h109;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-01%2Ff0bf07c7-82c3-4d39-b561-973ddc3b5bc3",
+          "alt": "Best credit cards for groceries (April 2026)",
+          "description": "Data visualization or financial chart graphic.",
+          "type": "graphic_design_data"
+        },
+        {
+          "url": "https://s.yimg.com/lo/mysterio/api/DC5FB32FAB766EEB6E1FEE27D0B4489A057474D0E6B404611CE4C14993F1018B/subgraphmysterio/resizefill_w194_h109;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-04%2Fbfb616f0-74d1-11ea-bfa7-8583e73a9375",
+          "alt": "7 ways to save money on a tight budget",
+          "description": "Data visualization or financial chart graphic.",
+          "type": "graphic_design_data"
+        },
+        {
+          "url": "https://s.yimg.com/lo/mysterio/api/056E0D117AE540737B773BF607D3002E411C9249F9D367A45DBCDED4AC6DCA56/subgraphmysterio/resizefill_w194_h109;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-02%2Fe28f95c0-e9e8-11ef-ba6f-3e2b9a74d9fd",
+          "alt": "How to save money on a low income\u200b, according to Reddit",
+          "description": "Data visualization or financial chart graphic.",
+          "type": "graphic_design_data"
+        },
+        {
+          "url": "https://s.yimg.com/lo/mysterio/api/B25D187B4AA80686D69D78FC586052A00A5409D6B7EC695B71A70C23E2FD1370/subgraphmysterio/resizefill_w194_h109;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-10%2F07be8760-81b7-11ef-bffe-cce5e3da6e6b",
+          "alt": "I'm a personal finance writer, and these are my 11 best money-saving tips",
+          "description": "Data visualization or financial chart graphic.",
+          "type": "graphic_design_data"
+        }
+      ],
+      "body_text": "Some offers on this page are from advertisers who pay us, which may affect which products we write about, but not our recommendations. See our Advertiser Disclosure . For most people, grocery shopping is a fact of life. Unfortunately, so are rising food prices. According to data from the U.S. Bureau of Labor Statistics\u2019 Consumer Price Index, food costs 19.1% more in 2026 than it did four years ago. As costs rise, you may struggle to fill your cart without blowing up your budget . While buying groceries is a necessity, overpaying isn\u2019t. Here are 13 strategies to help you lower your food costs even when prices continue to climb. How to save money on groceries There are a variety of ways to cut grocery costs, and choosing any one can save you meaningful amounts of money. If you\u2019re feeling stuck, try one (or more) of the following strategies to save money at the grocery store. 1. Compare per-unit prices When you comparison shop, don\u2019t evaluate the sticker price alone. Make sure you consider the cost per unit to find out which product is actually the most affordable. This strategy is especially critical when companies use \u201c shrinkflation \u201d to sell smaller quantities at the same price. Most grocery stores list a unit price right below the item\u2019s total price. For instance, this might be displayed as price per ounce (e.g., $0.25/oz) or price per pound (e.g., $3.99/lb). If the unit price isn\u2019t listed, you can calculate it: Total price \u00f7 Quantity = Unit Price For example, say you\u2019re comparing pasta sauces: 16 oz jar for $4: $4 \u00f7 16 = $0.25/oz 24 oz jar for $5: $5 \u00f7 24 = $0.21/oz In this case, even though the second jar costs more, it\u2019s the better deal per ounce. Additionally, if you have multiple stores in your area, you can also compare prices across stores. There are plenty of apps on the market that can make comparison shopping easier, including Grocery Dealz, Basket, and Flipp. 2. Shop your pantry before making a grocery list The best place to make your grocery list isn\u2019t in the grocery store parking lot before heading into the store \u2014 it\u2019s in your kitchen. This allows you to open the pantry, fridge, and freezer to see what you already have, then create a shopping list around those items. Not only can shopping your pantry and fridge help minimize your shopping list and bill, but it can also help eliminate waste by using up food that\u2019s about to go bad. 3. Join a loyalty program If you primarily shop at a handful of grocery stores, it\u2019s often worth joining their loyalty programs. Popular stores such as Kroger, Safeway, and Target offer free loyalty programs to help you save money through personalized coupons, points, or rewards. You can often sign up with a phone number, which you enter at checkout to earn and claim rewards. Some programs also have mobile apps to let you manage your account and track rewards from your phone. 4. Use a rewards credit card Groceries can take up a major slice of your budget. However, strategically using a rewards credit card for grocery purchases can help offset some of those costs. The key is to use a card that offers generous rewards for grocery spending \u2014 and then pay off your bill each month. That means you still need to stick with your grocery budget and only charge what you know you can repay on time. Carrying a credit card balance will result in interest charges that wipe out any savings from rewards you\u2019ve earned. Keep in mind that some cards also reward grocery delivery. For example, the Chase Sapphire Preferred card earns 3x points on online grocery purchases. 5. Avoid prepackaged, precut, and prepared items when possible Those plastic packages of precut fruit or marinated meat are convenient, but that convenience comes at a cost. If your main goal is to save money at the grocery store, buy raw, whole ingredients and prep them at home. On the other hand, if you\u2019re short on time and the trade-off is prepared foods vs. takeout, you\u2019ll save more with prepared foods. 6. Opt for generic brands and discount stores Name brands might be familiar, but the recognition comes at a premium. According to Consumer Reports, buying store brand over name brand can save you around 25% on your grocery bill. Plus, you usually don\u2019t have to sacrifice taste or quality. Based on Consumer Reports\u2019 findings and surveys of their readers, generic store brands \u201cperform about as well as name brands.\u201d You may also be able to take your savings up a notch by shopping store brands at discount stores, such as Aldi, WinCo Foods, and Walmart. 7. for a rebate app Rebate apps such as Ibotta, Fetch Rewards, and Upside can offer cash rewards for shopping in store or online. While you\u2019re essentially earning money for shopping, using rebate apps may involve an extra step or two. For instance, when you use Ibotta, you have to first add offers to your list in the app. After shopping, you then need to upload your receipt to receive your rewards via direct deposit or gift card. 8. Buy nonperishables in bulk (and consider a wholesale club membership) Buying in bulk isn\u2019t just for big families. With the right strategy, you can take advantage of the cost savings of bulk shopping even with a small household. Focus bulk shopping on nonperishables and staples you use all the time, such as beans, canned tomatoes, olive oil, coffee, or peanut butter. If you have the freezer space, you might even take advantage of deals on meat, bread, and other freezer-friendly items. Wholesale clubs such as Costco or Sam\u2019s Club could save you money if you use this strategy, but you\u2019ll have to weigh the potential cost savings against the membership fee. And don\u2019t fall into the trap of buying in bulk only to let things go to waste. 9. Grow what you can If you have the space, time, and interest, tending a small garden can help you save money on fresh herbs and veggies. However, you\u2019ll have to consider the up-front cost of getting started. Be strategic about what you can grow that\u2019ll offer the most cost savings. For example, growing herbs can be relatively inexpensive and straightforward \u2014 and it\u2019ll lead to meaningful savings when a small bunch of herbs can cost several dollars at the grocery store. Also consider growing foods you can preserve or freeze easily so you can eat from your garden (and save money) year-round. 10. Cook essentials from scratch There\u2019s a reason processed and prepared foods are so popular: Cooking from scratch takes a lot of time. But if you can set aside a few hours on the weekend, cooking a few items yourself can lead to major savings at the store. Start by picking one or two simple foods you eat frequently, and try making them from scratch. Salad dressings, sandwich bread, pasta sauce, and granola are all relatively easy to make. The more comfortable you get with a recipe, the more it\u2019ll feel like second nature \u2014 and the more you\u2019ll appreciate both the cost savings and the taste. 11. Meal plan on busy weeks Meal planning requires some up-front work, but the payoff can be huge when it comes to both time and money. Spend a couple of hours on the weekend planning what you\u2019ll eat each day of the week. Then make your grocery list and head to the store. Even if you don\u2019t prep recipes ahead of time, simply knowing what you\u2019ll eat and having the ingredients on hand can be enough to prevent you from ordering takeout after a busy day. 12. Eat less meat Meat dishes may be simple and tasty, but if you want to save money on groceries, you might want to change your ways. Meat is expensive and getting pricier: The retail price of beef rose about 37% from 2019 to 2024. To keep your grocery budget under control, try using meat in lower quantities. For example, use meat as a flavoring, not the focus of a meal. You can also substitute plant-based proteins, like lentils, for half of the meat in a recipe. And don\u2019t overlook more affordable proteins that can anchor a meal, such as tofu, beans, or eggs. 13. Waste less Perhaps the most effective way to save money on groceries is to cut down on food waste. According to the USDA, 30% to 40% of the food supply ends up as waste. Put another way, if you can eliminate food waste in your home, you can save 30% to 40% on your grocery bill. Some simple ways to reduce waste include: Eating leftovers for lunch the next day Regularly surveying your fridge for soon-to-expire items Storing produce correctly to maximize freshness Freezing perishable foods to prolong their shelf life Using veggie scraps to make stock Bottom line There are endless ways to save money at the grocery store. Some strategies are quick and easy to implement; others require substantial time and effort. The key isn\u2019t to put all of these tips into practice \u2014 it\u2019s to find the approach that works best for your lifestyle and gives you the biggest bang for your buck. Read more: How to save money in 2026: 54 tips to grow your wealth 10 clever ways to save money that really work If you struggle to set aside extra cash, try these clever ways to save money. With these strategies, you can save money without straining your budget. How to save money in 2026: 54 tips to grow your wealth Saving money can be a challenge in today\u2019s economy. Here are some tips for how to save money on groceries, utilities, education, and more. Best credit cards for groceries (April 2026) Save money on your grocery trip with a rewards credit card. These are the top credit cards for groceries available right now. 7 ways to save money on a tight budget Finding ways to save money on a tight budget can be challenging, but these seven strategies can help you find extra savings to sock away. How to save money on a low income\u200b, according to Reddit Saving money on a low income is no easy feat. That's why we dug through Reddit to find tips from real users that actually work. I'm a personal finance writer, and these are my 11 best money-saving tips Looking for the best money-saving tips? As a personal finance writer, I\u2019ve learned several effective strategies over the years. Consider giving one or more of them a try.",
+      "headings": []
+    },
+    {
+      "rank": 13,
+      "domain": "rmcu.net",
+      "url": "https://rmcu.net/blog/save-money-on-groceries",
+      "title": "15 Simple Ways to Save Money on Groceries",
+      "word_count": 1225,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://rmcu.net/hubfs/RMCU_Blog_15_ways_to_save_on_groceries-02.jpg",
+        "alt": "woman checking her grocery list at the store",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://rmcu.net/hs-fs/hubfs/RMCU_Blog_15_ways_to_save_on_groceries-01.jpg?width=2895&name=RMCU_Blog_15_ways_to_save_on_groceries-01.jpg",
+          "alt": "RMCU_Blog_15_ways_to_save_on_groceries-01",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://rmcu.net/hs-fs/hubfs/RMCU_Blog_15_ways_to_save_on_groceries-03.jpg?width=2895&name=RMCU_Blog_15_ways_to_save_on_groceries-03.jpg",
+          "alt": "RMCU_Blog_15_ways_to_save_on_groceries-03",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://hubspot-no-cache-na2-prod.s3.amazonaws.com/cta/default/2687142/interactive-131576374452.png",
+          "alt": "RMCU_Q3_2023_Visa_CTA",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://hubspot-no-cache-na2-prod.s3.amazonaws.com/cta/default/2687142/dda73c99-1639-4c70-8bd2-a6d699cfcee5.png",
+          "alt": "Subscribe To Our Blog!",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://rmcu.net/hs-fs/hubfs/grocery-shopping.jpg?width=700&name=grocery-shopping.jpg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://rmcu.net/hs-fs/hubfs/RMCU-keep-money-safe-blog1.jpg?width=700&name=RMCU-keep-money-safe-blog1.jpg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://rmcu.net/hs-fs/hubfs/iStock-1127947949_c.jpg?width=700&name=iStock-1127947949_c.jpg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "back to blog Tips from the Pros Read Time 5 mins | Written by: Rocky Mountain Credit Union 1. Buy in Bulk buying can significantly reduce your price per pound or unit. You can buy many products in bulk from club stores or supermarkets that have bulk food aisles or family packs. Winco, for example, has a massive bulk section that allows you to get just the amount you need without having to pay for the built-in cost of expensive packaging. Costco offers larger-than-usual products that can help you save when shopping for the family or a large group event. Just be sure that you are purchasing foods that you know you and your family can eat before the expiration. Otherwise, the money spent on wasted food will skyrocket your grocery budget. 2. Use Those Coupons You can find coupons just about everywhere and they can save you lots of money when it comes to your groceries. Look in your local Sunday paper, on sites such as coupons.com and grocerycouponnetwork.com, or through apps, such as SnipSnap for updated offers. Couponing is a long game \u2013 the more consistently you use them over time, the more you'll see your saving accumulate. Who knows, maybe you will become the next extreme couponer! 3. Become a Rewards Member Join loyalty or rewards programs that are available at your local grocery stores. They are typically free to sign up for and offer additional discounts and coupons for use on your purchase. The more you shop at that store, the better coupons you will receive. 4. Plan Your Weekly Meals One of the easiest ways to save money on groceries is by planning out your meals for the week. This will help you make a list that include only items you will use. Winging at the store can cause you to end up with many things you don't really need. This also leads to wasted food, which equates to throwing your money in the garbage! 5. Stretch Your Ingredients Buy ingredients you can use for multiple meals. With staple items you can use more than once, you'll be sure to make use of all of it, with little to no waste. A bag of rice will give you a side for around three meals, depending on the size of the group you are feeding, and is an inexpensive staple to keep around. 6. Create a Grocery List Make your list and stick to it when shopping. It can be easy too go off-list when you see the snack aisle staring straight at you, or you remember the Pinterest recipe that you keep meaning to try. But going off the list can add a significant amount of unintended items, pushing you way over budget. Stick to your list to save money on groceries and also save yourself the frustration of coming home with more food than you could ever eat. 7. Shop the Sales A great way to save money on groceries is by shopping the sales. Find stores that offer special deals on the items you need or frequently use and stock up. Just make sure that you will use the items you buy, otherwise they will sit on a shelf and eventually be thrown away. 8. Go for the Price Match Many stores now offer a price match to stay competitive and keep your business. Even if you are unsure, check with a cashier \u2013 you may be pleasantly surprised to know that they will match your prices. Be sure to bring in a coupon or image of the offer, so the cashier at the register can verify your prices. 9. Make Fewer Grocery Trips It seems that every time you go to the grocery store, you come home with something you don't need. If you multiply this by extra trips to the store a week, it can quickly add up. Stick to your designated grocery store trips for when you need to do your serious grocery shopping. If you do need to make an extra trip to the store, only buy what you need and don't waste your money on extras. 10. Avoid Prepackaged Foods While these options are quick and easy, they are significantly more expensive when you calculate the cost per meal. Ditching the TV dinners can amount to a lot of savings at the end of the month. Find recipes that you can prep ahead of time, and then reheat in the microwave or oven. Much like the TV dinners, they are convenient and filling, but they will save you on the cost of groceries because the cost per meal is significantly reduced. 11. Don't Shop on an Empty Stomach Shopping when you're hungry will cause you to impulse buy simply because you are hungry and the item looks appetizing. Eat a snack before heading to the grocery store to curb your hunger and reduce your impulse buys. You will be more likely to stick to your list when you are not hungry, which will save you at the grocery store. 12. Check the Price Per Unit Sometimes stores can entice you with larger containers that cost more in the end. Instead of only looking at the price, calculate the price per unit, and you may find that smaller packaging sometimes has bigger savings. Some stores have even started listing the price per unit, price per ounce, or price per other units of measure. Make sure you are comparing your options and choosing the ones that are the most cost-effective in the end. 13. Buy Generic Options Buying generic items is a great way to save money on groceries. It is important not to get hung up on a brand when the ingredients are virtually the same. This is especially true when buying staples like canned goods, rice and pasta, condiments or baking ingredients. Most of the time, the generic option is the cheapest option because you are not paying for the brand name. This is an easy way to save at the grocery store without limiting your menu. 14. Make Your Shopping Trips Alone Shopping with children or other family members will fill your cart quicker than you'd like \u2013 generally with items you never intended to buy in the first place. It's to fly solo at the grocery store to avoid unnecessary items and stay on track. 15. Buy Seasonally Buying fruits and vegetables that are in season will give you the best value and the tastiest produce. Prices jump when you buy out-of-season produce because it costs more to produce and import. Stick to in-season fruits and veggies to keep your costs low and also mix up the produce that you bring home. By using these tips and shopping smarter, you'll be able to save your cash for other financial goals like buying a car or home, going back to school, or starting a family or a business. You'll find that once you get into the habit of shopping with these guidelines in mind, it starts to come naturally. For more money-saving tips from your local community credit union, subscribe to our blog . If you enjoyed this blog, you might enjoy these other related blogs: Hacks to Save on Your Car Insurance Meal Planning 101 for Budget-Savvy Families Top Ten Projects That Improve the Value of Your Home hbspt.cta._relativeUrls=true;hbspt.cta.load(2687142, 'dda73c99-1639-4c70-8bd2-a6d699cfcee5', {\"useNewLoader\":\"true\",\"region\":\"na2\"});",
+      "headings": []
+    },
+    {
+      "rank": 14,
+      "domain": "youtube.com",
+      "url": "https://www.youtube.com/watch?v=tKb3CGo8vak",
+      "title": "Six Easy Food Swaps That Save Me Hundreds On Groceries",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 15,
+      "domain": "realsimple.com",
+      "url": "https://www.realsimple.com/supermarket-shopping-habits-save-money-11685613",
+      "title": "12 Grocery Store Habits That Can Slash Your Weekly Food Bill",
+      "word_count": 0,
+      "scrape_status": "failed",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 16,
+      "domain": "nerdwallet.com",
+      "url": "https://www.nerdwallet.com/finance/learn/ways-to-save-money-on-food-groceries",
+      "title": "How to Save Money on Groceries: 14 Tips to Try - NerdWallet",
+      "word_count": 117,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.nerdwallet.com/tachyon/2023/02/GettyImages-1159618273-e1675645838578.jpg?resize=2400%2C1440",
+        "alt": "",
+        "description": "Clean, minimalist custom illustration or high-quality object stock photo.",
+        "type": "minimalist_branded_asset"
+      },
+      "article_images": [
+        {
+          "url": "https://www.nerdwallet.com/assets/blog/wp-content/uploads/2026/01/Screenshot-2026-01-22-at-4.18.01-PM.png",
+          "alt": "CTA image",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i.ytimg.com/vi_webp/xe7i7BqHUsY/sddefault.webp",
+          "alt": "Video thumbnail",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.nerdwallet.com/assets/blog/wp-content/uploads/2025/01/NW_iso-phone-sparkle.png",
+          "alt": "CTA image",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.nerdwallet.com/tachyon/2021/12/IMG_3114_edited.jpg?resize=160%2C160",
+          "alt": "Tommy Tindall",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdns3.nerdwallet.com/lending/publication-logos/Marketwatch.webp",
+          "alt": "MarketWatch",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdns3.nerdwallet.com/lending/publication-logos/TheAssociatedPress.webp",
+          "alt": "The Associated Press",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdns3.nerdwallet.com/lending/publication-logos/TheWashingtonPost.webp",
+          "alt": "The Washington Post",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.nerdwallet.com/tachyon/2023/10/Lisa-Mulka-e1697230193587.jpg?resize=160%2C160",
+          "alt": "Lisa Mulka",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "This page includes information about these cards, currently unavailable on NerdWallet. The information has been collected by NerdWallet and has not been provided or reviewed by the card issuer. 1. Check what you already have and make a list Meet MoneyNerd, your weekly news decoder 2. Limit your shopping trips 3. Stick to your list 4. Pay attention to prices 5. Check your mail and email 6. Know your shopping style 7. Calculate your consumption rate 8. Follow your favorite brands Stress less. Track more. 9. Try out generic labels 10. Use credit cards strategically 11. Establish your local supermarket circuit 12. Consider a wholesale membership 13. Look at the price per unit 14. Understand sale cycles",
+      "headings": []
+    },
+    {
+      "rank": 17,
+      "domain": "cnbc.com",
+      "url": "https://www.cnbc.com/select/how-to-save-on-groceries/",
+      "title": "12 tips for saving money at the grocery store - CNBC",
+      "word_count": 2592,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://image.cnbcfm.com/api/v1/image/107224930-1681412037532-gettyimages-1470350052-dsc05912.jpeg?v=1683716644&w=1920&h=1080",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://fm.cnbc.com/applications/cnbc.com/resources/product_select/2025/09/04/Quickbooks.png",
+          "alt": "QuickBooks",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://fm.cnbc.com/applications/cnbc.com/resources/product_select/2026/03/13/Taxslayer.png",
+          "alt": "TaxSlayer",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://fm.cnbc.com/applications/cnbc.com/resources/product_select/2025/04/16/monarch.png",
+          "alt": "Monarch",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://fm.cnbc.com/applications/cnbc.com/resources/product_select/2024/12/16/Bluevine_logo.png",
+          "alt": "Bluevine",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://fm.cnbc.com/applications/cnbc.com/resources/product_select/2025/11/06/thumbnail_SBG-Logo_RBG-01.png",
+          "alt": "SBG Funding",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/108256023-1769118036311-Image-25.jpg?v=1769118117&w=60&h=60&ffmt=webp",
+          "alt": "By Jasmin Suknanan, Lead Reporter, CNBC Select",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/105999202-1606750015345-new_headshot.jpg?v=1606750207&w=60&h=60&ffmt=webp",
+          "alt": "By Alexandria White, Reporter, CNBC Select",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://static-redesign.cnbcfm.com/dist/820decf04f42f75fecf4.svg",
+          "alt": "arrow down",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://fm.cnbc.com/applications/cnbc.com/resources/product_select/2026/01/13/mailchimplogo.png",
+          "alt": "Mailchimp",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://fm.cnbc.com/applications/cnbc.com/resources/product_select/2025/07/01/Empower_logo.png",
+          "alt": "Empower",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "Our top picks of timely offers from our partners Terms apply to American Express benefits and offers. Visit americanexpress.com to learn more. Groceries take up a big chunk of weekly spending and given they're just getting more and more expensive, CNBC Select has 12 tips to save money on your next supermarket run. 1. Pay with a grocery rewards card Using the right credit card at checkout can help you earn rewards that can be used to offset your bill. A generic cash-back card like the Citi Double Cash\u00ae Card can earn you 2% on every purchase with unlimited 1% cash back when you buy, plus an additional 1% as you pay for those purchases. Plus, earn 5% total cash back on hotel, car rentals and attractions booked with Citi Travel; see rates and fees ). However, specific grocery rewards cards can earn you up to 6% back. Find the best credit card for you by reviewing offers in our credit card marketplace or get personalized offers via CardMatch\u2122 . Best cards for grocery stores CNBC Select ranked the Blue Cash Preferred\u00ae Card from American Express as the best overall card for grocery shopping . The card offers 6% cash back in the form of statement credits at U.S. supermarkets on up to $6,000 per year in eligible purchases, then 1%. Terms apply. With an average annual grocery spend of $5,703, you can earn about $342 per year in cash back. If you factor in the $95 annual fee after the $0 intro the first year, that's $247 in annual value. (See rates and fees ) Blue Cash Preferred\u00ae Card from American Express On the American Express site Good to Excellent 19.49% - 28.49% Variable $0 intro annual fee for the first year, then $95. You may be eligible for as high as $300 cash back See rates and fees , terms apply. Read our Blue Cash Preferred\u00ae Card from American Express review. Our expert take The Blue Cash Preferred\u00ae Card from American Express is a low-fee card with generous cash-back rewards and useful ongoing benefits, such as a monthly Disney Bundle credit. (Enrollment required for select benefits mentioned) Pros & cons High cash-back earnings for U.S. supermarkets and streaming services Intro-APR offer for purchases and balance transfers No annual fee for the first year It's less rewarding after the first year because of the annual fee Bonus rewards for U.S. supermarkets are capped More details Highlights shown here are provided by the issuer and have not been reviewed by CNBC Select's editorial staff. Apply and find out your welcome offer. As High As $300 cash back* after you spend $3,000 in purchases on your new Card within the first 6 months of Card Membership. Welcome offers vary and you may not be eligible for an offer. Apply, and if approved: 1. Find out your offer amount 2. the Card with your offer 3. Spend $3,000 in 6 months 4. Receive the cash back. *Cash back is received in the form of Reward Dollars that can be redeemed for a statement credit or at Amazon.com checkout. $0 intro annual fee for the first year, then $95. Enjoy 0% intro APR on purchases and balance transfers for 12 months from the date of account opening. After that, your APR will be a variable APR of 19.49%-28.49%. Plan It\u00ae: Buy now, pay later with Plan It. Split purchases of $100 or more into equal monthly installments with a fixed fee so you don't have the pressure of paying all at once. Simply select the purchase in your online account or the American Express\u00ae App to see your plan options. Plus, you'll still earn rewards on purchases the way you usually do. Earn 6% cash back at U.S. supermarkets on up to $6,000 per year in eligible purchases (then 1%), 6% cash back on select U.S. streaming subscriptions, 3% cash back at eligible U.S. gas stations and on transit (including taxis/rideshare, parking, tolls, trains, buses and more) purchases and 1% cash back on other purchases. Cash Back is received in the form of Reward Dollars that can be redeemed as a statement credit and at Amazon.com checkout. Get up to a $10 monthly statement credit after using your enrolled Blue Cash Preferred\u00ae Card for a subscription purchase, including a bundle subscription purchase, at DisneyPlus.com, Hulu.com, or Stream.ESPN.com U.S. websites. Subject to auto-renewal. Terms Apply. See Rates & Fees Balance transfer fee Either $5 or 3% of the amount of each transfer, whichever is greater. Foreign transaction fee 2.7% of each transaction after conversion to US dollars If you'd rather avoid annual fees, look into the Blue Cash Everyday\u00ae Card from American Express which earns 3% cash back in the form of Reward Dollars that can be redeemed as statement credits at U.S. supermarkets on up to $6,000 per year in eligible purchases, then 1%. (See rates and fees ) Terms apply. Using the example above, you'd earn $171 per year with this card. Blue Cash Everyday\u00ae Card from American Express On the American Express site Good to Excellent 19.49% to 28.49% Variable $0 You may be eligible for as high as $200 cash back See rates and fees , terms apply. Read our Blue Cash Everyday\u00ae Card from American Express review . Our expert take The Blue Cash Everyday\u00ae Card from American Express has no annual fee and you may be eligible for bonus rewards on a wide range of common expenditures. Pros & cons Up to $264 in streaming service and meal kit credits every year (subject to auto renewal) High cash-back rates in popular spending categories No annual fee The best bonus cash-back categories are capped Has a foreign transaction fee More details Highlights shown here are provided by the issuer and have not been reviewed by CNBC Select's editorial staff. Apply and find out your welcome offer. As High As $200 cash back* after you spend $2,000 in purchases on your new Card within the first 6 months of Card Membership. Welcome offers vary and you may not be eligible for an offer. Apply, and if approved: 1. Find out your offer amount 2. the Card with your offer 3. Spend $2,000 in 6 months 4. Receive the cash back. *Cash back is received in the form of Reward Dollars that can be redeemed for a statement credit or at Amazon.com checkout. No Annual Fee. Enjoy 0% intro APR on purchases and balance transfers for 15 months from the date of account opening. After that, your APR will be a variable APR of 19.49%-28.49%. Plan It\u00ae: Buy now, pay later with Plan It. Split purchases of $100 or more into equal monthly installments with a fixed fee so you don't have the pressure of paying all at once. Simply select the purchase in your online account or the American Express\u00ae App to see your plan options. Plus, you'll still earn rewards on purchases the way you usually do. Earn 3% cash back at U.S. supermarkets, 3% cash back on U.S. online retail purchases, 3% cash back at U.S. gas stations, on eligible purchases for each category on up to $6,000 per year in purchases (then 1%). Cash back is received in the form of Reward Dollars that can be redeemed as a statement credit and at Amazon.com checkout. Get up to a $7 monthly statement credit after using your enrolled Blue Cash Everyday\u00ae Card for a subscription purchase, including a bundle subscription purchase, at DisneyPlus.com, Hulu.com, or Stream.ESPN.com U.S. websites. Subject to auto-renewal. Terms Apply. See Rates & Fees Balance transfer fee Either $5 or 3% of the amount of each transfer, whichever is greater. Foreign transaction fee 2.7% of each transaction after conversion to US dollars If you buy groceries online, the Chase Sapphire Preferred\u00ae Card (see rates and fees ) may be a great option. It offers 3X points on online grocery purchases (excluding Target\u00ae, Walmart\u00ae and wholesale clubs). Chase Sapphire Preferred\u00ae Card On Chase's site On Chase's site Spotlight With Points Boost, your rewards will be worth up to 1.5x on thousands of top-booked hotels and flights from select airlines through Chase Travel SM . Good to Excellent 670\u2013850 19.24% - 27.49% variable $95 Earn 75,000 bonus points See rates and fees . Terms apply. . Read our Chase Sapphire Preferred\u00ae Card review . Our expert take The Chase Sapphire Preferred\u00ae Card packs a punch for a $95 annual fee card, offering annual travel credits, comprehensive travel protections and more. Pros & cons You can transfer rewards to all of Chase's travel partners including World of Hyatt, Southwest Rapid Rewards and many more Long list of travel and shopping protections $50 annual Chase Travel hotel credit Has an annual fee Requires a high credit score More details Highlights shown here are provided by the issuer and have not been reviewed by CNBC Select's editorial staff. Earn 75,000 bonus points after you spend $5,000 on purchases in the first 3 months from account opening. Enjoy bene\ufb01ts such as 5x on travel purchased through Chase Travel SM , 3x on dining, select streaming services and online groceries, 2x on all other travel purchases, 1x on all other purchases Earn up to $50 in statement credits each account anniversary year for hotel stays through Chase Travel SM 10% anniversary points boost - each account anniversary you'll earn bonus points equal to 10% of your total purchases made the previous year. Count on Trip Cancellation/Interruption Insurance, Auto Rental Collision Damage Waiver, Lost Luggage Insurance and more. Complimentary DashPass which unlocks $0 delivery fees & lower service fees for a min. of one year when you activate by 12/31/27. Plus, a $10 promo each month on non-restaurant orders. Balance transfer fee Either $5 or 5% of the amount of each transfer, whichever is greater 2. for the loyalty program Most grocery stores offer loyalty programs that are free to join. By signing up, you can benefit from member-only discounts that automatically deduct at checkout \u2014 without the need to clip coupons. 3. Stack your discounts with coupons After you've signed up for your favorite grocery store's loyalty program, maximize your savings by applying coupons for additional discounts. Look out for the weekly circular in the mail and sift through the pages for deals that matter to you. Cut out any coupons and save them for your next grocery run. There are also digital options that are just as easy to use, if not easier. Download your favorite grocery store's mobile app, browse available discounts and click to load coupons onto your digital loyalty card. Then when you checkout in-store, the discounts will automatically be applied. 4. Compare the unit price of items A unit price is the cost of an item per ounce, pound, quart or whatever other unit of measure the item goes by. This lets you compare the value of products to make sure you're getting the best value. You can calculate the unit price by taking the total price of the item and dividing it by the quantity (how much of the item there is). So, if a bag of 10 oranges costs $4.00, the unit price is $0.40 per orange. Generally, a lower unit price means you're getting a better deal. However, under some circumstances you may also want to consider factors like brand quality and quantity vs. how much your household could reasonably consume before it spoils. 5. Join a wholesale club Wholesale clubs like Costco can help you rack up savings for buying in bulk. If you have a large family, joining a wholesale club can be a good idea. But remember that buying in bulk isn\u2019t for everyone since you\u2019ll have to spend more money upfront, even though you\u2019re saving overall. This may not be an option depending on your cash flow. Also, note that clubs come with membership fees. Currently, the cost for Costco membership starts at $60 for Gold Star and doubles to $120 for Gold Star Executive. The cost can be worthwhile if you frequently stock up on items. Plus you can optimize savings by using the Costco Anywhere Visa\u00ae Card by Citi (which has no annual fee, but requires an active Costco membership). (Read our review of the Costco Anywhere Visa Card .) Costco Anywhere Visa\u00ae Card by Citi On Citi's site On Citi's site Excellent 740\u2013850 18.74% - 26.74% variable $0, Costco membership required No current offer See rates and fees . Terms apply. Our expert take The Costco Anywhere Visa\u00ae Card by Citi is a valuable card to pair with a Costco membership, but the rewards program is more restrictive than what you get with a typical cash-back card. Pros & cons High rewards rates for gas/EV charging and travel No foreign transaction fees Restrictive rewards that you can only cash out once per year Requires a paid Costco membership No welcome bonus More details Highlights shown here are provided by the issuer and have not been reviewed by CNBC Select's editorial staff. Discover one of Citi's best cash back rewards cards designed exclusively for Costco members Earn 5% cash back rewards on gas at Costco and earn 4% cash back on other eligible gas and electric vehicle (EV) charging purchases for the first $7,000 combined spend per year, and then 1% thereafter. 3% cash back on restaurants and eligible travel purchases and eligible travel, including Costco Travel. 2% cash back on all other purchases from Costco and Costco.com 1% cash back on all other purchases No annual fee with your paid Costco membership and enjoy no foreign transaction fees on purchases Receive an annual credit card reward certificate, which is redeemable for cash or merchandise at U.S. Costco warehouses, including Puerto Rico Balance transfer fee 5% of each balance transfer; $5 minimum Foreign transaction fee None 6. Go in with a list and stick to it (and don't shop hungry) If you go to the supermarket without a list, it can be easy to grab things that aren\u2019t needed. According to Dr. Annie Wilson, a lecturer of Marketing at The Wharton School, that's because your mind tends to switch between a deliberative state (where you're trying to make a decision) and an implementation state (where you're trying to take an action based on that decision). \"So if you don't have a list, you're in that deliberative mindset and reacting to everything in the aisle you're in,\" she says. \"That's why you end up purchasing things that are unplanned.\" The next time you go to the grocery store, make sure you have a list and stick to it so you don\u2019t wind up raising your bill . You may also want to consider eating first to avoid spur-of-the-moment items. Dr. Wilson says this is because when you're hungry, you're so focused on satiating that hunger that you think you want to consume more than you do. 7. Buy items on sale Supermarkets are always running various promotions that can help you save on everything from staples, like milk and eggs, to sweets, like ice cream and cookies. Consider buying items on sale whenever possible, especially if the cost is normally high. Sale items are often displayed in prominent locations throughout the store, such as at the entrance and ends of the aisles. 8. Avoid pre-packaged items While buying pre-cut veggies or pre-shredded cheese can save you time while cooking, stores often charge more for the convenience. Opt for whole items, like fresh or frozen veggies and block cheese, to save money. You can even take a look for yourself the ne",
+      "headings": []
+    },
+    {
+      "rank": 18,
+      "domain": "pocketguard.com",
+      "url": "https://pocketguard.com/blog/11-ways-to-save-money-on-groceries/",
+      "title": "How to Save Money on Groceries: 11 Ways to Save Money",
+      "word_count": 1935,
+      "scrape_status": "tavily_fallback",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": "* Features + PaceMonitor your money flow speed in real time to stay ahead of overspending + Plan Tab ReviewAccess a month-end snapshot of your Plan to understand financial habits clearly + Transaction RulesAuto-organize and customize your finances in seconds to reclaim your time + Cancel SubscriptionsFind unwanted subscriptions you would like to cancel and save your money + Net WorthUse several data connectors to track your net worth + BudgetingFlexible budgeting tools, custom categories and rollovers to stay on track + RecurringManage all your bills and subscriptions in one place + Debt Payoff PlanYour personal payoff schedule based on the strategy and budget + Spending InsightsAnalyze your tracked spending data to better adjust your budget + PFM CourseLearn more about personal finance, from budgeting mistakes to debt management + Financial GoalsSet a goal to make sure it is achievable and fits your budget using SMART + TransactionsSee all transactions from all of your financial institutions in one list + LeftoverAlways know how much spending money you have after budgeting for necessities + Lower Your BillsNegotiate better rates for your cell phone or cable bills with Billshark + Cash FlowTrack your profit or deficit by analyzing your recurring and variable expenses * Resources + Get Started RightSet up your account by following simple steps and recommendations + Budget CalculatorPlay around with your budget numbers to understand where your money is going + SecurityLearn more about security measures and your data protection + Debt Payoff CalculatorEnter your debt details to calculate an optimal payoff plan tailored to your needs + NotificationsGet weekly reports and alerts for fees, upcoming bills, and budget progress * Solutions + For CoachingCollaborate with your clients using PocketGuard Advisor platform + PocketGuard APIIntegrate PocketGuard to enhance user retention and engagement + White LabelGet your budgeting app powered by PocketGuard to improve your business + For TeachingUse PocketGuard to help your clients to reach their financial goals + Affiliate ProgramBecome our partner and earn more money by acquire more people to PocketGuard * Company + What\u2019s NewCheck back here for the latest updates to PocketGuard + BlogRead articles on personal finance, savings tips, and more + AboutLearn more about who we are, our mission, and what we value + Help CenterFind out more info about how to use PocketGuard and how it works * Pricing * * * Get started Home > Blog > Savings tips > How to Save Money on Groceries: 11 Ways to Save Money * Savings tips * Recommendations * Financial literacy * Personal finance * Debt repayment * Investing Savings tips # How to Save Money on Groceries: 11 Ways to Save Money November 14, 2025 Grocery shopping can consume a big slice of your budget, but it doesn\u2019t have to. With some savvy approaches, however, you can cut costs dramatically while still enjoying meals that are both good for you and delicious. Here are 11 grocery saving tips to help you shop smart and save more money. Table of Contents ## Ways to Save Money on Groceries Groceries can eat up a large portion of your budget, but they don\u2019t have to. By employing some savvy tactics, you can easily trim your food budget without sacrificing nutritious and tasty meals. Here are 11 ways to save money on groceries so you can come home from the store with more food and/or more bucks in your pocket. Take control of your money, optimize your spending and grow your savings automatically ### Stick to a Shopping List One of the best ways to save on groceries is making \u2014 and sticking to \u2014 a shopping list. A list will save you from making impulse purchases that can add up. Take stock of what you already have in the house before going to the store, and make your purchases based on what you need. Use a budgeting app such as PocketGuard to sort your list and monitor how much you\u2019ve spent (so the total doesn\u2019t exceed your set grocery budget). ### Create a Weekly Meal Plan Do you need help with grocery savings? Planning ahead means you can only buy what you need, and avoid wasting (money or food). Schedule a weekly session to plan breakfast, lunch, and dinner while keeping in mind ingredients that can be used in multiple dishes. It helps trim the fat not only on your grocery purchases, but in how you cook things, too. Here are some real-world steps to help meal planning align with your budget: Shop your shelves. Check what you already have: First, don\u2019t forget to check the nonperishables in your pantry and the perishables hiding out (or hiding from you) in your fridge or freezer, so you won\u2019t buy duplicates. Plan sales and discounts. Check the weekly store ads and plan meals with items that are on sale. Cook in bulk \u2013 Cooking bigger quantities means you can spread meals over several days, or freeze what you don\u2019t need now. Go for double-duty ingredients \u2013 Rice, beans, chicken, and vegetables are all examples of food that can be made one day and on reused in a different dish later. One \u201cflex meal\u201d (for spillover or delivery, in case plans change last-minute) Through a simple four-step process, meal planning becomes a cost-saving machine that keeps grocery spending in check and limits the risks of eating out at expensive restaurants. ### Use Discounts and Promotions Wisely There are two significant weapons in the battle to save money on groceries: coupons and promotions. Check store flyers, apps, and websites for weekly deals and discounts. To make couponing faster and more convenient, I look for discounts to clip to my store loyalty card. Be strategic \u2014 concentrate on a discount for something you already regularly use rather than purchasing an item just because it is on sale. That way, you always get the most bang for your grocery buck. ### Buy Seasonal Fruits and Vegetables In-season fruits and vegetables are frequently less expensive and fresher than out-of-season varieties. So head to your local farmers\u2019 market, or take a look at the year-round seasonal section of your grocery store for great deals on fruits and vegetables. For instance, purchase berries in the summer and root vegetables in the fall to get maximum savings. Knowing what\u2019s in season where you live can save you a substantial amount of money at the grocery store and ensure your meals are just as tasty and nutritious. ### Choose Store Brands Over Name Brands Sometimes store-name brands are just as good, but cheaper. Most grocery stores offer their own \u201cstore brands\u201d of staples such as cereal, canned goods, dairy, and many other products. After comparing ingredient lists and looking at a number of different products, you may well find that store brands are just as good an investment for less. Simply swapping out branded groceries for store brands can help trim grocery costs without sacrificing taste or quality. ### Compare Prices Across Stores Grocery stores don\u2019t all price the same, so it pays to compare prices. Download apps and check on staples, or look at prices online for stores before you go shopping. Some stores \u2014 or additional sites \u2014 may offer better deals on items like meat or produce, so you might want to consider shopping at more than one location. It\u2019s a little bit of work, but this tactic can get more out of your grocery money. ### Freeze Food and Leftovers Freezing food and leftovers is a smart way to cut down on waste and grocery costs. Or divide meals between freezer-safe containers, portioning out especially perishable items like meat, vegetables, or cooked dishes. This way, you can stock up when prices are low and then use the food later. When stored properly, several foods can keep for months in the freezer, enabling you to get the most bang for your grocery bucks. ### Buy Pantry Staples in Bulk Stocking up on pantry staples like rice, pasta, beans, and spices can save you a ton of money in the long run. The bulk section: Wholesale clubs, discount stores, or the bulk sections of grocery stores are often where you\u2019ll find a lower per-unit cost than with smaller packages. For instance, a 10-pound bag of rice is almost always less expensive per serving than several little boxes. That can really add up over a year. But there is a strategic element that is important to consider. Buy only what you can reasonably store and consume before it spoils, or those \u201csavings\u201d become wasted food \u2014 and a waste of money. If you live in a small space, prioritize nonperishable products or those with long shelf lives that don\u2019t require much storage space. To get the most out of bulk buying, consider meal planning to capitalise on any deals, and use a budget calculator to monitor your spending. \u201cYou\u2019ll know exactly what percentage of your monthly grocery budget is going toward stocking up, and you won\u2019t be tempted to overspend in the interest of savings,\u201d Lyness says. Not to mention, earmarking a small amount of your budget each month for \u201cbuy in bulk\u201d shopping trips means you\u2019re gradually building a better-stocked pantry without breaking the bank. ### Use Grocery Apps and Budgeting Tools There are grocery apps and budgeting tools designed to save us all money on groceries. Apps such as PocketGuard allow you to monitor spending, create budgets, and seek out deals at local stores. And certain apps also offer money or rewards for select purchases. Add these tools to your shopping routine to stay organized and make smart decisions, which can decrease the cost of groceries each time. ### Avoid Shopping on an Empty Stomach Being hungry while shopping can often lead to impulsive purchases that will derail your overall grocery savings. Have a meal or snack before going shopping so that you stay on track with your list. It\u2019s a small practice that can help you avoid tempting snacks or processed convenience foods, which can increase your grocery costs. Discipline is essential in order to help keep your grocery money in check. ### Join Loyalty Programs and Rewards Cards Most grocery stores have loyalty programs or rewards cards, providing access to special discounts, points, cash-back, or gifts with purchases. Here are some programs where you can sign up to earn even more cash back on your existing purchases. Some apps offer custom deals based on your shopping habits, making it easier to save money when grocery shopping. Contact your closest store to find out about their rewards program and begin saving! ## Final Thoughts on Grocery Savings Adopting these 11 tactics can help shave your grocery bills and keep you from busting the budget. Whether it\u2019s sticking to a shopping list or taking advantage of loyalty programs, every tip provides an actionable way to lower your food bill. Ease in by testing out one or two strategies first, and rely on resources such as the PocketGuard budgeting app to monitor your success. With a little forethought and self-discipline, you won\u2019t believe how much money you can shave off your grocery bill. Author PocketGuard Editor Read more about Author Take control of your money, optimize your spending and grow your savings automatically Previous article 6 Ways to Surprise a Spouse When You Share Finances August 04, 2015 Next article Ways to Keep a Little Green in Your Planet August 04, 2015 Back to the list of blog posts Go to PocketGuard Go to PocketGuard Share * Facebook * Twitter * Linkedin Your request has been sent successfully. Our team will get back to you as soon as possible.",
+      "headings": []
+    },
+    {
+      "rank": 19,
+      "domain": "orisonorchards.com",
+      "url": "https://orisonorchards.com/how-save-money-groceries/",
+      "title": "35 EASY Ways to Save Money on Groceries (without skimping on ...",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://orisonorchards.com/wp-content/uploads/2019/08/How-to-save-money-on-GROCERIES.png",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://orisonorchards.com/wp-content/uploads/2018/12/AfterChristmas.png",
+          "alt": "Habits of Frugal people",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://orisonorchards.com/wp-content/uploads/2018/04/DEBTs-1.png",
+          "alt": "Get out of debt right now and find financial peace",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://orisonorchards.com/wp-content/uploads/2018/09/P.S.-Start-saving-immediately.png",
+          "alt": "Make extra Christmas money",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://orisonorchards.com/wp-content/uploads/2018/09/DebtFreeChristmas.png",
+          "alt": "Debt Free Christmas",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://orisonorchards.com/wp-content/uploads/2020/07/PlantPropagation.png",
+          "alt": "Plant Propagation",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://orisonorchards.com/wp-content/uploads/2020/07/IncomeIrregular.png",
+          "alt": "4 Budget Tips for Families with Irregular Income",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/72134a54fa03ab467bbbc858ee0cb4f2a4e54682661aeae1ac8c8ce15533ed8f?s=60&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/ef5cc0c43a541712bf0148e0d302394f121739c146f79456cc7c8f8e9dfba57b?s=60&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 20,
+      "domain": "albert.com",
+      "url": "https://albert.com/blog/how-to-save-money-on-groceries",
+      "title": "How to save money on groceries effectively - Albert",
+      "word_count": 2131,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://albert.com/_next_public/assets/meta-card.png",
+        "alt": "Albert",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://images.ctfassets.net/te1j4swslsc1/3Su4IxxZZy95ZPdbdOQeG2/68ac4ed2a5d01b80654b60ce2d421cba/How_to_save_money_on_groceries_budgeting.png?fm=jpg&q=80&w=850",
+          "alt": "How to save money on groceries budgeting",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://images.ctfassets.net/te1j4swslsc1/43k1e0kC5T9DE6gadZIDhY/09d76697581e6f6abc3425369dc70330/How_to_save_money_on_groceries_tips.png?fm=jpg&q=80&w=850",
+          "alt": "How to save money on groceries tips",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    }
+  ],
+  "battle_plan_generated_at": "2026-04-26T10:45:35.134971+00:00",
+  "competitors_analyzed_count": 6,
+  "battle_plan_method": "local_deterministic_agent_no_api"
+}

@@ -1,0 +1,605 @@
+{
+  "article_context": {
+    "angle": "Student Loan Debt Creating a Retirement Savings Gap",
+    "pain_points": [
+      "Money disappears despite tracking; unable to find leftover funds",
+      "Significant recurring expenses hidden by poor tracking",
+      "Student loan payments consuming income, blocking retirement savings",
+      "Budgeting is overwhelming; tracking itself induces anxiety"
+    ],
+    "top_social_questions": [
+      "How can I actually save money when I track everything but still end up with nothing?",
+      "How do I balance saving for retirement (401k) with mandatory student loan payments?"
+    ],
+    "dominant_emotion": "Anxious",
+    "serp_intent": "Searchers for \"how to stash money\" are looking for practical, often casual or creative ways to set aside cash or funds without immediately spending it, such as through budgeting hacks, hiding spots, or automated saving methods to build financial security. The SERP intent is informational, featuring articles on saving tips, envelope systems, apps for saving, and basic money management strategies to encourage habitual saving.",
+    "serp_title_pool": {
+      "primary": [
+        "Keeping a Stash of Money at Home? : r/personalfinance - Reddit",
+        "How to store money without a bank account - Western Union",
+        "3 Places to Stash Your Cash - YouTube",
+        "13 Tips and Tricks for Storing and Hiding Money | Family Handyman",
+        "A Surprising Amount of People Hide Cash at Home. Here's ... - CNET",
+        "Stashing Cash Part of a Wise Emergency Plan | USU",
+        "7 ideas where to stash money at home to feel safe | Hartmann Tresore",
+        "8 Ways to Build a Cash Stash - Family Christian",
+        "Don't Hide Cash at Home. Here Are 3 Places to Put It Instead",
+        "Wondering Where to Stash Your Cash? Start Here. | Charles Schwab",
+        "top 10 hiding places - Wayforth",
+        "The Trick to Money Management is Hiding It From Yourself - Medium",
+        "11 Crazy ways to hide Money  (So that NOBODY finds it)   - YouTube",
+        "Clever Ways To Build A Cash Stash - WALB",
+        "Where is the best way to hide your money besides the bank? - Quora",
+        "How to Properly Store Paper Currency/Money and Other Important ...",
+        "Smart & Secret Ways to Hide Money",
+        "7 Clever Ways to Build a Cash Stash, by Mary Hunt",
+        "How to Hide Money: Get Creative Thinking Of Ways To Keep Cash..."
+      ],
+      "long_tail": [
+        "Simple ways to save money for the future",
+        "10 ways to start saving money - Vanguard",
+        "Fidelity's easy budgeting guideline",
+        "How do you guys actually set aside money for this and that? - Reddit",
+        "Savings Fitness: A Guide to Your Money and Your Financial Future",
+        "Setting aside money for savings can be hard [tips to make it easier]",
+        "Ways to Save Money on a Tight Budget - 1st United Credit Union",
+        "10 Tips to Start Saving Money Today \u2013 Intuit Blog",
+        "Yes, Everyone Can Save Money: 5 Ways to Build Your Savings",
+        "Making a Savings Plan | One Percent for America"
+      ],
+      "question": [
+        "Transferring Money From Checking To Savings, How Do I Assign A ...",
+        "Managing Money Between a Checking & Savings Account | KeyBank",
+        "Student Series How to Transfer Money from Checking to Savings ...",
+        "How can I transfer money between savings and checking accounts?",
+        "Transfer Money Online - Wells Fargo",
+        "Transfer and Move Money with Online Banking | Chase",
+        "How to transfer money from one bank to another: 4 ways - Bankrate",
+        "How to Transfer Money Between Your Bank of America Accounts",
+        "How to Transfer Money Between Accounts | Chase Mobile\u00ae App",
+        "How to Transfer Money From One Bank to Another"
+      ]
+    },
+    "paa_questions": [
+      {
+        "q": "Where can I put $10,000 to make the most money?",
+        "a": "KEY TAKEAWAYS"
+      },
+      {
+        "q": "Where is the best place to stash money?",
+        "a": "Most cash-type investments, certificates of deposit, money market accounts through a bank, high-yield savings accounts, those will be FDIC-insured up to the FDIC's limits. But money market mutual funds are a notable carve-out."
+      },
+      {
+        "q": "What is the $10,000 cash rule?",
+        "a": "The Internal Revenue Code (IRC) provides that any person who, in the course of its trade or business, receives in excess of $10,000 in cash in a single transaction (or in two or more related transactions) must report the transaction to the IRS and furnish a statement to the payer."
+      }
+    ],
+    "related_searches": [
+      "How to stash money without a bank account",
+      "How to stash money online",
+      "How to stash money reddit",
+      "How to store money without a bank",
+      "How to store money online without a bank account",
+      "Money hiding ideas for travel",
+      "Where not to hide money in your house",
+      "How to store money at home"
+    ]
+  },
+  "primary_keyword": "how to stash money",
+  "competitors": [
+    {
+      "rank": 1,
+      "domain": "reddit.com",
+      "url": "https://www.reddit.com/r/personalfinance/comments/b7v3ht/keeping_a_stash_of_money_at_home/",
+      "title": "Keeping a Stash of Money at Home? : r/personalfinance - Reddit",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 2,
+      "domain": "westernunion.com",
+      "url": "https://www.westernunion.com/blog/en/us/storing-money-without-bank-account/",
+      "title": "How to store money without a bank account - Western Union",
+      "word_count": 1706,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.westernunion.com/blogs-staticassets/R25-07.05.0-163/media/storing-money-without-bank-account.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [],
+      "body_text": "Wondering how to find a secure place to store money without a bank account? Luckily, there are many alternatives to a traditional bank account. From stashing your cash in a safe to using a prepaid visa card , there\u00e2\u0080\u0099s an option for everyone. With so many alternatives available, choosing the right one can be overwhelming. Not to worry. This guide on how to store money without a bank account has you covered. Let\u00e2\u0080\u0099s walk through some options, pros and cons, and other factors to consider when choosing where to store your money. Is it possible to store money without a bank account? First things first: Is storing money without a bank account possible? Absolutely. You have plenty of options. That said, storing money outside a bank account brings some risks and limitations. Consider the following: Security : Is your money protected from risks like fraud? Is the storage method legal? Accessibility : Can you access your money to spend, send, and save as needed? Growth : Does the storage solution encourage financial growth and stability? Ask these questions while researching how to store money without a bank. That way, you\u00e2\u0080\u0099ll find a reliable solution and peace of mind. 5 options for storing your money without a bank account Choosing the right way to store money can be daunting. We\u00e2\u0080\u0099re here to help. Here are five bank alternatives and factors to consider when deciding which works for you. Physical safes A physical safe is a popular option for storing money without a bank. Safes offer a secure way to store cash and other valuables at home or in another familiar location. Generally, a physical safe is secure but can be more susceptible to risks like theft, fire, or loss. To help avoid these risks, choose a fireproof safe and change your combination often. For an added layer of security, have another way to store your money (check out the rest of the list for options). That way, if a security breach does happen, you still have access to funds. Prepaid debit cards A prepaid debit card is a great way to store money without a bank, and it has many of the convenient features of bank-issued debit cards. The difference is that you load funds onto the prepaid debit card directly rather than having the card connected to a bank account. There are even international prepaid cards , like the Western Union Prepaid Visa\u00e2\u0080\u0094perfect for taking along on your travels or sending money to loved ones abroad. After loading funds, you can use the prepaid debit in the same way as a bank-issued card. Note: Prepaid debit cards may charge service fees when loading funds or limit use to certain businesses. Before purchasing, ensure you understand the terms and limitations. Digital wallets A newly popular way to store money online without a bank account is in a digital wallet , like a cryptocurrency wallet. Digital wallets store your payment information so you can pay using your phone, without cash or cards. You can also link prepaid cards or gift cards to digital wallets like Apple Pay or Google Pay as opposed to linking bank-issued cards. Certain digital wallets may not be available in all countries. And if they are, they may not be accepted everywhere. We recommend having a backup payment method to work around that limitation. As for cryptocurrency, remember it can be volatile. If you\u00e2\u0080\u0099re looking for a lower-risk way to store money, consider other options like credit unions or peer-to-peer (P2P) payment apps. Peer-to-peer payment apps Peer-to-peer payment (P2P) apps, like Venmo or Cash App, are among the top choices to store money online without a bank account. And they\u00e2\u0080\u0099re among the easiest ways to send money without a bank account . Peer-to-peer payments use an app to transfer money directly from one person\u00e2\u0080\u0099s account to another. This eliminates the need for bank accounts when transferring to friends and family. While peer-to-peer payment apps make storing and sending funds easier than ever, many need a connection to a traditional bank account to get started. Credit unions Opening an account at a credit union offers many of the benefits of a bank account without the traditional bank experience. Credit unions are nonprofit and member-owned, meaning account holders have input into the credit union\u00e2\u0080\u0099s operations. Some great perks come along with this. Many credit unions have more relaxed requirements than a traditional bank, so it may be easier to qualify for accounts. This includes savings and investment accounts that allow for financial growth. You can connect a credit union account to P2P payment apps and digital wallets, giving you even more ways to store money without a bank. Factors to consider when storing your money without a bank Storing money without a bank account carries certain risks and limitations. Below, we\u00e2\u0080\u0099ll guide you through the top five things to consider when choosing a method for storing your money without a bank. Security Safety is the most important thing to consider when choosing where to store your money. This includes how to send cash safely and securely store your funds. While traditional banks offer insurance, other methods of storing money may not. During your research, ensure the terms and conditions outline how they protect your funds. While a physical safe offers considerable security, it can still be vulnerable to theft, fire, or loss. When choosing a physical safe, look for options with extra security, like fingerprint recognition and fireproof materials. Accessibility Aside from the security of your funds, accessibility is the next most important thing to consider when deciding where to store your money. It\u00e2\u0080\u0099s crucial to have quick and easy access to your money. Some options for storing money without a bank may limit how and when you can access your funds. Sometimes, there\u00e2\u0080\u0099s a days-long delay before you can receive your money. This is not ideal in an emergency or even in managing day-to-day finances. Fees One of the top reasons you might want to store money without a bank account is to avoid excessive fees. Bank account alternatives can sometimes include hidden fees or added costs for premium features. For example, some P2P payment apps can take up to five business days before granting access to your funds. But you can typically instantly transfer funds into the app for a fee, usually a percentage of the balance you\u00e2\u0080\u0099re transferring. Each form of storing your money without a bank may have added fees. Ensure you look out for these when researching your options. Bill pay and purchases An important question to ask yourself when picking a storage method: Does this make my life easier? Consider the practicalities of your day-to-day life when choosing how to store money without a bank account. You can pay bills online using other options, like prepaid debit cards, like using a credit card or online banking. However, some businesses do not accept prepaid debit cards, so you\u00e2\u0080\u0099d need another option. Cash is a great choice if you don\u00e2\u0080\u0099t mind paying bills in person . But if you prefer to pay from the comfort of your home, P2P payment apps or digital wallets may be a better choice. Legality and taxes Protecting your money is important, and so is protecting yourself. For this reason, you\u00e2\u0080\u0099ll want to ensure that the way you store your money is legal. Be sure that the option you pick to store money without a bank outlines how they follow compliance and legal standards in your country. This information should be readily available on their website or any form you complete to sign up for services. If you have savings or investments, report your income or earnings, like interest or capital gains, to your tax authorities. Follow these important steps to look out for yourself and your funds. Why you should consider storing your money with a bank While there are many convenient ways to store money without a bank account, there are some solid reasons why you should consider storing your money at a traditional bank: Security : Banks offer multiple forms of security, including insurance, fraud protection, and more. Their security measures are more robust than other options and align with government-mandated legal requirements. Convenience : A traditional bank account offers convenience across all financial needs. Expect easier access to alternative payment options, including P2P payment platforms, digital wallets, and more. Plus, you\u00e2\u0080\u0099ll have access to a wider variety of products and better rates on loans and mortgages. Financial growth : Banks offer many products and services to help with financial growth, such as interest-yielding accounts, investment accounts, and financial planning tools. Send money with Western Union, bank or no bank Now you know where you can store your money without a bank account. But what if you need to send money without a bank account ? With money transfer providers like Western Union, you have options. Send money online or in person with just a few clicks. Depending on your region, you can pay for your transfer with a credit card or visit an agent location and use cash. And if you do have a bank account, you can easily send money between bank accounts with our app or online platform. We also offer the Western Union Prepaid Visa Card , which features all the benefits of a typical debit card but with the power to send and receive money transfers on the go. Just load it with funds, activate it, and you\u00e2\u0080\u0099re good to go. FAQs There are several popular ways to store money without a bank account. Some people opt for physical storage, like in-home safes, while others opt for online solutions, like peer-to-peer payment apps and digital wallets. For those looking for benefits like those of a bank account, opening an account at a credit union can be a good option for storing money with a bank. Credit union accounts offer increased access to other storage methods, including digital wallets and peer-to-peer payment apps. There are a few simple ways to ensure your funds are secure, wherever you store them. The top things to consider are security, accessibility, and legality. When choosing where to store your money without a bank account, pick an option with clear terms and legal compliance messaging.",
+      "headings": []
+    },
+    {
+      "rank": 3,
+      "domain": "youtube.com",
+      "url": "https://www.youtube.com/watch?v=nE-moYtNxBc",
+      "title": "3 Places to Stash Your Cash - YouTube",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 4,
+      "domain": "familyhandyman.com",
+      "url": "https://www.familyhandyman.com/list/hide-store-money/",
+      "title": "13 Tips and Tricks for Storing and Hiding Money | Family Handyman",
+      "word_count": 571,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.familyhandyman.com/wp-content/uploads/2022/05/FH22D_TIPS_TRICKS_HIDING_MONEY_05_11_003-JVedit.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.familyhandyman.com/wp-content/uploads/2024/01/Alex_Shoemaker-1-150x150.jpg",
+          "alt": "Alex Shoemaker",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.familyhandyman.com/wp-content/uploads/2022/05/Phone-Money-Hiding-FH20APR_601_08_013-JVedit.jpg?fit=700%2C700",
+          "alt": "hiding money in a phone case",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.familyhandyman.com/wp-content/uploads/2022/05/chapstick-money-hiding-HH17OCT_WL_067-JVedit.jpg?fit=700%2C700",
+          "alt": "hiding money in an empty chapstick tube",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.familyhandyman.com/wp-content/uploads/2022/05/FH18JUN_587_52_027-1-JVedit.jpg?fit=700%2C700",
+          "alt": "hiding rolled up money in a toilet paper roll holder",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.familyhandyman.com/wp-content/uploads/2022/05/FH18JUN_587_52_028-1-JVedit-13-Tips-and-Tricks-for-Hiding-and-Storing-Money.jpg?fit=700%2C700",
+          "alt": "Fh18jun 587 52 028 1 Jvedit 13 Tips And Tricks For Hiding And Storing Money",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.familyhandyman.com/wp-content/uploads/2022/05/FH14FEB_545_54_006-JVedit.jpg?fit=700%2C700",
+          "alt": "hiding money and important documents in a hoover vacuum",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.familyhandyman.com/wp-content/uploads/2022/05/FH14FEB_545_54_017-JVedit.jpg?fit=700%2C700",
+          "alt": "secret hiding place in a kitchen drawer",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.familyhandyman.com/wp-content/uploads/2022/05/FH18JUN_587_52_015-JVedit.jpg?fit=700%2C700",
+          "alt": "hiding rolled up money in a marker",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.familyhandyman.com/wp-content/uploads/2022/05/FH14FEB_545_54_021-JVedit.jpg?fit=700%2C700",
+          "alt": "hiding money in a mayonnaise jar",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.familyhandyman.com/wp-content/uploads/2022/05/FH22D_TIPS_TRICKS_HIDING_MONEY_05_11_005-JVedit.jpg?fit=700%2C700",
+          "alt": "hiding money in a sneaker",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.familyhandyman.com/wp-content/uploads/2022/05/FH17JUN_579_53_023-JVedit.jpg?fit=700%2C700",
+          "alt": "hiding a flash drive in an ironing board",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.familyhandyman.com/wp-content/uploads/2022/05/FH22D_TIPS_TRICKS_HIDING_MONEY_05_11_003-JVedit.jpg?fit=700%2C700",
+          "alt": "hiding money in a paint can",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.familyhandyman.com/wp-content/uploads/2022/05/FH22D_TIPS_TRICKS_HIDING_MONEY_05_11_002-JVedit.jpg?fit=700%2C700",
+          "alt": "hiding money and important documents under a wooden chair",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.familyhandyman.com/wp-content/uploads/2022/05/FH14FEB_545_54_012-JVedit.jpg?fit=700%2C700",
+          "alt": "hiding money in a pill bottle buried in a potted plant",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "By Alex Shoemaker Family Handyman's Editorial Process Updated on May 15, 2024 These hiding ideas are brilliant. Just make sure no one tosses them out! family handyman Your Phone Case These days, you\u2019re much more likely to forget your wallet at home than you are your phone. Keep a little extra cash tucked behind your phone case for emergencies. \u2014 J.M. Rotzenberg. family handyman An Empty Chapstick Tube Sometimes I don\u2019t want to carry my wallet around. At the beach, I\u2019ll leave my belongings unattended while I go for a swim, but I still need cash on hand for food, drinks, etc. So I turned an empty tube of lip balm into a secret cash stash. You could do the same with an empty stick of sunscreen, too. A long nail works great for digging out any remaining bits of lip balm, and a cotton swab wipes away any waxy residue. Not only is the tube small enough to fit in my pocket, but it\u2019ll also fool any potential thieves. I mean, who would steal someone\u2019s used lip balm? \u2014 Jenny Stanley. family handyman A Toilet Paper Roll Holder Take apart the spring bar that holds your toilet paper . Roll up a stack of bills, stash them inside and reassemble the bar for a hidden away safe. Family Handyman Not IN the Drawer Drawers don\u2019t go all the way to the back of a cabinet, and there\u2019s typically a little space on the underside too. Put cash or important papers in an envelope and tape them to the back or underside of a drawer. family handyman An Old Small Appliance It doesn\u2019t have to be an old vacuum cleaner . Any common household item with a cavity will work as a secret compartment. Think old printers, computer towers, children\u2019s toys, etc. For easy hidden storage access, choose an item that opens instantly, like a vacuum cleaner bag compartment. For more security, choose an item with a cover that screws shut. family handyman False-Bottom Drawer family handyman A Marker Pop the end cap off a marker and remove the ink cartridge. Just right for a spare roll of cash. family handyman Counterfeit Containers Comet, Coca-Cola, Bush Beans \u2014 whatever. But you can craft a homemade version, too. This mayonnaise jar had its interior spray-painted with cream-colored paint for plastic. family handyman An Old Shoe Some shoes have a removable sock liner (the foam pad your foot rests on). Pull out the sock liner and slide in some cash. What thief is going to want to dismantle your stinky shoes ? This is also a good place to hide emergency cash on your person while you\u2019re on vacation \u2014 unless your sneakers are nice enough that someone would want to steal them, too. family handyman An Ironing Board family handyman Which Paint Can Contains the Gold? family handyman The Bottom of a Chair Dining chairs often have a false bottom box space under the seat for a drop-down hinged panel. These can be one of the best places to hide large amounts of cash. family handyman A Potted Plant Roll up some cash, stick it in a medicine bottle or any other watertight container and bury it in a potted plant. For quicker access and to keep dirt from getting under your fingernails, place a stone or pine cone over it. Not many burglars are going to be excavating around your houseplants.",
+      "headings": []
+    },
+    {
+      "rank": 5,
+      "domain": "cnet.com",
+      "url": "https://www.cnet.com/personal-finance/banking/a-surprising-amount-of-people-hide-cash-at-home-heres-where-they-should-be-putting-it/",
+      "title": "A Surprising Amount of People Hide Cash at Home. Here's ... - CNET",
+      "word_count": 1071,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.cnet.com/a/img/resize/e81549d79f72c0179fe5fcd33385e22a954b8c48/hub/2025/03/20/6e1f5ff2-1d61-4d96-bb1e-ef5ad0a8057e/moneygreen.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [],
+      "body_text": "If your money keeps you up at night, there's a chance it's because your mattress is lumpy from all the dollar bills stuffed under it. That's right: Some people still stash cash under their mattresses. A new study (PDF) by financial management app company Piere found that 6% of Americans store cash beneath mattresses, beds and pillows -- and a lot of other places around their homes. Why do they think that's a good idea? Yuval Shuminer , co-founder and CEO of Piere, points to the worrying financial headlines we've been seeing lately. \"With so much uncertainty in the economy, it's no surprise that people are looking for ways to keep their money close at hand,\" Shuminer said. \"The resurgence in mattress stuffing isn't some whimsical trend. It's a sign that many Americans feel uneasy about the financial system and are searching for something they can trust.\" With tariffs , stock market swings and high costs across the board, it's not surprising that people are worried about their finances. But hoarding money at home isn't the right way to ensure your financial security. Read on to learn about the dangers of keeping cash in your house -- and what you should do with it instead. Read more: 6 Best Places to Save Money and Earn Interest The surprising places people keep their cash If you don't find any dollar bills under your neighbor's mattress, keep looking. There's a decent chance they might keep it somewhere else in the house. (Disclaimer: Don't actually dig through your neighbor's house for cash. That would be illegal and awkward.) Here's a rundown of the various places around the house where Americans are stashing some of their dollar bills, according to Piere's study of 1,500 respondents: In a safe: 10% keep some money in a locked safe In a secret compartment: 6% keep cash in a place (they hope) no one will ever find Under the bed/mattress/pillow: 6% stick with the old-school approach favored by movie mobsters In a freezer/fridge: 5% keep their cold, hard cash next to their cold food In an ornament/vase/urn: 4% use these items for more than just decoration Under the floorboards/carpet: 3% keep cash under their feet -- literally It's not just standard cash, either. Piere's research revealed that Americans also keep their wealth at home in the form of valuables such as precious gems, silver or gold bars, heirlooms and traveler's checks. The average respondent said they keep $544 in valuables, cash or both at home. And it's more common than you may think: Only 5% of respondents said they don't keep any money around the house. Why it's a bad idea to stash cash at home While that envelope of hundreds in your sock drawer might feel like a fallback to protect you if the world ends, there are some major downsides to keeping a chunk of cash at home. It's unsafe: Your insurance policy might protect your property and some of its items but it doesn't cover lost cash. In addition to theft and natural disasters, you risk misplacing your money. And when it's gone, it's gone. It won't earn anything: If you have $544 in your freezer, it will still be $544 a year from now. If you put it somewhere that pays interest -- like in a savings account or certificate of deposit -- your total will grow without any action needed on your part. It could lose value: If you're worried about inflation, keeping cash at home won't do anything to help. By earning a 0% return, your money loses purchasing power and fails to keep pace with the rising cost of goods and services. Interest earnings can help offset depreciation. Smarter places to put your cash No matter how much peace of mind you may get from keeping cash at home, you should find a new place for it. So, take that money out from under your pillow, put your pillowcase in the washing machine (money is dirty) and consider putting your cash in these places instead. In addition to growth potential, they provide federal deposit insurance to keep your money safe in case of a bank failure. High-yield savings account The best high-yield savings accounts pay up to a 5% annual percentage yield right now. A $544 deposit would earn $27.20 over a year at that rate. And the longer you keep your money in the account, the faster it grows thanks to compound interest . Your money will still be accessible when you need it. Big banks offer a lot of ATM locations and plenty of online banks partner with large ATM networks. This makes a high-yield savings account ideal for money you may need at any time, such as an emergency fund . Certificate of deposit CDs also offer competitive rates. Today's best CDs earn up to 4.65% APY. At that rate, $544 would earn $12.50 on a six-month CD, $25.30 on a one-year CD and $79.47 on a three-year CD (there are a range of other terms to choose from, too). Unlike savings accounts, whose rates can change without notice, CDs offer a fixed rate if you keep your cash in the account for the entire term. That means you'll need to be comfortable leaving your money alone for a set period. If you access it before the CD matures, you may face an early withdrawal penalty . Money market account A money market account is a hybrid between a savings and a checking account. It gives you flexible access to your funds thanks to debit cards, check-writing privileges or both, and you'll also enjoy the benefit of earning a decent chunk of interest. The best money market accounts currently pay upward of 4.4% APY. At that rate, a $544 deposit could earn $23.94 over a year. Put your cash somewhere it can work for you Keeping your cash near might make you feel more comfortable, especially when the economy is shaky. But hoarding piles of bills won't do you much good -- and it could put your money at risk. Put it in one of the places above and you can rest easy knowing it's safe and growing. More smart money advice This Shockingly Simple Trick Doubled My Savings in One Year Money Advice Shouldn't Stress You Out. Keep It Simple With These 6 Expert Tips Tired of Living Paycheck to Paycheck? Break the Cycle Now With This Trick",
+      "headings": []
+    },
+    {
+      "rank": 6,
+      "domain": "extension.usu.edu",
+      "url": "https://extension.usu.edu/archive/stashing-cash-part-of-a-wise-emergency-plan",
+      "title": "Stashing Cash Part of a Wise Emergency Plan | USU",
+      "word_count": 606,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "                ",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [],
+      "body_text": "Increasing numbers of Americans are growing wary of the global financial system. Declines in the stock, housing and job markets have caused many to reconsider where they keep their money. \u201cBecause of these concerns, stashing cash in the home is becoming a growing trend in the United States,\u201d said Adrie Roberts, Utah State University Extension family and consumer sciences agent for Cache County. Cash stashing is crossing generational lines as the economy crumbles, she said. There are many who wish they had stuffed their savings under the mattress so they would not have lost thousands of dollars in the stock market and other investments. Roberts said it is important to remember that money held in U.S. banks and credit unions in most basic savings accounts is insured by the Federal Deposit Insurance Corporation for up to $250,000 per account. Money stashed at home is not insured by the government ? and not even by homeowners insurance. Money stashed at home also runs the risk of being stolen. In spite of these concerns, Roberts noted that money experts recommend having an emergency cash stash at home in case there is a need to evacuate, when banks are closed or there is a power failure and ATMs won\u2019t work. \u201cExperts recommend that you start with at least a few hundred dollars and add to it each month,\u201d she said. \u201cIncome tax refund time is the perfect time to start an emergency cash stash. Smaller bills and rolled coins are recommended in case it becomes difficult to make change in an emergency. Budget a small amount each month to add to your cash stash.\u201d As far as hiding places, Roberts said if safes or fireproof boxes are used, they should be bolted down so they can\u2019t be easily removed. However, these are obvious first places a burglar would look. Consider these less obvious, lower cost hiding places. Hide the money in an empty VHS tape box. (Make sure to remember which one.) Put the box on the shelf with the other videos. Most burglars will steal DVDs rather than videos. Put cash in envelopes. Tape an envelope to the back of a wall decoration, the bottom of a toy box, the inside of a Christmas decoration box or to the bottom of a kitchen shelf. Almost any container or package can be used for hiding. There are a number of decoy or diversion safes on the market that look like common household items such as fire extinguishers, dictionaries, deodorant containers, paint buckets, cans of potato chips, smoke detectors, peanut butter jars, flower pots and lamps. Many of these can be purchased online by searching for \u201cdecoy safes.\u201d Many of these safes can also be made at home. Hiding a cash container at a higher or lower-than-normal line of sight will increase the chances of it being overlooked by a thief. A location requiring a ladder or stepladder will be a helpful deterrent. \u201cMake sure at least one other person knows where your hiding places are located,\u201d said Roberts. \u201cIf something happens to you and nobody knows where your stash is, it\u2019s unlikely that it will be found. Worse, it could be accidentally thrown away. By far, the worst hiding places are closets, dresser drawers, night tables, under a mattress, inside old clothes, under carpets, couches or in jewelry boxes. These are the first points of interest for a burglar.\u201d Having an emergency cash stash is an important part of an overall financial plan, Roberts concluded. Having cash stashed in a safe, well-hidden location will be invaluable in the event of an emergency. By: Julene Reese - Jul. 7, 2009",
+      "headings": []
+    },
+    {
+      "rank": 7,
+      "domain": "hartmann-tresore.pl",
+      "url": "https://www.hartmann-tresore.pl/en/blog/security-at-home/7-ideas-where-to-stash-money-at-home-to-feel-safe",
+      "title": "7 ideas where to stash money at home to feel safe | Hartmann Tresore",
+      "word_count": 1019,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://api.hartmann-tresore.pl/media/cache/content_image/2/7-pomyslow-169973901-jpeg.jpeg",
+        "alt": "7 ideas where to stash money at home to feel safe",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://api.hartmann-tresore.pl/media/cache/list_image/1/hti-116-11-1-jpg.jpg",
+          "alt": "HTI 116-11",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://api.hartmann-tresore.pl/media/cache/list_image/1/hpktf-400-02-1-jpg.jpg",
+          "alt": "HPKTF 400-01",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://api.hartmann-tresore.pl/media/cache/list_image/1/htiii-315-22-1-jpg.jpg",
+          "alt": "HTIII 315-22",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://api.hartmann-tresore.pl/media/cache/list_image/1/pde-676-1-jpg.jpg",
+          "alt": "PDE 676/3",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.hartmann-tresore.pl/images/attention-photo.jpg",
+          "alt": "attention-photo",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.hartmann-tresore.pl/images/salon_rzeszowski_4.jpg",
+          "alt": "Hartmann Tresore Showroom",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.hartmann-tresore.pl/images/footer_photo_rz.jpg",
+          "alt": "Hartmann Tresore Showroom",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.hartmann-tresore.pl/images/footer_logo_01.png",
+          "alt": "VdS",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.hartmann-tresore.pl/images/footer_logo_02.png",
+          "alt": "ESSA",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.hartmann-tresore.pl/images/footer_logo_03.png",
+          "alt": "zuhause",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.hartmann-tresore.pl/images/footer_logo_04.png",
+          "alt": "mswia",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "source: AlesiaKan / stock.adobe.com Many people are increasingly keen to keep cash at home. Unfortunately, this is not the safest place to store money. However, there are some effective ways you can keep your most valuable items safe and not worry about them being stolen. Read on for seven ideas on where to stash your money at home. Before you start thinking about where to hide your money, take care of a few details. Before you start hiding money at home, there are a few important things to know. If you don't know where to hide your money, and there is a lot of it, first of all divide it into smaller pieces. Put the money in an envelope and hide it in different places. When a thief finds one envelope, they will think there is no more cash in the house and will give up any further search. If you want to keep cash in places where moisture can get in, think about effective protection for the money. Put it in a thick plastic bag, for example. Keeping cash unsecured can lead to it being damaged. Remember that dampness can form in places such as the cellar, window sills and the attic throughout the year. 1. The safe as the safest way to store cash at home You can spend a long time thinking about where to hide your money, but a safe will always be the safest place to keep your cash. Solid bolts and a secure lock will effectively deter a thief. You will find many different types of safes on the market. You can buy, among other things: \u25cf furniture safes , which can be hidden in a cupboard, or desk, \u25cf floor safes which can be installed in the floor, \u25cf wall safes which require you to carve out a space in the wall, \u25cf free-standing safes which can also be anchored to the floor and wall for added security. When choosing a safe, you should pay particular attention to its security class. Some models sold in supermarkets and on auction sites are not certified. If you want to insure the property stored in the safe, the insurance company will require that the safe has a specific burglary resistance class. Invest in your security and buy a quality certified equipment. 2. Make a place for the money in an old, thick book If you don't know where to hide your money, it's a good idea to hollow out a space in one of your books. This method is very simple. I'm sure you've seen in the movies how the main characters hide items in books where the pages have been specially cut out. All you need is a wallpaper cutter to make the stash. Cut out as many pages as you need, hide the money and put the book on a shelf. This stash will be most effective if you have a sizable library at home. If you only have a few books, think about another place to hide your cash. 3. The toilet cistern \u2013 a place where no one looks A good idea of where to hide money is the water tank in the toilet. Remember, however, that the money must be very well protected from water. You can stick the packaging containing the cash to one of the walls of the cistern. An additional advantage of this stash is that few people know how to open the flush tank. Read also: Unusual hiding places for valuables at home 4. Plush toy in the children's room Thieves steer clear of children's rooms. They know very well that there they will at most find a porcelain pig with small savings. Children's rooms also have a lot of noisy toys that can turn on for no reason. Hide money preferably in a plush toy. Gently tear it at the seam, insert the cash rolled up and then sew it shut. Put the stuffed toy out of your child's reach \u2013 on the top shelf in the room 5. Hide money in the freezer drawer Another good idea for where to hide money at home is to put it in the freezer. Put the cash in a bag and then wrap it in aluminium foil. This way the money will look like a frozen food. You can put a sticker on the wrapping to disguise it: \"Pork neck for Christmas\". Place the money in the last drawer, against the end wall. 6. Desktop computer case You can hide your money in the casing of your desktop computer. There's plenty of room and you can easily squeeze in an envelope of cash. No thief will want to unscrew the computer case. However, remember not to place money near parts that get hot when the machine is running. 7. A stash under a flight of stairs If you live in a house with many floors, a good and ingenious place to hide money is under the wooden stairs. You can easily make one yourself. All you have to do is gently lever the top of the step. Be careful not to damage the stairs. Once you have hidden the money, secure the loosened step well. There are many ideas on where to hide money at home. However, keep in mind that experienced burglars can find handy hiding places. So the best solution is still to buy a certified safe equipped with a solid lock. Thanks to such an investment you will be able to leave both cash and other valuables at home \u2013 without worrying that someone will steal them. Other articles in this subject-matter: The safe way to keep money at home Where to put your money when going on holiday Recommended products HTI 116-11 HPKTF 400-01 HTIII 315-22 PDE 676/3 What do you need to pay attention to? We care first and foremost about your satisfaction with the safe you purchase. Take our advice into account and choose a safe that perfectly matches your ideas and expectations. Appropriate size of the safe Type of the safe Location of the safe Resistance class vs. insurance Lock",
+      "headings": []
+    },
+    {
+      "rank": 8,
+      "domain": "familychristian.com",
+      "url": "https://www.familychristian.com/family-life/8-ways-to-build-a-cash-stash/",
+      "title": "8 Ways to Build a Cash Stash - Family Christian",
+      "word_count": 643,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.familychristian.com/wp-content/uploads/2022/03/8-ways-to-build-a-cash-stash-header.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.familychristian.com/icons/hamburger-icon.svg",
+          "alt": "menu",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.familychristian.com/icons/family-life-icon.svg",
+          "alt": "FAMILY LIFE",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "Saving money is a curious term with two meanings: 1) To spend less, as in \u201cI buy things on sale to save money\u201d and 2) To physically place money where it is safe from being spent. Okay, that\u2019s fine. But here\u2019s the problem. It\u2019s easy to trick yourself into thinking that 1) and 2) are the same. They are not, unless of course you stop by the bank to deposit the difference between what you would have spent had the item not been on sale into your savings. That would be a clever way to boost your cash stash this year and at the same time adjust your mindset on what it really means to \u201csave money.\u201d Here are eight more: TAX YOURSELF. Determine right now that you will assess yourself a specific \u201ctax\u201d each time you make an ATM withdrawal. It might be $5 or $10, you decide. Whatever the amount, make sure you become a tough tax collector. No slacking, no IOUs. IMPOSE A MORATORIUM. Select a specific denomination of currency, like the $1 or $5 bill that you will no longer spend, but save instead. Forbid yourself, and get very strict. Why not go with the $5? Your stash will grow so much faster if you absolutely refuse to spend any Abe Lincolns. HOARD COUPON SAVINGS. Starting today, here\u2019s the plan: When you grocery shop, ask the clerk to total your order and then pay for it. Then hand her the coupons and watch your total plummet. Since you\u2019ve already paid, the clerk should hand back the cash equal to your coupon savings. If available, open a savings account at the bank branch located in the super-market. It\u2019s easy to stop on your way out to make a savings deposit \u2014 even if it\u2019s small. It all adds up. RACK UP REBATES. They\u2019re coming back in a big way as retailers want to make their products appear cheaper without actually reducing the price. They offer a rebate, knowing full well only a small percentage of consumers who buy the item will ever carry through. No matter how small the rebate or complicated the process, promise you will not be among the lazy bunch. Apply for, follow up and then stash those rebates as they arrive! DRINK WATER. Pay yourself a bonus, like a dollar or two each time you eat out and opt for water instead of a pricey beverage. Don\u2019t be a slacker in your obligation to pay up. And remember, no IOUs allowed. MAKE A SWITCH. Opt to exercise outdoors instead of paying a gym fee. Or, determine you\u2019ll ride the subway instead of jumping into a cab. Identify a name brand you will leave on the shelf this year in favor of its store brand equivalent. Then stash what you would have spent. GIVE IT UP. Pick one thing that you will sacrifice for a specific period of time, like the coming year. Just cut it out. Stash the amount you would have spent on whatever it is \u2014 regular manicures, French fries, gourmet coffee, cigarettes \u2014 into your savings container or account. You could always do your own manicures, swear off the junk food, or brew your own coffee. As for that smoking habit, just imagine all the dough for your stash if you give that up. TRICK YOURSELF. Whenever you write a check or take an ATM withdrawal, record the amount rounded up, to say the next dollar in your checkbook registry. Then deduct that amount from the balance. At the end of the month, reconcile and stash the \u201coops!\u201d overage. for Family Life updates! Get weekly updates from Family Christian on all things Family Life! Additional Family Life Articles Top 10 Tips for Fun, Faith-Based Fitness An Attitude of Gratitude to the Unknown God How to Accomplish Goals When We Feel Down and Out",
+      "headings": []
+    },
+    {
+      "rank": 9,
+      "domain": "fool.com",
+      "url": "https://www.fool.com/money/banks/articles/dont-hide-cash-at-home-here-are-3-places-to-put-it-instead/",
+      "title": "Don't Hide Cash at Home. Here Are 3 Places to Put It Instead",
+      "word_count": 31,
+      "scrape_status": "tavily_fallback",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": "### This device is too small If you're on a Galaxy Fold, consider unfolding your phone or viewing it in full screen to best optimize your experience. ## [xml version=\"1.0\" encoding=\"UTF-8\"?](https://www.fool.com/money/?luri=%2Fbanks%2Farticles%2Fdont-hide-cash-at-home-here-are-3-places-to-put-it-instead%2F&furi=%2Fbanks%2Farticles%2Fdont-hide-cash-at-home-here-are-3-places-to-put-it-instead%2F&fuuid=b288fc2c-12b5-44f2-89b1-b9c7c6259c73&luuid=b288fc2c-12b5-44f2-89b1-b9c7c6259c73",
+      "headings": []
+    },
+    {
+      "rank": 10,
+      "domain": "schwab.com",
+      "url": "https://www.schwab.com/learn/story/wondering-where-to-stash-your-cash-start-here",
+      "title": "Wondering Where to Stash Your Cash? Start Here. | Charles Schwab",
+      "word_count": 1426,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.schwab.com/sites/g/files/eyrktu1071/files/Getty_1182375180_2x1_1.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://educationcontent.schwab.com/sites/g/files/eyrktu1071/files/Getty_1182375180_3x2_1.jpg?imwidth=3840",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://educationcontent.schwab.com/sites/g/files/eyrktu1071/files/IEA4421_SMU-ThreeThings_1x1.jpg?imwidth=3840",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://educationcontent.schwab.com/sites/g/files/eyrktu1071/files/297628716_1x1_0.jpg?imwidth=3840",
+          "alt": "Schwab Market Update",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://educationcontent.schwab.com/sites/g/files/eyrktu1071/files/Inflation-Monitor_2x1.jpg?im=SmartCrop%2Cwidth%3D368%2Cheight%3D368&imwidth=3840",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "I vividly remember the moment when I finally paid off my student loans. I'd been shelling out several hundred bucks a month and now I was free. I could pay that money to myself! But now what? I knew I wanted to save for a down payment on my first home, so at least I had a goal. What I needed was a strategy. I wanted to keep this money separate, not commingle it with my everyday cash. And I figured I'd need it in two to three years, so I didn't want to put it in the stock market. On the other hand, I was working hard for my money, so I wanted it to work hard for me. I decided to first put the extra monthly cash in a money market fund, which at the time was paying more interest than a savings account. Then, as my balance grew, I started buying CDs. It was a strategy that helped me keep my cash earning, while keeping it safe and accessible. And it worked. It's tempting when you have extra cash to just spend it. But if you really don't need it to cover everyday expenses, and you have an emergency fund in place, there's a lot more you can do with it. In fact, whether you're looking at where to stash your everyday cash, your emergency fund, or maybe some extra money you got from a bonus or after paying off a debt like I did, you have several choices. It all depends on how soon you need your money, how much risk you're comfortable taking, and your goals. Here are some to consider. Charles Schwab & Co., Inc. is not an -insured bank and deposit insurance covers the failure of an insured bank. Certain conditions must be satisfied for insurance coverage to apply. Choices for your everyday and emergency cash The goal of the following accounts isn't to make a huge return, but to help you pay for day-to-day or emergency expenses. But it still makes sense to try to get the biggest bang for your buck. Interest-bearing checking account \u2014This is your workhorse for everyday needs, allowing you to write checks and have easy ATM and debit-card access to your cash. Savings account \u2014This is probably the category with the widest variation in features and yield, so doing some comparison shopping is well worth your time. These usually pay more interest than checking accounts, but there may be restrictions such as limited withdrawals and debit-card transactions. To get the highest interest, you may also have to maintain a relatively high minimum balance. Money market account \u2014Institutions can offer relatively high interest rates on these accounts by investing your money in high-quality, short-term debt. Like high-yield savings accounts, they likely have restrictions such as limited check writing privileges (over certain minimums) while generally providing higher yields than a checking account. Short-term certificate of deposit (CDs) \u2014Offered by banks, credit unions, and other financial institutions, CDs pay a fixed yield until maturity. Shorter-term CDs generally fall in the range of three months to one year. Penalties apply if you withdraw early. Banks that are -insured can protect accounts up to $250,000 per account holder, per ownership category. The National Credit Union Administration ( NCUA ) insures checking and savings accounts at credit unions up to the same limits. Most banks or credit unions are insured by either or NCUA, but only up to the stated limit above. Any amounts above these thresholds may not be protected. Looking for professional investment advice? Higher return accounts with a bit more risk If you have a brokerage account, you could also consider investing your money in a money market fund, like I initially did. Technically, these are a type of mutual fund that primarily focus on stability and capital preservation. The underlying investments are conservatively invested in very short-term debt. Money market funds are not insured by the but may be protected by the Securities Investor Protection Corporation (SIPC). SIPC protects up to $500,000 of cash and investments (with a maximum of $250,000 in cash only) per separate capacity . They generally (but not always) offer higher yields than the other accounts I mentioned. Choices for money you won't need for several months or longer I knew saving for a home down payment was going to take a while, so I was comfortable considering slightly longer-term, higher-yielding options. Here are some of those choices: Brokered CDs \u2014While bank CDs are often purchased directly from a bank, a brokered CD is typically purchased through a brokerage. Brokered CDs allow you to easily choose from banks all over the United States. And in general, the wider the range of CD products, the wider your selection of maturity terms and yields. If you shop carefully, you may be able to find more suitable\u2014if not competitive\u2014terms and yields by virtue of having a wider selection of choices. Also, if you're worried about going over the threshold for one bank, you can easily spread your dollars across multiple -insured banks to cover larger amounts beyond the $250,000 insurance coverage threshold. Longer-term CDs \u2014If you know you won't need your money for many months or longer, you might consider purchasing a CD that matches your time horizon. In general, the longer the term, the higher the yield. One strategy is to build a CD ladder, which means buying a series of CDs with different maturity dates. That can help to increase your chance of getting a good interest rate in the present and in the future. CDs are federally insured, but you may be charged a penalty for early withdrawal. Treasury bills \u2014Treasury bills mature anywhere between 90 days and 12 months, and the longer the duration, the higher the yield. Backed by the full faith and credit of the U.S. government, you can buy Treasuries either from a broker or directly from the government at TreasuryDirect.gov. Treasury bills are exempt from state and local tax, so they can be an especially good deal if you live in an area with both. One potential downside? You'll miss out on some yield if you sell them before maturity. A possible strategy With some smart shopping, you could find and combine accounts that could help you grow and protect your savings. For example, you could choose to keep everyday cash in an interest-bearing checking account, emergency savings in a money market fund, and a house down payment in longer-term CDs. I understand there are lot of choices here, and creating a cash strategy may not be the most exciting part of managing your money. But believe me, while it might seem kind of boring now, it won't be boring if you get higher interest rates to help reach your goal\u2014it'll be exciting! That's certainly how I felt as I watched my down payment grow and was finally ready to buy. Looking for professional investment advice? More from Charles Schwab Recap of VIX, Warsh, earnings Tech Gets Lift from Intel Inflation Monitor: Goods Surge Explore more topics The information provided here is for general informational purposes only and should not be considered an individualized recommendation or personalized investment advice. The investment strategies mentioned here may not be suitable for everyone. Each investor needs to review an investment strategy for his or her own particular situation before making any investment decision. All expressions of opinion are subject to change without notice in reaction to shifting market conditions. Data contained herein from third-party providers is obtained from what are considered reliable sources. However, its accuracy, completeness, or reliability cannot be guaranteed. Examples provided are for illustrative purposes only and not intended to be reflective of results you can expect to achieve. Funds deposited at an -insured institution are insured, in aggregate, up to $250,000 per depositor, per insured institution based upon account ownership by the . The considers any other deposits you may have with an issuing bank. CDs you purchase from a particular bank are aggregated with any other deposits you may have with the issuing bank for determining insurance coverage. Because the deposit insurance rules are complex, you may want to use 's online tool, Electronic Deposit Insurance Estimator (EDIE), to estimate your total coverage at any particular bank. Certain conditions must be satisfied for insurance coverage to apply. Charles Schwab & Co., Inc. is not an -insured bank and deposit insurance covers the failure of an insured bank. Certain conditions must be satisfied for insurance coverage to apply. Investing involves risk, including loss of principal.",
+      "headings": []
+    },
+    {
+      "rank": 11,
+      "domain": "wayforth.com",
+      "url": "https://wayforth.com/blog/smm-b2b/top-10-secret-hiding-places-for-money/",
+      "title": "top 10 hiding places - Wayforth",
+      "word_count": 0,
+      "scrape_status": "failed",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 12,
+      "domain": "medium.com",
+      "url": "https://medium.com/new-choices/the-trick-to-money-management-is-hiding-money-from-yourself-1dbb721b84ea",
+      "title": "The Trick to Money Management is Hiding It From Yourself - Medium",
+      "word_count": 0,
+      "scrape_status": "failed",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 13,
+      "domain": "youtube.com",
+      "url": "https://www.youtube.com/watch?v=1YzwKwkA0fs",
+      "title": "11 Crazy ways to hide Money  (So that NOBODY finds it)   - YouTube",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 14,
+      "domain": "walb.com",
+      "url": "https://www.walb.com/video/2024/06/11/clever-ways-build-cash-stash/",
+      "title": "Clever Ways To Build A Cash Stash - WALB",
+      "word_count": 81,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://gray-walb-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F06-11-2024%2Ft_c9f68320c83f43139853a2f836370338_name_file_1280x720_2000_v3_1_.jpg?auth=9c58c695c56b7e6f9b7d2acd1a861afe23288994ee479f19ccaa3fa868dd319e&width=1200&height=600&smart=true",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [],
+      "body_text": "{ \"@context\": \"https://schema.org\", \"@type\": \"VideoObject\", \"name\": \"Clever Ways To Build A Cash Stash\", \"description\": \"According to a go banking rates survey nearly half of Americans have 500 dollars or less in their savings accounts. So how can you stop spending and start saving?\", \"thumbnailUrl\": \" \"uploadDate\": \"2024-06-11T16:37:12Z\", \"duration\": \"P0Y0M0DT0H2M13S\", \"contentUrl\": \"https://d1l66zlxaqpl1u.cloudfront.net/wp-gray/20240611/6668712e668d413498aaabb7/t_26458a05835948858800ba471c33008b_name_file_1920x1080_5400_v4_cropped/file_1280x720-2000-v3_1.mp4\" } According to a go banking rates survey nearly half of Americans have 500 dollars or less in their savings accounts. So how can you stop spending and start saving?",
+      "headings": []
+    },
+    {
+      "rank": 15,
+      "domain": "quora.com",
+      "url": "https://www.quora.com/Where-is-the-best-way-to-hide-your-money-besides-the-bank",
+      "title": "Where is the best way to hide your money besides the bank? - Quora",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 16,
+      "domain": "libertysafe.com",
+      "url": "https://www.libertysafe.com/blogs/the-vault/how-to-store-paper-money-documents?srsltid=AfmBOorX_Fvut8c2tHKJjl8ivPfw7C7YpzILbaycJ7o-7_Kqxlyr5-0Y",
+      "title": "How to Properly Store Paper Currency/Money and Other Important ...",
+      "word_count": 1642,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "http://www.libertysafe.com/cdn/shop/articles/unnamed_47c4e9cf-5723-4def-b7c2-37d382c87d71.jpg?v=1689796463",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://i.shgcdn.com/ab733678-afd6-4834-9590-b54e13333d33/-/format/auto/-/preview/3000x3000/-/quality/lighter/",
+          "alt": "Stock Market Crash",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i.shgcdn.com/b822a72f-6c5f-441b-b4ec-af5e19b8dcef/-/format/auto/-/preview/3000x3000/-/quality/normal/",
+          "alt": "Shop Liberty Gun Safes",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i.shgcdn.com/d124277d-bb8a-4f0e-b12d-094063f304e3/-/format/auto/-/preview/3000x3000/-/quality/better/",
+          "alt": "Shop Liberty Vault Doors",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i.shgcdn.com/9e8021f1-889c-4dd1-a9c9-f26e45223166/-/format/auto/-/preview/3000x3000/-/quality/better/",
+          "alt": "Shop Liberty Home Safes",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i.shgcdn.com/856126e8-4469-438c-821f-a6da014d93bd/-/format/auto/-/preview/3000x3000/-/quality/lighter/",
+          "alt": "Top four gun safe manufacturers",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i.shgcdn.com/75f41cea-f6c6-49cb-9b71-20455aad1107/-/format/auto/-/preview/3000x3000/-/quality/lighter/",
+          "alt": "Paper Book Burning in Fire",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i.shgcdn.com/77ad68ce-82b5-4e91-97ae-a0e4543503ba/-/format/auto/-/preview/3000x3000/-/quality/lighter/",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "In an increasingly digital world, many people are moving toward online-only banking, app-based transactions, and even bitcoin and other completely digital currencies. However, in the uncertainty that comes with pandemics, civil unrest, unpredictable governmental policies, and a shaky stock market, many people are wisely keeping an emergency supply of cash, precious metals, and other valuables as a hedge against the unforeseen. What\u2019s more, many important documents are often still recorded and kept on paper, like passports, deeds and mortgages, birth certificates, titles, and more. Lots of people keep physical copies of photographs, journals, letters, memorabilia, and other irreplaceable items, all of which can be easily damaged or lost in a fire, flood, theft, or other disaster. So what\u2019s the best way to protect against this kind of loss? How should you store your paper money and other documents to help prevent damage? Let\u2019s go over some basics. In this article: What\u2019s the right way to store paper currency? Storing photos and documents to prevent damage. How to prevent fire damage to paper valuables. Protecting paper documents and currency from acid, light, and insects. How to prevent mildew and mold on paper currency and documents. Doubling up your fire protection. Make and keep digital backups of paper records where possible Of course, keeping a photographic copy of every hundred dollar bill in your emergency cash isn\u2019t going to help you much. However, if you have collectible, valuable currency that you need to insure in addition to its face value, you should definitely keep a photographic record of it, as detailed as possible, for your records and for insurance purposes. You should also scan or photograph (scanning is best and easiest) all your vital paper documents and keep the digital records on multiple, redundant hard drive backups as well as cloud-based archives, to cover all your bases. Read more about options for storing your electronic devices and digital records here . Keep any paper cash, currency, and valuable paper records locked in a quality, humidity-controlled, fire-resistant safe If you have valuables such as paper cash or other important/sensitive documents, you absolutely need to invest in a quality safe with UL-rated security and certified fire protection. The more valuable your stash, the more expensive and higher-quality your safe should be. However, it is unwise to keep large amounts of valuables, gold, and/or cash stored at home. It may seem strange to read an article by a safe company telling you that, but keeping your valuables (and you) safe is our priority. Storing hundreds of thousands of dollars worth of paper currency or precious metals in a home safe is simply not a wise or prudent course of action. There are better ways to protect your nest egg. A good safe is far better than storing bundles of cash in your proverbial mattress, but it still is a risk. That said, keeping smaller amounts of paper currency and/or precious metals as emergency cash, as well as storing your irreplaceable photos, documents, and other paper records in a secure, humidity-controlled safe is appropriate, particularly one of Liberty\u2019s UL-listed, certified fire-resistant safes . Only you can determine what\u2019s an appropriate amount of emergency cash for your unique situation, so we won\u2019t attempt to determine that for you. Liberty offers a wide selection of features, colors, sizes, options, and security listings, as well as fire certification levels. The top-of-the-line Presidential (as well as Liberty\u2019s Vault Door ) has a certified fire protection rating of an amazing 2.5 hours at 1200\u00b0 F. Next in line are the Lincoln models, each with a certified fire protection rating of 110 minutes at 1200\u00b0 F. Liberty\u2019s Colonial models come with very respectable 75-minute fire protection ratings respectively, and even the hot-selling, budget-friendly Centurion 24 offers up to 40 minutes of certified fire protection at 1200 degrees fahrenheit. To extend that fire protection even further, we recommend storing irreplaceable paper valuables inside our Cool Pocket inside your safe. The Cool Pocket can keep sensitive documents contained in it up to 50 degrees cooler during a fire. Most Liberty safes come with a Cool Pocket installed in the lower part of the fire-resistant door panel, and additional Cool Pockets are available for a very low price, so you can add additional layers of heat protection for your important documents, cash, and more, while keeping them secure inside your safe. For the price, there\u2019s nothing better for adding an additional layer of more fire protection. If you want to double-up your document fire protection further, you might consider keeping paper, cash, and/or photographs in a \u201cfireproof document safe\u201d inside your main home safe. These small and portable fire-resistant containers resist water also, and some are certified to survive up to an hour at 1700 degrees F. If you go this route, make sure to take careful measurements to ensure your fireproof container will fit inside your home safe. How hot does it need to get inside my safe for paper to burn? According to Firefighter Insider : \u201cThe temperature at which paper will burn can vary by material, moisture, and thickness. The average temperature at which it will ignite and burn is between 424 and 475 degrees Fahrenheit (218 and 246 degrees celsius).\u201d Of course even relatively low levels of heat can damage paper over time. If you\u2019ve ever found old receipts, letters, or newspapers stored in a hot attic or garage, you know how heat can turn paper into crinkly, fragile sheets of brown patina. So it\u2019s important to keep your safe inside your home (not in a non-temperature-controlled garage, for example) and keep it as cool and dry as possible. What temperature and humidity is ideal for storing paper currency and documents? For paper documents and currency, generally the lower the temperature the better. Many library caretakers and archivists recommend a stable temperature of no more than 70 degrees fahrenheit. However, keeping your safe at, say, 50 degrees inside your home is likely not possible, so just remember that temperature fluctuations and high humidity tend to do the most damage to paper valuables and documents. Paper is hygroscopic, meaning that it readily absorbs moisture from the air. This can lead to cracking, curling, flaking, bleeding of ink, and if humidity is high enough, to mildew and mold damage. Therefore, it\u2019s crucial that your storage location (a safe, ideally) be humidity controlled at between 30-50% humidity, and ideally kept in a climate-controlled room between at no more than 75 degrees fahrenheit. Again, the lower the temp the better, and the lower on the range of humidity, the better. A good dry rod safe dehumidifier from Liberty can work wonders in humid environments. Not only does it help stabilize the humidity levels for your sensitive paper valuables and documents, but if you store metal jewelry, firearms, or other valuables in your safe they also will benefit from a stable, humidity-controlled environment that helps prevent mold, rust, and corrosion. Light exposure and insect concerns regarding storage of paper goods Insects or bugs like silverfish love to eat musty old books (they thrive on carbohydrates, and paper/cellulose is definitely not Keto-approved), but typically they aren\u2019t an issue inside a clean, humidity controlled safe, in a clean, temperature-controlled home with clean air circulation. Keeping the humidity levels low and the area clean and temperature constant will go a long way toward preventing potential infestation. You probably know that exposing photographs and paper to light, particularly sunlight, will damage them eventually. This goes for everything made of paper. So for truly valuable, irreplaceable documents or collectible currency bills, you\u2019ll want to minimize exposure to any source of UV light/radiation. Choose acid-free paper for storage materials, and PVC-free plastic/mylar sheets If you store collectible paper currency or other documents in scrapbooks, three-ring binders, or other organizers, you should be sure to use acid-free paper and adhesives whenever possible, and consider sheets of PVC-free plastic or mylar to help keep the documents and bills free from contact, dust, and moisture. Wear soft cotton or nitrile gloves when handling your most valuable/sensitive documents We can\u2019t stop you from rolling around in your piles of cash like Scrooge McDuck (if that\u2019s your thing), but for your truly irreplaceable or valuable photographs, documents, or collectible currency, it\u2019s a good idea to wear clean, soft, cotton gloves or nitrile gloves when handling it. This prevents the natural oils and acids present in your skin from being absorbed by the paper, causing damage over time. Heat-activated expanding door seals can help protect documents and cash from water damage as well as fire Liberty\u2019s fire-protection rated safes come with Palusol\u2122 heat-activated door seals that expand to several times their original size when confronted with the heat of a fire. When these seals expand, they tightly fit into any spaces around the door to help protect against smoke and heat damage. This seals up the opening and can also help prevent water from getting past the door. You\u2019ve heard the expression, \u201cwhere there\u2019s smoke, there\u2019s fire,\u201d right? Well when it comes to a house fire, where there\u2019s fire, there\u2019s a LOT of water. Oftentimes the water hosed on the fire by the fire department can cause as much damage as the fire, or even more. You need a fire-resistant safe that comes equipped with high-quality, expanding door seals because your important documents can be ruined nearly instantly if too much water gets inside. A liberty safe is a great way to help protect your paper money and other important documents Whatever Liberty safe you choose, it will go a long way toward keeping your valuables, including paper records, documents, and cash, safe and secure from fire, theft, and other damage. Visit your local Liberty dealer today and see our wide selection of models, colors, sizes, and interiors. VIEW OUR SPECIALS Which Safe is Right For You? TAKE THE QUIZ",
+      "headings": []
+    },
+    {
+      "rank": 17,
+      "domain": "facebook.com",
+      "url": "https://www.facebook.com/demilked/posts/smart-secret-ways-to-hide-money-/1383933223761466/",
+      "title": "Smart & Secret Ways to Hide Money",
+      "word_count": 0,
+      "scrape_status": "failed",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 18,
+      "domain": "creators.com",
+      "url": "https://www.creators.com/read/everyday-cheapskate/04/24/7-clever-ways-to-build-a-cash-stash",
+      "title": "7 Clever Ways to Build a Cash Stash, by Mary Hunt",
+      "word_count": 822,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://cdn.creators.com/236/369300/260ced520aae1020647eb02bd5cd5c0085e71c67.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 19,
+      "domain": "sunshineproductsusa.com",
+      "url": "https://www.sunshineproductsusa.com/how-hide-money.htm?srsltid=AfmBOooJLaLjRCO0d8DJy9oqEjutANcxbE0oUTRst7Cj3llqL-7wIO13",
+      "title": "How to Hide Money: Get Creative Thinking Of Ways To Keep Cash...",
+      "word_count": 0,
+      "scrape_status": "failed",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    }
+  ],
+  "battle_plan_generated_at": "2026-04-26T10:45:53.343853+00:00",
+  "competitors_analyzed_count": 8,
+  "battle_plan_method": "local_deterministic_agent_no_api"
+}

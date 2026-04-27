@@ -1,0 +1,819 @@
+{
+  "article_context": {
+    "angle": "Manual tracking (pen/paper/spreadsheet) vs. automated apps for financial awareness",
+    "pain_points": [
+      "Frustration with tracking spending without seeing savings results",
+      "High fixed expenses (rent, car) making saving difficult despite decent income",
+      "Forgotten subscriptions and recurring charges draining money",
+      "Anxiety about savings becoming insufficient for growing 'what-if' scenarios",
+      "Psychological attachment to savings leading to reluctance to spend even on necessities"
+    ],
+    "top_social_questions": [
+      "Why am I still broke after meticulously tracking my spending?",
+      "How much of my paycheck should I save?",
+      "What is a reasonable amount to spend on groceries?"
+    ],
+    "dominant_emotion": "Anxiety about future financial security",
+    "serp_intent": "Searchers for \"how to save money with food\" want practical, actionable strategies to reduce expenses on groceries, meals, and eating out without sacrificing nutrition or convenience. The SERP intent is informational, featuring blog posts, guides, and tips focused on budgeting for food, meal planning, smart shopping, and cost-cutting hacks specific to food-related spending.",
+    "serp_title_pool": {
+      "primary": [
+        "Tips for saving money on food? : r/Frugal - Reddit",
+        "How Our Readers Are Saving Money on Groceries - NYT Cooking",
+        "45+ Budget Food Hacks That Actually Save You Money - YouTube",
+        "Ultimate Guide to Reducing Your Food Spending",
+        "7 Ways to Save Money On Groceries & Eat Healthy - TD Bank",
+        "Saving Money on Food - 5 Easy-to-Follow Ideas - Tia Clara",
+        "How to Cut Your Grocery Bill in Half | Save Money on Food",
+        "One Family's Strategies for Saving Money on Food - Treehugger",
+        "15 Simple Ways to Save Money on Real Food - Going Zero Waste",
+        "10 Simple Strategies for Saving Money on Food",
+        "54 ways to save money on food",
+        "How to save money on groceries: 13 ways to stretch your ...",
+        "Easy Ways To Save Money On Food Right Now",
+        "31 Ways to Save Money on Food",
+        "Nutrition on a Budget",
+        "How to save money on food",
+        "Eat Well and Save Money Too!",
+        "The 12 Best Ways to Save Money on Groceries"
+      ],
+      "long_tail": [
+        "What's the best way to save on groceries? : r/Frugal",
+        "How Our Readers Are Saving Money on Groceries",
+        "Saving Money on Groceries: How I Saved $347 in One Month",
+        "4 Tips that will help you save money at the grocery store \ud83d\uded2 ...",
+        "25 Simple Tips to Save Money on Groceries",
+        "20 tips to save money at the grocery store - The Whole U",
+        "Budget Grocery Shopping Tips",
+        "Supermarket shopping tips: tools & tricks to slash food bills",
+        "20 Clever Tips to Save Money on Groceries ...",
+        "14 Easy Hacks I Use to Save Money at the Grocery Store"
+      ],
+      "question": [
+        "Simple ways to save money for the future",
+        "10 ways to start saving money - Vanguard",
+        "Save and Invest | MyMoney.gov",
+        "What's the easiest way you've found to save money without it feeling ...",
+        "7 money saving tips you might overlook | First Financial Bank",
+        "54 Ways to Save Money | America Saves",
+        "10 Tips to Start Saving Money Today \u2013 Intuit Blog",
+        "10 Easy Ways To Save Money Every Day - National Iron Bank",
+        "How to Save and Budget as a Beginner (2026 Money Reset)",
+        "How to Save Money: 9 Ways to Start Today - Citizens Bank"
+      ]
+    },
+    "paa_questions": [],
+    "related_searches": [
+      "How to save money with food reddit",
+      "How to save money on food as a student",
+      "How to save money on groceries at Walmart",
+      "How to save money in grocery shopping",
+      "How to save money on groceries app",
+      "How to save money on groceries and eat healthy",
+      "How to cut grocery bill by 90 percent",
+      "How to save money on groceries for one person"
+    ]
+  },
+  "primary_keyword": "how to save money with food",
+  "competitors": [
+    {
+      "rank": 1,
+      "domain": "reddit.com",
+      "url": "https://www.reddit.com/r/Frugal/comments/xwrny3/tips_for_saving_money_on_food/",
+      "title": "Tips for saving money on food? : r/Frugal - Reddit",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 2,
+      "domain": "cooking.nytimes.com",
+      "url": "https://cooking.nytimes.com/article/readers-grocery-budget-recommendations",
+      "title": "How Our Readers Are Saving Money on Groceries - NYT Cooking",
+      "word_count": 1253,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://static01.nyt.com/images/2025/06/02/multimedia/02FDBUDGET-ROUNDUP-grocery-store-qhtf/02FDBUDGET-ROUNDUP-grocery-store-qhtf-articleLarge.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [],
+      "body_text": "By Sharon Attia and Allison Jiang Published June 2, 2025 Updated June 2, 2025 With grocery costs in flux as a result of inflation, tariffs and other factors, it can feel like eating well means you have to spend a fortune. But our clever readers prove that that\u2019s not the case. We asked them if they have changed how they shop and cook. Below are some of their smart, money-saving tips. 1. Cook a pantry meal before you go shopping. \u201cOnce a week, we\u2019ll do an unplanned pantry dinner that involves groceries we have instead of groceries we need to buy.\u201d Before you make yet-another trip to the grocery store, take stock of what\u2019s in your pantry , fridge and freezer to ensure that nothing goes to waste. Soups , pastas and fried rice are a great way to use up those leftover bits and bobs of meat and vegetables you have on hand. And Melissa Clark recommends leaning on bright, bold pantry staples, such as anchovies, chile paste, salsa or Dijon mustard, to turn everyday staples into something wonderful. Highly Pantry-Friendly Recipes Vegetable Pajeon | Chickpea Harissa Soup | Midnight Pasta With Garlic, Anchovy, Capers and Red Pepper 2. Avoid the center of the grocery store if you can. \u201cI have focused on buying for meals! Ingredient shopping only!\u201d Shop with a list \u2014 and keep to the list. To resist impulse purchases, one reader keeps to the edges of the grocery store, avoiding the packaged food in the center of the store as much as possible. Five-Ingredient Recipes Tomato Rice With Crispy Cheddar | Five-Ingredient Creamy Miso Pasta | Salmon and Kimchi Skillet 3. Plan multiple meals around one main ingredient then vary the surrounding flavors. \u201cWe started saving by meal planning with a theme. We repeat ingredients as much as possible. We try to make a game of finding as many different flavors out there that use the same ingredients so we still get a variety throughout the week.\u201d Repeating ingredients doesn\u2019t mean you\u2019re cursed to eat the same protein, grain and vegetable every day. That would be so sad, so boring! A big pot of black beans can be tucked into burritos for breakfast, served over rice for lunch and loaded onto cheesy baked sweet potatoes for dinner. Sausages can be baked into a buttery breakfast casserole , pan-seared with peppers and onions or cooked in a quick skillet pasta with your chosen green veg. Multi-Purpose Recipes Chili | Sausage With Peppers and Onions | Baked Potatoes 4. Buy on-sale items and freeze in servings. \u201cI\u2019ve long bought the chopped beef I prefer on sale and package it up by servings or recipe amounts for burgers, meatballs, meatloaf and freeze it.\u201d Taking advantage of lower prices on certain ingredients when you see them may lead to meaningful savings. Ground beef, chicken, pork and turkey all freeze well. Ground Meat Recipes Creamy, Spicy Weeknight Bolognese | Porcupine Meatballs | Easy Turkey Meatloaf 5. Shop more often. \u201cI go to the grocery nearly daily now to buy produce and pretend I\u2019m Emily in Paris! I found I was wasting a lot of beautiful produce by guessing what I was going to cook and then pivoting in another direction.\u201d It may seem counterintuitive, but making more frequent, intentional trips to the supermarket instead of one big trip can reduce the likelihood that you\u2019ll waste food. Going more often also ensures that you can peruse the freshest items that the market has to offer, and plan your menu accordingly. Recipes That Make Use of Seasonal Produce Miso-Parmesan Asparagus | Creamy Corn Pasta With Basil | Quick Fresh Tomato Sauce 6. Respect the rotisserie chicken. \u201cWhen I was a student on a restricted budget, I learned to stretch a whole chicken over a week of meals.\u201d Brilliant! Meat from a store-bought rotisserie chicken \u2014 or a simple, homemade roast chicken \u2014 is a hearty addition to salads, pastas, soups and stews. Save the leftover bones and make chicken stock to freeze. Rotisserie Chicken Recipes Rotisserie Chicken and Greens Pasta | White Chicken Chili | Crispy Wonton Chicken Salad 7. Don\u2019t buy it; make it. \u201cI\u2019m making my own chile crisp, which is not at all difficult, as it turns out. Last week we polished off three ounces of my homemade stuff in ONE MEAL.\u201d Lots of basic grocery staples are cheaper and surprisingly easy to make at home: yogurt , for instance, bread , granola and more. You may even find that you prefer the taste and the quality of the homemade stuff, which you can customize to your taste. Readers also wrote in about multi-cookers like the Instant Pot, which quickly and efficiently cook beans from dried without the need for a lengthy soaking process. Things You Should Make, Not Buy Focaccia | Chile Crisp | Pancake Mix 8. Cheaper doesn\u2019t mean less flavor. \u201cA less-expensive item isn\u2019t innately less delicious, and dark meat chicken is the best example of this. Swap a chicken breast with a chicken thigh any time, and you\u2019re definitely going to have a richer, more tender dish.\u201d Consider cheaper cuts of meat like chicken thighs or drumsticks, chuck roast, pork shoulder or shank. You may find you like them even better, especially in braised dishes like pot roast, carnitas and ropa vieja. Braised Recipes Pressure Cooker Pot Roast | Slow Cooker Honey-Chipotle Chicken Tacos | Ropa Vieja 9. Eat less or no meat \u201cI cook a lot of cannellini bean recipes. This is great cost saver, and I\u2019ve learned to spruce them up with pesto, red sauce, etc.\u201d Meatless Mondays are an opportunity to experiment with plant-based proteins like tofu and beans, which are endlessly versatile. Some of our most popular recipes, like these creamy, spicy tomato beans and greens , are fast, easy to prepare and delicious \u2014 all in part because they\u2019re vegetarian. Cheap Vegetarian Recipes Beans and Greens alla Vodka | Pesto Beans | Kung Pao Tofu 10. Buy in bulk \u201cBuy basics (flour, sugar, rice, pasta, oats) in bulk and use it!\u201d It may be obvious, but buying in bulk not only ensures that you save on grocery costs. It also assures that you\u2019ll always have ingredients for a meal. Rice, for example, freezes well and can be a main , a side or a dessert . Recipes for Staples Big Pot of Beans | Farro | Can\u2019t-Miss Rice 11. If you have the space, grow your own food. \u201cWe\u2019re growing herbs to reduce waste, cost and add convenience when cooking.\u201d Many wrote in about the cost-saving (and therapeutic) virtues of having a garden. Homegrown herbs, whether fresh or frozen , can elevate a meal exponentially, and many, like mint, dill, thyme and scallions, are easy to grow on your kitchen counter, even in urban kitchens. ( Here\u2019s how to store and extend the life of your herbs.) Recipes for Using Up All of Those Herbs Creamy White Beans With Herb Oil | Uchucuta Sauce (Andean Green Herb and Chile Sauce) | Greek Goddess Dip 12. Lean on community resources. \u201cOnce a month I utilize my local food bank. A blow to my ego for sure. Nevertheless, I\u2019m grateful.\u201d Some readers \u2014 especially those living on a fixed income \u2014 rely on food banks, community fridges and pantries to help them get by. Feeding America is a website that helps you find a food bank in your area by plugging in your ZIP code. You can also call a local church or community center.",
+      "headings": []
+    },
+    {
+      "rank": 3,
+      "domain": "youtube.com",
+      "url": "https://www.youtube.com/watch?v=kSKuP7kZ-1I",
+      "title": "45+ Budget Food Hacks That Actually Save You Money - YouTube",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 4,
+      "domain": "moneymanagement.org",
+      "url": "https://www.moneymanagement.org/budget-guides/save-money-on-groceries",
+      "title": "Ultimate Guide to Reducing Your Food Spending",
+      "word_count": 2439,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.moneymanagement.org/-/media/Money-Management/Images/Logo/logo-stacked-1200x628.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.moneymanagement.org/-/media/Money-Management/Images/Budget-Guides/Grocery/MMIgrocery1.png?h=649&w=600&hash=B2F37A762A1F9A23AFE258993E129EE1",
+          "alt": "Where are we spending our food money?",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.moneymanagement.org/-/media/Money-Management/Images/Budget-Guides/Grocery/MMIgrocery2.png?h=617&w=600&hash=1A27E3C02FFADFD0BE89686D25A948E4",
+          "alt": "How much does it cost to dine out - comparison chart",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.moneymanagement.org/-/media/Money-Management/Images/Budget-Guides/Grocery/MMIgrocery4.png?h=423&w=600&hash=59503F55EE6964AC6484E3DECD3F70B3",
+          "alt": "How to step down your dining out",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.moneymanagement.org/-/media/Money-Management/Images/Budget-Guides/Grocery/MMIgrocery5.png?h=709&w=600&hash=AEEFE0E6A3CB811C425F2230F2C0D3C7",
+          "alt": "Food waste graphic",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.moneymanagement.org/-/media/Money-Management/Images/Budget-Guides/Grocery/MMIgrocery6.png?h=612&w=600&hash=148239D84791F730631737D069D9E7F8",
+          "alt": "Canned food storage facts",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.moneymanagement.org/-/media/Money-Management/Images/Budget-Guides/Grocery/MMIgrocery8.png?h=455&w=350&hash=A36AC1578E0276CB5E43CA13D408050C",
+          "alt": "The value of reducing food waste graphic",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.moneymanagement.org/-/media/Money-Management/Images/Budget-Guides/Grocery/MMIgrocery9.png?h=410&w=600&hash=33FDC1681DC872563A2338F7EAB50171",
+          "alt": "How to create bulk meals graphic",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.moneymanagement.org/-/media/Money-Management/Images/Budget-Guides/Grocery/MMIgrocery10.png?h=594&w=650&hash=9D22C1EC80EE5DE4B4E875BA72FCED04",
+          "alt": "Freezer tips graphic",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.moneymanagement.org/-/media/Money-Management/Images/Budget-Guides/Grocery/MMIgrocery11.png?h=477&w=600&hash=FC650F366BB05CCE28ACC37BC8C4BACE",
+          "alt": "How to find the unit price",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.moneymanagement.org/-/media/Money-Management/Images/Budget-Guides/Grocery/MMIgrocery12.png?h=623&w=600&hash=139BD0332D287751E0492E13C850E51A",
+          "alt": "What does convenience cost graphic",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "If you\u2019re here, two things are probably true: Your income and expenses are not quite perfectly aligned (or even a little bit aligned, for that matter), and Either you or someone you believe knows what they\u2019re talking about has suggested that your food spending needs to be reduced in a hurry. The idea of cutting your household budget sounds good in theory. The problem is that budgeting \u201ctips\u201d and \u201csecrets\u201d often require that you make fundamental changes to the way you behave. Even if it feels like you should be able to make those changes, the truth is that you spend the way you spend for a reason. Asking someone to change everything about how they spend money is an easy way to make that person feel overwhelmed and discouraged. The focus of this guide, therefore, is not to change how you approach spending on food, but instead to adapt your current habits in order to reduce costs. By making only a few little tweaks, you\u2019ll be surprised to see what a massive amount you can save from your food budget. And it all begins with eating out. Step 1 \u2013 Let\u2019s Stay In Tonight If you\u2019re an average American (more or less), we can probably make two more assumptions: You eat out more than you ought to, and Those meals away from home are significantly more expensive than ones you could make at home. There are quite a few very good, very valid reasons why you might prefer to have a trained stranger cook dinner for you tonight. You may be tired. You may not like cooking. You may be very bad at cooking. You may like cooking and be good at it, but hate grocery shopping. If you dine out or stop at fast food restaurants regularly, don\u2019t feel bad. As noted, Americans have been forsaking the kitchen for the local chain restaurant with increasing regularity. You\u2019re not alone. And on the plus side, however, we just found a very, very easy way to start reducing your food costs. The 75/50/25 Plan We established earlier that you probably have good reasons for dining out. We don\u2019t want to ignore that. Instead, let\u2019s make two pledges: I pledge that I will continue to eat out. \u2026.and I pledge that I will do it less often. Eating out is not the enemy. It\u2019s not the reason your budget doesn\u2019t work. The problem is eating out more than you can afford . That\u2019s an important distinction. So here\u2019s the first step on your journey to a trim and tidy food budget: look back over the last three months. You can go a little further if you like, but three should be the minimum. Find out exactly how many times you\u2019ve eaten out over that period \u2013 this is fast food, sit down, take out, and pre-packaged take away \u2013 and then divide it by the number of months. This number represents your RMPM \u2013 Restaurant Meals Per Month. Take that number and multiply it by 75 percent. The number you get is the number of times you\u2019re allowed to dine out this month. Next month, reduce down to 50 percent of the original number. The month after that, take it down to 25 percent. And that\u2019s where you\u2019ll stay. Your goal is to reduce the amount of money you spend dining out to 25 percent of what you spend now. You have three months to do it. That doesn\u2019t sound too bad, does it? You don\u2019t even have to pick different restaurants or think differently about what you order. It seems like a fairly minor change, but the results can be massive, especially if you\u2019re overspending at restaurants. Will it come easy? Maybe not. For many, eating out is habit, and habits are hard to break. If you\u2019re struggling, however, it may be helpful to take a step back and remind yourself of what you\u2019re really trying to accomplish. If the decision is between a steak burrito from Chipotle or a peanut butter sandwich, on merit alone the burrito probably looks a little more appetizing (especially if we\u2019re splurging for guac). But the decision isn\u2019t between a burrito and a peanut butter sandwich \u2013 it\u2019s between staying in debt or becoming debt-free; it\u2019s between keeping that old, beat-up, could-die-and-leave-you-stranded-at-any-moment car and the brand new, under-warranty-with-free-roadside-assistance car you\u2019ve been dreaming of for years. Whenever you feel like you\u2019re sacrificing something, just remember what that sacrifice is leading to. Because as hungry as you may be right now, there\u2019s no burrito in the world better than being debt-free. And just like that, we\u2019ve begun! You\u2019re now saving money and hardly changing anything. But while we\u2019ve talked about what you aren\u2019t eating, we haven\u2019t really talked about what you will be eating. So let\u2019s do that next. A thought experiment: Suppose you had two $1 bills. You take one and spend it on something useful. You take the other and throw it down the garbage disposal. You probably feel a little bad about the fate of the second dollar, but it\u2019s just a dollar. What\u2019s a dollar in the big picture of life? Now, suppose you had two $20 bills. You spend one (hey, you got some good stuff!) and you light the other one on fire, then bury the ashes in the backyard. You probably feel quite a bit worse in this scenario, and not just because destroying currency is a crime (your secret is safe with me). Once you start wasting larger amounts of money, that waste becomes a bit more real. It\u2019s harder to ignore. So what if I told you that you are currently throwing large bundles of cash down the garbage disposal on a regular basis? Step 2 \u2013 Waste not We\u2019re all guilty of wasting food. We buy food we don\u2019t use. We make too much food and throw away the leftovers. Some food we forget we ever had in the first place. Our next step on the path to pain-free savings is another simple change: we\u2019re going to save money by not wasting money. To begin, walk over to your pantry and take a peek. You may need a flashlight to see into the way, way back. What\u2019s in there? What self-stable foods have you forsaken? Now, let\u2019s look inside your freezer. What kind of rainy day supplies are buried beneath the frost? How about your refrigerator \u2013 what\u2019s in there? You may need to pull a few things out to see what\u2019s in the back, but do it. It\u2019s worth your time. (You may also consider cleaning out your refrigerator while you\u2019re down there, but let\u2019s not fly too close to the sun here.) The key here is to be mindful of what you already own. The things you already have on hand should be first and foremost in your mind whenever you\u2019re: Planning meals About to go grocery shopping Thinking about going out to eat How do you integrate this change into your daily life? Well, everyone is different, so what works for one person may not work for another. If you\u2019re the meticulous sort, you could try creating a food inventory. Keep a log somewhere \u2013 on your phone, computer, or a piece of paper \u2013 of everything you have available. If you want to take this to the next level, you can even include expiration dates to help with your planning and prioritizing. That\u2019s a lot of work, though, so a good alternative is to simply take a picture of your pantry, refrigerator, and freezer once a week. Pantry Days Occasionally, you should plan on skipping the grocery store altogether and instead make meals 100 percent based on the food you already have. This is an especially good idea if you\u2019ve got a few irregular expenses on the horizon (like birthdays or holidays) and need to clear some extra space in your budget. You can use a website like My Fridge Food to come up with meal ideas based on what you already have. What does this all mean in numbers? Let\u2019s say you\u2019re better than the average and only waste 20 percent of the food you buy. And let\u2019s not try to be a hero and claim that you can cut all food waste. But what if you cut your food waste in half? If you could save $100 a month just by paying a little bit more attention to what you already have, why wouldn\u2019t you? Just like anything else, waste is the result a habit. Thinking you need more food than you actually do and throwing away the leftovers is a habit. Buying food on sale and stashing it in the refrigerator until it expires is a habit. Habits develop through repetition and positive feedback, which is also how habits are undone and eventually re-written. If you\u2019re wary about the prospect of breaking your food waste habit, just remember that you trained yourself to behave that way. You are just as capable of training yourself to behave differently. Take your time. Be patient with yourself. Celebrate the little wins and remember the big picture. Throwing away a half a carton of milk because it expired isn\u2019t the end of the world, but the more you can do to avoid that kind of waste, the closer you get to your big picture goals. Now let\u2019s talk a bit more about what you\u2019ll be eating. Namely, a lot of the same stuff you\u2019ve already been eating \u2013 with a slight twist. Step 3 \u2013 Grocery Game Theory The best grocery gamers can do two things very well: they can plan meals and they can execute those plans. If your grocery spending is little unbalanced, there\u2019s a good chance you struggle with one of those two complementary skills. So here\u2019s a plan that solves problems on both sides of the equation (Note: I realize that\u2019s not how math works). Bulk Meals Here\u2019s the concept: Here\u2019s the beauty: Fewer meals to plan Fewer meals to cook Less time cooking Save money buying large portions What do you need? Storage containers (such as Tupperware or plastic, zip-lock bags) A microwave for reheating And that\u2019s about it. Most meals keep well in the refrigerator for up to three days. Meal preppers tend to do their cooking on Sundays, when they have a little more spare time. You can make one extra-large meal or a pair of medium-sized meals, if you prefer a little variety. Freezing meals gives you the flexibility to make even larger amounts and rotate meals from day to day. Be careful, though \u2013 frozen meals don\u2019t last forever. You can use the meals you already love \u2013 just make double or triple-size portions. If you need a little inspiration, you can join an online community, like the MealPrepSunday subreddit on Reddit, or take a look at all the awesome meal prep ideas on Pinterest . Will you get sick of eating the same thing three days in a row? Possibly. That\u2019s why it\u2019s important to pick meals you already enjoy and eat regularly. More importantly, however, you should remind yourself of just how much money you\u2019re saving through the simple act of eating the same meal a few times in a row. If the average meal at home costs $3-$4, bulk meal prep can shave an additional 25-50 percent off of your per-meal costs. When you add in all the time you save, it\u2019s pretty easy to get past the occasional bout of meal fatigue. If everything\u2019s gone to plan so far, you are still you. You haven\u2019t given up any of the things you like or behaviors that you enjoy. You are simply a leaner, meaner (in all the best ways) version of who you already were. But is that enough? You may want to pause this guide for a bit here. Live with the first three steps for a few months and see if you\u2019ve trimmed enough fat from your budget. If you have and you\u2019re satisfied, good! If you haven\u2019t and you\u2019re unsatisfied, so am I! If you haven\u2019t, but you\u2019re satisfied anyway, that\u2019s worrying. And if you have, but you\u2019re not satisfied, even better. Because here comes the final step. Prepare to be mildly inconvenienced. Step 4 \u2013Cutting the cost of convenience We are constantly paying for convenience. That\u2019s not necessarily a bad thing. If you think about it, the simple act of buying groceries represents a cost of convenience \u2013 someone else harvested those crops and put everything in a package and drove it to your local food store. But we do spend a lot on conveniences that don\u2019t necessarily justify their costs, especially when it comes to our groceries. Now what convenience is worth the money and what convenience isn\u2019t? That\u2019s a factor of your available time, your skills, and your comfort level with certain tasks. You can save an enormous amount of money by always buying whole chickens instead of separated breasts or thighs, for example, but that can take a lot of work. If you\u2019ve got the time and the knife skills, that may be a good way to save some cash. If the thought of carving a raw chicken makes you squeamish, then that\u2019s not the best path for you. Your best bet may be to consider what you already buy and see what sort of \u201cinconvenience\u201d has the highest rate of return in your area. Try swapping out one \u201cconvenience\u201d purchase at a time. Individually, none of them will represent an enormous swing in your financial favor. But over time, these changes will add up. Best of all, you\u2019ll still be buying the foods you\u2019ve always bought \u2013 just a slightly less convenient version of those foods. And once you\u2019ve developed a taste for doing it yourself, all those pre-made foods will seem less and less convenient, and more like a waste of your precious money! There you have it \u2013 a pain-free method for reducing your grocery bill. There\u2019s a lot you can accomplish without breaking a sweat. All you need to do is make a few slight alterations to your usual routine and never forget why you started to read this guide in the first place: because you have plans. If you made it all the way to the end, it\u2019s not because you spend too much on groceries. Not really. It\u2019s because there\u2019s something you want \u2013 something much bigger than your weekly grocery bill. Never forget that Big Something, especially when the going gets tough and that steak burrito is calling your name. You have plans. Good luck!",
+      "headings": []
+    },
+    {
+      "rank": 5,
+      "domain": "td.com",
+      "url": "https://www.td.com/us/en/personal-banking/7-ways-to-save-money-on-groceries-and-eat-healthy",
+      "title": "7 Ways to Save Money On Groceries & Eat Healthy - TD Bank",
+      "word_count": 1185,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.td.com/content/dam/tdcom/shared/social-media-thumbnail.png",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.td.com/us/en/personal-banking/7-ways-to-save-money-on-groceries-and-eat-healthy/_jcr_content/root/container/responsivegrid/container_1320198752/container_copy_copy/textimagectagrid_con/0/custom_teaser.coreimg.svg/1769681681041/loans-and-lines-en.svg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.td.com/us/en/personal-banking/7-ways-to-save-money-on-groceries-and-eat-healthy/_jcr_content/root/container/responsivegrid/container_1320198752/container_copy_copy/textimagectagrid_con/1/custom_teaser_copy.coreimg.svg/1769681696341/loans-and-lines-en.svg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.td.com/us/en/personal-banking/7-ways-to-save-money-on-groceries-and-eat-healthy/_jcr_content/root/container/responsivegrid/container_1320198752/container_copy_copy/textimagectagrid_con/2/custom_teaser_copy_c.coreimg.svg/1769681711325/business-solutions-card-en.svg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.td.com/us/en/personal-banking/7-ways-to-save-money-on-groceries-and-eat-healthy/_jcr_content/root/container/responsivegrid/container_1320198752/container_copy_copy/textimagectagrid_con/3/custom_teaser_copy_c.coreimg.svg/1769681730016/get-ready-to-open-en.svg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "On a perfect grocery shopping trip, you have the entire store to yourself, your favorite organic and healthy foods are on sale and the music playing overhead is forgettable enough that it won\u2019t be stuck in your head for the next 24 hours. Of course, this perfect grocery trip rarely happens. But with just a few simple actions, scoring savings on almost every food shopping trip can become a guarantee. Try these tips to see a difference in your grocery bill\u2014all while eating healthy and getting your favorite foods, too. 1. Go into the grocery store with a plan Two words: meal prep. Plan your meals for the week ahead so that you\u2019re not buying food you won't use or scrambling by Wednesday and running back to the store. You\u2019ll be less likely to dine out in a pinch\u2014eating at a restaurant or getting takeout is much more expensive than cooking at home. Creating an overall vision for your week goes beyond prepping meals. It requires intuitive eating and thinking about the week as a whole\u2014right down to even buying the creme-filled chocolate cookies you know you want. After all, eating healthy is all about balance. To make a meal prep plan, ask yourself the following: What sounds good? What can I reasonably make (time, cookware, skill level, etc.)? Is my meal plan healthy with a good balance of protein, fruits and veggies? Can my meal plan help me stick with my budget? Can I substitute any ingredients to save money? That last question is almost a bonus way to save on groceries. Often recipes will call for ingredients that you truly don\u2019t need. For example, if a recipe calls for a teaspoon of white pepper, use the black pepper that\u2019s on your counter instead. Substituting meat with a different source of protein (think tofu or chickpeas) is also a great money saver. 2. Always round grocery prices up When looking at prices, don\u2019t let the \u201c99 cents\u201d fool you. It sounds so simple, but it\u2019s a marketing trick that has gotten all of us at some point or another. If the pack of strawberries is $4.99, count it as $5.00 when keeping a mental tab of what your bill might look like. On top of rounding, it\u2019s also good to understand unit pricing when reading labels. Those crisp-looking green grapes might seem on sale for $3.99, but a closer look might show that they actually cost $3.99 per pound. Always check if prices are per pound or per each item before putting something in your cart. 3. Shop the sales (and get the extras) Grocery stores are really good at labeling what\u2019s on sale. It\u2019s easy to do a quick scan and see what\u2019s cheap (and what\u2019s not). You might be drawn to that $4.99 pack of strawberries, but getting another type of fruit that\u2019s on sale (or even just cheaper) is a solid and affordable alternative. Similarly, if you see something on sale that you\u2019re running low on or that you know you\u2019ll use in the future, it\u2019s a good idea to take advantage of the deals. But doing this every time there\u2019s a sale is more bucks than bang, so practice this within reason. Also, even if it's on sale, make sure you're not stocking up on food you won't use or will expire. 4. When it comes to pre-prepped food, DIY when you can Chopping up broccoli or cauliflower and watching the tiny granules get stuck in weird places is as much a pain as it is bizarre. But if you can stand discovering a small floret in your shoe two days later, it\u2019s worth it. Doing your own prep work (like peeling carrots or cutting up fruit) usually costs less than buying it already prepped. But, of course, time is also important. If doing more prep work leaves you feeling stressed, it might be worth it to spend the extra money. 5. Shop at warehouse stores when it makes sense Sometimes, you just need to go to a store where the bulk toilet paper is found right next to 30-lb bags of dog food and a bunch of computers for sale. Taking a separate trip every now and then to stores that sell in bulk can save you money on essentials like TP, paper towels, canned goods, vitamins and more. Remember, only get what you'll use and stick to what's on your list. 6. Don't Waste\u2014only get the food you know you\u2019ll eat We\u2019ve all done the thing where we\u2019ve guiltily tossed a bag of carrot sticks in our cart because it had been days since our bodies last came into contact with a vegetable. No shame. But if you\u2019re not actually going to eat the carrots, they\u2019re going to go to waste, and you\u2019ll end up losing money. American households lose countless dollars each year to wasted food. While eating a well-balanced diet is important, wasting food is like throwing money down the drain. When you plan ahead and meal prep, you can incorporate healthy foods into your diet that you know will actually go to use\u2014not to mention, you\u2019ll save on daily expenses in the process. 7. Use a couponing app No need to bust out the scissors and the Sunday paper\u2014there\u2019s a couponing app for that. Many chain grocery stores have apps where you can track rewards points and access extra savings. Otherwise, run a quick online search for coupons and find tons of sites and resources at your disposal. It doesn\u2019t take a ton of work to save money on groceries. You can get healthy foods, your favorite foods and even organic foods without breaking the bank. Going to the grocery store might still be stressful at times, but with these money saving tips, at least you\u2019ll get to walk away triumphant. Best of all, you won\u2019t even have to rely on $0.99 cups of petrified noodles to do so. Keep learning with us No matter where you are in life, there\u2019s always more to learn about managing your money Start building better credit now\u2014you\u2019ll thank yourself later How to choose the right credit card for you Say goodbye to debt: Maximize your money, minimize your stress Protecting your personal credit report and score Take your next step with us Let's talk money Get tips on budgeting, saving, borrowing and more Let's talk money-Learn more Small Business Resource Center Resources, tools and support for every stage of your business Small Business Resource Center-Learn more Finance 101 Get tips on budgeting, saving, borrowing and more. TD Checking Accounts-Learn more TD Savings Accounts Whether you're saving for a rainy day or with a goal in mind, start today. TD Savings Accounts-Learn more Important Disclosures This article is based on information available in February 2022. It is for general informational purposes only. It is not intended to provide specific financial, investment, tax, legal, accounting, or other advice and should not be acted or relied upon without the advice of a professional advisor. A professional advisor will recommend action based on your personal circumstances and the most recent information available.",
+      "headings": []
+    },
+    {
+      "rank": 6,
+      "domain": "tiaclara.com",
+      "url": "https://tiaclara.com/saving-money-on-food/",
+      "title": "Saving Money on Food - 5 Easy-to-Follow Ideas - Tia Clara",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://tiaclara.com/wp-content/uploads/2021/04/recipe-homemade-tomato-sauceClaraGon0652.jpg",
+        "alt": "Inexpensive dinner.",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://tiaclara.com/wp-content/uploads/2023/01/TiaClara-Pin-saving-money-on-food-683x1024.jpg",
+          "alt": "Saving money with food: 5 easy to follow ideas",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://tiaclara.com/wp-content/uploads/2022/12/how-to-turkey-chops-5.jpg",
+          "alt": "Turkey chops.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://tiaclara.com/wp-content/uploads/2022/04/butterflying-chicken-754753630.jpg",
+          "alt": "Cutting a whole chicken.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://tiaclara.com/wp-content/uploads/2023/01/ingredients-gluten-free-tabouleh-ClaraGon0873.jpg",
+          "alt": "Ingredients.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://tiaclara.com/wp-content/uploads/2022/11/meatballs-mozzarella-thumb14.jpg",
+          "alt": "Boiling pasta.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://tiaclara.com/wp-content/uploads/2022/12/rice-ClaraGon3965.jpg",
+          "alt": "Rice.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://tiaclara.com/wp-content/uploads/2022/11/creamy-pesto-sauce-blending.jpg",
+          "alt": "Making pasta sauce at home.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://tiaclara.com/wp-content/uploads/2023/01/vegetable-broth-ClaraGon2005.jpg",
+          "alt": "Homemade vegetable broth.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://tiaclara.com/wp-content/uploads/2022/07/day-old-bread-breakfast-casserole-recipe-CG1_8325.jpg",
+          "alt": "Day-old bread breakfast casserole.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://tiaclara.com/wp-content/uploads/2022/09/broccoli-potato-cheese-soup-1.jpg",
+          "alt": "Cooking vegetables.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://tiaclara.com/wp-content/uploads/2013/11/pressure-cooker-beef-stew-red-wine-DSC3830.jpg",
+          "alt": "Bowl of instant pot beef stew.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://tiaclara.com/wp-content/uploads/2023/01/how-to-make-potato-zucchini-bake-2.jpg",
+          "alt": "Cooking at home.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://tiaclara.com/wp-content/uploads/2023/05/shrimp-DSC6538-300x300.jpg",
+          "alt": "Shrimp",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://tiaclara.com/wp-content/uploads/2025/12/vegan-picadillo-textured-soy-GLZ1951-300x300.jpg",
+          "alt": "Picadillo.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://tiaclara.com/wp-content/uploads/2023/05/cooking-minced-meat-300x300.jpg",
+          "alt": "Cooking ground beef.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://tiaclara.com/wp-content/uploads/2025/09/finger-foods-recipes-DSC3492-3-300x300.jpg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 7,
+      "domain": "livingwellspendingless.com",
+      "url": "https://www.livingwellspendingless.com/how-to-save-on-food/",
+      "title": "How to Cut Your Grocery Bill in Half | Save Money on Food",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.livingwellspendingless.com/wp-content/uploads/2012/11/Cut-Grocery-Bill-in-Half-HORIZONTAL3.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.livingwellspendingless.com/wp-content/uploads/2012/11/Cut-Grocery-Bill-in-Half-SQUARE2-1280x640.jpg",
+          "alt": "How to Cut Your Grocery Bill in Half",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.livingwellspendingless.com/wp-content/uploads/2019/11/5.png",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.livingwellspendingless.com/wp-content/uploads/2012/11/Cut-Grocery-Bill-in-Half-SHORT-VERTICAL-150x150.jpg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.livingwellspendingless.com/wp-content/uploads/2012/11/WINK-Coupon-Shopping-02-e1440530483681-1024x703.jpg",
+          "alt": "Filming for the WINK news segment on how to save money at the grocery store.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.livingwellspendingless.com/wp-content/uploads/2012/11/WINK-Coupon-Shopping-01-e1440530572825-1024x667.jpg",
+          "alt": "Filming our WINK segment on how to save while you shop for groceries.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.livingwellspendingless.com/wp-content/uploads/2019/11/EOE-final-sale-bundle-650x423.png",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.livingwellspendingless.com/wp-content/uploads/2012/11/Cut-Grocery-Bill-in-Half-SHORT-VERTICAL-e1548383406479.jpg",
+          "alt": "Want to know the secrets to saving more money on food? (Spoiler--It's not always using coupons!) We'll share how to cut your grocery bill in half.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.livingwellspendingless.com/wp-content/uploads/2019/08/ruth-headshot-01.jpg",
+          "alt": "Ruth Soukup",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.livingwellspendingless.com/wp-content/uploads/2020/05/living-well-starter-guide-150.png",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 8,
+      "domain": "treehugger.com",
+      "url": "https://www.treehugger.com/one-family-strategies-saving-money-food-5111919",
+      "title": "One Family's Strategies for Saving Money on Food - Treehugger",
+      "word_count": 0,
+      "scrape_status": "failed",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 9,
+      "domain": "goingzerowaste.com",
+      "url": "https://www.goingzerowaste.com/blog/15-simple-ways-to-save-money-on-real-food/",
+      "title": "15 Simple Ways to Save Money on Real Food - Going Zero Waste",
+      "word_count": 1558,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.goingzerowaste.com/wp-content/uploads/2020/04/img_5e756ad2df436.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://goingzerowaste.com/wp-content/uploads/2020/04/img_5e756ad2df436.jpg",
+          "alt": "15 Simple Ways to Save Money on Real Food",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "http://goingzerowaste.com/wp-content/uploads/2020/03/img_5e756ad3d6360.jpg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "http://goingzerowaste.com/wp-content/uploads/2020/03/img_5e756ada78089.jpg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "http://goingzerowaste.com/wp-content/uploads/2020/03/img_5e756ae0b7d35.jpg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "http://goingzerowaste.com/wp-content/uploads/2020/03/img_5e756ae9c2575.jpg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "http://goingzerowaste.com/wp-content/uploads/2020/03/img_5e756af309bd7.png",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "http://goingzerowaste.com/wp-content/uploads/2020/03/img_5e756af3553c9.jpg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.goingzerowaste.com/wp-content/uploads/2020/04/img_5e7562f8b7f10-240x360.jpg",
+          "alt": "7 tips for avoiding food waste",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.goingzerowaste.com/wp-content/uploads/2020/05/foodwaste3-240x360.jpg",
+          "alt": "10 Easy ways to reduce food waste and save money",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.goingzerowaste.com/wp-content/uploads/2020/04/img_5e7553cbe0d7b-scaled-240x360.jpg",
+          "alt": "8 Ways to Store Food Without Plastic",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.goingzerowaste.com/wp-content/uploads/2020/04/IMG_8472-240x359.jpg",
+          "alt": "A song about food waste",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/?s=56&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/5816993d57871b3093fc53819db385179af76328d8cda57d614d0fc752764527?s=56&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/080f0e6064fce6c49107354995e69671ce70a882d682ae1541a9b6a403ff6e07?s=56&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/016e8b4db58235630692dba652183c8d9f8e644aef874b84c888c577e965bda2?s=56&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/9e2cd526415074d94cd78821aa30e1327a5e3330a3cc2b8e555eedb6e24dc17c?s=56&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/250c39ed163019244934f3584ecd3471074a2ea493f66c04fa107268e41ee7ad?s=56&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "Last Updated on January 23, 2024 \u201cHow do you only spend $250 a month on organic groceries for two people?\u201d I\u2019ve been on a tight budget most of my adult life. Actors are not known for making lots of money. Hence, the starving artist title. Food is really important to me. I view food as medicine. It\u2019s so important to eat right. I\u2019m sure you\u2019ve heard the saying, \u201cIf you think being healthy is expensive try being sick.\u201d I try my best to eat really well on a tight budget, and I\u2019ve shared my best money saving tips below. Being zero waste has saved me SO much money on groceries. Table of Contents 1. shop local: I get the best deals on produce at the farmers market . The food is super local. When food is flown in from far away, you\u2019re paying for it\u2019s travel miles. By shopping local, you\u2019re eliminating those travel miles which helps both the planet and your wallet. At the farmers market, there\u2019s very little overhead involved. This makes the produce even cheaper. I have seen produce from the same farm with 100% markup at the conventional grocery store. If you don\u2019t have a farmers market, look for a CSA or other local produce delivery service. 2. in season: This goes hand in hand with local. It\u2019s difficult to grow tomatoes and strawberries in January. These items are flown in so you can have them year round. They don\u2019t taste nearly as good and are very expensive. In July tomatoes and strawberries are plentiful. It\u2019s much cheaper to buy them; because there\u2019s a surplus! Try to eat with the seasons. It\u2019s cheaper, tastes better, and involves a smaller carbon footprint. 3. in bulk: Did you know 15% of food cost is packaging? You\u2019re paying 15% for something you\u2019re going to throw away. Why not eliminate that cost? (this doesn\u2019t hold true for every item, but we\u2019ll get to that later) 1lb of beans in a plastic bag costs $1, but the same beans from the bulk bins cost $0.65 cents a pound. Think of all that savings! That\u2019s practically two pounds for the price of one. Sometimes it\u2019s more expensive to buy from the bulk bins depending on the item. Always weigh your options. If you don\u2019t have access to bulk bins , purchase how a bulk store would. Look at buying at 25lb bag if it\u2019s something you eat often and have a place to store. 4. get to know people: It\u2019s amazing the discount you get when you get to know your farmer or butcher or cheesemonger or fishmonger or whomever you\u2019re buying food from. First of all, they can save you money by recommending cuts or letting you know what\u2019s going sale. They can suggest cooking methods or even meals. I always try and go to the farmers market every Saturday. I also go roughly around the same time. I\u2019ve built a rapport with my favorite stalls. The know me; I know them. They identify a loyal customer and often times throw in a freebie. If I spend over $10 I tend to get some sort of free leafy veggie. 5. byob: Most mom and pops love it when you bring your own bags. It saves them money. They could cut out a huge cost if everyone brought their own containers. I\u2019ve gotten discounts on vegetables, baked goods, and even coffee just because people really think it\u2019s a neat concept. And, beyond people just liking it, lots of companies offer discounts for bringing your own. My local coffee shop , starbucks, whole foods, my co-op, even the discount food store in town gives a 5 cent discount per container. So, bring your own produce bags and grocery bags! Check out my ultimate guide to zero waste shopping to get the full scoop on how to tare your container. 6. reduce meat and dairy: Meat and dairy are going to be the most expensive things in your cart. Especially because you should be buying this pasture raised and organic. It is not worth the environmental or health impacts of eating cheap, unsustainable meat. Americans are eating 3/4lbs of meat a day, and it is way too much. We don\u2019t need that much protein. I would never tell someone to completely take something out of their diet, but we can all cut back. Cut your meat in half by using more beans and legumes. By focusing on cheap filling alternatives like nuts, beans, and gluten-free grains like quinoa, you\u2019ll have a very filling meal without breaking the bank. Don\u2019t make meat the star of the plate. Use it as a side or a garnish, and learn to make some tasty vegetarian dishes like cauliflower wraps or jackfruit tacos or red pepper soup . 7. avoid prepared food: While most bulk items like rice, beans, spices, and sugar are cheaper from the bulk bin per pound, prepared food isn\u2019t. You\u2019re going to pay a premium for cookies, candy, side dishes, and salad bar offerings. Sometimes the salad bar can be a good deal, so don\u2019t look that over. Try and focus on simple meals using fresh whole ingredients. Snacks can easily be fresh fruit or carrot sticks. There\u2019s no need to load up on pre-made snack mixes. To keep things simple, I like to make one large breakfast for the week and one sweet treat. I\u2019ll bake a dozen cookies and batch freeze smoothies or banana muffins . This prevents me from spending too much on cookies from the bakery and jamba. Beyond being budget busting items, they tend to have suspicious ingredients. How much sugar is in what you\u2019re eating? Making it at home means I can control the ingredients. 8. shop your kitchen first: The most expensive food is the food you don\u2019t eat. Make sure that you\u2019re going into your shopping experience with a plan to eat what\u2019s left over from last week first. Americans waste 50% of their food. That is a huge number! Embrace simple meals made with fresh ingredients. Any recipe that takes a long time to make (that isn\u2019t your favorite thing in the world to eat) is unsustainable. Personal sustainability is huge . Make sure your meals are accessible. 9. store food properly: Get the full potential out of your food. You can read more about how to properly store your food in this post . 10. eat right: Did you know that when people go on a \u201cdiet\u201d their grocery bill tends to go down? That\u2019s because vegetables are cheap. Meanwhile, chips and soda are really expensive. A box of oreos, two bags of lays, and two liters of soda is around $15. For fifteen dollars I can make an entire weeks worth of lunches\u2026 for two people! 11. shop independent: Look at all of this beautiful, plastic free produce. Instead of heading to your super grocery store, check out an Asian of Mexican market. These cultures tend to eat a lot more produce, so produce is typically cheaper and there\u2019s more selection. It also tends to be easier to shop in bulk. In both of my Asian and Mexican markets I can buy a lot zero waste. I can even buy tortillas and tortilla chips in my own bag! The Asian market has tofu and seafood available at the counter. I have found my Mexican Market to have even better prices than the farmers market. So, always be open to trying alternatives. 12. dirty dozen: I understand that buying organic can be expensive. Make sure to ask farmers, a lot of times they grow organic, but can\u2019t afford the certification. Or maybe they\u2019re certified sustainable, but not organic. photo cred: organics.com Get to know your people and ask questions! If you can\u2019t always buy organic avoid the dirty dozen and buy the clean fifteen. 13. use it up: Use EVERYTHING. If you\u2019re struggling with the grocery bill, ask your self if there\u2019s anything else you can do before you put it in the composter. Carrot peels? Veggie stock . Squash seeds? Salad topping. Broccoli stalk? Stir fry. Carrot tops? Pesto. There are so many things you can do with your food. Think outside of the box and save! 14. make a plan: Meal planning can be so hard! I completely understand. Check out my ultimate guide to meal planning for a fresh take on the whole thing. 15. buy ready-to-eat: At most of my stores, they offer produce that is very ripe at a bargain. It\u2019s produce you need to eat today or tomorrow. The produce needs to be moved ASAP, so they\u2019re willing to offer it 30-50% off. 2lbs of peaches for .50 cents in the height of summer, that are ready for a cobbler. A dollar for four lonely brown bananas ready to be made into muffins . Always keep your eyes out for some ready-to-eat produce. With applying all of my tips, our grocery budget is around $200-$250 a month. Our budget has been breaking down like this recently. $50 on Pasture Raised, Organic Meat $50 on Pasture Raised, Organic Dairy and Eggs $80 on Mostly Organic Fresh Fruits and Vegetables $25 on Organic Bread $45 on Mostly Organic Dry Goods Do you have any tips for keeping a budget in check? What does your monthly grocery budget look like?",
+      "headings": []
+    },
+    {
+      "rank": 10,
+      "domain": "brightbridge.com",
+      "url": "https://www.brightbridge.com/tools/new-blog/10-simple-strategies-for-saving-money-on-food",
+      "title": "10 Simple Strategies for Saving Money on Food",
+      "word_count": 499,
+      "scrape_status": "success",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": "Food is a necessary cost \u2013 you can\u2019t avoid feeding yourself and your family! Here are our Top 10 ways to cut some of the cost and put some of the money back into your pocket every week: Plan your meals. It\u2019s sad when your groceries spoil before you have time to eat them! Try to only buy what you plan to eat/cook in the next few days. Throwing away food is like tossing money in the trash! Buy in bulk. Sometimes you can find a fantastic deal on something you eat often, like hamburger or chicken. You can purchase the item now, divide it up into meal-size portions, and freeze it in freezer-safe plastic bags or containers. Freeze some leftovers. Some cooked food items freeze very well. For instance, mashed potatoes, cooked meat, lasagne, and many soups freeze & reheat well. If you end up with a lot of leftovers after a meal, determine what you\u2019ll eat in the next few days and freeze the rest before it goes bad. Use Coupons. You don\u2019t need to become an extreme couponer to save money with coupons. Take a few minutes to glance at the coupons you get with your grocery & drug store receipts and keep the ones for items you normally purchase. Check the coupons in your wallet before hitting the checkout & you\u2019ll save a bit here and there! Enroll in discount programs. Almost every store offers rewards or special discount programs. You can save money on gas, groceries, and items at the drug store! Make your own coffee. Gourmet coffee at the drive-through might be tempting, but you\u2019ll have more GREEN in your wallet if you take a few minutes to brew your own coffee at home & pop it into a travel mug. Depending on where you get your coffee, you can save well over $1,000 per year just by brewing your own. Bring your lunch. Sometimes lunch-time meetings can\u2019t be avoided, but on many days you can save money by simply packing your own lunch. Prepare more meals. Takeout food and restaurant meals are a nice treat, but can be costly when they become the \u201cnorm.\u201d You may be spending upwards of $50 each week on what would cost you $10 in ingredients to make! When you cook your own meals at home, you also control the ingredients & nutritional value; a \u201cwin-win\u201d for your family! Grow your own veggies. You don\u2019t need a giant yard to grow your own vegetables. Try a simple container garden on your deck or in your back yard and experiment with growing some of the veggies you normally enjoy eating! Tomatoes & peppers are easy crops for beginners. Learn more about container veggie gardening here ! Use apps to get cash/gift cards back. There are several free apps, like Ibotta, that can get you cash/gift cards back after your purchases! Here is an article about 6 such apps . Open a Savings Account Category: Budgeting & Debt Reduction",
+      "headings": []
+    },
+    {
+      "rank": 11,
+      "domain": "savethestudent.org",
+      "url": "https://www.savethestudent.org/save-money/food-drink/ways-to-save-money-on-food.html",
+      "title": "54 ways to save money on food",
+      "word_count": 0,
+      "scrape_status": "failed",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 12,
+      "domain": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/how-to-save-money-on-groceries-ways-stretch-food-budget-214426031.html",
+      "title": "How to save money on groceries: 13 ways to stretch your ...",
+      "word_count": 1781,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://s.yimg.com/ny/api/res/1.2/owLmO7GZ9GAHSwY882pbAg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://d29szjachogqwa.cloudfront.net/images/2026-03/6d800336-38a6-4882-9dfd-15ef7423c342",
+        "alt": "",
+        "description": "Generic editorial stock photo depicting common financial concepts like piggy banks or people with devices.",
+        "type": "editorial_stock_photo"
+      },
+      "article_images": [
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/CG1fItRs06KVm5zJRlJavg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIzMjtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2020-12/e70e9a00-35a2-11eb-bdfd-3f73c982ffa9",
+          "alt": "Yahoo Personal Finance",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://s.yimg.com/lo/mysterio/api/210884DFE9400559C830166606152336323EF695031957F47463FB6D9253A477/subgraphmysterio/resizefill_w194_h109;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-05%2Fe5b2e090-3bff-11f0-bff9-cc4c6bb3831a",
+          "alt": "10 clever ways to save money that really work",
+          "description": "Data visualization or financial chart graphic.",
+          "type": "graphic_design_data"
+        },
+        {
+          "url": "https://s.yimg.com/lo/mysterio/api/607EE86232954AFC7421CD9817D799DB022D8DBB815BBFC98706012F959F01B1/subgraphmysterio/resizefill_w194_h109;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-06%2Faa175970-2ce3-11ef-b7ee-91d3c92b1f41",
+          "alt": "How to save money in 2026: 54 tips to grow your wealth",
+          "description": "Data visualization or financial chart graphic.",
+          "type": "graphic_design_data"
+        },
+        {
+          "url": "https://s.yimg.com/lo/mysterio/api/B692386936A3FC50C92A52633C909A39CB70812980B620473BB15F94C4A8C749/subgraphmysterio/resizefill_w194_h109;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-01%2Ff0bf07c7-82c3-4d39-b561-973ddc3b5bc3",
+          "alt": "Best credit cards for groceries (April 2026)",
+          "description": "Data visualization or financial chart graphic.",
+          "type": "graphic_design_data"
+        },
+        {
+          "url": "https://s.yimg.com/lo/mysterio/api/DC5FB32FAB766EEB6E1FEE27D0B4489A057474D0E6B404611CE4C14993F1018B/subgraphmysterio/resizefill_w194_h109;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-04%2Fbfb616f0-74d1-11ea-bfa7-8583e73a9375",
+          "alt": "7 ways to save money on a tight budget",
+          "description": "Data visualization or financial chart graphic.",
+          "type": "graphic_design_data"
+        },
+        {
+          "url": "https://s.yimg.com/lo/mysterio/api/056E0D117AE540737B773BF607D3002E411C9249F9D367A45DBCDED4AC6DCA56/subgraphmysterio/resizefill_w194_h109;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-02%2Fe28f95c0-e9e8-11ef-ba6f-3e2b9a74d9fd",
+          "alt": "How to save money on a low income\u200b, according to Reddit",
+          "description": "Data visualization or financial chart graphic.",
+          "type": "graphic_design_data"
+        },
+        {
+          "url": "https://s.yimg.com/lo/mysterio/api/B25D187B4AA80686D69D78FC586052A00A5409D6B7EC695B71A70C23E2FD1370/subgraphmysterio/resizefill_w194_h109;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-10%2F07be8760-81b7-11ef-bffe-cce5e3da6e6b",
+          "alt": "I'm a personal finance writer, and these are my 11 best money-saving tips",
+          "description": "Data visualization or financial chart graphic.",
+          "type": "graphic_design_data"
+        }
+      ],
+      "body_text": "Some offers on this page are from advertisers who pay us, which may affect which products we write about, but not our recommendations. See our Advertiser Disclosure . For most people, grocery shopping is a fact of life. Unfortunately, so are rising food prices. According to data from the U.S. Bureau of Labor Statistics\u2019 Consumer Price Index, food costs 19.1% more in 2026 than it did four years ago. As costs rise, you may struggle to fill your cart without blowing up your budget . While buying groceries is a necessity, overpaying isn\u2019t. Here are 13 strategies to help you lower your food costs even when prices continue to climb. How to save money on groceries There are a variety of ways to cut grocery costs, and choosing any one can save you meaningful amounts of money. If you\u2019re feeling stuck, try one (or more) of the following strategies to save money at the grocery store. 1. Compare per-unit prices When you comparison shop, don\u2019t evaluate the sticker price alone. Make sure you consider the cost per unit to find out which product is actually the most affordable. This strategy is especially critical when companies use \u201c shrinkflation \u201d to sell smaller quantities at the same price. Most grocery stores list a unit price right below the item\u2019s total price. For instance, this might be displayed as price per ounce (e.g., $0.25/oz) or price per pound (e.g., $3.99/lb). If the unit price isn\u2019t listed, you can calculate it: Total price \u00f7 Quantity = Unit Price For example, say you\u2019re comparing pasta sauces: 16 oz jar for $4: $4 \u00f7 16 = $0.25/oz 24 oz jar for $5: $5 \u00f7 24 = $0.21/oz In this case, even though the second jar costs more, it\u2019s the better deal per ounce. Additionally, if you have multiple stores in your area, you can also compare prices across stores. There are plenty of apps on the market that can make comparison shopping easier, including Grocery Dealz, Basket, and Flipp. 2. Shop your pantry before making a grocery list The best place to make your grocery list isn\u2019t in the grocery store parking lot before heading into the store \u2014 it\u2019s in your kitchen. This allows you to open the pantry, fridge, and freezer to see what you already have, then create a shopping list around those items. Not only can shopping your pantry and fridge help minimize your shopping list and bill, but it can also help eliminate waste by using up food that\u2019s about to go bad. 3. Join a loyalty program If you primarily shop at a handful of grocery stores, it\u2019s often worth joining their loyalty programs. Popular stores such as Kroger, Safeway, and Target offer free loyalty programs to help you save money through personalized coupons, points, or rewards. You can often sign up with a phone number, which you enter at checkout to earn and claim rewards. Some programs also have mobile apps to let you manage your account and track rewards from your phone. 4. Use a rewards credit card Groceries can take up a major slice of your budget. However, strategically using a rewards credit card for grocery purchases can help offset some of those costs. The key is to use a card that offers generous rewards for grocery spending \u2014 and then pay off your bill each month. That means you still need to stick with your grocery budget and only charge what you know you can repay on time. Carrying a credit card balance will result in interest charges that wipe out any savings from rewards you\u2019ve earned. Keep in mind that some cards also reward grocery delivery. For example, the Chase Sapphire Preferred card earns 3x points on online grocery purchases. 5. Avoid prepackaged, precut, and prepared items when possible Those plastic packages of precut fruit or marinated meat are convenient, but that convenience comes at a cost. If your main goal is to save money at the grocery store, buy raw, whole ingredients and prep them at home. On the other hand, if you\u2019re short on time and the trade-off is prepared foods vs. takeout, you\u2019ll save more with prepared foods. 6. Opt for generic brands and discount stores Name brands might be familiar, but the recognition comes at a premium. According to Consumer Reports, buying store brand over name brand can save you around 25% on your grocery bill. Plus, you usually don\u2019t have to sacrifice taste or quality. Based on Consumer Reports\u2019 findings and surveys of their readers, generic store brands \u201cperform about as well as name brands.\u201d You may also be able to take your savings up a notch by shopping store brands at discount stores, such as Aldi, WinCo Foods, and Walmart. 7. for a rebate app Rebate apps such as Ibotta, Fetch Rewards, and Upside can offer cash rewards for shopping in store or online. While you\u2019re essentially earning money for shopping, using rebate apps may involve an extra step or two. For instance, when you use Ibotta, you have to first add offers to your list in the app. After shopping, you then need to upload your receipt to receive your rewards via direct deposit or gift card. 8. Buy nonperishables in bulk (and consider a wholesale club membership) Buying in bulk isn\u2019t just for big families. With the right strategy, you can take advantage of the cost savings of bulk shopping even with a small household. Focus bulk shopping on nonperishables and staples you use all the time, such as beans, canned tomatoes, olive oil, coffee, or peanut butter. If you have the freezer space, you might even take advantage of deals on meat, bread, and other freezer-friendly items. Wholesale clubs such as Costco or Sam\u2019s Club could save you money if you use this strategy, but you\u2019ll have to weigh the potential cost savings against the membership fee. And don\u2019t fall into the trap of buying in bulk only to let things go to waste. 9. Grow what you can If you have the space, time, and interest, tending a small garden can help you save money on fresh herbs and veggies. However, you\u2019ll have to consider the up-front cost of getting started. Be strategic about what you can grow that\u2019ll offer the most cost savings. For example, growing herbs can be relatively inexpensive and straightforward \u2014 and it\u2019ll lead to meaningful savings when a small bunch of herbs can cost several dollars at the grocery store. Also consider growing foods you can preserve or freeze easily so you can eat from your garden (and save money) year-round. 10. Cook essentials from scratch There\u2019s a reason processed and prepared foods are so popular: Cooking from scratch takes a lot of time. But if you can set aside a few hours on the weekend, cooking a few items yourself can lead to major savings at the store. Start by picking one or two simple foods you eat frequently, and try making them from scratch. Salad dressings, sandwich bread, pasta sauce, and granola are all relatively easy to make. The more comfortable you get with a recipe, the more it\u2019ll feel like second nature \u2014 and the more you\u2019ll appreciate both the cost savings and the taste. 11. Meal plan on busy weeks Meal planning requires some up-front work, but the payoff can be huge when it comes to both time and money. Spend a couple of hours on the weekend planning what you\u2019ll eat each day of the week. Then make your grocery list and head to the store. Even if you don\u2019t prep recipes ahead of time, simply knowing what you\u2019ll eat and having the ingredients on hand can be enough to prevent you from ordering takeout after a busy day. 12. Eat less meat Meat dishes may be simple and tasty, but if you want to save money on groceries, you might want to change your ways. Meat is expensive and getting pricier: The retail price of beef rose about 37% from 2019 to 2024. To keep your grocery budget under control, try using meat in lower quantities. For example, use meat as a flavoring, not the focus of a meal. You can also substitute plant-based proteins, like lentils, for half of the meat in a recipe. And don\u2019t overlook more affordable proteins that can anchor a meal, such as tofu, beans, or eggs. 13. Waste less Perhaps the most effective way to save money on groceries is to cut down on food waste. According to the USDA, 30% to 40% of the food supply ends up as waste. Put another way, if you can eliminate food waste in your home, you can save 30% to 40% on your grocery bill. Some simple ways to reduce waste include: Eating leftovers for lunch the next day Regularly surveying your fridge for soon-to-expire items Storing produce correctly to maximize freshness Freezing perishable foods to prolong their shelf life Using veggie scraps to make stock Bottom line There are endless ways to save money at the grocery store. Some strategies are quick and easy to implement; others require substantial time and effort. The key isn\u2019t to put all of these tips into practice \u2014 it\u2019s to find the approach that works best for your lifestyle and gives you the biggest bang for your buck. Read more: How to save money in 2026: 54 tips to grow your wealth 10 clever ways to save money that really work If you struggle to set aside extra cash, try these clever ways to save money. With these strategies, you can save money without straining your budget. How to save money in 2026: 54 tips to grow your wealth Saving money can be a challenge in today\u2019s economy. Here are some tips for how to save money on groceries, utilities, education, and more. Best credit cards for groceries (April 2026) Save money on your grocery trip with a rewards credit card. These are the top credit cards for groceries available right now. 7 ways to save money on a tight budget Finding ways to save money on a tight budget can be challenging, but these seven strategies can help you find extra savings to sock away. How to save money on a low income\u200b, according to Reddit Saving money on a low income is no easy feat. That's why we dug through Reddit to find tips from real users that actually work. I'm a personal finance writer, and these are my 11 best money-saving tips Looking for the best money-saving tips? As a personal finance writer, I\u2019ve learned several effective strategies over the years. Consider giving one or more of them a try.",
+      "headings": []
+    },
+    {
+      "rank": 13,
+      "domain": "youtube.com",
+      "url": "https://www.youtube.com/watch?v=ylyEOG2qnFk",
+      "title": "Easy Ways To Save Money On Food Right Now",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 14,
+      "domain": "buythiscookthat.com",
+      "url": "https://buythiscookthat.com/save-money-on-food/",
+      "title": "31 Ways to Save Money on Food",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://i2.wp.com/buythiscookthat.com/wp-content/uploads/2016/05/31-ways-to-save-600-900.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://i2.wp.com/buythiscookthat.com/wp-content/uploads/2022/04/1-683x1024.jpg",
+          "alt": "How to Save Money on Food",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i2.wp.com/buythiscookthat.com/wp-content/uploads/2016/02/brussels2.jpg",
+          "alt": "Food : Fresh Brussel sprouts",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i2.wp.com/buythiscookthat.com/wp-content/uploads/2016/05/Save-Money-on-Food-Infographic-Buy-This-Cook-That.jpg",
+          "alt": "Save Money on Food Infographic Buy This Cook That",
+          "description": "Data visualization or financial chart graphic.",
+          "type": "graphic_design_data"
+        },
+        {
+          "url": "https://i2.wp.com/buythiscookthat.com/wp-content/uploads/2016/06/Best-Gumbo-Recipe-2-of-7.jpg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i2.wp.com/buythiscookthat.com/wp-content/uploads/2016/05/amiejogrocerycollage.jpg",
+          "alt": "Take control of your grocery budget! We are sharing real tips that we use every day that work. 31 Ways to Save Money on Food from Buy This Cook That.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i2.wp.com/buythiscookthat.com/wp-content/uploads/2016/05/kitchenstaplesbanner.jpg",
+          "alt": "Building a Pantry of Kitchen Staples from Buy This Cook That",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i2.wp.com/buythiscookthat.com/wp-content/uploads/2017/01/steaknachos-1-of-14-1.jpg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://i2.wp.com/buythiscookthat.com/wp-content/uploads/2016/05/SeasonalProduceGuide-410x1024.jpg",
+          "alt": "Seasonal Produce Guide from Buy This Cook That. Save money, and shop produce when it is in season. buythiscookthat.com",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 15,
+      "domain": "nutrition.gov",
+      "url": "https://www.nutrition.gov/topics/food-security-and-access/nutrition-budget",
+      "title": "Nutrition on a Budget",
+      "word_count": 347,
+      "scrape_status": "success",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": "Find tips for eating healthy on a budget and saving money when food shopping. Healthy Eating on a Budget Making a plan before heading to the store can help you get organized, save money, and choose healthy options. USDA , Food and Nutrition Service , Center for Nutrition Policy and Promotion 6 Tips for Eating Healthy on a Budget Explore tips for staying within your grocery budget while following a diabetes meal plan. HHS , Centers for Disease Control and Prevention Overcoming Roadblocks to Healthy Eating Learn how to use discounts, coupons, bulk purchases, and other strategies to help you save money when food shopping. HHS , National Institutes of Health , National Institute on Aging Budget-Friendly Meal Planning Use this budget-friendly shopping list to eat healthy at home while saving money. U.S. Department of Veterans Affairs Thrifty Meal Plan Find healthy meal and snack ideas for a daily grocery budget of $5.63 per day. U.S. Department of Veterans Affairs Ways to Save Your Food Dollars Read about four ways to save money on food. Alabama Cooperative Extension System Spend Smart. Eat Smart. Discover tools, tips, and videos for planning, shopping, and cooking food while sticking to your budget. Topics include: Aisle by Aisle Grocery Budget Calculator Unit Pricing Iowa State University Extension and Outreach Eating Healthy on a Budget Eating healthy doesn\u2019t have to be expensive. Use these tips and worksheets to make healthy choices while staying within your budget. Purdue Unversity Extension Stretching Your Food Dollar Explore ways to manage healthy food expenses when money is tight. Also see advice for Holiday Food on a Budget . University of Minnesota Extension Unit Pricing Learn how to select food products that are better deals by using unit pricing. University of Minnesota Extension Low Cost Planner View a sample 7-day, budget-friendly meal plan and recipes for a 2,000 calorie diet. University of New Hampshire Cooperative Extension EatFresh.org Mini Course for this free, online nutrition course to learn how to eat healthy, save money, and cook easy and tasty meals. There are 15 self-paced lessons available. CalFresh SNAP-Ed",
+      "headings": []
+    },
+    {
+      "rank": 16,
+      "domain": "quora.com",
+      "url": "https://www.quora.com/How-do-I-save-money-on-food-I-m-a-24-year-old-single-mom-and-I-m-low-income-I-have-two-kids-I-can-t-afford-dining-out-and-groceries-I-m-struggling",
+      "title": "How to save money on food",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 17,
+      "domain": "canadianfoodfocus.org",
+      "url": "https://canadianfoodfocus.org/living/eat-well-and-save-money-too/",
+      "title": "Eat Well and Save Money Too!",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://canadianfoodfocus.org/wp-content/uploads/2019/08/eat-well-save-money.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://canadianfoodfocus.org/wp-content/uploads/2019/06/keep-things-chilled.jpg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://canadianfoodfocus.org/wp-content/uploads/2019/01/canadian_spotlight_lentils.jpg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://canadianfoodfocus.org/wp-content/uploads/2019/08/frozen-berries.jpg",
+          "alt": "frozen-berries",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://canadianfoodfocus.org/wp-content/uploads/2019/08/whole-wheat-bread.jpg",
+          "alt": "whole-wheat-bread",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://canadianfoodfocus.org/wp-content/uploads/2019/07/shannon-crocker.jpg",
+          "alt": "shannon-crocker",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://canadianfoodfocus.org/wp-content/uploads/2019/08/whole-grains-80x80.jpg",
+          "alt": "whole-grains-and-health",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://canadianfoodfocus.org/wp-content/uploads/2019/06/Raspberry-Cream-with-Berries-80x80.jpg",
+          "alt": "raspberry cream with berries",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 18,
+      "domain": "eatingwell.com",
+      "url": "https://www.eatingwell.com/best-grocery-budget-tips-11688884",
+      "title": "The 12 Best Ways to Save Money on Groceries",
+      "word_count": 2188,
+      "scrape_status": "tavily_fallback",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": "to content * Top Stories * The Underrated Bean You Should Be Eating Weekly * This 10-Second Habit Can Help Curb Stress-Eating * How to Pick the Best Matcha, According to Experts * 6 Myths About Cancer Oncologists Always Debunk # 12 Ways to Save Money on Groceries, According to a Food Writer Stop wasting and start saving with these simple tips. By Hilary Meyer Hilary Meyer Hilary Meyer is a recipe developer, tester, and content creator. After graduating from culinary school, she started working the *EatingWell* Test Kitchen in 2006, developing and testing recipes. EatingWell's Editorial Guidelines Updated on April 13, 2026 In This Article View All In This Article * Make a Plan * Write a List * Don't Shop Hungry * Double Up * Look for Deals * Keep a well-stocked pantry. * Love Leftovers * Shop Around * Create some meal-prep magic. * Join a CSA * Buy in Bulk * Avoid Prepped Meals :max_bytes(150000):strip_icc()/12-Secrets-to-Spending-Less-at-the-Grocery-Store-47fb30953f37417785cc98f2e25049a5.jpg) Credit: Getty Images. EatingWell design. * Plan meals ahead to reduce waste, save money and make the most of your ingredients. * Stick to a shopping list to avoid impulse buys and purchase only what you really need. * Use leftovers creatively or freeze them to increase shelf life and have ready meals on hand. About a third of all food in the United States ends up going uneaten\u2014and the average family of four ends up spending $1,500 each year on food that doesn\u2019t get eaten, according to the U.S. Environmental Protection Agency.1 And when grocery prices rise, it gets harder and harder to stomach the cost of wasting food. With egg prices going haywire and tariffs going into effect, it can be difficult to figure out where you can scrimp and save on the grocery bill. If you're a shopper in need of a helping hand, start with these 12 tips to start scaling back on your food spending at the grocery store. ## Make a game plan. The most important step you can take to cut down on waste is to come up with a solid plan. Investing time up front planning your meals assures that you use everything you buy-and will result in less time spent planning and shopping later in the week. Think about your week ahead and plan accordingly. Find a few easy recipes you want to make, or rely on trusty favorites you know you'll love. Leave one day open for leftovers and another for using up pantry staples (try these One-Pot Beans & Rice with Corn Salsa or these Eggs in Tomato Sauce with Chickpeas & Spinach). And to make sure things don't go bad in the fridge, plan on eating seafood or fresh meat toward the beginning of the week, and save meals with ingredients that have a longer shelf life (like pasta) for the end of the week. Give one of our easy dinner meal plans a try, so the planning is already done. 7-Day Budget Dinner Meal Plan ## Write a shopping list. Once you've got a plan, it's time to make a list. And once you have that list, stick to it. That's the best insurance that you won't spend extra money on ingredients you don't really need. You can get a head start by creating a list on your computer in a spreadsheet program that includes all the items you buy on a weekly basis, such as eggs, milk and bread. Then just print it out and add to it what you need. Not feeling techy? A simple handwritten list divided into store aisles will keep you organized and efficient. ## Don't shop hungry. We know you've heard this before, but we can't stress it enough-don't shop hungry! An empty stomach makes everything look appetizing, and if you want to save money and avoid waste you need to stick to your shopping list. So shop after a meal, or have a light snack before you head to the store. ## Double up dinners. It sure is handy when we can buy the exact amount of food we need to make the meal we've planned, but often that's not the case. We're often left with leftover ingredients that languish in the fridge or pantry and end up with a one-way ticket to the trash can. To help cut down on wasted food (and money!) consider doubling your recipe. You will likely have to buy more, but you will waste less. Leftovers make great lunches, and if what you're making can be frozen, you'll have a meal at the ready when you need it. What to Make with a Pound of Ground Turkey ## Look for deals. One approach to saving money and wasting less is to plan your meals based on what's on sale. Proteins like meat and fish tend to be the most expensive grocery items, so check the flyer from your grocery store to see what's on sale this week and plan from there. And while everyone loves a good sale, don't be swayed by great prices on items you don't need. If it's not on your list, you probably don't need it. But if you do go for anything, make it a shelf-stable item that won't go bad if you don't get to it this week. Oftentimes large chain grocery stores have optional rewards programs you can sign up for at the register that require a card or your phone number each time you shop. Yes, it's a pain to sign up for those things when you just want to pay for your groceries and go, but the savings are often targeted to items you shop for specifically and may be worth the effort. ## Keep a well-stocked pantry. A well-stocked pantry is essential to cost savings. Basics like olive oil, canned or dry beans, pasta and canned tuna can last for a while in good storage (usually a cool, dry pantry). Paired these with fresh or frozen ingredients and you've got yourself a healthy meal in no time. Always check to see what staples need replenishing and write them down on your shopping list as soon as you use something up. Guide to Stocking Your Pantry ## Make the most of leftovers. Making sure your leftovers get used up is a great way to save money and cut down on food costs. It can be as simple as reheating what you had the night before, or you can get creative and make an entirely new meal out of the one you had last night. Got leftover chicken? Make curried chicken salad. Leftover cooked steak and ground beef make a nice addition to salads, and even leftover pasta can be added to soup instead of to your trash can. If your leftovers are freezable, great! Freeze them. Just make sure they've cooled and are tightly wrapped when you put them into the freezer to prevent ice crystals from forming. Also, label and date them so you'll know what they are in case you forget. ## Shop around. Many of us are lucky enough to have more than one grocery store option within a reasonable distance of where we live. If this applies to you, then consider shopping at more than one store. If the produce section at your favorite grocer hasn't been stocked since the weekend, the fruits and veggies might look a little worse for wear. Instead of buying less-than-perfect produce (which has a shorter shelf life), consider taking a trip down the road to see if another grocer has better offerings. If one store is your only option, that's fine too. Keep in mind you may have to be flexible in your planning and substitute an ingredient with something else if what you're looking for is less than perfect. ## Create some meal-prep magic. Yes, we've already covered planning your meals, but you can take it to a whole new level by jumping onto the meal-prep bandwagon. Think of it as the convenience of takeout with the benefits of a healthy homemade meal. Yes, it's a little work up front, but you'll have grab-and-go meals at the ready for the entire week. And since you'll be cooking in batches, you'll save money by reducing waste, prepping your own food at home and avoiding spending for food at a restaurant or cafeteria. All you need to get started are some good meal-prep recipes that can hold up in storage, and some different sizes of containers (which you can find easily in the food-storage section of most supermarkets). 15 Cheap Vegetarian Meals That Are Ready in 30 Minutes ## Join a CSA. A well-stocked supermarket is a good place to shop for fresh produce, but if you have the option, joining a Community Supported Agriculture (CSA) is even better. CSAs cut out the middleman by supplying fresh produce directly to you straight from the farm. That means your produce hasn't traveled far or sat on a shelf, so it will stay fresh much longer. Most farmers can give you a good idea of what their offerings will be ahead of time so you can plan accordingly. If going it alone with a CSA share feels like too much, split it with a friend or neighbor. You'll be wasting less, eating better and supporting your local community. It's a win-win. ## Buy in bulk (but check the unit prices). The bulk section can be a great place to shop if you want to avoid wasting food and money. If you need a cup of oats, you can buy a cup of oats and not worry about what to do with the rest of a larger package. But if you want to be extra savvy, compare unit prices. Unit prices are not the actual price of the item, but how much the item costs per unit (usually ounces or pounds). Price per unit is almost always listed on the shelf next to the item price. Sometimes bulk items can be more expensive per pound than packaged, so in our oats example, since oats are easy to store, you may be better off buying the package if its unit price is cheaper than what you see in the bulk section. ## Avoid prepped meals. Buying prepackaged meals at the grocery store may seem like a good way to avoid wasting food, but they come with their own problems. Sure the actual food may not go to waste with these neatly organized portions, but the packaging itself goes straight to the trash. Not to mention, some packaged foods serve more than one person which means you have to figure out what do with leftovers or eat more than one serving if you're buying just for yourself. Your best bet is to prep your own convenience meals at home. 10 Cheap & Healthy Foods to Buy, According to a Dietitian Was this page helpful? Thanks for your feedback! Tell us why! Sources EatingWell is committed to using high-quality, reputable sources\u2014including peer-reviewed studies\u2014to support the facts in our articles. Read about our editorial policies and standards to learn more about how we fact check our content for accuracy. 1. United States Environmental Protection Agency. Preventing wasted food at home. Read More: * Healthy Eating * Budget Cooking Guide ## Related Articles The 10 Foods Most and Least Affected by Inflation The 6 Best Foods to Buy Generic, According to Our Editors I'm a Dietitian on a Budget & This Is How I Always Organize My Grocery List 12 Tricks to Slash Your Food Bill This Is the Cheapest Place to Buy Eggs Right Now How Rising Gas Prices May Affect Your Grocery Bill\u2014and How to Shop Smartly I Never Go To Costco, But I Make an Exception for This Item 5 Ways You Can Organize Your Pantry to Help Save You Money I'm a Dietitian on a Budget\u2014Here Is What I Eat in a Day I Planned a Week of Healthy Meals On a Student Budget\u2014Get My Plan & Tips How to Choose the Healthiest Canned Fruits and Vegetables, According to a Dietitian 5 Salads You Should Be Making, Not Buying The #1 Mistake You're Making When Buying Fruits & Vegetables The 8 Best Budget-Friendly Fruits & Vegetables to Buy in Summer, According to a Dietitian 6 Foods You Should Always Buy Frozen to Save Money, According to a Dietitian I'm a Dietitian & This Is My Favorite Budget-Friendly Thing to Buy at Costco Newsletter This website uses tracking technologies to enable our website functionalities, to enhance user experience or to analyze performance and traffic. We may also share or sell information about your use of our site with our social media, advertising, and analytics partners. This allows us to perform targeted advertising and to select ads and content that will be more relevant to you. Below you can Default Settings, Reject All trackers, or exercise your right to opt -in or -out of the sale of personal data, targeted advertising, profiling, and the processing of sensitive data by clicking on \u201cManage Your Privacy Choices.\u201d For more details on the data we process and how to exercise your rights, see our",
+      "headings": []
+    }
+  ],
+  "battle_plan_generated_at": "2026-04-26T10:45:49.279682+00:00",
+  "competitors_analyzed_count": 7,
+  "battle_plan_method": "local_deterministic_agent_no_api"
+}
