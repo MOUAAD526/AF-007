@@ -479,3 +479,94 @@ _Body text (44 chars) saved to JSON sidecar_
 
 
 ---
+
+
+---
+<!-- BATTLE_PLAN_BRIEF -->
+# Battle Plan Brief
+**Generated:** 2026-04-27T01:09:07.721281+00:00  
+**Keyword:** does an electric car save money
+
+## Validation — 4 Checks (PASS)
+- **Keyword match:** YES — Keyword tokens hit: 5/5; angle tokens: 4
+- **Psychology match:** YES — 29 pain/emotion tokens echoed; keyword hit: True
+- **Competitor evidence:** YES — 3/3 gaps tied to named competitors with body evidence
+- **Gap specificity:** YES — All 3 gaps are specific (named WHO + WHERE + concrete edge)
+
+## Brief
+```json
+{
+  "content_gaps": [
+    {
+      "name": "5-year EV total-cost-of-ownership spreadsheet template — never published with named line items",
+      "what_they_missed": "recharged.com (2,027 words) names total cost of ownership as 'the combined cost of purchase (or monthly payment), fuel, maintenance, insurance, incentives, and resale over time' but never builds the actual line-item spreadsheet the reader can copy. consumerreports.org (1,547 words) gives aggregate numbers ('average new EV sold for $55,300, which is about $6,500 more than the average new gas-powered vehicle') but does not produce a 60-month tracking template. energy.gov (512 words) is a tool-promotion page (Argonne National Laboratory calculator) — directs readers to enter ZIP code rather than handing them a spreadsheet. energysage.com (1,038 words) cites 'A 2018 study from the University of Michigan found that electric vehicles cost less than half as much to operate as gas-powered cars' without breaking the cost into the 14-15 line items the reader needs to track monthly. The reader\\'s JSONL pain — \\'Money disappearing without tracking or understanding\\' + JSONL repeated phrase \\'budgeting spreadsheet\\' / \\'tracking every dollar\\' — is solved only by a copy-paste template the reader can drop into Google Sheets or Excel today.",
+      "our_edge": "Add an H2: 'The 14-Line EV Total-Cost-of-Ownership Spreadsheet — Built To Track 60 Months and Compare Against Your Gas Car.' Build a 14-line template (column A = line item, column B = monthly EV value, column C = monthly equivalent gas-car value, column D = monthly delta, columns E-AB = months 1-24+ for tracking). Lines: (1) Purchase / loan principal — monthly. (2) Loan interest — monthly amortization. (3) Federal tax credit — N/A post-September 2025 (cite irs.gov/credits-deductions/credits-for-new-clean-vehicles-purchased-in-2023-or-after). (4) State EV credit — varies by state (cite afdc.energy.gov/laws/state for state-by-state list). (5) Sales tax — varies by state. (6) Registration — annual divided by 12; many states charge an EV-specific surcharge $50-$300/year (cite afdc.energy.gov/laws). (7) Insurance — typically 5-15% higher for EVs vs ICE per Insurance Information Institute (cite iii.org). (8) Electricity (home) — kWh consumed × residential rate (cite eia.gov/electricity/monthly Table 5.6.A). (9) Electricity (DC fast) — kWh consumed × public rate (cite electrifyamerica.com/pricing). (10) Gasoline saved — gallons × pump price (cite eia.gov/petroleum/gasdiesel/). (11) Routine maintenance — tire rotation, cabin air filter (~$150/year EV vs ~$600/year ICE per AAA Your Driving Costs cite aaa.com/your-driving-costs). (12) Major maintenance reserve — battery degradation contingency $50-$100/month (sinking fund). (13) Depreciation — recent EV depreciation rates have widened vs ICE; 5-year depreciation 50-60% per iSeeCars data (cite iseecars.com). (14) Resale at month 60 — projected from line 13 + battery health certificate (cite recurrentauto.com). Closing rule, JSONL-anchored on \\'tracking every dollar\\' / \\'budgeting spreadsheet\\': 'recharged.com\\'s TCO label without a template, energy.gov\\'s calculator without a tracker, and consumerreports.org\\'s aggregate numbers all skip the reader\\'s actual need: a copy-paste 14-line spreadsheet with monthly columns. Hand the reader the template; the JSONL helplessness converts into a tracked 60-month line.'"
+    },
+    {
+      "name": "Break-even month formula never derived — the single number the JSONL spreadsheet reader actually needs",
+      "what_they_missed": "consumerreports.org (1,547 words) writes \\'the cost of charging an EV is almost always hundreds of dollars less per year than the fuel costs for a similar gas-powered vehicle\\' without producing the break-even-month equation. recharged.com (2,027 words) advises \\'plan to keep the car at least 4-5 years\\' as a heuristic without showing how the 4-5 number is derived. energy.gov (512 words) cites \\'savings of up to $2,200 a year\\' from Argonne National Laboratory data without converting that into a payback-period formula against the upfront EV premium. energysage.com (1,038 words) gives the per-year fuel savings number without the upfront-premium-divided-by-monthly-savings calculation. The reader\\'s JSONL emotional state \\'Feeling helpless and out of control with money\\' + \\'Fear/Anxiety about financial self-awareness\\' is the failure mode of articles that hand over yearly totals without the break-even arithmetic the reader needs to see if the EV pays back before they typically trade in.",
+      "our_edge": "Add an H2: 'The EV Break-Even Month Formula — Where Your Spreadsheet Should Stop Being Red and Start Being Green.' 4-paragraph derivation. (1) Inputs: EV upfront premium = (EV price - comparable gas car price) - (state credits, since federal §30D credit terminated September 30, 2025 per irs.gov). Monthly savings = (gas-car monthly fuel cost + gas-car monthly maintenance) - (EV monthly fuel cost + EV monthly maintenance + EV insurance premium + battery sinking fund). (2) Formula: Break-Even Month = EV Upfront Premium / Monthly Savings. (3) Worked example A — home-charger buyer with $5,000 upfront premium and $185/month savings (~$120/mo fuel + ~$65/mo maintenance delta net of insurance increase): break-even at month 27 (~2.25 years). (4) Worked example B — apartment-dwelling DC-fast-charging-only buyer with $5,000 upfront premium and $40/month savings ($90/mo fuel saved offset by $45/mo DCFC premium and $15/mo insurance increase): break-even at month 125 (>10 years — likely never recovered before resale). Closing rule, JSONL-anchored on \\'paycheck to paycheck\\' / \\'reduce expenses\\': 'recharged.com\\'s 4-5 year heuristic and energy.gov\\'s $2,200 annual figure both shortcut the formula. The single number the does-an-electric-car-save-money reader needs is their personal break-even month — input premium, input monthly savings, divide. If break-even falls before typical resale (60-72 months for U.S. car ownership per Polk Automotive Intelligence), the EV saves money. If after, it does not.'"
+    },
+    {
+      "name": "Insurance premium delta never quantified — a recurring monthly line that flips the EV math for some buyers",
+      "what_they_missed": "All four competitors mention insurance in passing. recharged.com (2,027 words) lists insurance as a TCO line. consumerreports.org (1,547 words) discusses reliability without surfacing the EV insurance premium increase. energy.gov (512 words) and energysage.com (1,038 words) skip insurance entirely. None quantifies that EV insurance averages 5-15% higher than comparable ICE per Insurance Information Institute data and Bankrate insurance analysis (cite iii.org and bankrate.com/insurance/car/ev-insurance-cost) — driven by higher repair costs (battery damage = total loss in many side-impact collisions per IIHS data) and longer parts wait times. For a reader paying $1,800/year on an ICE policy, the EV equivalent runs $1,890-$2,070 — adding $90-$270/year ($7.50-$22.50/month) to the EV column. On a marginal break-even calculation, this is the line that flips the answer for some buyers.",
+      "our_edge": "Add an H2: 'The EV Insurance Premium Delta — The 5-15% Line Most TCO Articles Skip.' 4-paragraph framework. (1) The delta: EV insurance averages 5-15% higher than comparable ICE per Insurance Information Institute (cite iii.org) and Bankrate (cite bankrate.com/insurance/car/ev-insurance-cost). Drivers: higher repair costs (battery pack damage = total loss in significant side or rear collisions per IIHS data at iihs.org), longer OEM parts lead times, fewer EV-trained body shops. (2) Variation by carrier: Tesla Insurance (in available states) often beats third-party carriers on Tesla vehicles by 15-30% (cite tesla.com/insurance); USAA, GEICO, State Farm published EV-rate comparisons typically run mid-band; Progressive runs above-band. (3) Mitigation: ask carrier about EV-specific discount programs (Liberty Mutual EV Discount, GEICO EcoCar programs); raise comprehensive-and-collision deductible from $500 to $1,000 to recover ~$10-$25/month (offset by self-funded battery sinking fund Line 12 of the spreadsheet). (4) Decision rule: shop insurance BEFORE finalizing EV purchase; bake the delta into the break-even-month formula in Gap 2; if the delta exceeds $20/month and reader cannot home-charge, the EV math is likely upside-down. Closing rule: 'recharged.com\\'s TCO list names insurance without quantifying the EV-vs-ICE delta. consumerreports.org skips it. The 5-15% line on the iii.org and bankrate.com pages is the line that flips the does-an-electric-car-save-money answer for some buyers — bake it into Line 7 of the spreadsheet before signing.'"
+    }
+  ],
+  "nlp_entities": [
+    "EV total cost of ownership (TCO)",
+    "60-month tracking spreadsheet",
+    "break-even month formula",
+    "EV upfront premium",
+    "AAA Your Driving Costs",
+    "iSeeCars 5-year depreciation data",
+    "Recurrent Auto battery-health certificate",
+    "Argonne National Laboratory savings calculator",
+    "EV-specific registration surcharge ($50-$300/year)",
+    "Insurance Information Institute (EV insurance delta)",
+    "Tesla Insurance",
+    "battery sinking fund (line item)"
+  ],
+  "eeat_requirements": [
+    "Cite the IRS clean-vehicle credit page (cite irs.gov/credits-deductions/credits-for-new-clean-vehicles-purchased-in-2023-or-after) AND the Alternative Fuels Data Center state-laws page (cite afdc.energy.gov/laws/state) for the state-by-state EV credit + EV registration-surcharge anchor. None of the four competitors anchors state-credit availability or registration-surcharge data on AFDC — citing it converts the state-incentive claim into a federally-maintained source.",
+    "Cite AAA Your Driving Costs (cite aaa.com/your-driving-costs) AND iSeeCars 5-year depreciation data (cite iseecars.com) AND Recurrent Auto battery-health certificate methodology (cite recurrentauto.com) for the maintenance-delta + depreciation + battery-health lines of the spreadsheet. recharged.com names the categories without anchoring on these three primary data sources — citing them makes each line of the 14-line spreadsheet a defensible figure.",
+    "Cite Insurance Information Institute (cite iii.org) AND Bankrate EV insurance cost analysis (cite bankrate.com/insurance/car/ev-insurance-cost) AND IIHS battery-damage data (cite iihs.org) for the 5-15% EV insurance delta. None of the four competitors anchors the insurance-cost claim on iii.org or bankrate or iihs — citing all three converts the insurance-delta line into an industry-data-anchored figure rather than a hand-wave."
+  ],
+  "style_critique": {
+    "all_tones_found": [
+      {
+        "tone": "consumer-research outlet investigative",
+        "used_by": "consumerreports.org r2"
+      },
+      {
+        "tone": "EV-marketplace brand educational content",
+        "used_by": "recharged.com r3, energysage.com r10"
+      },
+      {
+        "tone": "U.S. federal-agency explainer",
+        "used_by": "energy.gov r4"
+      }
+    ],
+    "winning_tone": "Spreadsheet-coach with quiet authority — anchors every line of the 14-line TCO template on AAA / iSeeCars / Recurrent Auto / EIA / IRS / iii.org primary sources, derives the break-even-month formula from inputs, and surfaces the insurance delta most articles skip",
+    "decision_reason": "Priority 1 fired — JSONL emotional_state 'Feeling helpless and out of control with money' triggered by 'Money disappearing without tracking or understanding' + JSONL emotional state 'Fear/Anxiety about financial self-awareness' + JSONL repeated phrase 'tracking every dollar' / 'budgeting spreadsheet' / 'reduce expenses' / 'paycheck to paycheck' — A spreadsheet-coach tone fills the gap left by the consumer-research outlet (consumerreports), the EV-marketplace brands (recharged, energysage) selling the EV story, and the federal explainer (energy.gov) offering a calculator without a copy-paste tracker. The reader needs a 14-line template and a break-even formula, not aggregate yearly numbers.",
+    "our_directives": [
+      "When discussing EV total cost of ownership, always present a 14-line monthly tracking template the reader can copy. Never write 'EV TCO includes purchase, fuel, maintenance, insurance' — write 'copy this 14-line monthly TCO template (Loan principal | Loan interest | State credit | Registration + EV surcharge | Insurance | Home electricity | DC fast electricity | Gasoline saved | Routine maintenance | Battery sinking fund | Depreciation | Resale projection — cite afdc.energy.gov AND aaa.com/your-driving-costs for the surcharge AND maintenance lines).'",
+      "When stating EV payback or break-even, always derive the break-even month from upfront premium divided by monthly savings, with the formula visible. Never write 'EVs pay back in 4-5 years' — write 'Break-Even Month = EV Upfront Premium ÷ Monthly Savings. For a $5,000 premium and $185/month savings (home-charger): 27 months. For a $5,000 premium and $40/month savings (DCFC-only): 125 months — well past the 60-72 month typical U.S. ownership period per Polk Automotive Intelligence. The break-even number tells the reader whether the EV pays back before they trade in.'",
+      "When discussing EV insurance, always quantify the 5-15% delta and cite iii.org + bankrate + iihs. Never write 'insurance varies' — write 'EV insurance averages 5-15% above comparable ICE per Insurance Information Institute (cite iii.org) and Bankrate EV cost analysis (cite bankrate.com/insurance/car/ev-insurance-cost), driven by battery-damage total-loss patterns per IIHS (cite iihs.org). Bake $90-$270/year into Line 7 of the spreadsheet; check Tesla Insurance / Liberty Mutual EV Discount / GEICO EcoCar programs to compress the delta.'",
+      "When the reader confesses to JSONL pain \\'money disappearing without tracking or understanding,\\' always pair empathy with the spreadsheet template AND the break-even formula as the cure. Never write \\'an EV may save money over time.\\' Always write \\'[Empathy sentence]. The fix: copy the 14-line monthly TCO template into Google Sheets today; track for 12 months; compare Line 8 (home electricity) + Line 10 (gas saved) against your actual spending; the JSONL spreadsheet phrase becomes a real spreadsheet, and the break-even-month number tells you whether to keep the EV plan or switch back to ICE.\\'"
+    ]
+  },
+  "title_intelligence": {
+    "dominant_title_pattern": "'Will / Do Electric Cars Save You Money / EV Cost Breakdown' — competitors lead with the question; few hand over a 14-line spreadsheet, a break-even-month formula, or the insurance-delta line.",
+    "short_title": "Does an Electric Car Save Money? 14-Line TCO Spreadsheet + Break-Even Month",
+    "long_title": "Does an Electric Car Save Money — A 14-Line 60-Month TCO Spreadsheet, the Break-Even Month Formula, and the Insurance-Delta Line Most Articles Skip"
+  },
+  "reader_psychology": {
+    "triggering_thought": "'Does an electric car save money? Every article gives me yearly aggregate numbers and tells me to track my spending — but I want a real spreadsheet template with the line items I need to enter, AND I want the formula that tells me when the EV breaks even against my upfront premium. I am tired of articles that hand-wave at TCO without showing the math my spreadsheet needs.' — close paraphrase of JSONL emotional_state 'Feeling helpless and out of control with money' + 'Fear/Anxiety about financial self-awareness' + JSONL pain 'Money disappearing without tracking or understanding' + JSONL repeated phrase 'tracking every dollar' / 'budgeting spreadsheet' / 'reduce expenses' / 'paycheck to paycheck.'",
+    "desired_internal_shift": "From Aggregate-Yearly-Number Reader to Spreadsheet-Operator With A 14-Line Monthly TCO Template And A Break-Even-Month Formula The Reader Owns",
+    "bridge_content": "The 14-line TCO Spreadsheet Template (Content Gap 1) followed by the Break-Even Month Formula (Content Gap 2) and the Insurance Delta Line (Content Gap 3). The reader of does-an-electric-car-save-money arrives believing the answer is yearly aggregates; the article reframes the question as \\'copy this 14-line spreadsheet, fill it for 12 months, compute the break-even-month formula — your personal spreadsheet tells you whether the EV saves money before you typically trade in.\\' Once the reader owns the spreadsheet and the formula, the JSONL helplessness converts into a documented monthly-tracked answer rather than a magazine claim."
+  },
+  "internal_linking": null
+}
+```
+<!-- END_BATTLE_PLAN_BRIEF -->

@@ -473,3 +473,102 @@ _Body text (45 chars) saved to JSON sidecar_
 
 
 ---
+
+
+---
+<!-- BATTLE_PLAN_BRIEF -->
+# Battle Plan Brief
+**Generated:** 2026-04-27T01:05:05.956831+00:00  
+**Keyword:** do electric cars save money
+
+## Validation — 4 Checks (PASS)
+- **Keyword match:** YES — Keyword tokens hit: 4/4; angle tokens: 2
+- **Psychology match:** YES — 35 pain/emotion tokens echoed; keyword hit: True
+- **Competitor evidence:** YES — 3/3 gaps tied to named competitors with body evidence
+- **Gap specificity:** YES — All 3 gaps are specific (named WHO + WHERE + concrete edge)
+
+## Brief
+```json
+{
+  "content_gaps": [
+    {
+      "name": "Federal EV tax credit ended in 2025 — most competitors still reference it as if it exists",
+      "what_they_missed": "consumerreports.org (1,547 words) explicitly notes 'After the federal EV tax credit ended in 2025' — the only one of the seven competitors to flag the change. recharged.com (2,029 words) discusses 'incentives' generically without flagging the September 30, 2025 federal EV credit expiration (cite IRS Inflation Reduction Act guidance + the One Big Beautiful Bill Act terminating §30D and §25E credits effective for vehicles acquired after September 30 2025 — cite irs.gov/credits-deductions/credits-for-new-clean-vehicles-purchased-in-2023-or-after). prestonfordwest.com (824 words) references 'government incentives' without naming the expiration. energysage.com (1,038 words) references 'tax credits' without flagging the change. picknrg.com (2,520 words) cites a '2021 study' from DOE — the entire economic framework predates the IRA enactment and the 2025 sunset. octopusev.com (1,014 words) is UK-context (salary sacrifice scheme) and irrelevant to U.S. tax credits. energy.gov (512 words) is a federal page that pre-dates the credit expiration. Without the federal-credit-expired anchor, the reader\\'s 'do electric cars save money' calculation is overstated by $4,000-$7,500 of credits the buyer cannot claim today.",
+      "our_edge": "Add an H2: 'The Federal EV Tax Credit Just Ended — Recompute Every Cost Comparison You Read Online.' 4-paragraph timeline. (1) Pre-IRA (before August 2022): Section 30D federal credit up to $7,500 for new EVs subject to MSRP and income caps. (2) IRA period (2023 to September 30, 2025): expanded $7,500 new-vehicle credit + $4,000 used-EV credit (§25E), with new battery-content and assembly requirements (cite irs.gov/credits-deductions/credits-for-new-clean-vehicles-purchased-in-2023-or-after). (3) September 30, 2025: federal new-clean-vehicle credit (§30D) and used-clean-vehicle credit (§25E) terminated for vehicles acquired after this date (cite the One Big Beautiful Bill Act statutory termination + IRS guidance). (4) Today (post-September 30 2025): the $4,000-$7,500 credit is no longer available; some STATE credits remain (California Clean Vehicle Rebate Project, Colorado state EV credit, New Jersey ZEV sales-tax exemption — cite each state DOE / DOR page). Worked example: 'A typical $45,000 EV vs $40,000 gas car comparison from 2024 used the $7,500 federal credit to put the EV at $37,500 and made the comparison favorable. Today the same comparison reverses: $45,000 EV vs $40,000 gas car = $5,000 more upfront, recovered only by fuel + maintenance savings — typically 4-6 years instead of 2-3.' Closing rule: 'Every recharged.com / energysage.com / picknrg.com / energy.gov calculation that bundles \\'tax credits\\' as part of EV savings is now $4,000-$7,500 too optimistic. consumerreports.org is the only competitor to flag the change. The do-electric-cars-save-money math from 2024 fails today; recompute every example using zero federal credit.'"
+    },
+    {
+      "name": "Home-charging vs public-DC-fast-charging cost asymmetry never tabulated (3-4× differential)",
+      "what_they_missed": "energysage.com (1,038 words) cites 'average cost to run an EV in the United States is $485 per year, while the average for a gasoline-powered vehicle is $1,117' — but uses a blended electricity cost without splitting home (~$0.13/kWh national average per EIA — cite eia.gov/electricity/monthly) vs DC fast charging (~$0.40-$0.60/kWh at Electrify America, EVgo, ChargePoint per network rate cards). consumerreports.org (1,547 words) hints at the variation but does not show the per-mile cost asymmetry. recharged.com (2,029 words) lists 'You can charge at home or consistently at a low cost' as a precondition for EV savings without quantifying the penalty for the reader who lives in an apartment without home charging. prestonfordwest.com (824 words), picknrg.com (2,520 words), and octopusev.com (1,014 words) skip the per-kWh public-vs-home gap. The reader who cannot charge at home (~30-40% of U.S. apartment-dwelling drivers per DOE Alternative Fuels Data Center estimates) faces an EV-fueling cost that is 3-4× home-charging — fully closing the gap to gasoline cost in some markets.",
+      "our_edge": "Add an H2: 'Home Charging vs Public DC Fast Charging — The 3-4× Cost Gap That Decides Whether an EV Saves YOU Money.' Build a 5-row per-mile cost table. Columns: Charging Source | Cost Per kWh | Cost Per Mile (3.5 mi/kWh EV) | Annual Cost (12,000 mi). Row 1: Home charging at U.S. average residential rate $0.13/kWh (cite eia.gov/electricity/monthly Table 5.6.A) — $0.037/mi — $445/year. Row 2: Home charging on time-of-use off-peak ~$0.08/kWh (cite Pacific Gas & Electric / Southern California Edison EV TOU rate plans at pge.com / sce.com) — $0.023/mi — $275/year. Row 3: Level 2 public charging at workplace or shopping ~$0.20-0.25/kWh — $0.064/mi — $765/year. Row 4: DC Fast Charging at Electrify America Pass+ membership ~$0.36/kWh OR pay-per-use ~$0.48/kWh (cite electrifyamerica.com/pricing) — $0.137/mi — $1,640/year. Row 5: Tesla Supercharger (non-Tesla owner) ~$0.40-0.55/kWh (cite tesla.com/supercharger) — $0.135/mi — $1,620/year. Comparison anchor: ICE gas car at 28 mpg + $3.50/gal (cite eia.gov/petroleum/gasdiesel/) = $0.125/mi = $1,500/year. Closing rule, JSONL-anchored on \\'paycheck to paycheck\\': 'A home-charger EV saves ~$1,055/year on fuel vs gas (Row 1 vs gas anchor); a DC-fast-charging-dependent EV saves $0/year and may LOSE money depending on local rates. energysage.com\\'s blended $485 number is the home-charger case; for the apartment-dwelling reader the answer to do-electric-cars-save-money is no until home charging is solved.'"
+    },
+    {
+      "name": "Battery-pack replacement liability never compared head-to-head with major ICE repair costs",
+      "what_they_missed": "All seven competitors emphasize the maintenance savings: 'no oil changes,' 'no transmission fluid,' 'fewer brake pads.' recharged.com (2,029 words) is the closest to honest — flags 'battery uncertainty, especially in the used market.' picknrg.com (2,520 words) discusses a 2021 DOE study but does not quantify out-of-warranty battery replacement cost. consumerreports.org (1,547 words) mentions reliability but does not give the dollar figure for a replacement battery pack: ~$5,000 (small pack, used parts) to ~$15,000-$20,000 (large pack, new from manufacturer) — vs ICE major-repair categories (transmission rebuild ~$2,500-$5,000, head gasket ~$1,500-$2,500, full engine replacement ~$4,000-$10,000 used). The trade-off is not 'EV maintenance < ICE maintenance' as a flat statement; it is 'EV has lower routine maintenance + a single, higher-magnitude tail-risk event (battery) that may or may not occur, vs ICE having higher routine maintenance + multiple smaller-magnitude tail-risk events (transmission, head gasket, accessory drive).'",
+      "our_edge": "Add an H2: 'The Battery-Pack Replacement Liability Most EV-Savings Articles Quietly Skip.' 4-paragraph framework. (1) Battery warranty: federal law (cite epa.gov + 49 CFR § 86) requires manufacturers to warrant the high-voltage battery for 8 years / 100,000 miles minimum; California requires 10 years / 150,000 miles (cite arb.ca.gov). Within warranty, a battery degradation below ~70% capacity typically triggers free replacement. (2) Out-of-warranty replacement cost: small packs (Nissan Leaf 24-30 kWh) ~$5,000-$8,500 used / $13,000-$15,000 new; mid-packs (Chevrolet Bolt 60-65 kWh) ~$10,000-$16,000; large packs (Tesla Model S/X, Ford F-150 Lightning) ~$15,000-$22,000 (cite recharged.com\\'s used-EV battery scoring AND Recurrent Auto battery-health data at recurrentauto.com). (3) ICE comparable tail risks at 100,000+ miles: transmission rebuild ~$2,500-$5,000 (3-7% probability over 150K miles), head gasket / timing chain ~$1,500-$3,500, full engine replacement ~$4,000-$10,000 used / ~$7,500-$15,000 new. (4) Decision rule: an EV bought new and kept under 100,000 miles is comparing zero battery liability vs ICE tail risk — EV wins. An EV bought used at 100,000+ miles is comparing direct battery-degradation risk vs ICE tail risk — depends on the battery health certificate (cite recurrentauto.com\\'s 12-page battery report or recharged.com\\'s Recharged Score). Closing rule, JSONL-anchored on \\'frustration and confusion\\' / \\'fear and anxiety\\': 'energysage.com\\'s and consumerreports.org\\'s \\'less maintenance\\' framing is true on the routine line — but skipping the battery tail-risk number lands the JSONL reader in confusion they did not need to be in. Do-electric-cars-save-money requires both ledgers: routine savings AND tail-risk delta.'"
+    }
+  ],
+  "nlp_entities": [
+    "federal EV tax credit (§30D)",
+    "used clean-vehicle credit (§25E)",
+    "September 30 2025 federal credit termination",
+    "One Big Beautiful Bill Act EV credit sunset",
+    "California Clean Vehicle Rebate Project (CVRP)",
+    "U.S. residential electricity rate ($0.13/kWh)",
+    "DC Fast Charging cost ($0.40-0.55/kWh)",
+    "EIA Monthly Electric Power data",
+    "battery-pack replacement liability",
+    "EPA / NHTSA 8-year/100,000-mile battery warranty",
+    "Recurrent Auto battery-health certificate",
+    "Recharged Score (used-EV battery scoring)"
+  ],
+  "eeat_requirements": [
+    "Cite the IRS clean-vehicle credit page (cite irs.gov/credits-deductions/credits-for-new-clean-vehicles-purchased-in-2023-or-after) AND the One Big Beautiful Bill Act statutory termination of §30D and §25E credits effective for vehicles acquired after September 30 2025. None of the seven competitors anchors the credit expiration on this primary source — citing it converts the credit-expired claim from rumor into a documented IRS / statutory fact.",
+    "Cite the U.S. Energy Information Administration Monthly Electric Power data (cite eia.gov/electricity/monthly Table 5.6.A) for the U.S. average residential electricity rate. energysage.com cites a blended cost without primary-source anchor — citing EIA converts the per-kWh-cost claim into a federal-data-anchored rate.",
+    "Cite Recurrent Auto (cite recurrentauto.com) AND Recharged.com\\'s Recharged Score for the used-EV battery-health-certificate methodology AND cite Electrify America pricing (cite electrifyamerica.com/pricing) AND Tesla Supercharger pricing (cite tesla.com/supercharger) for the public-charging cost anchors. recharged.com itself flags battery uncertainty without anchoring on Recurrent — citing both makes the battery-tail-risk claim a defensible figure rather than a vendor pitch."
+  ],
+  "style_critique": {
+    "all_tones_found": [
+      {
+        "tone": "consumer-research outlet investigative",
+        "used_by": "consumerreports.org r2"
+      },
+      {
+        "tone": "U.S. federal-agency explainer",
+        "used_by": "energy.gov r3"
+      },
+      {
+        "tone": "EV-marketplace brand educational content",
+        "used_by": "recharged.com r4, energysage.com r6, picknrg.com r10"
+      },
+      {
+        "tone": "auto-dealer brand explainer",
+        "used_by": "prestonfordwest.com r5"
+      },
+      {
+        "tone": "UK EV-leasing brand content",
+        "used_by": "octopusev.com r17"
+      }
+    ],
+    "winning_tone": "Investigative consumer advocate — anchors every cost claim on IRS / EIA / EPA / Recurrent Auto / Electrify America primary sources, recomputes every 2024-era comparison using zero federal credit, and tabulates the battery tail-risk against ICE major-repair tail-risk",
+    "decision_reason": "Priority 1 fired — JSONL emotional_state 'Frustration and Confusion' triggered by 'Tracking expenses but failing to gain actionable insights or identify problem areas' + JSONL emotional state 'Fear and Anxiety' + 'Helplessness' + JSONL repeated phrase 'paycheck to paycheck' / 'spreadsheet' / 'spending habits' / 'track every dollar' — An investigative-consumer-advocate tone fills the gap left by the federal explainer (energy.gov pre-IRA), the EV-marketplace brand content (recharged, energysage, picknrg) which sells the EV-saves-money narrative without flagging the credit expiration, the auto-dealer (prestonfordwest), and the UK-context piece (octopusev). The reader is frustrated and confused; the article must hand them the post-September-2025 corrected math.",
+    "our_directives": [
+      "When citing any EV vs gas total-cost-of-ownership comparison, always state the federal credit status (expired post-September 30 2025) AND any state-credit availability. Never write 'EVs save money with the $7,500 federal tax credit' — write 'the §30D federal new-EV credit expired September 30 2025 (cite irs.gov + One Big Beautiful Bill Act); only state programs remain (California CVRP, Colorado state credit, New Jersey ZEV sales-tax exemption — confirm each state\\'s current page).'",
+      "When stating a per-year EV fuel cost or per-mile cost, always specify the charging mix (home % vs public-DC %) and the kWh rate used. Never write 'EVs cost $485/year to fuel' — write 'an EV that charges 80% at home (~$0.13/kWh per eia.gov) and 20% at DC fast chargers (~$0.45/kWh per electrifyamerica.com) costs ~$685/year for 12,000 miles; a 100% home charger is ~$445/year; a 100% DC fast charger is ~$1,640/year.'",
+      "When recommending an EV purchase, always pair the routine-maintenance savings with the battery tail-risk note AND the warranty status. Never write 'EVs have lower maintenance' — write 'EVs have lower ROUTINE maintenance (no oil changes, fewer brake pads) but a single high-magnitude tail-risk: $5,000-$22,000 battery replacement out of warranty (cite recurrentauto.com for battery-health certification methodology). The federal 8-year/100K mile warranty (cite epa.gov) covers the first occupant; used buyers should pull a Recurrent Auto report or a Recharged Score before committing.'",
+      "When the reader confesses to JSONL pain 'tracking but failing to identify problem areas,' always pair empathy with the per-mile-cost-table-by-charging-mix as the answer. Never write 'switch to an EV to save money.' Always write '[Empathy sentence]. The fix is one number: your charging mix. Pull last 12 months of fuel spend on a pen-and-paper line; multiply your annual mileage by Row 1 ($0.037/mi home) or Row 4 ($0.137/mi DCFC) on the cost table — the EV saves money only if the row matches your actual charging access.'"
+    ]
+  },
+  "title_intelligence": {
+    "dominant_title_pattern": "'Will / Do Electric Cars Save You Money' OR '[Brand] EV Cost Breakdown 2025' — competitors lead with the question or a vendor pitch; few specify post-credit-expiration math, charging-mix split, or battery tail-risk.",
+    "short_title": "Do Electric Cars Save Money in 2025? Post-Credit Math + Charging Mix",
+    "long_title": "Do Electric Cars Save Money in 2025 — The Federal Credit Just Expired, Home vs DC Fast Charging Splits the Per-Mile Cost 3-4×, and the Battery-Pack Tail Risk Most Articles Skip"
+  },
+  "reader_psychology": {
+    "triggering_thought": "'Do electric cars save money? Every article from 2023-2024 says yes — but the federal $7,500 tax credit ended this year, gas is $4 a gallon again, and I do not own a home where I can install a Level 2 charger. Is the do-electric-cars-save-money math still positive for someone like me, or did the answer flip when the credit expired?' — close paraphrase of JSONL emotional_state 'Frustration and Confusion' + 'Fear and Anxiety' + 'Helplessness' + JSONL pain 'Tracking expenses but failing to gain actionable insights or identify problem areas' + JSONL repeated phrase 'paycheck to paycheck' / 'spending habits' / 'track every dollar' / 'spreadsheet.'",
+    "desired_internal_shift": "From 2024-Era-Calculator Reader to Post-Credit-Expiration Operator With A Charging-Mix-Adjusted Per-Mile Cost AND Battery-Tail-Risk Number",
+    "bridge_content": "The Federal Credit Expiration Timeline (Content Gap 1) followed by the Charging-Mix Per-Mile Cost Table (Content Gap 2) and the Battery-Pack Replacement Liability Framework (Content Gap 3). The reader of do-electric-cars-save-money arrives believing the answer is the SERP\\'s 2024-era yes; the article reframes the question as \\'recompute with zero federal credit + your actual charging mix + the battery tail-risk delta — the answer flips for the apartment-dwelling reader and stays positive for the home-charging buyer.\\' Once the reader maps their charging mix to Row 1 or Row 4 of the cost table and pulls a Recurrent Auto / Recharged Score for any used purchase, the JSONL frustration converts into a documented per-mile cost the reader can actually defend."
+  },
+  "internal_linking": null
+}
+```
+<!-- END_BATTLE_PLAN_BRIEF -->

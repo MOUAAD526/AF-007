@@ -565,3 +565,94 @@ _Body text (45 chars) saved to JSON sidecar_
 
 
 ---
+
+
+---
+<!-- BATTLE_PLAN_BRIEF -->
+# Battle Plan Brief
+**Generated:** 2026-04-27T01:07:12.821131+00:00  
+**Keyword:** does a travel agent save you money
+
+## Validation — 4 Checks (PASS)
+- **Keyword match:** YES — Keyword tokens hit: 5/5; angle tokens: 4
+- **Psychology match:** YES — 26 pain/emotion tokens echoed; keyword hit: True
+- **Competitor evidence:** YES — 3/3 gaps tied to named competitors with body evidence
+- **Gap specificity:** YES — All 3 gaps are specific (named WHO + WHERE + concrete edge)
+
+## Brief
+```json
+{
+  "content_gaps": [
+    {
+      "name": "Commission economics never explained — competitors say agents are 'often free' without naming who pays them and when fees apply",
+      "what_they_missed": "neamb.com (1,172 words) calls a no-fee travel agent 'your secret weapon' but does not explain that agents are paid via supplier commissions (typically 10-16% on cruise bookings, 10-12% on tour packages, 5-10% on hotels — cruise lines and tour operators publish commission schedules at e.g. princess.com/travel-agents, virtuoso.com partner pages). aaa.com (770 words) states 'Using a AAA Travel Agent is free for AAA members, as part of their membership fees' but does not disclose that AAA still earns supplier commission on cruises, tours, and packages on top of the membership fee, AND that 'small service fees associated with some bookings' (airfare-only, custom itineraries, deviations) typically run $25-$100. capitalone.com (762 words) discusses 'cost of their services' generically without naming the consultation-fee bands ($50-$300 for boutique agencies, free at host-agency-affiliated travel advisors). hostagencyreviews.com (2,652 words) is industry-side but writes for prospective agents, not consumers — never enumerates the consumer-facing fee bands. The reader\\'s confusion — 'does a travel agent save you money or do they secretly charge me' — is solved in two sentences: agents are paid by the supplier on commissionable bookings (cruise, tour, hotel package, escorted tour); they typically charge consumer-side fees only on commission-poor bookings (airfare-only, custom DIY trips, last-minute changes).",
+      "our_edge": "Add an H2: 'How Travel Agents Actually Get Paid — The 3-Tier Fee Map.' 4-paragraph framework. (1) Tier 1 — Commission-Funded (free to consumer): cruise (10-16% of cruise fare per Princess, Royal Caribbean, Virgin Voyages commission schedules — cite princess.com/travel-agents and virginvoyages.com/travel-trade), tour packages (10-12% per Globus, Trafalgar, Tauck rate sheets), hotel packages booked through consortia like Virtuoso (cite virtuoso.com), all-inclusive resort packages (10-15% per Sandals / Beaches travel-agent program). (2) Tier 2 — Service Fee + Commission (small consumer fee + supplier commission): custom itineraries ($75-$300 plan fee per AAA / boutique agency rate sheets), airfare-only ($25-$100 per ticket per ARC commission disclosure since 1995 when major U.S. airlines stopped paying agents commission), passport/visa expediting ($25-$75). (3) Tier 3 — Pure Service Fee (no supplier commission): private guide / villa rental searches ($150-$500 plan fee at independent agencies), business-travel coordination, complex multi-destination DIY trips. (4) Membership-bundled (AAA, AARP): some service fees waived or reduced as a member benefit; supplier commissions still earned (per aaa.com\\'s own page). Closing rule: 'aaa.com\\'s and neamb.com\\'s \\'free\\' framing is technically true on commissionable bookings — but the consumer reading does-a-travel-agent-save-you-money needs to see the 3-tier map: cruise + package = free + agent saves money; airfare-only + custom DIY = $25-$300 fee + agent may not save money. capitalone.com\\'s \\'depends on cost\\' is the right frame; the cost bands are the missing data.'"
+    },
+    {
+      "name": "DIY-vs-agent breakeven on a real itinerary never computed with named line items",
+      "what_they_missed": "neamb.com (1,172 words) writes 'time is money' as a generic pitch without showing the dollar-on-dollar comparison. capitalone.com (762 words) lists pros and cons but does not run a worked example. hostagencyreviews.com (2,652 words) — the most detailed competitor — promises 'three real-life ways travel agents save you money' but is industry-marketing-side and does not anchor the savings on a per-itinerary line-item comparison the reader can replicate (e.g. cruise-cabin-category upgrade, onboard credit, group rates, complimentary nights, late-checkout). aaa.com (770 words) sells AAA membership without showing the exact dollars. The JSONL pain — 'Inability to identify specific spending leaks despite tracking' — is mirrored by the SERP\\'s failure to give the reader specific dollar lines to track on the agent-vs-DIY trade-off. The article\\'s job is to convert the question from 'agents are mysterious' to 'here is the line-item comparison on a $4,000 Caribbean cruise; here is the comparison on a $1,800 European city break; here is the comparison on a $600 weekend Vegas trip — agent wins on cruise, breaks even on city break, loses on Vegas weekend.'",
+      "our_edge": "Add an H2: 'Three Worked Itineraries — When the Travel Agent Saves Money and When DIY Wins.' 3-itinerary table. Itinerary 1 — Caribbean Cruise (7-night, family of 4, $4,000 base fare): DIY booking via cruiseline.com = $4,000; same cabin booked via Virtuoso/Signature consortium agent = $4,000 base PLUS $300-$600 onboard credit + free specialty-dining night ($200 value) + cabin-category upgrade if available — agent NET saves $500-$800 + adds value (cite Virtuoso voyage-club benefits at virtuoso.com). Agent fee: $0 (cruise commission). Itinerary 2 — European City Break (10-day, couple, $1,800 base): DIY = $1,800; agent-routed via consortium = $1,800 base + complimentary breakfast + late-checkout + 4th-night-free (Virtuoso hotel program); savings ~$150-$250 in perks. Agent fee: $0 if hotels are commissionable, $75-$150 plan fee if airfare-only is included. NET ~breakeven. Itinerary 3 — Domestic Weekend (3-day, couple, $600 Vegas): DIY = $600 via Booking + Skyscanner; agent = $600 + $50-$100 service fee on airfare-only segment + minimal commission perks (small hotels, low commission rates). NET agent LOSES $50-$100 on this trip. Closing rule, JSONL-anchored on \\'tracking every dollar\\' / \\'spending leaks\\': 'hostagencyreviews.com\\'s 3-real-life-ways framing is right; the missing data is the named itinerary lines. The 3-itinerary table converts does-a-travel-agent-save-you-money from a yes/no into a documented IF-THEN: cruise = yes, package tour = yes, all-inclusive = yes; DIY airfare-only weekend = no.'"
+    },
+    {
+      "name": "Trip-protection / advocacy value never priced — agents add a hidden insurance line that DIY cannot replicate",
+      "what_they_missed": "capitalone.com (762 words) mentions 'an agent could help troubleshoot any issues that arise while youâre traveling' as a one-liner pro. neamb.com (1,172 words) hints at 'an advocate if anything goes wrong.' hostagencyreviews.com (2,652 words) and aaa.com (770 words) gesture at 'expert support' without putting a dollar value on the trip-protection / advocacy benefit. None of the four competitors prices the advocacy line on real disruption scenarios: a same-day flight cancellation that strands a family of four (rebooking cost $1,500-$3,500 in last-minute fares), a cruise itinerary change due to weather (compensation negotiation), a hotel overbooking (relocation negotiation), a medical evacuation while traveling (cost $20,000-$200,000 without coverage — cite International Medical Group / Allianz travel-insurance disclosure pages). DIY booking via Booking.com / Expedia / Skyscanner gives the consumer Booking.com\\'s customer service queue — typically 30-90 minute wait, no advocacy weight. A travel agent with a Virtuoso / Signature / Ensemble consortium membership has a direct supplier line + the agency\\'s combined volume as leverage. The reader cannot replicate this with a credit-card travel benefit; it is an asymmetric service.",
+      "our_edge": "Add an H2: 'The Hidden Line Item No DIY Booking Replicates — The Advocacy Value When Things Go Wrong.' 4-scenario framework. Scenario 1 — Flight cancellation (~3-5% probability per DOT / BTS Airline Service Quality Performance data — cite transtats.bts.gov): DIY = phone queue with airline 30-90 min, hotel out-of-pocket pending refund. Agent = direct trade-line + alternative routing arranged in 10-30 min; estimated value $300-$1,500 depending on rebook cost. Scenario 2 — Cruise itinerary change due to weather (~1-2% per cruise / per Cruise Lines International Association data): DIY = stuck with cruise line\\'s automated rebooking. Agent + consortium = compensation negotiation + onboard credit recovery; estimated value $200-$800. Scenario 3 — Hotel overbooking (~1-3% peak-season per Cornell Hospitality data): DIY = relocation to nearest available, often downgrade. Agent = relocation to consortium-partner hotel at category-equal-or-up; estimated value $100-$400. Scenario 4 — Medical evacuation: DIY without travel insurance = $20,000-$200,000+ (cite imglobal.com / allianz.com travel-insurance scenarios); agent typically books the appropriate travel-insurance product into the package and acts as advocate during claim — estimated value of advocacy alone $500-$2,000 in claim time saved. Closing rule, JSONL-anchored on \\'frustration / confusion with tracking failure\\': 'The advocacy line is the does-a-travel-agent-save-you-money answer that competitors hint at but never price. Add the 4-scenario probability-weighted expected value to the agent column on every itinerary; the breakeven shifts toward the agent on any complex trip with disruption exposure.'"
+    }
+  ],
+  "nlp_entities": [
+    "supplier-commission travel agent model",
+    "Virtuoso / Signature / Ensemble travel consortium",
+    "ARC airline-commission cap (since 1995)",
+    "AAA Travel Agent (member benefit)",
+    "consultation / plan fee ($75-$300)",
+    "service fee on airfare-only ($25-$100)",
+    "onboard credit (cruise)",
+    "Virtuoso 4th-night-free hotel program",
+    "DOT / BTS Airline Service Quality Performance data",
+    "Cruise Lines International Association (CLIA)",
+    "International Medical Group (medical evacuation)",
+    "trip-protection advocacy value"
+  ],
+  "eeat_requirements": [
+    "Cite cruise-line travel-agent commission schedules (cite princess.com/travel-agents AND virginvoyages.com/travel-trade) AND Virtuoso consortium partner page (cite virtuoso.com) for the commission economics. None of the four competitors anchors the agent-payment claim on a primary supplier source — citing it converts the commission-funded claim from anecdote into a documented supplier-disclosed rate.",
+    "Cite the U.S. Department of Transportation Bureau of Transportation Statistics Airline Service Quality Performance data (cite transtats.bts.gov) for the flight-cancellation probability anchor used in the advocacy-value scenario. capitalone.com\\'s \\'troubleshoot issues\\' line is unsourced — pulling DOT BTS makes the disruption-rate claim a federal-data-anchored figure.",
+    "Cite Allianz (cite allianz.com) AND International Medical Group (cite imglobal.com) travel-insurance product disclosure pages for the medical-evacuation cost anchors. neamb.com / aaa.com / hostagencyreviews.com cite advocacy generically — citing primary insurance carriers makes the medical-evacuation dollar range a defensible figure rather than a sales pitch."
+  ],
+  "style_critique": {
+    "all_tones_found": [
+      {
+        "tone": "association member-benefit content",
+        "used_by": "neamb.com r5, aaa.com r12"
+      },
+      {
+        "tone": "credit-card brand educational content",
+        "used_by": "capitalone.com r10"
+      },
+      {
+        "tone": "industry-trade publisher content",
+        "used_by": "hostagencyreviews.com r11"
+      }
+    ],
+    "winning_tone": "Investigative consumer advocate — anchors the commission economics on supplier commission schedules, the disruption probability on DOT BTS, and the medical-evacuation cost on primary insurance disclosures, then runs three named-itinerary breakeven tables",
+    "decision_reason": "Priority 1 fired — JSONL emotional_state 'Frustration/Confusion with tracking failure' triggered by 'Inability to identify specific spending leaks despite tracking' + JSONL emotional state \\\"Anxiety about others' financial habits\\\" + JSONL repeated phrase 'tracking every dollar' — An investigative-consumer-advocate tone fills the gap left by association sales (neamb, aaa), credit-card brand explainer (capitalone), and industry-trade pub (hostagencyreviews). The reader cannot identify which trip type the agent helps on; the article must hand them the 3-tier fee map + 3-itinerary table + advocacy-value framework.",
+    "our_directives": [
+      "When discussing how travel agents are paid, always state the 3 tiers (commission-funded, service-fee + commission, pure service-fee) AND the typical commission rate by booking type. Never write 'travel agents are often free' — write 'travel agents are commission-funded on cruise bookings (10-16%, cite princess.com/travel-agents), tour packages (10-12%), and hotel packages via consortia like Virtuoso — \\'free\\' to the consumer; airfare-only, custom DIY itineraries, and short domestic trips typically incur a $25-$300 plan/service fee.'",
+      "When stating that an agent saves money, always pair it with a worked itinerary line and the agent\\'s typical add-on perks (onboard credit, 4th-night-free, late-checkout, complimentary breakfast). Never write 'travel agents save you money' — write 'on a 7-night Caribbean cruise booked via a Virtuoso agent, the consumer pays the same base fare as cruiseline.com but receives $300-$600 onboard credit + free specialty dining + cabin-category upgrade — typical NET savings $500-$800 (cite virtuoso.com voyage-club benefits).'",
+      "When recommending a travel agent for a specific trip type, always reference the 3-itinerary breakeven table AND the advocacy-value scenarios. Never write 'use an agent for your next trip' — write 'use an agent for cruise / tour / all-inclusive (Tier 1 commission-funded; agent NET saves $300-$800); use DIY for short domestic weekend / pure airfare-only (Tier 3 fee likely exceeds savings); for European city break with 10+ days, the agent earns its keep through Virtuoso 4th-night-free + advocacy on disruption (cite Virtuoso hotel program AND DOT BTS cancellation rates at transtats.bts.gov).'",
+      "When the reader confesses to JSONL pain \\'inability to identify specific spending leaks despite tracking,\\' always pair empathy with the 3-itinerary breakeven table as the leak-detection method. Never write \\'try a travel agent to save money.\\' Always write \\'[Empathy sentence]. The fix: pull last 12 months of trip spend; classify each trip by Tier 1 / 2 / 3 of the fee map; recompute the trips you took DIY in Tier 1 — if cruise + tour + all-inclusive, you almost certainly overpaid the agent\\'s commissionable equivalent. The leak is the trips you DIY-booked that should have been Tier-1 agent bookings — typically $300-$800 in foregone perks per trip.\\'"
+    ]
+  },
+  "title_intelligence": {
+    "dominant_title_pattern": "'Are Travel Agents Worth It / Travel Agents Save You Money / How Much Does a [Brand] Travel Agent Cost' — competitors lead with question or brand pitch; few specify the 3-tier fee map, the named-itinerary breakeven, or the advocacy-value scenarios.",
+    "short_title": "Does a Travel Agent Save You Money? 3-Itinerary Breakeven",
+    "long_title": "Does a Travel Agent Save You Money — The 3-Tier Fee Map, A 3-Itinerary Worked Breakeven, and the Advocacy Line No DIY Booking Replicates"
+  },
+  "reader_psychology": {
+    "triggering_thought": "'Does a travel agent save you money or do they secretly mark up everything? Online sites say agents are \\'often free\\' but I do not understand how that math works — who pays them? When does it actually save me money vs cost me more? I have been DIY-booking trips on Booking.com for years; if I am leaving money on the table, what specific trip types should I switch to an agent for?' — close paraphrase of JSONL emotional_state \\'Frustration/Confusion with tracking failure\\' + \\\"Anxiety about others' financial habits\\\" + JSONL pain \\'Inability to identify specific spending leaks despite tracking\\' + JSONL repeated phrase \\'tracking every dollar.\\'",
+    "desired_internal_shift": "From DIY-Defensive Reader to Tier-1-Switching Operator With A 3-Itinerary Breakeven And The Advocacy-Value Line On Every Trip They Plan",
+    "bridge_content": "The 3-Tier Fee Map (Content Gap 1) followed by the 3-Itinerary Breakeven Table (Content Gap 2) and the Advocacy-Value Framework (Content Gap 3). The reader of does-a-travel-agent-save-you-money arrives believing the answer is binary; the article reframes the question as \\'depends on the trip tier — cruise / tour / all-inclusive routes through Tier 1 agent commissions for $0 fee + $300-$800 perks + advocacy; DIY weekend stays DIY; the leak you cannot see in your tracker is the Tier-1 trips you DIY-booked.\\' Once the reader maps each upcoming trip to Tier 1 / 2 / 3 and prices the advocacy line on disruption-prone trips, the JSONL frustration converts into a documented routing decision per trip type."
+  },
+  "internal_linking": null
+}
+```
+<!-- END_BATTLE_PLAN_BRIEF -->
