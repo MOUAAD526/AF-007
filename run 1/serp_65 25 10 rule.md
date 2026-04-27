@@ -419,3 +419,94 @@ _Body text (45 chars) saved to JSON sidecar_
 
 
 ---
+
+
+---
+<!-- BATTLE_PLAN_BRIEF -->
+# Battle Plan Brief
+**Generated:** 2026-04-27T00:29:16.033717+00:00  
+**Keyword:** 65 25 10 rule
+
+## Validation — 4 Checks (PASS)
+- **Keyword match:** YES — Keyword tokens hit: 1/1; angle tokens: 5
+- **Psychology match:** YES — 15 pain/emotion tokens echoed; keyword hit: True
+- **Competitor evidence:** YES — 3/3 gaps tied to named competitors with body evidence
+- **Gap specificity:** YES — All 3 gaps are specific (named WHO + WHERE + concrete edge)
+
+## Brief
+```json
+{
+  "content_gaps": [
+    {
+      "name": "No competitor actually defines 65-25-10",
+      "what_they_missed": "The four valid competitors all teach a NEIGHBOURING percentage rule but never the one the reader searched for. citizensbank.com (1,138 words) defines 50/30/20 ('50% on needs, 30% on wants, and 20% on savings'). thrivent.com (1,320 words) teaches 75/15/10 ('75% for needs … 15% for investments … 10% for savings'). mcapitalmgt.com (2,204 words) teaches 60-25-15 ('60% for Essentials … 25% for Lifestyle … 15% for Savings'). prudential.com (927 words) teaches 60/40. A reader searching '65 25 10 rule' lands on a SERP where literally zero results define their actual query — the related_searches '65 25 10 rule explained' and '65 25 10 rule example' confirm Google sees the search demand.",
+      "our_edge": "Open the article with an H2 'What the 65/25/10 Rule Actually Says (Since Nobody Else Defines It).' One sentence definition: 65% of after-tax income to necessities, 25% to wants, and 10% to savings or debt repayment. Then a 1-paragraph derivation: it sits between 50/30/20 (citizensbank.com — savings-aggressive) and 75/15/10 (thrivent.com — needs-heavy), giving renters and lower-middle-income earners more room than 50/30/20 (which assumes housing is ≤30% of net) without surrendering the savings line entirely the way 75/15/10 does. Closing callout: 'If you're searching this term, you probably tried 50/30/20 and the 50% bucket would not cover your rent. The 65/25/10 split was designed for that exact reader.'"
+    },
+    {
+      "name": "No 'which percentage rule is right for me' decision tool",
+      "what_they_missed": "thrivent.com offers a 'who should use 75/15/10' section but its examples are abstract ('if you have a lot of expenses'). citizensbank.com asks 'is it right for you?' but answers vaguely ('it's a good starting point'). mcapitalmgt.com lists pros and cons of 60-25-15 but never compares it to 50/30/20 or any other split. prudential.com promotes 60/40 in isolation. None of the four lays the percentage rules side by side with a concrete income-to-rent ratio that tells the reader which rule actually fits — even though the JSONL pain 'Difficulty creating and sticking to a budget' tells us readers abandon rules that do not match their numbers.",
+      "our_edge": "Add an H2 'Which Percentage Rule Fits Your Numbers? — A 5-Row Decision Table.' Columns: Rule | Needs % | Wants/Investments % | Savings % | Best Reader Fit by Rent-to-Net Ratio. Row 1: 50/30/20 → 50/30/20 → renters whose rent is ≤30% of net income. Row 2: 60/40 (prudential.com) → 60/—/40 → readers who lump wants into needs. Row 3: 60-25-15 (mcapitalmgt.com) → 60/25/15 → renters at 35-40% rent ratio. Row 4: 65/25/10 (this article) → 65/25/10 → renters at 40-50% rent ratio who still want to save 10%. Row 5: 75/15/10 (thrivent.com) → 75/—/15+10 → high fixed-cost households (kids, multiple loans). Closing rule: 'Pick the row whose Needs % is closest to your actual fixed-cost share of net income, not the row that sounds most aspirational.'"
+    },
+    {
+      "name": "No spreadsheet template for 65/25/10",
+      "what_they_missed": "The article_context angle is 'Practical budgeting tools and templates (spreadsheets)' — readers want an artifact they can run today. citizensbank.com explains the categories but does not provide a template. thrivent.com explains 75/15/10 abstractly. mcapitalmgt.com talks about 'thoughtful planning' but provides no calculator. prudential.com mentions a 'budget worksheet' once but never instantiates one for 60/40 or any other split. None of the four ships a copy-paste-able 65/25/10 spreadsheet, even though related_search '65 25 10 rule calculator' shows readers explicitly want one.",
+      "our_edge": "Add an H2 'The 65/25/10 Calculator (Copy-Paste Spreadsheet, 6 Rows).' Provide the actual rows. Row A1: 'Net monthly income (after tax + required deductions)' → reader inputs (e.g. $4,000). Row B1 formula: =A1*0.65 → $2,600 needs. Row C1 formula: =A1*0.25 → $1,000 wants. Row D1 formula: =A1*0.10 → $400 savings/debt. Row E1: 'Actual fixed costs this month' → reader inputs. Row F1 formula: =E1-B1 → 'Negative number = you are over the rule by this many dollars; cut here first.' Worked example using JSONL repeated_phrase 'where did all of it go?': '$4,000 net income → $400 savings target. If your last month's actual fixed costs were $2,950, you are $350 over the 65% needs ceiling — start the cut audit before you trust the 10% savings line.' Pair with a JSONL repeated_phrase 'I'm terrible at sticking to a budget' callout: 'The reason rules feel impossible is usually a 5-percentage-point mismatch between the rule's needs % and your actual rent ratio. Pick a rule whose needs % matches yours; sticking gets dramatically easier.'"
+    }
+  ],
+  "nlp_entities": [
+    "rent-to-net-income ratio",
+    "fixed-cost share of after-tax income",
+    "savings-aggressive vs needs-heavy split",
+    "percentage-allocation budget",
+    "after-tax income base",
+    "discretionary spending floor",
+    "automated savings sweep",
+    "behavioral allocation discipline",
+    "envelope-equivalent percentage system",
+    "lifestyle inflation gate",
+    "fixed-cost stress test",
+    "budget rule self-selection"
+  ],
+  "eeat_requirements": [
+    "Cite the U.S. Bureau of Labor Statistics Consumer Expenditure Survey (cite bls.gov/cex) for the actual share of after-tax income the average U.S. household spends on housing, transportation, and food. Use this to anchor each percentage rule's needs % against a real population number — readers can see whether 50%, 65%, or 75% is closer to their reality before they pick. None of the four competitors anchors their rule against a national benchmark.",
+    "Use thrivent.com's body-text framing of 75/15/10 ('a larger portion to needs: 75% for needs') and citizensbank.com's framing of 50/30/20 ('50% on needs') as Tier-2 source anchors. By placing the new 65/25/10 article on the same numerical spectrum that two professional finance brands already legitimize, the rule reads as an empirically-derived middle point rather than an invented variant.",
+    "Reference paa_questions data point 'only about 2.5% of all Americans actually have $1 million or more saved in their retirement accounts' (sourced to U.S. Federal Reserve Survey of Consumer Finances; cite federalreserve.gov/econres/scfindex.htm) as the trust signal that justifies the 10% savings line. Show that even a 10% savings rate (the lowest of the four rules) puts the reader meaningfully ahead of the typical American retirement track when sustained for 30+ years."
+  ],
+  "style_critique": {
+    "all_tones_found": [
+      {
+        "tone": "instructional bank-marketing",
+        "used_by": "citizensbank.com, prudential.com"
+      },
+      {
+        "tone": "institutional advisor with light empathy",
+        "used_by": "thrivent.com"
+      },
+      {
+        "tone": "warm reflective ('thoughtful planning')",
+        "used_by": "mcapitalmgt.com"
+      }
+    ],
+    "winning_tone": "Direct, math-first, anxiety-aware — leads with the definition the reader came for, then the decision tool, with no aspirational fluff",
+    "decision_reason": "Priority 1 fired — JSONL emotional_state 'Anxiety/Fear' triggered by 'Unconscious spending and lack of financial awareness' + JSONL repeated_phrase 'where did all of it go?' + 'I'm terrible at sticking to a budget' — A direct, math-first tone fills the gap left by mcapitalmgt.com's reflective-warm framing and prudential.com's institutional-marketing style; both circle the topic without ever giving the reader the calculator they asked for. The reader's anxiety is fuelled by not finding the actual rule they searched — the article's first job is to lower that anxiety with a one-sentence definition above the fold.",
+    "our_directives": [
+      "When stating the 65/25/10 rule for the first time, always render the full sentence in one breath: '65% to necessities, 25% to wants, 10% to savings or debt — calculated on after-tax (net) income.' Never split the definition across paragraphs. The reader came for this sentence; do not bury it.",
+      "When showing any percentage allocation, always pair the percentage with a worked dollar example using a $4,000 net monthly income (matching the JSONL pain context). Never write 'allocate 25% to wants' without writing '($1,000 on a $4,000 net check).'",
+      "When mentioning a fixed cost, always name a specific dollar amount and category. Never write 'high housing costs' — write '$1,500 rent on $3,000 net income (50% rent ratio — 50/30/20 already breaks here).'",
+      "When the reader is about to abandon a rule, always pair empathy with diagnosis. Never write 'don't give up.' Always write '[Empathy sentence]. The reason this rule feels impossible is usually a [N]-percentage-point gap between the rule's needs % and your actual rent ratio — switch to the row whose needs % matches yours.'"
+    ]
+  },
+  "title_intelligence": {
+    "dominant_title_pattern": "'[Number]/[Number]/[Number] Rule' or '[Number]-[Number]-[Number] Rule' + descriptor ('Pros, Cons & Who Should Use One,' 'What Is It,' 'Right for You'). Most lead with the percentages and follow with a fitness question.",
+    "short_title": "The 65/25/10 Rule: A Budget for High-Rent Earners",
+    "long_title": "The 65/25/10 Rule — Definition, Calculator, and Who It Actually Fits"
+  },
+  "reader_psychology": {
+    "triggering_thought": "'I keep hearing about 50/30/20 but my rent eats 45% of my paycheck — somebody mentioned a 65/25/10 rule. I just want to find one budget rule that actually works for my numbers without feeling like I am failing every month.' — close paraphrase of JSONL emotional_state 'Anxiety/Fear' + repeated_phrase 'I'm terrible at sticking to a budget' + 'where did all of it go?' + the SERP signal that no competitor defines this exact rule.",
+    "desired_internal_shift": "From Anxious Rule-Failure to Confident Rule-Picker",
+    "bridge_content": "The Decision Table (Content Gap 2) followed by the Calculator (Content Gap 3). The reader arrives believing every percentage rule is a one-size-fits-all moral test they keep failing. The article reframes the percentage rules as a spectrum where each row matches a different rent-to-net ratio — pick the row that matches your numbers and the rule starts working overnight. Like trying on five sizes of a jacket — the jacket was never the problem; the size was. Once the reader sees the spectrum and runs their numbers in the calculator, the anxiety converts into a single decisive action."
+  },
+  "internal_linking": null
+}
+```
+<!-- END_BATTLE_PLAN_BRIEF -->

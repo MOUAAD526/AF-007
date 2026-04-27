@@ -509,3 +509,94 @@ _Body text (44 chars) saved to JSON sidecar_
 
 
 ---
+
+
+---
+<!-- BATTLE_PLAN_BRIEF -->
+# Battle Plan Brief
+**Generated:** 2026-04-27T00:45:15.368819+00:00  
+**Keyword:** best temperature for ac to save money
+
+## Validation — 4 Checks (PASS)
+- **Keyword match:** YES — Keyword tokens hit: 3/3; angle tokens: 3
+- **Psychology match:** YES — 26 pain/emotion tokens echoed; keyword hit: True
+- **Competitor evidence:** YES — 3/3 gaps tied to named competitors with body evidence
+- **Gap specificity:** YES — All 3 gaps are specific (named WHO + WHERE + concrete edge)
+
+## Brief
+```json
+{
+  "content_gaps": [
+    {
+      "name": "78F recommendation is climate-blind — no $/year by city or zone",
+      "what_they_missed": "All seven competitors land on the same 78°F headline. trane.com (1,565 words) opens its Key Takeaways with '78° thermostat setting for summer could save you money.' myacguys.com (848 words) computes savings only against 72°F — '6 degrees x 3% = up to 18% on your energy bill.' consumerreports.org (1,019 words) cites '3 percent on your utility bill for every degree you raise the set temperature, according to the Department of Energy.' today.com (400 words) repeats the same DoE 78°F line. reliant.com (998 words) calls 78°F 'a starting point.' ecoflow.com (1,243 words) and csiro.au (969 words) round out the chorus. None of the seven differentiates by climate zone — 78°F in Phoenix (cooling-degree-days ~4,200) vs. Seattle (~150) saves dramatically different dollar amounts on the same percentage. The reader cannot answer 'what does 78°F save ME?' from any of these.",
+      "our_edge": "Add an H2: 'Your 78°F Savings, Translated Into Real Dollars by Climate Zone.' Build a 5-row table tied to U.S. cooling-degree-day (CDD) bands. Columns: City | CDD/year | Avg Cooling Bill at 72°F | Same Bill at 78°F (-18%) | Annual Savings. Row 1: Phoenix AZ — ~4,200 CDD — ~$1,800 — ~$1,476 — ~$324/year saved. Row 2: Houston TX — ~3,000 CDD — ~$1,400 — ~$1,148 — ~$252/year. Row 3: Atlanta GA — ~1,800 CDD — ~$900 — ~$738 — ~$162/year. Row 4: Chicago IL — ~750 CDD — ~$420 — ~$344 — ~$76/year. Row 5: Seattle WA — ~150 CDD — ~$120 — ~$98 — ~$22/year. Closing rule: 'The DoE/trane.com 78°F rule is universally true on percentage; it is wildly different on dollars. A Phoenix reader gets $324/year for the same act a Seattle reader gets $22/year for. The 18% trick is real — the payoff is climate-specific.'"
+    },
+    {
+      "name": "DoE setback-while-away rule never converted to monthly $ savings",
+      "what_they_missed": "today.com (400 words) quotes the U.S. Department of Energy directly: 'increase the temperature by 7 degrees when no one is home to save money and operate the system efficiently.' reliant.com (998 words) flags 'Daytime vs. nighttime settings' but does not quantify the away-from-home setback impact. trane.com (1,565 words) recommends 'using a smart thermostat to adjust the temperature can help you save the most on energy costs' without computing the marginal savings of an away-setback over a fixed 78°F. consumerreports.org (1,019 words) lists smart programmable thermostats as 'best' but never says how many extra dollars per month a 7° away-setback adds on top of the steady 78°F. None of the seven shows the stacked math of (78°F set point) + (85°F when away 8 hr/day) over the cooling season.",
+      "our_edge": "Add an H2: 'The Stacked Setback — How a 78°F Set Point + 85°F While Away Doubles the Savings.' Build a 4-step worked example for a typical 8-hour workday. (1) Baseline: 24/7 at 72°F → 100% baseline cost. (2) Steady 78°F → -18% (per myacguys.com / consumerreports.org / DoE 1°/3%). (3) Add 85°F setback during 8 hours away (one-third of day at +7° = +21% efficiency improvement during that window) → additional ~7% off the daily total. (4) Combined effect → roughly -25% off the 72°F baseline, or ~7 percentage points more than steady 78°F alone. Worked dollar example anchored to a $1,000 summer cooling bill: '$1,000 baseline → $820 at steady 78°F → $750 with setback. The setback recovers an extra $70/season on top of the steady-78 savings — and the JSONL reader who doubts automated solutions can do this with a $20 manual programmable thermostat, no smart app required.'"
+    },
+    {
+      "name": "Smart thermostat ROI never computed against a $20 manual programmable",
+      "what_they_missed": "trane.com (1,565 words) lists 'Using a smart thermostat to adjust the temperature can help you save the most on energy costs' as one of three Key Takeaways but never names a payback period. consumerreports.org (1,019 words) explicitly anchors its 'Best Thermostats: Smart Programmable' section as a recommended product class without computing months-to-payback at typical install costs ($150-$280 hardware + ~$150-$300 install if pro-installed). reliant.com, ecoflow.com, today.com, myacguys.com, csiro.au all reference smart thermostats favorably without a single $/month vs $/year payback line. The JSONL emotional state 'Suspicion/mistrust of automated solutions (app ads)' matches the JSONL reader's read of these recommendations exactly — pro-app advice without payback math reads like a Trane/Honeywell ad.",
+      "our_edge": "Add an H2: 'Smart Thermostat vs. $20 Manual Programmable — When Each Pays Back.' Build a 3-row payback table. Columns: Device | Total Cost | Annual Savings vs Steady 78°F | Months to Payback. Row 1: $20 manual programmable thermostat (e.g. Honeywell RTH221B from any hardware store) + DIY install — total $20 — annual savings ~$70 (per Gap 2 stacked-setback math) — payback ~3-4 months. Row 2: Mid-range smart thermostat (e.g. Honeywell T9, Ecobee Lite — ~$170 hardware + ~$0 self-install OR $150 pro-install) — total $170-$320 — annual savings ~$110-$140 (additional 8-10% from learning + occupancy + remote tweaks above stacked-setback) — payback ~14-30 months. Row 3: High-end Nest Learning + pro-install — total ~$280-$450 — annual savings ~$140-$170 — payback ~20-38 months. Closing rule, JSONL-anchored on 'Suspicion/mistrust of automated solutions': 'A $20 programmable does ~70% of what a $250 smart thermostat does, in 1/12 the payback time. The smart thermostat earns its premium only in homes with multiple zones, irregular occupancy, or homeowner intent to use the schedule features daily — not in homes that would have set 78°F manually anyway.'"
+    }
+  ],
+  "nlp_entities": [
+    "78°F set point",
+    "1°/3% energy-cost rule",
+    "cooling-degree-days (CDD)",
+    "stacked setback (steady + away)",
+    "DoE setback recommendation",
+    "smart thermostat payback period",
+    "manual programmable thermostat",
+    "humidity removal threshold",
+    "dew-point comfort cutoff",
+    "ceiling-fan / air-mixing offset",
+    "occupancy-based scheduling",
+    "annual cooling-bill anchor"
+  ],
+  "eeat_requirements": [
+    "Cite the U.S. Department of Energy thermostat guidance directly (cite energy.gov/energysaver/thermostats) for the 78°F + 7°-setback recommendation. consumerreports.org and trane.com and today.com all paraphrase the DoE — quoting the DoE page directly converts the universal 78°F headline from a relayed claim into a primary-source anchor.",
+    "Cite the National Oceanic and Atmospheric Administration cooling-degree-days dataset (cite ncei.noaa.gov/products/land-based-station/cooling-degree-days) for the climate-zone savings table. None of the seven competitors anchors the savings to a CDD measurement — sourcing NOAA converts the Phoenix vs Seattle dollar differences from estimated to defensible.",
+    "Cite the Energy Star smart-thermostat product certification page (cite energystar.gov/products/heating_cooling/smart_thermostats) for the smart-vs-manual payback section. consumerreports.org references Energy Star generally; pulling the Energy Star certified-savings range (~8-10%) directly anchors the smart-thermostat payback table in a federally certified figure rather than a vendor estimate."
+  ],
+  "style_critique": {
+    "all_tones_found": [
+      {
+        "tone": "utility-company explainer",
+        "used_by": "reliant.com r1"
+      },
+      {
+        "tone": "consumer-magazine guide",
+        "used_by": "consumerreports.org r3, today.com r11, csiro.au r14"
+      },
+      {
+        "tone": "vendor educational content",
+        "used_by": "trane.com r6, ecoflow.com r4, myacguys.com r12"
+      }
+    ],
+    "winning_tone": "Practical-engineer with quiet authority — anchors every claim to the DoE/Energy Star/NOAA primary sources, converts every percentage to dollars by climate zone, and computes payback periods on every device recommendation",
+    "decision_reason": "Priority 1 fired — JSONL emotional_state 'Frustration and confusion from tracking without results' triggered by 'Tracking spending manually but failing to gain actionable insights' + JSONL emotional state 'Suspicion/mistrust of automated solutions (app ads)' — A practical-engineer tone anchored on DoE/NOAA/Energy Star primary sources fills the gap left by the utility/vendor explainers (reliant, trane, ecoflow, myacguys) which all repeat the 78°F headline without dollar specificity, and the consumer magazines (consumerreports, today, csiro.au) which paraphrase the DoE without showing local payback. The JSONL reader is suspicious of app-led automation; the article must center the cheapest mechanical option (the $20 programmable) as the primary win.",
+    "our_directives": [
+      "When stating a percentage savings, always pair it with a dollar amount on a sourced annual cooling bill in a specific city. Never write 'save 18%' — write 'save 18% — that is ~$324/year in Phoenix on a $1,800 baseline cooling bill (NOAA CDD ~4,200) and ~$22/year in Seattle on a $120 bill (CDD ~150).'",
+      "When recommending a thermostat, always state the device cost AND the months-to-payback in the same sentence. Never write 'consider a smart thermostat' — write 'consider a smart thermostat (~$170 device, ~14-30 month payback) or a $20 manual programmable (~3-4 month payback) — the manual gets ~70% of the savings at 1/12 the cost.'",
+      "When citing the DoE 78°F rule, always link to the energy.gov page and pair it with the +7° setback rule. Never write '78°F per the DoE' — write '78°F per the DoE (energy.gov/energysaver/thermostats) plus a +7° setback while away — the setback adds ~7 percentage points beyond the steady-78 savings.'",
+      "When the reader confesses to JSONL pain 'tracking manually but failing to gain actionable insights,' always pair empathy with the climate-zone dollar number for their city. Never write 'every home is different.' Always write '[Empathy sentence]. The fix is one number: your annual cooling bill × 18% = your steady-78 savings; your annual cooling bill × 25% = your stacked-setback savings. Look up your city in the NOAA CDD table and pick the row.'"
+    ]
+  },
+  "title_intelligence": {
+    "dominant_title_pattern": "'Best [AC] Temperature [for Energy Savings / to Save Money] [in Summer]' — every competitor leads with a superlative + topic + outcome; few specify climate zone or setback rule.",
+    "short_title": "Best AC Temperature: 78°F + 7° Setback — Dollars by City",
+    "long_title": "Best Temperature for AC to Save Money — The 78°F Rule, the +7° Setback, and the $20 Programmable That Beats a Smart Thermostat (Climate-Zone Math Inside)"
+  },
+  "reader_psychology": {
+    "triggering_thought": "'Every page tells me the best temperature for AC to save money is 78°F. Fine. But what does that AC temperature ACTUALLY save me on my $1,400 summer power bill in Houston, and is the $250 smart thermostat worth it over a $20 programmable I can buy at Home Depot today? I am tracking my electricity bill manually and the AC is the largest line — I want the temperature setting to translate into real money saved, not another vague best-AC-temperature article.' — close paraphrase of JSONL emotional_state 'Frustration and confusion from tracking without results' + JSONL emotional state 'Suspicion/mistrust of automated solutions (app ads)' + JSONL pain 'Tracking spending manually but failing to gain actionable insights' + JSONL repeated phrase 'pen and paper' / 'excel sheet.'",
+    "desired_internal_shift": "From Skeptical Reader Of Best-AC-Temperature Articles to Practical Engineer With a Climate-Zone $/year Number and a 3-Month Payback Plan",
+    "bridge_content": "The Climate-Zone AC-temperature dollar table (Content Gap 1) followed by the Stacked Setback math (Content Gap 2) and the Smart-vs-Manual thermostat payback table (Content Gap 3). The reader of best-temperature-for-AC-to-save-money arrives believing the answer is 'set 78°F'; the article reframes the question as 'what is the 78°F AC temperature worth in MY city, what does the +7° away-setback add, and which thermostat hits payback fastest for me?' Once the reader sees their city's row in the CDD table plus the $20 programmable thermostat's 3-month payback, the JSONL frustration about tracking without results converts into a single hardware purchase the JSONL pen-and-paper reader can install themselves without trusting any app — the AC temperature article finally becomes a save-money action plan."
+  },
+  "internal_linking": null
+}
+```
+<!-- END_BATTLE_PLAN_BRIEF -->

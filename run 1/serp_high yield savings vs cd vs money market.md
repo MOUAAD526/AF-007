@@ -578,3 +578,94 @@ _Body text (45 chars) saved to JSON sidecar_
 
 
 ---
+
+
+---
+<!-- BATTLE_PLAN_BRIEF -->
+# Battle Plan Brief
+**Generated:** 2026-04-27T08:50:58.957839+00:00  
+**Keyword:** high yield savings vs cd vs money market
+
+## Validation — 4 Checks (PASS)
+- **Keyword match:** YES — Keyword tokens hit: 5/5; angle tokens: 5
+- **Psychology match:** YES — 38 pain/emotion tokens echoed; keyword hit: True
+- **Competitor evidence:** YES — 3/3 gaps tied to named competitors with body evidence
+- **Gap specificity:** YES — All 3 gaps are specific (named WHO + WHERE + concrete edge)
+
+## Brief
+```json
+{
+  "content_gaps": [
+    {
+      "name": "MMA vs Money Market FUND distinction never made — competitors blur the FDIC-insured deposit account with the SEC-regulated mutual fund, which is the single biggest reader confusion",
+      "what_they_missed": "investor.vanguard.com (2,386 words) discusses 'money market funds' (cite vanguard.com/money-market-funds — SEC-regulated mutual funds offered by brokerages, NOT FDIC-insured) but blends terminology with 'money market accounts.' bankrate.com r12 (1,254 words) titles its piece 'High-Yield Savings Account vs. Money Market Fund' — distinguishing them — but bankrate.com r5 (1,448 words) and gocanalbank.com (1,308 words) and citizensbank.com (1,635 words) and bankwith1st.com (2,382 words) and cnbc.com (1,437 words) discuss 'money market accounts' (FDIC-insured deposit accounts at banks) without flagging the entirely different SEC-regulated money market FUND product (e.g., VMFXX, SPRXX, SWVXX). The reader who searches 'high yield savings vs cd vs money market' is conflating four products: (a) HYSA (FDIC-insured deposit), (b) CD (FDIC-insured time deposit), (c) Money Market Account / MMA (FDIC-insured deposit at a bank), (d) Money Market Fund / MMF (SEC-regulated mutual fund at a brokerage — NOT FDIC-insured). The JSONL emotional state 'Fear and anxiety about confronting spending habits' is exactly the disorientation this 4-product blur causes.",
+      "our_edge": "Add an H2: 'Four Products, Two Different Regulators — The MMA-vs-MMF Distinction Every Saver Must Make Before Choosing.' 4-paragraph framework. (1) HYSA: deposit account at a bank, FDIC-insured up to $250K per depositor per institution (cite fdic.gov), variable rate (~4.0-4.5% APY at top online banks like Marcus, Ally, SoFi), no term lock, immediate liquidity. (2) CD: time deposit at a bank, FDIC-insured up to $250K, fixed rate locked for term (3 months to 5 years), early-withdrawal penalty (typical 90 days interest on a 1-year CD), suited for goals with known horizon. (3) MMA / Money Market ACCOUNT: deposit account at a bank, FDIC-insured up to $250K, often allows limited check-writing + debit card access, variable rate similar to HYSA. (4) MMF / Money Market FUND: mutual fund at a brokerage like Vanguard / Fidelity / Schwab (cite investor.vanguard.com / fidelity.com / schwab.com), SEC-regulated, NOT FDIC-insured but SIPC-protected for brokerage failure (cite sipc.org); examples VMFXX (Vanguard Federal Money Market 4.30%+), SPRXX (Fidelity Government 4.0%+), SWVXX (Schwab 4.0%+); 7-day SEC yield disclosed daily; 'breaks the buck' risk historically rare (Reserve Primary Fund 2008 — cite sec.gov). Closing rule, JSONL-anchored on 'tracking every dollar' / 'savings account': 'investor.vanguard.com discusses MMFs while 5 competitors discuss MMAs; the reader at the SERP is confusing the two — the article that ranks for high-yield-savings-vs-cd-vs-money-market must distinguish MMA (FDIC, bank deposit) from MMF (SEC, brokerage fund) in the first 200 words, otherwise the JSONL fear-and-anxiety reader chooses the wrong product class entirely.'"
+    },
+    {
+      "name": "Tax treatment + state tax exemption never quantified — competitors skip the most-decision-relevant variable: federal money market funds avoid STATE income tax",
+      "what_they_missed": "bankrate.com r12 (1,254 words) names HYSA vs MMF without computing the after-tax-yield difference. cnbc.com (1,437 words) compares all three rate-wise without mentioning that interest from HYSAs / CDs / MMAs is fully taxable as ordinary income on Form 1099-INT (cite irs.gov/forms-pubs/about-form-1099-int) — federal AND state tax. citizensbank.com (1,635 words) and gocanalbank.com (1,308 words) and bankwith1st.com (2,382 words) skip taxes entirely. investor.vanguard.com (2,386 words) hints at the unique advantage of MMFs that hold US Treasury obligations: their distributions are largely STATE-INCOME-TAX-EXEMPT (cite IRS Publication 550 — cite irs.gov/publications/p550 + Vanguard year-end tax info). For a California resident at 9.3% state marginal rate, a 4.0% Treasury MMF actually nets ~4.37% taxable-equivalent (4.0% / (1 - 0.093)). The JSONL repeated phrase 'tracking every dollar' is exactly the discipline this state-tax math rewards.",
+      "our_edge": "Add an H2: 'Tax Treatment Decides The Winner — The State-Tax-Exemption Advantage Of Treasury Money Market Funds.' 4-paragraph framework. (1) HYSA / CD / MMA interest: fully taxable federal + state ordinary income on Form 1099-INT (cite irs.gov/forms-pubs/about-form-1099-int). At 22% federal + 5% state = 27% combined, a 4.5% APY HYSA nets 3.29% after tax. (2) Treasury MMF distributions: federally taxable BUT state-tax-exempt where MMF holds at least 50% (varies by state — California / Connecticut / NY require ≥50%) US Treasury obligations (cite IRS Publication 550 — cite irs.gov/publications/p550). For a California resident at 9.3% state, a 4.0% Treasury-only MMF (e.g., VUSXX Vanguard Treasury Money Market — cite vanguard.com/etf/profile/VUSXX, ~94% Treasuries) is taxable-equivalent ~4.37%. (3) Calculate after-tax winner table: HYSA 4.5% at 27% combined = 3.29% net; CD 5.0% (1-year, locked) at 27% = 3.65%; MMA 4.3% at 27% = 3.14%; Treasury MMF 4.0% at 22% federal-only = 3.12% — but adjust for state-exemption back to ~3.45%-3.53% net depending on state percentage of Treasuries. (4) Decision rule for the JSONL anchor: in high-state-tax states (CA / NY / NJ / OR / CT > 6% state), Treasury MMF beats HYSA after-tax even at slightly lower headline yield; in no-state-tax states (TX / FL / NV / WA / TN), pick HYSA / CD purely on headline yield. Closing rule, JSONL-anchored on 'tracking every dollar' / 'savings account': 'cnbc.com\\'s and bankrate.com\\'s headline-yield comparisons skip the state-tax math; the article that ranks for high-yield-savings-vs-cd-vs-money-market must show the taxable-equivalent yield for each product at the reader\\'s combined marginal rate, then identify Treasury MMF as the winner for the JSONL tracking-every-dollar reader in a high-state-tax state.'"
+    },
+    {
+      "name": "CD ladder strategy + early-withdrawal-penalty math never built — competitors describe CDs in isolation without showing how a 5-year ladder dominates HYSA on locked-in yield while preserving 20% liquidity per year",
+      "what_they_missed": "cnbc.com (1,437 words) describes CDs as 'fixed interest rate for a specific amount of time' without explaining the laddering strategy that converts a 5-year CD lock into 20% annual liquidity. gocanalbank.com (1,308 words) lists 10 reasons to choose between MMA and CD without naming the ladder. bankwith1st.com (2,382 words) and citizensbank.com (1,635 words) discuss CDs vs HYSA without computing the early-withdrawal-penalty (EWP) breakeven. investor.vanguard.com (2,386 words) skips CD strategy entirely. None of the seven shows: (a) the 5-rung CD ladder ($10K → $2K each into 1Y/2Y/3Y/4Y/5Y CDs; reinvest each maturing rung into a new 5Y CD at the then-prevailing rate; after year 5 every rung is a 5Y CD with 20% liquidity each year), (b) the EWP breakeven (a 1-year CD at 5.0% with a 90-day EWP becomes break-even with a 4.0% HYSA at month 4; before that, HYSA wins). The JSONL emotional state 'Pride and satisfaction from reaching savings milestones' is exactly the discipline a CD ladder rewards.",
+      "our_edge": "Add an H2: 'The 5-Year CD Ladder — How To Lock 5-Year Yields While Keeping 20% Liquid Each Year (And When To Break A CD Anyway).' 4-paragraph framework. (1) Build the ladder: $10,000 split into 5 × $2,000 CDs (1Y, 2Y, 3Y, 4Y, 5Y) at year 0 (cite a current rate aggregator like depositaccounts.com or bankrate.com/cd-rates). At maturity each year, reinvest the maturing CD into a NEW 5-year CD at then-prevailing rate. By year 5, every rung is a 5-year CD with $2,000 maturing annually = 20% liquidity per year. (2) Yield advantage: 5-year CDs historically yield 0.50-1.00% above HYSA when the curve is normal (cite Federal Reserve Economic Data fred.stlouisfed.org for historical 5Y CD rates) — locking $10K at 4.5% 5Y CD vs 4.0% HYSA = $50/year incremental income per $10K, $250 over 5 years (assuming flat HYSA). (3) The early-withdrawal-penalty (EWP) breakeven calculator: typical EWP is 90-180 days of interest on the broken CD. 1-year CD at 5.0% with 90-day EWP: $5,000 × 5.0% × 90/365 = $61.64 penalty. Breakeven vs 4.0% HYSA: extra income from CD = $50/year on $5K; penalty $61.64 takes ~14.8 months to recover IF held full term, OR breaks even at month 4 of the 12-month term — meaning CD wins after month 4 even with full EWP. (4) Decision rule for the JSONL milestone-celebrator: if your savings horizon is < 4 months, HYSA wins; 4-12 months, CD wins even with EWP risk; 1+ years, CD ladder wins on yield AND preserves 20% annual liquidity. Closing rule, JSONL-anchored on 'pride and satisfaction from reaching savings milestones' / \\'I\\'m proud of myself\\': 'cnbc.com\\'s and gocanalbank.com\\'s and 5 competitors describe CDs without the laddering strategy — the article that ranks for high-yield-savings-vs-cd-vs-money-market must show the 5-rung ladder + EWP-breakeven calculator, otherwise the JSONL discipline-celebrating saver cannot capture the structural yield advantage CDs offer over HYSAs.'"
+    }
+  ],
+  "nlp_entities": [
+    "High-Yield Savings Account (HYSA)",
+    "Certificate of Deposit (CD)",
+    "Money Market Account (MMA) — FDIC-insured deposit",
+    "Money Market Fund (MMF) — SEC-regulated mutual fund",
+    "FDIC $250K per-depositor coverage",
+    "SIPC brokerage protection",
+    "VMFXX / SPRXX / SWVXX / VUSXX",
+    "Treasury MMF state-tax exemption",
+    "Form 1099-INT interest reporting",
+    "Early withdrawal penalty (EWP) calculator",
+    "5-year CD ladder strategy",
+    "Reserve Primary Fund 2008 break-the-buck"
+  ],
+  "eeat_requirements": [
+    "Cite FDIC (cite fdic.gov) for $250K per-depositor-per-institution insurance limits AND SIPC (cite sipc.org) for brokerage-account protection AND IRS Publication 550 (cite irs.gov/publications/p550) for the Treasury-MMF state-tax exemption framework. None of the seven competitors anchors all three regulator authorities; citing them converts the FDIC-vs-SIPC vs state-tax framework from claim into defensible primary-source disclosure.",
+    "Cite each money market fund\\'s issuer page directly: VMFXX (cite vanguard.com/money-market-funds), VUSXX (cite vanguard.com/etf/profile/VUSXX), SPRXX (cite fidelity.com/mutual-funds/category-performance-money-market), SWVXX (cite schwab.com/research/mutual-funds). Each MMF\\'s 7-day SEC yield + Treasury percentage (for state-tax-exemption qualification) must be cited from the issuer\\'s own page rather than aggregator copy.",
+    "Cite Federal Reserve Economic Data (cite fred.stlouisfed.org) for historical CD-vs-HYSA rate differentials AND DepositAccounts / Bankrate (cite depositaccounts.com AND bankrate.com/cd-rates) for current-rate aggregation. Demonstrates to the JSONL milestone-celebrating saver that the laddering yield advantage is anchored on Fed historical data rather than bank-marketing copy."
+  ],
+  "style_critique": {
+    "all_tones_found": [
+      {
+        "tone": "investment-firm explainer",
+        "used_by": "investor.vanguard.com r1"
+      },
+      {
+        "tone": "personal-finance publisher",
+        "used_by": "cnbc.com r3, bankrate.com r5, bankrate.com r12"
+      },
+      {
+        "tone": "community-bank editorial",
+        "used_by": "gocanalbank.com r4, citizensbank.com r7, bankwith1st.com r8"
+      }
+    ],
+    "winning_tone": "Investigative consumer advocate — anchors the MMA-vs-MMF distinction on FDIC + SIPC + SEC, the after-tax math on IRS Publication 550 + each fund\\'s Treasury-percentage disclosure, and the CD ladder on Fed historical rate data, with explicit JSONL milestone-celebration tone",
+    "decision_reason": "Priority 1 fired — JSONL emotional_state 'Pride and satisfaction from reaching savings milestones' triggered by 'Emotional pain and guilt from dipping into savings' + JSONL emotional state 'Sadness, guilt, and frustration from using savings' + 'Fear and anxiety about confronting spending habits' + 'Relief and control from budgeting' + JSONL repeated phrase 'tracking every dollar' / \\\"I'm proud of myself\\\" / 'savings account' / 'part time job' — An investigative-consumer-advocate tone fills the gap left by investment-firm explainers (vanguard) blurring MMA/MMF, personal-finance publishers (cnbc, bankrate) skipping after-tax math, and community-bank editorials selling the bank\\'s own products.",
+    "our_directives": [
+      "When discussing 'money market,' always disambiguate Money Market ACCOUNT (FDIC-insured bank deposit) from Money Market FUND (SEC-regulated brokerage mutual fund). Never write \\'money market\\' alone — write \\'a Money Market Account (MMA) is an FDIC-insured deposit at a bank, $250K coverage (cite fdic.gov), variable rate around 4.0-4.5%; a Money Market FUND (MMF) like VMFXX or SPRXX is an SEC-regulated mutual fund at Vanguard, Fidelity, or Schwab — NOT FDIC-insured but SIPC-covered against brokerage failure (cite sipc.org), 7-day SEC yield disclosed daily.\\'",
+      "When comparing yields, always quote the after-tax-equivalent at the reader\\'s combined marginal rate AND apply the Treasury-MMF state-tax exemption. Never write \\'HYSA pays 4.5%\\' — write \\'HYSA 4.5% APY at 22% federal + 5% state combined = 3.29% net; Treasury MMF VUSXX 4.0% at 22% federal-only (state-exempt because >50% Treasuries — cite IRS Publication 550 irs.gov/publications/p550) ≈ 3.45%-3.53% net depending on state. In a high-state-tax state, Treasury MMF beats HYSA after-tax.\\'",
+      "When recommending a CD, always present the 5-rung ladder strategy AND the EWP-breakeven calculator. Never write \\'CDs lock you in for the term\\' — write \\'a 5-rung CD ladder ($2,000 each into 1Y/2Y/3Y/4Y/5Y, reinvesting maturing rungs at then-prevailing 5Y rate) gives you 20% liquidity per year while capturing the 0.50-1.00% historical CD-over-HYSA yield premium (cite fred.stlouisfed.org). EWP breakeven on a 1Y 5.0% CD with 90-day penalty: month 4 of the term — meaning even an early break beats HYSA after month 4.\\'",
+      "When the reader confesses to JSONL pain \\'emotional pain and guilt from dipping into savings,\\' always pair empathy with the laddered-illiquidity framework as the anti-temptation device. Never write \\'just don\\'t spend it.\\' Always write \\'[Empathy sentence]. The fix: split funds into a 1-month-burn HYSA emergency fund (instant access) PLUS a 5-rung CD ladder (20% liquid per year) PLUS a Treasury MMF (state-tax exempt, T+1 settlement). The EWP penalty becomes the JSONL discipline anchor — breaking a CD costs 90 days of interest, which is the friction that converts the JSONL pride-and-satisfaction milestone into a structural defense against impulsive withdrawal.\\'"
+    ]
+  },
+  "title_intelligence": {
+    "dominant_title_pattern": "'High-yield savings accounts vs. CDs vs. money market funds / CD Vs. Money Market Account Vs. High-Yield Savings Account / Money Market vs CDs: 10 Reasons to Choose / Money Market Accounts vs. Savings Accounts vs. CDs' — competitors title around the 3-way comparison without flagging the MMA vs MMF distinction or the after-tax math.",
+    "short_title": "HYSA vs CD vs Money Market: After-Tax + State-Exempt + Ladder Math",
+    "long_title": "HYSA vs CD vs Money Market — Why The MMA-vs-MMF Distinction Decides Everything, How Treasury Money Market Funds Beat HYSA After State Tax, And The 5-Rung CD Ladder That Keeps 20% Liquid Each Year"
+  },
+  "reader_psychology": {
+    "triggering_thought": "'High yield savings vs CD vs money market — I see headline rates of 4.5% HYSA, 5.0% CD, 4.0% money market. But which one wins after tax? Is the money market the SEC-regulated fund my brokerage offers or the FDIC-insured account at my bank — they both call themselves money market and pay similar rates? And if I lock into a CD for a year and need the money for an emergency, am I screwed?' — close paraphrase of JSONL emotional_state 'Pride and satisfaction from reaching savings milestones' + 'Sadness, guilt, and frustration from using savings' + 'Fear and anxiety about confronting spending habits' + 'Relief and control from budgeting' + JSONL pain 'Emotional pain and guilt from dipping into savings' + JSONL repeated phrase 'tracking every dollar' / \\\"I'm proud of myself\\\" / 'savings account' / 'part time job.'",
+    "desired_internal_shift": "From Headline-Yield Reader to After-Tax-Equivalent Operator With A Distinguished MMA-vs-MMF Choice And A 5-Rung CD Ladder",
+    "bridge_content": "The MMA-vs-MMF Distinction (Content Gap 1) followed by the After-Tax + State-Tax-Exemption Math (Content Gap 2) and the 5-Rung CD Ladder (Content Gap 3). The reader of high-yield-savings-vs-cd-vs-money-market arrives believing the answer is the highest headline rate; the article reframes the question as \\'the answer is the after-tax-equivalent yield at your combined marginal rate, with the MMA-vs-MMF regulator distinction made first, and a 5-rung CD ladder that captures the 0.50-1.00% premium while preserving 20% annual liquidity.\\' Once the reader sees the Treasury-MMF state-tax-exemption and the CD-ladder structural advantage, the JSONL pride-and-satisfaction milestone is anchored on a defended 4-product allocation, and the JSONL guilt-from-dipping-into-savings is converted into the laddered-illiquidity discipline."
+  },
+  "internal_linking": null
+}
+```
+<!-- END_BATTLE_PLAN_BRIEF -->

@@ -671,3 +671,94 @@ _Body text (45 chars) saved to JSON sidecar_
 
 
 ---
+
+
+---
+<!-- BATTLE_PLAN_BRIEF -->
+# Battle Plan Brief
+**Generated:** 2026-04-27T00:56:53.608899+00:00  
+**Keyword:** best ways to save money
+
+## Validation — 4 Checks (PASS)
+- **Keyword match:** YES — Keyword tokens hit: 2/2; angle tokens: 6
+- **Psychology match:** YES — 32 pain/emotion tokens echoed; keyword hit: True
+- **Competitor evidence:** YES — 3/3 gaps tied to named competitors with body evidence
+- **Gap specificity:** YES — All 3 gaps are specific (named WHO + WHERE + concrete edge)
+
+## Brief
+```json
+{
+  "content_gaps": [
+    {
+      "name": "Tips never sorted by automation level (set-once vs decide-every-time)",
+      "what_they_missed": "All seven competitors mix automated and manual tips in flat lists. nerdwallet.com (230 words) lists 28 tips numbered together — 'automate transfers' (#5, set-once-forever) sits next to 'find ways to' (#20, decide-every-time). bettermoneyhabits.bankofamerica.com (1,721 words) covers 'Make savings a monthly expense' alongside 'organize the numbers by categories.' investor.vanguard.com (2,479 words) lists '10 practical tips' including 'Automate transfers to savings and retirement accounts' as one bullet among ten — equal weight to 'Cut costs by meal planning' which requires weekly decisions. breadfinancial.com (753 words) gives 11 tips of similar mixed nature. americasaves.org (2,581 words) gives 54 tips, all numbered equal. mymoney.gov (361 words) and moneysmart.gov.au (1,112 words) round out the chorus. None ranks tips by 'how many decisions does this take per year' — the single most important attribute since the JSONL pain 'Tracking spending but not analyzing it to identify money leaks' is exactly the failure mode of decide-every-time tips.",
+      "our_edge": "Add an H2: 'Set Once vs Decide Every Time — The Two Stacks That Determine Whether Saving Sticks.' Build a 2-column table — Set-Once-Forever (decisions per year ≤ 1) vs Decide-Every-Time. Set-Once column: (a) Auto-transfer 10% of every paycheck to a HYSA on payday (1 decision/year, set in payroll OR bank). (b) Roth IRA / 401(k) auto-contribution increase by 1% every January (1 decision/year, set in plan portal). (c) HYSA at 4% APY instead of 0.01% checking-account interest (1 decision/year, switch banks once). (d) Auto-pay minimum on all credit cards + recurring bills (1 decision/year, eliminates late-fee leak). (e) One-call cell + internet renegotiation (1 decision/year, locks ~$200-500/yr saving). Decide-Every-Time column: (a) meal planning (52 decisions/yr per breadfinancial.com / vanguard.com #4-5). (b) coffee at home vs cafe (~250 decisions/yr per nerdwallet.com #20-23). (c) impulse-purchase 30-day rule (~50 decisions/yr per nerdwallet.com #15). (d) coupon clipping (~50 decisions/yr per americasaves.org #18-29). Closing rule: 'Six SERP results give 28-54 tips equal weight. The truth: ~5 set-once moves capture ~80% of the savings the 28-54 tips collectively claim. Build the Set-Once stack first; the Decide-Every-Time stack is for after.'"
+    },
+    {
+      "name": "Savings-rate % milestones never used as the actual progress metric",
+      "what_they_missed": "americasaves.org (2,581 words) opens with '$500 emergency fund' as the first-stop anchor — a dollar number, not a rate. bettermoneyhabits.bankofamerica.com (1,721 words) tells the reader to 'organize numbers by categories' and 'make savings a monthly expense' but never names the savings rate (% of take-home income saved each month) as the milestone metric. investor.vanguard.com (2,479 words) cites 'the 50/30/20 rule' once but stops there — does not anchor the reader on a 5% / 10% / 15% / 20% milestone path. nerdwallet.com (230 words) tells the reader to 'set savings goals' (#2) without giving a savings-rate target. mymoney.gov (361 words) says 'pay yourself first' without a percentage. breadfinancial.com (753 words) and moneysmart.gov.au (1,112 words) — the same. Yet the savings RATE is the only metric that scales correctly with income (someone earning $40,000 vs $200,000 needs different dollar targets but the same rate target) and the only one that translates directly to financial-independence math (e.g. ~25% savings rate → ~30 years to financial independence per Mr. Money Mustache / Vicki Robin shockingly simple math).",
+      "our_edge": "Add an H2: 'The Single Metric That Replaces Every Dollar Goal — Your Savings Rate Milestone Path.' Build a 5-row milestone table. Columns: Milestone | Savings Rate | What It Buys You | Time-to-Financial-Independence (FI). Row 1: 0-5% — 'Just started' — covers ~$500 emergency fund in ~6 months on $50,000 income — FI ~65 years. Row 2: 5-10% — 'Bill-payer' — covers 1-3 months emergency + 401(k) match — FI ~50 years. Row 3: 10-15% — 'Default-American (around BLS median)' — full emergency fund + IRA fully funded — FI ~43 years. Row 4: 15-25% — 'Above-median' — emergency + IRA + brokerage taxable starts growing — FI ~25-32 years. Row 5: 25-50% — 'FIRE-track' — emergency + IRA + 401(k) at limit + brokerage compounding — FI ~10-22 years (cite Mr. Money Mustache 'Shockingly Simple Math' Jan 2012 OR Vicki Robin 'Your Money or Your Life'). Closing rule, JSONL-anchored on 'paycheck to paycheck' / 'pen and paper': 'Every SERP result hands the reader a $500 or $1,000 dollar goal. The right metric is the rate. A pen-and-paper monthly entry: take-home income ÷ savings deposited that month = your rate. Move it up by 1 percentage point per quarter — that is the entire job.'"
+    },
+    {
+      "name": "Friction-by-category not given (which tips to do at which life-stage)",
+      "what_they_missed": "americasaves.org (2,581 words) gives 54 tips covering dating, weddings, kids, retirement, debt — but does not match tips to life-stage. nerdwallet.com (230 words) lumps all 28 tips together. bettermoneyhabits.bankofamerica.com (1,721 words) addresses generic 'savings for the future.' investor.vanguard.com (2,479 words) gives 10 generic tips. moneysmart.gov.au (1,112 words) lumps tips by spending category (electricity, food) but not by life-stage. The reader\\'s JSONL emotional state 'Anxiety and overwhelm from seeing chaotic finances' is exactly the response to a 54-tip list that does not say 'if you are 25, do these 5; if you are 35 with kids, do these 5; if you are 50 nearing retirement, do these 5.' Without life-stage filtering the reader has to read every tip to figure out which 5 actually apply — and most readers stop reading.",
+      "our_edge": "Add an H2: 'Best Ways to Save Money by Life Stage — The Five Tips That Apply to YOU.' Build a 4-row life-stage map. Stage 1 (early-career, 22-29): Set up Roth IRA contribution + 401(k) match capture + HYSA auto-transfer + student-loan auto-pay + cell + insurance shopping (skip life-insurance, mortgage, kid-related items). Stage 2 (parents-with-young-kids, 30-44): Layer onto Stage 1: 529 plan auto-contribute + term-life insurance + dependent-care FSA + HSA family contribution. Stage 3 (peak-earners-pre-retirement, 45-59): Layer in: backdoor Roth + mega-backdoor Roth (if 401(k) supports after-tax contributions) + I-Bond ladder + asset-location tax efficiency review. Stage 4 (near-retirement, 60+): Layer in: Roth conversion ladder + Medicare premium IRMAA management + Social Security claim-age optimization (cite ssa.gov for delayed-credit math). Closing rule: 'americasaves.org\\'s 54 tips, nerdwallet.com\\'s 28, vanguard.com\\'s 10 — all equally relevant to a 25-year-old and a 55-year-old. They cannot be. The 5 right tips for YOUR life stage capture ~90% of the savings the full 54-tip list claims; the other 49 are noise for someone else\\'s decade.'"
+    }
+  ],
+  "nlp_entities": [
+    "set-once vs decide-every-time taxonomy",
+    "savings rate (% of take-home income)",
+    "shockingly simple math (Mr. Money Mustache)",
+    "FI / financial independence number",
+    "401(k) employer match capture",
+    "Roth IRA + 401(k) auto-contribution",
+    "HYSA at 4% APY",
+    "auto-pay + bill renegotiation (set-once)",
+    "529 plan auto-contribute (parent stage)",
+    "backdoor Roth + mega-backdoor Roth (peak-earner stage)",
+    "Roth conversion ladder (near-retirement stage)",
+    "life-stage tip filtering"
+  ],
+  "eeat_requirements": [
+    "Cite Mr. Money Mustache 'The Shockingly Simple Math Behind Early Retirement' (cite mrmoneymustache.com January 13 2012) AND Vicki Robin 'Your Money or Your Life' for the savings-rate-to-FI math used in the milestone table. None of the seven competitors anchors a savings-rate target on this primary source — citing it converts the rate-vs-dollar argument from opinion into a published-result claim.",
+    "Cite the U.S. Bureau of Labor Statistics personal-saving-rate data (cite bls.gov / fred.stlouisfed.org/series/PSAVERT) for the 'around BLS median' anchor in the savings-rate milestone table. nerdwallet.com and vanguard.com discuss savings generically without a published baseline — citing FRED PSAVERT shows the median U.S. personal saving rate hovers ~3-7% depending on cycle and gives the reader a defensible comparison.",
+    "Cite the IRS contribution-limits page (cite irs.gov/retirement-plans/plan-participant-employee/retirement-topics-ira-contribution-limits) and Social Security Administration delayed-retirement-credit page (cite ssa.gov/oact/quickcalc) for the life-stage Stage 3 / Stage 4 sections. Demonstrates to the JSONL skeptical reader that the article is anchored on the federal authority pages rather than vendor marketing."
+  ],
+  "style_critique": {
+    "all_tones_found": [
+      {
+        "tone": "personal-finance brand listicle",
+        "used_by": "nerdwallet.com r2, breadfinancial.com r14"
+      },
+      {
+        "tone": "government / non-profit explainer",
+        "used_by": "mymoney.gov r3, moneysmart.gov.au r8, americasaves.org r18"
+      },
+      {
+        "tone": "bank brand educational content",
+        "used_by": "bettermoneyhabits.bankofamerica.com r10, investor.vanguard.com r11"
+      }
+    ],
+    "winning_tone": "Personal-finance editor with quiet authority — anchors every claim on BLS / FRED / IRS / SSA primary sources, replaces 28-54 unranked tips with a 3-tool framework (Set-Once stack, savings-rate milestone, life-stage filter)",
+    "decision_reason": "Priority 1 fired — JSONL emotional_state 'Anxiety and overwhelm from seeing chaotic finances or the tracking process' triggered by 'Tracking spending but not analyzing it to identify money leaks or create a budget' + JSONL emotional state 'Defeat and confusion from living paycheck to paycheck' + JSONL repeated phrase 'pen and paper/an excel sheet' / 'paycheck to paycheck' — A personal-finance-editor tone fills the gap left by the brand listicles (nerdwallet, breadfinancial) which dump tips, the government explainers (mymoney, moneysmart, americasaves) which lump 54 tips together, and the bank brand content (bettermoneyhabits, vanguard) which lists tips without a meta-framework. The reader is overwhelmed by tips; the article must hand them three sorting tools.",
+    "our_directives": [
+      "When recommending a savings tip, always state whether it is Set-Once or Decide-Every-Time and the decisions/year cost. Never write 'meal plan to save money' — write 'meal plan — Decide-Every-Time, ~52 decisions/year, captures ~$1,200/yr if held for 12 months but typically falls off after 90 days.'",
+      "When stating a savings goal, always express it as a savings rate percentage of take-home income, with the dollar amount in parentheses. Never write 'save $500 for emergencies' — write 'aim for a 10% savings rate of take-home (~$417/month on a $50,000 take-home, or ~$833/month on $100,000) — the rate scales correctly with income; the dollar number does not.'",
+      "When recommending a tip, always specify the life stage. Never write 'open a Roth IRA' — write 'Stage 1 (early career 22-29) and Stage 2 (parents 30-44): open a Roth IRA — Stage 3 (peak earners 45-59) considers backdoor Roth instead since direct contributions phase out above $165K income (cite irs.gov for current MAGI limits).'",
+      "When the reader confesses to JSONL pain 'tracking but not creating a budget,' always pair empathy with the savings-rate metric AND the Set-Once stack as the sequence. Never write 'create a budget.' Always write '[Empathy sentence]. The fix is two moves in this order: (1) compute one number — last month\\'s savings rate (savings ÷ take-home pay × 100); (2) build the 5-tip Set-Once stack so next month\\'s rate is 1 percentage point higher.'"
+    ]
+  },
+  "title_intelligence": {
+    "dominant_title_pattern": "'[N] Ways to Save Money' OR 'How to Save Money' — every competitor leads with N + ways + outcome; few specify Set-Once stack, savings-rate milestone, or life-stage filter.",
+    "short_title": "Best Ways to Save Money: Set-Once Stack + Savings-Rate Milestones",
+    "long_title": "The Best Ways to Save Money — Five Set-Once Moves That Beat 54 Tips, Savings-Rate Milestones (Not Dollar Goals), and Tips Filtered by Life Stage"
+  },
+  "reader_psychology": {
+    "triggering_thought": "'I have read the 28-tip list and the 54-tip list. I do not know the best ways to save money for ME — am I supposed to do all 54? Which 5 actually move the needle on the way I save money? And how do I know if I am making progress without printing the same generic $500-emergency-fund goal every month?' — close paraphrase of JSONL emotional_state 'Anxiety and overwhelm from seeing chaotic finances or the tracking process' + 'Defeat and confusion from living paycheck to paycheck with unexplained money loss' + JSONL pain 'Tracking spending but not analyzing it to identify money leaks or create a budget' + JSONL repeated phrase 'track every dollar' / 'pen and paper/an excel sheet' / 'paycheck to paycheck' / 'manual entry.'",
+    "desired_internal_shift": "From Overwhelmed 28/54-Tip Reader to Three-Tool Operator (Set-Once Stack + Savings-Rate Milestone + Life-Stage Filter) Tracking One Number Each Month",
+    "bridge_content": "The Set-Once-vs-Decide-Every-Time taxonomy (Content Gap 1) followed by the Savings-Rate Milestone Path (Content Gap 2) and the Life-Stage Filter (Content Gap 3). The reader of best-ways-to-save-money arrives believing the answer is 'pick more tips from the list'; the article reframes the question as 'apply three sorting tools — Set-Once first, track the rate, filter by life stage.' Once the reader builds the 5-move Set-Once stack and computes one savings-rate number on a pen-and-paper line each month, the JSONL anxiety converts into a single tracked metric that moves up by 1 percentage point per quarter."
+  },
+  "internal_linking": null
+}
+```
+<!-- END_BATTLE_PLAN_BRIEF -->

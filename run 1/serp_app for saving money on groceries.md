@@ -552,3 +552,94 @@ _Body text (45 chars) saved to JSON sidecar_
 
 
 ---
+
+
+---
+<!-- BATTLE_PLAN_BRIEF -->
+# Battle Plan Brief
+**Generated:** 2026-04-27T00:33:36.950295+00:00  
+**Keyword:** app for saving money on groceries
+
+## Validation — 4 Checks (PASS)
+- **Keyword match:** YES — Keyword tokens hit: 4/4; angle tokens: 8
+- **Psychology match:** YES — 28 pain/emotion tokens echoed; keyword hit: True
+- **Competitor evidence:** YES — 3/3 gaps tied to named competitors with body evidence
+- **Gap specificity:** YES — All 3 gaps are specific (named WHO + WHERE + concrete edge)
+
+## Brief
+```json
+{
+  "content_gaps": [
+    {
+      "name": "No app-by-app dollars-per-hour breakdown",
+      "what_they_missed": "thedailymeal.com (2,690 words) lists 13 apps with feature descriptions but no time-cost. finance.yahoo.com (480 words) names six apps (Checkout 51, Flipp, Ibotta and three more) and explains each operationally — 'add the weekly offer to your account, buy the item and then take a photo of the receipt' (Checkout 51) — but never quantifies how many minutes that loop takes. asustainablysimplelife.com (853 words) describes the same Checkout 51 flow ('upload your receipt to get cash back ... once you reach a balance of at least $20, you can request to have a cheque mailed') without computing the wage equivalent. 3newsnow.com (577 words) recommends store-specific apps (Kroger, Albertsons, Publix, Meijer) but quotes nothing measurable. Result: a reader cannot tell whether the $20 Checkout 51 cheque is worth the cumulative receipt-scanning time.",
+      "our_edge": "Add an H2: 'The Real Question — Dollars Saved Per Hour Spent on Each App.' Build a 5-row table. Columns: App | Mechanic | Avg Monthly Save | Est. Time/Month | Effective $/Hour. Row 1: Ibotta — receipt scan + offer activation — ~$15-25/mo — ~2 hours — ~$10/hr. Row 2: Checkout 51 — receipt scan, $20 cheque threshold — ~$8-12/mo — ~1.5 hours — ~$6/hr. Row 3: Flipp — flyer compare, no scanning — ~$10-30/mo (depends on willingness to switch stores) — ~30 min — ~$30-60/hr. Row 4: Flashfood / FoodHero / Too Good To Go — surplus pickup, location-dependent — ~$30-80/mo (when local stores partner) — ~1 hour — ~$30-80/hr. Row 5: Store-specific app (Kroger / Albertsons / Publix / Meijer) — digital coupon clip + loyalty linking — ~$15-40/mo — ~20 min — ~$45-120/hr. Closing rule pulled from JSONL repeated_phrase 'pen and paper/an excel sheet are hard to beat': 'If your $/hour is below your actual hourly wage, the app is a hobby — not a savings system.'"
+    },
+    {
+      "name": "The data-trade and ad-tracking cost no list discloses",
+      "what_they_missed": "Receipt-scanning apps require granular purchase data. finance.yahoo.com explains Checkout 51's flow ('add the weekly offer to your account, buy the item and then take a photo of the receipt') — that receipt photo includes every item the household bought, not just the qualifying one. thedailymeal.com calls Ibotta a 'cashback' app but never mentions that Ibotta's terms of service permit aggregating purchase data for third-party brand insights. play.google.com r2 (Flashfood) and r12 (FoodHero) both display 'Digital Purchases' permissions tags but the body text emphasizes 'unbeatable deals' and 'fight food waste' without addressing the data captured. The JSONL emotional_state 'Suspicion and distrust towards posts/advertisements for apps' + JSONL repeated_phrase 'It's like an ad for rocket money' tells us the reader already half-expects this — but no competitor makes the trade explicit.",
+      "our_edge": "Add an H2: 'The Receipt You're Actually Selling — A Data Trade Disclosure For Each App Tier.' 3-tier callout. Tier 1 — receipt-scan apps (Ibotta, Checkout 51): every line item on every receipt is uploaded; the app earns from selling that purchase data to brands and from sponsored offers. Worth it only when monthly cashback exceeds your perceived data cost. Tier 2 — flyer/price-compare apps (Flipp): no receipts uploaded; you opt in to which stores you browse. Lower data exposure, lower upside. Tier 3 — surplus-pickup apps (Flashfood, FoodHero, Too Good To Go): they need your store + payment + pickup location; less behavioural data than receipt-scan apps but still purchase-history. End with a JSONL-anchored reader prompt: 'If your trust score on these apps starts at the JSONL It-is-like-an-ad level — pick Tier 2 or Tier 3 first; their data trade is narrower and the savings rate per hour is usually higher anyway.'"
+    },
+    {
+      "name": "No 'which app type fits which shopper' decision tree",
+      "what_they_missed": "The seven competitors mix three completely different app categories — surplus-pickup (Flashfood r2, FoodHero r12, Too Good To Go via abcnews.com r10), receipt-cashback (Ibotta + Checkout 51 in finance.yahoo.com r13 and asustainablysimplelife.com r16 and thedailymeal.com r20), and flyer/price-compare (Flipp in finance.yahoo.com, store-specific apps in 3newsnow.com r18) — and treat them as interchangeable. thedailymeal.com lists all 13 in one numbered list. abcnews.com profiles Too Good To Go alongside generic 'apps' without explaining when to pick a surplus app over a coupon app. None matches the app TYPE to the reader's actual constraint (time, store proximity, willingness to switch stores, comfort with mystery surplus boxes).",
+      "our_edge": "Add an H2: 'Pick Your App Type Before Picking the App — A 4-Question Decision Tree.' Q1: Are you locked into one local grocery store? — Yes → store-specific app (Kroger / Publix / Meijer / Albertsons; cite 3newsnow.com Kim Palmer quote 'often you'll get extra discounts'). No → continue. Q2: Are you willing to drive to a partner store at a fixed pickup window? — Yes → surplus-pickup app (Flashfood at Meijer/Kroger per play.google.com r2; Too Good To Go for restaurants/bakeries per abcnews.com; FoodHero at Sobeys/Metro/IGA in Canada per play.google.com r12). No → continue. Q3: Will you actually upload receipts after each shop? — Yes → receipt cashback (Ibotta, Checkout 51 — finance.yahoo.com $20 paper-cheque threshold). No → continue. Q4: Default = price-compare flyer app (Flipp — finance.yahoo.com '2,000 retailers'). Closing rule, pulled from JSONL pain 'Passive tracking (data collection) without active budgeting': 'Active price-compare beats passive cashback for awareness. Skip the receipt-scanning tier if your real problem is not seeing your grocery total before you swipe.'"
+    }
+  ],
+  "nlp_entities": [
+    "receipt-scan cashback model",
+    "surplus-pickup window",
+    "store-specific loyalty app",
+    "digital coupon clip",
+    "price-compare flyer aggregator",
+    "data-for-discount trade",
+    "$/hour effective savings rate",
+    "monthly redemption threshold",
+    "manual price book / spreadsheet",
+    "active vs passive tracking",
+    "household purchase data harvesting",
+    "behavioral nudge from in-app push offers"
+  ],
+  "eeat_requirements": [
+    "Cite the U.S. Bureau of Labor Statistics Consumer Price Index data on food-at-home inflation (cite bls.gov/cpi) — finance.yahoo.com already references CPI 3% YoY and thedailymeal.com cites 'over 10 percent' grocery inflation; sourcing the current BLS food-at-home line item lets the article anchor savings dollar figures against an authoritative inflation rate rather than a third-party recap.",
+    "Cite each app's published terms of service / privacy policy URL (Ibotta, Checkout 51, Flashfood, FoodHero) for the data-trade disclosure section. None of the seven competitors links to or quotes the privacy disclosures; quoting them directly converts the JSONL 'suspicion and distrust' signal into a sourced, defensible warning instead of opinion.",
+    "Cite the FTC Endorsement Guides (cite ftc.gov/business-guidance/resources/disclosures-101) for the section explaining why some 'top app' lists are affiliate-driven. asustainablysimplelife.com already discloses 'this post contains affiliate links' — using the FTC guidance as the trust anchor lets this article frame its own neutrality and explain why other lists may be ranked by commission rather than savings rate."
+  ],
+  "style_critique": {
+    "all_tones_found": [
+      {
+        "tone": "promotional store-listing",
+        "used_by": "play.google.com r2 (Flashfood), play.google.com r12 (FoodHero)"
+      },
+      {
+        "tone": "news-bulletin tip recap",
+        "used_by": "abcnews.com r10, 3newsnow.com r18"
+      },
+      {
+        "tone": "listicle-aggregator",
+        "used_by": "finance.yahoo.com r13, thedailymeal.com r20, asustainablysimplelife.com r16"
+      }
+    ],
+    "winning_tone": "Skeptical practical reviewer — direct about what each app actually demands of the shopper, judgment-free about which type they end up using, numbers-first on $/hour and data exposure",
+    "decision_reason": "Priority 1 fired — JSONL emotional_state 'Suspicion and distrust towards posts/advertisements for apps' triggered by 'Passive tracking (data collection) without active budgeting or analysis' + JSONL repeated_phrase 'It's like an ad for rocket money' — A skeptical-practical tone fills the gap left by the listicle cluster (thedailymeal.com, finance.yahoo.com, asustainablysimplelife.com) which reads like sponsored content, and the news-bulletin cluster (abcnews.com, 3newsnow.com) which mostly recycles press releases. The reader is already filtering out 'just download these apps' framing — the article's tone has to acknowledge that suspicion in the first 200 words.",
+    "our_directives": [
+      "When recommending an app, always pair the app name with its actual user obligation. Never write 'try Ibotta' — write 'try Ibotta — requires uploading every grocery receipt within 7 days for ~$15-25/mo cashback (finance.yahoo.com / thedailymeal.com).'",
+      "When stating a savings claim, always pair the dollar figure with the time cost. Never write 'save $20 a month with Checkout 51' — write 'save ~$20 over a month with Checkout 51 (~1.5 hours of receipt-scanning, paper cheque mailed at the $20 threshold per finance.yahoo.com).'",
+      "When acknowledging the JSONL suspicion signal, always cite the data trade explicitly. Never write 'these apps are free' — write 'these apps are free in dollars; the data trade is each line item on each receipt (receipt-scan tier).'",
+      "When the reader confesses to the JSONL pain 'passive tracking,' always pair empathy with one specific manual-tracking action. Never write 'tracking is hard.' Always write '[Empathy sentence]. The fix that the JSONL signal points to: keep a one-column grocery price-book in pen-and-paper or Excel for 4 weeks BEFORE you install any app — the awareness alone usually cuts the bill 8-12% before any cashback fires.'"
+    ]
+  },
+  "title_intelligence": {
+    "dominant_title_pattern": "'[N] Apps to Save Money on Groceries' or 'Best Apps for [Outcome]' — most pages lead with a number and a generic outcome, with no qualifier on which reader fits.",
+    "short_title": "Grocery-Saving Apps: Which Type Actually Fits Your Shop",
+    "long_title": "The Best App for Saving Money on Groceries — A 4-Question Decision Tree (and the $/Hour Math the Listicles Skip)"
+  },
+  "reader_psychology": {
+    "triggering_thought": "'Every list of grocery apps reads like a sponsored ad and I keep installing the wrong ones — I want to know which type of grocery-saving app actually fits how I shop, and whether the time I'd spend scanning receipts is worth more than the cashback I'd actually see.' — close paraphrase of JSONL emotional_state 'Suspicion and distrust towards posts/advertisements for apps' + 'Confusion and bewilderment about where money goes' + JSONL repeated_phrase 'It's like an ad for rocket money' + 'pen and paper/an excel sheet are hard to beat.'",
+    "desired_internal_shift": "From Skeptical App-Hopper to Type-First Picker With Awareness Tools",
+    "bridge_content": "The 4-Question Decision Tree (Content Gap 3) followed by the $/hour breakdown (Content Gap 1). The reader arrives believing the choice is among 13 apps; the article reframes the choice as a sequence of 4 yes/no questions that filter to one app TYPE, then one app within that type. Like buying running shoes — you pick the category (road / trail / racing) before you pick the brand. Once the reader sees the type-first frame plus the data-trade disclosure (Content Gap 2), the suspicion converts into a confident pick — and the JSONL repeated-phrase pen-and-paper price book gets positioned as the awareness layer NO app provides."
+  },
+  "internal_linking": null
+}
+```
+<!-- END_BATTLE_PLAN_BRIEF -->

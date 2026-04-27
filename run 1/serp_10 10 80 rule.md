@@ -545,3 +545,98 @@ _Body text (45 chars) saved to JSON sidecar_
 
 
 ---
+
+
+---
+<!-- BATTLE_PLAN_BRIEF -->
+# Battle Plan Brief
+**Generated:** 2026-04-27T00:25:54.459189+00:00  
+**Keyword:** 10 10 80 rule
+
+## Validation — 4 Checks (PASS)
+- **Keyword match:** YES — Keyword tokens hit: 1/1; angle tokens: 6
+- **Psychology match:** YES — 24 pain/emotion tokens echoed; keyword hit: True
+- **Competitor evidence:** YES — 3/3 gaps tied to named competitors with body evidence
+- **Gap specificity:** YES — All 3 gaps are specific (named WHO + WHERE + concrete edge)
+
+## Brief
+```json
+{
+  "content_gaps": [
+    {
+      "name": "Two competing versions of 10-10-80",
+      "what_they_missed": "readthereporter.com, ebsco.com, finance.yahoo.com, aol.com, and crosswalk.com all teach the same single version: 10% giving, 10% saving, 80% living. None of them mention that a competing 10-10-80 framing exists in the wild that allocates 10% to needs, 10% to wants or debt, and 80% to savings/investments — even though the SERP itself surfaces this confusion (article_context.serp_intent). A reader landing on yahoo.com or ebsco.com gets one rule; a reader reading other sources gets the inverse. None of the five competitors disambiguate.",
+      "our_edge": "Add an H2 'There Are Two 10-10-80 Rules — Here's How to Pick the Right One.' Build a side-by-side comparison table — columns: Version | Allocation | Best For | Source. Row 1: Classic Rockefeller (per ebsco.com) → 10% give / 10% save / 80% live → readers in stable income who want a simple lifelong allocation including charity. Row 2: Aggressive Saver → 10% needs / 10% wants/debt / 80% save+invest → readers in temporary high-income or transition periods (severance, bonus, FIRE pursuit). Close the H2 with one decision sentence: 'If your goal is sustainable lifelong rhythm, use Version 1. If your goal is to deploy a temporary income surge, use Version 2.' This is the disambiguation no competitor provides."
+    },
+    {
+      "name": "The 80% bucket cannot fit real fixed costs",
+      "what_they_missed": "ebsco.com is the only competitor that even names a fixed-cost ceiling: 'housing and transportation expenses that ideally should not exceed 50% of one's income combined.' The other six (readthereporter.com, finance.yahoo.com, aol.com, discover.com, singlemomuniversity.com, crosswalk.com) treat the 80% bucket as automatically sufficient. finance.yahoo.com and aol.com use a $7,000 monthly paycheck example with $5,600 to live on — irrelevant to the JSONL reader who 'cannot afford to also contribute to their 401k.' None of them give a stress test before recommending the rule.",
+      "our_edge": "Add an H2: 'Run the Stress Test Before You Adopt 10-10-80.' Build a 4-row decision table — columns: Your Net Monthly Income | Fixed Costs (rent + transport + insurance + minimums) | Fixed % of Net | What 10-10-80 Looks Like. Row example: $3,200 net income, $2,400 fixed costs (75%) → 80% bucket = $2,560, leaves $160 for variable (food, utilities), so the rule cannot work as written. Then a callout: 'If your fixed costs already exceed 60% of net income, run the Subscription + Lease Audit (next section) BEFORE applying 10-10-80. The rule assumes a financially healthy starting point — for many readers it has to be earned first.' This converts ebsco.com's buried 50% ceiling into an upfront diagnostic."
+    },
+    {
+      "name": "Subscription audit as a precondition",
+      "what_they_missed": "finance.yahoo.com and aol.com (which run the same body text) explicitly normalize subscription leaks in the example: 'you can spend it on bills, groceries, Netflix subscriptions, etc.' — the exact behavior the JSONL pain_point flags as 'Wasting money on recurring subscriptions due to lack of oversight.' singlemomuniversity.com mentions 'gas, money for vending machines at work' but no subscription audit. crosswalk.com talks about generosity stats from Huffington Post and lifestyle alignment but never tells the reader to count their auto-renewals. ebsco.com mentions 'responsible spending' abstractly. No competitor includes a concrete pre-budget audit step.",
+      "our_edge": "Add an H2: 'The 15-Minute Pre-Budget Audit (Run This Before Splitting Anything).' Numbered list: (1) Pull the last 60 days of checking and credit card statements. (2) Highlight every charge that repeats monthly or annually — write the dollar amount and renewal date. (3) Tag each one as Keep / Pause / Cancel using a 3-question filter: 'Did I use it in the last 30 days? Would I miss it for 30 days? Is it the cheapest version of this need?' (4) Cancel everything tagged Cancel today; pause the Pause items for one billing cycle. (5) Recalculate net monthly income minus the kept subscriptions, then run the stress test from the previous section. Worked example using JSONL repeated_phrase: 'A reader audits and finds a $14.99 streaming bundle, $9.99 cloud storage they forgot, $19.99 fitness app — that is $44.97/month or $539/year recovered before the 10-10-80 split even starts.'"
+    }
+  ],
+  "nlp_entities": [
+    "three-bucket allocation",
+    "stress-test the budget",
+    "fixed-cost ratio",
+    "Rockefeller principle",
+    "tithe-equivalent giving",
+    "subscription leak audit",
+    "auto-renewal trap",
+    "discretionary float",
+    "income disambiguation (gross vs net)",
+    "envelope-equivalent percentage system",
+    "behavioral allocation discipline",
+    "lifestyle inflation gate"
+  ],
+  "eeat_requirements": [
+    "Cite ebsco.com's body-text rule that combined housing + transportation 'should not exceed 50% of one's income' as the empirical ceiling for the 80% living bucket. Pair this with the U.S. Bureau of Labor Statistics Consumer Expenditure Survey (cite bls.gov/cex) for the actual share of income the average American household spends on housing + transportation; this turns ebsco's abstract guideline into a sourced national benchmark.",
+    "Use the Rockefeller attribution from ebsco.com ('famously associated with John D. Rockefeller') as the historical authority anchor for Version 1 of the rule, and contrast it with the aggressive-saver framing readers encounter elsewhere. This prevents readers from feeling they have stumbled onto a fringe rule when in fact they are seeing two different traditions both named 10-10-80.",
+    "For the giving bucket, cite the Lilly Family School of Philanthropy's most recent 'Giving USA' report (cite givingusa.org) for the U.S. household average charitable giving as a percentage of disposable income — typically 2-3%, not 10%. Showing the gap between the rule and the population average gives readers permission to ramp toward 10% rather than feel they have failed for not hitting it on day one."
+  ],
+  "style_critique": {
+    "all_tones_found": [
+      {
+        "tone": "personal-narrative folksy with Christian undertone",
+        "used_by": "readthereporter.com, crosswalk.com, singlemomuniversity.com"
+      },
+      {
+        "tone": "encyclopedia-formal",
+        "used_by": "ebsco.com"
+      },
+      {
+        "tone": "listicle aggregator with example math",
+        "used_by": "finance.yahoo.com, aol.com"
+      },
+      {
+        "tone": "neutral product-marketing institutional",
+        "used_by": "discover.com, thrivent.com"
+      }
+    ],
+    "winning_tone": "Conversational expert with a regret-aware opener — direct, system-focused, religion-neutral, and arithmetic-honest about who the rule actually fits",
+    "decision_reason": "Priority 1 fired — JSONL emotional_state 'Regret' triggered by 'Wasting money on recurring subscriptions due to lack of oversight' + JSONL repeated_phrase 'cannot afford to also contribute to their 401k' — A regret-aware, judgment-free tone fills the gap left by readthereporter.com, crosswalk.com, and singlemomuniversity.com (all moralizing/Christian framing that alienates the secular reader) and by finance.yahoo.com/aol.com (which blithely use a $7,000 example that does not match the income reality the JSONL signals). Validation first, arithmetic second.",
+    "our_directives": [
+      "When showing the rule's allocation, always run it on two paycheck examples side by side — one matching the social signal (~$3,200 net) and one higher (~$7,000 net). Never use only the high example. Pull the lower number from the JSONL pain context where readers describe being squeezed.",
+      "When mentioning a recurring or subscription cost, always name a specific dollar amount and renewal cadence. Never write 'streaming subscription.' Write '$14.99/month streaming' or '$9.99/month cloud storage' (using JSONL repeated_phrase 'Holy shit at the money people spend on food' style anchoring where applicable).",
+      "When introducing any allocation percentage, always state the base (gross vs net pay) explicitly in the same sentence. Never write 'allocate 10% of income' without specifying 'of net take-home pay (after tax and required deductions).' Readers conflate gross and net constantly.",
+      "When the article references giving, charity, or generosity, always frame it religion-neutral and let the reader name their own destination. Never write 'tithe' without an immediate parenthetical or alternative; never assume the reader's worldview the way readthereporter.com and crosswalk.com do."
+    ]
+  },
+  "title_intelligence": {
+    "dominant_title_pattern": "'10-10-80 Rule' + colon + 'Is This [savings/budgeting] System [Right/Best] For You?' OR personal-narrative ('Living by the 10-10-80 rule') with Christian framing",
+    "short_title": "The 10-10-80 Rule (Both Versions, Honestly)",
+    "long_title": "The 10-10-80 Rule: Two Versions, One Stress Test, and How to Pick"
+  },
+  "reader_psychology": {
+    "triggering_thought": "'I just looked at my bank statement and I am shocked at how much went to subscriptions and food I do not even remember buying — I should be saving but I cannot even afford to fund my 401k. I need a simple percentage rule that finally tells me how to split this.' — a close paraphrase of JSONL emotional_states 'Regret' + 'Shock/Astonishment' + repeated_phrase 'cannot afford to also contribute to their 401k' + top_pain 'Wasting money on recurring subscriptions due to lack of oversight.'",
+    "desired_internal_shift": "From Regretful Subscription Hostage to Diagnosing System Operator",
+    "bridge_content": "The Pre-Budget Audit (Content Gap 3) followed by the Stress Test (Content Gap 2) — in that order. The reader arrives believing the rule will fix things; the article reveals that the rule sits ON TOP of a fixable leak, and the leak has to be plugged first. Like a homeowner who keeps refilling a bucket under a leaking pipe — the fix is not a bigger bucket, it is the 15-minute audit that finds the leak. Once the audit is done, the rule becomes runnable and the regret converts into a sustainable monthly system."
+  },
+  "internal_linking": null
+}
+```
+<!-- END_BATTLE_PLAN_BRIEF -->

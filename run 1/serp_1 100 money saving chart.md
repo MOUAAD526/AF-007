@@ -469,3 +469,98 @@ _Body text (45 chars) saved to JSON sidecar_
 
 
 ---
+
+
+---
+<!-- BATTLE_PLAN_BRIEF -->
+# Battle Plan Brief
+**Generated:** 2026-04-27T00:23:48.214022+00:00  
+**Keyword:** 1 100 money saving chart
+
+## Validation — 4 Checks (PASS)
+- **Keyword match:** YES — Keyword tokens hit: 4/4; angle tokens: 5
+- **Psychology match:** YES — 26 pain/emotion tokens echoed; keyword hit: True
+- **Competitor evidence:** YES — 3/3 gaps tied to named competitors with body evidence
+- **Gap specificity:** YES — All 3 gaps are specific (named WHO + WHERE + concrete edge)
+
+## Brief
+```json
+{
+  "content_gaps": [
+    {
+      "name": "Post-challenge $5,050 deployment framework",
+      "what_they_missed": "ramseysolutions.com (1,437 words) lists step 5 as 'make a plan for your saved money' and offers three vague options ('pay off credit card debt, build emergency fund, or continue saving') with no decision tree, no order of priority, no account types named. thrivent.com (424 words) goes even vaguer: 'pair savings habits with clear goals, budgeting methods and strategies like investing or debt repayment for long-term success.' Neither tells the reader HOW to choose between options or names specific dollar thresholds.",
+      "our_edge": "Add an H2 'What to Do With Your $5,050 on Day 101 — A 3-Row Decision Table.' Columns: Your Situation | Action | Why It Works. Row 1: No emergency fund yet → Move the full $5,050 to a 4%+ HYSA today; this becomes Month 1 of your 3-month emergency fund. Row 2: Has emergency fund + high-rate debt → Apply $5,050 to the highest-APR balance first; an 18% APR card pays the deposit back in ~13 months of avoided interest. Row 3: Both covered → Open a Roth IRA and lump-sum the $5,050 under the 2025 limit; explain why timing matters more than the amount. Anchored to the paa_question 'What should you do with your $5,050 after the challenge?' which Ramsey raised but never answered with a real framework."
+    },
+    {
+      "name": "Cash-pile opportunity cost vs HYSA",
+      "what_they_missed": "All four valid competitors push physical cash envelopes. shop.thebudgetmom.com sells a $27.99 kit with 'wet-erase marker, 100 hand-illustrated envelopes, 100 stickers'; everydaychaosandcalm.com promotes '23 different printable versions' for cash deposits; ramseysolutions.com lists 'physical cash' as a required supply. thrivent.com is the only competitor that hints at the trade-off ('cash-based challenges may disrupt budgets and don't earn interest') but never calculates the actual lost dollars across 100 days of cash sitting still.",
+      "our_edge": "Add an H2: 'The Hidden Cost of Cash Envelopes — and the One-Field Fix.' Build a 4-column comparison table: Method | Day-100 Total | Interest Earned | Net Result. Row 1: Cash envelopes → $5,050 | $0 | $5,050. Row 2: HYSA at 4.5% APY (avg $2,525 balance over 100 days) → $5,050 | ~$31 | $5,081. Followed by a callout: 'Use the free printable AND an automatic $1-to-$100 weekly transfer into a HYSA. You keep the visual game; you stop paying the interest tax.' This converts everydaychaosandcalm.com's printable use case into a hybrid that beats Ramsey's pure-cash approach by quantifying the gap thrivent.com only hinted at."
+    },
+    {
+      "name": "Rescue rules for an unreachable envelope day",
+      "what_they_missed": "ramseysolutions.com offers tips that assume the reader has spare income: 'Create a budget,' 'Increase your income (side hustle, sell some stuff, work overtime),' 'Cut your spending (stop eating out).' thrivent.com's only fallback is 'adapt the challenge (digital tracking, weekly deposits, smaller amounts).' everydaychaosandcalm.com says 'put any amount you want.' None of them give a structured rule for what happens when you draw the $97 envelope on a Friday and the checking account has $42, which is exactly the social_pain 'I tracked everything and still ended up broke.'",
+      "our_edge": "Add an H2: 'The 3 Rescue Rules When You Can't Make Today's Number.' Numbered list: (1) Split rule — if today's envelope is over $50 and the account can't cover it, pull half today and the other half on the next paycheck day; mark both halves on the printable. (2) Swap rule — if today's number is unreachable for two days running, swap with the smallest unfilled envelope and re-bracket the schedule. (3) Pause rule — never zero a day; if you have $0 to give, write the date on the envelope and move it to the end of the calendar (preserves visual streak; preserves the $5,050 finish line). Worked example: 'Day 47 = $89 envelope, only $40 in checking → Split rule: fill $40 today, fill $49 on Day 50 payday, mark both halves on the printable.'"
+    }
+  ],
+  "nlp_entities": [
+    "incremental deposit structure",
+    "gamified savings mechanic",
+    "high-yield savings account (HYSA)",
+    "behavioral substitution loop",
+    "physical-cash opportunity cost",
+    "automated $1-to-$100 transfer",
+    "savings streak preservation",
+    "emergency fund priority gate",
+    "envelope draw schedule",
+    "cash-versus-account interest delta",
+    "manual tracking awareness",
+    "post-challenge deployment plan"
+  ],
+  "eeat_requirements": [
+    "Show the math for $5,050 explicitly. paa_questions confirms the total ('Participants can save up to $5050 by placing cash into numbered envelopes over the course of 100 days'); ramseysolutions.com reproduces it. Use the formula 1+2+...+100 = 100×101/2 = 5,050 inside a callout. The JSONL repeated_phrase 'pen and paper/an excel sheet' tells us readers want to see the work, not be told the answer.",
+    "Quantify the cash-vs-HYSA delta using the FDIC weekly national rate (published at fdic.gov/regulations/resources/rates) as the cited source. thrivent.com's body text already states cash-based challenges 'don't earn interest' — pair that competitor caveat with the current FDIC-published HYSA rate to convert a vague warning into a specific, sourced dollar figure (~$31 over 100 days at a 4.5% APY on the avg $2,525 balance).",
+    "Use thrivent.com's own pivot recommendation as a Tier-2 authority anchor for the hybrid HYSA approach. Their body text endorses 'adapt the challenge (digital tracking, weekly deposits, smaller amounts)' — meaning a professional finance source already legitimizes the digital-tracking variant, so our HYSA hybrid extends an existing recommendation rather than inventing one."
+  ],
+  "style_critique": {
+    "all_tones_found": [
+      {
+        "tone": "motivational and gamified",
+        "used_by": "ramseysolutions.com"
+      },
+      {
+        "tone": "soft-instructional with affiliate-blogger warmth",
+        "used_by": "everydaychaosandcalm.com"
+      },
+      {
+        "tone": "cautious advisor (pros-and-cons)",
+        "used_by": "thrivent.com"
+      },
+      {
+        "tone": "promotional product copy",
+        "used_by": "shop.thebudgetmom.com"
+      }
+    ],
+    "winning_tone": "structured, step-by-step, system-focused with mild warmth — minimal motivational fluff",
+    "decision_reason": "Priority 1 fired — JSONL emotional_state 'Confusion and Frustration' triggered by 'Collecting data but lacking the analytical skills to diagnose financial problems' + JSONL pain_point 'Mere data collection (tracking) without analysis or budgeting leads to financial confusion' — A structured, step-by-step tone fills the gap left by ramseysolutions.com's gamified-motivational copy and everydaychaosandcalm.com's flexible-and-warm framing; both make saving feel fun but neither explains the system that turns the 100-day pile into actual financial progress.",
+    "our_directives": [
+      "When introducing any savings total, always show the math in a single inline sentence. Never write '$5,050' without showing 'sum of 1 to 100 = 100×101/2 = 5,050.' Pull from JSONL repeated_phrase 'pen and paper/an excel sheet' — readers want the work, not the answer.",
+      "When mentioning any monthly cost or recurring charge, always name a specific dollar amount. Never write 'subscription fees' — write '$89/month gym membership' or '$14.99/month streaming subscription,' using JSONL repeated_phrases where available (the $89 figure already lives in the social signal).",
+      "When the reader is given a choice between two financial actions (cash-vs-HYSA, save-vs-debt-payoff), always present a 2-row comparison table with a quantified outcome column. Never present the choice as 'depends on your situation' without showing both numerical results side by side.",
+      "When acknowledging a setback (missed day, unreachable number, low paycheck), always pair the empathy with a specific rule the reader can run today. Never write 'don't worry, just keep going.' Always write '[Empathy sentence]. Apply Rule N: [the action].'"
+    ]
+  },
+  "title_intelligence": {
+    "dominant_title_pattern": "Number-led ('100 Envelope Challenge') + dollar amount ($5,000 or $5,050) + 'Free Printable / PDF / Tracker' suffix",
+    "short_title": "1-100 Money Saving Chart: The $5,050 Plan",
+    "long_title": "The 1-100 Money Saving Chart — Free PDF, Plus What to Do With Your $5,050"
+  },
+  "reader_psychology": {
+    "triggering_thought": "'I'm 25, I'm renting, I've been tracking my money in a spreadsheet for months, and I'm still broke at the end of every week — the problem must be me, not my system' — a close paraphrase of JSONL pain_points 'somehow still broke' and 'Mere data collection (tracking) without analysis or budgeting.' The 1-100 chart search is the moment the reader is trying to swap their failing spreadsheet for something visual that finally works.",
+    "desired_internal_shift": "From Self-Blaming Tracker to Confident System Builder",
+    "bridge_content": "The 'Day 101 Deployment Table' from Content Gap 1 paired with the 'Hidden Cost of Cash' callout from Content Gap 2. The reader arrives believing the chart IS the system. The article reframes the chart as the visual interface for a deeper system: chart + HYSA hybrid + Day-101 decision rule = $5,081 they actually keep, deployed where it produces the most progress. Like a fuel gauge that finally tells you both how much gas you have and where the next station is — the dial alone never solved the problem; pairing the dial with the route does."
+  },
+  "internal_linking": null
+}
+```
+<!-- END_BATTLE_PLAN_BRIEF -->

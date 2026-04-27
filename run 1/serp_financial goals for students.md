@@ -561,3 +561,98 @@ _Body text (45 chars) saved to JSON sidecar_
 
 
 ---
+
+
+---
+<!-- BATTLE_PLAN_BRIEF -->
+# Battle Plan Brief
+**Generated:** 2026-04-27T08:48:55.577562+00:00  
+**Keyword:** financial goals for students
+
+## Validation — 4 Checks (PASS)
+- **Keyword match:** YES — Keyword tokens hit: 3/3; angle tokens: 5
+- **Psychology match:** YES — 28 pain/emotion tokens echoed; keyword hit: True
+- **Competitor evidence:** YES — 3/3 gaps tied to named competitors with body evidence
+- **Gap specificity:** YES — All 3 gaps are specific (named WHO + WHERE + concrete edge)
+
+## Brief
+```json
+{
+  "content_gaps": [
+    {
+      "name": "Real student-specific budgeting spreadsheet template (with the 50/30/20 student-modified split + tuition + textbook line items) never built — competitors mention spreadsheets without providing one",
+      "what_they_missed": "citizensbank.com (2,181 words) recommends 'using the 50/30/20 budgeting method' but does not modify it for the student-specific reality where 'needs' frequently exceed 50% (tuition, books, dorm fees, mandatory health insurance) and 'wants' should be lower than the standard 30%. centier.com (1,250 words) and centier-aut.sitefinity.cloud (2,058 words) discuss goal-setting without providing a downloadable budget template. fbfs.com (713 words) lists short/mid-term goals without a tracking tool. uidaho.pressbooks.pub (397 words) is a basic financial education curriculum that defines short/long term but provides no spreadsheet. chase.com (815 words) targets teens. moneyprodigy.com (1,231 words) lists 26 short-term goal examples without aggregation into a budget. None of the seven competitors provides the actual student-modified budget template the JSONL pain 'Fear of confronting and tracking spending habits' demands. The JSONL repeated phrase 'spending habits' is exactly the data the spreadsheet would surface.",
+      "our_edge": "Add an H2: 'The Student-Modified 50/30/20 Budget Spreadsheet — A Free Template With Real Tuition + Textbook + Dorm Line Items.' 4-paragraph framework. (1) The standard 50/30/20 (50% needs / 30% wants / 20% savings) does not fit students because mandatory costs are higher; the student-modified split is 70/20/10 — 70% needs (tuition portion + room/board + books + transportation + phone + mandatory insurance), 20% wants (food off-campus + entertainment + clothing), 10% savings/debt-payoff (cite citizensbank.com 50/30/20 baseline + College Board\\'s annual student-budget data trends.collegeboard.org/college-pricing for the typical 4-year-college cost structure). (2) Build the actual spreadsheet (free Google Sheets template the article links to): 25 rows including specific student line items — tuition (per-semester divided by 6 months), books ($1,200/year per College Board avg, divided by 12), dorm room rent, meal plan, off-campus food, gas, public transit pass, phone, health insurance (often campus-mandated $200-$2,000), school supplies, lab fees, sorority/fraternity dues, etc. (3) The expense-tracking workflow (cite Mint / YNAB / Empower / Rocket Money for free apps): import bank-statement CSV monthly, auto-categorize, compare actual vs budget. (4) The JSONL anchor: starting the spreadsheet IS confronting spending habits — the JSONL repeated phrase 'spending habits' becomes a column-G pivot showing dollar totals by category for the month. Closing rule, JSONL-anchored on 'spending habits' / 'paycheck to paycheck': 'centier.com\\'s and citizensbank.com\\'s and 5 other competitors mention budgeting without providing the actual spreadsheet — the article that ranks for financial-goals-for-students must link to a downloadable Google Sheets template with student-specific line items, otherwise the JSONL fear-of-confronting-spending-habits never gets confronted.'"
+    },
+    {
+      "name": "Student-specific goal targets (4-year emergency fund target, $1,000 starter, federal loan amounts, FAFSA timing) never quantified — competitors list goals without dollar targets or deadlines",
+      "what_they_missed": "fbfs.com (713 words) lists short-term goals as 'building an emergency fund to cover things like an unexpected car repair or medical bill' without specifying the dollar threshold ($500 starter for college student, $1,000 by graduation, or 1-month-burn target). centier.com (1,250 words) names 'Caring for Your Financial Future' qualitatively. uidaho.pressbooks.pub (397 words) defines short/long term abstractly. chase.com (815 words) targets teens generically. moneyprodigy.com (1,231 words) gives 26 examples for high-schoolers without dollar amounts. None of the seven competitors gives the canonical student-specific dollar targets: $500-$1,000 starter emergency fund (cite consumerfinance.gov/start-small-save-up), 2025 Federal Direct subsidized loan limit (1st year $3,500, 2nd year $4,500, 3rd-4th year $5,500 — cite studentaid.gov/understand-aid/types/loans/subsidized-unsubsidized), the FAFSA deadline (October 1 priority + state-specific deadlines — cite studentaid.gov/h/apply-for-aid/fafsa). The JSONL emotional state 'Anxiety/Overwhelm' + 'Feeling behind/depressed' is exactly the unspoken-target paralysis these missing numbers cause.",
+      "our_edge": "Add an H2: 'Student-Specific Dollar Targets — The Numbers Every College Student Should Memorize.' Build a 6-row dollar-target table. Columns: Goal | Dollar Target | Source | Why This Number. Row 1: Starter emergency fund — $500-$1,000 by end of freshman year — cite consumerfinance.gov/start-small-save-up — covers car repair, broken laptop, lab kit replacement; the 'small first goal' that JSONL fear converts to confidence. Row 2: 1-month emergency fund target by graduation — typical college student burn $1,200-$2,500/month — cite College Board cost-of-attendance data trends.collegeboard.org/college-pricing — covers a 1-month gap between graduation and first paycheck. Row 3: Federal Direct Subsidized Loan annual limits — Year 1 $3,500, Year 2 $4,500, Years 3-4 $5,500 (cite studentaid.gov/understand-aid/types/loans/subsidized-unsubsidized) — borrow only what is needed; subsidized = government pays interest while in school. Row 4: 2025 Pell Grant maximum — $7,395 (cite studentaid.gov/understand-aid/types/grants/pell) — apply BEFORE federal loans. Row 5: Roth IRA contribution at 18+ with earned income — 2025 cap $7,000 OR earned income (whichever lower) (cite irs.gov/retirement-plans/plan-participant-employee/retirement-topics-ira-contribution-limits) — starting Roth at 18-22 vs 28 = ~10× compounding advantage by 65. Row 6: FAFSA deadline — October 1 priority deadline + state deadlines (cite studentaid.gov/h/apply-for-aid/fafsa) — late filing = lost grant aid. Closing rule, JSONL-anchored on 'live while young' / 'paycheck to paycheck' / 'save money': 'fbfs.com and centier.com and 5 competitors list goals qualitatively — the article that helps the JSONL anxious student must give 6 specific dollar targets backed by .gov sources, otherwise the goals stay abstract and the JSONL feeling-behind-depressed persists.'"
+    },
+    {
+      "name": "The compounding advantage of starting a Roth IRA at 18-22 vs 28 never computed — competitors skip the single-highest-ROI student decision",
+      "what_they_missed": "fbfs.com (713 words) lists mid-term goals (study abroad, used car, wedding) without naming retirement-account contribution as a student-eligible goal. citizensbank.com (2,181 words) discusses student budgeting and 50/30/20 without naming the IRS rule that anyone with EARNED income (including a $4,000/year part-time job) can contribute to a Roth IRA up to that earned-income amount (or 2025 cap $7,000 — whichever is lower). moneyprodigy.com (1,231 words) covers high-school short-term goals without retirement. centier-aut.sitefinity.cloud (2,058 words) and uidaho.pressbooks.pub (397 words) and chase.com (815 words) skip Roth-for-students entirely. None of the seven competitors computes the 10-year-head-start compounding advantage: $3,000 contributed at 19 vs 29, both held to 65 at 7% real return — the 19-year-old\\'s contribution becomes ~$110,000 vs the 29-year-old\\'s ~$56,000 (cite SEC investor.gov/calculator). This is the single most consequential student decision and no competitor names it.",
+      "our_edge": "Add an H2: 'The Single Highest-ROI Student Decision — Open A Roth IRA At 19 (Not 29).' 4-paragraph framework. (1) The IRS rule: anyone with EARNED income (W-2 wages, 1099 self-employment) can contribute to a Roth IRA up to their earned income amount or the 2025 cap of $7,000 — whichever is lower (cite irs.gov/retirement-plans/plan-participant-employee/retirement-topics-ira-contribution-limits). A student earning $4,000/year from a part-time campus job can contribute up to $4,000 to a Roth IRA. (2) The compounding scenario: $3,000 contributed at age 19 vs age 29, both held to age 65 at 7% real return (cite SEC investor.gov compound-interest calculator + Vanguard / Fidelity historical S&P returns). 19-year-old: $3,000 × (1.07)^46 = ~$110,000. 29-year-old: $3,000 × (1.07)^36 = ~$56,000. Delta: $54,000 from 10 extra compounding years on a single $3,000 contribution. (3) The mechanics for a college student: open Roth at Fidelity (cite fidelity.com/retirement-ira/roth-ira) or Schwab (cite schwab.com/ira/roth-ira) — both have $0 minimums and $0 commissions. Invest in a 3-fund portfolio: FZROX (Fidelity Total Market 0% expense ratio) or VTI (Vanguard Total Market 0.03%) + VXUS international + BND bonds. (4) The Roth advantage for the JSONL student: contributions (not earnings) can be withdrawn anytime tax-free + penalty-free (cite IRS Publication 590-A — cite irs.gov/publications/p590a) — meaning the Roth IRA doubles as a 5-year emergency-fund-with-tax-free-growth backstop. The JSONL repeated phrase 'live while young' is mathematically reinforced by the Roth-at-19 decision: $3,000 at 19 leaves $46K of part-time income to live with. Closing rule, JSONL-anchored on 'feeling behind/depressed' / 'paycheck to paycheck': 'fbfs.com\\'s mid-term-goal list, citizensbank.com\\'s 50/30/20 framework, and 5 competitors all skip the highest-ROI student decision — the article that ranks for financial-goals-for-students must show the $54K compounding delta from starting Roth at 19 vs 29, otherwise the JSONL feeling-behind narrative never gets the math that converts it into a 46-year head start.'"
+    }
+  ],
+  "nlp_entities": [
+    "Student-modified 70/20/10 budget split",
+    "50/30/20 baseline budgeting method",
+    "Federal Direct Subsidized Loan annual limits",
+    "Pell Grant 2025 maximum $7,395",
+    "FAFSA October 1 priority deadline",
+    "Roth IRA earned-income rule for students",
+    "2025 Roth IRA contribution cap $7,000",
+    "$500-$1,000 starter emergency fund",
+    "College Board cost of attendance data",
+    "Mint / YNAB / Empower / Rocket Money apps",
+    "FZROX / VTI 3-fund portfolio",
+    "Roth contribution withdrawal rule"
+  ],
+  "eeat_requirements": [
+    "Cite Federal Student Aid (cite studentaid.gov/understand-aid/types/loans/subsidized-unsubsidized AND studentaid.gov/understand-aid/types/grants/pell AND studentaid.gov/h/apply-for-aid/fafsa) for federal loan limits, Pell Grant maximum, and FAFSA deadlines. None of the seven competitors anchors student-aid figures on studentaid.gov — citing the .gov source converts the dollar targets from anecdote into defensible federal disclosures.",
+    "Cite IRS Roth IRA rules for students (cite irs.gov/retirement-plans/plan-participant-employee/retirement-topics-ira-contribution-limits AND IRS Publication 590-A — cite irs.gov/publications/p590a) AND SEC compound-interest calculator (cite investor.gov/calculator) for the 19-vs-29 Roth compounding math. The single highest-ROI student decision must be anchored on IRS + SEC primary sources.",
+    "Cite Consumer Financial Protection Bureau\\'s Start Small, Save Up campaign (cite consumerfinance.gov/start-small-save-up) for the $500-$1,000 starter-fund framework AND College Board cost-of-attendance data (cite trends.collegeboard.org/college-pricing) for the student-budget benchmarks. Demonstrates to the JSONL anxious student that the dollar targets are anchored on CFPB + College Board primary sources rather than bank-marketing copy."
+  ],
+  "style_critique": {
+    "all_tones_found": [
+      {
+        "tone": "community-bank editorial",
+        "used_by": "centier.com r1, centier-aut.sitefinity.cloud r11, citizensbank.com r2, fbfs.com r3"
+      },
+      {
+        "tone": "national-bank teen content",
+        "used_by": "chase.com r12"
+      },
+      {
+        "tone": "open-education curriculum",
+        "used_by": "uidaho.pressbooks.pub r6"
+      },
+      {
+        "tone": "personal-finance blog for parents",
+        "used_by": "moneyprodigy.com r13"
+      }
+    ],
+    "winning_tone": "Investigative consumer advocate — anchors the budget split on College Board cost-of-attendance, the dollar targets on studentaid.gov + CFPB, and the Roth-at-19 compounding decision on IRS Publication 590-A + SEC investor.gov, with JSONL student-empathy throughout",
+    "decision_reason": "Priority 1 fired — JSONL emotional_state 'Fear' triggered by 'Fear of confronting and tracking spending habits' + JSONL emotional state 'Regret/Shame' + 'Anxiety/Overwhelm' + 'Feeling behind/depressed' + JSONL repeated phrase 'spending habits' / 'live while young' / 'paycheck to paycheck' / 'save money' — An investigative-consumer-advocate tone fills the gap left by community-bank editorials, national-bank teen content, open-education curriculum, and parents-of-teens blogs, none of which provide a downloadable spreadsheet, .gov dollar targets, or the Roth-at-19 compounding math.",
+    "our_directives": [
+      "When discussing student budgeting, always offer the student-modified 70/20/10 split AND link a downloadable Google Sheets template with specific student line items. Never write 'use the 50/30/20 method' — write \\'the standard 50/30/20 does not fit students because needs (tuition + books + dorm + mandatory insurance) frequently exceed 50%; use a student-modified 70/20/10 split anchored on College Board cost-of-attendance data (cite trends.collegeboard.org/college-pricing); download our 25-row Google Sheets template that includes per-semester tuition, books $1,200/year, meal plan, mandatory health insurance, lab fees, etc.\\'",
+      "When recommending a student emergency-fund goal, always specify the $500-$1,000 starter target AND the 1-month-burn graduation target with .gov anchor. Never write 'build an emergency fund' — write 'build a $500-$1,000 starter emergency fund by end of freshman year (cite consumerfinance.gov/start-small-save-up); scale to 1-month burn ($1,200-$2,500 per College Board cost-of-attendance data — cite trends.collegeboard.org/college-pricing) by graduation; covers the gap between graduation and first paycheck.'",
+      "When listing student-eligible retirement goals, always name the Roth IRA earned-income rule AND compute the 19-vs-29 compounding delta. Never write 'students should save for retirement' — write 'a student earning $4,000/year from a part-time campus job can contribute up to $4,000 to a Roth IRA (cite IRS Publication 590-A — cite irs.gov/publications/p590a). $3,000 contributed at age 19 vs 29 (both at 7% real return to age 65 — cite SEC investor.gov/calculator) = $110,000 vs $56,000. The $54,000 delta is the single highest-ROI student decision; it also doubles as a 5-year emergency-fund backstop because Roth contributions can be withdrawn tax-free + penalty-free.'",
+      "When the reader confesses to JSONL pain \\'fear of confronting and tracking spending habits,\\' always pair empathy with the spreadsheet workflow. Never write \\'face your spending fears.\\' Always write \\'[Empathy sentence]. The fix: download our student budget template (link), import last month\\'s bank-statement CSV via Mint / YNAB / Empower / Rocket Money (cite consumerfinance.gov\\'s app-comparison page). The JSONL spending-habits phrase becomes a Google Sheets pivot of dollar totals by category — the act of seeing the numbers IS confronting them; the fear converts to data.\\'"
+    ]
+  },
+  "title_intelligence": {
+    "dominant_title_pattern": "'The Best Financial Goals Examples for Students / Financial Goals and Budgeting for Students / Short-Term Financial Goals for High School Students' — competitors lead with example lists and budgeting framings without dollar targets or compounding math.",
+    "short_title": "Financial Goals For Students: 70/20/10 Budget + 6 .gov Dollar Targets + Roth At 19",
+    "long_title": "Financial Goals For Students — A Student-Modified 70/20/10 Budget Spreadsheet, Six .gov-Anchored Dollar Targets For Emergency Fund + Federal Loans + FAFSA, And Why Opening A Roth IRA At 19 Is The Single Highest-ROI Student Decision"
+  },
+  "reader_psychology": {
+    "triggering_thought": "'Financial goals for students — every list says start budgeting, build an emergency fund, set short-term goals — but no one tells me HOW MUCH I should actually have, what spreadsheet to use for tracking spending habits, or whether I can even do retirement saving on a part-time student paycheck. I feel behind already. Is there a real number for an emergency fund, real loan limits, real Roth IRA rules for students?' — close paraphrase of JSONL emotional_state 'Fear' triggered by 'Fear of confronting and tracking spending habits' + JSONL emotional state 'Regret/Shame' + 'Anxiety/Overwhelm' + 'Feeling behind/depressed' + JSONL repeated phrase 'spending habits' / 'live while young' / 'paycheck to paycheck' / 'save money.'",
+    "desired_internal_shift": "From Vague-Goal-List Reader to Spreadsheet-Operating Student With Dollar-Targeted Emergency Fund And A Roth-at-19 Compounding Plan",
+    "bridge_content": "The Student-Modified 70/20/10 Budget Spreadsheet (Content Gap 1) followed by the Six Dollar Targets (Content Gap 2) and the Roth-at-19 Compounding Math (Content Gap 3). The reader of financial-goals-for-students arrives believing the answer is a vague list; the article reframes the question as \\'the answer is a downloadable budget spreadsheet that converts JSONL spending-habits-fear into data, six .gov-anchored dollar targets that replace abstract goals with deadlines, and a Roth-at-19 decision that compounds $3,000 into $110,000 by 65 instead of $56,000 from a 29-year-old start.\\' Once the reader downloads the spreadsheet and opens the Roth at 19, the JSONL feeling-behind narrative converts into a 46-year head-start position."
+  },
+  "internal_linking": null
+}
+```
+<!-- END_BATTLE_PLAN_BRIEF -->

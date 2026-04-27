@@ -651,3 +651,98 @@ _Body text (45 chars) saved to JSON sidecar_
 
 
 ---
+
+
+---
+<!-- BATTLE_PLAN_BRIEF -->
+# Battle Plan Brief
+**Generated:** 2026-04-27T08:53:03.225273+00:00  
+**Keyword:** highest yield money market savings accounts
+
+## Validation — 4 Checks (PASS)
+- **Keyword match:** YES — Keyword tokens hit: 6/6; angle tokens: 2
+- **Psychology match:** YES — 29 pain/emotion tokens echoed; keyword hit: True
+- **Competitor evidence:** YES — 3/3 gaps tied to named competitors with body evidence
+- **Gap specificity:** YES — All 3 gaps are specific (named WHO + WHERE + concrete edge)
+
+## Brief
+```json
+{
+  "content_gaps": [
+    {
+      "name": "Tiered-balance-rate trap never exposed — competitors quote 'up to' yields without showing how the headline yield only applies above $25K-$100K balances and tiered rates collapse below threshold",
+      "what_they_missed": "comerica.com (466 words) advertises '3.00% APY 1 on a promotional High Yield Money Market Investment Account' with footnote-disclosed tiered interest rates — without computing what the actual rate is below the promotional balance threshold (typically $25K-$100K) or after the promo expires. truist.com (466 words) lists Truist One Money Market with 'six no-fee withdrawals each statement cycle' but does not disclose the rate structure where balances under $50K-$100K typically earn near-zero APY. bankfivenine.com (1,152 words) mentions 'attractive yield... trade-offs' qualitatively without showing the tier table. cnbc.com (2,458 words) lists best-of picks with 'up to' headline yields but does not extract the per-tier rate structure into a comparison. investor.vanguard.com (1,932 words) discusses MMFs (a different product class). None of the five competitors builds the tiered-rate comparison table that exposes the 'up to' marketing trap. The JSONL emotional state 'Confusion and frustration' is exactly what tiered-yield disclosures cause when consumers shop on headline rate alone.",
+      "our_edge": "Add an H2: 'The \\'Up To\\' Headline Trap — How Tiered MMA Rates Collapse Below The Threshold Most Readers Never Hit.' 4-paragraph framework. (1) Tiered MMA rate structure (cite Truist disclosure schedules + Comerica HYMMIA tier disclosure + Bank Five Nine rate sheet): typical bank MMAs publish a top-tier rate that ONLY applies to balances ≥ $25K-$100K; balances below threshold often earn 0.05-0.50% APY — sometimes lower than checking accounts. The marketed 3.00% / 4.00% / 5.00% headline applies only above the tier break. (2) Build the tier-disclosure comparison table. Columns: Bank | Headline APY | Tier-Break Threshold | Below-Threshold APY | Rate at $5K Balance. Row 1: Comerica HYMMIA — 3.00% promo (cite comerica.com tiered-rate disclosure) — typically $25K-$50K — ~0.10% below — at $5K balance, effective ~0.10%. Row 2: Truist One Money Market — variable (cite truist.com/disclosures) — typically $50K — ~0.05% below — at $5K, effective ~0.05%. Row 3: top online MMAs like Discover Money Market, Ally Money Market, Quontic Bank, Sallie Mae — generally TIER-FREE (one rate at all balances; cite each issuer\\'s rate page). Row 4: Treasury MMF VMFXX / VUSXX — flat 7-day SEC yield at any balance; effectively NO tier (cite vanguard.com/money-market-funds). (3) Decision rule: if the reader\\'s typical MMA balance is under $25K, the bank-MMA headline yield is illusory; switch to a tier-free online MMA OR Treasury MMF for actual yield capture. (4) The JSONL anchor: the JSONL repeated phrase 'track every dollar' becomes 'track the EFFECTIVE APY at your balance' — multiply balance × actual-tier APY = real annual interest, then compare against the headline. Closing rule, JSONL-anchored on 'track every dollar' / 'pen and paper/an excel sheet' / 'HYSA (High Yield Savings Account)': 'comerica.com\\'s and truist.com\\'s disclosures + bankfivenine.com\\'s and cnbc.com\\'s best-of pieces all quote headline rates without exposing the tier collapse — the article that ranks for highest-yield-money-market-savings-accounts must build the tier-comparison table that shows the actual APY at the JSONL reader\\'s likely balance ($5K-$25K), otherwise the JSONL track-every-dollar discipline is anchored on a fictitious yield.'"
+    },
+    {
+      "name": "Promotional / introductory-rate expiration mechanics + Truth-in-Savings rate-change disclosure never explained — competitors skip the regulatory protection saver should know",
+      "what_they_missed": "comerica.com (466 words) names '3.00% APY 1 on a promotional High Yield Money Market Investment Account' without explaining (a) the promo expiration term, (b) what the rate reverts to, (c) the bank\\'s right to change the rate at any time disclosed under Regulation DD / Truth in Savings (cite federalreserve.gov/supervisionreg/regdd-default.htm AND consumerfinance.gov/rules-policy/regulations/1030/). truist.com (466 words), bankfivenine.com (1,152 words), and cnbc.com (2,458 words) skip Reg DD entirely. None of the five names the saver\\'s notice rights: Reg DD requires banks to provide written notice of rate decreases on MMAs at least 30 days before the change for variable-rate accounts that pay below a contractually-disclosed minimum, and to disclose APY using a standardized formula. The JSONL emotional state 'Anxiety about future financial stability' is exactly the unease this hidden rate-change clause generates.",
+      "our_edge": "Add an H2: 'Truth in Savings (Reg DD) — Your Rate-Change Notice Rights On Money Market Accounts.' 4-paragraph framework. (1) Regulation DD / Truth in Savings (cite consumerfinance.gov/rules-policy/regulations/1030/ AND federalreserve.gov/supervisionreg/regdd-default.htm) requires every bank MMA disclosure to include: (a) the APY computation method (CFPB-standardized — cite consumerfinance.gov/about-us/blog/your-truth-savings-rights), (b) any minimum balance requirements, (c) any maintenance fees, (d) any limitations on transfers, (e) the rate-change notice obligation. (2) Promotional rate expiration math: if Comerica\\'s 3.00% promo runs 6 months, then reverts to the standard tier (typically 0.10-0.50%), the blended 12-month return on a $25K balance = ($25K × 3.00% × 6/12) + ($25K × 0.50% × 6/12) = $375 + $62.50 = $437.50, or 1.75% blended APY — half the headline. (3) Compare to a tier-free online MMA holding 4.00% all year: $25K × 4.00% = $1,000 — more than 2× the Comerica blended return. (4) Decision rule for the JSONL anxious saver: always read the Reg DD-required Truth in Savings disclosure document (typically linked from the rate page) BEFORE depositing; check (a) promo expiration, (b) post-promo rate, (c) tier breaks, (d) minimum balance, (e) monthly fee. The JSONL pen-and-paper-or-excel-sheet workflow becomes a 5-row Reg DD checklist in column G of the budget spreadsheet. Closing rule, JSONL-anchored on 'pen and paper/an excel sheet' / 'HYSA (High Yield Savings Account)': 'comerica.com\\'s 3.00% promo footnote, truist.com\\'s relationship-perk framing, and bankfivenine.com\\'s qualitative trade-offs all skip Reg DD; the article that ranks for highest-yield-money-market-savings-accounts must show the Truth-in-Savings disclosure framework so the JSONL anxiety-about-future-financial-stability reader gets a 30-day rate-decrease notice and computes the blended-promo-APY correctly.'"
+    },
+    {
+      "name": "Treasury Money Market Fund alternative + after-tax / state-tax math never put on the same comparison page — competitors silo MMA reviews vs MMF reviews, while the saver shopping for highest yield should see both products together",
+      "what_they_missed": "investor.vanguard.com (1,932 words) describes money market FUNDS (VMFXX, VUSXX, VMRXX) for short-term investing without comparing against bank MMAs side-by-side. bankfivenine.com (1,152 words) and cnbc.com (2,458 words) and comerica.com (466 words) and truist.com (466 words) review bank MMAs without naming the MMF alternative. The reader who searches 'highest yield money market savings accounts' is yield-shopping; they don\\'t care whether the highest yield comes from a bank MMA or a brokerage MMF — only which delivers the highest after-tax yield at their balance and state. None of the five competitors builds the bank-MMA-vs-Treasury-MMF after-tax comparison. The JSONL repeated phrase 'HYSA (High Yield Savings Account)' is exactly the conflation; the saver doesn\\'t realize a Treasury MMF can outperform an HYSA / MMA after state tax.",
+      "our_edge": "Add an H2: 'Bank MMA vs Treasury Money Market Fund — The After-Tax Comparison Side-By-Side.' Build a 6-row after-tax winner table. Columns: Product | Headline APY | Federal Tax | State Tax | After-Tax APY at 22%+5% | After-Tax APY at 22%+9.3% (CA). Row 1: Top online HYSA (Marcus / Ally / SoFi) — 4.50% — taxable — taxable — 3.29% net at 27% combined — 3.06% at CA 31.3%. Row 2: Promotional bank MMA (Comerica HYMMIA 3.00% blended ~1.75%) — 1.75% — taxable — taxable — 1.28% net — 1.20% at CA. Row 3: Tier-free MMA (Discover / Ally MMA 4.0%) — 4.00% — taxable — taxable — 2.92% net — 2.74% at CA. Row 4: Vanguard Federal MMF VMFXX — 4.30% (cite vanguard.com/money-market-funds) — federally taxable — partially state-taxable (~80% Treasury obligations qualifies for state exemption per Vanguard year-end disclosure) — 3.36% net (with state-exemption credit) — 3.46% at CA (state-exemption helps more here). Row 5: Vanguard Treasury MMF VUSXX — 4.10% (cite vanguard.com/etf/profile/VUSXX, ~94% Treasuries) — federally taxable — STATE-EXEMPT — 3.20% net — 3.20% at CA (no state tax). Row 6: Fidelity Treasury Only MMF FZFXX — similar structure. Closing rule, JSONL-anchored on 'track every dollar' / 'pen and paper/an excel sheet' / 'HYSA (High Yield Savings Account)': 'investor.vanguard.com sells MMFs in isolation; cnbc.com / bankfivenine.com / comerica.com / truist.com sell bank MMAs in isolation; the article that ranks for highest-yield-money-market-savings-accounts must put both product classes on the same after-tax comparison table so the JSONL reader in California sees that VUSXX 3.20% net beats Comerica\\'s blended 1.20% net by 2× — meaning highest-yield is not where the marketing copy directs them.'"
+    }
+  ],
+  "nlp_entities": [
+    "Tiered-balance MMA rate disclosure",
+    "Promotional / introductory APY expiration",
+    "Regulation DD / Truth in Savings",
+    "CFPB APY standardized calculation",
+    "Tier-free online MMA",
+    "Vanguard Federal Money Market VMFXX",
+    "Vanguard Treasury MMF VUSXX",
+    "Fidelity Government MMF SPRXX / FZFXX",
+    "Comerica HYMMIA promotional 3.00% APY",
+    "Truist One Money Market Account",
+    "After-tax APY at combined marginal rate",
+    "Treasury MMF state-tax-exemption qualification (≥50%)"
+  ],
+  "eeat_requirements": [
+    "Cite Regulation DD / Truth in Savings (cite federalreserve.gov/supervisionreg/regdd-default.htm AND consumerfinance.gov/rules-policy/regulations/1030/) for the APY-disclosure framework AND each issuer\\'s tier disclosure page (cite comerica.com tiered-rate disclosure AND truist.com/disclosures AND each top-online-MMA rate page). None of the five competitors anchors Reg DD; citing it converts the disclosure framework from claim into defensible regulator authority.",
+    "Cite Vanguard money market fund pages directly (cite vanguard.com/money-market-funds AND vanguard.com/etf/profile/VUSXX) AND Vanguard year-end tax disclosure for the percentage of distributions qualifying for state-tax exemption AND IRS Publication 550 (cite irs.gov/publications/p550). The bank-MMA-vs-Treasury-MMF after-tax comparison must be anchored on the issuer\\'s 7-day SEC yield + Treasury-percentage disclosure for the JSONL reader to verify the math.",
+    "Cite FDIC $250K coverage limit (cite fdic.gov) AND SIPC brokerage protection (cite sipc.org) for the regulator distinction AND Federal Reserve Economic Data (cite fred.stlouisfed.org) for historical money-market vs HYSA rate spreads. Demonstrates to the JSONL anxious saver that the comparison is anchored on FDIC + SIPC + Fed primary sources rather than bank-marketing copy."
+  ],
+  "style_critique": {
+    "all_tones_found": [
+      {
+        "tone": "community-bank product page",
+        "used_by": "bankfivenine.com r2, comerica.com r10"
+      },
+      {
+        "tone": "regional-bank product page",
+        "used_by": "truist.com r9"
+      },
+      {
+        "tone": "personal-finance publisher round-up",
+        "used_by": "cnbc.com r11"
+      },
+      {
+        "tone": "investment-firm explainer",
+        "used_by": "investor.vanguard.com r12"
+      }
+    ],
+    "winning_tone": "Investigative consumer advocate — exposes the tiered-rate trap, anchors disclosure framework on Reg DD, and puts bank MMA + Treasury MMF on the same after-tax table with explicit JSONL track-every-dollar discipline",
+    "decision_reason": "Priority 1 fired — JSONL emotional_state 'Confusion and frustration' triggered by 'Tracking spending manually but failing to see patterns or create a budget' + JSONL emotional state 'Anxiety about future financial stability' + 'Sense of deprivation or sacrifice' + JSONL repeated phrase 'track every dollar' / 'pen and paper/an excel sheet' / 'HYSA (High Yield Savings Account)' — An investigative-consumer-advocate tone fills the gap left by community-bank product pages selling their own MMA, regional-bank pages selling relationship perks, personal-finance publishers running headline-yield round-ups, and investment-firm explainers siloing MMFs.",
+    "our_directives": [
+      "When listing the highest-yield money market savings account, always disclose the tier-break threshold AND the below-threshold APY AND compute the effective rate at $5K-$25K balances. Never write 'earn up to 4.50% APY' — write \\'earn up to 4.50% APY at balances ≥ $50K (cite issuer\\'s Reg DD disclosure); below tier break the rate falls to ~0.10-0.50%. At a $5K balance, effective APY is ~0.10% — meaning the headline does not apply to most savers. Switch to a tier-free online MMA (Discover, Ally) or Treasury MMF (VUSXX) for flat-rate yield capture.\\'",
+      "When citing a promotional money-market rate, always state the promo expiration term AND the post-promo reversion rate AND the blended-12-month APY. Never write 'Comerica HYMMIA pays 3.00% promo' — write 'Comerica HYMMIA pays 3.00% PROMOTIONAL APY (cite comerica.com tiered-rate disclosure) for typically 6 months, reverting to standard tier ~0.10-0.50%. Blended 12-month APY on $25K balance: ($25K × 3.00% × 0.5) + ($25K × 0.50% × 0.5) = $437.50 = 1.75% blended — half the headline.'",
+      "When recommending a money-market product, always present the bank MMA + Treasury MMF on the same after-tax comparison table at the reader\\'s state marginal rate. Never write 'choose a high-yield MMA' — write 'compare bank MMA vs Treasury MMF after-tax: HYSA 4.50% at 27% combined = 3.29% net; tier-free MMA 4.00% = 2.92% net; Vanguard VUSXX 4.10% with state-exempt distributions (cite vanguard.com/etf/profile/VUSXX, ~94% Treasuries) = 3.20% net AT 31.3% CA marginal — Treasury MMF wins for high-state-tax savers.'",
+      "When the reader confesses to JSONL pain \\'tracking spending manually but failing to see patterns,\\' always pair empathy with the Reg DD disclosure-checklist workflow. Never write \\'just save more.\\' Always write \\'[Empathy sentence]. The fix: build a 5-row Reg DD checklist in your JSONL pen-and-paper-or-excel-sheet (1) actual APY at your balance per tier disclosure (cite each issuer\\'s rate page), (2) promo expiration date if any, (3) post-promo rate, (4) minimum balance, (5) monthly fee. Then compute effective annual interest = balance × actual-tier APY × 12 months — the JSONL track-every-dollar phrase becomes anchored on a verifiable Reg DD disclosure rather than marketing headline.\\'"
+    ]
+  },
+  "title_intelligence": {
+    "dominant_title_pattern": "'Top 5 Money Market Accounts for High Yields / Best Money Market Accounts of April 2026 / High-Yield Money Market Savings / Money market funds for short-term investing goals' — competitors title around best-of lists or product pages without exposing the tiered-rate trap or the bank-MMA-vs-MMF after-tax winner.",
+    "short_title": "Highest Yield Money Market: Tiered-Rate Trap + After-Tax Winner + Reg DD Rights",
+    "long_title": "Highest Yield Money Market Savings Accounts — Why The \\'Up To\\' Headline APY Is Almost Always A Tiered-Balance Trap, How Truth in Savings (Reg DD) Protects You From Hidden Rate Changes, And When A Treasury Money Market Fund Beats Every Bank MMA After State Tax"
+  },
+  "reader_psychology": {
+    "triggering_thought": "'Highest yield money market savings accounts — every site shows 4.50% / 5.00% / 3.00% promo, but nobody tells me whether that rate applies to my $5,000 balance or only to people with $50,000+. And how do I know the rate won\\'t drop the day after I deposit? I am tracking every dollar in my excel sheet and confused why the APY I see in my statement is so much lower than what I was promised.' — close paraphrase of JSONL emotional_state 'Confusion and frustration' triggered by 'Tracking spending manually but failing to see patterns or create a budget' + JSONL emotional state 'Anxiety about future financial stability' + 'Sense of deprivation or sacrifice' + JSONL repeated phrase 'track every dollar' / 'pen and paper/an excel sheet' / 'HYSA (High Yield Savings Account).'",
+    "desired_internal_shift": "From Headline-Yield Shopper to Tier-Disclosure Operator With A Reg DD Checklist And A Bank-MMA-vs-Treasury-MMF After-Tax Decision",
+    "bridge_content": "The Tiered-Rate Trap (Content Gap 1) followed by the Reg DD / Truth-in-Savings Disclosure Framework (Content Gap 2) and the Bank-MMA-vs-Treasury-MMF After-Tax Comparison (Content Gap 3). The reader of highest-yield-money-market-savings-accounts arrives believing the answer is the highest headline APY; the article reframes the question as \\'the answer is the after-tax-equivalent yield at YOUR balance and state, with the Reg DD-disclosed tier structure verified, and a Treasury MMF on the same comparison page so the highest-yield winner is determined post-tax not pre-tax.\\' Once the reader builds the 5-row Reg DD checklist and computes the after-tax winner, the JSONL track-every-dollar discipline becomes anchored on a verifiable disclosure rather than marketing headline."
+  },
+  "internal_linking": null
+}
+```
+<!-- END_BATTLE_PLAN_BRIEF -->

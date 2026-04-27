@@ -494,3 +494,98 @@ _Body text (45 chars) saved to JSON sidecar_
 
 
 ---
+
+
+---
+<!-- BATTLE_PLAN_BRIEF -->
+# Battle Plan Brief
+**Generated:** 2026-04-27T00:54:57.721908+00:00  
+**Keyword:** best ways to save money on groceries
+
+## Validation — 4 Checks (PASS)
+- **Keyword match:** YES — Keyword tokens hit: 3/3; angle tokens: 2
+- **Psychology match:** YES — 27 pain/emotion tokens echoed; keyword hit: True
+- **Competitor evidence:** YES — 3/3 gaps tied to named competitors with body evidence
+- **Gap specificity:** YES — All 3 gaps are specific (named WHO + WHERE + concrete edge)
+
+## Brief
+```json
+{
+  "content_gaps": [
+    {
+      "name": "Unit-price tag never explained as the single decision-tool that resolves generic-vs-name-brand-vs-bulk",
+      "what_they_missed": "ramseysolutions.com (2,697 words) tells the reader to 'choose generic brands' and 'buy in bulk' as separate tips without explaining that the unit-price label on the shelf tag is what RESOLVES whether generic or bulk or name-brand-on-sale is actually cheapest. conwayhousingsc.org (869 words) says 'go on a price-comparing mission ... write down the prices' but never references the per-ounce/per-pound figure on the shelf tag. thedailymeal.com (1,367 words) covers FIFO inventory and store-brand swaps without unit-price math. buzzfeed.com (1,754 words), cooking.nytimes.com (1,253 words), and finance.yahoo.com (496 words) — collectively another ~3,500 words — also skip the unit-price methodology. Yet a 2-second glance at the shelf tag's $/oz field is the difference between paying $4.99 for a 12-oz name-brand box at $0.42/oz vs $5.99 for a 24-oz store-brand box at $0.25/oz — the bigger box of the cheaper brand is BOTH cheaper per ounce AND requires no coupon or app.",
+      "our_edge": "Add an H2: 'Read the Unit-Price Tag — The Two-Second Decision That Resolves Every Generic-vs-Bulk-vs-Sale Question.' 4-step protocol. (1) On the shelf tag (always to the left of the price), find the small line that reads '$X.XX per oz' or '$X.XX per lb' or '$X.XX per 100 ct' (FTC requires unit pricing in 19 U.S. states; cite ftc.gov / consumer.ftc.gov / state weights-and-measures pages). (2) Rule of thumb: in the same product category, the lowest unit price wins UNLESS perishability cuts in (e.g. bread that will not be eaten before mold). (3) Carry a 3x5 index card with your top-10 most-bought-item unit prices recorded across 2 stores; bring it on every trip — this replaces the conwayhousingsc.org 'price comparing mission' with a permanent decision tool. (4) When unit price is missing or in different units (per oz vs per 100 g), ask the store associate to print the price gun tag for the disputed item or open a calculator. Closing rule: 'ramseysolutions.com\\'s separate tips for generic, bulk, and stockpiling are wrong as separate tips — they are one tip: lowest $/oz wins. The 7 SERP results give the reader 100+ tips and skip the single most powerful one: read the small print on the shelf tag.'"
+    },
+    {
+      "name": "Cash-back stacking never enumerated as a 4-layer protocol",
+      "what_they_missed": "ramseysolutions.com (2,697 words) lists 'use coupons, cash-back apps and loyalty programs' as a single tip without specifying which layers stack. finance.yahoo.com (496 words) cites Lisa Thompson of Coupons.com — 'add coupons and cash-back offers for items you already buy to stretch those dollars' — without sequencing the layers. thedailymeal.com (1,367 words) lists 'use coupons' as one tip among many. buzzfeed.com (1,754 words) is reader Quora tips, no protocol. conwayhousingsc.org (869 words), cooking.nytimes.com (1,253 words) skip cash-back stacks entirely. None of the seven shows that on a single $100 grocery purchase you can stack: (1) store loyalty digital coupons (~3-5%) + (2) manufacturer coupon (~5-10% on couponed items) + (3) Ibotta + Fetch + Checkout 51 receipt rebates (~3-7%) + (4) a cash-back credit card with a grocery category (e.g. American Express Blue Cash Preferred 6% on US supermarkets up to $6,000/yr — cite americanexpress.com — or Citi Custom Cash 5% on the top spending category). The stacked total: ~15-25% off the same cart that one generic-brand swap gets ~10% on.",
+      "our_edge": "Add an H2: 'Stack Four Cash-Back Layers on the Same Cart — How a $100 Trip Becomes a $78 Trip.' 4-layer protocol. Layer 1 — Store loyalty digital coupons (Kroger Plus, Safeway Just for U, Albertsons For U, Target Circle, Walmart+, Aldi app): clip BEFORE checkout from the store app on phone — typically 3-5% off the basket. Layer 2 — Manufacturer coupons (Coupons.com, SmartSource printable, store circular): apply to brands you already buy — typically 5-10% off COUPONED items. Layer 3 — Receipt-rebate apps (Ibotta, Fetch Rewards, Checkout 51): scan the receipt within 7 days; AI scans usually pull category rebates worth 3-7%. Layer 4 — Grocery-category cash-back credit card (Amex Blue Cash Preferred 6% on US supermarkets — cite americanexpress.com — or Citi Custom Cash 5%): all four layers stack on the same purchase since each is at a different layer (digital coupon at register, manufacturer coupon at register, receipt rebate after register, credit card after register). Worked example, JSONL-anchored on 'paycheck to paycheck': '$100 cart → $97 (Layer 1, ~3%) → $92 (Layer 2, ~5%) → $87.20 (Layer 3, ~5%) → $82 (Layer 4, ~6%) ≈ $18 saved on a single trip × 50 trips/year = $900/year — and that is BEFORE any generic swap or unit-price comparison.'"
+    },
+    {
+      "name": "Cost-per-serving never tabulated across protein and staple categories",
+      "what_they_missed": "All seven competitors mention 'buy beans, rice, eggs, peanut butter' as cheap-staple categories. None tabulates cost-per-serving across the protein category — yet that is the single most leveraged grocery decision since protein is typically 30-50% of a household's grocery bill. cooking.nytimes.com (1,253 words) gives recipe ideas like 'pantry meal' and 'soups, pastas, fried rice.' ramseysolutions.com (2,697 words) recommends 'meals based on what's on sale.' buzzfeed.com (1,754 words) — 35 reader tips — includes 'rice and beans' but no cost-per-meal math. thedailymeal.com (1,367 words) walks through pantry FIFO without per-serving numbers. The reader\\'s JSONL pain 'Tracking expenses manually but not understanding where money goes' is solved when the 'where' is shown — protein is where, and eggs at ~$0.20/serving destroy ground beef at ~$1.50/serving on the same dinner.",
+      "our_edge": "Add an H2: 'Cost Per Serving — A Protein and Staple Ranking That Replaces 100 Vague Tips.' Build a 7-row table sorted by cost-per-30g-protein-equivalent serving (anchored on USDA FoodData Central — cite fdc.nal.usda.gov). Columns: Food | Typical Sale Price | Servings/Unit | Cost/Serving | $/30g Protein. Row 1: Dried lentils — ~$1.99/lb — ~12 servings — ~$0.17/serving — ~$0.20/30g protein. Row 2: Eggs (large, conventional) — ~$3.49/dozen — 12 servings — ~$0.29/serving — ~$0.50/30g protein. Row 3: Canned tuna (chunk light) — ~$1.29/can — 1.5 servings — ~$0.86/serving — ~$0.86/30g protein. Row 4: Whole chicken thighs (bone-in skin-on) — ~$2.49/lb — ~3 servings — ~$0.83/serving — ~$1.25/30g protein. Row 5: Block tofu — ~$2.99/14 oz — ~3.5 servings — ~$0.85/serving — ~$1.30/30g protein. Row 6: Ground beef (80/20) — ~$5.99/lb — ~4 servings — ~$1.50/serving — ~$2.00/30g protein. Row 7: Rotisserie chicken (Costco hot bar) — ~$4.99 each — ~6 servings — ~$0.83/serving — ~$1.10/30g protein. Closing rule, JSONL-anchored on 'paycheck to paycheck' / 'pen and paper': 'Two pen-and-paper protein swaps a week — say replacing one ground-beef dinner ($1.50/serving) with a lentil dinner ($0.17/serving) for a family of 4 = ~$5.32/dinner × 2 dinners/week × 52 weeks = ~$553/year. The unit-price tag (Gap 1) and the cash-back stack (Gap 2) layer on top of this — but the protein swap is the largest single line on a typical grocery bill.'"
+    }
+  ],
+  "nlp_entities": [
+    "unit-price (per-ounce / per-pound) tag",
+    "cash-back stacking (4 layers)",
+    "store loyalty digital coupon",
+    "manufacturer coupon",
+    "receipt-rebate app (Ibotta / Fetch / Checkout 51)",
+    "grocery-category cash-back credit card",
+    "cost-per-serving protein ranking",
+    "USDA FoodData Central",
+    "FIFO pantry inventory",
+    "perimeter-vs-center-aisle shopping",
+    "pantry meal (use-what-you-have)",
+    "$/30g protein equivalent"
+  ],
+  "eeat_requirements": [
+    "Cite the FTC unit-pricing guidance (cite ftc.gov / consumer.ftc.gov) AND state weights-and-measures unit-pricing requirements for the unit-price-tag protocol. None of the seven competitors anchors the unit-price discussion to the FTC — sourcing it makes the lowest-$/oz-wins rule a regulatory-anchored claim rather than an opinion.",
+    "Cite USDA FoodData Central (cite fdc.nal.usda.gov) for the per-serving and per-30g-protein nutrient values used in the cost-per-serving table. cooking.nytimes.com gives recipes without USDA-anchored nutrient data — citing FDC converts the protein-cost ranking from estimated to defensible.",
+    "Cite the credit-card-issuer disclosure pages (cite americanexpress.com Blue Cash Preferred terms; cite citi.com Custom Cash terms; cite chase.com Amazon Prime Visa terms) for the grocery-category cash-back rates used in the 4-layer stack. ramseysolutions.com and finance.yahoo.com mention cash-back generically without sourcing — pulling the issuer terms makes the 5-6% claim verifiable rather than a marketing line."
+  ],
+  "style_critique": {
+    "all_tones_found": [
+      {
+        "tone": "personal-finance brand listicle",
+        "used_by": "ramseysolutions.com r10 + r12, finance.yahoo.com r19"
+      },
+      {
+        "tone": "reader-tip aggregator",
+        "used_by": "buzzfeed.com r13, cooking.nytimes.com r15"
+      },
+      {
+        "tone": "lifestyle/food publication explainer",
+        "used_by": "thedailymeal.com r18"
+      },
+      {
+        "tone": "non-profit community guide",
+        "used_by": "conwayhousingsc.org r7"
+      }
+    ],
+    "winning_tone": "Operations-engineer with quiet authority — anchors every claim on FTC unit pricing, USDA nutrient data, and credit-card issuer terms; replaces 100 vague tips with three tools (unit price, 4-layer stack, cost-per-serving)",
+    "decision_reason": "Priority 1 fired — JSONL emotional_state 'Confusion and overwhelm' triggered by 'Tracking expenses manually but not understanding where money goes' + JSONL emotional state 'Defeat and frustration from lack of progress' + JSONL repeated phrase 'paycheck to paycheck' / 'pen and paper/an excel sheet' / 'manual entry' — An operations-engineer tone fills the gap left by the brand listicles (ramseysolutions, finance.yahoo) which dump 30-50 tips, the reader-tip aggregators (buzzfeed, cooking.nytimes), the lifestyle publication (thedailymeal), and the community guide (conwayhousingsc). The reader is overwhelmed by tips; the article must hand them three replaceable tools.",
+    "our_directives": [
+      "When recommending a generic-vs-name-brand swap, always pair it with the unit-price methodology. Never write 'buy generic to save' — write 'compare unit price ($/oz on the shelf tag) — generic usually wins, but a 24-oz store-brand at $0.25/oz beats a 12-oz name-brand at $0.42/oz both ways: cheaper per ounce AND no coupon needed.'",
+      "When recommending coupons or apps, always state the layer (1-4) and the typical % return on the cart. Never write 'use coupons and cash-back apps' — write 'stack four layers on the same cart: Layer 1 store loyalty (~3-5%), Layer 2 manufacturer coupon (~5-10%), Layer 3 Ibotta/Fetch (~3-7%), Layer 4 6% Amex Blue Cash Preferred (cite americanexpress.com) — total ~15-25% off.'",
+      "When recommending a protein or staple, always cite cost-per-30g-protein anchored on USDA FoodData Central. Never write 'beans are cheap' — write 'lentils at ~$0.17/serving = ~$0.20/30g protein per USDA FDC vs ground beef 80/20 at ~$1.50/serving = ~$2.00/30g protein — a 10× swap on the same protein equivalent.'",
+      "When the reader confesses to JSONL pain 'tracking but not understanding where money goes,' always pair empathy with the protein-swap analysis as the answer. Never write 'cut spending and meal plan.' Always write '[Empathy sentence]. The fix is in the protein category. Pull last week\\'s receipt; mark the protein items; for each one, look up the $/30g-protein equivalent in the table — the line that doubles the table\\'s lowest is the line that explains where the money went.'"
+    ]
+  },
+  "title_intelligence": {
+    "dominant_title_pattern": "'[N] [Tips/Ways] to Save Money on Groceries' — every competitor leads with N + tips + outcome; none specifies unit-price, cash-back stack, or cost-per-serving framework.",
+    "short_title": "Best Ways to Save Money on Groceries: 3 Tools, Not 30 Tips",
+    "long_title": "The Best Ways to Save Money on Groceries — Read the Unit-Price Tag, Stack Four Cash-Back Layers, and Rank Protein by USDA Cost-Per-Serving"
+  },
+  "reader_psychology": {
+    "triggering_thought": "'Every grocery-savings article tells me to make a list, buy generic, and clip coupons — and somehow my best ways to save money on groceries efforts have not moved the needle. Where does the money actually go on a $100 cart, and which 2-3 changes actually work?' — close paraphrase of JSONL emotional_state 'Confusion and overwhelm' + 'Defeat and frustration from lack of progress' + JSONL pain 'Tracking expenses manually but not understanding where money goes' + JSONL repeated phrase 'paycheck to paycheck' / 'pen and paper/an excel sheet' / 'manual entry.'",
+    "desired_internal_shift": "From 100-Tip-Listicle Reader to Three-Tool Operator (Unit Price + 4-Layer Cash-Back Stack + Cost-Per-30g-Protein Table) Saving ~$1,500/Year On The Same Trip",
+    "bridge_content": "The Unit-Price-Tag protocol (Content Gap 1) followed by the 4-Layer Cash-Back Stack (Content Gap 2) and the Cost-Per-Serving Protein Ranking (Content Gap 3). The reader of best-ways-to-save-money-on-groceries arrives believing the answer is 'pick a few of the 100 tips'; the article reframes the question as 'apply three tools to every cart — read the unit-price tag, stack four cash-back layers, and swap one protein item per week.' Once the reader sees the three tools replace 100 vague tips, the JSONL confusion converts into a documented unit-price-card-plus-app-stack-plus-protein-swap routine."
+  },
+  "internal_linking": null
+}
+```
+<!-- END_BATTLE_PLAN_BRIEF -->
