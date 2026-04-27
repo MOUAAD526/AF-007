@@ -549,3 +549,102 @@ _Body text (45 chars) saved to JSON sidecar_
 
 
 ---
+
+
+---
+<!-- BATTLE_PLAN_BRIEF -->
+# Battle Plan Brief
+**Generated:** 2026-04-27T13:57:53.656875+00:00  
+**Keyword:** saving money wedding
+
+## Validation — 4 Checks (PASS)
+- **Keyword match:** YES — Keyword tokens hit: 3/3; angle tokens: 4
+- **Psychology match:** YES — 18 pain/emotion tokens echoed; keyword hit: True
+- **Competitor evidence:** YES — 3/3 gaps tied to named competitors with body evidence
+- **Gap specificity:** YES — All 3 gaps are specific (named WHO + WHERE + concrete edge)
+
+## Brief
+```json
+{
+  "content_gaps": [
+    {
+      "name": "Wedding savings framework — set total budget cap + sinking fund auto-split (dedicated HYSA) + off-peak date (Jan/Nov/Mon-Thu) + guest-list cap + venue-included bundle (brunch/lunch/desserts-only) + BYOB/BYOC + DIY flowers/invites/signage + rent vs buy dress (Rent The Runway, Poshmark) + buffet/family-style vs plated + off-registry cash-fund (Honeyfund) + credit-card rewards (Chase Sapphire $300 travel) + travel-points honeymoon (Chase UR/Amex MR) + vendor-negotiation + rehearsal-dinner restaurant reservation — never built; competitors describe 'wedding savings' without naming sinking-fund + off-peak + rewards framework",
+      "what_they_missed": "herecomestheguide.com r2 (2,570 words), conwayhousingsc.org r3 (709 words), finance.yahoo.com r8 (1,628 words), oakparcevents.com r14 (702 words), nerdwallet.com r15 (211 words), and junebugweddings.com r18 (1,804 words) describe 'wedding savings' without 12-lever sinking-fund + off-peak + rewards framework. None of the six competitors builds: (a) Lever 1 — Set total budget cap BLS-median wedding vs personal (cite bls.gov/cex); (b) Lever 2 — Sinking fund auto-split dedicated HYSA 4-5% APY Ally Buckets 'Wedding' (cite plaid.com/products/auth AND ally.com/bank/online-savings-account/buckets AND fdic.gov/resources/national-rates); (c) Lever 3 — Off-peak date Jan/Nov/Mon-Thu (non-Saturday); (d) Lever 4 — Guest-list cap (75% of cost driver); (e) Lever 5 — Venue-included bundle (brunch/lunch/desserts-only); (f) Lever 6 — BYOB/BYOC + corkage fee; (g) Lever 7 — DIY flowers/invites/signage + Canva templates; (h) Lever 8 — Rent vs buy dress (Rent The Runway / Poshmark resale); (i) Lever 9 — Buffet/family-style vs plated; (j) Lever 10 — Off-registry cash-fund Honeyfund + gift-tax annual-exclusion (cite irs.gov/businesses/small-businesses-self-employed/frequently-asked-questions-on-gift-taxes); (k) Lever 11 — Credit-card rewards Chase Sapphire Preferred $300 travel + 2/90 Chase (cite consumerfinance.gov/ask-cfpb/category-credit-cards); (l) Lever 12 — Travel-points honeymoon Chase UR/Amex MR + transfer partners; (m) Rehearsal-dinner restaurant reservation vs catered; (n) Vendor-negotiation + deposits + cancellation clause (cite ftc.gov/business-guidance/resources/consumer-protection-wedding-cake-topper); (o) BLS CPI (cite bls.gov/cpi).",
+      "our_edge": "Add an H2: '12-Lever Wedding Savings Framework — Budget Cap + Sinking Fund + Off-Peak Date + Guest Cap + Venue Bundle + BYOB + DIY + Rent Dress + Buffet + Honeyfund + Credit Rewards + Travel Points Honeymoon + Vendor Negotiation.' Lever 1: BLS budget (cite bls.gov/cex). Lever 2: Sinking fund+HYSA (cite plaid.com/products/auth AND fdic.gov/resources/national-rates AND ally.com/bank/online-savings-account/buckets). Lever 3: Off-peak. Lever 4: Guest-list cap. Lever 5: Venue bundle. Lever 6: BYOB. Lever 7: DIY Canva. Lever 8: Rent dress. Lever 9: Buffet. Lever 10: Honeyfund+gift-tax (cite irs.gov/businesses/small-businesses-self-employed/frequently-asked-questions-on-gift-taxes). Lever 11: Chase Sapphire+2/90 (cite consumerfinance.gov/ask-cfpb/category-credit-cards). Lever 12: Travel points. Rehearsal. Vendor FTC (cite ftc.gov/business-guidance/resources/consumer-protection-wedding-cake-topper). BLS (cite bls.gov/cpi). Anchored to JSONL pain 'Tracking expenses manually but not understanding why money disappears' — converts JSONL confusion + regret + anxiety into JSONL pay-yourself-first + track-every-dollar + emergency-fund + stay-at-home + sinking-fund discipline."
+    },
+    {
+      "name": "Decision tree by wedding-couple profile — micro-elopement-under-20 / backyard-home-DIY-50 / traditional-church-100 / destination-out-of-state-75 / second-marriage-over-40 / luxury-black-tie-over-150 — never built; competitors describe 'wedding tips' without selection logic by couple profile",
+      "what_they_missed": "herecomestheguide.com r2, conwayhousingsc.org r3, finance.yahoo.com r8, oakparcevents.com r14, nerdwallet.com r15, and junebugweddings.com r18 describe 'wedding tips' without naming WHO by couple profile. None of the six competitors builds: (a) Tier 1 — Micro-elopement-under-20 → courthouse + destination-small + Airbnb rental; (b) Tier 2 — Backyard-home-DIY-50 → home-venue + BYOB + friend-officiant + FTC consumer-contract (cite ftc.gov/business-guidance/resources/consumer-protection-wedding-cake-topper); (c) Tier 3 — Traditional-church-100 → church + reception-hall + traditional plated + 2-hr alcohol; (d) Tier 4 — Destination-out-of-state-75 → all-inclusive resort + travel-points Chase UR + room-block discount (cite consumerfinance.gov/ask-cfpb/category-credit-cards); (e) Tier 5 — Second-marriage-over-40 → smaller + focus-on-honeymoon + prenup + financial-advisor 401k+Roth consolidation (cite irs.gov/retirement-plans/roth-iras); (f) Tier 6 — Luxury-black-tie-over-150 → full-service planner + off-peak Saturday-off-season + premium vendor-negotiation; (g) BLS (cite bls.gov/cex); (h) Fed (cite federalreserve.gov/releases/g19); (i) HYSA (cite fdic.gov/resources/national-rates); (j) Compound (cite investor.gov/financial-tools-calculators/calculators/compound-interest-calculator); (k) 988 + NFCC + AFCPE (cite 988lifeline.org AND nfcc.org AND afcpe.org).",
+      "our_edge": "Add an H2: '6-Tier Wedding-Couple Decision Tree — Elopement / DIY-Backyard / Traditional-Church / Destination / Second-Marriage / Luxury.' Tier 1: Elopement courthouse. Tier 2: Backyard FTC contract (cite ftc.gov/business-guidance/resources/consumer-protection-wedding-cake-topper). Tier 3: Traditional 100. Tier 4: Destination Chase UR (cite consumerfinance.gov/ask-cfpb/category-credit-cards). Tier 5: Second-marriage prenup+Roth (cite irs.gov/retirement-plans/roth-iras). Tier 6: Luxury off-peak Saturday-off-season. BLS (cite bls.gov/cex). Fed (cite federalreserve.gov/releases/g19). HYSA (cite fdic.gov/resources/national-rates). Compound (cite investor.gov/financial-tools-calculators/calculators/compound-interest-calculator). 988+NFCC+AFCPE (cite 988lifeline.org AND nfcc.org AND afcpe.org). Anchored to JSONL emotional state 'Regret' + JSONL repeated phrase 'pay yourself first' / 'track every dollar' / 'emergency fund' / 'stay at home' / 'sinking fund' — converts JSONL confusion + regret + anxiety into JSONL pay-yourself-first + track-every-dollar + emergency-fund + stay-at-home + sinking-fund discipline."
+    },
+    {
+      "name": "Operational toolkit for wedding savers — Ally Buckets 'Wedding' sinking + Plaid auto-split + HYSA 4-5% + Chase Sapphire Preferred + Amex MR + Honeyfund cash-registry + Canva DIY + Rent The Runway + Poshmark + Airbnb venue + WeddingWire/The Knot vendor-reviews + FTC vendor-contract + Zola/Joy free-website + Minted paperless invites — never built; competitors describe 'wedding tips' without operationalizing sinking + rewards + DIY execution",
+      "what_they_missed": "herecomestheguide.com r2, conwayhousingsc.org r3, finance.yahoo.com r8, oakparcevents.com r14, nerdwallet.com r15, and junebugweddings.com r18 describe 'wedding tips' without operationalizing sinking + rewards + DIY execution. None of the six competitors builds: (a) Ally Buckets 'Wedding' sinking-fund (cite ally.com/bank/online-savings-account/buckets); (b) Plaid auto-split 10-15% paycheck (cite plaid.com/products/auth); (c) HYSA Marcus/Discover/Ally 4-5% APY (cite fdic.gov/resources/national-rates); (d) Chase Sapphire Preferred + 2/90 Chase + Amex MR transfer (cite consumerfinance.gov/ask-cfpb/category-credit-cards); (e) Honeyfund cash-registry + gift-tax (cite irs.gov/businesses/small-businesses-self-employed/frequently-asked-questions-on-gift-taxes); (f) Canva DIY invites/signage; (g) Rent The Runway + Poshmark resale dress; (h) Airbnb venue + VRBO backyard-rental; (i) WeddingWire/The Knot vendor-reviews + BBB; (j) FTC vendor-contract template + cancellation clause (cite ftc.gov/business-guidance/resources/consumer-protection-wedding-cake-topper); (k) Zola/Joy free-wedding-website + Minted paperless; (l) 988 + NFCC + AFCPE (cite 988lifeline.org AND nfcc.org AND afcpe.org); (m) FDIC + NCUA (cite fdic.gov/resources/deposit-insurance/edie AND ncua.gov/consumers/share-insurance); (n) BLS CPI (cite bls.gov/cpi).",
+      "our_edge": "Add an H2: '8-Step Operational Toolkit For Wedding Savers — Ally Buckets + Plaid + HYSA + Chase Sapphire + Amex MR + Honeyfund + Canva DIY + Rent The Runway + Poshmark + Airbnb + WeddingWire/Knot + FTC + Zola/Joy + Minted + 988/NFCC/AFCPE.' Step 1: Ally Buckets+Plaid+HYSA (cite ally.com/bank/online-savings-account/buckets AND plaid.com/products/auth AND fdic.gov/resources/national-rates). Step 2: Chase Sapphire+2/90 (cite consumerfinance.gov/ask-cfpb/category-credit-cards). Step 3: Honeyfund+gift-tax (cite irs.gov/businesses/small-businesses-self-employed/frequently-asked-questions-on-gift-taxes). Step 4: Canva DIY. Step 5: Rent The Runway+Poshmark. Step 6: Airbnb+WeddingWire/Knot. Step 7: FTC contract+Zola+Minted (cite ftc.gov/business-guidance/resources/consumer-protection-wedding-cake-topper). Step 8: 988+NFCC+AFCPE+FDIC/NCUA+BLS (cite 988lifeline.org AND afcpe.org AND fdic.gov/resources/deposit-insurance/edie AND bls.gov/cpi). Anchored to JSONL pain 'Tracking expenses manually but not understanding why money disappears' — converts JSONL confusion + regret + anxiety into JSONL pay-yourself-first + track-every-dollar + emergency-fund + stay-at-home + sinking-fund discipline."
+    }
+  ],
+  "nlp_entities": [
+    "12-lever wedding savings framework",
+    "Budget cap + BLS-median benchmark",
+    "Sinking fund auto-split HYSA",
+    "Off-peak date Jan/Nov/Mon-Thu",
+    "Guest-list cap + venue bundle",
+    "BYOB + DIY flowers + Canva",
+    "Rent The Runway + Poshmark resale",
+    "Buffet/family-style vs plated",
+    "Honeyfund cash-registry",
+    "Chase Sapphire 2/90 + travel points",
+    "FTC vendor-contract cancellation clause",
+    "6-tier couple-profile tree"
+  ],
+  "eeat_requirements": [
+    "Cite BLS + IRS + FTC + CFPB + FDIC + NCUA + Fed + investor.gov + 988/NFCC/AFCPE (cite bls.gov/cex AND bls.gov/cpi AND irs.gov/businesses/small-businesses-self-employed/frequently-asked-questions-on-gift-taxes AND irs.gov/retirement-plans/roth-iras AND ftc.gov/business-guidance/resources/consumer-protection-wedding-cake-topper AND consumerfinance.gov/ask-cfpb/category-credit-cards AND fdic.gov/resources/national-rates AND fdic.gov/resources/deposit-insurance/edie AND ncua.gov/consumers/share-insurance AND federalreserve.gov/releases/g19 AND investor.gov/financial-tools-calculators/calculators/compound-interest-calculator AND 988lifeline.org AND nfcc.org AND afcpe.org). All claims anchor on BLS + IRS + FTC + CFPB + FDIC + NCUA + Fed + investor.gov + 988/NFCC/AFCPE primary regulator data.",
+    "Cite competitor publishers + Plaid + banks + wedding tools (cite herecomestheguide.com AND conwayhousingsc.org AND finance.yahoo.com AND oakparcevents.com AND nerdwallet.com AND junebugweddings.com AND plaid.com/products/auth AND ally.com/bank/online-savings-account/buckets AND marcus.com AND discover.com AND honeyfund.com AND zola.com AND withjoy.com AND renttherunway.com AND poshmark.com AND weddingwire.com AND theknot.com AND canva.com AND minted.com). Avoid 'best wedding on budget hack 2026' affiliate aggregators.",
+    "Disclose vendor-contract cancellation terms — deposit non-refundable, force-majeure, FTC consumer protection (cite ftc.gov/business-guidance/resources/consumer-protection-wedding-cake-topper)."
+  ],
+  "style_critique": {
+    "all_tones_found": [
+      {
+        "tone": "wedding-directory publisher",
+        "used_by": "herecomestheguide.com r2, junebugweddings.com r18"
+      },
+      {
+        "tone": "non-profit publisher",
+        "used_by": "conwayhousingsc.org r3"
+      },
+      {
+        "tone": "news/finance publisher",
+        "used_by": "finance.yahoo.com r8"
+      },
+      {
+        "tone": "venue publisher",
+        "used_by": "oakparcevents.com r14"
+      },
+      {
+        "tone": "fintech-comparison publisher",
+        "used_by": "nerdwallet.com r15"
+      }
+    ],
+    "winning_tone": "Investigative consumer advocate — builds the 12-lever wedding framework, 6-tier couple-profile decision tree, and 8-step operational toolkit with FTC contract + CFPB rewards + 988 safety net",
+    "decision_reason": "Priority 1 fired — JSONL emotional_state 'Confusion' triggered by 'Tracking expenses manually but not understanding why money disappears' + JSONL emotional states 'Regret' + 'Anxiety' + JSONL repeated phrase 'pay yourself first' / 'track every dollar' / 'emergency fund' / 'stay at home' / 'sinking fund' — An investigative-consumer-advocate tone fills the gap left by wedding-directory, non-profit, news/finance, venue, and fintech-comparison tones.",
+    "our_directives": [
+      "When discussing wedding savings, always present the 12-lever framework. Never write 'just cut the guest list' — write 'apply 12-lever: (1) BLS budget (cite bls.gov/cex); (2) sinking fund+HYSA (cite fdic.gov/resources/national-rates); (3) off-peak; (4) guest cap; (5) venue bundle; (6) BYOB; (7) DIY Canva; (8) Rent dress; (9) Buffet; (10) Honeyfund+gift-tax (cite irs.gov/businesses/small-businesses-self-employed/frequently-asked-questions-on-gift-taxes); (11) Chase Sapphire (cite consumerfinance.gov/ask-cfpb/category-credit-cards); (12) Travel points + FTC contract (cite ftc.gov/business-guidance/resources/consumer-protection-wedding-cake-topper).'",
+      "When recommending HOW by couple, always present the 6-tier tree. Never write 'just elope' — write 'apply 6-tier: (1) Elopement courthouse; (2) Backyard FTC contract (cite ftc.gov/business-guidance/resources/consumer-protection-wedding-cake-topper); (3) Traditional 100; (4) Destination Chase UR; (5) Second-marriage prenup+Roth (cite irs.gov/retirement-plans/roth-iras); (6) Luxury off-peak Saturday-off-season.'",
+      "When discussing operational execution, always present the 8-step toolkit. Never write 'just shop around' — write 'apply 8-step: (1) Ally Buckets+Plaid+HYSA (cite plaid.com/products/auth AND fdic.gov/resources/national-rates); (2) Chase Sapphire+2/90 (cite consumerfinance.gov/ask-cfpb/category-credit-cards); (3) Honeyfund+gift-tax; (4) Canva DIY; (5) Rent The Runway+Poshmark; (6) Airbnb+WeddingWire/Knot; (7) FTC contract+Zola+Minted; (8) 988+NFCC+AFCPE+FDIC/NCUA+BLS (cite 988lifeline.org AND bls.gov/cpi).'",
+      "When the reader confesses to JSONL pain \\'Tracking expenses manually but not understanding why money disappears,\\' pair empathy with framework + tree + toolkit. Never write \\'just stick to the budget.\\' Always write \\'[Empathy sentence]. The fix: three structural moves convert JSONL confusion + regret + anxiety into JSONL pay-yourself-first + track-every-dollar + emergency-fund + stay-at-home + sinking-fund discipline — (a) 12-lever framework, (b) 6-tier couple tree, (c) 8-step operational toolkit with FTC + CFPB + 988 safety net.\\'"
+    ]
+  },
+  "title_intelligence": {
+    "dominant_title_pattern": "Competitors title around 'Saving money wedding / cheap wedding tips' without anchoring to sinking-fund + off-peak + rewards framework + 6-tier couple-profile decision tree + FTC contract + CFPB + Honeyfund operational toolkit.",
+    "short_title": "Saving Money Wedding: 12-Lever Sinking-Fund+Off-Peak+Rewards Framework + 6-Tier Couple Tree + 8-Step Toolkit",
+    "long_title": "Saving Money Wedding — Compute By 12-Lever Framework (Set Total Budget Cap BLS-Median Benchmark + Sinking Fund Auto-Split Dedicated HYSA 4-5% APY Ally Buckets 'Wedding' + Off-Peak Date Jan/Nov/Mon-Thu Non-Saturday + Guest-List Cap 75% Of Cost Driver + Venue-Included Bundle Brunch/Lunch/Desserts-Only + BYOB/BYOC Corkage Fee + DIY Flowers/Invites/Signage Canva Templates + Rent Vs Buy Dress Rent The Runway/Poshmark Resale + Buffet/Family-Style Vs Plated + Off-Registry Cash-Fund Honeyfund + Gift-Tax Annual-Exclusion + Credit-Card Rewards Chase Sapphire Preferred $300 Travel + 2/90 Chase Rule + Travel-Points Honeymoon Chase UR/Amex MR Transfer Partners + Rehearsal-Dinner Restaurant Reservation Vs Catered + Vendor-Negotiation + Deposits + Cancellation Clause + FTC Consumer-Protection), Apply By 6-Tier Wedding-Couple Decision Tree (Micro-Elopement-Under-20 → Courthouse + Destination-Small + Airbnb Rental + Backyard-Home-DIY-50 → Home-Venue + BYOB + Friend-Officiant + FTC Consumer-Contract + Traditional-Church-100 → Church + Reception-Hall + Traditional Plated + 2-Hr Alcohol + Destination-Out-Of-State-75 → All-Inclusive Resort + Travel-Points Chase UR + Room-Block Discount + Second-Marriage-Over-40 → Smaller + Focus-On-Honeymoon + Prenup + Financial-Advisor 401k+Roth Consolidation + Luxury-Black-Tie-Over-150 → Full-Service Planner + Off-Peak Saturday-Off-Season + Premium Vendor-Negotiation), And Deploy 8-Step Operational Toolkit (Ally Buckets 'Wedding' Sinking-Fund + Plaid Auto-Split 10-15% Paycheck + HYSA Marcus/Discover/Ally 4-5% APY + Chase Sapphire Preferred + 2/90 Chase + Amex MR Transfer + Honeyfund Cash-Registry + Gift-Tax + Canva DIY Invites/Signage + Rent The Runway + Poshmark Resale Dress + Airbnb Venue + VRBO Backyard-Rental + WeddingWire/The Knot Vendor-Reviews + BBB + FTC Vendor-Contract Template + Cancellation Clause + Zola/Joy Free-Wedding-Website + Minted Paperless + 988 + NFCC + AFCPE + FDIC $250K + NCUA $250K + BLS CPI)"
+  },
+  "reader_psychology": {
+    "triggering_thought": "'Saving money wedding — every page tells me cut the guest list without telling me HOW the 12 levers fit (BLS budget + sinking fund + off-peak + guest cap + venue bundle + BYOB + DIY Canva + Rent dress + buffet + Honeyfund + Chase Sapphire + travel points + FTC contract), how WHICH tier of couple (elopement / backyard / traditional / destination / second-marriage / luxury) maps to our plans, or how to operationalize Ally Buckets + Plaid + HYSA + Chase Sapphire + Amex MR + Honeyfund + Canva + Rent The Runway + Poshmark + Airbnb + WeddingWire/Knot + FTC contract + Zola + Minted + 988. I want to pay myself first, track every dollar, fund emergency, stay at home if needed, and sink every wedding line-item. The confusion + regret + anxiety swing keeps me stuck.' — close paraphrase of JSONL emotional_state 'Confusion' triggered by 'Tracking expenses manually but not understanding why money disappears' + JSONL emotional states 'Regret' + 'Anxiety' + JSONL repeated phrase 'pay yourself first' / 'track every dollar' / 'emergency fund' / 'stay at home' / 'sinking fund.'",
+    "desired_internal_shift": "From Confused-Regretful-Anxious Wedding-Couple To 12-Lever-Sinking-Fund+Off-Peak+Rewards-Framework-Computer + 6-Tier-Couple-Profile-Tree-Selector + 8-Step-Operational-Toolkit-Stacker With JSONL Pay-Yourself-First + Track-Every-Dollar + Emergency-Fund + Stay-At-Home + Sinking-Fund Discipline",
+    "bridge_content": "12-Lever Wedding Savings Framework (Gap 1) → 6-Tier Couple-Profile Decision Tree By Elopement / Backyard / Traditional / Destination / Second-Marriage / Luxury (Gap 2) → 8-Step Operational Toolkit With Ally Buckets + Plaid + HYSA + Chase Sapphire + Amex MR + Honeyfund + Canva + Rent The Runway + Poshmark + Airbnb + WeddingWire/Knot + FTC + Zola + Minted + 988/NFCC/AFCPE + FDIC/NCUA + BLS Safety Net (Gap 3). Once applied, JSONL confusion + regret + anxiety converts into JSONL pay-yourself-first + track-every-dollar + emergency-fund + stay-at-home + sinking-fund discipline."
+  },
+  "internal_linking": null
+}
+```
+<!-- END_BATTLE_PLAN_BRIEF -->
