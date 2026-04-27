@@ -452,3 +452,110 @@ _Body text (45 chars) saved to JSON sidecar_
 
 
 ---
+
+
+---
+<!-- BATTLE_PLAN_BRIEF -->
+# Battle Plan Brief
+**Generated:** 2026-04-27T10:43:32.510228+00:00  
+**Keyword:** how to stash money
+
+## Validation — 4 Checks (PASS)
+- **Keyword match:** YES — Keyword tokens hit: 2/2; angle tokens: 5
+- **Psychology match:** YES — 25 pain/emotion tokens echoed; keyword hit: True
+- **Competitor evidence:** YES — 3/3 gaps tied to named competitors with body evidence
+- **Gap specificity:** YES — All 3 gaps are specific (named WHO + WHERE + concrete edge)
+
+## Brief
+```json
+{
+  "content_gaps": [
+    {
+      "name": "Stash-money decision tree by intent (cash hideaway-at-home vs HYSA vs CD vs MMF vs treasury vs unbanked alternatives) with FDIC + APY + access + liquidity arithmetic + theft/fire/inflation risk — never built; competitors split into either home-cash hideaway listicles OR pure-banking blogs without a cross-cutting decision tree",
+      "what_they_missed": "westernunion.com (1,706 words) frames around unbanked alternatives without HYSA/CD/MMF tiers. familyhandyman.com (571 words) and libertysafe.com (1,642 words) and hartmann-tresore.pl (1,019 words) and familychristian.com (643 words) are physical-cash-hideaway content without modern banking comparison. cnet.com (1,071 words) frames around mattress-money anxiety without yield ladder. extension.usu.edu (606 words) is a USU extension blog about bank-system wariness without product table. schwab.com (1,426 words) is asset-manager-content focused on student-loan-payoff transition. None of the eight competitors builds: (a) a cross-cutting decision tree mapping intent → product — short-term emergency $1,000 starter (HYSA at 4-5% APY), 3-6 month emergency fund (HYSA), 6-12 month known goal (12-month CD or T-bill), 1-3 year goal (CD ladder or short-duration treasury via TreasuryDirect or Treasury ETF), 3+ year goal (brokerage); (b) FDIC-insured limits $250K per depositor per bank per ownership category (cite fdic.gov/resources/deposit-insurance); (c) NCUA limits same for credit unions (cite ncua.gov/consumers/share-insurance-coverage); (d) HYSA APY 4-5% vs traditional savings 0.46% national avg (cite fdic.gov/resources/national-rates) — 10× higher; (e) CD ladder 1-month / 3-month / 6-month / 12-month / 24-month rotating; (f) T-bills via TreasuryDirect (cite treasurydirect.gov/marketable-securities/treasury-bills); (g) money-market mutual fund (Vanguard VMFXX, Fidelity FZDXX, Schwab SWVXX) — NOT FDIC insured but SEC-regulated 7-day yield often 4-5%; (h) unbanked alternatives — prepaid debit + Walmart Money Center + payroll cards (cite cfpb.gov/consumer-tools/prepaid-cards); (i) cash at home is NOT insured against fire/theft and loses to inflation (3-5%/year).",
+      "our_edge": "Add an H2: 'Stash Money Decision Tree By Intent + Time Horizon.' 6-row table. Columns: Intent | Product | APY/Yield | FDIC/NCUA | Liquidity. Row 1: Daily emergency $1K starter — HYSA at 4-5% APY (cite fdic.gov/resources/national-rates) — FDIC insured to $250K (cite fdic.gov/resources/deposit-insurance) — instant ATM. Row 2: 3-6 month emergency fund — HYSA same. Row 3: 6-12 month known goal — 12-month CD at 4-5% APY (cite each bank rate sheet) — FDIC insured — early-withdrawal penalty 3-6 months interest. Row 4: 1-3 year goal — CD ladder 1/3/6/12/24 month rotating OR T-bills via TreasuryDirect 4-5.4% (cite treasurydirect.gov/marketable-securities/treasury-bills) — federally backed (state-tax-free). Row 5: 3+ year goal — taxable brokerage with broad-market index funds. Row 6: Unbanked — prepaid debit + Walmart Money Center + payroll card (cite cfpb.gov/consumer-tools/prepaid-cards) — NOT FDIC unless underlying bank is. Cash hideaway at home: NOT insured against fire/theft, loses 3-5%/year to inflation (cite bls.gov/cpi). Anchored to JSONL pain 'student loan payments consuming income, blocking retirement savings' — the decision tree converts JSONL anxiety-frustration into JSONL track-every-dollar discipline that uses FDIC-insured 4-5% APY tiers instead of zero-yield mattress."
+    },
+    {
+      "name": "Automation + sinking-fund + multi-bucket structural toolkit (auto-transfer + payroll deposit split + Goal-based bucketing in HYSA + Ally Buckets + Capital One 360 + SoFi + Marcus + multi-bank survival kit) with quantified per-bucket arithmetic — never built; competitors stay inside single-account framing",
+      "what_they_missed": "westernunion.com (1,706 words) and cnet.com (1,071 words) and extension.usu.edu (606 words) and schwab.com (1,426 words) frame stashing as single-account with no bucketing. familyhandyman.com (571 words) and libertysafe.com (1,642 words) and hartmann-tresore.pl (1,019 words) and familychristian.com (643 words) are hideaway-content without bucketing. None of the eight competitors builds: (a) automation rule — set up payroll direct-deposit split that routes 10-25% of net pay directly to HYSA before it ever reaches checking (cite cfpb.gov/consumer-tools/save-for-emergencies); (b) sinking-fund bucket framework — separate sub-accounts for emergency / vacation / car / Christmas / property tax / kids' activities / wedding / down payment / car insurance every-6-month bill; (c) HYSA bucket-tools — Ally Bank Buckets feature (cite ally.com/bank/online-savings-account/buckets), Capital One 360 multiple sub-accounts (cite capitalone.com/bank/savings-accounts/online-savings-account), SoFi Vaults (cite sofi.com/banking), Marcus by Goldman Sachs (cite marcus.com), Discover Online Savings (cite discover.com/online-banking/savings-account); (d) multi-bank survival kit — funds split across 2-3 banks for $750K total FDIC (cite fdic.gov/resources/deposit-insurance); (e) Trim/Truebill/Rocket Money + Mint + YNAB + Monarch sweep tools.",
+      "our_edge": "Add an H2: 'Automate + Bucket + Multi-Bank Survival Kit.' 5-step framework. Step 1: Direct-deposit split — payroll routes 10-25% of net pay straight to HYSA before it touches checking (cite cfpb.gov/consumer-tools/save-for-emergencies); pair with weekly auto-transfer for any leftover. Step 2: Sinking-fund buckets — separate sub-accounts for emergency / 6-month / 12-month / vacation / Christmas / property tax / car / wedding / down payment. Step 3: HYSA bucket tools — Ally Bank Buckets feature (cite ally.com/bank/online-savings-account/buckets) lets you label up to 30 buckets within one HYSA; Capital One 360 multiple sub-accounts (cite capitalone.com/bank/savings-accounts/online-savings-account); SoFi Vaults (cite sofi.com/banking); Marcus by Goldman Sachs (cite marcus.com); Discover Online Savings (cite discover.com/online-banking/savings-account). Step 4: Multi-bank survival kit — split across 2-3 banks for $750K combined FDIC + redundancy if one bank has outage (cite fdic.gov/resources/deposit-insurance). Step 5: Sweep tools — Rocket Money + Trim cancel subscriptions; Monarch Money + YNAB + Mint give visibility (cite each app's site). Anchored to JSONL emotional state 'Anxious' + JSONL repeated phrase 'tracking every dollar' — the automation + bucket + multi-bank stack converts JSONL anxiety-frustration into JSONL track-every-dollar discipline that auto-fills sinking-fund buckets without willpower."
+    },
+    {
+      "name": "High-friction protection toolkit for cash hideaways (fire-rated safe / diversion safe / safe-deposit box / freeze-spending technique / inflation-erosion math) — never built; competitors recommend 'hide it' without naming UL-rated fire-resistance certification, theft-protection ratings, or quantified inflation cost",
+      "what_they_missed": "familyhandyman.com (571 words) and libertysafe.com (1,642 words) and hartmann-tresore.pl (1,019 words) and familychristian.com (643 words) describe hideaway tactics without naming UL Class 350 1-Hour fire ratings, RSC-vs-TL-15-vs-TL-30 burglary ratings, or insurance ramifications. westernunion.com (1,706 words) and cnet.com (1,071 words) and extension.usu.edu (606 words) and schwab.com (1,426 words) skip the protection toolkit. None of the eight competitors builds: (a) UL Class 350 1-Hour fire-rating standard for safe — keeps internal temperature below 350°F for 1 hour (cite ul.com); (b) burglary ratings RSC (residential security container) → B-rate → C-rate → TL-15 → TL-30 → TL-30x6 (cite ul.com); (c) safe-deposit box at bank typical $40-$120/year — NOT FDIC insured, but secure from fire + theft + flood; (d) homeowners/renters insurance limit on cash — typical $200-$1,000 max (cite iii.org/article/insuring-your-home); (e) diversion safe options — fake book, fake outlet, fake can — security-through-obscurity with low actual security; (f) inflation-erosion math — $10,000 cash at home in 2020 = ~$8,400 purchasing power in 2024 (cite bls.gov/cpi); (g) freeze-spending psychological technique — separate tier of cash that requires 24-hour cooling-off withdrawal; (h) safer alternative for unbanked — Walmart MoneyCard or Bluebird (cite americanexpress.com/us/prepaid-cards/bluebird) FDIC-insured prepaid; (i) for student loan payoff: dedicated 'debt avalanche' bucket in HYSA earning 4-5% while making minimum payments + accumulating extra (cite consumerfinance.gov/consumer-tools/save-for-emergencies).",
+      "our_edge": "Add an H2: '5-Tool Cash Hideaway Protection Toolkit + Inflation Math.' Tool 1: UL Class 350 1-Hour fire-rated safe (cite ul.com) — keeps interior <350°F for 60 min; pair with RSC or B-rate burglary rating; bolt-down or 750-lb gun-safe deters theft. Tool 2: Bank safe-deposit box $40-$120/year (cite each bank rate sheet) — secure from fire + flood + theft; NOT FDIC insured (homeowners/renters limit on cash typically $200-$1,000 — cite iii.org/article/insuring-your-home). Tool 3: Diversion safe (fake book / fake outlet) — security-through-obscurity only; OK for $50-$200 grab-and-go cash. Tool 4: Inflation math — $10,000 in cash 2020 = ~$8,400 purchasing power 2024 (cite bls.gov/cpi); 4-5% APY HYSA preserves and grows; cash hideaway loses 3-5%/year. Tool 5: 24-hour cooling-off withdrawal rule + freeze-spending bucket. Better path for unbanked: Walmart MoneyCard or Amex Bluebird (cite americanexpress.com/us/prepaid-cards/bluebird) FDIC-insured prepaid + payroll-card direct deposit. For student loan + debt anxiety: 'avalanche' bucket in HYSA earns 4-5% while accumulating extra principal payments (cite consumerfinance.gov/consumer-tools/save-for-emergencies). Anchored to JSONL emotional state 'Frustrated' + JSONL repeated phrase 'can't afford to contribute to their 401k' / 'student loan debt' — the protection toolkit + inflation math converts JSONL anxiety-frustration into JSONL track-every-dollar discipline that channels stash into FDIC-insured 4-5% APY rather than depreciating cash."
+    }
+  ],
+  "nlp_entities": [
+    "Stash decision tree by intent + horizon",
+    "FDIC $250K per depositor per bank",
+    "NCUA share insurance limits",
+    "HYSA 4-5% APY vs 0.46% national average",
+    "CD ladder 1/3/6/12/24-month",
+    "TreasuryDirect T-bills 4-5.4%",
+    "Money-market mutual fund VMFXX/FZDXX/SWVXX",
+    "Ally Buckets + Capital One 360 + SoFi Vaults",
+    "Multi-bank $750K FDIC survival kit",
+    "UL Class 350 1-Hour fire-rated safe",
+    "Inflation $10K 2020 = $8,400 2024",
+    "Student-loan avalanche HYSA bucket"
+  ],
+  "eeat_requirements": [
+    "Cite FDIC + NCUA insurance limits + national rates (cite fdic.gov/resources/deposit-insurance AND fdic.gov/resources/national-rates AND ncua.gov/consumers/share-insurance-coverage). HYSA + CD + bank product yields and insurance must anchor on FDIC + NCUA primary regulator data.",
+    "Cite TreasuryDirect for T-bills (cite treasurydirect.gov/marketable-securities/treasury-bills) AND CFPB for emergency-savings + prepaid-card framework (cite consumerfinance.gov/consumer-tools/save-for-emergencies AND cfpb.gov/consumer-tools/prepaid-cards) AND BLS CPI for inflation arithmetic (cite bls.gov/cpi) AND IRS retirement plan limits where Tier comparison touches 401(k) (cite irs.gov/retirement-plans). T-bills + inflation + prepaid + retirement framework anchored on Treasury + CFPB + BLS + IRS primary government data.",
+    "Cite UL safe rating standards (cite ul.com) AND Insurance Information Institute (cite iii.org/article/insuring-your-home) for homeowners-cash-limit AND each HYSA primary domain (ally.com/bank/online-savings-account/buckets AND capitalone.com/bank/savings-accounts/online-savings-account AND sofi.com/banking AND marcus.com AND discover.com/online-banking/savings-account). Avoid affiliate-marketing 'best HYSA' aggregators."
+  ],
+  "style_critique": {
+    "all_tones_found": [
+      {
+        "tone": "money-transfer service educational",
+        "used_by": "westernunion.com r2"
+      },
+      {
+        "tone": "DIY home magazine listicle",
+        "used_by": "familyhandyman.com r4"
+      },
+      {
+        "tone": "tech-publisher educational",
+        "used_by": "cnet.com r5"
+      },
+      {
+        "tone": "university extension educational",
+        "used_by": "extension.usu.edu r6"
+      },
+      {
+        "tone": "safe-vendor educational",
+        "used_by": "hartmann-tresore.pl r7, libertysafe.com r16"
+      },
+      {
+        "tone": "Christian retailer",
+        "used_by": "familychristian.com r8"
+      },
+      {
+        "tone": "asset-manager personal-finance",
+        "used_by": "schwab.com r10"
+      }
+    ],
+    "winning_tone": "Investigative consumer advocate — builds the 6-row stash decision tree by intent + time horizon with FDIC + APY arithmetic, the automation + sinking-fund bucket + multi-bank survival kit, and the cash-hideaway protection toolkit with inflation-erosion math",
+    "decision_reason": "Priority 1 fired — JSONL emotional_state 'Anxious' triggered by 'Student loan payments consuming income, blocking retirement savings' + JSONL emotional state 'Frustrated' + JSONL repeated phrase 'tracking every dollar' / 'can't afford to contribute to their 401k' / 'student loan debt' — An investigative-consumer-advocate tone fills the gap left by money-transfer service, DIY home magazine, tech-publisher, university extension, safe-vendor, Christian retailer, and asset-manager.",
+    "our_directives": [
+      "When discussing how to stash money, always present the 6-row decision tree by intent + horizon. Never write 'put it somewhere safe' — write 'choose by intent + horizon: $1K starter HYSA at 4-5% (cite fdic.gov/resources/national-rates); 3-6 month emergency fund HYSA; 6-12 month CD; 1-3 year T-bills (cite treasurydirect.gov/marketable-securities/treasury-bills); 3+ year brokerage; unbanked prepaid (cite cfpb.gov/consumer-tools/prepaid-cards). FDIC $250K per depositor per bank (cite fdic.gov/resources/deposit-insurance); cash at home loses 3-5%/year to inflation (cite bls.gov/cpi).'",
+      "When recommending automation + bucketing, always present the 5-step framework. Never write 'set up auto-transfer' — write 'apply 5-step framework: (1) direct-deposit split 10-25% to HYSA (cite cfpb.gov/consumer-tools/save-for-emergencies); (2) sinking-fund buckets emergency/vacation/Christmas/property tax/car/wedding; (3) HYSA bucket tools — Ally Buckets (cite ally.com/bank/online-savings-account/buckets), Capital One 360 (cite capitalone.com), SoFi Vaults, Marcus, Discover; (4) multi-bank $750K FDIC survival kit (cite fdic.gov/resources/deposit-insurance); (5) Rocket Money + YNAB + Monarch + Mint sweep tools.'",
+      "When discussing cash hideaways, always present the 5-tool protection toolkit + inflation math. Never write 'hide it well' — write 'apply 5-tool toolkit: (1) UL Class 350 1-Hour fire-rated safe (cite ul.com) bolt-down + RSC burglary rating; (2) bank safe-deposit box $40-$120/year — NOT FDIC; homeowners cash limit $200-$1,000 (cite iii.org/article/insuring-your-home); (3) diversion safe for grab-and-go only; (4) inflation math $10K 2020 = $8,400 2024 (cite bls.gov/cpi); (5) 24-hour cooling-off + Walmart MoneyCard or Amex Bluebird (cite americanexpress.com/us/prepaid-cards/bluebird) FDIC-insured prepaid alternative.'",
+      "When the reader confesses to JSONL pain \\'student loan payments consuming income, blocking retirement savings,\\' pair empathy with the decision-tree + automation + protection framing. Never write \\'just stash it.\\' Always write \\'[Empathy sentence]. The fix: three structural moves convert JSONL anxiety-frustration into JSONL track-every-dollar + can't-afford-to-contribute-to-401k + student-loan-debt discipline — (a) choose by 6-row decision tree (HYSA / CD / T-bill / brokerage / prepaid), (b) automate via direct-deposit split + sinking-fund buckets + multi-bank survival kit, (c) protect with UL-rated safe + inflation math + 24-hour cooling-off rule.\\'"
+    ]
+  },
+  "title_intelligence": {
+    "dominant_title_pattern": "'Wondering how to find a secure place to store money / These hiding ideas are brilliant / Mattress is lumpy from all the dollar bills / Increasing numbers of Americans are growing wary of global financial system / Many people are increasingly keen to keep cash at home / Saving money is a curious term with two meanings / I vividly remember the moment I finally paid off my student loans / In an increasingly digital world, many people are moving toward online-only banking' — competitors split between hideaway-listicle and bank-product-evangelism without anchoring to a 6-row decision tree OR automation + bucket framework OR protection toolkit + inflation math.",
+    "short_title": "How To Stash Money: 6-Row Decision Tree + Automation + Multi-Bank + Protection Toolkit",
+    "long_title": "How To Stash Money — Choose By 6-Row Decision Tree (HYSA 4-5% APY For Emergency / 12-Mo CD For 6-12 Mo Goals / T-Bills Via TreasuryDirect For 1-3 Yr / Brokerage For 3+ Yr / Prepaid For Unbanked) With FDIC $250K + NCUA Insurance, Automate Via Direct-Deposit Split + Sinking-Fund Buckets In Ally Buckets / Capital One 360 / SoFi Vaults / Marcus / Discover Across A Multi-Bank $750K FDIC Survival Kit, And Protect Cash Hideaways With UL Class 350 1-Hour Fire-Rated Safe + Bank Safe-Deposit Box + Inflation-Erosion Math ($10K 2020 = $8,400 2024)"
+  },
+  "reader_psychology": {
+    "triggering_thought": "'How to stash money — every list says hide it under the mattress or open a savings account. But which one for which goal? I'm anxious + frustrated about student loan payments consuming income, blocking retirement savings. I track every dollar in pen-and-paper or excel sheet, but can't afford to contribute to their 401k. Should I keep cash at home or open multiple HYSA buckets? Will my homeowners insurance cover stashed cash if there's a fire or burglary?' — close paraphrase of JSONL emotional_state 'Anxious' triggered by 'Student loan payments consuming income, blocking retirement savings' + JSONL emotional state 'Frustrated' + JSONL repeated phrase 'tracking every dollar' / 'can't afford to contribute to their 401k' / 'student loan debt.'",
+    "desired_internal_shift": "From Mattress-Stuffer Or Vague-Saver To 6-Row-Decision-Tree-Operator + Automation-Bucket-Multi-Bank-Survival-Kit-Operator + UL-Rated-Protection-Toolkit-Operator With JSONL Track-Every-Dollar Discipline Without Inflation-Erosion Or 401k-Blockage",
+    "bridge_content": "6-Row Stash-Money Decision Tree By Intent + Horizon With FDIC/NCUA + APY Arithmetic (Gap 1) → 5-Step Automation + Sinking-Fund Bucket + Multi-Bank $750K FDIC Survival Kit (Gap 2) → 5-Tool Cash Hideaway Protection Toolkit With UL Fire-Rating + Inflation Math + Cooling-Off Rule (Gap 3). Once applied, JSONL anxiety-frustration converts into JSONL track-every-dollar discipline that channels stash into FDIC-insured 4-5% APY tiers."
+  },
+  "internal_linking": null
+}
+```
+<!-- END_BATTLE_PLAN_BRIEF -->
