@@ -588,3 +588,98 @@ _Body text (45 chars) saved to JSON sidecar_
 
 
 ---
+
+
+---
+<!-- BATTLE_PLAN_BRIEF -->
+# Battle Plan Brief
+**Generated:** 2026-04-27T10:26:14.165448+00:00  
+**Keyword:** how to save money on hotels
+
+## Validation — 4 Checks (PASS)
+- **Keyword match:** YES — Keyword tokens hit: 3/3; angle tokens: 5
+- **Psychology match:** YES — 39 pain/emotion tokens echoed; keyword hit: True
+- **Competitor evidence:** YES — 3/3 gaps tied to named competitors with body evidence
+- **Gap specificity:** YES — All 3 gaps are specific (named WHO + WHERE + concrete edge)
+
+## Brief
+```json
+{
+  "content_gaps": [
+    {
+      "name": "Hotel-loyalty + cashback-credit-card + portal-stacking framework with per-program point-yield arithmetic — never built; competitors mention 'rewards' or 'membership' qualitatively without showing the multi-layer stack or the points-per-dollar math",
+      "what_they_missed": "discounts.aaa.com (2,273 words) names AAA member discounts qualitatively without stacking with hotel loyalty + portal + credit-card rewards. nerdwallet.com (209 words) is truncated and only mentions credit-card categories generically. finance.yahoo.com (471 words) lists 'planning and insider tricks' without per-program yield. travellikeanna.com (1,015 words) discusses experience-anchored hotels without a stacking framework. economyhotelusa.com (729 words) is an extended-stay lodging operator without a loyalty/portal stack. None of the five competitors builds: Marriott Bonvoy / Hilton Honors / IHG One Rewards / World of Hyatt / Wyndham Rewards / Choice Privileges loyalty + Capital One Venture X 10× hotels via portal / Chase Sapphire Preferred 5× via Chase Travel / AmEx Membership Rewards 5× hotels via Fine Hotels & Resorts portal / Citi Strata Premier 10× hotels — combined yields 8-15% effective off (cite marriott.com AND hilton.com AND ihg.com AND hyatt.com AND wyndhamhotels.com AND choicehotels.com AND capitalone.com AND chase.com AND americanexpress.com AND citi.com).",
+      "our_edge": "Add an H2: 'The Hotel-Stack: Loyalty + Portal-Bonus + Cashback-Card.' 4-layer toolkit. Layer 1 — direct hotel loyalty (free): Marriott Bonvoy (cite marriott.com/bonvoy) / Hilton Honors (cite hilton.com/en/honors) / IHG One Rewards (cite ihg.com/onerewards) / World of Hyatt (cite world.hyatt.com) / Wyndham Rewards (cite wyndhamhotels.com/wyndham-rewards) / Choice Privileges (cite choicehotels.com/choice-privileges) — typical 5-15% via member rate + free wifi + late checkout; elite tier (Gold/Platinum/Titanium) adds free breakfast + lounge + room upgrade. Layer 2 — credit-card travel portal: Capital One Venture X 10× hotels via Capital One Travel (cite capitalone.com/credit-cards/venture-x-rewards) / Chase Sapphire Preferred 5× via Chase Travel (cite chase.com/sapphire-preferred) / AmEx Platinum 5× via amextravel.com (cite americanexpress.com/platinum) — typical 5-10% effective off via points redeemed at $0.012-$0.02/point. Layer 3 — co-brand or cashback card: Marriott Bonvoy Boundless / Hilton Honors Surpass / IHG One Premier / Hyatt Visa earn 6×-12× points at hotel chain (cite each issuer); or generic Citi Strata Premier 10× hotels via citi.com. Layer 4 — discount portals + AAA + Costco Travel: AAA $54/year (cite discounts.aaa.com) saves 5-15% on participating hotels; Costco Travel (cite costcotravel.com) often 5-15% on packaged hotels. Stacked yield: 12-25% off effective rate. Anchored to JSONL pain 'savings anxiety: feeling it's not enough and moving the goalposts' — the stack converts JSONL hands-off-the-savings + hoarding into intentional travel via earned-and-redeemed points without depleting the JSONL emergency-fund + sinking-funds."
+    },
+    {
+      "name": "Booking-window + flexible-date + fare-tracking + hotel-rate-tracker tooling with quantified savings — never built; competitors say 'book early' or 'shop around' without showing the data-driven booking-window + price-track tools or refundable-rate-cancel-and-rebook play",
+      "what_they_missed": "finance.yahoo.com (471 words) and travellikeanna.com (1,015 words) and discounts.aaa.com (2,273 words) name 'planning ahead' qualitatively without optimal-booking-window data or a hotel-rate-tracker. economyhotelusa.com (729 words) targets extended-stay without booking strategy. nerdwallet.com (209 words) skips this entirely. None of the five competitors builds: (a) optimal-booking-window data — for domestic leisure 21-30 days out is typically lowest; for international 60-90 days out; for business hotels last-minute often cheapest as corporate rates release Sunday; (b) hotel-rate-tracker tools — Hopper, Kayak Hotel Price Trends, Tingo (now part of Tripadvisor), HotelSlash, Pruvo / Service automatic re-pricing — alert when rate drops; (c) refundable-rate-cancel-and-rebook play — book refundable rate, set tracker alert, when rate drops cancel + rebook (legal and works on most flexible-rate bookings); (d) shoulder-season + Sunday-night + 4-day-trip arbitrage — Sunday 5pm hotel rates often 15-30% below Monday-Wednesday peak; (e) flexible-date calendar tools — Google Hotels flex-date heatmap (cite google.com/travel/hotels) shows ±3-day price swings; Trivago + Kayak + Booking.com calendar.",
+      "our_edge": "Add an H2: 'Book In The Right Window + Use A Rate Tracker + Cancel-And-Rebook.' 5-step protocol: (1) For domestic leisure aim for 21-30-day booking window; international 60-90 days; business last-minute Sunday release (cite nerdwallet.com hotel guides AND industry data); (2) Always book refundable/flexible rate first if cancellation policy ≥48 hr; (3) Set rate-tracker on Hopper / Kayak / HotelSlash / Pruvo / Service (cite hopper.com AND kayak.com AND hotelslash.com AND pruvo.net) — alert if rate drops 3%+; (4) When alert fires — cancel + rebook the new lower rate; (5) Use Google Hotels flex-date heatmap (cite google.com/travel/hotels) + Trivago + Booking.com to identify cheapest ±3 days. Combine with Sunday-night arbitrage (15-30% off vs Monday-Wednesday). Anchored to JSONL emotional state 'Stress from Poor Tracking/Budgeting' — converts JSONL anxiety-worry-attachment into a track-every-dollar booking strategy."
+    },
+    {
+      "name": "Alternative-lodging structural decision-tree (Airbnb / Vrbo vs aparthotel vs hostel-private-room vs house-swap vs HomeExchange / Trusted Housesitters) with per-night cost arithmetic — never built; competitors stay inside hotel-only framework",
+      "what_they_missed": "All five competitors stay inside the hotel-only frame. economyhotelusa.com (729 words) is extended-stay hotel only. discounts.aaa.com (2,273 words) and finance.yahoo.com (471 words) and travellikeanna.com (1,015 words) and nerdwallet.com (209 words) all skip alternative-lodging structural comparison. None of the five builds: (a) Airbnb / Vrbo per-night vs hotel — kitchen + laundry typical 30-50% cheaper for 4+ night stays in many markets; cleaning fee adjusts ROI for short stays (cite airbnb.com AND vrbo.com); (b) Aparthotel (Sonder / Mint House / Stay Alfred / Lyric — many now Sonder); typically 10-25% cheaper than full-service hotel with kitchen included; (c) hostel private room in Europe + Latin America $30-$60/night vs $150-$250 hotel; (d) HomeExchange.com $175/year membership for unlimited swaps (cite homeexchange.com); Trusted Housesitters $169/year for free housesitting accommodations worldwide (cite trustedhousesitters.com); (e) Couchsurfing free; (f) university housing/rec-center summer programs $50-$80/night.",
+      "our_edge": "Add an H2: 'Decide By Trip-Type: Hotel vs Airbnb vs Aparthotel vs Home-Swap.' 6-row decision tree. Columns: Trip Type | Best Lodging | Per-Night Range | When To Choose. Row 1: 1-2 night business or city overnight — Hotel + loyalty + portal stack — $80-$250 — speed + brand reliability. Row 2: 4+ night family or work-from-anywhere — Airbnb / Vrbo (cite airbnb.com AND vrbo.com) — $80-$200 + cleaning fee $50-$150 — 30-50% cheaper if kitchen + laundry compute into ROI. Row 3: 1-2 week extended stay — Aparthotel (Sonder / Mint House) or extended-stay hotel — $90-$180 — 10-25% cheaper than full-service hotel + kitchen. Row 4: Budget Europe / LATAM travel — hostel private room $30-$60 — solo or backpacker. Row 5: 2+ week sabbatical / digital-nomad — HomeExchange (cite homeexchange.com) $175/year unlimited swaps OR Trusted Housesitters (cite trustedhousesitters.com) $169/year — effective $0/night. Row 6: Free / cultural exchange — Couchsurfing (free) or university housing / rec-center summer programs $50-$80 — students or community-oriented travel. Anchored to JSONL pain 'feeling it's not enough and moving the goalposts' — a structural shift from hotel-only into trip-type decision converts JSONL anxiety-worry-attachment-fear-of-loss into intentional travel without raiding the JSONL hands-off-the-savings emergency-fund."
+    }
+  ],
+  "nlp_entities": [
+    "Marriott Bonvoy + Hilton Honors + IHG One Rewards + World of Hyatt loyalty",
+    "Capital One Venture X 10× hotels via portal",
+    "Chase Sapphire Preferred 5× via Chase Travel",
+    "AmEx Platinum 5× hotels via amextravel.com",
+    "Citi Strata Premier 10× hotels",
+    "AAA + Costco Travel discount portals",
+    "Hopper / Kayak / HotelSlash / Pruvo rate trackers",
+    "Refundable-rate cancel-and-rebook play",
+    "Google Hotels flex-date heatmap",
+    "Sunday-night + shoulder-season arbitrage",
+    "Airbnb / Vrbo / Aparthotel decision tree",
+    "HomeExchange + Trusted Housesitters"
+  ],
+  "eeat_requirements": [
+    "Cite hotel-loyalty programs directly: marriott.com/bonvoy AND hilton.com/en/honors AND ihg.com/onerewards AND world.hyatt.com AND wyndhamhotels.com/wyndham-rewards AND choicehotels.com/choice-privileges. Cite credit-card portals: capitalone.com/credit-cards/venture-x-rewards AND chase.com/sapphire-preferred AND americanexpress.com/platinum AND citi.com.",
+    "Cite rate-tracker tools directly: hopper.com AND kayak.com AND hotelslash.com AND pruvo.net AND google.com/travel/hotels. Cite alternative-lodging platforms: airbnb.com AND vrbo.com AND homeexchange.com AND trustedhousesitters.com.",
+    "Cite AAA discount portal (discounts.aaa.com) AND Costco Travel (costcotravel.com). Avoid affiliate-marketing 'best hotel deals' lists and stick to each provider's primary domain + transparent yield arithmetic."
+  ],
+  "style_critique": {
+    "all_tones_found": [
+      {
+        "tone": "extended-stay hotel operator blog",
+        "used_by": "economyhotelusa.com r6"
+      },
+      {
+        "tone": "personal-finance affiliate publisher",
+        "used_by": "finance.yahoo.com r11, nerdwallet.com r12"
+      },
+      {
+        "tone": "auto-club discount portal",
+        "used_by": "discounts.aaa.com r16"
+      },
+      {
+        "tone": "personal travel blog",
+        "used_by": "travellikeanna.com r20"
+      }
+    ],
+    "winning_tone": "Investigative consumer advocate — builds the 4-layer hotel-loyalty + portal + cashback-card stack with per-program yield arithmetic, the optimal-booking-window + rate-tracker + refundable-cancel-and-rebook protocol, and the alternative-lodging trip-type decision tree with per-night cost arithmetic",
+    "decision_reason": "Priority 1 fired — JSONL emotional_state 'Anxiety/Constant Worry' triggered by 'Savings anxiety: feeling it's not enough and moving the goalposts' + JSONL emotional state 'Attachment/Reluctance to Spend' + 'Fear of Loss/Going Backward' + 'Stress from Poor Tracking/Budgeting' + JSONL repeated phrase 'it's not enough' / 'what if' / 'emergency fund' / 'sinking funds' / 'hands off the savings' — An investigative-consumer-advocate tone fills the gap left by hotel operator, affiliate publisher, auto-club portal, and travel blog.",
+    "our_directives": [
+      "When discussing hotel savings, always present the 4-layer loyalty + portal + cashback-card stack. Never write 'sign up for rewards' — write 'stack 4 layers: (1) direct loyalty Marriott Bonvoy / Hilton / IHG / Hyatt / Wyndham / Choice (cite each chain); (2) portal bonus Capital One Venture X 10× / Chase Sapphire Preferred 5× via Chase Travel / AmEx Platinum 5× / Citi Strata 10× (cite each issuer); (3) co-brand or cashback card; (4) AAA + Costco Travel discount portal — combined 12-25% off effective rate.'",
+      "When recommending booking strategy, always present the booking-window + rate-tracker + cancel-and-rebook protocol. Never write 'book early' — write 'apply 5-step protocol: (1) optimal window 21-30 days domestic / 60-90 international / last-minute business; (2) book refundable rate first; (3) set rate tracker on hopper.com or kayak.com or hotelslash.com or pruvo.net; (4) when alert fires cancel + rebook the lower rate; (5) flex-date heatmap on google.com/travel/hotels.'",
+      "When discussing alternative lodging, always present the trip-type decision tree. Never write 'consider Airbnb' — write 'decide by trip-type: 1-2 night = hotel + loyalty stack; 4+ night family = Airbnb + kitchen + laundry (cite airbnb.com AND vrbo.com); 1-2 week = aparthotel (Sonder / Mint House); 2+ week sabbatical = HomeExchange $175/year (cite homeexchange.com) or Trusted Housesitters $169/year (cite trustedhousesitters.com).'",
+      "When the reader confesses to JSONL pain \\'savings anxiety: feeling it's not enough and moving the goalposts,\\' pair empathy with the stack + protocol + decision-tree framing. Never write \\'just travel cheaper.\\' Always write \\'[Empathy sentence]. The fix: three structural moves convert the JSONL anxiety-worry-attachment-fear-of-loss into intentional travel — (a) stack 4 layers of loyalty + portal + cashback-card + AAA, (b) book in optimal window with rate tracker + refundable-rebook play, (c) decide by trip-type via alternative-lodging tree. The savings flow into JSONL sinking-funds without raiding the hands-off emergency fund.\\'"
+    ]
+  },
+  "title_intelligence": {
+    "dominant_title_pattern": "'Smart Ways To Save Money While Staying In A Hotel / Booking a hotel can quickly consume your travel budget / 1. Become a member [truncated] / When planning a trip, you might think your hotel / La Résidence d'Angkor in Siem Reap' — competitors title around tip-counts or experience without anchoring to 4-layer loyalty + portal + card stack OR rate-tracker protocol OR alternative-lodging decision tree.",
+    "short_title": "How To Save Money On Hotels: 4-Layer Loyalty + Portal + Card Stack + Rate Tracker + Lodging Decision Tree",
+    "long_title": "How To Save Money On Hotels — Stack 4 Layers Of Direct Loyalty (Marriott Bonvoy / Hilton Honors / IHG One Rewards / World Of Hyatt / Wyndham / Choice Privileges) + Credit-Card Travel Portal Bonus (Capital One Venture X 10× / Chase Sapphire Preferred 5× / AmEx Platinum 5× / Citi Strata Premier 10×) + Cashback Co-Brand Card + AAA / Costco Travel Discount Portal, Run The 5-Step Booking-Window + Hopper/Kayak/HotelSlash/Pruvo Rate-Tracker + Refundable-Cancel-And-Rebook Protocol, And Apply The Alternative-Lodging Trip-Type Decision Tree (Airbnb / Vrbo / Aparthotel / HomeExchange / Trusted Housesitters)"
+  },
+  "reader_psychology": {
+    "triggering_thought": "'How to save money on hotels — every list says sign up for rewards or book early. But by how much? Which loyalty + portal + cashback-card stack? I have an emergency fund + sinking funds and try to keep hands-off-the-savings, but the constant worry it's-not-enough and the what-if anxiety means I refuse to spend on travel even when planned. The attachment-reluctance and fear-of-loss-going-backward and stress-from-poor-tracking-budgeting cycle keeps me at home or paying full rate.' — close paraphrase of JSONL emotional_state 'Anxiety/Constant Worry' triggered by 'Savings anxiety: feeling it's not enough and moving the goalposts' + JSONL emotional states 'Attachment/Reluctance to Spend' + 'Fear of Loss/Going Backward' + 'Stress from Poor Tracking/Budgeting' + JSONL repeated phrase 'it's not enough' / 'what if' / 'emergency fund' / 'sinking funds' / 'hands off the savings.'",
+    "desired_internal_shift": "From Tip-List Reader To 4-Layer-Stack-Operator + Booking-Window + Rate-Tracker + Cancel-And-Rebook Protocolist + Alternative-Lodging-Decision-Tree Operator With JSONL Sinking-Funds Discipline And Hands-Off Emergency-Fund Confidence",
+    "bridge_content": "4-Layer Hotel-Loyalty + Portal + Cashback-Card Stack (Gap 1) → 5-Step Booking-Window + Rate-Tracker + Refundable-Rebook Protocol (Gap 2) → Alternative-Lodging Trip-Type Decision Tree (Gap 3). Once applied, the JSONL anxiety-worry-attachment-fear-of-loss-stress converts into intentional travel via JSONL sinking-funds without depleting JSONL hands-off-the-savings emergency-fund."
+  },
+  "internal_linking": null
+}
+```
+<!-- END_BATTLE_PLAN_BRIEF -->

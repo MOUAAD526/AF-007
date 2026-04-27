@@ -719,3 +719,102 @@ _Body text (45 chars) saved to JSON sidecar_
 
 
 ---
+
+
+---
+<!-- BATTLE_PLAN_BRIEF -->
+# Battle Plan Brief
+**Generated:** 2026-04-27T13:49:44.208971+00:00  
+**Keyword:** saving money on airfare
+
+## Validation — 4 Checks (PASS)
+- **Keyword match:** YES — Keyword tokens hit: 3/3; angle tokens: 3
+- **Psychology match:** YES — 26 pain/emotion tokens echoed; keyword hit: True
+- **Competitor evidence:** YES — 3/3 gaps tied to named competitors with body evidence
+- **Gap specificity:** YES — All 3 gaps are specific (named WHO + WHERE + concrete edge)
+
+## Brief
+```json
+{
+  "content_gaps": [
+    {
+      "name": "Airfare-savings framework — Google Flights Explore + Skyscanner + Kayak price-alerts + incognito/clear-cookies + Tue/Wed/Sat departures + 6-8 week domestic / 3-5 month international booking-window + stopover hack + error-fare sites (Going/Scott's) + miles+points (Chase UR / Amex MR / airline) + fuel-dump/fuel-surcharge + baggage-fee avoidance + 24-hour DOT cancellation + compensation for cancel/delay EC-261/DOT + SkyMiles reward-chart arbitrage — never built; competitors describe 'saving on airfare' without naming error-fare + booking-window + compensation framework",
+      "what_they_missed": "cnbc.com r2 (2,485 words), under30experiences.com r3 (1,722 words), cluballiance.aaa.com r4 (1,191 words), aarp.org r5 (1,675 words), loqbox.com r9 (1,564 words), engine.com r13 (954 words), uniquetravelphoto.com r14 (1,703 words), and going.com r15 (2,533 words) describe 'saving on airfare' without 12-lever error-fare + booking-window + compensation framework. None of the eight competitors builds: (a) Lever 1 — Google Flights Explore + Skyscanner Everywhere + Kayak flex (cite transportation.gov); (b) Lever 2 — Price-alert tracker Hopper/Google Flights + 30-day email; (c) Lever 3 — Incognito/clear-cookies + VPN + region-specific pricing (cite transportation.gov/airconsumer/air-travel-consumer-reports); (d) Lever 4 — Tue/Wed/Sat departures + avoid Fri/Sun; (e) Lever 5 — 6-8 week domestic / 3-5 month international booking-window + advance-purchase; (f) Lever 6 — Stopover + hidden-city (Skiplagged) risk disclosure + open-jaw (cite transportation.gov/airconsumer); (g) Lever 7 — Error-fare sites (Going/Scott's Cheap Flights) + IATA error (cite transportation.gov); (h) Lever 8 — Miles+points Chase UR / Amex MR / airline transfer-partners + 2/90 Chase rule (cite consumerfinance.gov/ask-cfpb/category-credit-cards); (i) Lever 9 — Fuel-dump + fuel-surcharge awareness; (j) Lever 10 — Baggage-fee avoidance + carry-on only + airline-status + co-branded card (cite transportation.gov/individuals/aviation-consumer-protection/baggage); (k) Lever 11 — 24-hour DOT cancellation + DOT compensation + EC-261 + DOT tarmac-delay rule (cite transportation.gov/individuals/aviation-consumer-protection/know-your-rights AND transportation.gov/individuals/aviation-consumer-protection/airline-cancellations-delays); (l) Lever 12 — SkyMiles/Rapid Rewards/MileagePlus reward-chart arbitrage + off-peak redemption (cite transportation.gov); (m) DOT complaint Form (cite secure.dot.gov/air-travel-complaint); (n) FAA safety (cite faa.gov).",
+      "our_edge": "Add an H2: '12-Lever Airfare-Savings Framework — Google Flights Explore + Skyscanner + Price-Alerts + Incognito + Tue/Wed/Sat + Booking-Window + Stopover + Error-Fare + Points + Fuel-Dump + Baggage + DOT Compensation + Reward-Chart.' Lever 1: Google Flights (cite transportation.gov). Lever 2: Price-alerts. Lever 3: Incognito (cite transportation.gov/airconsumer/air-travel-consumer-reports). Lever 4: Tue/Wed/Sat. Lever 5: Booking window. Lever 6: Stopover/hidden-city risk (cite transportation.gov/airconsumer). Lever 7: Error-fare. Lever 8: Points 2/90 Chase (cite consumerfinance.gov/ask-cfpb/category-credit-cards). Lever 9: Fuel-dump. Lever 10: Baggage (cite transportation.gov/individuals/aviation-consumer-protection/baggage). Lever 11: DOT comp+EC-261 (cite transportation.gov/individuals/aviation-consumer-protection/know-your-rights). Lever 12: Reward-chart. DOT Complaint Form (cite secure.dot.gov/air-travel-complaint). FAA (cite faa.gov). Anchored to JSONL pain 'Data collection without insight (tracking but no budgeting)' — converts JSONL frustration-confusion + anxiety-chaos + motivated-to-improve into JSONL track-every-dollar + pay-yourself-first + pen-to-paper discipline."
+    },
+    {
+      "name": "Decision tree by airfare-traveler profile — business-flexible / family-school-calendar / digital-nomad-long-stays / solo-budget-backpacker / award-chaser-points-only / last-minute-bereavement — never built; competitors describe 'flight deals' without selection logic by traveler profile",
+      "what_they_missed": "cnbc.com r2, under30experiences.com r3, cluballiance.aaa.com r4, aarp.org r5, loqbox.com r9, engine.com r13, uniquetravelphoto.com r14, and going.com r15 describe 'flight deals' without naming WHO by profile. None of the eight competitors builds: (a) Tier 1 — Business-flexible → Tue/Wed depart + shoulder-season + corporate-discount + Concur (cite gsa.gov/travel AND transportation.gov); (b) Tier 2 — Family-school-calendar → 5-6 month advance + school-break spike avoid + Southwest kids (cite transportation.gov/individuals/aviation-consumer-protection/family-seating); (c) Tier 3 — Digital-nomad → Skyscanner Everywhere + open-jaw + Going + long-stay (cite transportation.gov/airconsumer); (d) Tier 4 — Solo-budget → hostel-pair + Frontier/Spirit + carry-on + stopover hack (cite transportation.gov/individuals/aviation-consumer-protection/baggage); (e) Tier 5 — Award-chaser → 2/90 Chase + Amex MR + transfer + off-peak + 28-day hold (cite consumerfinance.gov/ask-cfpb/category-credit-cards); (f) Tier 6 — Last-minute-bereavement → bereavement fare (rare) + credit-card travel-insurance + DOT non-refundable rule (cite transportation.gov/individuals/aviation-consumer-protection/refunds); (g) TSA PreCheck $78 (cite tsa.gov/precheck); (h) Global Entry $100 (cite cbp.gov/travel/trusted-traveler-programs/global-entry); (i) REAL ID (cite dhs.gov/real-id); (j) Medicare+travel (cite medicare.gov/coverage/travel-health-care-coverage); (k) 988 + NFCC (cite 988lifeline.org AND nfcc.org).",
+      "our_edge": "Add an H2: '6-Tier Airfare-Traveler Decision Tree — Business / Family / Nomad / Solo / Award / Last-Minute.' Tier 1: Business GSA+Tue/Wed (cite gsa.gov/travel). Tier 2: Family 5-6 mo (cite transportation.gov/individuals/aviation-consumer-protection/family-seating). Tier 3: Nomad Skyscanner (cite transportation.gov/airconsumer). Tier 4: Solo carry-on (cite transportation.gov/individuals/aviation-consumer-protection/baggage). Tier 5: Award 2/90 Chase (cite consumerfinance.gov/ask-cfpb/category-credit-cards). Tier 6: Last-minute DOT refund (cite transportation.gov/individuals/aviation-consumer-protection/refunds). TSA+Global Entry (cite tsa.gov/precheck AND cbp.gov/travel/trusted-traveler-programs/global-entry). REAL ID (cite dhs.gov/real-id). Medicare+travel (cite medicare.gov/coverage/travel-health-care-coverage). 988+NFCC (cite 988lifeline.org AND nfcc.org). Anchored to JSONL emotional state 'Motivated to learn and improve' + JSONL repeated phrase 'track every dollar' / 'pay yourself first' / 'pen to paper' — converts JSONL frustration-confusion + anxiety-chaos + motivated-to-improve into JSONL track-every-dollar + pay-yourself-first + pen-to-paper discipline."
+    },
+    {
+      "name": "Operational toolkit for airfare savers — Google Flights + Skyscanner + Hopper + Going + ITA Matrix + awardhacker.com + Chase UR + Amex MR transfer portal + Southwest Rapid Rewards + TSA PreCheck + DOT Complaint Form + DOT tarmac delay + EC-261 calculator + credit-card travel-insurance + 988/NFCC — never built; competitors describe airfare tips without operationalizing Matrix + awardhacker + DOT complaint execution",
+      "what_they_missed": "cnbc.com r2, under30experiences.com r3, cluballiance.aaa.com r4, aarp.org r5, loqbox.com r9, engine.com r13, uniquetravelphoto.com r14, and going.com r15 describe airfare tips without operationalizing Matrix + awardhacker + DOT complaint execution. None of the eight competitors builds: (a) Google Flights Explore + ITA Matrix (cite transportation.gov); (b) Skyscanner + Kayak + Hopper; (c) Going ($49/yr) + Scott's Cheap Flights; (d) awardhacker.com + seats.aero + point.me transfer-partner arbitrage; (e) Chase Ultimate Rewards + Amex Membership Rewards transfer portal (cite consumerfinance.gov/ask-cfpb/category-credit-cards); (f) Southwest Rapid Rewards + Companion Pass; (g) TSA PreCheck $78 + Global Entry $100 + REAL ID (cite tsa.gov/precheck AND cbp.gov/travel/trusted-traveler-programs/global-entry AND dhs.gov/real-id); (h) DOT Air Travel Complaint Form (cite secure.dot.gov/air-travel-complaint); (i) DOT tarmac-delay rule + EC-261 EU calculator (cite transportation.gov/individuals/aviation-consumer-protection/airline-cancellations-delays); (j) Credit-card travel-insurance — Chase Sapphire / Amex Platinum (cite consumerfinance.gov/ask-cfpb/category-credit-cards); (k) 988 + NFCC + AFCPE (cite 988lifeline.org AND nfcc.org AND afcpe.org); (l) FAA delay stats (cite faa.gov) + BLS CPI transport (cite bls.gov/cpi).",
+      "our_edge": "Add an H2: '8-Step Operational Toolkit For Airfare Savers — Google Flights + ITA Matrix + Skyscanner + Hopper + Going + awardhacker + Chase UR + Amex MR + Southwest + TSA/Global-Entry + DOT Complaint + EC-261 + Credit-Card Insurance + 988/NFCC/AFCPE + FAA/BLS.' Step 1: Google Flights + ITA Matrix (cite transportation.gov). Step 2: Skyscanner + Kayak + Hopper. Step 3: Going + Scott's. Step 4: awardhacker + seats.aero + point.me. Step 5: Chase UR + Amex MR (cite consumerfinance.gov/ask-cfpb/category-credit-cards). Step 6: Southwest Companion Pass + TSA PreCheck + Global Entry (cite tsa.gov/precheck AND cbp.gov/travel/trusted-traveler-programs/global-entry). Step 7: DOT complaint + EC-261 (cite secure.dot.gov/air-travel-complaint AND transportation.gov/individuals/aviation-consumer-protection/airline-cancellations-delays). Step 8: Credit-card insurance + 988 + NFCC + AFCPE + FAA + BLS (cite 988lifeline.org AND afcpe.org AND faa.gov AND bls.gov/cpi). Anchored to JSONL pain 'Data collection without insight (tracking but no budgeting)' — converts JSONL frustration-confusion + anxiety-chaos + motivated-to-improve into JSONL track-every-dollar + pay-yourself-first + pen-to-paper discipline."
+    }
+  ],
+  "nlp_entities": [
+    "12-lever airfare-savings framework",
+    "Google Flights Explore + Skyscanner",
+    "Price-alert tracker Hopper",
+    "Incognito + clear-cookies",
+    "Tue/Wed/Sat departures",
+    "6-8 wk domestic / 3-5 mo international",
+    "Stopover + hidden-city risk",
+    "Error-fare Going/Scott's",
+    "Chase UR / Amex MR transfer + 2/90",
+    "Carry-on only + baggage-fee avoidance",
+    "24-hour DOT cancellation + EC-261",
+    "SkyMiles reward-chart arbitrage"
+  ],
+  "eeat_requirements": [
+    "Cite DOT + FAA + TSA + CBP + DHS + GSA + CFPB + Medicare + BLS + 988/NFCC/AFCPE (cite transportation.gov AND transportation.gov/airconsumer AND transportation.gov/airconsumer/air-travel-consumer-reports AND transportation.gov/individuals/aviation-consumer-protection/know-your-rights AND transportation.gov/individuals/aviation-consumer-protection/baggage AND transportation.gov/individuals/aviation-consumer-protection/family-seating AND transportation.gov/individuals/aviation-consumer-protection/airline-cancellations-delays AND transportation.gov/individuals/aviation-consumer-protection/refunds AND secure.dot.gov/air-travel-complaint AND faa.gov AND tsa.gov/precheck AND cbp.gov/travel/trusted-traveler-programs/global-entry AND dhs.gov/real-id AND gsa.gov/travel AND consumerfinance.gov/ask-cfpb/category-credit-cards AND medicare.gov/coverage/travel-health-care-coverage AND bls.gov/cpi AND 988lifeline.org AND nfcc.org AND afcpe.org). All claims anchor on DOT + FAA + TSA + CBP + DHS + GSA + CFPB + Medicare + BLS + 988/NFCC/AFCPE primary regulator data.",
+    "Cite competitor publishers + Google Flights + Skyscanner + Hopper + Going + Scott's + award-points sites (cite cnbc.com AND under30experiences.com AND cluballiance.aaa.com AND aarp.org AND loqbox.com AND engine.com AND uniquetravelphoto.com AND going.com AND google.com/flights AND skyscanner.com AND hopper.com AND matrix.itasoftware.com AND awardhacker.com AND seats.aero AND point.me). Avoid 'cheapest flight trick 2026' affiliate aggregators.",
+    "Disclose hidden-city/skiplag risk — airlines may invalidate remainder of itinerary + revoke loyalty; disclose before recommending (cite transportation.gov/airconsumer)."
+  ],
+  "style_critique": {
+    "all_tones_found": [
+      {
+        "tone": "news publisher",
+        "used_by": "cnbc.com r2"
+      },
+      {
+        "tone": "travel-brand blog",
+        "used_by": "under30experiences.com r3, uniquetravelphoto.com r14"
+      },
+      {
+        "tone": "membership-club publisher",
+        "used_by": "cluballiance.aaa.com r4, aarp.org r5"
+      },
+      {
+        "tone": "fintech publisher",
+        "used_by": "loqbox.com r9, engine.com r13"
+      },
+      {
+        "tone": "flight-deal publisher",
+        "used_by": "going.com r15"
+      }
+    ],
+    "winning_tone": "Investigative consumer advocate — builds the 12-lever airfare-savings framework, 6-tier airfare-traveler decision tree, and 8-step operational toolkit with DOT complaint + EC-261 + 988 safety net",
+    "decision_reason": "Priority 1 fired — JSONL emotional_state 'Frustration and confusion' triggered by 'Data collection without insight (tracking but no budgeting)' + JSONL emotional states 'Anxiety about financial chaos' + 'Motivated to learn and improve' + JSONL repeated phrase 'track every dollar' / 'pay yourself first' / 'pen to paper' — An investigative-consumer-advocate tone fills the gap left by news, travel-brand, membership-club, fintech, and flight-deal tones.",
+    "our_directives": [
+      "When discussing saving on airfare, always present the 12-lever framework. Never write 'just book early' — write 'apply 12-lever: (1) Google Flights (cite transportation.gov); (2) price-alerts; (3) incognito; (4) Tue/Wed/Sat; (5) 6-8 wk/3-5 mo; (6) stopover risk (cite transportation.gov/airconsumer); (7) error-fare; (8) Chase UR 2/90 (cite consumerfinance.gov/ask-cfpb/category-credit-cards); (9) fuel-dump; (10) carry-on (cite transportation.gov/individuals/aviation-consumer-protection/baggage); (11) DOT comp EC-261 (cite transportation.gov/individuals/aviation-consumer-protection/know-your-rights); (12) reward-chart.'",
+      "When recommending HOW by traveler, always present the 6-tier tree. Never write 'just check Skyscanner' — write 'apply 6-tier: (1) Business GSA (cite gsa.gov/travel); (2) Family 5-6 mo (cite transportation.gov/individuals/aviation-consumer-protection/family-seating); (3) Nomad Skyscanner; (4) Solo carry-on; (5) Award 2/90 Chase; (6) Last-minute DOT refund (cite transportation.gov/individuals/aviation-consumer-protection/refunds).'",
+      "When discussing operational execution, always present the 8-step toolkit. Never write 'just compare prices' — write 'apply 8-step: (1) Google Flights + ITA Matrix; (2) Skyscanner+Hopper; (3) Going+Scott\\'s; (4) awardhacker+seats.aero; (5) Chase UR+Amex MR; (6) Southwest+TSA+Global Entry (cite tsa.gov/precheck); (7) DOT complaint+EC-261 (cite secure.dot.gov/air-travel-complaint); (8) Credit-card insurance+988+NFCC+AFCPE (cite 988lifeline.org).'",
+      "When the reader confesses to JSONL pain \\'Data collection without insight (tracking but no budgeting),\\' pair empathy with framework + tree + toolkit. Never write \\'just be flexible.\\' Always write \\'[Empathy sentence]. The fix: three structural moves convert JSONL frustration-confusion + anxiety-chaos + motivated-to-improve into JSONL track-every-dollar + pay-yourself-first + pen-to-paper discipline — (a) 12-lever framework, (b) 6-tier traveler tree, (c) 8-step operational toolkit with DOT + EC-261 + 988 safety net.\\'"
+    ]
+  },
+  "title_intelligence": {
+    "dominant_title_pattern": "Competitors title around 'Saving money on airfare / cheap flights tips' without anchoring to error-fare + booking-window + compensation framework + 6-tier airfare-traveler decision tree + DOT complaint + EC-261 + ITA Matrix operational toolkit.",
+    "short_title": "Saving Money On Airfare: 12-Lever Error-Fare+DOT Framework + 6-Tier Traveler Tree + 8-Step Toolkit",
+    "long_title": "Saving Money On Airfare — Compute By 12-Lever Framework (Google Flights Explore + Skyscanner Everywhere + Kayak Price-Alerts + Incognito/Clear-Cookies + Tue/Wed/Sat Departures + 6-8 Week Domestic / 3-5 Month International Booking-Window + Stopover/Hidden-City Risk Disclosure + Error-Fare Sites Going/Scott's Cheap Flights + Miles+Points Chase UR/Amex MR/Airline Transfer-Partners + 2/90 Chase Rule + Fuel-Dump/Fuel-Surcharge Awareness + Baggage-Fee Avoidance + Carry-On Only + 24-Hour DOT Cancellation + DOT Compensation + EC-261 + DOT Tarmac-Delay Rule + SkyMiles/Rapid Rewards/MileagePlus Reward-Chart Arbitrage + Off-Peak Redemption), Apply By 6-Tier Airfare-Traveler Decision Tree (Business-Flexible → Tue/Wed Depart + Shoulder-Season + Corporate-Discount + Concur + Family-School-Calendar → 5-6 Month Advance + School-Break Spike Avoid + Southwest Kids + Digital-Nomad-Long-Stays → Skyscanner Everywhere + Open-Jaw + Going + Long-Stay + Solo-Budget-Backpacker → Hostel-Pair + Frontier/Spirit + Carry-On + Stopover Hack + Award-Chaser-Points-Only → 2/90 Chase + Amex MR + Transfer + Off-Peak + 28-Day Hold + Last-Minute-Bereavement → Bereavement Fare + Credit-Card Travel-Insurance + DOT Non-Refundable Rule), And Deploy 8-Step Operational Toolkit (Google Flights Explore + ITA Matrix + Skyscanner + Kayak + Hopper + Going $49/Yr + Scott's Cheap Flights + awardhacker.com + seats.aero + point.me + Chase Ultimate Rewards + Amex Membership Rewards Transfer Portal + Southwest Rapid Rewards + Companion Pass + TSA PreCheck $78 + Global Entry $100 + REAL ID + DOT Air Travel Complaint Form + DOT Tarmac-Delay + EC-261 EU Calculator + Credit-Card Travel-Insurance Chase Sapphire/Amex Platinum + 988 + NFCC + AFCPE + FAA Delay Stats + BLS CPI Transport)"
+  },
+  "reader_psychology": {
+    "triggering_thought": "'Saving money on airfare — every page tells me be flexible without telling me HOW the 12 levers fit (Google Flights + price-alerts + incognito + Tue/Wed/Sat + booking-window + stopover + error-fare + points 2/90 + fuel-dump + carry-on + DOT compensation + reward-chart), how WHICH tier of traveler (business / family / nomad / solo / award / last-minute) maps to my trip, or how to operationalize Google Flights + ITA Matrix + Skyscanner + Hopper + Going + awardhacker + Chase UR + Amex MR + Southwest + TSA + Global Entry + DOT complaint + EC-261 + credit-card insurance + 988. The frustration-confusion + anxiety-chaos + motivated-to-improve swing keeps me overpaying.' — close paraphrase of JSONL emotional_state 'Frustration and confusion' triggered by 'Data collection without insight (tracking but no budgeting)' + JSONL emotional states 'Anxiety about financial chaos' + 'Motivated to learn and improve' + JSONL repeated phrase 'track every dollar' / 'pay yourself first' / 'pen to paper.'",
+    "desired_internal_shift": "From Tracking-No-Budget-Paying-Full-Fare Traveler To 12-Lever-Error-Fare+DOT-Framework-Computer + 6-Tier-Traveler-Profile-Tree-Selector + 8-Step-Operational-Toolkit-Stacker With JSONL Track-Every-Dollar + Pay-Yourself-First + Pen-To-Paper Discipline",
+    "bridge_content": "12-Lever Airfare-Savings Framework (Gap 1) → 6-Tier Airfare-Traveler Decision Tree By Business / Family / Nomad / Solo / Award / Last-Minute (Gap 2) → 8-Step Operational Toolkit With Google Flights + ITA Matrix + Skyscanner + Hopper + Going + awardhacker + Chase UR + Amex MR + Southwest + TSA/Global Entry + DOT Complaint + EC-261 + Credit-Card Insurance + 988/NFCC/AFCPE Safety Net (Gap 3). Once applied, JSONL frustration-confusion + anxiety-chaos + motivated-to-improve converts into JSONL track-every-dollar + pay-yourself-first + pen-to-paper discipline."
+  },
+  "internal_linking": null
+}
+```
+<!-- END_BATTLE_PLAN_BRIEF -->

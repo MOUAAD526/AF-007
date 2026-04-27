@@ -432,3 +432,106 @@ _Body text (44 chars) saved to JSON sidecar_
 
 
 ---
+
+
+---
+<!-- BATTLE_PLAN_BRIEF -->
+# Battle Plan Brief
+**Generated:** 2026-04-27T14:00:48.711578+00:00  
+**Keyword:** saving money with coupons
+
+## Validation — 4 Checks (PASS)
+- **Keyword match:** YES — Keyword tokens hit: 4/4; angle tokens: 1
+- **Psychology match:** YES — 24 pain/emotion tokens echoed; keyword hit: True
+- **Competitor evidence:** YES — 3/3 gaps tied to named competitors with body evidence
+- **Gap specificity:** YES — All 3 gaps are specific (named WHO + WHERE + concrete edge)
+
+## Brief
+```json
+{
+  "content_gaps": [
+    {
+      "name": "Coupon savings framework — paper Sunday-insert + digital-load (Kroger, Target Circle, Walmart Cash) + manufacturer MFG + store (stack) + double-coupon policy + cashback portals (Rakuten/Ibotta/Fetch/Checkout51) + browser extensions (Honey/Capital One Shopping/Rakuten) + price-match policy + rain-check + 'price adjustment' 14-day window + credit-card rewards (Chase Freedom 5% rotating + category cards) + ExtraBucks/Cartwheel/Deals loyalty + BOGO + unit-price math + dropout-prevention + extreme-coupon-burnout guard — never built; competitors describe 'saving with coupons' without naming stack + cashback-portal + price-match + credit-rewards framework",
+      "what_they_missed": "nerdwallet.com r1 (281 words), knowledge.anbtx.com r3 (656 words), ramseysolutions.com r5 (1,457 words), yahoo.com r15 (1,157 words), sunnydayfund.com r16 (758 words), and lifehacker.com r18 (1,364 words) describe 'saving with coupons' without 12-lever stack + cashback-portal + price-match + credit-rewards framework. None of the six competitors builds: (a) Lever 1 — Paper Sunday-insert + digital-load (cite ftc.gov/consumer-advice AND consumerfinance.gov/ask-cfpb); (b) Lever 2 — Digital-load Kroger / Target Circle / Walmart Cash / Safeway Just4U (cite ftc.gov); (c) Lever 3 — Manufacturer MFG + store stack (cite ftc.gov/consumer-advice/business); (d) Lever 4 — Double-coupon policy (store-specific); (e) Lever 5 — Cashback portals Rakuten/Ibotta/Fetch/Checkout51 + Receipt Hog (cite consumerfinance.gov/ask-cfpb/category-credit-cards); (f) Lever 6 — Browser extensions Honey + Capital One Shopping + Rakuten (cite ftc.gov/consumer-advice); (g) Lever 7 — Price-match policy + rain-check + 14-day price-adjustment (cite consumerfinance.gov); (h) Lever 8 — Credit-card rewards Chase Freedom 5% rotating + Amex Blue Cash 6% groceries + Citi Custom Cash 5% (cite consumerfinance.gov/ask-cfpb/category-credit-cards); (i) Lever 9 — ExtraBucks/Cartwheel/Target Circle loyalty (cite ftc.gov); (j) Lever 10 — BOGO + unit-price math + shelf-price-per-oz; (k) Lever 11 — Dropout-prevention + extreme-coupon-burnout guard (cite ftc.gov/consumer-advice); (l) Lever 12 — Anti-fraud guard + spot fake codes + phishing + sales-tax on pre-coupon price (cite ftc.gov/consumer-advice/scam-alerts AND consumer.ftc.gov); (m) Gift-card resale Raise/CardCash (cite consumerfinance.gov); (n) BLS CPI-food (cite bls.gov/cpi).",
+      "our_edge": "Add an H2: '12-Lever Coupon Savings Framework — Sunday-Insert + Digital-Load + MFG Stack + Double-Coupon + Cashback Portal + Browser Extensions + Price-Match + Credit Rewards + Loyalty + Unit-Price + Dropout-Prevention + Fraud Guard.' Lever 1: Sunday-insert (cite ftc.gov/consumer-advice). Lever 2: Digital-load. Lever 3: MFG+store stack (cite ftc.gov/consumer-advice/business). Lever 4: Double-coupon. Lever 5: Cashback portals Rakuten/Ibotta (cite consumerfinance.gov/ask-cfpb/category-credit-cards). Lever 6: Browser extensions. Lever 7: Price-match + 14-day adjustment. Lever 8: Chase Freedom 5% + Amex 6% groceries (cite consumerfinance.gov/ask-cfpb/category-credit-cards). Lever 9: Loyalty. Lever 10: Unit-price. Lever 11: Dropout-prevention (cite ftc.gov/consumer-advice). Lever 12: Anti-fraud + gift-card resale (cite ftc.gov/consumer-advice/scam-alerts). BLS CPI-food (cite bls.gov/cpi). Anchored to JSONL pain 'Tracking spending without understanding where money is going' — converts JSONL confusion-frustration + anxiety-uncontrolled-spending + suspicion-distrust into JSONL tracking-every-dollar + pen-to-paper + spending-on-groceries + ad-for-an-app discipline."
+    },
+    {
+      "name": "Decision tree by couponer profile — beginner-casual-5min/wk / grocery-focused-family / medication-copay-drug-couponer / clearance-rebate-extremer / travel-points-chaser / senior-fixed-income — never built; competitors describe 'coupon tips' without selection logic by couponer profile",
+      "what_they_missed": "nerdwallet.com r1, knowledge.anbtx.com r3, ramseysolutions.com r5, yahoo.com r15, sunnydayfund.com r16, and lifehacker.com r18 describe 'coupon tips' without naming WHO by couponer profile. None of the six competitors builds: (a) Tier 1 — Beginner-casual-5min/wk → digital-load + browser extension + 1-app Ibotta (cite ftc.gov/consumer-advice); (b) Tier 2 — Grocery-focused-family → WIC + SNAP + Sunday-insert + double-coupon + Chase Freedom 5% + 4-week menu cycle (cite fns.usda.gov/snap AND fns.usda.gov/wic); (c) Tier 3 — Medication-copay-drug-couponer → GoodRx + manufacturer assistance program + 340B + Medicare Part D IRMAA (cite medicare.gov/drug-coverage-part-d); (d) Tier 4 — Clearance-rebate-extremer → Target Cartwheel + ExtraBucks + end-cap clearance + gift-card stack (cite ftc.gov); (e) Tier 5 — Travel-points-chaser → Chase UR + Amex MR + 2/90 Chase + Rakuten travel (cite consumerfinance.gov/ask-cfpb/category-credit-cards); (f) Tier 6 — Senior-fixed-income → AARP + Medicare Savings Programs + senior-discount Tuesday + Meals on Wheels (cite medicare.gov/your-medicare-costs/medicare-savings-programs AND aarp.org); (g) BLS (cite bls.gov/cex); (h) Fed (cite federalreserve.gov/releases/g19); (i) HYSA (cite fdic.gov/resources/national-rates); (j) Compound (cite investor.gov/financial-tools-calculators/calculators/compound-interest-calculator); (k) 988 + NFCC + AFCPE + 211 (cite 988lifeline.org AND nfcc.org AND afcpe.org AND 211.org).",
+      "our_edge": "Add an H2: '6-Tier Couponer Decision Tree — Beginner / Grocery-Family / Drug-Couponer / Clearance-Extremer / Travel-Points / Senior.' Tier 1: Beginner Ibotta (cite ftc.gov/consumer-advice). Tier 2: Grocery WIC+SNAP+Chase Freedom (cite fns.usda.gov/snap). Tier 3: Drug GoodRx+Part D (cite medicare.gov/drug-coverage-part-d). Tier 4: Clearance Cartwheel+ExtraBucks. Tier 5: Travel Chase UR 2/90 (cite consumerfinance.gov/ask-cfpb/category-credit-cards). Tier 6: Senior AARP+MSP (cite medicare.gov/your-medicare-costs/medicare-savings-programs). BLS (cite bls.gov/cex). Fed (cite federalreserve.gov/releases/g19). HYSA (cite fdic.gov/resources/national-rates). Compound (cite investor.gov/financial-tools-calculators/calculators/compound-interest-calculator). 988+NFCC+211 (cite 988lifeline.org AND 211.org). Anchored to JSONL emotional state 'Suspicion and distrust of financial advice' + JSONL repeated phrase 'tracking every dollar' / 'pen to paper' / 'spending on groceries' / 'ad for an app' — converts JSONL confusion-frustration + anxiety-uncontrolled-spending + suspicion-distrust into JSONL tracking-every-dollar + pen-to-paper + spending-on-groceries + ad-for-an-app discipline."
+    },
+    {
+      "name": "Operational toolkit for couponers — Rakuten + Ibotta + Fetch + Checkout51 + Receipt Hog + Honey + Capital One Shopping + Target Circle + Kroger digital + Walmart Cash + GoodRx + CFPB credit-card database + Chase Freedom + Amex Blue Cash + FTC scam-alerts + BBB + Plaid auto-split savings + HYSA + 988/NFCC — never built; competitors describe 'coupon tips' without operationalizing cashback + credit-card + FTC execution",
+      "what_they_missed": "nerdwallet.com r1, knowledge.anbtx.com r3, ramseysolutions.com r5, yahoo.com r15, sunnydayfund.com r16, and lifehacker.com r18 describe 'coupon tips' without operationalizing cashback + credit-card + FTC execution. None of the six competitors builds: (a) Rakuten + Ibotta + Fetch + Checkout51 + Receipt Hog (cite consumerfinance.gov/ask-cfpb/category-credit-cards); (b) Honey + Capital One Shopping + Rakuten browser extensions (cite ftc.gov/consumer-advice); (c) Target Circle + Kroger digital + Walmart Cash + Safeway Just4U; (d) GoodRx + NeedyMeds + Patient Assistance Program + manufacturer copay (cite medicare.gov/drug-coverage-part-d); (e) CFPB credit-card database + Chase Freedom 5% rotating + Amex Blue Cash 6% groceries + Citi Custom Cash (cite consumerfinance.gov/ask-cfpb/category-credit-cards); (f) FTC scam-alerts (cite ftc.gov/consumer-advice/scam-alerts); (g) BBB (cite bbb.org); (h) Plaid auto-split savings 10-15% (cite plaid.com/products/auth); (i) HYSA Marcus/Discover/Ally 4-5% APY (cite fdic.gov/resources/national-rates); (j) Ally Buckets 'Groceries' 'Rx' 'Travel' (cite ally.com/bank/online-savings-account/buckets); (k) 988 + NFCC + AFCPE (cite 988lifeline.org AND nfcc.org AND afcpe.org); (l) FDIC + NCUA (cite fdic.gov/resources/deposit-insurance/edie AND ncua.gov/consumers/share-insurance); (m) BLS CPI-food (cite bls.gov/cpi); (n) Gift-card resale Raise/CardCash (cite consumerfinance.gov).",
+      "our_edge": "Add an H2: '8-Step Operational Toolkit For Couponers — Rakuten + Ibotta + Fetch + Checkout51 + Receipt Hog + Honey + Capital One Shopping + Target Circle + Kroger + Walmart Cash + GoodRx + CFPB Credit + Chase Freedom + Amex Blue Cash + FTC + BBB + Plaid + HYSA + Ally Buckets + 988/NFCC/AFCPE.' Step 1: Rakuten+Ibotta+Fetch (cite consumerfinance.gov/ask-cfpb/category-credit-cards). Step 2: Honey+Capital One Shopping (cite ftc.gov/consumer-advice). Step 3: Target Circle+Kroger+Walmart Cash. Step 4: GoodRx+PAP (cite medicare.gov/drug-coverage-part-d). Step 5: Chase Freedom+Amex Blue Cash (cite consumerfinance.gov/ask-cfpb/category-credit-cards). Step 6: FTC+BBB (cite ftc.gov/consumer-advice/scam-alerts AND bbb.org). Step 7: Plaid+HYSA+Ally Buckets (cite plaid.com/products/auth AND fdic.gov/resources/national-rates AND ally.com/bank/online-savings-account/buckets). Step 8: 988+NFCC+AFCPE+FDIC/NCUA+BLS (cite 988lifeline.org AND afcpe.org AND bls.gov/cpi). Anchored to JSONL pain 'Tracking spending without understanding where money is going' — converts JSONL confusion-frustration + anxiety-uncontrolled-spending + suspicion-distrust into JSONL tracking-every-dollar + pen-to-paper + spending-on-groceries + ad-for-an-app discipline."
+    }
+  ],
+  "nlp_entities": [
+    "12-lever coupon savings framework",
+    "Sunday-insert + digital-load",
+    "MFG + store stack policy",
+    "Cashback portals Rakuten/Ibotta/Fetch",
+    "Browser ext Honey/Capital One Shopping",
+    "Price-match + rain-check + 14-day adj",
+    "Chase Freedom 5% + Amex 6% groceries",
+    "Target Circle/ExtraBucks loyalty",
+    "Unit-price math + shelf price",
+    "Extreme-coupon burnout guard",
+    "GoodRx + Medicare Part D",
+    "6-tier couponer tree"
+  ],
+  "eeat_requirements": [
+    "Cite FTC + CFPB + USDA + Medicare + BLS + Fed + investor.gov + 988/NFCC/AFCPE + 211 (cite ftc.gov/consumer-advice AND ftc.gov/consumer-advice/business AND ftc.gov/consumer-advice/scam-alerts AND consumer.ftc.gov AND consumerfinance.gov AND consumerfinance.gov/ask-cfpb AND consumerfinance.gov/ask-cfpb/category-credit-cards AND fns.usda.gov/snap AND fns.usda.gov/wic AND medicare.gov/drug-coverage-part-d AND medicare.gov/your-medicare-costs/medicare-savings-programs AND bls.gov/cex AND bls.gov/cpi AND federalreserve.gov/releases/g19 AND fdic.gov/resources/national-rates AND fdic.gov/resources/deposit-insurance/edie AND ncua.gov/consumers/share-insurance AND investor.gov/financial-tools-calculators/calculators/compound-interest-calculator AND 988lifeline.org AND nfcc.org AND afcpe.org AND 211.org AND aarp.org AND bbb.org). All claims anchor on FTC + CFPB + USDA + Medicare + BLS + Fed + investor.gov + 988/NFCC/AFCPE + 211 primary regulator data.",
+    "Cite competitor publishers + Plaid + banks + coupon tools (cite nerdwallet.com AND knowledge.anbtx.com AND ramseysolutions.com AND yahoo.com AND sunnydayfund.com AND lifehacker.com AND plaid.com/products/auth AND ally.com/bank/online-savings-account/buckets AND marcus.com AND discover.com AND rakuten.com AND ibotta.com AND fetchrewards.com AND checkout51.com AND honey.com AND capitalone.com/shopping AND goodrx.com). Avoid 'best coupon hack 2026' affiliate aggregators.",
+    "Disclose cashback-portal data-sharing + privacy trade-off (cite ftc.gov/consumer-advice) + sales-tax computed on pre-coupon price in many states."
+  ],
+  "style_critique": {
+    "all_tones_found": [
+      {
+        "tone": "fintech-comparison publisher",
+        "used_by": "nerdwallet.com r1"
+      },
+      {
+        "tone": "bank publisher",
+        "used_by": "knowledge.anbtx.com r3"
+      },
+      {
+        "tone": "brand personal-finance publisher",
+        "used_by": "ramseysolutions.com r5"
+      },
+      {
+        "tone": "news publisher",
+        "used_by": "yahoo.com r15"
+      },
+      {
+        "tone": "fintech publisher",
+        "used_by": "sunnydayfund.com r16"
+      },
+      {
+        "tone": "tech/lifestyle publisher",
+        "used_by": "lifehacker.com r18"
+      }
+    ],
+    "winning_tone": "Investigative consumer advocate — builds the 12-lever coupon framework, 6-tier couponer-profile decision tree, and 8-step operational toolkit with FTC + CFPB + 988 safety net",
+    "decision_reason": "Priority 1 fired — JSONL emotional_state 'Confusion and frustration over budgeting' triggered by 'Tracking spending without understanding where money is going' + JSONL emotional states 'Anxiety about uncontrolled spending' + 'Suspicion and distrust of financial advice' + JSONL repeated phrase 'tracking every dollar' / 'pen to paper' / 'spending on groceries' / 'ad for an app' — An investigative-consumer-advocate tone fills the gap left by fintech-comparison, bank, brand, news, fintech, and tech/lifestyle tones.",
+    "our_directives": [
+      "When discussing saving with coupons, always present the 12-lever framework. Never write 'just clip coupons' — write 'apply 12-lever: (1) Sunday-insert (cite ftc.gov/consumer-advice); (2) digital-load; (3) MFG+store stack; (4) double-coupon; (5) Rakuten+Ibotta+Fetch (cite consumerfinance.gov/ask-cfpb/category-credit-cards); (6) Honey+Capital One Shopping; (7) price-match+14-day; (8) Chase Freedom 5%+Amex 6%; (9) loyalty; (10) unit-price; (11) dropout/burnout (cite ftc.gov/consumer-advice); (12) fraud guard (cite ftc.gov/consumer-advice/scam-alerts).'",
+      "When recommending HOW by couponer, always present the 6-tier tree. Never write 'just use one app' — write 'apply 6-tier: (1) Beginner Ibotta; (2) Grocery WIC+SNAP (cite fns.usda.gov/snap); (3) Drug GoodRx (cite medicare.gov/drug-coverage-part-d); (4) Clearance Cartwheel; (5) Travel Chase UR 2/90 (cite consumerfinance.gov/ask-cfpb/category-credit-cards); (6) Senior AARP+MSP (cite medicare.gov/your-medicare-costs/medicare-savings-programs).'",
+      "When discussing operational execution, always present the 8-step toolkit. Never write 'just use Rakuten' — write 'apply 8-step: (1) Rakuten+Ibotta+Fetch (cite consumerfinance.gov/ask-cfpb/category-credit-cards); (2) Honey+Capital One Shopping; (3) Target Circle+Kroger+Walmart Cash; (4) GoodRx+PAP; (5) Chase Freedom+Amex Blue Cash; (6) FTC+BBB (cite ftc.gov/consumer-advice/scam-alerts); (7) Plaid+HYSA+Ally Buckets (cite plaid.com/products/auth); (8) 988+NFCC+AFCPE+FDIC/NCUA+BLS (cite 988lifeline.org AND bls.gov/cpi).'",
+      "When the reader confesses to JSONL pain \\'Tracking spending without understanding where money is going,\\' pair empathy with framework + tree + toolkit. Never write \\'just track better.\\' Always write \\'[Empathy sentence]. The fix: three structural moves convert JSONL confusion-frustration + anxiety-uncontrolled-spending + suspicion-distrust into JSONL tracking-every-dollar + pen-to-paper + spending-on-groceries + ad-for-an-app discipline — (a) 12-lever framework, (b) 6-tier couponer tree, (c) 8-step operational toolkit with FTC + CFPB + 988 safety net.\\'"
+    ]
+  },
+  "title_intelligence": {
+    "dominant_title_pattern": "Competitors title around 'Saving money with coupons / how to coupon' without anchoring to stack + cashback-portal + price-match + credit-rewards framework + 6-tier couponer-profile decision tree + FTC + CFPB + GoodRx operational toolkit.",
+    "short_title": "Saving Money With Coupons: 12-Lever Stack+Cashback+Credit-Rewards Framework + 6-Tier Couponer Tree + 8-Step Toolkit",
+    "long_title": "Saving Money With Coupons — Compute By 12-Lever Framework (Paper Sunday-Insert + Digital-Load Kroger/Target Circle/Walmart Cash/Safeway Just4U + Manufacturer MFG + Store Stack + Double-Coupon Policy + Cashback Portals Rakuten/Ibotta/Fetch/Checkout51/Receipt Hog + Browser Extensions Honey/Capital One Shopping/Rakuten + Price-Match Policy + Rain-Check + 14-Day Price-Adjustment + Credit-Card Rewards Chase Freedom 5% Rotating + Amex Blue Cash 6% Groceries + Citi Custom Cash 5% + ExtraBucks/Cartwheel/Target Circle Loyalty + BOGO + Unit-Price Math + Dropout-Prevention + Extreme-Coupon-Burnout Guard + Anti-Fraud Spot Fake Codes + Phishing + Sales-Tax On Pre-Coupon Price), Apply By 6-Tier Couponer Decision Tree (Beginner-Casual-5min/Wk → Digital-Load + Browser Extension + 1-App Ibotta + Grocery-Focused-Family → WIC + SNAP + Sunday-Insert + Double-Coupon + Chase Freedom 5% + 4-Week Menu Cycle + Medication-Copay-Drug-Couponer → GoodRx + Manufacturer Assistance Program + 340B + Medicare Part D IRMAA + Clearance-Rebate-Extremer → Target Cartwheel + ExtraBucks + End-Cap Clearance + Gift-Card Stack + Travel-Points-Chaser → Chase UR + Amex MR + 2/90 Chase + Rakuten Travel + Senior-Fixed-Income → AARP + Medicare Savings Programs + Senior-Discount Tuesday + Meals On Wheels), And Deploy 8-Step Operational Toolkit (Rakuten + Ibotta + Fetch + Checkout51 + Receipt Hog + Honey + Capital One Shopping + Target Circle + Kroger Digital + Walmart Cash + Safeway Just4U + GoodRx + NeedyMeds + Patient Assistance Program + Manufacturer Copay + CFPB Credit-Card Database + Chase Freedom 5% Rotating + Amex Blue Cash 6% Groceries + Citi Custom Cash + FTC Scam-Alerts + BBB + Plaid Auto-Split Savings 10-15% + HYSA Marcus/Discover/Ally 4-5% APY + Ally Buckets 'Groceries' 'Rx' 'Travel' + 988 + NFCC + AFCPE + FDIC $250K + NCUA $250K + BLS CPI-Food + Gift-Card Resale Raise/CardCash)"
+  },
+  "reader_psychology": {
+    "triggering_thought": "'Saving money with coupons — every page tells me clip coupons without telling me HOW the 12 levers fit (Sunday-insert + digital-load + MFG stack + double-coupon + Rakuten/Ibotta + Honey + price-match + Chase Freedom 5% + Target Circle + unit-price + burnout guard + fraud guard), how WHICH tier of couponer (beginner / grocery / drug / clearance / travel / senior) maps to my shopping, or how to operationalize Rakuten + Ibotta + Fetch + Checkout51 + Receipt Hog + Honey + Capital One Shopping + Target Circle + Kroger + Walmart Cash + GoodRx + Chase Freedom + Amex Blue Cash + FTC + BBB + Plaid + HYSA + Ally Buckets + 988. I\\'m tracking every dollar on pen-to-paper, obsessing about spending on groceries, and ignoring ad-for-an-app pitches. The confusion-frustration + anxiety-uncontrolled-spending + suspicion-distrust swing keeps me overpaying.' — close paraphrase of JSONL emotional_state 'Confusion and frustration over budgeting' triggered by 'Tracking spending without understanding where money is going' + JSONL emotional states 'Anxiety about uncontrolled spending' + 'Suspicion and distrust of financial advice' + JSONL repeated phrase 'tracking every dollar' / 'pen to paper' / 'spending on groceries' / 'ad for an app.'",
+    "desired_internal_shift": "From Paying-Sticker-Tracking-Groceries-Distrusting-Ads Shopper To 12-Lever-Stack+Cashback+Credit-Rewards-Framework-Computer + 6-Tier-Couponer-Profile-Tree-Selector + 8-Step-Operational-Toolkit-Stacker With JSONL Tracking-Every-Dollar + Pen-To-Paper + Spending-On-Groceries + Ad-For-An-App Discipline",
+    "bridge_content": "12-Lever Coupon Savings Framework (Gap 1) → 6-Tier Couponer-Profile Decision Tree By Beginner / Grocery / Drug / Clearance / Travel / Senior (Gap 2) → 8-Step Operational Toolkit With Rakuten + Ibotta + Fetch + Honey + Target Circle + Kroger + Walmart Cash + GoodRx + Chase Freedom + Amex Blue Cash + FTC + BBB + Plaid + HYSA + Ally Buckets + 988/NFCC/AFCPE + FDIC/NCUA + BLS Safety Net (Gap 3). Once applied, JSONL confusion-frustration + anxiety-uncontrolled-spending + suspicion-distrust converts into JSONL tracking-every-dollar + pen-to-paper + spending-on-groceries + ad-for-an-app discipline."
+  },
+  "internal_linking": null
+}
+```
+<!-- END_BATTLE_PLAN_BRIEF -->

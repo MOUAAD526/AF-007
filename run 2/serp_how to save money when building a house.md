@@ -594,3 +594,102 @@ _Body text (45 chars) saved to JSON sidecar_
 
 
 ---
+
+
+---
+<!-- BATTLE_PLAN_BRIEF -->
+# Battle Plan Brief
+**Generated:** 2026-04-27T10:37:29.805027+00:00  
+**Keyword:** how to save money when building a house
+
+## Validation — 4 Checks (PASS)
+- **Keyword match:** YES — Keyword tokens hit: 5/5; angle tokens: 3
+- **Psychology match:** YES — 36 pain/emotion tokens echoed; keyword hit: True
+- **Competitor evidence:** YES — 3/3 gaps tied to named competitors with body evidence
+- **Gap specificity:** YES — All 3 gaps are specific (named WHO + WHERE + concrete edge)
+
+## Brief
+```json
+{
+  "content_gaps": [
+    {
+      "name": "New-construction cost-stack decomposition (land + soft costs + foundation + framing + envelope + MEP + interior finish + site work) with $/sqft and %-share for each phase — never built; competitors lump 'building costs' without phase-by-phase arithmetic or a JSONL budgeting-spreadsheet tied to each line",
+      "what_they_missed": "nahb.org (879 words) frames money as 'motivation/energy' without a phase-by-phase cost stack. blog.kurkhomes.com (2,373 words — a custom builder) discusses 'splurge vs save' qualitatively without the 8-phase decomposition. foxblocks.com (1,299 words — ICF builder) is product-anchored and titled '14 Ways' but lacks line-item % share. legaleaglecontractors.com (1,627 words) and synergyhomesfl.com (2,116 words) and mymodernhome.com (2,566 words) and houseplans.com (1,310 words) skip the phase decomposition. None of the seven competitors builds: (a) the NAHB 8-phase cost decomposition — Land 18-22%, Site work 5-7%, Foundation 8-10%, Framing 18-22%, Envelope (roof + windows + siding) 13-15%, Interior finishes 24-28%, MEP (mechanical + electrical + plumbing) 12-14%, Soft costs (permits + plans + financing) 6-8% (cite nahb.org/news-and-economics/housing-economics/cost-of-constructing-a-home AND nahb.org Cost of Constructing a Home study); (b) $/sqft anchor — typical $150-$400/sqft total turnkey by region; (c) JSONL-tied budgeting-spreadsheet template per-phase column.",
+      "our_edge": "Add an H2: 'Decompose By 8-Phase Cost Stack Then Drop Into A Budgeting Spreadsheet.' 8-row table tied to NAHB study. Columns: Phase | %-share | Typical $/sqft | Spreadsheet line. Row 1: Land + lot 18-22% — varies wildly $20K-$200K (cite nahb.org/news-and-economics/housing-economics/cost-of-constructing-a-home). Row 2: Site work 5-7% — $8-$25/sqft. Row 3: Foundation 8-10% — $12-$30/sqft. Row 4: Framing 18-22% — $25-$80/sqft. Row 5: Envelope (roof + windows + siding) 13-15% — $20-$60/sqft. Row 6: MEP (HVAC + electrical + plumbing) 12-14% — $20-$50/sqft. Row 7: Interior finishes (drywall + flooring + cabinets + trim + paint) 24-28% — $40-$110/sqft. Row 8: Soft costs (permits + plans + financing + insurance) 6-8% — $10-$30/sqft. Total $150-$400/sqft turnkey. Drop each line into a JSONL-aligned budgeting-spreadsheet with planned vs actual columns + 10-15% contingency reserve. Anchored to JSONL pain 'money disappearing without understanding why' — the 8-phase decomposition + spreadsheet converts JSONL anxiety-fear-out-of-control into JSONL feel-in-control via budgeting-spreadsheet visibility line by line."
+    },
+    {
+      "name": "Construction-loan + builder-procurement + sweat-equity-allowance + GC-vs-owner-builder structural decision tree with quantified financing arithmetic — never built; competitors mention generic 'shop around' tactics without financing + procurement strategy or contingency reserve math",
+      "what_they_missed": "blog.kurkhomes.com (2,373 words) and synergyhomesfl.com (2,116 words) and mymodernhome.com (2,566 words) frame financing as 'plan ahead' qualitatively without builder-procurement strategy. legaleaglecontractors.com (1,627 words) and houseplans.com (1,310 words) and foxblocks.com (1,299 words) skip construction-loan + sweat-equity options. nahb.org (879 words) frames money psychologically. None of the seven competitors builds: (a) construction-to-perm loan typical 1% above conventional mortgage with 12-month draw schedule (cite consumerfinance.gov/owning-a-home/loan-options/conventional-loans); (b) USDA 502 Direct + VA Construction Loan + FHA 203(k) construction-to-perm options (cite usda.gov/topics/farming/grants-and-loans AND benefits.va.gov/homeloans/purchaseco_construction.asp AND hud.gov/program_offices/housing/sfh/203k); (c) GC vs owner-builder vs hybrid 'manage-but-hire-subs' decision tree — owner-builder typically saves 10-25% (the 10-20% GC margin) but adds 200-400 hours management time; (d) sweat equity allowance — DIY paint + landscaping + tile + trim + finish carpentry can save $15K-$35K on a $300K house; (e) builder bid-comparison protocol — get 3 bids on identical scope, line-by-line variance check, allowances vs fixed-price clauses; (f) contingency reserve — 10-15% of contract is industry standard; (g) materials direct-purchase via Home Depot Pro + Builders FirstSource saves 8-15% vs builder mark-up.",
+      "our_edge": "Add an H2: 'Choose Loan + Builder + Sweat-Equity Path Then Bid 3-Way.' 6-step protocol. (1) Loan: construction-to-perm typical 1% above conventional with 12-month draw (cite consumerfinance.gov); USDA 502 (cite usda.gov/topics/farming/grants-and-loans), VA Construction (cite benefits.va.gov/homeloans), FHA 203(k) (cite hud.gov/program_offices/housing/sfh/203k) for eligible applicants. (2) Procurement path: GC (full service, ~10-20% margin) vs owner-builder (save 10-25% but 200-400 hours management) vs hybrid (GC for framing-MEP + owner-builder for interior finish). (3) Bid 3 GCs on identical scope; compare line-by-line variance + allowances vs fixed-price. (4) Sweat-equity allowance — DIY paint + landscaping + tile + trim + finish carpentry saves $15K-$35K on $300K build. (5) Direct-purchase materials via Home Depot Pro + Builders FirstSource + Floor & Decor saves 8-15% on builder mark-up. (6) Contingency reserve 10-15% of contract baked into JSONL spreadsheet. Anchored to JSONL pain 'living paycheck to paycheck despite earning enough' + JSONL repeated phrase 'live off one income' + 'budgeting spreadsheet' — the procurement decision tree + financing path converts JSONL out-of-control feeling into JSONL feel-in-control with spreadsheet-tracked line items."
+    },
+    {
+      "name": "Design + spec value-engineering toolkit (square-footprint vs L-shape / single-story vs 2-story / stock plan vs custom / standard ceiling vs vault / Energy-Star envelope + IRA 25C/45L credits) with quantified per-tactic savings — never built; competitors stay inside generic 'simpler is cheaper' without value-engineering tradeoff math or federal credit stack",
+      "what_they_missed": "houseplans.com (1,310 words) sells stock plans without explaining stock vs custom $5-$25K savings. foxblocks.com (1,299 words) is ICF-vendor anchored. blog.kurkhomes.com (2,373 words) and synergyhomesfl.com (2,116 words) and mymodernhome.com (2,566 words) and legaleaglecontractors.com (1,627 words) name 'simple is cheaper' qualitatively. nahb.org (879 words) skips design value engineering. None of the seven competitors builds: (a) square footprint vs L-shape — square saves 5-12% on foundation + framing + roof per identical sqft; (b) single-story vs 2-story — 2-story saves 8-15% on foundation + roof per sqft (smaller footprint) but adds stairs + complexity; (c) stock plan ($500-$2,000) vs custom architect ($8K-$25K + 3-8% of contract) — stock saves $5K-$25K; (d) standard 8-9 ft ceilings vs vaults — standard saves 5-12% on framing + drywall + HVAC; (e) ENERGY STAR envelope + air-sealing + R-49 attic + ENERGY STAR windows + heat pump cuts long-run energy 30-50% (cite energystar.gov/saveathome AND energystar.gov/products/heating_cooling/heat_pumps_air_source); (f) IRA 25C 30% credit on heat pump + insulation + windows up to $2,000-$3,200/year (cite irs.gov/credits-deductions/individuals/energy-efficient-home-improvement-credit); (g) IRA 45L $2,500-$5,000 builder credit on ENERGY STAR / Zero Energy Ready Home certified new construction — pass-through to buyer (cite irs.gov/instructions/i8908); (h) DSIRE state utility rebates $500-$5,000 on whole-home efficiency (cite dsireusa.org).",
+      "our_edge": "Add an H2: '8-Tactic Design Value-Engineering Toolkit + IRA Credit Stack.' Table. Row 1: Square footprint over L-shape saves 5-12% on foundation + framing + roof. Row 2: Single-story vs 2-story — 2-story 8-15% cheaper per sqft (smaller footprint). Row 3: Stock plan $500-$2,000 vs custom architect $8K-$25K — saves $5K-$25K (cite houseplans.com r15 stock plan tier). Row 4: Standard 8-9 ft ceilings 5-12% cheaper than vault. Row 5: Spec finishes vs builder-grade vs designer — semi-custom mid-tier saves 15-25% vs designer. Row 6: ENERGY STAR envelope + R-49 attic + heat pump cuts 30-50% lifetime energy (cite energystar.gov/saveathome AND energystar.gov/products/heating_cooling/heat_pumps_air_source). Row 7: IRA 25C 30% credit up to $3,200/year (cite irs.gov/credits-deductions/individuals/energy-efficient-home-improvement-credit). Row 8: IRA 45L builder credit $2,500-$5,000 on ENERGY STAR / Zero Energy Ready new construction — verify pass-through (cite irs.gov/instructions/i8908) + DSIRE state rebates (cite dsireusa.org). Anchored to JSONL emotional state 'Relief / Gratitude from Financial Prudence' — the value-engineering toolkit + federal credit stack converts JSONL anxiety-fear-dopamine-rush into JSONL relief-gratitude + budgeting-spreadsheet + emergency-fund + live-off-one-income discipline."
+    }
+  ],
+  "nlp_entities": [
+    "NAHB 8-phase cost decomposition",
+    "$/sqft turnkey $150-$400",
+    "Construction-to-perm loan",
+    "USDA 502 + VA + FHA 203(k)",
+    "GC vs owner-builder vs hybrid",
+    "Sweat-equity allowance $15K-$35K",
+    "10-15% contingency reserve",
+    "Stock plan vs custom architect",
+    "ENERGY STAR + Zero Energy Ready Home",
+    "IRA 25C 30% federal tax credit",
+    "IRA 45L $2,500-$5,000 builder credit",
+    "DSIRE state utility rebates"
+  ],
+  "eeat_requirements": [
+    "Cite NAHB Cost of Constructing a Home study (cite nahb.org/news-and-economics/housing-economics/cost-of-constructing-a-home) AND CFPB construction loan guidance (cite consumerfinance.gov/owning-a-home/loan-options/conventional-loans) AND HUD 203(k) (cite hud.gov/program_offices/housing/sfh/203k) AND VA construction (cite benefits.va.gov/homeloans/purchaseco_construction.asp) AND USDA 502 (cite usda.gov/topics/farming/grants-and-loans). Per-phase + financing path must anchor on NAHB + CFPB + HUD + VA + USDA primary government data.",
+    "Cite ENERGY STAR + DOE for envelope + heat pump (cite energystar.gov/saveathome AND energystar.gov/products/heating_cooling/heat_pumps_air_source) AND IRS IRA 25C credit (cite irs.gov/credits-deductions/individuals/energy-efficient-home-improvement-credit) AND IRS 45L builder credit (cite irs.gov/instructions/i8908) AND DSIRE state-incentive database (cite dsireusa.org). Energy + tax-credit framework anchored on ENERGY STAR + IRS + DSIRE primary regulator sources.",
+    "Cite each builder's transparency content (foxblocks.com, blog.kurkhomes.com, houseplans.com, synergyhomesfl.com, mymodernhome.com, legaleaglecontractors.com) for cost-band reference but anchor savings claims on NAHB + IRS + ENERGY STAR primary data."
+  ],
+  "style_critique": {
+    "all_tones_found": [
+      {
+        "tone": "trade-association educational",
+        "used_by": "nahb.org r2"
+      },
+      {
+        "tone": "custom-builder blog",
+        "used_by": "blog.kurkhomes.com r3, mymodernhome.com r12, synergyhomesfl.com r11"
+      },
+      {
+        "tone": "ICF-vendor educational",
+        "used_by": "foxblocks.com r4"
+      },
+      {
+        "tone": "general-contractor blog",
+        "used_by": "legaleaglecontractors.com r10"
+      },
+      {
+        "tone": "stock-plan retailer",
+        "used_by": "houseplans.com r15"
+      }
+    ],
+    "winning_tone": "Investigative consumer advocate — builds the NAHB 8-phase cost-stack decomposition with $/sqft + spreadsheet template, the construction-loan + builder-procurement + sweat-equity decision tree with bid-3-way protocol, and the 8-tactic design value-engineering toolkit with IRA 25C + 45L + DSIRE federal credit stack",
+    "decision_reason": "Priority 1 fired — JSONL emotional_state 'Anxiety / Fear' triggered by 'Money disappearing without understanding why' + JSONL emotional state 'Feeling Out of Control' + 'Relief / Gratitude from Financial Prudence' + 'Dopamine Rush from Spending vs. Saving' + JSONL repeated phrase 'spending habits' / 'live off one income' / 'paycheck to paycheck' / 'emergency fund' / 'budgeting spreadsheet' / 'feel in control' — An investigative-consumer-advocate tone fills the gap left by trade-association, custom-builder blog, ICF-vendor, GC blog, and stock-plan retailer.",
+    "our_directives": [
+      "When discussing new-construction budget, always present the NAHB 8-phase cost-stack decomposition + spreadsheet template. Never write 'building a home is expensive' — write 'decompose by 8-phase cost stack: land 18-22% / site work 5-7% / foundation 8-10% / framing 18-22% / envelope 13-15% / MEP 12-14% / interior finishes 24-28% / soft costs 6-8%. Total $150-$400/sqft (cite nahb.org/news-and-economics/housing-economics/cost-of-constructing-a-home). Drop each line into a budgeting-spreadsheet with planned vs actual + 10-15% contingency reserve.'",
+      "When recommending financing + procurement, always present the 6-step path. Never write 'shop around' — write 'apply 6-step protocol: (1) construction-to-perm loan +1% (cite consumerfinance.gov), USDA 502 / VA / FHA 203(k) for eligible (cite usda.gov AND benefits.va.gov AND hud.gov); (2) choose GC vs owner-builder vs hybrid; (3) bid 3 GCs on identical scope with line-by-line variance + allowances; (4) sweat equity $15K-$35K savings; (5) direct-purchase materials via Home Depot Pro + Builders FirstSource saves 8-15%; (6) 10-15% contingency reserve.'",
+      "When discussing design + spec, always present the 8-tactic value-engineering toolkit + IRA credit stack. Never write 'simple is cheaper' — write 'apply 8-tactic toolkit: (1) square footprint 5-12% cheaper; (2) 2-story 8-15% cheaper per sqft; (3) stock plan saves $5K-$25K (cite houseplans.com r15 tier); (4) standard ceilings 5-12% cheaper; (5) semi-custom finishes 15-25% cheaper than designer; (6) ENERGY STAR envelope + heat pump cuts 30-50% energy (cite energystar.gov/saveathome AND energystar.gov/products/heating_cooling/heat_pumps_air_source); (7) IRA 25C 30% up to $3,200/year (cite irs.gov/credits-deductions/individuals/energy-efficient-home-improvement-credit); (8) IRA 45L $2,500-$5,000 builder credit (cite irs.gov/instructions/i8908) + DSIRE state rebates (cite dsireusa.org).'",
+      "When the reader confesses to JSONL pain \\'money disappearing without understanding why,\\' pair empathy with the cost-stack + procurement + value-engineering framing. Never write \\'just budget better.\\' Always write \\'[Empathy sentence]. The fix: three structural moves convert JSONL anxiety-fear-out-of-control-dopamine-rush into JSONL feel-in-control + budgeting-spreadsheet + emergency-fund + live-off-one-income discipline — (a) decompose by NAHB 8-phase cost stack + spreadsheet, (b) choose financing + procurement path with 3-way bid + sweat equity, (c) deploy 8-tactic value-engineering toolkit with IRA 25C + 45L + DSIRE federal credit stack.\\'"
+    ]
+  },
+  "title_intelligence": {
+    "dominant_title_pattern": "'Money is energy / Setting a budget is tricky / 14 Ways to Save Money on Building Your Home / Building a custom home doesn't have to cost a fortune / Building a house is exciting but expensive / Building a home is a long-term investment / Building your home is the biggest investment' — competitors title around expense-anxiety or motivation without anchoring to NAHB 8-phase cost stack OR procurement decision tree OR value-engineering + IRA credit stack.",
+    "short_title": "How To Save Money When Building A House: NAHB 8-Phase Cost Stack + Procurement + IRA Credits",
+    "long_title": "How To Save Money When Building A House — Decompose By NAHB 8-Phase Cost Stack (Land 18-22% / Site 5-7% / Foundation 8-10% / Framing 18-22% / Envelope 13-15% / MEP 12-14% / Interior Finishes 24-28% / Soft Costs 6-8%) Into A Budgeting Spreadsheet With 10-15% Contingency, Choose Construction-To-Perm Or USDA/VA/FHA Loan + GC-vs-Owner-Builder Procurement With 3-Way Bid + $15K-$35K Sweat Equity, And Deploy 8-Tactic Design Value-Engineering Toolkit With IRA 25C 30% Credit + IRA 45L $2,500-$5,000 Builder Credit + DSIRE State Rebates"
+  },
+  "reader_psychology": {
+    "triggering_thought": "'How to save money when building a house — every list says shop around. But by how much? Which phase is the budget killer? I have an emergency fund + budgeting spreadsheet, want to live off one income but feel paycheck to paycheck and money disappears without understanding why. The anxiety-fear-feeling-out-of-control loop with the dopamine-rush from spending makes me dread every line item.' — close paraphrase of JSONL emotional_state 'Anxiety / Fear' triggered by 'Money disappearing without understanding why' + JSONL emotional states 'Feeling Out of Control' + 'Relief / Gratitude from Financial Prudence' + 'Dopamine Rush from Spending vs. Saving' + JSONL repeated phrase 'spending habits' / 'live off one income' / 'paycheck to paycheck' / 'emergency fund' / 'budgeting spreadsheet' / 'feel in control.'",
+    "desired_internal_shift": "From Tip-List-Reader To NAHB-8-Phase-Cost-Stack-Operator + Procurement-Decision-Tree-Bidder + Value-Engineering-IRA-Credit-Stacker With JSONL Budgeting-Spreadsheet + Emergency-Fund + Live-Off-One-Income + Feel-In-Control Discipline",
+    "bridge_content": "NAHB 8-Phase Cost-Stack Decomposition + Spreadsheet Template With 10-15% Contingency (Gap 1) → 6-Step Construction-Loan + Builder-Procurement + Sweat-Equity Decision Tree With 3-Way Bid (Gap 2) → 8-Tactic Design Value-Engineering Toolkit With IRA 25C + 45L + DSIRE Federal Credit Stack (Gap 3). Once applied, JSONL anxiety-fear-out-of-control-dopamine-rush converts into JSONL relief-gratitude + budgeting-spreadsheet + emergency-fund + live-off-one-income + feel-in-control discipline."
+  },
+  "internal_linking": null
+}
+```
+<!-- END_BATTLE_PLAN_BRIEF -->

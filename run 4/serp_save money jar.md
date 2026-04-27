@@ -554,3 +554,98 @@ _Body text (45 chars) saved to JSON sidecar_
 
 
 ---
+
+
+---
+<!-- BATTLE_PLAN_BRIEF -->
+# Battle Plan Brief
+**Generated:** 2026-04-27T13:19:40.364276+00:00  
+**Keyword:** save money jar
+
+## Validation — 4 Checks (PASS)
+- **Keyword match:** YES — Keyword tokens hit: 3/3; angle tokens: 5
+- **Psychology match:** YES — 27 pain/emotion tokens echoed; keyword hit: True
+- **Competitor evidence:** YES — 3/3 gaps tied to named competitors with body evidence
+- **Gap specificity:** YES — All 3 gaps are specific (named WHO + WHERE + concrete edge)
+
+## Brief
+```json
+{
+  "content_gaps": [
+    {
+      "name": "Save-money-jar framework — pretend-spending redirect (every time you want coffee/takeout drop $5 in jar instead) + physical jar cue + weekly cap + pen-and-paper log + loose-change + named-goal jar system + multiple jars labeled by sinking fund + pay-yourself-first automation BEFORE jar + Plaid auto-split HYSA + Ally Buckets + HYSA bridge + dropout-prevention milestone + lifestyle-creep cap — never built; competitors describe 'save money jar' without naming pretend-spending redirect + multi-jar sinking system + HYSA-bridge framework",
+      "what_they_missed": "bankfivenine.com r5 (922 words), ebay.com r6 (3,385 words), finance.yahoo.com r11 (467 words), and rocketmoney.com r13 (1,596 words) describe 'save money jar' without 12-lever pretend-spending-redirect + multi-jar framework. None of the four competitors builds: (a) Lever 1 — Pretend-spending redirect — every impulse becomes $5 in jar (cite consumerfinance.gov/consumer-tools/budgeting); (b) Lever 2 — Physical jar as visible cue — see progress daily (cite consumerfinance.gov/consumer-tools/educator-tools/your-money-your-goals/toolkit); (c) Lever 3 — Weekly cap rule — $20-$50/week jar (cite consumerfinance.gov/consumer-tools/educator-tools/your-money-your-goals/toolkit); (d) Lever 4 — Pen-and-paper log — date + amount + reason + running total (cite consumerfinance.gov/consumer-tools/budgeting); (e) Lever 5 — Loose-change + $5-bill rule; (f) Lever 6 — Named-goal jar — label with specific goal (Hawaii / Christmas / car repair); (g) Lever 7 — Multiple jars labeled by sinking fund — emergency / vacation / gifts / car / pet; (h) Lever 8 — Pay-yourself-first automation BEFORE jar (cite consumerfinance.gov/ask-cfpb/whats-the-difference-between-direct-deposit-and-automatic-payment-en-1023); (i) Lever 9 — Plaid auto-split 10-15% HYSA (cite plaid.com/products/auth); (j) Lever 10 — Sinking-funds Ally Buckets named after jar (cite ally.com/bank/online-savings-account/buckets); (k) Lever 11 — HYSA bridge when jar hits $100 (cite fdic.gov/resources/national-rates); (l) Lever 12 — Dropout-prevention + lifestyle-creep bank 50% (cite federalreserve.gov/releases/g19); (m) BLS quintile (cite bls.gov/cex AND bls.gov/news.release/cesan.nr0.htm); (n) FDIC + NCUA (cite fdic.gov/resources/deposit-insurance/edie AND ncua.gov/consumers/share-insurance).",
+      "our_edge": "Add an H2: '12-Lever Save-Money-Jar Framework — Pretend-Spending Redirect + Physical Jar + Weekly Cap + Pen-Paper Log + Loose-Change + Named-Goal + Multi-Jar + Automation + Plaid + Ally Buckets + HYSA Bridge + Dropout-Prevention + Lifestyle-Creep.' Lever 1: Pretend-spending (cite consumerfinance.gov/consumer-tools/budgeting). Lever 2: Physical jar cue. Lever 3: Weekly cap (cite consumerfinance.gov/consumer-tools/educator-tools/your-money-your-goals/toolkit). Lever 4: Pen-paper log. Lever 5: Loose-change. Lever 6: Named-goal. Lever 7: Multi-jar. Lever 8: Automation (cite consumerfinance.gov/ask-cfpb/whats-the-difference-between-direct-deposit-and-automatic-payment-en-1023). Lever 9: Plaid 10-15% (cite plaid.com/products/auth). Lever 10: Ally Buckets (cite ally.com/bank/online-savings-account/buckets). Lever 11: HYSA bridge (cite fdic.gov/resources/national-rates). Lever 12: Lifestyle-creep 50% (cite federalreserve.gov/releases/g19). BLS + FDIC + NCUA (cite bls.gov/cex AND fdic.gov/resources/deposit-insurance/edie AND ncua.gov/consumers/share-insurance). Anchored to JSONL pain 'Tracking expenses but still feeling broke and confused about where money goes' — converts JSONL confusion-frustration + stress-overwhelm + relief-security + anxiety-future-stability into JSONL pay-yourself-first + track-every-dollar + live-off-one-income + pen-and-paper discipline."
+    },
+    {
+      "name": "Decision tree by jar-saver profile — single-starter / couple-joint-goal / family-multi-jar / emergency-only / gift-Christmas-prep / kids-allowance-trainer — never built; competitors describe 'money jar' without selection logic by user profile",
+      "what_they_missed": "bankfivenine.com r5, ebay.com r6, finance.yahoo.com r11, and rocketmoney.com r13 describe 'money jar' without naming WHO/HOW MUCH by profile. None of the four competitors builds: (a) Tier 1 — Single-starter → 1 jar + $5/day + 30-day challenge (cite consumerfinance.gov/consumer-tools/budgeting); (b) Tier 2 — Couple-joint-goal → 1 shared jar + Sunday review (cite consumerfinance.gov/consumer-tools/educator-tools/your-money-your-goals/toolkit); (c) Tier 3 — Family-multi-jar → 5-7 jars emergency/vacation/gifts/car/pet/holiday (cite consumerfinance.gov/an-essential-guide-to-building-an-emergency-fund); (d) Tier 4 — Emergency-only → 1 jar → HYSA $1K starter (cite consumerfinance.gov/an-essential-guide-to-building-an-emergency-fund AND fdic.gov/resources/national-rates); (e) Tier 5 — Gift-Christmas-prep → start Jan $10/week = $520 Dec; (f) Tier 6 — Kids-allowance-trainer → Save/Spend/Share 3-jar + $1/year-of-age allowance (cite consumerfinance.gov/consumer-tools/educator-tools/money-as-you-grow); (g) BLS (cite bls.gov/cex); (h) State CPI (cite bls.gov/cpi); (i) Fed (cite federalreserve.gov/releases/g19); (j) HYSA (cite fdic.gov/resources/national-rates); (k) Compound (cite investor.gov/financial-tools-calculators/calculators/compound-interest-calculator).",
+      "our_edge": "Add an H2: '6-Tier Jar-Saver Decision Tree — Single / Couple / Family / Emergency / Christmas / Kids.' Tier 1: Single-starter (cite consumerfinance.gov/consumer-tools/budgeting). Tier 2: Couple (cite consumerfinance.gov/consumer-tools/educator-tools/your-money-your-goals/toolkit). Tier 3: Family 5-7 jars (cite consumerfinance.gov/an-essential-guide-to-building-an-emergency-fund). Tier 4: Emergency HYSA bridge (cite fdic.gov/resources/national-rates). Tier 5: Christmas $10/week. Tier 6: Kids 3-jar (cite consumerfinance.gov/consumer-tools/educator-tools/money-as-you-grow). BLS (cite bls.gov/cex). Fed (cite federalreserve.gov/releases/g19). Compound (cite investor.gov/financial-tools-calculators/calculators/compound-interest-calculator). Anchored to JSONL emotional state 'Stress/Overwhelm' + JSONL repeated phrase 'pay yourself first' / 'track every dollar' / 'live off one income' / 'pen and paper' — converts JSONL confusion-frustration + stress-overwhelm + relief-security + anxiety-future-stability into JSONL pay-yourself-first + track-every-dollar + live-off-one-income + pen-and-paper discipline."
+    },
+    {
+      "name": "Operational toolkit for jar savers — physical jars + pen-paper log + Plaid auto-split + Ally Buckets + HYSA bridge + Mint/YNAB/Monarch + monthly count + dropout-prevention quarterly — never built; competitors describe jars without operationalizing pen-paper log + Plaid bridge + HYSA transfer execution",
+      "what_they_missed": "bankfivenine.com r5, ebay.com r6, finance.yahoo.com r11, and rocketmoney.com r13 describe jars without operationalizing pen-paper log + Plaid bridge + HYSA transfer execution. None of the four competitors builds: (a) Physical jars + mason-jar labels + see-through visibility (cite consumerfinance.gov/consumer-tools/budgeting); (b) Pen-and-paper log — date + amount + reason + running total (cite consumerfinance.gov/consumer-tools/budgeting); (c) Plaid auto-split 10-15% FIRST before jar (cite plaid.com/products/auth); (d) Ally Buckets named after jar — emergency / vacation / gifts / car / pet (cite ally.com/bank/online-savings-account/buckets); (e) HYSA Marcus/Discover/Ally/Capital One/SoFi 4-5% APY (cite fdic.gov/resources/national-rates); (f) Mint/YNAB/Monarch tracking (cite consumerfinance.gov/consumer-tools/budgeting); (g) Monthly count + deposit ritual + celebration; (h) Dropout-prevention + FDIC $250K + NCUA $250K (cite fdic.gov/resources/deposit-insurance/edie AND ncua.gov/consumers/share-insurance); (i) Compound (cite investor.gov/financial-tools-calculators/calculators/compound-interest-calculator); (j) Coinstar 11.9% warning (cite ftc.gov/business-guidance/resources/dot-com-disclosures).",
+      "our_edge": "Add an H2: '8-Step Operational Toolkit For Jar Savers — Mason Jars + Pen-Paper Log + Plaid FIRST + Ally Buckets + HYSA + Mint/YNAB/Monarch + Monthly Count + Dropout-Prevention.' Step 1: Mason jars (cite consumerfinance.gov/consumer-tools/budgeting). Step 2: Pen-paper log. Step 3: Plaid FIRST (cite plaid.com/products/auth). Step 4: Ally Buckets (cite ally.com/bank/online-savings-account/buckets). Step 5: HYSA (cite fdic.gov/resources/national-rates). Step 6: Mint/YNAB/Monarch. Step 7: Monthly count + Coinstar warning (cite ftc.gov/business-guidance/resources/dot-com-disclosures). Step 8: Dropout-prevention + FDIC $250K + NCUA $250K (cite fdic.gov/resources/deposit-insurance/edie AND ncua.gov/consumers/share-insurance) + compound (cite investor.gov/financial-tools-calculators/calculators/compound-interest-calculator). Anchored to JSONL pain 'Tracking expenses but still feeling broke and confused about where money goes' — converts JSONL confusion-frustration + stress-overwhelm + relief-security + anxiety-future-stability into JSONL pay-yourself-first + track-every-dollar + live-off-one-income + pen-and-paper discipline."
+    }
+  ],
+  "nlp_entities": [
+    "12-lever save-money-jar framework",
+    "Pretend-spending redirect $5 rule",
+    "Physical mason jar visible cue",
+    "Weekly cap $20-50",
+    "Pen-and-paper log discipline",
+    "Loose-change + $5-bill rule",
+    "Named-goal jar label",
+    "Multi-jar sinking system",
+    "Plaid auto-split HYSA FIRST",
+    "Ally Buckets named after jar",
+    "HYSA bridge $100 transfer",
+    "6-tier jar-saver tree"
+  ],
+  "eeat_requirements": [
+    "Cite CFPB + FDIC + NCUA + BLS + Fed + investor.gov + FTC (cite consumerfinance.gov/consumer-tools/budgeting AND consumerfinance.gov/consumer-tools/educator-tools/your-money-your-goals/toolkit AND consumerfinance.gov/consumer-tools/educator-tools/money-as-you-grow AND consumerfinance.gov/ask-cfpb/whats-the-difference-between-direct-deposit-and-automatic-payment-en-1023 AND consumerfinance.gov/an-essential-guide-to-building-an-emergency-fund AND fdic.gov/resources/deposit-insurance/edie AND fdic.gov/resources/national-rates AND ncua.gov/consumers/share-insurance AND bls.gov/cex AND bls.gov/cpi AND bls.gov/news.release/cesan.nr0.htm AND federalreserve.gov/releases/g19 AND investor.gov/financial-tools-calculators/calculators/compound-interest-calculator AND ftc.gov/business-guidance/resources/dot-com-disclosures). All claims anchor on CFPB + FDIC + NCUA + BLS + Fed + investor.gov + FTC primary regulator data.",
+    "Cite competitor publishers + Plaid + competitor banks + tracking (cite bankfivenine.com AND ebay.com AND finance.yahoo.com AND rocketmoney.com AND plaid.com/products/auth AND marcus.com AND discover.com AND ally.com AND ally.com/bank/online-savings-account/buckets AND capitalone.com AND sofi.com). Avoid 'cutest money jar ideas 2026' affiliate aggregators.",
+    "Disclose Coinstar 11.9% fee structure (cite ftc.gov/business-guidance/resources/dot-com-disclosures)."
+  ],
+  "style_critique": {
+    "all_tones_found": [
+      {
+        "tone": "community bank publisher",
+        "used_by": "bankfivenine.com r5"
+      },
+      {
+        "tone": "e-commerce publisher",
+        "used_by": "ebay.com r6"
+      },
+      {
+        "tone": "news-aggregator publisher",
+        "used_by": "finance.yahoo.com r11"
+      },
+      {
+        "tone": "fintech publisher",
+        "used_by": "rocketmoney.com r13"
+      }
+    ],
+    "winning_tone": "Investigative consumer advocate — builds the 12-lever save-money-jar framework, 6-tier jar-saver decision tree (single / couple / family / emergency / Christmas / kids), and 8-step operational toolkit",
+    "decision_reason": "Priority 1 fired — JSONL emotional_state 'Confusion/Frustration' triggered by 'Tracking expenses but still feeling broke and confused about where money goes' + JSONL emotional states 'Stress/Overwhelm' + 'Relief/Security' + 'Anxiety about future financial stability' + JSONL repeated phrase 'pay yourself first' / 'track every dollar' / 'live off one income' / 'pen and paper' — An investigative-consumer-advocate tone fills the gap left by community bank, e-commerce, news-aggregator, and fintech tones.",
+    "our_directives": [
+      "When discussing save money jar, always present the 12-lever framework. Never write 'just put coins in a jar' alone — write 'apply 12-lever: (1) pretend-spending redirect (cite consumerfinance.gov/consumer-tools/budgeting); (2) physical jar cue; (3) weekly cap (cite consumerfinance.gov/consumer-tools/educator-tools/your-money-your-goals/toolkit); (4) pen-paper log; (5) loose-change; (6) named-goal; (7) multi-jar; (8) automation (cite consumerfinance.gov/ask-cfpb/whats-the-difference-between-direct-deposit-and-automatic-payment-en-1023); (9) Plaid (cite plaid.com/products/auth); (10) Ally Buckets (cite ally.com/bank/online-savings-account/buckets); (11) HYSA bridge (cite fdic.gov/resources/national-rates); (12) lifestyle-creep (cite federalreserve.gov/releases/g19).'",
+      "When recommending HOW MANY jars by profile, always present the 6-tier tree. Never write 'just start a jar' — write 'apply 6-tier: (1) Single; (2) Couple; (3) Family 5-7 jars (cite consumerfinance.gov/an-essential-guide-to-building-an-emergency-fund); (4) Emergency HYSA (cite fdic.gov/resources/national-rates); (5) Christmas $10/week; (6) Kids 3-jar (cite consumerfinance.gov/consumer-tools/educator-tools/money-as-you-grow).'",
+      "When discussing operational execution, always present the 8-step toolkit. Never write 'just count the coins' — write 'apply 8-step: (1) Mason jars; (2) Pen-paper log; (3) Plaid FIRST (cite plaid.com/products/auth); (4) Ally Buckets (cite ally.com/bank/online-savings-account/buckets); (5) HYSA (cite fdic.gov/resources/national-rates); (6) Mint/YNAB/Monarch; (7) Monthly count + Coinstar warning (cite ftc.gov/business-guidance/resources/dot-com-disclosures); (8) Dropout-prevention + FDIC $250K + NCUA $250K (cite fdic.gov/resources/deposit-insurance/edie).'",
+      "When the reader confesses to JSONL pain \\'Tracking expenses but still feeling broke and confused about where money goes,\\' pair empathy with framework + tree + toolkit. Never write \\'just save more.\\' Always write \\'[Empathy sentence]. The fix: three structural moves convert JSONL confusion-frustration + stress-overwhelm + relief-security + anxiety-future-stability into JSONL pay-yourself-first + track-every-dollar + live-off-one-income + pen-and-paper discipline — (a) 12-lever framework, (b) 6-tier jar-saver decision tree, (c) 8-step operational toolkit.\\'"
+    ]
+  },
+  "title_intelligence": {
+    "dominant_title_pattern": "Competitors title around 'Save money jar / cute jar ideas' without anchoring to pretend-spending redirect + multi-jar sinking + HYSA-bridge framework + 6-tier jar-saver decision tree + Plaid operational toolkit.",
+    "short_title": "Save Money Jar: 12-Lever Pretend-Spending + Multi-Jar Framework + 6-Tier Tree + 8-Step Toolkit",
+    "long_title": "Save Money Jar — Compute By 12-Lever Framework (Pretend-Spending Redirect Every Impulse Becomes $5 In Jar + Physical Jar As Visible Cue See Progress Daily + Weekly Cap Rule $20-$50/Week + Pen-And-Paper Log Date + Amount + Reason + Running Total + Loose-Change + $5-Bill Rule + Named-Goal Jar Label Hawaii / Christmas / Car Repair + Multiple Jars Labeled By Sinking Fund Emergency / Vacation / Gifts / Car / Pet + Pay-Yourself-First Automation BEFORE Jar + Plaid Auto-Split 10-15% HYSA + Sinking-Funds Ally Buckets Named After Jar + HYSA Bridge When Jar Hits $100 + Dropout-Prevention + Lifestyle-Creep Bank 50%), Apply By 6-Tier Jar-Saver Decision Tree (Single-Starter → 1 Jar + $5/Day + 30-Day Challenge + Couple-Joint-Goal → 1 Shared Jar + Sunday Review + Family-Multi-Jar → 5-7 Jars Emergency/Vacation/Gifts/Car/Pet/Holiday + Emergency-Only → 1 Jar → HYSA $1K Starter + Gift-Christmas-Prep → Start Jan $10/Week = $520 Dec + Kids-Allowance-Trainer → Save/Spend/Share 3-Jar + $1/Year-Of-Age Allowance), And Deploy 8-Step Operational Toolkit (Physical Jars + Mason-Jar Labels + See-Through Visibility + Pen-And-Paper Log + Plaid Auto-Split 10-15% FIRST + Ally Buckets Named After Jar + HYSA 4-5% APY + Mint/YNAB/Monarch Tracking + Monthly Count + Deposit Ritual + Celebration + Dropout-Prevention Quarterly + FDIC $250K + NCUA $250K + Coinstar 11.9% Warning)"
+  },
+  "reader_psychology": {
+    "triggering_thought": "'Save money jar — every page shows me a cute jar without telling me HOW the 12 levers fit (pretend-spending redirect + physical jar + weekly cap + pen-paper log + loose-change + named-goal + multi-jar + automation + Plaid + Ally Buckets + HYSA bridge + dropout-prevention + lifestyle-creep), how WHICH tier of jar-saver (single / couple / family / emergency / Christmas / kids) maps to my goal, or how to operationalize mason jars + pen-paper log + Plaid FIRST + Ally Buckets + HYSA + Mint/YNAB/Monarch + monthly count + dropout-prevention. I want to pay myself first, track every dollar, live off one income, and write the log on pen and paper. The confusion-frustration + stress-overwhelm + relief-security + anxiety-future-stability swing keeps me raiding the jar for pizza.' — close paraphrase of JSONL emotional_state 'Confusion/Frustration' triggered by 'Tracking expenses but still feeling broke and confused about where money goes' + JSONL emotional states 'Stress/Overwhelm' + 'Relief/Security' + 'Anxiety about future financial stability' + JSONL repeated phrase 'pay yourself first' / 'track every dollar' / 'live off one income' / 'pen and paper.'",
+    "desired_internal_shift": "From Cute-Jar-Aesthetic-Impulse-Raider To 12-Lever-Pretend-Spending-Framework-Computer + 6-Tier-Jar-Saver-Tree-Selector + 8-Step-Operational-Toolkit-Stacker With JSONL Pay-Yourself-First + Track-Every-Dollar + Live-Off-One-Income + Pen-And-Paper Discipline",
+    "bridge_content": "12-Lever Save-Money-Jar Framework (Gap 1) → 6-Tier Jar-Saver Decision Tree By Single / Couple / Family / Emergency / Christmas / Kids (Gap 2) → 8-Step Operational Toolkit With Mason Jars + Pen-Paper Log + Plaid FIRST + Ally Buckets + HYSA + Mint/YNAB/Monarch + Monthly Count + Dropout-Prevention (Gap 3). Once applied, JSONL confusion-frustration + stress-overwhelm + relief-security + anxiety-future-stability converts into JSONL pay-yourself-first + track-every-dollar + live-off-one-income + pen-and-paper discipline."
+  },
+  "internal_linking": null
+}
+```
+<!-- END_BATTLE_PLAN_BRIEF -->

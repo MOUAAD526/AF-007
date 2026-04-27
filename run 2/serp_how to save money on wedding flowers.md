@@ -666,3 +666,98 @@ _Body text (44 chars) saved to JSON sidecar_
 
 
 ---
+
+
+---
+<!-- BATTLE_PLAN_BRIEF -->
+# Battle Plan Brief
+**Generated:** 2026-04-27T10:33:52.295854+00:00  
+**Keyword:** how to save money on wedding flowers
+
+## Validation — 4 Checks (PASS)
+- **Keyword match:** YES — Keyword tokens hit: 4/4; angle tokens: 3
+- **Psychology match:** YES — 28 pain/emotion tokens echoed; keyword hit: True
+- **Competitor evidence:** YES — 3/3 gaps tied to named competitors with body evidence
+- **Gap specificity:** YES — All 3 gaps are specific (named WHO + WHERE + concrete edge)
+
+## Brief
+```json
+{
+  "content_gaps": [
+    {
+      "name": "Wedding-flower budget structural decomposition (10-15% of total + per-piece allocation: bouquets / boutonnieres / ceremony / reception / installations) with $ per item cost-bands — never built; competitors mention 'budget' qualitatively without per-piece arithmetic or sinking-fund bake-in",
+      "what_they_missed": "fioredesigns.com (2,145 words) covers stylistic floral planning without the per-piece dollar table. onefabday.com (1,721 words) frames budgeting as emotional rollercoaster without 8-piece allocation arithmetic. p33photography.com (477 words) is a wedding-photographer past-bride listicle without numerical band math. poppyflowers.com (374 words) is a florist transparency page that names '10-15% sweet-spot budget' without breaking pieces by % share. hhfshop.com (899 words) is a wedding-shop blog and frames around 'expensive not overpriced' without the per-item table. None of the five competitors builds: (a) the 8-piece allocation — Bridal bouquet 12-15%, Bridesmaid bouquets ($75-$150 each) 8-15%, Boutonnieres ($15-$35 each) 3-5%, Ceremony arch/aisle 15-25%, Reception centerpieces ($50-$200 each × 8-15 tables) 25-40%, Installations/ceiling 10-20% (skippable), Cake florals 2-4%, Petals/throwables 2-4%; (b) cost-band ranges by city — small market $1,500-$3,000, mid $3,000-$6,000, top market $7,000-$15,000+ (cite weddingwire.com Newlywed Report AND theknot.com Real Weddings Study); (c) sinking-fund integration — wedding-flowers as a JSONL named sinking-fund line item with 12-18 month auto-deposit schedule.",
+      "our_edge": "Add an H2: 'Allocate Floral Spend By 8-Piece Decomposition Then Bake Into A Sinking Fund.' 8-row table. Columns: Piece | Typical %-share of floral budget | Cost-band $. Row 1: Bridal bouquet 12-15% — $200-$500. Row 2: Bridesmaid bouquets 8-15% — $75-$150 each × 4-8 maids. Row 3: Boutonnieres 3-5% — $15-$35 each. Row 4: Ceremony arch + aisle 15-25% — $400-$2,000. Row 5: Reception centerpieces 25-40% — $50-$200 each × 8-15 tables. Row 6: Installations + ceiling 10-20% (skippable). Row 7: Cake florals 2-4% — $25-$100. Row 8: Petals + throwables 2-4% — $50-$150. Total flower budget = 10-15% of overall wedding (cite poppyflowers.com r19 sweet-spot rule AND theknot.com Real Weddings Study AND weddingwire.com Newlywed Report). Then bake into a JSONL sinking-fund: $4,500 target ÷ 18 months = $250/month auto-deposit. Anchored to JSONL pain 'constant anxiety that savings are insufficient for future emergencies' — the per-piece arithmetic + sinking-fund schedule converts JSONL anxiety-worry-compulsive-attachment into the JSONL 'emergency fund' / 'sinking fund' / 'debt free' discipline without raiding emergency savings."
+    },
+    {
+      "name": "Bulk-wholesale + DIY-with-pro-finish hybrid + Trader Joe's / Costco / Sam's Club / FiftyFlowers / BloomsByTheBox grocery-tier sourcing toolkit with quantified per-stem savings — never built; competitors stay inside florist-only frame",
+      "what_they_missed": "fioredesigns.com (2,145 words) is a florist studio that doesn't surface DIY wholesale supply chains. poppyflowers.com (374 words) is a florist transparency page within florist-only frame. onefabday.com (1,721 words) and p33photography.com (477 words) and hhfshop.com (899 words) skip the bulk-wholesale + grocery-tier toolkit. None of the five competitors builds: (a) FiftyFlowers (cite fiftyflowers.com) and BloomsByTheBox (cite bloomsbythebox.com) ship farm-direct wholesale at $1.50-$3 per stem vs $5-$10 retail = 50-75% savings on bulk DIY; (b) Trader Joe's grocery flowers $5-$15 per bouquet — popular for bridesmaid + DIY centerpieces (cite traderjoes.com floral department); (c) Costco wholesale flowers (cite costco.com/floral-arrangements) — wedding packages $400-$700 for full kit; (d) Sam's Club Member's Mark wedding flower packs $300-$650; (e) Whole Foods + local farmer's market 30-50% below retail florist; (f) DIY-with-pro-finish hybrid — order bulk wholesale + pay florist 1-hour assembly fee $200-$500; (g) silk + dried + faux + locally-foraged greenery hybrid — eucalyptus + bunny tail + pampas + dried hydrangea $50-$150 vs $300-$600 fresh installations; (h) rental services — Something Borrowed Blooms (cite somethingborrowedblooms.com) silk bouquet rental $90-$160 vs $200-$500 fresh.",
+      "our_edge": "Add an H2: 'Source Hybrid: Wholesale + Grocery-Tier + Rental + DIY-With-Pro-Finish.' 7-row table. Row 1: FiftyFlowers (cite fiftyflowers.com) farm-direct wholesale $1.50-$3/stem — 50-75% savings on bulk centerpieces. Row 2: BloomsByTheBox (cite bloomsbythebox.com) similar wholesale tier. Row 3: Trader Joe's grocery (cite traderjoes.com) $5-$15/bouquet — DIY bridesmaid + reception. Row 4: Costco wedding packages (cite costco.com/floral-arrangements) $400-$700 full kit. Row 5: Sam's Club Member's Mark wedding flower packs $300-$650. Row 6: Whole Foods + farmer's market 30-50% below florist retail. Row 7: Silk + dried + foraged hybrid — eucalyptus, pampas, dried hydrangea $50-$150 vs $300-$600 fresh installations. Plus Something Borrowed Blooms silk rental (cite somethingborrowedblooms.com) $90-$160. DIY-with-pro-finish: order bulk wholesale + pay florist 1-hour finish fee $200-$500 — 40-60% savings vs full-service florist. Anchored to JSONL emotional state 'Compulsive attachment and reluctance' — the hybrid sourcing toolkit converts JSONL it's-not-enough anxiety + reluctance into a structural cost cut that flows into JSONL emergency-fund + sinking-fund + debt-free discipline."
+    },
+    {
+      "name": "Seasonality + venue-multiplier + repurposing tactics (in-season blooms / off-season vs hard-to-source / ceremony-to-reception transfer / monochrome single-flower) with quantified savings — never built; competitors stay inside generic 'choose seasonal' tip without seasonal-pricing table or repurpose protocol",
+      "what_they_missed": "fioredesigns.com (2,145 words) and onefabday.com (1,721 words) and poppyflowers.com (374 words) name 'seasonal' qualitatively without per-flower seasonality + price multiplier. p33photography.com (477 words) and hhfshop.com (899 words) skip seasonality + repurposing. None of the five competitors builds: (a) per-flower seasonality table — peonies May-Jun (out of season $9-$15/stem vs in-season $4-$7), garden roses year-round but premium, ranunculus winter-spring, dahlias Jul-Oct, sunflowers Jul-Oct, hydrangea Jun-Oct, eucalyptus year-round, baby's breath year-round cheap, mums Sep-Nov; (b) hard-to-source premiums — peonies + lily of the valley + garden roses + protea cost 2-4× standard stems; (c) ceremony-to-reception repurpose protocol — designate 1-2 helpers to move ceremony arch florals to sweetheart table + reception entrance during cocktail hour saves $400-$1,500; (d) bridesmaid-bouquets-as-table-centerpieces; (e) monochrome single-flower aesthetic — 100 white roses or all baby's breath cuts $/stem 30-50% via volume + simplicity; (f) low-stem / high-impact greenery — 70% eucalyptus + foliage with 30% statement blooms cuts cost 40-60% vs full-bloom design (cite poppyflowers.com transparency content + standard florist economics).",
+      "our_edge": "Add an H2: 'Pick Seasonal Blooms + Repurpose + Go Monochrome.' 6-step protocol. Step 1: Per-flower seasonality table — peonies $4-$7 in-season May-Jun vs $9-$15 off-season; ranunculus winter-spring; dahlias + sunflowers + hydrangea Jul-Oct; mums Sep-Nov; baby's breath + eucalyptus year-round cheap (cite each grower data + fiftyflowers.com seasonal calendar). Step 2: Avoid hard-to-source premiums — peonies + lily-of-the-valley + garden-roses + protea cost 2-4× standard. Step 3: Ceremony-to-reception repurpose — assign 1-2 helpers to move ceremony arch + aisle florals to sweetheart + entrance during cocktail hour ($400-$1,500 savings). Step 4: Bridesmaid bouquets become reception table centerpieces in pre-placed bud vases. Step 5: Monochrome single-flower aesthetic — 100 white roses OR all baby's breath OR all eucalyptus 30-50% cheaper per impact. Step 6: 70/30 greenery-to-bloom ratio — eucalyptus + Italian ruscus + ferns 70% with statement blooms 30% cuts 40-60% (cite poppyflowers.com r19 transparency content). Anchored to JSONL emotional state 'Fear of regression to debt' — the seasonality + repurposing toolkit converts JSONL anxiety-worry into JSONL emergency-fund + sinking-fund + debt-free discipline that prevents flowers from becoming a debt line."
+    }
+  ],
+  "nlp_entities": [
+    "8-piece floral allocation",
+    "10-15% wedding budget rule",
+    "FiftyFlowers + BloomsByTheBox wholesale",
+    "Trader Joe's + Costco + Sam's Club grocery-tier",
+    "Something Borrowed Blooms silk rental",
+    "DIY-with-pro-finish hybrid",
+    "Per-flower seasonality table",
+    "Peony May-June in-season window",
+    "Ceremony-to-reception repurpose protocol",
+    "Monochrome single-flower aesthetic",
+    "70/30 greenery-to-bloom ratio",
+    "JSONL sinking-fund auto-deposit"
+  ],
+  "eeat_requirements": [
+    "Cite The Knot Real Weddings Study + WeddingWire Newlywed Report for cost-band benchmarks (cite theknot.com/content/wedding-data-insights/real-weddings-study AND weddingwire.com/wedding-report). Per-piece dollar bands and 10-15% rule must anchor on industry-research primary data.",
+    "Cite FiftyFlowers + BloomsByTheBox (cite fiftyflowers.com AND bloomsbythebox.com) AND Costco (cite costco.com/floral-arrangements) AND Trader Joe's (cite traderjoes.com floral) AND Something Borrowed Blooms (cite somethingborrowedblooms.com) for sourcing alternatives. Each tier-by-tier price band anchored on primary retailer source.",
+    "Cite poppyflowers.com r19 Transparency Series for the 10-15% sweet-spot budget benchmark + ASCFG (Association of Specialty Cut Flower Growers) at ascfg.org for seasonality calendar AND each grower's sustainability page. Avoid affiliate-marketing 'best wedding flower deals' aggregators."
+  ],
+  "style_critique": {
+    "all_tones_found": [
+      {
+        "tone": "boutique florist studio educational",
+        "used_by": "fioredesigns.com r12, poppyflowers.com r19"
+      },
+      {
+        "tone": "wedding-magazine listicle",
+        "used_by": "onefabday.com r13"
+      },
+      {
+        "tone": "wedding-photographer past-bride blog",
+        "used_by": "p33photography.com r14"
+      },
+      {
+        "tone": "wedding-shop transparency blog",
+        "used_by": "hhfshop.com r20"
+      }
+    ],
+    "winning_tone": "Investigative consumer advocate — builds the 8-piece floral budget decomposition with cost-bands + sinking-fund schedule, the wholesale + grocery-tier + DIY hybrid sourcing toolkit, and the seasonality + venue-repurposing + monochrome protocol with quantified per-step savings",
+    "decision_reason": "Priority 1 fired — JSONL emotional_state 'Anxiety and persistent worry' triggered by 'Constant anxiety that savings are insufficient for future emergencies' + JSONL emotional state 'Compulsive attachment and reluctance' + 'Fear of regression to debt' + JSONL repeated phrase 'emergency fund' / 'sinking fund' / 'it's not enough' / 'debt free' / 'what if' — An investigative-consumer-advocate tone fills the gap left by florist studio, wedding magazine, photographer past-bride, and wedding-shop tones.",
+    "our_directives": [
+      "When discussing wedding floral budget, always present the 8-piece allocation + sinking-fund schedule. Never write 'flowers can be expensive' — write 'allocate by 8-piece decomposition: bridal bouquet 12-15% / bridesmaid 8-15% / boutonnieres 3-5% / ceremony arch 15-25% / reception centerpieces 25-40% / installations 10-20% skippable / cake florals 2-4% / petals 2-4%. Total = 10-15% of wedding budget (cite theknot.com AND weddingwire.com AND poppyflowers.com r19). Bake into JSONL sinking-fund $4,500 ÷ 18 months = $250/month.'",
+      "When recommending sourcing, always present the 7-row hybrid toolkit. Never write 'hire a florist' — write 'source hybrid: wholesale via FiftyFlowers (cite fiftyflowers.com) + BloomsByTheBox (cite bloomsbythebox.com); grocery-tier via Trader Joe's (cite traderjoes.com) + Costco (cite costco.com/floral-arrangements) + Sam's Club; rental via Something Borrowed Blooms silk (cite somethingborrowedblooms.com); DIY-with-pro-finish — bulk wholesale + 1-hour florist finish fee $200-$500 = 40-60% savings vs full-service.'",
+      "When discussing flower selection, always present the seasonality + repurpose + monochrome protocol. Never write 'choose seasonal' — write 'apply 6-step protocol: (1) seasonality table — peonies $4-$7 in-season May-Jun vs $9-$15 off-season (cite fiftyflowers.com seasonal calendar); (2) avoid hard-to-source premiums; (3) ceremony-to-reception repurpose saves $400-$1,500; (4) bridesmaid bouquets become centerpieces; (5) monochrome single-flower 30-50% cut; (6) 70/30 greenery-to-bloom ratio (cite poppyflowers.com r19 transparency content).'",
+      "When the reader confesses to JSONL pain \\'constant anxiety that savings are insufficient for future emergencies,\\' pair empathy with the allocation + sourcing + seasonality framing. Never write \\'just spend less.\\' Always write \\'[Empathy sentence]. The fix: three structural moves convert JSONL anxiety-worry-compulsive-attachment-fear-of-regression into JSONL emergency-fund + sinking-fund + debt-free discipline — (a) allocate via 8-piece decomposition + bake into sinking fund, (b) source hybrid wholesale + grocery-tier + DIY + rental, (c) deploy seasonality + repurposing + monochrome protocol.\\'"
+    ]
+  },
+  "title_intelligence": {
+    "dominant_title_pattern": "'Wedding flowers can get expensive fast / Planning a wedding is a rollercoaster / Templates presets mentorships I'm Bree / Real-world ways to get breathtaking blooms / Weddings are expensive (not overpriced)' — competitors title around expense-anxiety or stylistic guidance without anchoring to 8-piece allocation OR wholesale + DIY hybrid sourcing OR seasonality + repurpose protocol.",
+    "short_title": "How To Save Money On Wedding Flowers: 8-Piece Allocation + Wholesale + DIY Hybrid + Seasonality",
+    "long_title": "How To Save Money On Wedding Flowers — Allocate Your 10-15% Floral Budget Across 8 Pieces (Bridal Bouquet / Bridesmaids / Boutonnieres / Ceremony Arch / Reception Centerpieces / Installations / Cake Florals / Petals) Then Bake Into A Sinking Fund $250/Month × 18 Months, Source Hybrid (FiftyFlowers + BloomsByTheBox Wholesale + Trader Joe's + Costco + Sam's Club Grocery-Tier + Something Borrowed Blooms Silk Rental + DIY-With-Pro-Finish), And Deploy The 6-Step Seasonality + Ceremony-To-Reception Repurpose + Monochrome 70/30 Greenery-To-Bloom Protocol For 40-60% Savings"
+  },
+  "reader_psychology": {
+    "triggering_thought": "'How to save money on wedding flowers — every list says go seasonal or DIY. But by how much? Which piece is the budget killer? I have an emergency fund + sinking fund and stay debt free, but the constant anxiety that it's-not-enough and the what-if compulsive-attachment-reluctance + fear-of-regression-to-debt mean I refuse to commit to a number even though the wedding is in 12 months.' — close paraphrase of JSONL emotional_state 'Anxiety and persistent worry' triggered by 'Constant anxiety that savings are insufficient for future emergencies' + JSONL emotional states 'Compulsive attachment and reluctance' + 'Fear of regression to debt' + JSONL repeated phrase 'emergency fund' / 'sinking fund' / 'it's not enough' / 'debt free' / 'what if.'",
+    "desired_internal_shift": "From Tip-List-Reader To 8-Piece-Allocation-Operator + Hybrid-Wholesale-Sourcer + Seasonality-Repurpose-Protocolist With JSONL Emergency-Fund + Sinking-Fund + Debt-Free Discipline Without Compulsive-Refusal-To-Commit",
+    "bridge_content": "8-Piece Floral Budget Decomposition With Cost-Bands + Sinking-Fund Schedule (Gap 1) → 7-Row Wholesale + Grocery-Tier + Rental + DIY-With-Pro-Finish Hybrid Sourcing Toolkit (Gap 2) → 6-Step Seasonality + Ceremony-To-Reception Repurpose + Monochrome + 70/30 Greenery Protocol (Gap 3). Once applied, JSONL anxiety-worry-attachment-fear-of-regression converts into JSONL emergency-fund + sinking-fund + debt-free discipline."
+  },
+  "internal_linking": null
+}
+```
+<!-- END_BATTLE_PLAN_BRIEF -->

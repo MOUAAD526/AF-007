@@ -588,3 +588,114 @@ _Body text (45 chars) saved to JSON sidecar_
 
 
 ---
+
+
+---
+<!-- BATTLE_PLAN_BRIEF -->
+# Battle Plan Brief
+**Generated:** 2026-04-27T10:29:50.444974+00:00  
+**Keyword:** how to save money on utilities
+
+## Validation — 4 Checks (PASS)
+- **Keyword match:** YES — Keyword tokens hit: 3/3; angle tokens: 3
+- **Psychology match:** YES — 27 pain/emotion tokens echoed; keyword hit: True
+- **Competitor evidence:** YES — 3/3 gaps tied to named competitors with body evidence
+- **Gap specificity:** YES — All 3 gaps are specific (named WHO + WHERE + concrete edge)
+
+## Brief
+```json
+{
+  "content_gaps": [
+    {
+      "name": "Per-utility line-item audit (electricity / gas / water-sewer / trash / internet / streaming) with $-by-line + $/kWh + $/therm + $/CCF rate-context — never built; competitors lump 'utilities' without separating each line and showing what's actually shoppable",
+      "what_they_missed": "wawanesa.com (2,434 words) lumps all utilities under 'lower your bills' without per-line decomposition. nerdwallet.com (2,382 words) lists tactics without per-line audit. aarp.org (519 words) names chimney + thermostat tactics without line-item breakdown. energy.gov (417 words) covers electricity only. cnet.com (1,182 words) and sffirecu.org (824 words) and truist.com (1,461 words) and thepennyhoarder.com (2,657 words) and psc.ga.gov (664 words) skip the per-utility line audit. None of the nine competitors builds: (a) the 6-line household utility decomposition with typical $-share — Electricity 35-50%, Gas 10-25%, Water/sewer 8-15%, Trash 3-5%, Internet 8-15%, Streaming 3-8%; (b) per-line $/unit context — electricity 15.96¢/kWh US average 2024 (cite eia.gov/electricity/monthly), nat-gas $1.20-$1.80/therm (cite eia.gov/dnav/ng/ng_pri_fut_s1_d.htm), water $50-$120/month average (cite EPA at epa.gov/watersense), internet $50-$80/month median (cite FCC at fcc.gov), streaming $10-$15 per service; (c) shoppability flag — electricity supply (deregulated states), gas supply (deregulated), internet (multiple ISPs), streaming (cancel/rotate), trash (private hauler in some areas) are shoppable; water/sewer is municipal (NOT shoppable, but conservation works).",
+      "our_edge": "Add an H2: 'Audit Each Utility Line Then Apply The Right Tactic.' 6-row line-item table. Columns: Utility | Typical $-share | $/unit context | Shoppable?. Row 1: Electricity 35-50% — 15.96¢/kWh US avg (cite eia.gov/electricity/monthly) — supply shoppable in 14+ deregulated states (cite each state PUC: puc.texas.gov AND puc.pa.gov AND puco.ohio.gov AND dps.ny.gov). Row 2: Natural gas 10-25% — $1.20-$1.80/therm (cite eia.gov/dnav/ng/ng_pri_fut_s1_d.htm) — supply shoppable in deregulated states. Row 3: Water/sewer 8-15% — $50-$120/month (cite EPA WaterSense at epa.gov/watersense) — NOT shoppable (municipal); conserve via low-flow + leak detection. Row 4: Trash 3-5% — $20-$45/month — sometimes shoppable to private hauler. Row 5: Internet 8-15% — $50-$80/month median (cite FCC at fcc.gov AND fcc.gov/affordable-connectivity-program) — fully shoppable + ACP/Lifeline subsidy. Row 6: Streaming 3-8% — $10-$15/service — fully cancel-and-rotate. Then federal subsidies: LIHEAP for income-eligible energy (cite acf.hhs.gov/ocs/programs/liheap), Lifeline for phone/internet (cite fcc.gov/lifeline-consumers), Affordable Connectivity Program (cite fcc.gov/acp). Anchored to JSONL pain 'tracking spending but not understanding budget leaks' — the per-line audit converts JSONL anxiety-confusion into JSONL track-every-dollar with the right tactic per line."
+    },
+    {
+      "name": "Supplier-side toolkit: deregulated electricity/gas shopping + LIHEAP + Lifeline + ACP + DSIRE rebates + Time-of-Use — never built; competitors stay inside demand-side without the supply-side levers",
+      "what_they_missed": "wawanesa.com (2,434 words) and energy.gov (417 words) and cnet.com (1,182 words) and truist.com (1,461 words) all stay demand-side. thepennyhoarder.com (2,657 words) and nerdwallet.com (2,382 words) mention 'shop around' qualitatively without supply-vs-distribution framework or LIHEAP / Lifeline / ACP / DSIRE. sffirecu.org (824 words) and psc.ga.gov (664 words — Georgia PUC) and aarp.org (519 words) skip the supplier-side toolkit. None of the nine competitors builds: (a) deregulated-state electricity + gas supplier shopping (cite each state PUC); (b) LIHEAP energy assistance up to $500-$2,000/year for income-eligible at ≤150% Federal Poverty Level (cite acf.hhs.gov/ocs/programs/liheap); (c) Lifeline $9.25-$34.25/month phone-or-internet subsidy (cite fcc.gov/lifeline-consumers); (d) Affordable Connectivity Program ACP for internet (cite fcc.gov/acp); (e) DSIRE database of state utility rebates $25-$200 per appliance/upgrade (cite dsireusa.org); (f) Time-of-Use rate-plan shift saves 15-30% on shifted loads (cite each state PUC).",
+      "our_edge": "Add an H2: 'Supplier-Side Toolkit: Shop, Subsidize, Stack Rebates.' 6-step framework. (1) Deregulated electricity + gas shopping at PowerToChoose.org (TX) / PAPowerSwitch.com (PA) / your-state PUC (cite puc.texas.gov AND puc.pa.gov AND puco.ohio.gov AND dps.ny.gov) — supply is 50-65% of bill, typical 10-25% savings. (2) LIHEAP at ≤150% FPL covers $500-$2,000/year energy bills (cite acf.hhs.gov/ocs/programs/liheap AND state-locator at acf.hhs.gov/ocs/programs/liheap/find-help-in-your-state). (3) Lifeline phone/internet $9.25-$34.25/month for SNAP/Medicaid/SSI households (cite fcc.gov/lifeline-consumers). (4) Affordable Connectivity Program ACP for internet at $30/month ($75 tribal) for eligible households (cite fcc.gov/acp). (5) DSIRE state utility rebates $25-$200 per appliance + smart-thermostat + weatherization (cite dsireusa.org). (6) Time-of-Use rate-plan switch — shift laundry + dishwasher + EV-charging + pool to off-peak 9pm-6am saves 15-30% (cite each state PUC). Anchored to JSONL emotional state 'Confusion and frustration with ineffective money management' — the supply-side toolkit converts JSONL compulsive-attachment-to-savings-balance into actual bill cuts that actually flow into JSONL emergency-fund + sinking-funds discipline."
+    },
+    {
+      "name": "Demand-side stacking: ENERGY STAR appliance + smart-thermostat + envelope + water-conservation + internet/streaming rotation with quantified per-tactic savings — never built; competitors mention tactics qualitatively without the per-tactic dollar yield or IRA 25C 30% credit",
+      "what_they_missed": "aarp.org (519 words) names chimney + programmable thermostat without comprehensive per-tactic table. nerdwallet.com (2,382 words) and thepennyhoarder.com (2,657 words) list tactics without quantified yield. cnet.com (1,182 words) and truist.com (1,461 words) and sffirecu.org (824 words) and energy.gov (417 words) and psc.ga.gov (664 words) and wawanesa.com (2,434 words) skip the per-tactic + IRA 25C math. None of the nine competitors builds: (a) DOE 8°F × 8-hour setback saves 5-10% (cite energy.gov/energysaver/programmable-thermostats); (b) cold-water laundry saves 90% washer (cite energystar.gov/products/clothes_washers); (c) advanced power strips cut phantom 5-15% (cite energystar.gov/products/office_equipment); (d) LED bulbs save $40-$80/year on 5-10 fixtures (cite energystar.gov/products/lighting); (e) water heater 120°F + insulation jacket saves 4-9% (cite energy.gov/energysaver/water-heating); (f) low-flow showerhead 2.0 GPM + faucet aerators 1.5 GPM saves $80-$200/year on water + heating (cite epa.gov/watersense); (g) leak detection — toilet flapper + faucet drips average $200-$400/year (cite epa.gov/watersense); (h) internet/streaming audit — drop unused streaming services rotate Netflix + Hulu + Disney+ + Max monthly; renegotiate ISP yearly; (i) IRA 25C 30% credit up to $1,200-$2,000/year on qualifying upgrades (cite irs.gov/credits-deductions/individuals/energy-efficient-home-improvement-credit).",
+      "our_edge": "Add an H2: '8-Tactic Demand-Side Toolkit + Envelope + Water + Streaming Rotation.' Table. Row 1: 8°F setback × 8 hours saves 5-10% = $20-$50/month (cite energy.gov/energysaver/programmable-thermostats). Row 2: Cold-water laundry 90% washer cut = $5-$10/month (cite energystar.gov/products/clothes_washers). Row 3: Advanced power strips 5-15% phantom cut = $5-$15/month (cite energystar.gov/products/office_equipment). Row 4: LED bulbs 5-10 fixtures = $3-$7/month (cite energystar.gov/products/lighting). Row 5: Water heater 120°F + jacket 4-9% = $5-$10/month (cite energy.gov/energysaver/water-heating). Row 6: Low-flow showerhead 2.0 GPM + aerator 1.5 GPM saves $80-$200/year on water + heating (cite epa.gov/watersense). Row 7: Toilet/faucet leak audit — 1-gallon/min toilet flapper drip = $150-$300/year (cite epa.gov/watersense — average household leaks 10,000 gallons/year). Row 8: Streaming/internet audit — cancel unused streaming + rotate; renegotiate ISP yearly + Lifeline/ACP if eligible — saves $20-$60/month. Plus 5-step envelope ladder: air-sealing 1-3 yr payback / weather-stripping / R-19 → R-49 attic / storm windows / heat-pump water heater (cite energystar.gov/saveathome/seal_insulate AND energystar.gov/products/heating_cooling/heat_pumps_air_source). IRA 25C 30% credit up to $1,200-$2,000/year (cite irs.gov/credits-deductions/individuals/energy-efficient-home-improvement-credit). Total stacked $80-$200/month. Anchored to JSONL emotional state 'Anxiety about financial security' — the demand-side toolkit converts JSONL track-every-dollar tracking into measurable monthly savings that reach JSONL emergency-fund + sinking-funds without compulsive-attachment to balance."
+    }
+  ],
+  "nlp_entities": [
+    "6-line household utility decomposition",
+    "EIA average residential rate 15.96¢/kWh 2024",
+    "EIA natural gas $1.20-$1.80/therm",
+    "EPA WaterSense $50-$120/month water",
+    "FCC ACP $30/month internet subsidy",
+    "Deregulated-state electricity + gas shopping",
+    "LIHEAP energy assistance ≤150% FPL",
+    "Lifeline phone/internet $9.25-$34.25",
+    "DSIRE state utility rebate database",
+    "Time-of-Use rate plan",
+    "8°F setback × 8 hours saves 5-10%",
+    "IRA 25C 30% federal tax credit"
+  ],
+  "eeat_requirements": [
+    "Cite EIA electricity + gas rates (cite eia.gov/electricity/monthly AND eia.gov/dnav/ng/ng_pri_fut_s1_d.htm) AND EPA WaterSense (cite epa.gov/watersense) AND FCC affordable-connectivity (cite fcc.gov/acp AND fcc.gov/lifeline-consumers AND fcc.gov). Per-line $/unit context must anchor on EIA + EPA + FCC primary government data.",
+    "Cite ENERGY STAR + DOE programmable-thermostats / clothes-washers / power-strips / lighting / water-heating / heat-pump-water-heaters / seal-insulate (cite energystar.gov/products/clothes_washers AND energystar.gov/products/office_equipment AND energystar.gov/products/lighting AND energy.gov/energysaver/water-heating AND energystar.gov/products/heating_cooling/heat_pumps_air_source AND energystar.gov/saveathome/seal_insulate AND energy.gov/energysaver/programmable-thermostats). Demand-side per-tactic table must anchor on DOE + ENERGY STAR primary efficiency data.",
+    "Cite ACF/HHS LIHEAP (cite acf.hhs.gov/ocs/programs/liheap) AND DSIRE state-incentive database (cite dsireusa.org) AND each state PUC (cite puc.texas.gov AND puc.pa.gov AND puco.ohio.gov AND dps.ny.gov AND psc.ga.gov) AND IRS IRA 25C credit (cite irs.gov/credits-deductions/individuals/energy-efficient-home-improvement-credit). Supply-side + tax-credit framework anchored on ACF/HHS + DSIRE + state PUC + IRS primary regulator sources."
+  ],
+  "style_critique": {
+    "all_tones_found": [
+      {
+        "tone": "insurance-company educational",
+        "used_by": "wawanesa.com r4"
+      },
+      {
+        "tone": "personal-finance affiliate publisher",
+        "used_by": "nerdwallet.com r7, thepennyhoarder.com r15"
+      },
+      {
+        "tone": "advocacy organization listicle",
+        "used_by": "aarp.org r9"
+      },
+      {
+        "tone": "DOE / government educational",
+        "used_by": "energy.gov r10"
+      },
+      {
+        "tone": "tech-publisher educational",
+        "used_by": "cnet.com r11"
+      },
+      {
+        "tone": "credit-union educational",
+        "used_by": "sffirecu.org r12"
+      },
+      {
+        "tone": "bank/financial-services educational",
+        "used_by": "truist.com r14"
+      },
+      {
+        "tone": "state-regulator educational",
+        "used_by": "psc.ga.gov r16"
+      }
+    ],
+    "winning_tone": "Investigative consumer advocate — builds the 6-line per-utility audit with $/unit context, the supplier-side toolkit (deregulated shopping + LIHEAP + Lifeline + ACP + DSIRE + Time-of-Use), and the 8-tactic demand-side toolkit + 5-step envelope ladder with IRA 25C 30% federal tax credit",
+    "decision_reason": "Priority 1 fired — JSONL emotional_state 'Anxiety about financial security' triggered by 'Tracking spending but not understanding budget leaks' + JSONL emotional state 'Confusion and frustration with ineffective money management' + 'Compulsive attachment to savings balance' + JSONL repeated phrase 'track every dollar' / 'it's not enough' / 'what if' / 'emergency fund' / 'sinking funds.'",
+    "our_directives": [
+      "When discussing utilities savings, always present the 6-line per-utility audit. Never write 'lower your utility bills' — write 'audit by 6-line decomposition: electricity 35-50% (cite eia.gov/electricity/monthly); gas 10-25% (cite eia.gov/dnav/ng/ng_pri_fut_s1_d.htm); water/sewer 8-15% (cite epa.gov/watersense); trash 3-5%; internet 8-15% (cite fcc.gov); streaming 3-8%. Flag what is shoppable vs municipal.'",
+      "When discussing supply-side savings, always present the 6-step toolkit. Never write 'shop around' — write 'apply 6-step toolkit: (1) deregulated electricity + gas shopping at each state PUC (cite puc.texas.gov AND puc.pa.gov); (2) LIHEAP ≤150% FPL (cite acf.hhs.gov/ocs/programs/liheap); (3) Lifeline phone/internet (cite fcc.gov/lifeline-consumers); (4) ACP $30/month internet (cite fcc.gov/acp); (5) DSIRE state utility rebates (cite dsireusa.org); (6) Time-of-Use shift to 9pm-6am.'",
+      "When discussing demand-side savings, always present the 8-tactic per-tactic quantified toolkit + envelope ladder + IRA 25C credit. Never write 'turn off lights' — write 'apply 8-tactic toolkit: (1) 8°F × 8 hr setback (cite energy.gov/energysaver/programmable-thermostats); (2) cold-water laundry; (3) power strips; (4) LEDs; (5) water heater 120°F + jacket; (6) low-flow showerhead + aerators (cite epa.gov/watersense); (7) leak detection (cite epa.gov/watersense); (8) streaming + ISP renegotiate. Plus 5-step envelope ladder + IRA 25C 30% credit (cite irs.gov/credits-deductions/individuals/energy-efficient-home-improvement-credit).'",
+      "When the reader confesses to JSONL pain \\'tracking spending but not understanding budget leaks,\\' pair empathy with the per-line audit + supply-side + demand-side framing. Never write \\'just save more.\\' Always write \\'[Empathy sentence]. The fix: three structural moves convert JSONL anxiety-confusion-frustration-compulsive-attachment into JSONL track-every-dollar + emergency-fund + sinking-funds discipline — (a) audit by 6-line utility decomposition, (b) work supply-side via deregulated shopping + LIHEAP + Lifeline + ACP + DSIRE + Time-of-Use, (c) deploy 8-tactic demand-side toolkit + 5-step envelope ladder + IRA 25C 30% credit.\\'"
+    ]
+  },
+  "title_intelligence": {
+    "dominant_title_pattern": "'Lowering your bills should be a top priority / [SOME CARD INFO MAY BE OUTDATED] / Seal your chimney flue / Reducing energy use saves money / Make your home more efficient / Bay Area housing costs are high / Reduce your monthly energy expenses / Summer heat waves / Almost one-half of energy is for heating and cooling' — competitors title around tip-counts or rate-anxiety without anchoring to 6-line utility audit OR supply-side toolkit OR demand-side per-tactic + IRA 25C stack.",
+    "short_title": "How To Save Money On Utilities: 6-Line Audit + Supply-Side Toolkit + 8-Tactic Demand-Side + IRA 25C",
+    "long_title": "How To Save Money On Utilities — Audit Your 6-Line Bill (Electricity 35-50% / Gas 10-25% / Water-Sewer 8-15% / Trash 3-5% / Internet 8-15% / Streaming 3-8%) Per EIA + EPA + FCC, Apply The 6-Step Supply-Side Toolkit (Deregulated Shopping + LIHEAP + Lifeline + ACP + DSIRE + Time-Of-Use), And Deploy The 8-Tactic Demand-Side Toolkit + 5-Step Envelope-Upgrade Ladder With IRA 25C 30% Federal Tax Credit Up To $1,200-$2,000/Year"
+  },
+  "reader_psychology": {
+    "triggering_thought": "'How to save money on utilities — every list says lower your bills and seal your chimney. But which utility line is leaking the most? Should I switch electric supplier? Is LIHEAP or ACP for me? I track every dollar — pen and paper or excel sheet — emergency fund + sinking funds set, but the it's-not-enough what-if anxiety means I am compulsively attached to my savings balance and confused which utility tactic moves the needle.' — close paraphrase of JSONL emotional_state 'Anxiety about financial security' triggered by 'Tracking spending but not understanding budget leaks' + JSONL emotional state 'Confusion and frustration with ineffective money management' + 'Compulsive attachment to savings balance' + JSONL repeated phrase 'track every dollar' / 'it's not enough' / 'what if' / 'emergency fund' / 'sinking funds.'",
+    "desired_internal_shift": "From Tip-List-Reader To 6-Line-Utility-Auditor + Supply-Side-Toolkit-Operator + 8-Tactic-Demand-Side-Operator With JSONL Track-Every-Dollar + Emergency-Fund + Sinking-Funds Discipline Without Compulsive-Attachment To Balance",
+    "bridge_content": "6-Line Per-Utility Line-Item Audit With $/Unit Context (Gap 1) → 6-Step Supply-Side Toolkit (Gap 2) → 8-Tactic Demand-Side Toolkit + 5-Step Envelope Ladder + IRA 25C Credit (Gap 3). Once applied, JSONL anxiety-confusion-frustration-compulsive-attachment converts into JSONL track-every-dollar + emergency-fund + sinking-funds discipline without compulsive-attachment to savings balance."
+  },
+  "internal_linking": null
+}
+```
+<!-- END_BATTLE_PLAN_BRIEF -->

@@ -476,3 +476,110 @@ _Body text (45 chars) saved to JSON sidecar_
 
 
 ---
+
+
+---
+<!-- BATTLE_PLAN_BRIEF -->
+# Battle Plan Brief
+**Generated:** 2026-04-27T10:39:26.642300+00:00  
+**Keyword:** how to save money with food
+
+## Validation — 4 Checks (PASS)
+- **Keyword match:** YES — Keyword tokens hit: 4/4; angle tokens: 4
+- **Psychology match:** YES — 35 pain/emotion tokens echoed; keyword hit: True
+- **Competitor evidence:** YES — 3/3 gaps tied to named competitors with body evidence
+- **Gap specificity:** YES — All 3 gaps are specific (named WHO + WHERE + concrete edge)
+
+## Brief
+```json
+{
+  "content_gaps": [
+    {
+      "name": "Food-spend line-item decomposition (groceries / dining out / coffee shops / delivery apps / impulse / lunch-at-work / subscriptions) with $-share + USDA Thrifty/Low-Cost/Moderate/Liberal Food Plan tier benchmarks — never built; competitors lump 'food spending' without the 7-line audit or per-tier USDA arithmetic",
+      "what_they_missed": "cooking.nytimes.com (1,253 words) frames inflation generically without per-line decomposition. moneymanagement.org (2,439 words) frames around alignment but doesn't build the 7-line + USDA tier framework. td.com (1,185 words) is bank-blog grocery-only. goingzerowaste.com (1,558 words) names $250/month organic for two without per-line breakdown or USDA tier comparison. brightbridge.com (499 words) lists generic 'top 10 ways' without per-line audit. finance.yahoo.com (1,781 words) is affiliate-publisher-format. nutrition.gov (347 words) is government-page with high-level tips but no USDA Food Plan tier table. None of the seven competitors builds: (a) the 7-line food-spend decomposition — Groceries 50-65%, Dining out 15-25%, Coffee shops 3-8%, Delivery apps DoorDash/UberEats/GrubHub 5-15%, Lunch at work 5-10%, Snacks/impulse 3-8%, Subscriptions HelloFresh/Blue Apron/Misfits 0-5%; (b) USDA Food Plan tier table — Thrifty Plan ~$190/person/month, Low-Cost ~$245/person/month, Moderate ~$305/person/month, Liberal ~$370/person/month (cite fns.usda.gov/cnpp/usda-food-plans-cost-food-monthly-reports); (c) per-tier-vs-actual comparison so reader sees overshoot.",
+      "our_edge": "Add an H2: 'Audit Your Food Spend By 7-Line + USDA Tier Then Apply The Right Tactic.' 7-row table. Row 1: Groceries 50-65% — benchmark to USDA Thrifty $190/person ($760/month for 4) (cite fns.usda.gov/cnpp/usda-food-plans-cost-food-monthly-reports). Row 2: Dining out 15-25% — typical $200-$600/month for 4 (cite bls.gov/news.release/cesan.nr0.htm). Row 3: Coffee shops 3-8% — $5-$8/cup × 5/week = $100-$170/month. Row 4: Delivery apps DoorDash + UberEats + GrubHub 5-15% — typical 25-40% markup over restaurant + service + delivery + tip (cite Bureau of Labor Statistics + Pew Research). Row 5: Lunch at work 5-10% — $10-$15/day × 20 = $200-$300/month. Row 6: Snacks + impulse 3-8%. Row 7: Subscriptions HelloFresh / Blue Apron / Misfits Market 0-5% — $60-$120/box. Compare to USDA Thrifty $190/person/month (cite fns.usda.gov/cnpp/usda-food-plans-cost-food-monthly-reports) AND federal SNAP at fns.usda.gov/snap. Anchored to JSONL pain 'frustration with tracking spending without seeing savings results' — the 7-line audit converts JSONL anxiety-frustration-resignation into JSONL track-every-dollar with USDA-anchored per-tier targets."
+    },
+    {
+      "name": "Meal-plan + USDA-MyPlate-anchored grocery framework + unit-price-per-serving + bulk + store-brand + frozen + protein-tier hierarchy with quantified per-tactic savings — never built; competitors mention 'meal plan' qualitatively without USDA MyPlate or unit-price arithmetic",
+      "what_they_missed": "cooking.nytimes.com (1,253 words) frames recipes around inflation without USDA MyPlate cost-per-serving framework. nutrition.gov (347 words) and goingzerowaste.com (1,558 words) and brightbridge.com (499 words) name meal planning qualitatively. td.com (1,185 words) and moneymanagement.org (2,439 words) and finance.yahoo.com (1,781 words) skip the USDA MyPlate + unit-price-per-serving + protein-tier hierarchy. None of the seven competitors builds: (a) USDA MyPlate framework — half plate vegetables/fruits, quarter grains, quarter protein (cite myplate.gov); (b) protein-tier cost ladder — eggs $0.30/serving, dried beans/lentils $0.20-$0.40, chicken thighs $0.80-$1.20, chuck roast $1.50-$2.50, ground beef $1.50-$2.50, salmon $3-$6 (cite USDA AMS at marketnews.usda.gov); (c) unit-price-per-serving rule — read shelf $/oz / $/serving label, not just price (cite consumerreports.org); (d) store-brand vs national-brand 20-40% cheaper for ~95% identical product; (e) bulk + Costco + Sam's Club for staples — rice + oats + canned tomatoes + olive oil; (f) frozen vegetables + fruits 30-50% cheaper than fresh, equal nutrition (cite cdc.gov/nutrition + USDA); (g) ALDI + Lidl 20-40% below traditional grocers; (h) seasonal produce in season 30-50% cheaper than off-season; (i) batch cook + freeze in 1-week portions + sheet-pan + crockpot saves time + reduces dining-out trigger.",
+      "our_edge": "Add an H2: '8-Tactic Meal-Plan + Grocery + Protein-Tier Toolkit Anchored On USDA MyPlate.' 8-row table. Row 1: USDA MyPlate framework — half plate produce, quarter grain, quarter protein (cite myplate.gov). Row 2: Protein-tier cost ladder — eggs $0.30/serving / dried beans $0.20-$0.40 / chicken thighs $0.80-$1.20 / ground beef $1.50-$2.50 / salmon $3-$6 (cite marketnews.usda.gov). Row 3: Unit-price-per-serving rule — read shelf $/oz tag (cite consumerreports.org). Row 4: Store-brand 20-40% cheaper. Row 5: Bulk staples Costco + Sam's Club for rice + oats + canned tomatoes + olive oil. Row 6: Frozen produce 30-50% cheaper, equal nutrition (cite cdc.gov/nutrition AND fns.usda.gov). Row 7: ALDI + Lidl 20-40% below traditional. Row 8: Seasonal produce 30-50% cheaper (cite usda.gov/topics/food-and-nutrition/seasonal-produce-guide). Plus batch cook + sheet-pan + crockpot + 1-week freezer portions reduces dining-out and delivery-app triggers. Federal subsidies: SNAP (cite fns.usda.gov/snap), WIC (cite fns.usda.gov/wic), school meals (cite fns.usda.gov/school-meals). Anchored to JSONL emotional state 'Frustration and confusion about budgeting' + JSONL repeated phrase 'meal plan' — the USDA-MyPlate + protein-tier toolkit converts JSONL frustration-resignation into JSONL track-every-dollar + meal-plan + emergency-fund discipline."
+    },
+    {
+      "name": "Dining-out + delivery-app + waste-reduction + stockpile + coupon-and-rebate-stack toolkit (Ibotta + Fetch + Upside + Flashfood + Too Good To Go + cashback cards + grocery loyalty programs) with quantified per-tactic dollar yield — never built; competitors stay inside generic 'cook at home' tip without naming the rebate/loyalty/cashback stack or food-waste arithmetic",
+      "what_they_missed": "moneymanagement.org (2,439 words) and brightbridge.com (499 words) and finance.yahoo.com (1,781 words) name 'cook at home' qualitatively without rebate-app stack. cooking.nytimes.com (1,253 words) is recipe-anchored without coupon system. td.com (1,185 words) names credit-card cashback generically. goingzerowaste.com (1,558 words) covers waste qualitatively without USDA waste arithmetic ($1,500/year/household). nutrition.gov (347 words) lists tips. None of the seven competitors builds: (a) 5-app rebate stack — Ibotta (cite ibotta.com) avg $30-$50/month grocery rebates, Fetch Rewards (cite fetchrewards.com) $5-$15/month, Upside (cite upsideapp.com) $0.10-$0.30/gal gas + grocery, Flashfood (cite flashfood.com) 50-75% off near-expiry, Too Good To Go (cite toogoodtogo.com) restaurant surplus at $4-$6/bag; (b) USDA food waste arithmetic — average household wastes $1,500/year (~30-40% of food bought) (cite usda.gov/foodwaste AND epa.gov/sustainable-management-food); (c) FIFO pantry + freeze-before-spoils + meal-plan-from-flyer-and-pantry to cut waste 40-60%; (d) cashback grocery cards — Citi Custom Cash 5% rotating / Amex Blue Cash Preferred 6% groceries / Bank of America Customized Cash 3% — 5-8% effective grocery discount (cite each issuer); (e) grocery loyalty + circular shopping — Kroger Plus + Safeway Just for U + Albertsons + Publix + ShopRite + Wegmans (cite each chain); (f) curb dining-out + delivery-app friction — uninstall apps, set spending cap; (g) coffee-from-home — $0.30/cup vs $5-$8 = $100-$170/month savings.",
+      "our_edge": "Add an H2: '8-Tool Coupon + Rebate + Cashback + Waste-Reduction Toolkit.' Table. Row 1: Ibotta $30-$50/month grocery rebates (cite ibotta.com). Row 2: Fetch Rewards $5-$15/month (cite fetchrewards.com). Row 3: Upside $5-$15/month gas+grocery (cite upsideapp.com). Row 4: Flashfood 50-75% near-expiry (cite flashfood.com). Row 5: Too Good To Go restaurant surplus $4-$6/bag (cite toogoodtogo.com). Row 6: Cashback cards 5-8% groceries — Citi Custom Cash / Amex Blue Cash Preferred / BofA Customized Cash (cite citi.com AND americanexpress.com AND bankofamerica.com). Row 7: Grocery loyalty Kroger Plus + Safeway Just for U + Publix + Wegmans (cite each chain). Row 8: USDA waste reduction — household avg $1,500/year wasted (cite usda.gov/foodwaste AND epa.gov/sustainable-management-food); FIFO pantry + meal-plan-from-flyer cuts waste 40-60% = $50-$80/month savings. Plus federal SNAP (cite fns.usda.gov/snap) + WIC (cite fns.usda.gov/wic). Total stacked: $150-$300/month additional savings. Anchored to JSONL emotional state 'Resignation/feeling poor despite efforts' + JSONL repeated phrase 'pay yourself first' — the rebate + cashback + waste-reduction toolkit converts JSONL anxiety-frustration-resignation-overprotective-attachment into JSONL track-every-dollar + pay-yourself-first + emergency-fund discipline that automatically channels savings without compulsive monitoring."
+    }
+  ],
+  "nlp_entities": [
+    "7-line food-spend decomposition",
+    "USDA Thrifty/Low-Cost/Moderate/Liberal Food Plan",
+    "USDA MyPlate framework",
+    "Protein-tier cost ladder",
+    "Unit-price-per-serving rule",
+    "ALDI + Lidl 20-40% below traditional",
+    "Frozen vs fresh produce 30-50% cheaper",
+    "Ibotta + Fetch + Upside + Flashfood + Too Good To Go",
+    "Cashback grocery cards 5-8%",
+    "Kroger Plus + Safeway Just for U loyalty",
+    "USDA $1,500/year household food waste",
+    "SNAP + WIC + school meals"
+  ],
+  "eeat_requirements": [
+    "Cite USDA Food Plan tiers + MyPlate + seasonal produce + waste (cite fns.usda.gov/cnpp/usda-food-plans-cost-food-monthly-reports AND myplate.gov AND usda.gov/topics/food-and-nutrition/seasonal-produce-guide AND usda.gov/foodwaste AND fns.usda.gov/snap AND fns.usda.gov/wic AND fns.usda.gov/school-meals AND marketnews.usda.gov). Per-tier dollar bands and protein-cost ladder must anchor on USDA primary government data.",
+    "Cite EPA sustainable management of food (cite epa.gov/sustainable-management-food) AND CDC nutrition (cite cdc.gov/nutrition) AND BLS Consumer Expenditure Survey (cite bls.gov/news.release/cesan.nr0.htm) for benchmarks. Waste arithmetic and frozen-equal-nutrition claims must anchor on EPA + CDC primary government data.",
+    "Cite each rebate-app primary domain (ibotta.com AND fetchrewards.com AND upsideapp.com AND flashfood.com AND toogoodtogo.com) AND each cashback-card issuer (citi.com AND americanexpress.com AND bankofamerica.com) AND each grocery loyalty program (kroger.com AND safeway.com AND publix.com AND wegmans.com). Avoid affiliate-marketing 'best apps' aggregators."
+  ],
+  "style_critique": {
+    "all_tones_found": [
+      {
+        "tone": "publisher recipe-magazine",
+        "used_by": "cooking.nytimes.com r2"
+      },
+      {
+        "tone": "non-profit credit-counseling educational",
+        "used_by": "moneymanagement.org r4"
+      },
+      {
+        "tone": "bank educational blog",
+        "used_by": "td.com r5"
+      },
+      {
+        "tone": "zero-waste personal blog",
+        "used_by": "goingzerowaste.com r9"
+      },
+      {
+        "tone": "credit-counseling blog",
+        "used_by": "brightbridge.com r10"
+      },
+      {
+        "tone": "personal-finance affiliate publisher",
+        "used_by": "finance.yahoo.com r12"
+      },
+      {
+        "tone": "USDA government educational",
+        "used_by": "nutrition.gov r15"
+      }
+    ],
+    "winning_tone": "Investigative consumer advocate — builds the 7-line food-spend audit anchored on USDA Food Plan tiers, the USDA-MyPlate + protein-tier + grocery toolkit with unit-price + ALDI/Lidl + frozen-produce arithmetic, and the 8-tool rebate + cashback + waste-reduction toolkit with SNAP/WIC federal subsidy stack",
+    "decision_reason": "Priority 1 fired — JSONL emotional_state 'Anxiety about future financial security' triggered by 'Frustration with tracking spending without seeing savings results' + JSONL emotional state 'Frustration and confusion about budgeting' + 'Resignation/feeling poor despite efforts' + 'Overprotective attachment to accumulated savings' + JSONL repeated phrase 'track every dollar' / 'pay yourself first' / 'meal plan' / 'emergency fund' — An investigative-consumer-advocate tone fills the gap left by recipe-magazine, credit-counseling, bank, zero-waste blog, and USDA government tones.",
+    "our_directives": [
+      "When discussing food savings, always present the 7-line audit anchored on USDA Food Plan tiers. Never write 'spend less on food' — write 'audit by 7-line decomposition: groceries 50-65% / dining out 15-25% / coffee 3-8% / delivery apps 5-15% / lunch at work 5-10% / impulse 3-8% / subscriptions 0-5%. Compare to USDA Thrifty $190/person/month (cite fns.usda.gov/cnpp/usda-food-plans-cost-food-monthly-reports). Apply SNAP / WIC if eligible (cite fns.usda.gov/snap AND fns.usda.gov/wic).'",
+      "When recommending grocery strategy, always present the USDA-MyPlate + protein-tier + 8-tactic toolkit. Never write 'eat at home' — write 'apply 8-tactic toolkit: (1) USDA MyPlate (cite myplate.gov); (2) protein-tier cost ladder eggs $0.30/serving up to salmon $3-$6 (cite marketnews.usda.gov); (3) unit-price-per-serving rule (cite consumerreports.org); (4) store-brand 20-40% cheaper; (5) bulk staples Costco; (6) frozen 30-50% cheaper (cite cdc.gov/nutrition); (7) ALDI + Lidl 20-40% below traditional; (8) seasonal produce (cite usda.gov/topics/food-and-nutrition/seasonal-produce-guide).'",
+      "When discussing dining-out + waste + rebates, always present the 8-tool coupon + cashback + waste-reduction stack. Never write 'use coupons' — write 'stack 8 tools: Ibotta (cite ibotta.com) + Fetch (cite fetchrewards.com) + Upside (cite upsideapp.com) + Flashfood (cite flashfood.com) + Too Good To Go (cite toogoodtogo.com) + cashback cards 5-8% + grocery loyalty + USDA waste reduction $1,500/year (cite usda.gov/foodwaste AND epa.gov/sustainable-management-food). Total $150-$300/month additional savings.'",
+      "When the reader confesses to JSONL pain \\'frustration with tracking spending without seeing savings results,\\' pair empathy with the audit + grocery + rebate framing. Never write \\'just track better.\\' Always write \\'[Empathy sentence]. The fix: three structural moves convert JSONL anxiety-frustration-resignation-overprotective-attachment into JSONL track-every-dollar + pay-yourself-first + meal-plan + emergency-fund discipline — (a) audit by 7-line + USDA tier, (b) deploy USDA-MyPlate + protein-tier + 8-tactic grocery toolkit, (c) stack 8 rebate + cashback + waste-reduction tools.\\'"
+    ]
+  },
+  "title_intelligence": {
+    "dominant_title_pattern": "'With grocery costs in flux as a result of inflation / Your income and expenses are not perfectly aligned / On a perfect grocery shopping trip / How do you only spend $250 a month on organic groceries for two / Food is a necessary cost / Some offers on this page are from advertisers / Find tips for eating healthy on a budget' — competitors title around inflation-anxiety or single-spend stories without anchoring to 7-line USDA Food Plan audit OR USDA-MyPlate + protein-tier toolkit OR 8-tool rebate + cashback + waste stack.",
+    "short_title": "How To Save Money With Food: 7-Line USDA Audit + MyPlate Toolkit + 8-Tool Rebate + Waste Stack",
+    "long_title": "How To Save Money With Food — Audit Your 7-Line Food Spend (Groceries 50-65% / Dining Out 15-25% / Coffee 3-8% / Delivery 5-15% / Lunch 5-10% / Impulse 3-8% / Subscriptions 0-5%) Against USDA Thrifty $190/Low-Cost $245/Moderate $305/Liberal $370 Food Plan Tiers, Apply The 8-Tactic USDA-MyPlate + Protein-Tier-Cost-Ladder Grocery Toolkit (Unit-Price + Store-Brand + ALDI + Frozen + Seasonal), And Stack 8 Coupon + Rebate + Cashback + Waste-Reduction Tools (Ibotta + Fetch + Upside + Flashfood + Too Good To Go + Cashback Cards + Loyalty + USDA Waste Reduction) With SNAP + WIC Federal Subsidy Stack"
+  },
+  "reader_psychology": {
+    "triggering_thought": "'How to save money with food — every list says cook at home or meal plan. By how much? My grocery + dining + delivery + coffee runs $1,000+/month for 4. I track every dollar in pen-and-paper or excel sheet, set up emergency fund and pay yourself first, but the anxiety about future financial security with the frustration and confusion about budgeting and the resignation feeling poor despite efforts and the overprotective attachment to accumulated savings means I tighten and burn out without ever seeing the savings.' — close paraphrase of JSONL emotional_state 'Anxiety about future financial security' triggered by 'Frustration with tracking spending without seeing savings results' + JSONL emotional states 'Frustration and confusion about budgeting' + 'Resignation/feeling poor despite efforts' + 'Overprotective attachment to accumulated savings' + JSONL repeated phrase 'track every dollar' / 'pay yourself first' / 'meal plan' / 'emergency fund.'",
+    "desired_internal_shift": "From Tip-List-Reader To 7-Line-USDA-Tier-Auditor + MyPlate-Protein-Tier-Operator + 8-Tool-Rebate-Cashback-Waste-Stacker With JSONL Track-Every-Dollar + Pay-Yourself-First + Meal-Plan + Emergency-Fund Discipline",
+    "bridge_content": "7-Line Food-Spend Audit Anchored On USDA Food Plan Tiers (Gap 1) → 8-Tactic USDA-MyPlate + Protein-Tier Grocery Toolkit (Gap 2) → 8-Tool Coupon + Rebate + Cashback + Waste-Reduction Toolkit With SNAP/WIC Federal Stack (Gap 3). Once applied, JSONL anxiety-frustration-resignation-overprotective-attachment converts into JSONL track-every-dollar + pay-yourself-first + meal-plan + emergency-fund discipline."
+  },
+  "internal_linking": null
+}
+```
+<!-- END_BATTLE_PLAN_BRIEF -->

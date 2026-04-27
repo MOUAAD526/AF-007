@@ -625,3 +625,106 @@ _Body text (45 chars) saved to JSON sidecar_
 
 
 ---
+
+
+---
+<!-- BATTLE_PLAN_BRIEF -->
+# Battle Plan Brief
+**Generated:** 2026-04-27T10:41:25.557117+00:00  
+**Keyword:** how to start saving money for retirement
+
+## Validation — 4 Checks (PASS)
+- **Keyword match:** YES — Keyword tokens hit: 4/4; angle tokens: 5
+- **Psychology match:** YES — 29 pain/emotion tokens echoed; keyword hit: True
+- **Competitor evidence:** YES — 3/3 gaps tied to named competitors with body evidence
+- **Gap specificity:** YES — All 3 gaps are specific (named WHO + WHERE + concrete edge)
+
+## Brief
+```json
+{
+  "content_gaps": [
+    {
+      "name": "Debt-payoff-vs-retirement-contribution sequencing tree (avalanche vs snowball + employer-match floor + Roth-vs-Trad-IRA fork + emergency-fund prerequisites) with quantified arithmetic — never built; competitors say 'start saving' without showing the sequencing logic, 401(k) match ROI, or debt-rate threshold for prioritizing payoff over investing",
+      "what_they_missed": "investor.vanguard.com (2,223 words) frames retirement steps generically without debt-vs-invest sequencing. aarp.org (1,356 words) opens with 'in a perfect world... begin from first paycheck' without addressing debt obstacles. bankrate.com (1,651 words) cites '35% of workers feel behind' without the debt sequencing tree. oldnational.com (664 words) and latitude32.org (1,475 words) and mysccu.com (1,794 words) frame saving for retirement around budget-routine without the debt-rate cutoff or the employer-match-priority tree. None of the six competitors builds: (a) employer 401(k) match floor — always contribute up to match (e.g. 100% of first 6%) before any debt payoff = 100% instant return (cite irs.gov/retirement-plans/plan-participant-employee/retirement-topics-401k-and-profit-sharing-plan-contribution-limits); (b) debt-rate threshold — pay off debt with rate above 7-8% (typical credit card 18-25%, personal loan 10-25%) before extra retirement; tax-advantaged investing typically returns 7-10% long-run so debt above that threshold beats investing; (c) emergency fund prerequisite — 3-6 months expenses in HYSA before aggressive retirement push (cite consumerfinance.gov/consumer-tools/save-for-emergencies); (d) Roth vs Traditional IRA fork — Roth if marginal rate now < expected retirement rate; Traditional if reverse; income limits MAGI Roth phase-out $146K-$161K single, $230K-$240K joint 2024 (cite irs.gov/retirement-plans/plan-participant-employee/amount-of-roth-ira-contributions-that-you-can-make-for-2024); (e) avalanche (highest rate first) saves more interest; snowball (smallest balance first) builds momentum.",
+      "our_edge": "Add an H2: '4-Step Debt-Vs-Retirement Sequencing Tree.' Step 1: Capture full employer 401(k) match (typical 50-100% match on first 3-6%) — 100% instant return = the highest-ROI tax-deferred dollar (cite irs.gov/retirement-plans/plan-participant-employee/retirement-topics-401k-and-profit-sharing-plan-contribution-limits); even with student loans this match comes first. Step 2: Build $1,000 starter emergency fund in HYSA at 4-5% APY (cite each bank rate sheet). Step 3: Pay off any debt above 7-8% APR — credit cards (typical 18-25% APR per cfpb.gov/data-research/credit-card-data) + personal loans + private student loans + payday — using avalanche (highest rate first) or snowball (smallest balance first); federal student loans below 6% can run alongside retirement contributions per IDR/SAVE plan (cite studentaid.gov/manage-loans/repayment/plans). Step 4: Fully fund 3-6 months expenses in HYSA + max Roth IRA $7,000/year ($8,000 if 50+) (cite irs.gov/retirement-plans/plan-participant-employee/amount-of-roth-ira-contributions-that-you-can-make-for-2024) + push 401(k) toward $23,000/year limit ($30,500 if 50+) (cite irs.gov/retirement-plans/plan-participant-employee/retirement-topics-401k-and-profit-sharing-plan-contribution-limits). Anchored to JSONL pain 'student loan debt blocking retirement savings contributions' — the sequencing tree converts JSONL anxiety-frustration-stress into JSONL track-every-dollar + pay-off-debt + high-yield-savings-account + live-off-one-income discipline."
+    },
+    {
+      "name": "Account-tier ladder by tax structure (401(k) traditional + Roth + match / IRA traditional + Roth / SEP-IRA + Solo 401(k) self-employed / HSA triple-tax-advantaged / brokerage / I-Bonds / annuity) with contribution limits + tax treatment + access rules — never built; competitors mention 'open an IRA' or '401(k)' qualitatively without the tax-tier comparison or HSA triple-tax angle",
+      "what_they_missed": "investor.vanguard.com (2,223 words) and bankrate.com (1,651 words) and aarp.org (1,356 words) name 401(k) and IRA without the full account-tier ladder including HSA + SEP + Solo 401(k) + I-Bonds. oldnational.com (664 words) and latitude32.org (1,475 words) and mysccu.com (1,794 words) skip the tax-tier ladder. None of the six competitors builds: (a) 401(k) traditional limit $23,000/year ($30,500 if 50+) (cite irs.gov/retirement-plans/plan-participant-employee/retirement-topics-401k-and-profit-sharing-plan-contribution-limits); Roth 401(k) same limit but post-tax; (b) Traditional IRA $7,000/year ($8,000 if 50+) deductibility phased out at MAGI $77K-$87K single workplace plan (cite irs.gov/retirement-plans/2024-ira-contribution-and-deduction-limits-effect-of-modified-agi-on-deductible-contributions-if-you-are-covered-by-a-retirement-plan-at-work); Roth IRA phase-out MAGI $146K-$161K single (cite irs.gov/retirement-plans/plan-participant-employee/amount-of-roth-ira-contributions-that-you-can-make-for-2024); (c) Backdoor Roth IRA for high earners; (d) SEP-IRA self-employed up to 25% / $69K (cite irs.gov/retirement-plans/plan-sponsor/simplified-employee-pension-plan-sep); (e) Solo 401(k) up to $69K / $76,500 if 50+ (cite irs.gov/retirement-plans/one-participant-401k-plans); (f) HSA $4,150 single / $8,300 family 2024 (cite irs.gov/forms-pubs/about-publication-969) — triple-tax (deductible + tax-free growth + tax-free medical withdrawal); after 65 = pseudo-IRA; (g) I-Bonds + Treasury Direct (cite treasurydirect.gov); (h) Saver's Credit up to $1,000 single / $2,000 joint at low income (cite irs.gov/retirement-plans/plan-participant-employee/retirement-savings-contributions-savers-credit).",
+      "our_edge": "Add an H2: '8-Tier Account Ladder Ranked By Effective Tax Yield.' Table. Tier 1: 401(k) up to employer match (free 50-100% return) (cite irs.gov/retirement-plans/plan-participant-employee/retirement-topics-401k-and-profit-sharing-plan-contribution-limits). Tier 2: HSA $4,150 single / $8,300 family — triple-tax (cite irs.gov/forms-pubs/about-publication-969). Tier 3: Roth IRA $7,000 ($8,000 if 50+) MAGI phase-out $146K-$161K single (cite irs.gov/retirement-plans/plan-participant-employee/amount-of-roth-ira-contributions-that-you-can-make-for-2024); Backdoor Roth for high earners. Tier 4: 401(k) beyond match up to $23,000 ($30,500 if 50+) (cite irs.gov/retirement-plans/plan-participant-employee/retirement-topics-401k-and-profit-sharing-plan-contribution-limits). Tier 5: Self-employed — SEP-IRA up to 25% / $69K (cite irs.gov/retirement-plans/plan-sponsor/simplified-employee-pension-plan-sep) OR Solo 401(k) up to $69K / $76,500 if 50+ (cite irs.gov/retirement-plans/one-participant-401k-plans). Tier 6: I-Bonds via Treasury Direct (cite treasurydirect.gov) — inflation-protected. Tier 7: Taxable brokerage with broad-market index funds. Tier 8: Saver's Credit up to $1,000 single / $2,000 joint at low income (cite irs.gov/retirement-plans/plan-participant-employee/retirement-savings-contributions-savers-credit). Anchored to JSONL emotional state 'Anxiety about the future and retirement due to debt obligations' + JSONL repeated phrase 'high yield savings account' — the 8-tier ladder converts JSONL anxiety-frustration into JSONL track-every-dollar discipline ranked by tax-efficiency."
+    },
+    {
+      "name": "Contribution-rate + 25× rule + 4% rule + Social Security claim age + auto-escalation operating system with quantified retirement-readiness arithmetic — never built; competitors say 'save more' without target-rate math, glide path, or claim-age tradeoff",
+      "what_they_missed": "investor.vanguard.com (2,223 words) and bankrate.com (1,651 words) and aarp.org (1,356 words) name retirement targets generically without target-rate math, 4% rule, or 25× rule. oldnational.com (664 words) and latitude32.org (1,475 words) and mysccu.com (1,794 words) skip the operating-system math. None of the six competitors builds: (a) target savings rate — 15% of gross including match per Fidelity rule of thumb (cite fidelity.com/viewpoints/retirement/how-much-do-i-need-to-retire); (b) 25× rule — multiply annual retirement spend by 25 = nest-egg target (cite Trinity Study + bogleheads.org Trinity 4% rule context); (c) 4% safe withdrawal rate — withdraw 4% of nest egg in year 1, adjust for inflation (cite Trinity Study + Bengen 1994); (d) age-band benchmarks — by 30 1× salary, by 40 3×, by 50 6×, by 60 8×, by 67 10× (cite fidelity.com/viewpoints/retirement); (e) Social Security claim-age tradeoff — claim at 62 = 70-75% of FRA benefit; claim at 70 = 124-132% of FRA (cite ssa.gov/benefits/retirement/planner/agereduction.html); (f) auto-escalation in 401(k) — 1% per year increase to capture raises before lifestyle inflation (cite irs.gov + DOL automatic enrollment guidance); (g) target-date fund vs 3-fund portfolio (cite vanguard.com or bogleheads.org); (h) Roth conversion ladder strategy.",
+      "our_edge": "Add an H2: '6-Step Contribution-Rate + Withdrawal-Rule + Claim-Age Operating System.' Step 1: Target 15% of gross including match per Fidelity (cite fidelity.com/viewpoints/retirement/how-much-do-i-need-to-retire). Step 2: 25× rule — multiply target annual spend by 25 to get nest-egg target (cite Trinity Study + bogleheads.org). Step 3: 4% safe withdrawal year-1 with inflation adjustment (cite Trinity Study + Bengen 1994). Step 4: Age-band benchmarks — by 30 1× salary, by 40 3×, by 50 6×, by 60 8×, by 67 10× (cite fidelity.com/viewpoints/retirement). Step 5: Social Security claim age — claim at 62 = 70-75% of FRA, at 67-FRA = 100%, at 70 = 124-132% (cite ssa.gov/benefits/retirement/planner/agereduction.html); use SSA estimator at ssa.gov/myaccount. Step 6: Auto-escalation in 401(k) — set 1%/year increase to capture raises (cite dol.gov/agencies/ebsa/laws-and-regulations/laws/pension-protection-act). Pair with target-date fund OR 3-fund portfolio (US total market + international + bonds) per bogleheads.org. Anchored to JSONL emotional state 'Stress from sudden job loss and financial insecurity' + JSONL repeated phrase 'live off one income' — the operating system converts JSONL anxiety-frustration-stress into JSONL track-every-dollar + pay-off-debt + high-yield-savings + live-off-one-income discipline with target benchmarks at every age."
+    }
+  ],
+  "nlp_entities": [
+    "Employer 401(k) match floor",
+    "Avalanche vs snowball debt method",
+    "7-8% debt-rate threshold",
+    "3-6 months emergency-fund prerequisite",
+    "Roth IRA MAGI phase-out $146K-$161K",
+    "HSA triple-tax-advantaged $4,150",
+    "Backdoor Roth + Solo 401(k)",
+    "Saver's Credit up to $1,000",
+    "15% gross savings rate target",
+    "25× annual spend nest-egg rule",
+    "4% safe withdrawal rate",
+    "Social Security claim age 62/67/70"
+  ],
+  "eeat_requirements": [
+    "Cite IRS retirement plan limits + Roth limits + IRA limits + HSA + SEP + Solo 401(k) + Saver's Credit (cite irs.gov/retirement-plans/plan-participant-employee/retirement-topics-401k-and-profit-sharing-plan-contribution-limits AND irs.gov/retirement-plans/plan-participant-employee/amount-of-roth-ira-contributions-that-you-can-make-for-2024 AND irs.gov/forms-pubs/about-publication-969 AND irs.gov/retirement-plans/plan-sponsor/simplified-employee-pension-plan-sep AND irs.gov/retirement-plans/one-participant-401k-plans AND irs.gov/retirement-plans/plan-participant-employee/retirement-savings-contributions-savers-credit). Limits + tax treatment must anchor on IRS primary government data.",
+    "Cite SSA retirement age + benefit calculator (cite ssa.gov/benefits/retirement/planner/agereduction.html AND ssa.gov/myaccount) AND CFPB emergency savings + credit card data (cite consumerfinance.gov/consumer-tools/save-for-emergencies AND cfpb.gov/data-research/credit-card-data) AND Department of Education studentaid.gov/manage-loans/repayment/plans AND DOL pension protection (cite dol.gov/agencies/ebsa/laws-and-regulations/laws/pension-protection-act). Sequencing tree + claim-age + auto-escalation must anchor on SSA + CFPB + DOE + DOL primary regulator data.",
+    "Cite Fidelity Viewpoints (cite fidelity.com/viewpoints/retirement) AND Trinity Study via bogleheads.org AND Treasury Direct for I-Bonds (cite treasurydirect.gov). Avoid affiliate-marketing 'best retirement accounts' aggregators."
+  ],
+  "style_critique": {
+    "all_tones_found": [
+      {
+        "tone": "asset-manager educational",
+        "used_by": "investor.vanguard.com r3"
+      },
+      {
+        "tone": "advocacy-organization listicle",
+        "used_by": "aarp.org r5"
+      },
+      {
+        "tone": "personal-finance affiliate publisher",
+        "used_by": "bankrate.com r6"
+      },
+      {
+        "tone": "bank educational blog",
+        "used_by": "oldnational.com r10"
+      },
+      {
+        "tone": "non-profit financial-literacy",
+        "used_by": "latitude32.org r12"
+      },
+      {
+        "tone": "credit-union educational",
+        "used_by": "mysccu.com r15"
+      }
+    ],
+    "winning_tone": "Investigative consumer advocate — builds the 4-step debt-vs-retirement sequencing tree, the 8-tier account ladder ranked by effective tax yield, and the 6-step contribution-rate + 4% rule + claim-age operating system with target benchmarks per age",
+    "decision_reason": "Priority 1 fired — JSONL emotional_state 'Anxiety about the future and retirement due to debt obligations' triggered by 'Student loan debt blocking retirement savings contributions' + JSONL emotional state 'Frustration' + 'Stress from sudden job loss and financial insecurity' + JSONL repeated phrase 'tracking every dollar' / 'high yield savings account' / 'pay off debt' / 'live off one income' — An investigative-consumer-advocate tone fills the gap left by asset-manager, advocacy listicle, affiliate publisher, bank, non-profit, and credit-union tones.",
+    "our_directives": [
+      "When discussing how to start retirement saving, always present the 4-step debt-vs-retirement sequencing tree. Never write 'just start saving' — write 'apply 4-step tree: (1) capture full employer 401(k) match (cite irs.gov/retirement-plans/plan-participant-employee/retirement-topics-401k-and-profit-sharing-plan-contribution-limits); (2) build $1,000 starter emergency fund (cite consumerfinance.gov/consumer-tools/save-for-emergencies); (3) pay off any debt above 7-8% APR via avalanche or snowball (cite cfpb.gov/data-research/credit-card-data AND studentaid.gov); (4) push 3-6 months emergency fund + max Roth IRA + max 401(k).'",
+      "When recommending account choices, always present the 8-tier ladder ranked by effective tax yield. Never write 'open an IRA' — write 'climb 8-tier ladder: (1) 401(k) match; (2) HSA triple-tax (cite irs.gov/forms-pubs/about-publication-969); (3) Roth IRA $7K (cite irs.gov/retirement-plans/plan-participant-employee/amount-of-roth-ira-contributions-that-you-can-make-for-2024); (4) 401(k) beyond match $23K; (5) SEP-IRA / Solo 401(k) self-employed (cite irs.gov/retirement-plans/one-participant-401k-plans); (6) I-Bonds (cite treasurydirect.gov); (7) taxable brokerage; (8) Saver's Credit (cite irs.gov/retirement-plans/plan-participant-employee/retirement-savings-contributions-savers-credit).'",
+      "When discussing contribution rate + withdrawal + claim age, always present the 6-step operating system. Never write 'save 10-15%' — write 'apply 6-step operating system: (1) target 15% gross including match (cite fidelity.com/viewpoints/retirement); (2) 25× rule annual spend; (3) 4% safe withdrawal (cite Trinity Study); (4) age-band benchmarks 1×/3×/6×/8×/10× by 30/40/50/60/67; (5) Social Security claim-age tradeoff (cite ssa.gov/benefits/retirement/planner/agereduction.html); (6) auto-escalation 1%/year (cite dol.gov/agencies/ebsa).'",
+      "When the reader confesses to JSONL pain \\'student loan debt blocking retirement savings contributions,\\' pair empathy with the sequencing + account-ladder + operating-system framing. Never write \\'just save more.\\' Always write \\'[Empathy sentence]. The fix: three structural moves convert JSONL anxiety-frustration-stress into JSONL track-every-dollar + pay-off-debt + high-yield-savings-account + live-off-one-income discipline — (a) sequence debt vs retirement via 4-step tree with employer match floor, (b) climb 8-tier account ladder ranked by tax yield with HSA + Roth + 401(k), (c) deploy 6-step contribution-rate + 25× + 4% + claim-age operating system.\\'"
+    ]
+  },
+  "title_intelligence": {
+    "dominant_title_pattern": "'Learn what retirement savings are / In a perfect world, we would all begin saving from first paycheck / 35 percent of American workers feel behind / The importance of saving for retirement / Retirement may seem far away / You're paying your bills and living within a budget' — competitors title around either generic 'why' framing or behind-anxiety without anchoring to debt-vs-retirement sequencing tree OR 8-tier account ladder OR 6-step contribution-rate + claim-age operating system.",
+    "short_title": "How To Start Saving Money For Retirement: 4-Step Debt Tree + 8-Tier Account Ladder + 6-Step OS",
+    "long_title": "How To Start Saving Money For Retirement — Run The 4-Step Debt-Vs-Retirement Sequencing Tree (Capture 401(k) Match First / $1,000 Starter Emergency Fund / Pay Off >7-8% APR Debt Avalanche-Snowball / Push 3-6 Mo Fund + Max Roth IRA + Max 401(k)), Climb The 8-Tier Account Ladder Ranked By Effective Tax Yield (Match → HSA Triple-Tax → Roth IRA → 401(k) Beyond Match → SEP/Solo 401(k) → I-Bonds → Brokerage → Saver's Credit), And Deploy The 6-Step Operating System (15% Target Rate + 25× Rule + 4% Withdrawal + Age-Band Benchmarks + Social Security Claim Age + Auto-Escalation 1%/Yr)"
+  },
+  "reader_psychology": {
+    "triggering_thought": "'How to start saving money for retirement — every list says open an IRA. But what if I have student loan debt? Should I pay it off first? I track every dollar in pen-and-paper or excel sheet, have an emergency fund target in a high-yield savings account, want to live off one income, but the anxiety about the future and retirement due to debt obligations + frustration + stress from sudden job loss and financial insecurity means every $100 contribution feels like a betrayal of debt payoff.' — close paraphrase of JSONL emotional_state 'Anxiety about the future and retirement due to debt obligations' triggered by 'Student loan debt blocking retirement savings contributions' + JSONL emotional states 'Frustration' + 'Stress from sudden job loss and financial insecurity' + JSONL repeated phrase 'tracking every dollar' / 'high yield savings account' / 'pay off debt' / 'live off one income.'",
+    "desired_internal_shift": "From Vague-Saver To 4-Step-Debt-Sequencing-Operator + 8-Tier-Account-Ladder-Climber + 6-Step-Contribution-Rate-Operating-System User With JSONL Track-Every-Dollar + Pay-Off-Debt + High-Yield-Savings-Account + Live-Off-One-Income Discipline",
+    "bridge_content": "4-Step Debt-Vs-Retirement Sequencing Tree With Employer Match Floor + Debt-Rate Threshold + Emergency Fund Prerequisite (Gap 1) → 8-Tier Account Ladder Ranked By Effective Tax Yield (Gap 2) → 6-Step Contribution-Rate + 25× + 4% + Claim-Age Operating System With Auto-Escalation (Gap 3). Once applied, JSONL anxiety-frustration-stress converts into JSONL track-every-dollar + pay-off-debt + high-yield-savings-account + live-off-one-income discipline."
+  },
+  "internal_linking": null
+}
+```
+<!-- END_BATTLE_PLAN_BRIEF -->
