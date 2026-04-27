@@ -413,3 +413,94 @@ _Body text (45 chars) saved to JSON sidecar_
 
 
 ---
+
+
+---
+<!-- BATTLE_PLAN_BRIEF -->
+# Battle Plan Brief
+**Generated:** 2026-04-27T08:44:48.226492+00:00  
+**Keyword:** fidelity referral bonus
+
+## Validation — 4 Checks (PASS)
+- **Keyword match:** YES — Keyword tokens hit: 3/3; angle tokens: 4
+- **Psychology match:** YES — 30 pain/emotion tokens echoed; keyword hit: True
+- **Competitor evidence:** YES — 3/3 gaps tied to named competitors with body evidence
+- **Gap specificity:** YES — All 3 gaps are specific (named WHO + WHERE + concrete edge)
+
+## Brief
+```json
+{
+  "content_gaps": [
+    {
+      "name": "Three different things called 'Fidelity referral bonus' — competitors never disambiguate which one the reader is searching for",
+      "what_they_missed": "refer.me (323 words) describes the EMPLOYEE referral bonus at Fidelity Investments ($3,000-$5,000 paid to Fidelity employees who refer hired candidates). finance.yahoo.com (450 words) lists 2025 brokerage account bonuses for new customers (Schwab $100-$1,000, JP Morgan Self-Directed $50-$700, Merrill Edge $100-$600, TradeStation $150-$3,500, E-Trade $50-$10,000) — and notably DOES NOT list Fidelity in the table at all. doctorofcredit.com (1,423 words) covers the historical Fidelity $100/$150 ACCOUNT-OPENING promotional bonus (expired offers from 2022-2024). None of the three competitors clarifies up front: there are THREE distinct things called 'fidelity referral bonus' — (a) employee-to-candidate HR referral bonus, (b) existing-customer-to-new-customer referral bonus (the kind Schwab, SoFi, Robinhood, M1 Finance run), (c) account-opening promotional bonus paid by Fidelity directly to the new customer. The JSONL emotional state 'Overwhelm from lack of financial tracking and control' is exactly the disorientation a reader feels when SERPs answer the wrong question. The article must disambiguate in the first paragraph.",
+      "our_edge": "Add an H2: 'Three Different Bonuses Called \\'Fidelity Referral Bonus\\' — Disambiguate Before You Hunt for One.' 4-paragraph framework. (1) Employee referral bonus (HR-only): Fidelity Investments pays its OWN employees ~$3,000-$5,000 when they successfully refer a hired candidate (cite refer.me data + Fidelity careers / employee handbook AT fidelitycareers.com). Eligibility: only current Fidelity employees can earn this. Not what the average retail-investor reader is asking about. (2) Customer-to-customer referral bonus (does NOT exist): Schwab runs a 'refer-a-friend' program ($100-$1,000 per referred new customer per finance.yahoo.com), SoFi runs $25-$100 referrals, Robinhood and M1 Finance run free-share / cash referrals — Fidelity does NOT publicly run a customer-to-customer referral program. This is the single most surprising fact the SERP buries: Fidelity\\'s competitive moat is brand + low fees, not referral bonuses. (3) Account-opening promotional bonus (occasionally appears): Fidelity has historically run $100-$150 promo codes (cite doctorofcredit.com\\'s historical record of FIDELITY150 and GB100 codes from 2022-2024) targeting Fidelity Cash Management, Roth IRA, Traditional IRA, or brokerage-account openings, typically requiring a $50 deposit within 15 days. These offers come and go; check fidelity.com/promotional-offers AND ask via Fidelity chat for current codes. (4) The 2024 Fidelity Youth Account ($50 bonus for parents opening a teen account — cite fidelity.com/youthaccount) is the closest thing Fidelity has to a referral incentive: the parent must already be a Fidelity customer to open the youth account. Closing rule, JSONL-anchored on \\'overwhelm from lack of financial tracking and control\\': 'refer.me\\'s and doctorofcredit.com\\'s and finance.yahoo.com\\'s pieces each answer ONE of the three questions; the article that answers \\'fidelity referral bonus\\' must disambiguate in paragraph one — most readers are NOT employees and Fidelity does NOT have a public customer-referral program; what they actually want is the account-opening promo code, which is intermittent.'"
+    },
+    {
+      "name": "Fidelity vs Schwab/SoFi/Robinhood/M1 referral-bonus competitive landscape never compared",
+      "what_they_missed": "finance.yahoo.com (450 words) lists 5 competing brokerages with bonus ranges (Schwab $100-$1,000, JP Morgan $50-$700, Merrill Edge $100-$600, TradeStation $150-$3,500, E-Trade $50-$10,000) — and the article notably leaves out Fidelity entirely. The reader who searches 'fidelity referral bonus' is in a comparison shop: should they switch brokerages for the bonus, or stay with Fidelity (likely better long-term fees + Fidelity 2% card auto-deposit + FXAIX 0.015% expense ratio fund)? doctorofcredit.com (1,423 words) covers Fidelity\\'s historical $100-$150 promos in isolation; refer.me (323 words) is HR-context. Neither competitor builds the head-to-head table comparing: bonus size + qualifying deposit + holding period + fee structure + ecosystem + tax-cost-of-bonus.",
+      "our_edge": "Add an H2: 'Fidelity vs Schwab vs SoFi vs Robinhood vs M1 — When Chasing the Bonus Is Worth It (And When Loyalty Wins).' Build a 6-row comparison table. Columns: Brokerage | Customer-Referral / Account-Opening Bonus | Qualifying Deposit | Holding Period | Notable Fee/Cost. Row 1: Fidelity — none publicly active OR historical $100-$150 (cite fidelity.com/promotional-offers AND doctorofcredit.com archive) — $50 deposit within 15 days when offered — typically 1-year hold to keep bonus — $0 commission, $0 expense ratio on FZROX, FZIPX, FXAIX 0.015%. Row 2: Charles Schwab — $100-$1,000 customer referral (cite schwab.com/public/schwab/active-offer) — qualifying net deposit within 45 days — typically 1-year hold — $0 commission, expense ratio on SWPPX 0.02%. Row 3: SoFi Active Investing — $25 typical referral bonus (cite sofi.com/invest/refer) — small deposit ($10) — short hold — $0 commission, $0 expense ratio on SoFi own ETFs. Row 4: Robinhood — free fractional share referral ($5-$200 random per account) (cite robinhood.com/us/en/about/legal/referral-program) — link a bank account — short hold (5-day clearing) — $0 commission, no IRA matching for free tier. Row 5: M1 Finance — $50-$3,500 referrals tied to deposit tier (cite m1.com/legal/m1-bonus-terms) — variable — typically 1-year hold to retain — $0 commission, M1 Plus annual fee $36/year (waived first year). Row 6: Webull — varies $0-$1,000 (cite webull.com/promotion) — variable deposit thresholds — variable hold — $0 commission, $0 platform fees. Closing rule, JSONL-anchored on \\'give yourself permission to spend\\' / \\'can\\'t take the money with you when you\\'re gone\\': 'finance.yahoo.com lists 5 brokerages but skips Fidelity, suggesting the answer to fidelity-referral-bonus is to comparison-shop — but the actual answer for most readers is: Fidelity does NOT match Schwab\\'s up-to-$1,000 bonus, BUT Fidelity\\'s long-term advantage (FZROX 0% expense ratio, $0 commissions, Fidelity Cash Management Account 2.46%+ APY, the Fidelity 2% Cash Back Card brokerage-routing) typically outvalues a one-time $1,000 bonus over a 5-10 year horizon. Chase the bonus only if your time horizon is < 2 years.'"
+    },
+    {
+      "name": "Tax treatment of brokerage referral / promotional bonuses never explained — competitors hand out the dollar number without naming the 1099 obligation",
+      "what_they_missed": "doctorofcredit.com (1,423 words) lists Fidelity $100-$150 promos and the qualifying-deposit details but does not explain that brokerage referral and account-opening bonuses are reported as INTEREST INCOME on Form 1099-INT (typically) or MISCELLANEOUS INCOME on Form 1099-MISC depending on issuer treatment, and are TAXABLE in the year received (cite irs.gov/forms-pubs/about-form-1099-int AND irs.gov/forms-pubs/about-form-1099-misc). finance.yahoo.com (450 words) lists bonus dollar amounts without the after-tax figure. refer.me (323 words) is employee-context. The reader at a 22% federal + 5% state marginal rate who claims a $1,000 brokerage referral bonus actually keeps ~$730 after federal-and-state tax — the JSONL emotional state 'Financial anxiety / fear of spending' + 'Guilt about spending money' is exactly the over-claiming-of-the-headline-figure pattern.",
+      "our_edge": "Add an H2: 'The Tax Bite on Brokerage Referral Bonuses — Net Out The Headline Number Before You Switch.' 4-paragraph framework. (1) The IRS treatment: brokerage account-opening / referral bonuses are taxable income — typically reported on Form 1099-INT (most common when the bonus is treated as interest on the deposit) or Form 1099-MISC (when treated as a marketing rebate). Cite irs.gov/forms-pubs/about-form-1099-int AND irs.gov/forms-pubs/about-form-1099-misc AND IRS Publication 550 Investment Income (cite irs.gov/publications/p550). (2) After-tax math: at federal 22% + state 5% = 27% combined marginal rate — a $1,000 brokerage bonus nets $730 after tax; a $100 Fidelity historical promo nets $73; a $5,000 employee referral bonus (at 32% combined for higher earners + FICA 7.65% on supplemental wages = 39.65%) nets ~$3,017. (3) Required holding period implications: most brokerages require a 12-month hold to retain the bonus; if you withdraw early, the bonus is clawed back AND you may have already paid tax on it in the prior year (cite each brokerage\\'s bonus terms). (4) Decision rule for the JSONL anxious reader: if the after-tax bonus < the lifetime fee differential of switching brokerages, do not switch. Example: switching $50,000 of assets from Fidelity (FZROX 0% expense ratio) to Schwab (SWPPX 0.02% expense ratio) for a $500 net-after-tax bonus: incremental cost $50,000 × 0.02% = $10/year — bonus payback is 50 years. Stay at Fidelity. Closing rule, JSONL-anchored on \\'financial anxiety / fear of spending\\' / \\'guilt about spending money\\': 'doctorofcredit.com\\'s and finance.yahoo.com\\'s headline-number coverage skips the after-tax-and-fee-differential math. The fidelity-referral-bonus reader needs the net-after-tax dollar AND the lifetime-fee-cost of switching — only chase the bonus when the net-after-tax exceeds the 10-year fee differential of the brokerage move.'"
+    }
+  ],
+  "nlp_entities": [
+    "Fidelity employee referral bonus ($3,000-$5,000)",
+    "Fidelity account-opening promotional bonus ($100-$150 historical)",
+    "Fidelity Cash Management Account",
+    "Schwab refer-a-friend program ($100-$1,000)",
+    "SoFi Active Investing referral ($25)",
+    "Robinhood free-share referral",
+    "M1 Finance tiered referral ($50-$3,500)",
+    "Form 1099-INT (interest income)",
+    "Form 1099-MISC (miscellaneous income)",
+    "IRS Publication 550 Investment Income",
+    "12-month bonus-retention holding period",
+    "Fidelity Youth Account $50 bonus"
+  ],
+  "eeat_requirements": [
+    "Cite the Fidelity promotional offers page (cite fidelity.com/promotional-offers) AND the Fidelity Youth Account page (cite fidelity.com/youthaccount) AND Fidelity careers (cite fidelitycareers.com) for the three different bonus types. None of the three competitors anchors the disambiguation on Fidelity\\'s own pages — citing them converts the disambiguation from anecdote into a verifiable Fidelity-source map.",
+    "Cite each competing brokerage\\'s active-offer page directly: Schwab (cite schwab.com/public/schwab/active-offer), SoFi Invest (cite sofi.com/invest/refer), Robinhood (cite robinhood.com/us/en/about/legal/referral-program), M1 Finance (cite m1.com/legal/m1-bonus-terms), Webull (cite webull.com/promotion). finance.yahoo.com cites brokerage bonuses without anchor links to the issuer terms — citing each issuer\\'s own page makes the comparison-table claims defensible.",
+    "Cite IRS Form 1099-INT (cite irs.gov/forms-pubs/about-form-1099-int) AND Form 1099-MISC (cite irs.gov/forms-pubs/about-form-1099-misc) AND IRS Publication 550 Investment Income (cite irs.gov/publications/p550) for the brokerage-bonus tax-treatment framework. Demonstrates to the JSONL anxious reader that the tax-bite analysis is anchored on IRS publications rather than tax-blog opinion."
+  ],
+  "style_critique": {
+    "all_tones_found": [
+      {
+        "tone": "employee-referral aggregator",
+        "used_by": "refer.me r4"
+      },
+      {
+        "tone": "finance-news publisher round-up",
+        "used_by": "finance.yahoo.com r13"
+      },
+      {
+        "tone": "deals / churners blog",
+        "used_by": "doctorofcredit.com r16"
+      }
+    ],
+    "winning_tone": "Investigative consumer advocate — disambiguates the three different bonuses up front, anchors each on Fidelity\\'s own pages + competing-brokerage terms + IRS publications, and computes the after-tax + lifetime-fee-differential breakeven that determines whether bonus chasing pays off",
+    "decision_reason": "Priority 1 fired — JSONL emotional_state 'Financial anxiety / fear of spending' triggered by 'Post-traumatic financial anxiety from pandemic/job insecurity causing extreme frugality and fear of spending' + JSONL emotional state 'Guilt about spending money' + 'Overwhelm from lack of financial tracking and control' + JSONL repeated phrase \\\"can't take the money with you when you're gone\\\" / \\'give yourself permission to spend\\' — An investigative-consumer-advocate tone fills the gap left by the employee-referral aggregator (refer.me), finance-news round-up (yahoo finance), and deals blog (doctorofcredit). The reader is anxious and overwhelmed; the article must disambiguate three bonuses, compare against competitors, and net out the tax + fee math.",
+    "our_directives": [
+      "When discussing 'fidelity referral bonus,' always disambiguate in the first paragraph among the three meanings (employee HR bonus / customer-to-customer referral / account-opening promo). Never write 'Fidelity offers a referral bonus' — write 'three different things are called fidelity referral bonus: (a) the $3,000-$5,000 Fidelity EMPLOYEE referral bonus paid to current Fidelity employees only; (b) the customer-to-customer referral program — Fidelity does NOT publicly run one (cite fidelity.com), unlike Schwab, SoFi, M1; (c) the intermittent $100-$150 account-opening promotional bonus historically run by Fidelity (cite fidelity.com/promotional-offers).'",
+      "When recommending a brokerage based on bonus, always present the 6-row comparison AND the lifetime-fee-differential offset. Never write 'Schwab offers up to $1,000 — switch from Fidelity' — write 'Schwab\\'s $1,000 bonus is gross; net after 27% combined marginal tax = $730; switching $50,000 of assets from Fidelity (FZROX 0% expense ratio) to Schwab (SWPPX 0.02% expense ratio) costs $10/year of incremental fees — bonus payback is 73 years. Stay at Fidelity unless your time horizon is < 2 years AND you do not value Fidelity\\'s lower-fee fund lineup.'",
+      "When citing a brokerage promotional bonus dollar amount, always quote it BOTH gross AND net-of-tax with the relevant 1099 anchor. Never write 'earn $100 bonus' — write 'earn $100 gross brokerage bonus, reportable on Form 1099-INT or Form 1099-MISC depending on issuer treatment (cite irs.gov/forms-pubs/about-form-1099-int AND irs.gov/forms-pubs/about-form-1099-misc); after federal 22% + state 5% combined = ~$73 net.'",
+      "When the reader confesses to JSONL pain \\'overwhelm from lack of financial tracking and control,\\' always pair empathy with the disambiguation + the decision rule. Never write \\'switch brokerages for the bonus.\\' Always write \\'[Empathy sentence]. The fix: in the first paragraph, name which of the three Fidelity bonuses you are looking for; if it is the account-opening promo, check fidelity.com/promotional-offers AND ask Fidelity chat for current codes; if it is brokerage comparison, the Fidelity FZROX 0% expense ratio + 2% cash-back card brokerage-routing typically beats a one-time $1,000 bonus over a 5-10 year horizon.\\'"
+    ]
+  },
+  "title_intelligence": {
+    "dominant_title_pattern": "'Referral Bonus at Fidelity / Best Brokerage Account Bonuses 2025 / [Expired] Fidelity $100 Bonus' — competitors lead with one-of-three meanings without disambiguation; few build the competitor map or run the after-tax + fee-differential math.",
+    "short_title": "Fidelity Referral Bonus: Three Different Bonuses, And Which One You Actually Want",
+    "long_title": "Fidelity Referral Bonus — Three Different Things Are Called This (Employee, Customer-to-Customer, Account-Opening), Plus a 6-Brokerage Comparison and the After-Tax Math That Decides Whether to Switch"
+  },
+  "reader_psychology": {
+    "triggering_thought": "'Fidelity referral bonus — does Fidelity have a refer-a-friend program like Schwab, SoFi, or Robinhood? I keep seeing $100-$1,000 referral bonuses for OTHER brokerages but nothing clearly listed for Fidelity. Is there an account-opening bonus I am missing, or do I have to switch brokerages to claim a referral bonus at all?' — close paraphrase of JSONL emotional_state 'Financial anxiety / fear of spending' + 'Guilt about spending money' + 'Overwhelm from lack of financial tracking and control' + JSONL pain 'Post-traumatic financial anxiety from pandemic/job insecurity causing extreme frugality and fear of spending' + JSONL repeated phrase \\\"can't take the money with you when you're gone\\\" / 'give yourself permission to spend.'",
+    "desired_internal_shift": "From Bonus-Hunting Reader to Disambiguated-Decision-Maker With A Documented 6-Brokerage Comparison And A Net-After-Tax Plus Lifetime-Fee-Differential Calculation",
+    "bridge_content": "The Three Disambiguated Bonuses (Content Gap 1) followed by the 6-Brokerage Comparison Table (Content Gap 2) and the After-Tax + Lifetime-Fee-Differential Framework (Content Gap 3). The reader of fidelity-referral-bonus arrives believing Fidelity has a hidden referral program; the article reframes the question as \\'no, Fidelity does NOT publicly run a customer-to-customer referral program; only the intermittent $100-$150 account-opening promo and the $5,000 employee bonus exist; comparing across brokerages, switch only when net-after-tax bonus exceeds the lifetime fee differential.\\' Once the reader disambiguates the three bonuses and computes the after-tax + fee-differential math, the JSONL overwhelm converts into a documented stay-or-switch decision."
+  },
+  "internal_linking": null
+}
+```
+<!-- END_BATTLE_PLAN_BRIEF -->
