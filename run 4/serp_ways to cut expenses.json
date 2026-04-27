@@ -1,0 +1,568 @@
+{
+  "article_context": {
+    "angle": "Using consumer protection tactics (FCC, CFPB, state AG) to reclaim lost money from companies",
+    "pain_points": [
+      "High cost of groceries/food, especially for cooking at home",
+      "Companies incorrectly charging fees or for services not received",
+      "Food from slow cookers (crockpots) tastes bland, uniform, or unappealing",
+      "Shady landlords withholding security deposits for illegitimate reasons",
+      "Student loan payments preventing contributions to retirement savings (401k)"
+    ],
+    "top_social_questions": [
+      "How can I get money back from a company that incorrectly charged me or for services not received?",
+      "How can I make slow cooker meals taste better and avoid bland, uniform results?",
+      "How can I ensure I get my security deposit back from a landlord?"
+    ],
+    "dominant_emotion": "Frustration and Anger",
+    "serp_intent": "Searchers using \"ways to cut expenses\" are seeking practical, actionable methods to identify and reduce unnecessary spending across categories like bills, groceries, and daily habits to free up money for savings or debt reduction. The SERP intent is informational, dominated by blog articles, guides, and tip lists from personal finance sites emphasizing budgeting strategies, frugal tips, and lifestyle adjustments for cost control.",
+    "serp_title_pool": {
+      "primary": [
+        "What's the most effective way to cut expenses other than reducing ...",
+        "10 ways to cut expenses by 10% - Fidelity Investments",
+        "Cutting Back and Keeping Up When Money is Tight",
+        "Cutting Expenses: How to Trim Your Budget without Feeling Deprived",
+        "[PDF] Cutting expenses - files.consumerfinance.gov.",
+        "16 Ways to Cut Costs: Strategies for Reducing Expenses - Debt.org",
+        "14 Ways to Cut Household Expenses",
+        "The First 3 Expenses to Cut When Money Gets Tight - YouTube",
+        "Five Easy Ways to Cut Monthly Expenses: Tips from BALANCE",
+        "How to Reduce Expenses: 6 Simple Tips - Fremont University",
+        "10 Simple Ways To Cut Expenses And Save - Consumer Credit",
+        "12 Ways to Cut Spending and Expenses Effectively",
+        "Everyday Ways to Cut Expenses and Start Saving More",
+        "How to Cut Spending - Ramsey Solutions",
+        "How Can I Save More Money? 6 Tips for Reducing Your Expenses",
+        "5 Quick Ways to Cut Costs (Even If You Love to Spend) - YouTube",
+        "101 Simple Ways To Lower Your Living Expenses - Forbes",
+        "How To Reduce Spending. Free Money Advice. StepChange.",
+        "10 Ways To Cut Household Costs This Year - Just Budget",
+        "Cutting Expenses and Increasing Income - Financial Education"
+      ],
+      "long_tail": [
+        "What's the most effective way to cut expenses other than reducing ...",
+        "Cutting Expenses: How to Trim Your Budget without Feeling Deprived",
+        "Cutting Expenses and Increasing Income - Financial Education",
+        "16 Ways to Cut Costs: Strategies for Reducing Expenses - Debt.org",
+        "101 Simple Ways To Lower Your Living Expenses - Forbes",
+        "How to Lower Your Cost of Living - Ashworth Financial Group",
+        "10 ways to cut expenses by 10% - Fidelity Investments",
+        "These six solutions will make life more affordable for everyday ...",
+        "10 ways to reduce your living costs | Ben support for life",
+        "5 Quick Ways to Cut Costs (Even If You Love to Spend) - YouTube"
+      ],
+      "question": [
+        "Cutting Back and Keeping Up When Money is Tight",
+        "What are some of your creative ways of cutting down costs? - Reddit",
+        "Cutting Expenses: How to Trim Your Budget without Feeling Deprived",
+        "10 ways to cut expenses by 10% - Fidelity Investments",
+        "[PDF] Cutting expenses - files.consumerfinance.gov.",
+        "12 Things to Stop Buying When Money Gets Tight - AARP",
+        "14 Ways to Cut Household Expenses",
+        "16 Ways to Cut Costs: Strategies for Reducing Expenses - Debt.org",
+        "How to Reduce Expenses: 6 Simple Tips - Fremont University",
+        "5 Quick Ways to Cut Costs (Even If You Love to Spend) - YouTube"
+      ]
+    },
+    "paa_questions": [
+      {
+        "q": "What are some ways to cut expenses?",
+        "a": "MAXIMIZE YOUR SAVINGS"
+      },
+      {
+        "q": "What is the 3 3 3 rule for money?",
+        "a": "The 3-3-3 Rule: Confidence in Your Journey to Homeownership By ensuring you have three months of living expenses saved, three months of mortgage payments in reserve, and have thoroughly compared at least three properties, you are not just buying a house\u2014you are making a sound, well-informed investment in your future."
+      },
+      {
+        "q": "How do you decrease an expense?",
+        "a": "HOW TO CUT YOUR EXPENSES"
+      }
+    ],
+    "related_searches": [
+      "16 things you'll regret not doing sooner to cut expenses",
+      "How to reduce expenses in daily life",
+      "Cutting expenses to the bone",
+      "5 surprising ways to cut household costs",
+      "How to reduce expenses in business",
+      "How to cut expenses reddit",
+      "How to cut monthly expenses",
+      "Cut down expenses meaning"
+    ]
+  },
+  "primary_keyword": "ways to cut expenses",
+  "competitors": [
+    {
+      "rank": 1,
+      "domain": "reddit.com",
+      "url": "https://www.reddit.com/r/Frugal/comments/1q0lhvw/whats_the_most_effective_way_to_cut_expenses/",
+      "title": "What's the most effective way to cut expenses other than reducing ...",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 2,
+      "domain": "fidelity.com",
+      "url": "https://www.fidelity.com/learning-center/personal-finance/how-to-cut-expenses",
+      "title": "10 ways to cut expenses by 10% - Fidelity Investments",
+      "word_count": 716,
+      "scrape_status": "tavily_fallback",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": "## Learn Great, you have saved this article to you My Learn Profile page. Clicking a link will open a new window. # 10 ways to cut expenses by 10% ### Key takeaways Want to save more but feel overwhelmed with the thought of actually doing it? You\u2019re far from alone. The trick to saving more and spending less is to make small changes over time and build up your savings habit. While making bigger cuts could lead to bigger savings\u2014like moving to a less expensive home, driving an older model car, or living with roommates\u2014your quality of life now is a consideration too. \u201cChanges need to be comfortable to be sustainable,\u201d says Kelly Lannan, a vice president and branch leader at Fidelity Investments. \u201cSo be honest with yourself about the trade-offs you\u2019re willing to make and how they\u2019ll help you reach your goals.\u201d for *Fidelity Viewpoints* weekly email for our latest insights. To kick off your non-spending spree, get to know your financial situation inside and out. While a deep dive into your money can feel daunting, knowledge is power. Once you get clarity on what\u2019s coming in and going out, you can set a realistic budget that works for your life. Ready to get going? Here are a few ways to cut expenses. Finally, consider a cooling-off period overnight or for a few days. See if you keep thinking about the item you had your eye on. If it haunts your thoughts, make room in the budget. If you never think about it again, you made the right choice. Want to cut food costs further? Buy in bulk and freeze what you won\u2019t use immediately. You can also spend less by opting for \u201cugly\u201d produce, which is perfectly fine to eat but has bumps or blemishes that make them ineligible for grocery store sales. You can find these nonconformist fruits and vegetables at local farmers markets, through community supported agriculture (CSA) subscriptions, or by searching online for ugly or imperfect produce in your area. ### Amplify what you saved Beginning to cut expenses can take some time, but the more you practice, the better you'll get. Once you've freed up money to save, put it to work. Setting up a regular automatic transfer from your checking to an investment or high-yield savings account can help grow the money you saved while reducing the temptation to spend it. Your cash will be out of sight and out of mind\u2014giving it the opportunity to potentially grow. And one more thing: Avoid investments with high fees and commissions. It\u2019s not just what you make that counts, but what you keep. ## Saved some money? Now put it to work. Find ways to spend, save, and help grow your money for today and tomorrow. ## More to explore ### Get organized, hit your goals ### Help me budget ## to *Fidelity Viewpoints\u00ae* ### Looking for more ideas and insights? ### Thanks for subscribing! ### We're on our way, but not quite there yet ### Oh, hello again! ### Thanks for subscribing to Looking for more ideas and insights? You might like these too: Looking for more ideas and insights? You might like these too: ### Looking for more ideas and insights? You might like these too: ### *Fidelity Viewpoints\u00ae* ### Decode Crypto ### *Fidelity Smart Money\u2120* ### Active Investor ### *Insights from Fidelity Wealth Management* \u00ae ### Women Talk Money ### Educational Webinars and Events This information is intended to be educational and is not tailored to the investment needs of any specific investor. Views expressed are as of the date indicated, based on the information available at that time, and may change based on market or other conditions. Unless otherwise noted, the opinions provided are those of the speaker or author and not necessarily those of Fidelity Investments or its affiliates. Fidelity does not assume any duty to update any of the information. The trademarks and service marks appearing herein are the property of their respective owners. The third parties mentioned herein and Fidelity Investments are independent entities and are not legally affiliated. Fidelity Brokerage Services LLC, Member NYSE, SIPC, 900 Salem Street, Smithfield, RI 02917 ### Stay Connected Instagram, (Opens in a new window) LinkedIn, (Opens in a new window) YouTube, (Opens in a new window)",
+      "headings": []
+    },
+    {
+      "rank": 3,
+      "domain": "finances.extension.wisc.edu",
+      "url": "https://finances.extension.wisc.edu/articles/cutting-back-and-keeping-up-when-money-is-tight/",
+      "title": "Cutting Back and Keeping Up When Money is Tight",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://finances.extension.wisc.edu/files/2020/11/pexels-joslyn-pickens-3848193.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://finances.extension.wisc.edu/files/2020/12/Cutting-Back-UW-3.20_Page_1-231x300.jpg",
+          "alt": "Cutting Back When Money is Tight",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 4,
+      "domain": "transcendcu.com",
+      "url": "https://www.transcendcu.com/cutting-expenses-how-to-trim-your-budget-without-feeling-deprived",
+      "title": "Cutting Expenses: How to Trim Your Budget without Feeling Deprived",
+      "word_count": 1011,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.transcendcu.com/assets/files/agUxy3Dg/14.png",
+        "alt": "Get your finances in order with Transcend CU.",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [],
+      "body_text": "Maximize your savings When you're trying to save money, trimming expenses from your budget can seem like a daunting task. The idea of cutting back on things you enjoy can make the process feel like a sacrifice. However, living frugally doesn\u2019t have to mean living miserably. In fact, with a little planning and creativity, you can reduce your spending without feeling deprived. By identifying areas where you can cut costs and focusing on value rather than restrictions, you can make smart financial decisions that support your long-term goals without affecting your happiness. Here\u2019s how to trim your budget in a way that doesn\u2019t leave you feeling like you're missing out. Take a Look at Your Spending Patterns Before you make any cuts, it's essential to know where your money is going. Track your spending for a month to get a clear picture of where your funds are allocated. You might be surprised by where your money is going. Once you have the data, look for areas that are over-budget or discretionary\u2014these are your opportunities for cuts. Tip : Use a budgeting app or even a simple spreadsheet to categorize your expenses. Identifying your \u201cneeds\u201d versus your \u201cwants\u201d will help you decide where to make changes. Cut Subscriptions You Don\u2019t Use It\u2019s easy to let subscription services sneak into your budget, whether it\u2019s streaming platforms, meal kits, or even gym memberships. While you might enjoy them, you probably don\u2019t need every service you\u2019re subscribed to. Assess your subscriptions and cancel the ones that aren\u2019t essential or that you rarely use. Tip : Try a \"subscription audit.\" Take a moment to go through all your recurring subscriptions. If you haven\u2019t used a service in a few months, it\u2019s probably time to let it go. Many services offer free trials, so if you\u2019re not using them regularly, maybe you don\u2019t need them at all. Grocery Shopping: Plan Ahead and Use Coupons Groceries are one of the easiest areas to cut costs without sacrificing quality. By meal planning, shopping with a list, and looking for discounts, you can reduce your grocery bill without depriving yourself of the foods you love. Tip : Start by planning your meals for the week based on sales and use coupons (either paper ones or digital) to save more. Consider buying generic or store-brand products, which can offer the same quality at a fraction of the price. Another great way to save on groceries is to buy in bulk for items you use regularly. Just make sure you can store it and that you\u2019ll use it before it expires. Embrace DIY for Non-Essentials Instead of paying for things like beauty treatments, home repairs, or even gifts, try DIY alternatives. You can often find tutorials online for everything from simple home repairs to crafting your own gifts. Not only will this save money, but it can also be a fun and creative way to spend your time Tip : If you love beauty treatments like facials or manicures, consider doing them yourself at home. There are plenty of affordable at-home beauty kits and tutorials that can give you similar results. For gifts, consider handmade options, like homemade cookies, knitted scarves, or personalized photo albums. Reevaluate Your Housing Costs Housing is often the largest expense in any budget. If you\u2019re renting, consider downsizing or moving to a more affordable location. If you own a home, refinancing your mortgage could help lower your monthly payment. Additionally, consider renting out a spare room or converting unused space into something that generates extra income. Tip : Even if you\u2019re not ready to make a big move, you can still trim housing costs by reducing energy usage\u2014turn off lights when not in use, unplug electronics, and use energy-efficient appliances to lower utility bills. Practice Mindful Shopping Impulsive buying can add up quickly, especially when you're buying things you don\u2019t need. Combat impulse buying by practicing mindful shopping. Before making a purchase, ask yourself if it\u2019s truly necessary and if it fits within your current budget. Tip : Try the 24-hour rule: wait 24 hours before making a non-essential purchase. This gives you time to reconsider whether you really need the item or if it\u2019s just an impulse. You may find that you don\u2019t miss it at all! Find Free or Low-Cost Entertainment doesn\u2019t have to be expensive. Instead of splurging on costly activities, look for free or low-cost alternatives. There are plenty of enjoyable things to do that won\u2019t break the bank. Tip : Check out free community events, like outdoor concerts, museum exhibits, or local festivals. If you enjoy watching movies or reading, consider borrowing from your local library instead of renting or buying. Streaming services like Netflix or Hulu also often offer free trials or discounted subscriptions for students. Cut Back on Transportation Costs Transportation is another area where small changes can add up. If you own a car, look for ways to reduce maintenance costs and gas expenses. If possible, use public transportation, carpool, or walk or bike to work to save on gas and reduce wear and tear on your vehicle. Tip : Shop around for cheaper auto insurance , keep your car well-maintained to avoid costly repairs, and carpool or use ride-sharing services instead of driving alone. Small changes can lead to big savings over time. The goal of trimming your budget isn\u2019t to make you feel like you\u2019re missing out\u2014it\u2019s about finding ways to spend smarter and still enjoy life. By focusing on the essentials and cutting out unnecessary or excessive costs, you can meet your financial goals without feeling deprived. Start small and tackle one area of your budget at a time. Every bit you save adds up, and soon you\u2019ll find that living within your means doesn\u2019t have to feel like a sacrifice. Instead, it becomes an empowering way to take control of your financial future while still enjoying the things that matter most to you. Need an extra hand to take charge of your finances? Contact us or visit one of our local Louisville, Kentucky branches today!",
+      "headings": []
+    },
+    {
+      "rank": 5,
+      "domain": "files.consumerfinance.gov",
+      "url": "https://files.consumerfinance.gov/f/documents/cfpb_your-money-your-goals_cutting-expenses_tool.pdf",
+      "title": "[PDF] Cutting expenses - files.consumerfinance.gov.",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 6,
+      "domain": "debt.org",
+      "url": "https://www.debt.org/advice/how-to-cut-expenses/",
+      "title": "16 Ways to Cut Costs: Strategies for Reducing Expenses - Debt.org",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.debt.org/wp-content/uploads/2017/08/Paying-Food-Bill.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://secure.gravatar.com/avatar/1d98084e350e1b5d7e4dabd4d4a00c285f964a2e9b211e4a79df31901ac61a14?s=150&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 7,
+      "domain": "waterfrontfcu.org",
+      "url": "https://www.waterfrontfcu.org/News/14-Ways-to-Cut-Household-Expenses",
+      "title": "14 Ways to Cut Household Expenses",
+      "word_count": 344,
+      "scrape_status": "tavily_fallback",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": "# 14 Ways to Cut Household Expenses Changes to the economy, your situation, or your goals may prompt you to take a look at your budget for opportunities to save. But where do you start? These lists will help you make changes, both big and small, to your budget. ## Entertainment and Hobbies This category can be the easiest to cut from (they aren\u2019t necessities, you have a lot of control over what you spend, etc.) and one of the hardest (these are the fun things, why would you want to give them up?). Trimming your budget doesn\u2019t have to mean giving up on all the fun, just looking for less expensive ways to have it. Ideas for trimming: ## Debt When it comes to debt, rather than trimming what you pay per month, it may be wise to pay a little more. This way you can pay your debt off quicker, avoid interest, and devote the money you were paying somewhere else. This Coach can help you make a plan for the most effective way to pay off your debt. Click here ## Food Food is essential, but that doesn\u2019t mean that you can\u2019t make more cost-friendly choices. Get all the satisfaction of a full stomach without the sadness of an empty wallet. You can read more about reducing your food bill here. Ideas for trimming: ## Bills Nobody likes paying bills. But you can ease that monthly pain by finding simple ways to lower the cost. Ideas for trimming: Overall, looking for opportunities to trim your spending is important in keeping a healthy budget. And when you\u2019re feeling squeezed for cash, small changes can make a big difference. Click here ## We're Here For You Whenever, Wherever We're Here For You. * Mobile App & Online Banking * Remote Control Cards * eStatements * Bill Pay Whenever, Wherever We're Here For You. ## News Copyright Waterfront Credit Union 6419 Fauntleroy Way SW, Seattle, WA 98136 Phone: 206.622.8415 Fax: 206.622.3981 Routing Number: 325082062 NMLS# 812277 Powered by SmartSource Solutions, LLC ## Follow Us",
+      "headings": []
+    },
+    {
+      "rank": 8,
+      "domain": "youtube.com",
+      "url": "https://www.youtube.com/watch?v=V1pZyzr4OOY",
+      "title": "The First 3 Expenses to Cut When Money Gets Tight - YouTube",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 9,
+      "domain": "srpfcu.org",
+      "url": "https://srpfcu.org/five-easy-ways-to-cut-monthly-expenses/",
+      "title": "Five Easy Ways to Cut Monthly Expenses: Tips from BALANCE",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://srpfcu.org/wp-content/uploads/2025/10/Five-Easy-Ways-to-Cut-Monthly-Expenses.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 10,
+      "domain": "fremont.edu",
+      "url": "https://fremont.edu/how-to-reduce-expenses-6-simple-tips/",
+      "title": "How to Reduce Expenses: 6 Simple Tips - Fremont University",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://fremont.edu/wp-content/uploads/2022/02/FREMONT_1200x628_OG.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://fremont.edu/wp-content/uploads/2022/02/FREMONT-UNIVERSITY.jpg",
+          "alt": "Fremont University",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://fremont.edu/wp-content/uploads/2013/02/Cut-Monthly-Expenses.jpg",
+          "alt": "How to Reduce Expenses - Reduce Spending Tips",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "http://fremont.edu/wp-content/uploads/2022/01/footer-logo-1.png",
+          "alt": "Fremont University",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.facebook.com/tr?id=1241252686247495&ev=PageView&noscript=1&eid=1241252686247495cce47ed7-2a61-4220-8355-1f195259c7eb&cd%5Bpost_category%5D=Blog&cd%5Bpage_title%5D=How+to+Reduce+Expenses%3A+6+Simple+Tips&cd%5Bpost_type%5D=post&cd%5Bpost_id%5D=15798&cd%5Bplugin%5D=PixelYourSite&cd%5Bevent_url%5D=fremont.edu%2Fhow-to-reduce-expenses-6-simple-tips%2F&cd%5Buser_role%5D=guest",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 11,
+      "domain": "consumercredit.com",
+      "url": "https://www.consumercredit.com/about-us/news-press-releases/2019/10-simple-ways-to-cut-expenses-and-save/",
+      "title": "10 Simple Ways To Cut Expenses And Save - Consumer Credit",
+      "word_count": 427,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.consumercredit.com/wp-content/uploads/2020/04/cutting-costs-picture640-300x199.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.consumercredit.com/wp-content/uploads/2020/04/ris_logo2.png",
+          "alt": "ris_logo2",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "September 13, 2019 When it comes to saving money, every dollar counts. Whether you want to save up for a down payment or a vacation, or if you need to fatten your emergency fund, you can help meet your financial goal by evaluating your current expenses and finding simple ways to cut back. Of course, saving may also require you to make some sacrifices and prioritize your needs over wants. To help get you started, consider these 10 cost-cutting tips from American Consumer Credit Counseling: Utilize public transportation. If you have access to public transportation, using it can save you a lot of money on parking, gas or even buying a car in general. Carpool. Split the cost of commuting by taking advantage of carpool lanes on your way to work. Carpooling can also reduce the wear on your car and, in turn, reduce future mechanical expenses. Unplug electrical devices. Most devices still draw electricity even when they\u2019re not in use. Be sure to unplug all devices that aren\u2019t in use to cut down on power costs. Reduce or get rid of cable. Downgrade from premium cable, or get rid of it altogether. Most of the main channels offer either free or minimal monthly subscriptions to stream shows. Cook at home. Going out for meals is not cheap, and the costs add up quickly. Cooking at home more often can significantly reduce your expenses. Also, consider cooking in bulk and freezing the leftovers for future family meals or bringing them to work for lunch. Buy off-brand. Buying off-brand products at grocery stores can add up to significant savings over time. There\u2019s often little to no difference between brand and off-brand items. You can also save by buying generic or store-brand drugs. Talk to your doctor about less expensive alternatives to name brands. Cancel gym memberships. Go for a run outside, hop on a bike and lift weights at home for a cheaper option to exercise. Turn off the lights. To save on electricity expenses, don\u2019t forget to turn off lights each time you leave a room. Insurance policies. Whether you\u2019re looking for health, life, property or auto insurance, always shop around for coverage. Then periodically check to ensure you\u2019re getting the best rates. Many insurance companies offer bundled discounts. Clothing. Buy clothes out of season when stores discount them. These are just 10 examples of the many ways you can reduce your expenses. Although some might seem like minor changes, the savings could add up big over time. Get creative, make some sacrifices and reap the benefits!",
+      "headings": []
+    },
+    {
+      "rank": 12,
+      "domain": "incharge.org",
+      "url": "https://www.incharge.org/financial-literacy/budgeting-saving/how-to-cut-your-expenses/",
+      "title": "12 Ways to Cut Spending and Expenses Effectively",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.incharge.org/wp-content/uploads/2015/06/Cutting-Expenses.gif",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://secure.gravatar.com/avatar/d4a5084eed5905347e979073cfff5135d2b1868f160c8f3cc8a28b71264ed1f4?s=150&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 13,
+      "domain": "northpointe.com",
+      "url": "https://www.northpointe.com/learn/banking-budgeting/everyday-ways-to-cut-expenses-and-start-saving-more/",
+      "title": "Everyday Ways to Cut Expenses and Start Saving More",
+      "word_count": 564,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.northpointe.com/wp-content/uploads/2148780554-e1734030149194.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.northpointe.com/wp-content/uploads/chevron_left.png",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.northpointe.com/wp-content/uploads/chevron_right.png",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "Everyday Ways to Cut Expenses and Start Saving More Everyday Ways to Cut Expenses and Start Saving More Saving money doesn\u2019t have to mean giving up everything you love. Sometimes, it\u2019s the small, everyday choices that make the biggest difference. Here are eight practical tips to help you trim unnecessary expenses and grow your savings. 1. the Takeout Cooking at home is one of the simplest ways to save money. While a takeout meal might cost $15, a homemade meal averages just $4. By swapping three takeout meals for home-cooked ones each week, you could save significantly over the course of a year. Pro Tip: Plan your meals in advance and prep ingredients on the weekends to make cooking quick and easy. 2. Brew Your Coffee That daily $5 coffee run may not seem like much, but over a year, it could add up to around $1,825! Brewing coffee at home costs as little as $0.50 per cup, which in comparison could save you more than $1,600 annually. Pro Tip: Invest in a quality coffee maker and experiment with different beans to replicate your favorite caf\u00e9 drinks at home. 3. Cancel Unused Subscriptions Do you really need multiple streaming services or that magazine subscription you forgot about? By canceling just one unused subscription at $15/month, you could save around $180/year. Pro Tip: Rotate your streaming services. to one at a time and cancel once you\u2019ve watched your favorite shows. 4. Shop Smart at the Grocery Store Impulse buys at the grocery store can easily add $50 or more to your bill. Stick to a list, plan meals ahead of time, and resist those tempting end-cap displays to stay on budget. Pro Tip: Don\u2019t shop hungry\u2014it\u2019s a recipe for overspending. 5. Cancel the Gym Membership The average gym membership costs $50 per month or $600 per year. Free workouts like jogging, online classes, or even bodyweight exercises at home can keep you in shape without the added expense. Pro Tip: Check out local parks\u2014they often have free fitness equipment or trails. 6. Rethink Your Transportation Habits Transportation costs, including gas, parking, and maintenance, can drain your wallet. Save money by walking, biking, or using public transit whenever possible. Carpooling with coworkers or friends is another great option to reduce costs. Pro Tip: Don\u2019t shop hungry\u2014it\u2019s a recipe for overspending. 7. Pause Online Shopping Online shopping can be a major budget-buster. To curb impulse buys, try waiting 24 hours before making a purchase. You might realize you didn\u2019t need it after all. Pro Tip: Remove saved credit card information from online stores to make shopping less convenient\u2014and give yourself extra time to think. 8. DIY When You Can Many everyday tasks can be done yourself with a little effort and creativity. Cleaning your home, doing your nails, or hosting a potluck dinner instead of going out can save you over the course of a year. Pro Tip: Look to YouTube for tutorials and inspiration\u2014it\u2019s a treasure trove of DIY knowledge. Start Saving Today By implementing even a few of these tips, you can cut expenses and redirect that money into savings. Whether you\u2019re building an emergency fund, planning for a big purchase, or saving for a home, every little bit helps. \ud83d\udca1 Ready to grow your savings? Explore Northpointe Bank\u2019s high-yield savings options at www.northpointe.com and take the first step toward achieving your financial goals today!",
+      "headings": []
+    },
+    {
+      "rank": 14,
+      "domain": "ramseysolutions.com",
+      "url": "https://www.ramseysolutions.com/saving/how-to-cut-costs?srsltid=AfmBOopjH-AM2n4-XkcSiFlE65svVS78d8kZHm-7GVMNRnacn7HGqUqY",
+      "title": "How to Cut Spending - Ramsey Solutions",
+      "word_count": 2684,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://cdn.ramseysolutions.net/media/blog/budgeting/spending/how-to-cut-spending.jpg",
+        "alt": "",
+        "description": "Professional studio portrait or clean financial graphic with bold branding.",
+        "type": "branded_studio_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://cdn2.ramseysolutions.net/dynamic/media/landing-pages/blog/author-bio-ramsey-large.jpg/48w.jpg",
+          "alt": "Ramsey Solutions",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.ramseysolutions.net/media/3_way_universal/blog/inline-icons/personal-development.png",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.ramseysolutions.net/media/everydollar/2025/articles/ads/Saving.png",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.ramseysolutions.net/media/blog/budgeting/spending/how-to-cut-spending-infographic.jpg",
+          "alt": "how to cut spending",
+          "description": "Data visualization or financial chart graphic.",
+          "type": "graphic_design_data"
+        },
+        {
+          "url": "https://cdn2.ramseysolutions.net/dynamic/media/landing-pages/blog/author-bio-ramsey-large.jpg/120w.jpg",
+          "alt": "Ramsey Solutions",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.ramseysolutions.net/media/blog/article-template/ask-ramsey-header.svg",
+          "alt": "Ask Ramsey",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.ramseysolutions.net/media/rscom/logos/flat-blue-50-ramsey-logo.svg",
+          "alt": "Ramsey Solutions",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "12 MIN READ | DEC 30, 2024 Link copied! Unable to copy link. Please try again. Key Takeaways If you want to save more, invest more, or make real progress on your goals, cutting spending is one of the fastest ways to create margin in your budget. Keeping your housing costs at or below 25% of your take-home pay protects you from becoming house poor and frees you up to build wealth. Food is one of the biggest budget busters, but meal planning, eating leftovers and skipping daily coffee runs will help you keep money in your pocket. Entertainment doesn\u2019t have to wreck your budget. Pause subscriptions, choose cheaper streaming options, and use free resources like library apps so you can have fun without the guilt. A zero-based budget is the key to winning with money because it gives every dollar an assignment and keeps your spending intentional. If you want to save more money, maybe to invest in retirement or add some cushion to your budget each month, one surefire way to do that is to cut spending . Okay, okay\u2014that\u2019s not rocket science. But you might need some inspiration for where to start. Get expert money advice to reach your money goals faster! Here you go: 24 ways to cut spending and save more money! How to Cut Spending on Home Expenses Saving on home expenses can mean changing up small habits for bigger savings over time, or in some cases, making a pretty big change for an instant win. Let\u2019s look at examples of both. 1. Go green(er). The first way to cut spending in your home is to make more energy-efficient life choices. Some of these are financial investments up front. But they all pay off in the end. For example, you can save on home expenses by turning off the lights when you leave a room, buying lightbulbs that have earned the Energy Star, buying a programmable thermostat, or washing your laundry in cold water instead of hot. Green changes like these can keep more green in your wallet. 2. Don\u2019t become house poor. You\u2019re house poor when too much of your income goes toward your mortgage or rent, leaving you feeling poor in all other areas. Yes, you need shelter. Yes, you want a nice place to live. But you don\u2019t want to spend so much on your house that you can\u2019t afford to make other money goals happen. Don\u2019t be house poor\u2014be house wise by making sure you\u2019re not spending more than 25% of your take-home pay on housing. (That includes your rent or mortgage plus HOA fees, taxes, insurance and PMI). This makes your home a blessing instead of a financial curse. Free Up Margin. Make Real Progress. The EveryDollar budget app helps you find hidden margin and put it to work so you can stack savings, crush debt, and build wealth that lasts. 3. Switch to reusable items. Okay, here\u2019s a tiny, practical way to cut spending. Stop buying paper towels, sandwich bags, and single-use water bottles. Switch to reusable items. Because guess what\u2014using the hand towels you already have tucked in a drawer or cabinet somewhere instead of a new paper towel sheet every time you make a mess means fewer trips to the store (and to the dumpster). It\u2019s a small change that will add up over time. 4. Buy generic. You don\u2019t need brand-name everything. You can splurge on a few items\u2014that\u2019s your right as a shopper. But look into how much you could save by buying generic grocery items , medications, trash bags, cleaning supplies and more. This is a quick and incredibly simple way to cut your spending every time you shop! 5. Make your own things around the house. Don\u2019t spend money on things you can make yourself. This is the day of DIY. Pinterest, YouTube and social media are full of tutorials on how to make your own soaps, household cleaners, dog food, laundry detergent, ant killer, face scrubs\u2014you get the idea. The list of DIY options is longer than this article. For a small investment in ingredients, you can save big in the long run on a lot of the daily essentials. 6. Use less water. You can also cut spending by lowering your bills. For example, work on using less water around the house. Take quicker showers. Don\u2019t run the dishwasher unless it\u2019s full. And turn the tap off while you\u2019re doing everyday things, like brushing your teeth or shampooing your hair. It\u2019s another small habit that\u2019s super simple and will add up to some serious savings. 7. Figure out if refinancing your mortgage is right for you. A lot of people refinance to get a lower monthly payment. And sure, that might free up some money in your budget today. But all it really does is keep you in debt longer. The right way to refinance is to sign up for a shorter mortgage term. That usually results in a higher mortgage payment, but it also gives you a quicker payoff date. And that will save you thousands in the long run. But how do you know if it\u2019s a good plan for you? First, learn everything you need to know about how to refinance your mortgage . Then, using our (free) mortgage calculator , run the numbers on your mortgage to see how much you could save. Before you make a final decision on a refinance though, always connect with a mortgage expert . How to Cut Spending on Food Where do Americans tend to overspend the most? Food. That makes it an easy target for savings. But maybe cutting your food budget down sounds impossible? Fear not. It\u2019s actually super possible. Here\u2019s how: 8. Meal plan. How does meal planning help you cut spending? Making an intentional plan for food helps you avoid all those \u201cOh no, what\u2019s for dinner?\u201d trips to the drive-thru. So, plan out each meal you\u2019re going to make in a week. Then you\u2019ll always have stuff on hand for breakfast, lunch, dinner and snack time. When you make a meal plan, you know what you\u2019ll be eating, so you know exactly what to buy. That means you spend less and waste less! 9. Eat leftovers. Once you make a meal, don\u2019t let what\u2019s left after dinner die a slow and moldy death in a Tupperware coffin in your fridge. That wastes food and money. Put that food to good use. Enjoy it for lunch the next day or put a leftovers night on the meal plan calendar for the week. This keeps you from buying new meals every mealtime, and it\u2019s a super easy way to stop spending money. 10. Brown-bag your lunch. Speaking of lunches\u2014stop your daily restaurant routine. And stop giving your dollars to the vending machine or office snack shop throughout the day. Remember how we said you should meal plan for snacks too? Keep some midday munchies at your desk and bring your lunch to work most days of the week. It\u2019s okay to eat out sometimes\u2014if it\u2019s in the budget. But bringing in leftovers or brown-bagging a sandwich, fruit and pretzels like you did in your middle school days is a wonderful way to cut spending on food. 11. Order your groceries online. When you order your groceries online , you can track the total cost as you go. Then if you\u2019re over budget, you can delete items from your virtual cart before you check out. You don\u2019t have to walk through the grocery store with a calculator in hand to make sure you aren\u2019t shocked at the register. You\u2019ll know exactly what you\u2019ll be paying before you complete the order, and you\u2019re far less likely to impulse buy that family-size bag of sour gummy worms. Try it out! Just remember, you\u2019re trying to cut costs, not add a new temptation into your life. So, if the online shopping makes you more spendy, go back to shopping in store. 12. Hit up those BOGOs, weekly ads and coupons. Stores with BOGO (buy one, get one) offers are basically begging you to save money . They\u2019re setting out their best offers so you can swoop in and grab them. How about following this money-saving move? Make those meal plans based on your grocery store\u2019s weekly ads. You can even stock up the pantry and freezer for the future. Just make sure your purchases fit your budget, never buy stuff just because it\u2019s on sale, and don\u2019t forget what you\u2019ve bought when you\u2019re making meal plans weeks later. Wasting isn\u2019t saving. And don't forget about coupons! You've probably heard it a thousand times, but it's true that coupons really do save you money . Even coupons you find online can sometimes be used at the physical store. 13. Brew your own coffee. If you\u2019re spending around $6 a day at your fave coffee shop, that adds up to $42 a week and around $180 a month. Instead, you could cut that expense down to around $25 a month by brewing your own coffee. Then put that $155 to work other places in your budget! How to Cut Spending on Entertainment So, yeah, entertainment can be expensive. But it doesn\u2019t have to be. Here are ways to cut spending on entertainment so you can have fun\u2014without the guilt. 14. Pause or cut subscriptions and memberships. Did you know instead of canceling a subscription or membership, you can sometimes pause or freeze it? Yup! Look through your apps and talk to your gym to see if they\u2019ll let you do this. While you\u2019re checking, ask yourself which of these you really need. We aren\u2019t out to bash these services. Some subscriptions are truly life-changing, and others are how you want to spend your fun money because you simply enjoy them. That\u2019s totally fine! But take some time to think about the stuff you don\u2019t really even use, watch or read. If you\u2019re trying to cut spending, cutting out that subscription box or magazine you never even open anymore could be just the thing. 15. Enjoy the great outdoors. There\u2019s a whole world out there, and it\u2019s just waiting to be explored on the cheap. Hiking. Biking. Running. Stargazing. Getting outside for fun is an easy way to save money in your entertainment budget line. Because budget-friendly ways to reward yourself are a thing. An awesome thing! 16. Plan creative dates. Myth: Expensive dates are the only way to keep romance alive. Truth: You don\u2019t have to spend a lot of money to show a lot of love. Cut your date night spending by planning creative, budget-friendly dates you\u2019ll actually want to go on . Fill a picnic basket with popcorn, apples, an assortment of cheeses and chocolate (of course)\u2014then take it on a fun hike. Bring home Chinese takeout and eat straight out of the boxes while streaming your favorite show. Browse the aisles of a used bookstore before grabbing coffee and dessert. Enjoy the quality company more than the cost. 17. Evaluate your TV choices. If you\u2019re paying high prices for your cable package but watching very few of the channels, you aren\u2019t alone. Plenty of people are realizing they can save money and still get all the shows they want (and more!) by switching to streaming services . Look into YouTube, Hulu, Netflix or Amazon Prime Video. Try watching recently aired episodes online. You don\u2019t have to jump back to medieval days where your only entertainment was watching the knights joust. Just trade that cable bill for a lower-priced\u2014but still awesome\u2014option. 18. . Calling all book lovers . . . Listen up! Libraries have officially joined the digital age. You no longer need to get off the couch, drive to your local library, and find a parking spot to check out a book. Library apps are becoming more popular\u2014and they\u2019re free! You can browse for the book you want, put a hold on it (if it\u2019s not immediately available) and then check it out when the time is right. It\u2019s super easy and won\u2019t cost you a dime! Other Ways to Cut Spending We\u2019ve got a few more money-saving tricks up our sleeve. Here are some of our final tips on how to cut spending. 19. Take shopping apps off your phone. Okay, don\u2019t freak out. We aren\u2019t saying you should never ever shop online. But when you take those store apps off your phone, you build a barrier between you and mindless scroll-shopping. With those apps, your thumbs can just tap-tap-tap things you don\u2019t really even need into your cart and into your mailbox. But you\u2019ll think twice before getting on the laptop to buy that new sweater if you\u2019ve got to get up off the couch to make it happen. 20. Go on a short-term spending freeze. If you want to really challenge yourself, go on a spending freeze. This can mean doing a no-spend month challenge or jumping into a \u201cnothing but the essentials\u201d week\u2014or month! But if you decide to spend no money at all for an entire day, please check your gas tank first. (That\u2019s another pro tip! Nobody wants you stranded on the side of the road.) Spending freezes are a great way to cut spending for a while. They can also help you become more aware of your spending tendencies and more thankful for the stuff you already have. 21. Ditch your credit cards. The best way to get ahead? Stop getting behind. Sounds logical, right? So, apply that logic to your money! Using credit cards gets you behind in your finances because you\u2019re still paying for your past. Instead, ditch the credit cards, switch to cash only, and start owning stuff for real. When you cut those debt payments out of your budget, you can put that extra money toward your savings goals. That\u2019s progress. That\u2019s beautiful. 22. Buy used. Use common sense on this. Don\u2019t buy used tires, toothbrushes or tacos. But if you\u2019re in the market for a car, tools, baby clothes, video games, books or a pet (shelter fur babies for the win!), then you\u2019ll cut how much you spend by purchasing gently used items instead of new ones. 23. Wait before you buy. If you\u2019re looking at a big purchase, spend time checking prices, weighing the pros and cons, and thinking over if you really need the thing before you buy it. Sure, you wanted that new, genuine leather, flannel-lined laptop case the moment you first laid eyes on it. But will you still want it six months from now? Impulse buying can be expensive. Practice a little patience before making bigger purchases. You can save money by finding a lower price during that research time\u2014or cut the cost completely by deciding not to buy after all. 24. Create a budget. Okay, we\u2019ve been using the word budget a lot. Here\u2019s why: If you want to cut your spending, the first step is to make a plan for where your money should go. Every. Single. Dollar. That plan is called a budget . Now, we know a lot of people hate the word budget . It sounds restrictive. It sounds boring. It sounds difficult. Ramsey\u2019s EveryDollar budget app helps you find that hidden money fast and gives you step-by-step guidance to use it with purpose. Whether you want to knock out debt, stack up savings, or fund some fun, start EveryDollar for free and make it happen. Get Weekly Insights Delivered Straight to Your Inbox Did you find this article helpful? Share it! About the author Ramsey Solutions has been committed to helping people regain control of their money, build wealth, grow their leadership skills, and enhance their lives through personal development since 1992. Millions of people have used our financial advice through 22 books (including 12 national bestsellers) published by Ramsey Press, as well as two syndicated radio shows and 10 podcasts, which have over 17 million weekly listeners. Learn More. Get proven Ramsey answers fast. By continuing on our site, you consent to our use of cookies and other tracking technol",
+      "headings": []
+    },
+    {
+      "rank": 15,
+      "domain": "ncoa.org",
+      "url": "https://www.ncoa.org/article/how-can-i-save-more-money-6-tips-for-reducing-your-expenses/",
+      "title": "How Can I Save More Money? 6 Tips for Reducing Your Expenses",
+      "word_count": 1800,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://assets-us-01.kc-usercontent.com/ffacfe7d-10b6-0083-2632-604077fd4eca/e4e5c834-37e3-4927-a1d1-8d432601800c/Top-Ways-to-Cut-Expenses_iStock-1207226781_2022-09-Facebook-1200x630.jpg",
+        "alt": "Good money management sometimes means you have to spend less, especially if you\u2019re on a tight budget. Maintain financial stability by saving more money with these 6 tips.",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.ncoa.org/_next/image/?url=https%3A%2F%2Fassets-us-01.kc-usercontent.com%3A443%2Fffacfe7d-10b6-0083-2632-604077fd4eca%2Fc3bb9694-21d3-4c79-91a8-05fa1bb1be7f%2FBank_of_America_1998.svg.png&w=3840&q=75",
+          "alt": "Bank of America logo",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.ncoa.org/_next/image/?url=https%3A%2F%2Fassets-us-01.kc-usercontent.com%3A443%2Fffacfe7d-10b6-0083-2632-604077fd4eca%2Fa7e2b9e4-0ac8-4def-82ec-ec9dfe7a33b5%2FTop-Ways-to-Cut-Expenses_iStock-1207226781_2022-09-Hero-1336x614.jpg&w=3840&q=75",
+          "alt": "Good money management sometimes means you have to spend less, especially if you\u2019re on a tight budget. Maintain financial stability by saving more money with these 6 tips.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.ncoa.org/_next/image/?url=https%3A%2F%2Fassets-us-01.kc-usercontent.com%3A443%2Fffacfe7d-10b6-0083-2632-604077fd4eca%2Fd626387e-2119-426d-b82c-9858b20243c6%2FSenior-Asian-woman-calculating-financials-savings_Hero_iStock-1196474388_2021-05_1336x614.jpg&w=3840&q=75",
+          "alt": "A senior Asian woman is calculating her financials, looking for ways in which she can save in retirement.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "Have you ever wanted\u2014or needed\u2014to reduce your monthly expenses? If so, you may relate to Ms. W\u2019s story. Ms. W lives alone and worries constantly about how she will continue to make ends meet\u2014especially at a time when inflation threatens to outpace her income and savings. \u201cThe groceries are going up so high, my rent is going up, and although I have some funds in reserve, they\u2019re starting to dwindle,\u201d explained this 93-year-old resident of Colorado City, Colorado. \u201cI mean, it\u2019s just me, I don\u2019t get any help from anyone.\u201d Like most older Americans, Ms. W also faces health care costs not covered by Medicare. A nationwide survey from the John A. Hartford Foundation showed that older adults are more worried about health care costs than inflation, living expenses, tax increases, and the threat of a recession. Only 16% reported being satisfied with their out-of-pocket health care costs. 1 \u201cTaken together, the basic costs of daily living are impacting Ms. W\u2019s financial security and her ability to continue aging in place ,\u201d said Jessica Johnston, NCOA's Senior Director for the Center for Economic Well-Being. And her situation reminds us that as we live longer, our savings need to last longer, too.\u201d That\u2019s why setting up a budget \u2014one that includes specific savings goals and a plan for achieving them\u2014is an essential practice for every older adult, Johnston stressed. Still, even when you have strong money management skills and a nest egg too, factors outside your control, such as sudden rent increases, can change at any time. And that can mean bad news for your bottom line. If you need to find more room in your budget, and earning additional income isn\u2019t an option , cutting your expenses is a good place to start. Even better, you don\u2019t have to wait until you\u2019re faced with a financial crisis to do it. When you proactively reduce your spending on things you want, but don\u2019t actually need, you can put more money into your savings each month. Ready to cut your expenses? Start by knowing what they are. This may sound obvious. But, according to Johnston, many people truly don\u2019t understand how much they spend, or even what they spend it on. Finding your baseline is a necessary first step toward making the changes you need to. For example: think of something you might do every day that costs money. Perhaps you like to visit your favorite coffee shop in the morning or rent a new release after dinner. Paying a few dollars at a time for each cup of coffee, or movie, may not feel very extravagant. But when you add it all up at the end of the month, you might be unpleasantly surprised. \u201cThere\u2019s something powerful about seeing the numbers in black and white,\u201d Johnston explained. \u201cGetting them out of your head and onto paper lends a clarity to your financial situation that you otherwise might not have.\u201d Set some time aside to go through your check register, bank statements, and other financial records and list out everything you spend your money on. This includes your monthly fixed expenses, such as your mortgage or rent; your flexible expenses, such as groceries; and your discretionary expenses, such as entertainment and gifts. Johnston recommends gathering this information for at least the previous three months. This will help you identify trends\u2014like unbudgeted daily splurges, or a creeping telephone bill\u2014and take steps to address them if needed. If you use online banking , you can save time and effort by running built-in reports of your income and expenses by category. If not, consider creating a budget calendar for easier visibility into your finances moving forward. And remember: when it\u2019s time to slash your spending, it helps to frame the activity in positive terms. \u201cYou\u2019re empowering yourself to take better control of your money and maintain your financial stability,\u201d said Johnston. \u201cAnd that can feel really good.\u201d 6 easy ways to reduce your expenses right now 1. Cut your cable or streaming channels This doesn\u2019t mean getting rid of the TV you love entirely. But it does mean taking a hard look at your plan and figuring out where you might be able to save some money. Nowadays, most cable providers bundle your television channels, internet connection, and sometimes even your home telephone service. Many streaming providers like Hulu and Disney are also partnering to offer discounted service bundles. Start by asking yourself: Do I watch all of these channels? Do I require this internet speed? Do I need a land line? If you answered \u201cno\u201d to any of these questions, you may be able to lower your monthly bill by choosing a different level of service, cancelling streaming subscriptions, or eliminating your home phone. And even if you answered \u201cyes,\u201d you still might succeed in saving money. Big-name companies notoriously compete for business. If you have the time and motivation to shop around, you might uncover a better deal. Your current provider may even offer to match a lower price if you find one elsewhere. \u2705 Good to know: Most major cable companies offer a senior discount of up to 10%, so it pays to inquire with yours. 2. Moderate your meals This does not mean skipping breakfast, lunch, or dinner. It does mean re-evaluating how much you pay for restaurants and takeout. According to the Bureau of Labor Statistics, U.S residents spend, on average, about $3,933 dollars each year on food away from home. 2 That\u2019s as much as $328 per month! Shopping for ingredients and making meals in your own kitchen might feel less convenient\u2014but the benefits to your wallet can be significant. If it\u2019s hard for you to get to a grocery store and your income is limited, you might consider Meals on Wheels\u2014a low-cost (and often free) alternative to restaurant delivery that\u2019s available in virtually every community throughout the United States. To find a program near you, enter your ZIP code into NCOA\u2019s BenefitsCheckUp. There, you can also explore a variety of other food and nutrition benefits that can help you eat well so you can age well. \u2705 Good to know: There are many different ways you can save money on grocery delivery , too, including senior discounts and coupons. 3. Prune your premiums If you have a car, it pays to compare insurance plans. Many companies offer lower rates for older cars, discounts for clean driving records, and incentives for low mileage, safe habits, and more. If you own your home, be sure to ask about discounts for safety improvements such as upgraded electrical systems, smoke and carbon monoxide detectors, and alarm systems. In both cases, you can lower your monthly costs by choosing a higher deductible plan, if that makes sense for your budget and your level of risk tolerance. And don\u2019t overlook the opportunity to bundle your policies with the same insurer. If offered, this usually translates to cheaper rates for you. \u2705 Good to know: While it\u2019s true that car insurance premiums typically start to increase once you reach age 60, many companies do offer discounts for senior drivers, according to insurance.com . Some states even mandate such discounts. Don\u2019t miss out on these potential savings; be sure to ask your insurance carrier. 4. Shrink your subscriptions Do you still use that professional networking service you joined years ago? Are you still paying for a print magazine you sent once as a holiday gift but that somehow keeps getting charged to your credit card? These days, many consumer services operate via subscription. This makes it easy to lose track of which ones you have and whether they automatically renew (hint: most of them auto-renew). Review your list of expenses, and your email inbox, for clues about recurring subscriptions you may have forgotten about entirely. Then, go ahead and cancel anything you haven\u2019t used in several months. \u201cIt\u2019s one of the simplest things you can do to save extra money,\u201d Johnston said, \u201cand it\u2019s risk-free because it\u2019s reversible. You can always sign back up.\u201d \u2705 Good to know: If you do want to keep your subscriptions, you may have the opportunity to save some cash. Many companies will discount the total cost if you pre-pay for an additional year when you renew, for instance. Check out the fine print on your service contracts to see whether this applies. 5. Slash your cell service Depending on your plan, you may be able to save on your data, text messaging, and minutes. Ask your carrier about their different tiers of service and if they can help you find one that works best for you. You might even consider joining up with other consumers if you can. Some carriers offer hefty discounts through umbrella \u201cfriends and family\u201d plans. It\u2019s worth checking out prepaid, pay-as-you-go, and discount services, too, which are generally less expensive and don\u2019t require you to commit to a lengthy contract. \u2705 Good to know: Most major providers offer special deals on mobile plans for adults 55+, so be sure to ask if yours has one and whether you qualify. 6. Whittle your wants No one wants to sacrifice buying, or doing, the things they most enjoy. But making that distinction between \u201cnice to have\u201d and \u201cneed to have\u201d is huge when it comes to your budget. \u201cDiscretionary expenses are usually the easiest to cut, yet often the hardest to give up,\u201d Johnston said. \u201cRemember your reasons for making these changes and you may be surprised by how little you miss certain things.\u201d \u2705 Good to know: Many businesses, from restaurants to even airlines, extend senior discounts if you ask. If you\u2019re not quite ready to give up your daily coffee or movie, you might be able to save some money on it! Find more ways to put money back in your pocket Cutting your expenses is one way to boost your budget. Federal and state benefits programs are another, as Ms. W discovered. Today, she is tremendously grateful for the knowledgeable, caring staff at the Colorado Benefits Center, who helped her apply for Supplemental Nutrition Assistance Program ( SNAP ) assistance. \u201cNow I actually have funds to allocate to rent and medical bills without worrying how I\u2019m going to pay for groceries,\u201d she said. Could you qualify for similar assistance? NCOA\u2019s BenefitsCheckUp \u00ae is a free online tool that connects millions of older adults to programs that help pay for food, health care, prescription drugs, utilities, transportation, and more. Visit today and enter your ZIP code to discover resources personalized for you. Sources 1. The John A. Hartford Foundation. Warning From Older Adults: Care for Aging in America Needs Urgent Rethinking. September 17, 2024. Found on the internet at https://www.johnahartford.org/newsroom/view/warning-from-older-adults-care-for-aging-in-america-needs-urgent-rethinking 2. U.S. Bureau of Labor Statistics, Consumer Expenditures Survey 2023. Found on the internet at https://www.bls.gov/opub/reports/consumer-expenditures/2023/",
+      "headings": []
+    },
+    {
+      "rank": 16,
+      "domain": "youtube.com",
+      "url": "https://www.youtube.com/watch?v=Pt4NdXG9zQQ",
+      "title": "5 Quick Ways to Cut Costs (Even If You Love to Spend) - YouTube",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 17,
+      "domain": "forbes.com",
+      "url": "https://www.forbes.com/sites/joshuabecker/2024/01/12/101-simple-ways-to-lower-your-living-expenses/",
+      "title": "101 Simple Ways To Lower Your Living Expenses - Forbes",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://imageio.forbes.com/specials-images/imageserve/65a07616f1406ea6e6e316d4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "alt": "",
+        "description": "High-end editorial stock photography or crisp financial illustration.",
+        "type": "premium_editorial_asset"
+      },
+      "article_images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65a07616f1406ea6e6e316d4/ben-iwara-Op7du4iNrxk-unsplash/0x0.jpg?width=960",
+          "alt": "ben-iwara-Op7du4iNrxk-unsplash",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1290x/https://www.forbes.com/advisor/wp-content/uploads/2020/12/getty_1-best-online-savings-thumbnail_101920pm.jpg",
+          "alt": "Graphic Best High-Yield Savings Accounts Of 2024",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/900x510/https://www.forbes.com/advisor/wp-content/uploads/2023/09/Saving-Rates-2.jpg",
+          "alt": "Graphic Best 5% Interest Savings Accounts of 2024",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 18,
+      "domain": "stepchange.org",
+      "url": "https://www.stepchange.org/debt-info/reducing-your-spending.aspx",
+      "title": "How To Reduce Spending. Free Money Advice. StepChange.",
+      "word_count": 1129,
+      "scrape_status": "tavily_fallback",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": "Our services and solutions Debt solutions in Scotland More ways to get help Don't know where to start? Answer a few questions, so we can find the best way to help Got a debt question? Popular searches More about us Working together Debt in the UK StepChange in Parliament We work with parliamentarians on briefings, events & debt trends The latest debt trends & analysis from our industry experts Get involved Client support OnlineDMP login Log back in to OnlineDMP to manage your DMP Other ways to get in touch Get debt help online now Get free advice on how to deal with your debt online from the UK's leading debt charity ### Worried about money? Answer some quick questions to find out what help you need. Get started now ## Reducing your spending # How to reduce your spending Reducing your spending can open up different ways to deal with money worries. At the very least, you can aim to free up an amount each month to keep on track with payments. We know it can seem hard. But we have helped millions of people over the years, so we have lots of tips for spending less. ### Worried about money? Answer some quick questions to find out what help you need. Get started now ## Home, rent and mortgage ### Save money as a private renter \u203a Make sure you rent from an \u2018accredited\u2019 landlord. This protects you if you have a dispute. Renting an unfurnished home may save money on the long-term. ### Spend less on insurance \u203a Shop around and tell your provider you have a better offer or cut back on insurance you don\u2019t need. Make sure you don\u2019t pay a fee to leave your contract early. ### Spend less on energy bills \u203a The golden rule is: Heat the person, not the room. You may be able to apply for support with insulating your home, which will mean you can turn down the heating. ### Switch utility providers \u203a Energy providers compete with one another to offer the best deals. They sometimes offer big discounts to new customers. Keep a close eye on the comparison sites. ### See if you can get a council tax discount \u203a You may be able to get one if you are on a low income, on benefits or the only person in your home. Check with your local council and complain if your rate is wrong. ### Unlock your options as a homeowner Find out more about how to deal with mortgage arrears, fixed rate ending, how debt can affect your home - and more. ## Health and family ### Spend less when raising a family \u203a Make sure you are not missing out on all the financial support available. Especially if you are raising a child on your own. Make the most of free resources for parents. ### Spend less during the school holidays \u203a From activities at the local library through to cheap travel on public transport. It doesn\u2019t have to cost a lot to entertain the whole family. Yes, even if it is raining. ### Spend less on prescriptions Save money by buying a Pre-Payment Prescription Certificate (PPC). This could save you a lot of money if you have a lot of medication to take regularly. ## Day-to-day costs ### Spend less on food \u203a Batch cook, stick to a strict shopping list, make the most of coupons and special offers. These small changes, and more, all add up. You can eat well and spend less. ### Spend less on clothes \u203a From keeping track of what is in your wardrobe, to covering the cost of school uniforms. Clothes are not a luxury, they are essential. And finding bargains does not have to be a mission. ### Spend less on transport \u203a Keep track of money-saving deals and try to book ahead or travel off-peak. Buy a season ticket for work to save even more \u2013 and use it \u2018for free\u2019 on your days off. ## Entertainment and lifestyle ### Spend less on your social life \u203a Tell your friends and family you are avoiding spending. They will understand. Have \u2018pot luck\u2019 nights in or join late and leave early (before the last bus) on nights out. ### Make money last until payday \u203a Keep a spending diary and break the over-spending patterns you spot. Use cashback and loyalty points. Make the most of outdoor space (it\u2019s free) to meet up with friends. ### Spend less on mobiles, broadband and TV \u203a Have an audit and only keep the paid-for channels you get the most out of. Haggle with your phone provider or apply for a \u2018social tariff\u2019 to pay a reduced rate. ### Avoid too good to be true \u2018bargains\u2019 \u203a Black Friday deals, and similar, can be really tempting. But it is only a good deal if you were going to buy it in the first place. Only buy one, get one free if you will use both. ### Spend less on toiletries and cleaning products Own brand products can be much cheaper and just as good. Only buy what you have on your shopping list. And make the most of coupons and cashback offers. ### Cover emergencies \u203a A cost that comes without warning can leave you out of pocket. Put money aside to cover repairs and more. Fill a jar with loose change or create an online savings pot. ## Not found what you are looking for? We have the answers to your debt and money questions. our guides for help with bailiffs, CCJs and lots more. ### Related articles StepChange Debt Charity is rated 4.9 out of 5 Based on ratings given in the last year by clients who were polled three months into their solution. Read our reviews StepChange Debt Charity is rated 4.9 out of 5 Based on ratings given in the last year by clients who were polled three months into their solution. Read our reviews 4.9 out of 5 Based on ratings given in the last year by clients who were polled three months into their solution. #### Our debt solutions #### Guides and services #### About us #### About this site Foundation for Credit Counselling, 123 Albion Street, Leeds, LS2 8ER trading as StepChange Debt Charity and StepChange Debt Charity Scotland. A registered charity no.1016630 and SC046263. It is a limited company registered in England and Wales (company no:2757055). Authorised and regulated by the Financial Conduct Authority (Firm Registration Number 729047) We link to external websites where they contain relevant information for our visitors. We're not responsible for the content of these websites, or any infringement on your data rights under data protection regulations by any external website provider. \u00a9 StepChange Debt Charity 2026",
+      "headings": []
+    },
+    {
+      "rank": 19,
+      "domain": "justbudget.com.au",
+      "url": "https://www.justbudget.com.au/cut-household-costs/",
+      "title": "10 Ways To Cut Household Costs This Year - Just Budget",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.justbudget.com.au/wp-content/uploads/2025/03/10-ways-to-cut-household-costs-this-year.jpg",
+        "alt": "10 Ways to Cut Household Costs This Year",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.justbudget.com.au/wp-content/uploads/2026/02/debt-consolidation-australia.png",
+          "alt": "debt-consolidation-australia",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.justbudget.com.au/wp-content/uploads/2025/09/does-a-debt-management-plan-affect-your-credit.png",
+          "alt": "does a debt management plan affect your credit",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.justbudget.com.au/wp-content/uploads/2025/07/motorcycle-loan-calculator.png",
+          "alt": "Motorcycle Loan Calculator",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 20,
+      "domain": "finances.extension.wisc.edu",
+      "url": "https://finances.extension.wisc.edu/articles/cutting-expenses-and-increasing-income/",
+      "title": "Cutting Expenses and Increasing Income - Financial Education",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://finances.extension.wisc.edu/files/2020/12/pexels-tirachard-kumtanom-733856.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    }
+  ],
+  "battle_plan_generated_at": "2026-04-26T10:47:24.828870+00:00",
+  "competitors_analyzed_count": 5,
+  "battle_plan_method": "local_deterministic_agent_no_api"
+}

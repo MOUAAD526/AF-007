@@ -1,0 +1,716 @@
+{
+  "article_context": {
+    "angle": "Manual tracking (pen/paper/excel) vs. automated apps for awareness and behavior change",
+    "pain_points": [
+      "Tracking spending without meaningful insight or action",
+      "Unidentified recurring expenses/money leaks",
+      "Groceries/food spending being high, ambiguous, or a target for cuts",
+      "Income sufficient but no money left/paycheck-to-paycheck living",
+      "Unplanned expenses wiping out savings progress"
+    ],
+    "top_social_questions": [
+      "How much of your paycheck should you put into savings?",
+      "How to cut spending without feeling miserable?"
+    ],
+    "dominant_emotion": "Confusion/Frustration over tracking vs. results",
+    "serp_intent": "Searchers for \"saving money on power bill\" want actionable tips, habits, and strategies to reduce electricity usage and lower utility costs without major lifestyle changes. The SERP intent is informational, dominated by guides on energy efficiency, appliance tweaks, and bill auditing from sites like energy.gov, Consumer Reports, and personal finance blogs.",
+    "serp_title_pool": {
+      "primary": [
+        "Any tips for saving money on utilities? : r/Frugal - Reddit",
+        "Ways to Lower Your Bill | PG&E",
+        "Reducing Electricity Use and Costs - Department of Energy",
+        "Here Are 23 Ways to Save On Your Electric Bills Right Now - CNET",
+        "Save Money On Energy - SCE",
+        "[PDF] 12 easy ways to save money on your electric bill - Pahrump, NV",
+        "5 Effective Tips For Lowering Your Utility Bills",
+        "How to Lower Your Energy Bills in Any Season",
+        "Tips for saving on your electric bill - YouTube",
+        "10 Ways to Cut Your Power Bill and Save on Utilities in California",
+        "Energy Saving Tips for Your Home - PSEG",
+        "How to Save Energy & Money On Electric Bills at Home | PGE",
+        "6 ways to save money on your electric bill - Vital Signs",
+        "Here's What's Working to Lower Our Energy Bills Right Now - YouTube",
+        "10 Ways to Save Money on Your Electricity, Gas, and Water Bills | SoFi",
+        "10 Ways to Save Money on Your Electric Bill",
+        "Residential Energy Saving Tips - Maryland Energy Administration",
+        "How to Lower Your Electric Bill | Constellation",
+        "Low- to No-Cost Tips for Saving Energy at Home",
+        "10 Ways to Save Energy and Lower Utility Bills | Real Estate"
+      ],
+      "long_tail": [
+        "5 Gadgets That Make It Easy to Save Energy, Water, and Money",
+        "23 Everyday Items That Save People Money - BuzzFeed",
+        "What are some must have items that save you money? - Reddit",
+        "10 Home Gadgets Designed to Save You Money - AOL",
+        "10 Home Gadgets Designed to Save You Money - Yahoo Shopping",
+        "10 Amazon Gadgets That Can Save You Money Over Time - BGR",
+        "10 Gadgets That Can Save You Money | HowStuffWorks",
+        "These 21 Products Will Save You Money in the Long Run | theSkimm",
+        "100+ Amazing Tools That Save Me Time, Money, and Sanity",
+        "9 Money-Saving Gadgets That Pay for Themselves - Bob Vila"
+      ],
+      "question": []
+    },
+    "paa_questions": [
+      {
+        "q": "What should I unplug to save on my electric bill?",
+        "a": "Unplug appliances such as computers and monitors, coffee makers, toasters, and others when not in use. Believe it or not, appliances continue to draw power even when they are switched off."
+      }
+    ],
+    "related_searches": [
+      "Saving money on power bill reddit",
+      "Saving money on power bill california",
+      "Cut electric bill by 75 percent",
+      "How to save money on electric bill thermostat",
+      "How to save on electric bill in winter",
+      "How to save money on utilities in an apartment",
+      "10 ways to save electricity at home",
+      "Why did my PG&E bill doubled"
+    ]
+  },
+  "primary_keyword": "saving money on power bill",
+  "competitors": [
+    {
+      "rank": 1,
+      "domain": "reddit.com",
+      "url": "https://www.reddit.com/r/Frugal/comments/17s69gu/any_tips_for_saving_money_on_utilities/",
+      "title": "Any tips for saving money on utilities? : r/Frugal - Reddit",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 2,
+      "domain": "pge.com",
+      "url": "https://www.pge.com/en/save-energy-and-money/ways-to-lower-your-bill.html",
+      "title": "Ways to Lower Your Bill | PG&E",
+      "word_count": 173,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.pge.com/content/experience-fragments/pge/en/site/header/master/_jcr_content/root/header/image.coreimg.jpeg/1759521030312/pge-logo-95x100.jpeg",
+        "alt": "Pacific Gas and Electric Company logo",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.pge.com/en/save-energy-and-money/ways-to-lower-your-bill/_jcr_content/root/container_componentsl31/hero_component.coreimg.jpeg/1735592794635/high-bills.jpeg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.pge.com/en/save-energy-and-money/ways-to-lower-your-bill/_jcr_content/root/container_137824971/teaser_image.coreimg.jpeg/1735071002335/energy-action-guide-teaser.jpeg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "Our tools can help you save money and manage your bills Get started with 5 key strategies To control your energy usage, manage your bill and save money, it\u2019s helpful to: Understand your bill. Make sure you are on the best rate and know when rates are lowest. Insulate your home to keep the warm or cool air inside and block the outside air from coming in. Find discounts and programs that can save you money. Get help with past due bills. Find payment options to help manage your bill. PG&E Energy Action Guide Find product and program guidance to save energy and money to meet your energy needs. More energy-saving resources Bill Forecast Alert A free and easy tool that sends an alert when your monthly bill is projected to exceed an amount you set. Get alerts by: Email Text Phone Connect to the Apple Home app Access and understand electricity usage and rate plan information, right from your Apple device. Manage your energy usage Access, monitor and manage your energy usage.",
+      "headings": []
+    },
+    {
+      "rank": 3,
+      "domain": "energy.gov",
+      "url": "https://www.energy.gov/energysaver/reducing-electricity-use-and-costs",
+      "title": "Reducing Electricity Use and Costs - Department of Energy",
+      "word_count": 417,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.energy.gov/sites/default/files/2021-10/iStock_000005024531Medium.jpg",
+        "alt": "Electric use",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [],
+      "body_text": "Reducing energy use in your home saves you money, increases our energy security, and reduces the pollution that is emitted from non-renewable sources of energy. If you are planning to install a small renewable energy system to make your own electricity , such as a solar electric system or small wind turbine, reducing your electricity loads is the first step because it allows you to purchase a smaller and less expensive system. First look at your utility bill. The national average electricity consumption is about 1000 kWh/month. If you use more, even greater savings may be possible. There are many ways you can reduce electricity use in your home: Appliances and electronics -- Purchase energy-efficient products and operate them efficiently. Use an advanced power strip to reduce \"vampire loads\"--electricity that is wasted when electronics are not in use. Lighting -- Purchase energy-efficient lighting, operate them efficiently, and incorporate more daylighting into your home using energy-efficient windows and skylights . Electric space heating and cooling -- Purchase energy-efficient electric systems and operate them efficiently. Incorporate passive solar design concepts into your home, which include using energy-efficient windows . Properly insulate and air seal your home. Select an energy-efficient heating system that doesn't use electricity. Electric water heating -- Purchase an Energy Star heat pump water heater and operate it efficiently . Reduce your \u201calways-on\u201d appliances. If your home has a smart meter and you can see your hourly consumption, then examine your consumption at 3AM. It should be significantly less than your use at 7pm. If it isn\u2019t then you might have \u201cvampire loads.\u201d. Look for electronics that you don\u2019t use (like DVD players!) or can switch off, or perhaps get rid of that extra refrigerator. To improve the overall energy efficiency of your home, see the Energy Saver home energy assessment page. Time-Based Electricity Rates Many utilities are introducing programs that encourage their customers to use electricity during off-peak hours. The programs pass on the savings to you, the customer, through rebates or reduced electricity rates. Smart meters and home energy management systems allow customers to program how and when their home uses energy. If you are able to shift your power use to off-peak times -- such as running your dishwasher late in the evening -- these programs can save you money. Time-based rates are very attractive to owners of plug-in hybrids and electric vehicles since typically these vehicles are recharged at night. See buying and driving fuel efficient and alternative fuel vehicles for more information.",
+      "headings": []
+    },
+    {
+      "rank": 4,
+      "domain": "cnet.com",
+      "url": "https://www.cnet.com/pictures/here-are-23-ways-to-save-on-your-electric-bills-right-now/",
+      "title": "Here Are 23 Ways to Save On Your Electric Bills Right Now - CNET",
+      "word_count": 1398,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.cnet.com/a/img/hub/2019/07/26/6e2a7516-91b8-4818-8a8d-5db444bc2f54/wyze-bulb-2-720.jpg",
+        "alt": "smart-bulbs.jpg",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/3d5691e4c5aff9f7138c54348e90d5277544dea1/hub/2019/03/11/f05b19a1-3b7a-445a-9a53-e1a5de34eae9/electric-bill.png?auto=webp&width=1200",
+          "alt": "A pen and some stamps on top of an electric utility bill",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.cnet.com/a/img/resize/1b14716bd0d77eeb9fc96e4f6ee6c1d2ceb5700e/hub/2016/09/02/52789787-86c8-4309-9a06-5e86a8f7ec0b/electroluxcomfortliftdishwasherifaphotos-4.jpg?auto=webp&width=1200",
+          "alt": "A full dishwasher with various plates and bowls.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.cnet.com/a/img/resize/d6c4a3545fa4500b4d63fcb64e8c2d1549960308/hub/2017/10/31/721701b4-34d8-4c82-b3e1-a368f0571d4e/frigidaire-fgid2476sf-dishwasher-9.jpg?auto=webp&width=1200",
+          "alt": "Close-up of standard dishwasher settings: Surge wash pressure, normal wash temp, and heated dry are set to on.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.cnet.com/a/img/resize/fe29da35b6f49044de1ddb0624276af79dd584eb/hub/2015/12/24/0b1756c2-2163-45c0-a985-cc99cb054d0e/lgdishwasherproductphotos-2.jpg?auto=webp&width=1200",
+          "alt": "Top-down view of clean dishes, bowls and mugs in a dishwasher.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.cnet.com/a/img/resize/da0a4aed064875b7b41a5fe22cdb89aa15e78b49/hub/2019/03/20/fa37179a-b580-4024-899d-27c33c949206/cnet-smart-home-basement-bedroom-ceiling-fan.jpg?auto=webp&width=1200",
+          "alt": "Five-arm ceiling fan with overhead lights",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.cnet.com/a/img/resize/4983039dcc63286c62dbdcdab4b48928b61f021c/hub/2019/04/25/b755604f-d8d4-4806-8e8b-85718b41e9ca/cheap-smart-bulbs-promo.jpg?auto=webp&width=1200",
+          "alt": "Seven LED lightbulbs arranged in a flower shape.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.cnet.com/a/img/resize/27ac5197bf3c29da40d6a56beb5184c16df63a4e/hub/2019/08/23/fcb4f010-6504-4d97-b82c-a7457cb7b680/ge-led-plus-color-bulb.jpg?auto=webp&width=1200",
+          "alt": "Close-up of a GE LED lightbulb against a leafy background",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.cnet.com/a/img/resize/b4d02683f4dade08c1405815048df0f976541021/hub/2020/01/09/fbdd4a9e-00d8-44cb-88b1-33c93dff76d8/002-ge-oven.jpg?auto=webp&width=1200",
+          "alt": "Stovetop with open oven door",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.cnet.com/a/img/resize/dd1733183035c200a87c6fe36859b11cdfcbaa6d/hub/2018/04/06/2e1031a5-c417-4e34-9b8e-6324c66a4f35/samsung-ne59m6850-oven-product-photos-5.jpg?auto=webp&width=1200",
+          "alt": "Close-up of an open Samsung oven door",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.cnet.com/a/img/resize/de122a96b3b294d732c3f0c4953cad8b54f7beb3/hub/2019/12/05/97d1f5dc-b39b-4fe5-9905-b85bacc8353d/w-labs-smart-oven-2.jpg?auto=webp&width=1200",
+          "alt": "Close-up of a microwave oven",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.cnet.com/a/img/resize/9cdcab3b229f9c678d17283b223551f5948c97a5/hub/2017/05/31/5fab7d62-453b-44ef-9a88-8a4cdc84f6dd/wemo-dimmer-3.jpg?auto=webp&width=1200",
+          "alt": "Close-up of a person using a dimmer light switch",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.cnet.com/a/img/resize/67912bcf5ede736872b18d1d483a09a4d34af028/hub/2020/03/13/d923bb86-7a49-4cf5-b1dd-e9ab4053d7d5/tp-link-kasa-smart-wi-fi-plug-mini.jpg?auto=webp&width=1200",
+          "alt": "Person holding a Kasa Smart Wi-Fi Plug",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.cnet.com/a/img/resize/c3f1788625a3196d967705f95cd3a672094dce41/hub/2019/03/01/ee2323d0-4dac-4f7a-b244-b0cf45bcc5ba/23-toshiba-insignia-amazon-fire-tv-edition.jpg?auto=webp&width=1200",
+          "alt": "Person using a Fire TV Stick on their Toshiba TV.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.cnet.com/a/img/resize/5668946cbee8c57240857fdef2f64df4dd1f2768/hub/2018/10/19/2faec49b-b8e8-45fa-bee3-48ea24fffacc/tp-link-surge-protector-3.jpg?auto=webp&width=1200",
+          "alt": "Close-up of the TP-Link Kasa Smart Wi-Fi Power Strip, which is also a surge protector.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.cnet.com/a/img/resize/81cebea42ce95960295019e6aadfa2ad15397257/hub/2016/10/15/ea84db54-b69b-42cb-97c7-0bc7a5ca07c7/ecobee3litethermostatproductphotos-7.jpg?auto=webp&width=1200",
+          "alt": "Close-up of a Nest thermostat and its accompanying smartphone app",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.cnet.com/a/img/resize/5f7a0a2fac3e269ec17f57eaa265c3ccebf05920/hub/2018/05/10/6d3db9b4-29c2-4c3b-9675-e87b02c9935d/nest-thermostat-redo-4.jpg?auto=webp&width=1200",
+          "alt": "Close-up of 3rd gen Nest Learning Thermostat set to cooling 68 degrees Fahrenheit",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.cnet.com/a/img/resize/61be92145c35357b495b13cddd66402843a70b79/hub/2016/11/16/8343100d-6efc-4acc-a66c-bfdfcea6573b/clean-the-filter.jpg?auto=webp&width=1200",
+          "alt": "This is a very linty dryer lint trap.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.cnet.com/a/img/resize/1a6ecdb95ed5ba7d993008b3382846ce057dfc5e/hub/2019/01/10/12b01378-b3a9-4a0f-81b1-bd458730b6c2/whirlpool-washer-dryer-1.jpg?auto=webp&width=1200",
+          "alt": "Whirlpool washer/dryer pair that you can use to wash your clothes in cold water.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.cnet.com/a/img/resize/cbb98f14f315cce1906a3e73231236d4aa242424/hub/2017/06/07/039e853a-b3de-4b49-88c5-aae257ce9317/washing-machine.jpg?auto=webp&width=1200",
+          "alt": "Close-up of an open top-loading washer.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.cnet.com/a/img/resize/32b40f18b5f7257057b7437c7faf3955b094cfc3/hub/2017/06/07/68b20140-d8ec-4c57-a923-c9e1ebefa423/drying-a-blanket.jpg?auto=webp&width=1200",
+          "alt": "This dry blanket wants out of the dryer, stat.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.cnet.com/a/img/resize/296f327df3afe6033c1409fff613a471d3dada87/hub/2018/08/13/a5b84163-5db7-473c-92fd-1b21311e620d/samsung-dv5500-dryer-3.jpg?auto=webp&width=1200",
+          "alt": "Close-up of a Samsung front-loading dryer.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.cnet.com/a/img/resize/452fe6a34d99c5bc2b48dc0048e4ed70f9d92711/hub/2016/11/16/5e4889fb-44c7-4da8-93e5-ba6d4c3adaae/img8696.jpg?auto=webp&width=1200",
+          "alt": "Close-up of a low-flow showerhead",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.cnet.com/a/img/resize/b6099b85381d784e64a0e5dee759cb8ef9262f73/hub/2017/06/07/90daf8a0-5771-4515-9c1e-c34e0a2df973/air-ducts.jpg?auto=webp&width=1200",
+          "alt": "Close-up of air ducts from the outside. So that's what they look like.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.cnet.com/a/img/resize/be2937a6e51f13fbc7b7c4ca0d36702c3c3f03db/hub/2018/09/19/22a83f78-cdc2-428c-b9be-9c09b8057c2b/cnet-addtop-solar-charger.jpg?auto=webp&width=1200",
+          "alt": "Close-up of solar chargers and household devices attached to a backpack.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.cnet.com/a/img/resize/7fc3ef13a179bad0bf9d391d2eab61a253cbd6c4/hub/2024/01/24/23bdd950-7702-4bc4-b475-04a3c101a394/20240123-174227.jpg?auto=webp&width=1200",
+          "alt": "A houseplant",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.cnet.com/a/img/resize/55920f75d8c907982227328db75e5c30b71e9eb4/hub/2024/01/26/44144bb6-b9d6-4b1f-b2e2-d5af1f4726d1/magic-v2-2024-foldable-1383.jpg?auto=webp&width=1200",
+          "alt": "magic-v2-2024-foldable-1383",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.cnet.com/a/img/resize/7d25393e0e730d6ee4cc67a4d8bcf2ebc83ff904/hub/2024/01/25/d4090e47-01c2-4c13-bd99-75bb253662fd/samsung-galaxy-s24-s24-plus-5664.jpg?auto=webp&width=1200",
+          "alt": "Samsung Galaxy S24",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.cnet.com/a/img/resize/7b7ea5c06b00df75839e4deddda16ebbe67185ef/hub/2024/01/24/73947584-67eb-4e99-b66d-207b4c0e1eda/samsung-galaxy-s24-ultra-1887.jpg?auto=webp&width=1200",
+          "alt": "The Galaxy S24 Ultra in multiple colors",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.cnet.com/a/img/resize/03bfbfd91d073bde6fe348189bf0460df1c0df80/hub/2023/09/19/4de667be-45bd-4540-abe1-12a3f145f132/img-0716.jpg?auto=webp&width=1200",
+          "alt": "img-0368.jpg",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.cnet.com/a/img/resize/de223dbe2f62b4bc2751adfc2c6e61237eb06294/hub/2023/10/16/490590c8-83ab-4d44-b0e6-21ce61145f34/ios-17-4400.jpg?auto=webp&width=1200",
+          "alt": "Invitation for the Apple September iPhone 15 event",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.cnet.com/a/img/resize/1edcaa080ccd1439337d4bf4158f0e872b07b32d/hub/2023/11/15/73e54ada-aee6-4898-b449-3e765bda7867/outside-lands-2015-classixx-0054.jpg?auto=webp&width=1200",
+          "alt": "img-1599-2.jpg",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "Stop spending so much on electricity You've probably noticed that your gas and electric bills have been more costly than usual this year. In fact, the EIA estimates the Northeast regions could see a $100 increase in wholesale electricity over last year. And other regions across the country are seeing rising prices too. If you're looking for ways to cut down on utility costs, there are plenty of simple measures you can take to lower your energy bills from turning off the lights to doing laundry the cost-efficient way. Here are the top 23 ways to start saving now. Use your dishwasher Dishwashers may use electricity, but they save more energy, money, water and time than washing dishes by hand. According to the California Energy Commission , using an Energy Star-qualified dishwasher instead of hand washing can save you 5,000 gallons of water and $40 in utility costs each year, on average, not to mention 230 hours of your time. Air-dry your dishes Opt out of the heat-dry cycle on your dishwasher. Instead, crack open the door and let your dishes air-dry. If your dishwasher has an air-dry option, use that instead of heat-dry. Air drying plates can reduce your dishwasher's energy use by 15% to 50%, according to the California Energy Commission. Get 'em clean These dishwasher tips won't save electricity if you have to repeat loads because the dishes just won't get clean. That's why you need to make sure to load the dishes correctly . For example, you should place plates in the bottom rack, bowls on the top rack and cups upside-down. Pots and other large items should be washed separately. Use a fan If you live in an area of the world where the summers are hot, turn on your ceiling fans instead of touching the thermostat. Using a ceiling fan can make a room feel 10 degrees Fahrenheit cooler, and a fan uses 10% of the energy that a central air conditioner does, according to the US Natural Resource Defense Council . Use a smarter bulb If you haven't switched to LED lighting, now is the time. The US Department of Energy says that LED bulbs use at least 75% less energy -- and last 25 times longer -- than incandescent lighting. That equals a lot of savings over time. Use motion to stop waste If you're constantly following family members from room to room and turning off lights behind them, a little automation can save you time and money. One solution could be motion detectors, like GE's LED Plus lineup or Ring's smart outdoor lights . They turn on when they sense someone's in the room and turn off when no movement is detected. Turn off the burner a little early According to the California Energy Commission, if you turn off the burner early, the stove will release enough heat to finish up whatever you're cooking and save electricity. This tip works for most dishes, though there are a few exceptions . Keep your oven closed Every time you open an oven door while cooking, the internal temperature can drop 25 degrees Fahrenheit. The oven then has to use more electricity to bring the temperature back up. To save electricity, peek through the window and rely on the oven's light instead of opening the door. Go small If you're heating or cooking something small, use a smaller appliance like your microwave or toaster oven . These use substantially less electricity than the oven. Related reading : Yes, an Air Fryer Can Save You Money on Your Energy Bill Install a dimmer Dimming your lights reduces wattage and output, which helps save energy, according to the US Department of Energy. Some dimmer switches can be controlled by an app, like the Lutron Caseta In-Wall Wireless Smart Lighting Kit , giving you even more ways to adjust your lights and save electricity from wherever you are. Be sure to get bulbs that work with dimmer switches , though. Use a smart plug You may think that your electronics and appliances are energy-efficient, but you might be using more electricity than you think. The TP-Link Kasa Smart Wi-Fi Plug Mini is a gadget that plugs into your wall; you can schedule it to turn your electronic devices on and off automatically. Put it on standby Putting your electronics on standby saves more money than leaving them on 24/7, but it still uses a substantial amount of electricity. According to the US Department of Energy, electronics on standby account for 10% or more of your electricity bill. Better yet, get a strip One of the best ways to control these power wasters is by plugging them into a power strip or a smart outlet like the TP-Link Kasa Smart Wi-Fi Power Strip . Just switch the strip off or use the smart switch's app to turn off electricity guzzlers when you go to bed or you're not home. Install a programmable thermostat Still have that thermostat from the 1970s? Switch it out with a programmable thermostat such as the Nest , Ecobee or Honeywell . According to the Alliance to Save Energy, switching to a programmable thermostat can save you save up to 10% on cooling and heating costs. Here's a list of the best thermostats you can get right now. Check your thermostat location While you're considering a programmable thermostat, check your current thermostat's location. It could be on the wrong wall. Drafts, direct sunlight and other factors can trigger your AC or furnace to kick on when it doesn't need to. Here's the perfect place to put your thermostat . Baby your dryer The California Energy Commission says that dryers use approximately 6% of a home's total electricity usage. You can help your dryer work more efficiently by keeping it clean, and emptying the lint trap after each load is one of the most important things you can do to stop a dryer from working harder than necessary. Here's more on how to deep-clean your dryer and your dryer vent . Go cold Start using cold water when you wash laundry. Why? Because 90% of the electricity used to wash a load goes toward heating the water, according to Consumer Reports . The Alliance to Save Energy also says washing clothes in cold water can save you $63 a year on electricity bills. Most detergents are designed to work better in cold water, anyway, so this is an easy swap to make. Upgrade your laundry room Older appliances aren't as energy-efficient as they could be. For example, Energy Star estimates that a washer over 10 years old could cost you around $190, on average, per year . Old dryers waste energy, too Switch out your dryer while you're getting a washer. Your old dryer could be wasting 20% more energy than a newer, Energy Star-certified model. Speed up your load Giving your clothes an extra spin in the washer can save up to half the drying time. Here are some more ways to save electricity on laundry day . Switch out your showerhead Switching to a 2.5-gallon-per-minute (low-flow) showerhead and taking a 10-minute shower not only saves you 5 gallons of water over taking a bath, it also saves up to $145 each year in electricity, according to Energy Star . Air ducts can be electricity suck The air ducts in your home could be costing you big bucks. Ducts with holes, clogs and leaks can lose around 20% of the HVAC's efficiency. Have your ducts looked at by a professional if you have any of these problems . Go solar You may not be able to convert your whole home to solar power, but there are a bunch of small ways you can incorporate it into your life. Here are other small ways you can go solar . For more information, check out the best energy-saving devices to keep your utility bills down . More Galleries My Favorite Shots From the Galaxy S24 Ultra's Camera Honor's Magic V2 Foldable Is Lighter Than Samsung's Galaxy S24 Ultra The Samsung Galaxy S24 and S24 Plus Looks Sweet in Aluminum Samsung's Galaxy S24 Ultra Now Has a Titanium Design I Took 600+ Photos With the iPhone 15 Pro and Pro Max. Look at My Favorites Do You Know About These 17 Hidden iOS 17 Features? AI or Not AI: Can You Spot the Real Photos?",
+      "headings": []
+    },
+    {
+      "rank": 5,
+      "domain": "sce.com",
+      "url": "https://www.sce.com/save-money",
+      "title": "Save Money On Energy - SCE",
+      "word_count": 200,
+      "scrape_status": "tavily_fallback",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": "## Alert We are making improvements. Some online services may be unavailable from 10 p.m. Saturday, April 25 to 6 a.m. Sunday, April 26. ##### My Account New to SCE.com? ##### Hi, John We offer various programs, assistance, resources and practical tips to help you manage bills and reduce energy costs at home. Start exploring today and take the first step toward saving money each month. You can also learn more about our work to serve you on the Powering Progress site. ### Income-Qualified Programs Financial assistance for eligible households. ### Income-Qualified Programs Financial assistance for eligible households. ### Savings Programs Rebate programs for home upgrades. ### Savings Programs Rebate programs for home upgrades. ### Keeping Bills Manageable Minimizing customer costs. ### Keeping Bills Manageable Minimizing customer costs. ### Rebates & Financial Assistance Save on energy-efficient appliances. ### Rebates & Financial Assistance Save on energy-efficient appliances. ### Residential Rates & Financing Compare rates and access funding. ### Residential Rates & Financing Compare rates and access funding. ## About SCE ## Partners ## Customer Service Center Energy for What's Ahead \u00ae \u00a9 Southern California Edison This website and the messages contained in its webpages are funded by ratepayers unless otherwise noted.",
+      "headings": []
+    },
+    {
+      "rank": 6,
+      "domain": "pahrumpnv.gov",
+      "url": "https://www.pahrumpnv.gov/DocumentCenter/View/1008/12-Easy-Ways-To-Save-On-Your-Electric-Bill-PDF",
+      "title": "[PDF] 12 easy ways to save money on your electric bill - Pahrump, NV",
+      "word_count": 367,
+      "scrape_status": "success",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": "%PDF-1.4 %\ufffd\ufffd\ufffd\ufffd\ufffd 1 0 obj > endobj 2 0 obj > endobj 3 0 obj > /Font > >> endobj 4 0 obj > endobj 5 0 obj > stream x\ufffd\ufffd\ufffd[\ufffd\u0736\ufffd\ufffd\ufffd+\ufffd\ufffd\ufffd)\ufffd\ufffd \ufffd\ufffd=\ufffdR\ufffdU\u038b\ufffd\ufffd\ufffd'\ufffd\ufffd}\ufffd\ufffd\ufffd\ufffdi\u01baa\ufffd\ufffdSk\u007fs\ufffd\ufffd v\ufffdN\ufffd\ufffd3\ufffdWUP\\\ufffdo\u007f\ufffd]s~B\ufffd\ufffd\ufffdq\ufffd\ufffdy\ufffd\ufffd\ufffdWZ\ufffdy\ufffd;r)\ufffd4T|\u007f\ufffdd%\ufffd\ufffdU\ufffd\ufffd\ufffd\ufffd\ufffd~rX_\ufffd\ufffd\ufffd\ufffd\ufffdU\ufffdb?uO\ufffd\ufffdD-b]\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdd,\ufffd\u9c1c\ufffd2\ufffdU\ufffd\ufffd\ufffdv \ufffd`*j\ufffd\ufffdq~\ufffd\ufffd\ufffd\u01a6\ufffd\ufffdqG\ufffd\ufffd\ufffd\ufffdqA~\ufffd\ufffd\u07c47>P\ufffduP\ufffd\ufffd\ufffd\u024a\ufffdj\ufffd\ufffd0w\u0526dQ\u04a9[\ufffdB\ufffd%l\ufffdfz\ufffd!\ufffddaE\ufffd4\ufffd\ufffdR\ufffd5B\ufffd\ufffd\ufffd3P\ufffd\u0092f\ufffdj\ufffd\ufffd\ufffd2l {\"3\u007f5\u05960\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd*\ufffd\ufffdWdG*\u0132\ufffd\ufffd5;\ufffdV7HG;\ufffd\ufffd\u04af\ufffds\ufffd'\ufffdzlI[\ufffd\ufffd \u0490bE\ufffd\ufffdNm\ufffd\ufffdTi\ufffd}\ufffd\ufffd5\ufffd\ufffd\ufffd:\ufffd\ufffd8gr\ufffd\ufffd\ufffd\ufffdfb\ufffd\ufffd\u03d9\ufffd\ufffd\ufffd*:\ufffdKj\ufffdx\ufffd0\ufffd\ufffdb\ufffdGzKx\ufffd|_\ufffd2\ufffdW \ufffd;\ufffd5\ufffdg\u034d,\ufffd\"z\ufffd s\ufffd\ufffd2Fl \ufffd7\ufffd\ufffd\ufffdn\u03c64\ufffd\ufffd\ufffdp\ufffd\ufffd\ufffdg\ufffd{\ufffd \ufffdW9o\ufffd\ufffd6N\ufffd\ufffd\ufffd\ufffdZr5\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd0^\ufffd\ufffd\ufffd\u6118/\ufffd\ufffd \ufffd \ufffdX\ufffd|l0\ufffd\ufffdE\ufffd\ufffd\ufffd\ufffd\u01b8 \ufffd\ufffd\u01e1\ufffdv\ufffd\ufffd5%\ufffd6H\ufffd\ufffd D2\ufffdfzeks9!&C\ufffdn\ufffd\ufffd{\ufffdt7{\ufffd\ufffdX'\ufffd\ufffd \u03d2\ufffd0\"'M\ufffd\ufffd\ufffd*\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\u01a5k\ufffdqo\ufffd \ufffd3\ufffdB\u0210\ufffd\ufffd\ufffd\ufffdo\ufffd*\ufffd\ufffdo\ufffd4\ufffd\ufffd\u0766\ufffd\ufffd6\u02e2\ufffd\ufffd#i\ufffd\u0529z\ufffd\ufffd\ufffd{\ufffdm\ufffdS\ufffd\ufffdi\ufffdU&\\\ufffdz\ufffd\ufffd\ufffd\ufffd\ufffdD\ufffdQ\ufffd\ufffd+\ufffdP\ufffdG\"6F(\ufffd\u04c8\ufffd\ufffd\ufffdc\ufffd\ufffd\ufffd\ufffd\ufffd \ufffd\ufffd \ufffdK\ufffd|\ufffd>%t\ufffd\u04b67q:\u0503dP z\ufffd>\ufffd\ufffd\ufffdXO\ufffd?a\ufffd\ufffd\ufffd\ufffd~\ufffd\ufffdcH\ufffdH{j/>\ufffd \ufffd\u049d[\ufffdW\ufffdl\ufffd!\ufffd5V\ufffd\ufffd/\ufffdd\ufffdF\ufffd\ufffd\u0466s\ufffdz K\ufffd\ufffd.G\ufffdT7\ufffd\ufffdD#l\ufffd`5\ufffd\ufffd\ufffd\ufffdb\ufffd7\ufffd}\ufffd\ufffdj\ufffdo \\\ufffdC\ufffd\u9a5d\ufffd5g\ufffd\ufffd\ufffd\ufffd?\"b\ufffd\ufffd\ufffd-\ufffdX\ufffdh\ufffd\ufffd\ufffdxJ\ufffd7\ufffd*\ufffd~_\u02142\ufffd\ufffdD\ufffd\ufffdm\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\u00bf\ufffd\ufffd\ufffd\ufffd5}\ufffdj\ufffd\ufffd*t(U\ufffd\ufffd\ufffd \ufffd\ufffdx\ufffdIG\ufffd\ufffd$U\ufffd\ufffd9\ufffdJ\ufffdo\ufffd\ufffd\ufffd=9\ufffd\ufffdPS7y\ufffd\ufffd\ufffd\u048e\ufffd=`\\\ufffd\\ \u07eb\ufffd\ufffd\ufffdPi|j\ufffd\ufffd\ufffd\ufffd\ufffdjT})k\ufffd\ufffdB\ufffd?\ufffd\ufffd\"t\ufffd\ufffd\ufffd]\"\ufffd\ufffd\ufffdd\ufffd\ufffdX\ufffd\ufffdN\ufffd;R\ufffd\ufffd\u0319\ufffd\ufffd\ufffd\ufffd#tntl\ufffd\ufffd\ufffd1\ufffd\ufffd\ufffd/7\ufffdE4I\ufffd\ufffdL7\ufffdP\ufffd=\ufffd\u070dzWR\ufffd\ufffdp\ufffdlv]\ufffd\ufffdkO\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd_\ufffdY\ufffdh\ufffd\ufffd\ufffdJ\ufffdD)F-8\ufffdX\ufffdo\ufffdK\ufffd1/K\ufffd*\ufffd\ufffdHQ\ufffd!\ufffd\ufffd^\ufffd\ufffd#\ufffd\ufffd\ufffd \ufffdX\u075c\ufffd\ufffd\u01a1\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd [\u007f\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd=\ufffd qETrqK\ufffd\ufffd3\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdr\ufffdtO\ufffd\ufffdHD\u070f\ufffd\ufffd 9{\ufffdwX\ufffd%)%9\ufffd\ufffd|#B\ufffd\ufffd\u31f4\ufffd\ufffd\ufffd\ufffd\ufffd>;\ufffd\"\u0428\ufffd(N`2H\ufffd\ufffd\ufffd\ufffd*\ufffd\u07b884\ufffd\ufffd'\ufffd? \ufffdyg\ufffd\ufffdH \ufffdT\ufffd\ufffdbE\ufffdF\ufffd\ufffdsHf\ufffd \u017b\ufffd,!O'\ufffd\ufffdQ\ufffdz\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd4\ufffdlY\ufffdg\ufffd\ufffd\ufffd\ufffdEi\ufffd\ufffd\ufffd\ufffdf\ufffd\u021a\ufffdD\ufffd\u01a3\ufffd\ufffdS\ufffd,/\ufffd\u02ccS \ufffd\ufffdo\ufffd!\ufffd\ufffd\ufffdv\\.R\ufffd\ufffd\ufffd\ufffd\ufffdks\ufffd\ufffd\ufffdb\ufffd\ufffd'Z\ufffd\ufffd \ufffd\ufffdv\ufffd,\ufffd1O&\u07bdB\ufffd[D\ufffd\ufffd*\ufffd\ufffd\ufffdVC\ufffd\ufffd\ufffdF\ufffdO\ufffd/\ufffd\ufffd\ufffd\ufffd'Ua\ufffdB\ufffd\ufffdf\ufffd\ufffd`\u032c\ufffdh\u0579\ufffd}54\ufffd\u03bd\ufffd\ufffd\ufffd;d\ufffd`%\ufffd\ufffd9\ufffdQ\ufffdG\ufffd)\ufffd\ufffd\ufffdx\ufffde\ufffdAXJGh\ufffd\ufffd&w)\ufffd]\ufffd\ufffd\ufffd\ufffdJ@\ufffd\ufffd4\ufffd rid\ufffd\ufffd\ufffd~d\ufffd&\ufffd\ufffd\ufffd\ufffd\ufffdW\ufffd*\ufffd\ufffdW\ufffdY\ufffd\ufffd\u01a2\ufffd\ufffd}\ufffd\ufffd\ufffd\u01b5.\ufffd\ufffd?W\ufffd(c\ufffd=W\ufffd\ufffdJ\ufffd\ufffd\u063d\ufffd \ufffd\ufffdd2\ufffd\ufffd_\ufffdi\ufffd\ufffd\ufffd\ufffdgU \ufffd;\ufffd\ufffdm3:\ufffd\ufffdd\ufffdG\ufffd\u0650\ufffd\ufffd\ufffd7V\ufffd#\ufffdu\ufffd\ufffd+.s6\ufffd\u0527\ufffd\ufffdF\ufffd\ufffdT\ufffd$\ufffd > stream x\ufffd\ufffd] :\ufffdX(\ufffd\u00dd\ufffd\ufffd`\ufffd\ufffd?xi\ufffd>\ufffdD]N\ufffd\ufffd\ufffdnqn$\u05c6\ufffd\ufffdC\\S|\ufffd\ufffd\ufffd#\ufffd/]\ufffd>\u048b\ufffd\ufffd\ufffd4\ufffdh\ufffdP\ufffd\ufffd\ufffd\ufffdr\ufffd\ufffdJ\ufffdYb byw\ufffd3\ufffdk\ufffd\ufffdF\ufffd?]\ufffd\ufffd?\ufffd\ufffd(AD\ufffd\ufffdd>^\ufffd\ufffd?\ufffd\ufffdyqRr\ufffd3\u007f\ufffd7{(#\ufffd\ufffd?\ufffd\ufffd)\u0151\ufffd>l\ufffd=dIc\ufffd\ufffd\ufffd\ufffd/\ufffd\ufffdu\ufffd\ufffd/4\u0503%\ufffd\ufffd\ufffd\ufffdN\ufffd_.(\ufffdB\ufffd\ufffd\ufffd\ufffdD\ufffd\ufffdR U\ufffdl\ufffdO\ufffd\ufffdw\ufffd\ufffdo\"M\ufffdu/\ufffd\ufffd6\ufffd\ufffd\ufffd\ufffd\ufffdo\ufffd\ufffd=\ufffd\ufffd+\ufffd 3 \ufffd\ufffdT-\ufffd$\\\ufffdzan\ufffd\ufffd\ufffd5-\ufffd\ufffd\ufffdjo\ufffdU\u064f\ufffdv\ufffd/\ufffdH\ufffdq\ufffd\ufffd\ufffdA\ufffd\ufffdIv\ufffd)`g0:\"d2B\ufffdX\"\ufffd=\ufffd\ufffdY\ufffdyE\ufffd\ufffd\ufffd!@\ufffd?\ufffd\ufffdN\ufffd\ufffd\ufffd\ufffd 1y\ufffd\ufffdp\ufffdsJ\ufffd\ufffd\u0140\ufffdO\ufffd\ufffd\ufffd\ufffdA+\ufffd\ufffdj\ufffd\ufffd\ufffd\"\ufffd\ufffd\ufffd\u0593\ufffd\ufffdH\ufffds\ufffdb\ufffd%O\ufffd'n[!t2\u062a \ufffd\ufffd\"\ufffd5m\ufffd\ufffd\\H\ufffd\ufffd\u007fE\ufffd\ufffd\ufffd\u9a1f\ufffd\ufffd\ufffd\ufffd\ufffdd.\ufffd\ufffd\ufffd\u0528FxT\ufffd\ufffd0\ufffd\ufffd\ufffdz]\ufffdP\ufffdc1h\ufffdg\"\ufffd\ufffd~\ufffd\ufffdn\u0637\ufffd\u041d\ufffd8\u0427\ufffd\ufffd\ufffds\ufffdCZ\u0362\ufffd/\ufffdO \ufffd\ufffd\ufffdr\ufffdw\u597fGh\ufffd\ufffd\ufffd\u0757\ufffd\ufffd\ufffd\u047b\ufffdY\ufffd\ufffd\ufffd\ufffdy\ufffd$\ufffd\ufffd$|eN\ufffd} \ufffdc\ufffde\ufffdu\u0788\ufffd\ufffd$\ufffdX'%\ufffd\ufffdS\ufffd\ufffd \ufffd\u039cD\ufffd1\ufffdOm\ufffd\ufffd\ufffd|\ufffd\ufffdT\ufffdG\ufffdV\ufffd \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd,QU\ufffd*\ufffdPPUWvv\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd~Fu!\ufffd|\ufffd\ufffd\u073ef\ufffdG\ufffdg\ufffd A\ufffdAm\ufffd_\ufffdgd\ufffdEZ\ufffdDo\ufffdkTk#^\ufffdK\ufffdm\ufffdb\ufffd\ufffd\ufffdy;\ufffd.\ufffd\ufffd2\ufffdgt\ufffd\ufffd_,\ufffd\ufffd$,vl\ufffd'\ufffd\ufffd\u1bf9\u03f8\u0448J\ufffdiJ(\\\ufffd\ufffd-\ufffdg\ufffdE\ufffd_G\ufffd\ufffd\ufffd*)#\ufffdz\ufffdm)\ufffd\ufffd?I\ufffd?an\ufffd4\ufffdm\u05a8w\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd{\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd%\ufffd\ufffdTf\ufffd8\ufffdG\ufffdj\ufffd^\ufffd\ufffd\"\ufffdW\ufffd\ufffd\ufffd7^\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd691 \ufffdO\ufffd\ufffd\ufffd#\ufffd\ufffdU`\ufffd\ufffd\ufffdDp\ufffd@\ufffd\\=\ufffd2(\ufffd_\\\ufffd8ar\ufffd6A\ufffdl\ufffd\u0095\ufffdu\ufffdQF3U\ufffd\ufffd\ufffd\ufffd\ufffdd\ufffdi\ufffdb\ufffd.\ufffdt\ufffd\ufffd3\ufffd\ufffd\ufffd\ufffdm\ufffd\u0726(\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdV\ufffd\ufffd\ufffd\ufffd\ufffd \ufffd\u00a2\u6eb3\ufffd\ufffdF\ufffd\ufffd\ufffd\ufffd6\ufffd\ufffd\ufffd'\ufffdq\ufffd\ufffd{N:\u034a\ufffdr\ufffd\ufffdER\ufffd\ufffd\ufffd\ufffd4\ufffd\ufffd1\ufffd\ufffd$\ufffd!\ufffdGQ\ufffdJ\ufffd\ufffd\u0378\ufffdr\ufffd\ufffd+v+\ufffd\ufffdg\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdA\ufffd0fQ \ufffd~?\ufffd]=Y\ufffd\ufffd\u0355^A\ufffd0Y\ufffd\ufffd\ufffd\ufffdA\ufffd\u0193*\ufffd\ufffd\ufffd\ufffde \u0504_M\ufffdH\ufffd\ufffd\ufffd\ufffd\ufffd}\ufffd\ufffd\ufffd\ufffd\u055a\ufffdu\ufffd\u0220V\ufffd\ufffdWk:V\ufffd \ufffd\ufffd\ufffd\ufffdJ\ufffd W\ufffd\ufffd:\ufffd\ufffd+ID\ufffd7\ufffd;92\ufffd\ufffd\ufffdx(_\ufffd\ufffd/\\\ufffd]\ufffd\ufffdG_w\ufffd1\ufffd\ufffdS\ub89e \ufffd\ufffd\ufffd(g\ufffd\ufffdV\ufffdA-b2[,'\ufffdC\ufffd\ufffdY\ufffdj9\ufffd2O\ufffd\ufffd\ufffd0\ufffdx\ufffd\ufffd\ufffd\ufffd'\ufffddw\ufffdND{\ufffd\ufffd\ufffdy\ufffd\ufffda#[]\ufffd\ufffd\ufffdf\ufffd\ufffdCM\ufffd\ufffd)\u00b7\ufffd\ufffd\u01a2*\ufffd*\ufffd\ufffd \ufffd\ufffd\ufffd\ufffd\ufffdB`u\ufffd\ufffd U[\ufffdN.\ufffd\ufffds`\u028f\ufffd-\u030f^\ufffd\ufffd1\ufffd\ufffd\ufffd$\ufffd\ufffd\ufffd\ufffdq;\ufffd\ufffd\ufffd$\ufffd\ufffd\ufffd\ufffd$\ufffd\ufffd\ufffd\ufffd&+^=\ufffdP\ufffd\ufffd\ufffdm\ufffd.\ufffdg\ufffd'\ufffd\ufffd\ufffd\ufffd\ufffd 6b\\\u06011\ufffd\ufffd\ufffd|\ufffdRZl&8F\ufffd_\ufffd\u007f\u0474\u0208\ufffd\ufffd\ufffd\ufffdi\ufffdvO\ufffdX\ufffd\ufffdnj\ufffd^\ufffdY7\ufffd9\ufffd%\ufffdRK\ufffd\ufffd \u05a1\ufffd\ufffdf\ufffd\ufffd\ufffd\ufffd*\u037cw2\ufffd\ufffd\ufffdAg\ufffd\ufffdZ/\ufffd;\u0131\ufffd tIk\ufffd\ufffd\ufffd\ufffd\ufffdpR\ufffd*\ufffd\ufffd%\ufffd\ufffd\ufffd\ufffdfB\ufffdK\ufffd\ufffd\ufffd(\ufffd \ufffdW\ufffd6;\ufffdj\ufffdF\ufffdmN\ufffd\ufffd\ufffd\ufffd\ufffdI\ufffd\ufffdS\ufffd\ufffd\ufffdl\ufffd|\ufffdx\ufffd\ufffd\ufffd\ufffd*\ufffdq\ufffdjo\ufffdX-\ufffd\u438e\ufffd7\ufffdN\ufffdZ\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdV\ufffd\ufffd\ufffdI\ufffd \ufffd8\ufffd~B\ufffd\\c\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd]#\ufffd2jM\ufffdS\ufffd}\ufffd\ufffd)Ml\ufffd\ufffd\ufffdY\ufffd\ufffdI/-d\ufffdG\ufffdUt\ufffd\ufffdx{\ufffd\ufffd2\ufffdkT\ufffd\ufffd\ufffd \ufffd@\ufffd]\ufffda \ufffd\ufffd)\ufffd\ufffd\ufffd'\ufffd\ufffd\ufffdg\ufffd\ufffd\u8121\ufffd \ua807$\ufffd9z\ufffd\ufffd\ufffd\u020a\ufffd\ufffd&G\ufffdt;\ufffd\u033cC`\ufffdFCa\ufffd\ufffd,\ufffd4\ufffd\ufffd\ufffdR\ufffdk%7\ufffd_|\ufffd2\u009f\u03aa6\ufffd@\ufffd]\ufffdYk\ufffd(_BS\ufffd\ufffdni\ufffd\ufffd&Y\ufffd9\ufffd \ufffd\ufffd{]~Xn.y\ufffd\ufffd!)\ufffd\u076c\"T\ufffd\ufffd\ufffdH\ufffd:n\ufffd\ufffd\ufffd@\ufffd\ufffd\ufffd\ufffd\u05b6y8_\ufffd2\ufffd\ufffd,B\ufffd\ufffd\ufffd\ufffd\ufffdK\ufffdQ\u04e1q\ufffd0\ufffd^\ufffd-F\ufffd\ufffd\ufffdM\ufffd\ufffd+\ufffd\ufffd\u06add\ufffd\ufffdA\ufffdn\ufffd_\ufffd\ufffd\ufffd\ufffd\u7e58~NvXZe\ufffd%\ufffd\ufffdk\ufffd\ufffd\ufffd\ufffd*y\ufffd0~\ufffd\ufffd\ufffd\u0598\ufffd>\ufffd\ufffd\ufffd\ufffdzf\ufffdU\ufffd6n\ufffd\ufffd\ufffd\ufffd{\ufffd\ufffd \ufffd\ufffd\ufffdjj\ufffd^\ufffdx1\ufffdM v\ufffd\ufffd+\ufffd\ufffd\ufffd\ufffd\u0082N}d(i \ufffd\u007f}H\ufffd\ufffd\ufffdO\u06ff,\\\u036f,\ufffd\ufffd\ufffd8Z\ufffd\ufffdD\u04a1=Ju\ufffd\ufffd\ufffdj\ufffd[\ufffdB\ufffd\u04b55\ufffd\u007f\ufffd7\u05feY&%\ufffdN\ufffd\ufffdX\ufffd\ufffd\u0419\ufffd#\ufffd6~,}\ufffd\ufffd R\ufffd'\ufffd\ufffdlD\ufffd \ufffd/ \ufffd4\ufffd\ufffd>O{94(O\u0566\ufffdr\ufffd9\ufffdPG\ufffdl\ufffd\ufffd\ufffd\u026e\ufffd\ufffdf\ufffdMA,Y\ufffdP\ufffd\ufffd6u\u5dc5\ufffdX\ufffd\ufffd\u1fe7\ufffd\ufffd:\ufffd\ufffdi[\ufffd\ufffd?\"&IW\ufffd\ufffdP%kBpHT\ufffd\ufffd\ufffdzW\ufffd ;\u019d\ufffd'\ufffd1\ufffd\ufffdm\ufffdS\ufffdg\"!\ufffdQ\ufffdP:\ufffd\ufffd\ufffde\ufffd'\ufffd?'G\ufffd\ufffd\ufffd\ufffdW\ufffdy (\ufffd\ufffdV`\ufffd\ufffd1;>6$ \ufffdkYK\ufffd6;H^q\ufffd\ufffdhg\ufffd\ufffd\ufffd\ufffdl\ufffdFi''\ufffdZ*[S\ufffd@\ufffdMtQ\ufffd\ufffd\ufffd#L\ufffdv;\ufffdf\ufffd\ufffd\ufffd7\ufffd33\ufffd\ufffd\ufffd\ufffdh\ufffd)P\ufffdP\ufffdO \ufffd\ufffd\ufffdF\ufffd\ufffd:\ufffd\ufffd\ufffd\ufffdgc\ufffd\ufffd \ufffd\ufffdJ\ufffdvr\"q8\ufffd\ufffdk\ufffdw\ufffd\ufffd\ufffd\ufffdo\u040c\ufffd\ufffd;\ufffd6$\ufffdZi \ufffd\ufffd]2~\ufffd~\ufffd\ufffd!\ufffd\ufffd\ufffd\ufffd\\\ufffdf\ufffd\ufffdt-Vx|\ufffd\ufffdU\ufffdT\u7388\ufffd[\ufffd\ufffd\ufffdN\ufffdo\ufffd$\ufffdp\ufffd\ufffd^78\ufffd3r\ufffd\ufffd\ufffdK%\ufffd\ufffdM`\ufffdg\ufffdV\ufffd\ufffd~\ufffd3\ufffdN\ufffd\ufffdgLbU+\ufffd\ufffd\ufffd\ufffd 24\ufffdW=\ufffd\ufffd?\ufffd\ufffd\ufffd~gkK\ufffdkK\u01c1,\ufffd\ufffd\ufffd\u0091\\B\u051a\ufffd\ufffd\ufffd>\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd2\ufffd\ufffd\u0745\ufffd/\ufffd \ufffd{\ufffd\ufffd\ufffd\ufffd/\ufffdYG\ufffd6_\ufffdd\ufffd&\ufffd\ufffdx&6-x\ufffd4\ufffdI\ufffd\ufffd\ufffd\u16eeD:as\ufffd]\ufffdx\ufffdLu\ufffd\ufffd\ufffdbX\ufffd^\ufffd\ufffdF\ufffd\ufffd\ufffd\ufffd\ufffd \ufffd\ufffd\ufffd\ufffd\ufffdy\ufffd*\ufffd\ufffd\ufffd\ufffdD\ufffd#\ufffd\ufffdDZ@:\ufffd\ufffd\u0792|P\u040b\ufffd\ufffd%H\ufffd\ufffd|(\ufffdBV\ufffd\u02f0\ufffd\ufffdB\ufffd(\ufffd|\ufffdK\ufffdv\ufffd9n\u00c3\ufffd\ufffdU\ufffd3\ufffd\ufffd\u7f6fy\u007f I'\ufffd @C\ufffdU'\ufffdL\ufffdL\ufffdF\ufffd\ufffda\ufffdZ\ufffd\ufffd-'\ufffde\ufffd\ufffd\u008c\ufffd\ufffd\"\ufffd7\ufffd\ufffdf\ufffdw\ufffd_\ufffdb\ufffd]\ufffd\ufffd\ufffd?\ufffd6\ufffdk\ufffd\ufffd\u0405\ufffdwB\ufffd+\ufffdW\ufffdo\ufffd\ufffd\ufffd\ufffd\ufd00f\ufffdIR\ufffdD\ufffd\ufffdx\ufffdCR5,\ufffdMe\ufffd\ufffd\u07beSH\ufffdK L\ufffd\ufffd4Pi\ufffd\ufffd@1\ufffd+6T\ufffd\ufffd\ufffd~\ufffdY\ufffd*e\ufffd!.\u2265(^\ufffd\ufffd]s\ufffd\ufffdD\ufffd\ufffdMK+\u065a\ufffdJ'T\ufffdbc\ufffd\ufffds&\ufffdo#\ufffd?X\ufffd`>\ufffd\ufffd\ufffd3\ufffdP_C|zh\ufffdW@\u06d0g\ufffd\ufffdFs\ufffde,\ufffd4\ufffd@\u05ac\ufffd&\ufffd\ufffdkY\ufffd/\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd@\ufffd\ufffd\ufffd\ufffdQ\ufffd\ufffd\ufffd\u007f\ufffd\ufffd\ufffd),fYg\ufffd\ufffd\ud91a\udca2\ufffdw\"&b\ufffd!Ps\ufffd\ufffdj6y!\ufffd\ufffd~S\ufffd\ufffd$\ufffd\ufffdR\ufffd\ufffd[\ufffd\ufffd\ufffd0\ufffd\ufffd\ufffdP\ufffd\u007f}J\ufffd\ufffd\u0542\ufffd\ufffd\ufffd\ufffd:\ufffdz\ufffd\ufffd\ufffdm\ufffd\ufffd\ufffdZ*:\ufffd\ufffdP\ufffd\ufffdPU\ufffdNk \ufffd\ufffd\ufffd\ufffd\ufffd`{\ufffdE\ufffd z\ufffdU\ufffd\ufffd\u042d;8ha\ufffd_\ufffd\\~\ufffd\ufffd\ufffd\ufffd\ufffdO\ufffd\ufffd\ufffd\ufffd \ufffd\u07fbo:vb/\ufffd\ufffdQ.\ufffd ]\ufffdy:\ufffd\ufffdr#\u04b6\ufffd\ufffd\ufffd\u029b\ufffd\ufffd6AZ\u0173\ufffd\ufffdpJ\ufffd.\ufffd \ufffdf\ufffdW\ufffd>\ufffd&\ufffd@V\ufffd:\ufffd\ufffd.\ufffd\u077b\ufffd\ufffd:u\ufffd\ufffd\ufffd%\ufffd)s r\ufffdx\ufffd\ufffd\ufffdJ\ufffd\ufffd3\ufffdo$d#\ufffd}\ufffd!~\ufffd,-n\ufffd\ufffd\u007fv7\ufffd)Q\ufffd}\ufffd)\u0558\ufffd\ufffd\ufffd\ufffd)R\ufffd\ufffd \ufffd&\ufffd\ufffdF)\ufffdl\ufffd\ufffdw>\"E\ufffd\ufffd\ufffd\ufffd\ufffdB2\ufffd\ufffdXv\ufffd~\ufffda\ufffd\ufffdh[\ufffdPk}\ufffd\ufffd\ufffdN\\\ufffd^\ufffd\ufffd\ufffd>\ufffdg\ufffd \ufffd\ufffd.\ufffd\ufffdJ\ufffdN\ufffd)gk\ufffd\ufffdt\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd9\ufffd \ufffd\ufffd\ufffdc\ufffd\ufffd\ufffd\ufffd!\ufffd\ufffdn_s\ufffd\ufffdd\ufffd\ufffd\ufffd\u0444\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdj\ufffd?\ufffd\ufffdE(+T\ufffd\ufffdF70L\ufffdX\ufffdq\ufffd\u77ee\ufffdc\ufffdE]'\ufffdo\ufffd \ufffd\ufffd\ufffd\ufffd\u0785\ufffdC3\ufffd\ufffd\ufffd\u056a8\ufffd|\ufffd\ufffdk\ufffd\ufffd\ufffd \ufffdq-*vP\ufffd\ufffd\ufffdg\ufffd\u5721x \ufffdc+\ufffd\ufffd^\ufffd.\ufffd\ufffd\u01ebm\ufffd\ufffd\ufffd\ufffd+\ufffd\ufffd\ufffdR\ufffd\ufffdv\ufffd\ufffdo\ufffd9\u819a@\ufffd\ufffd\ufffd2zt\ufffdu\ufffdk\ufffd\ufffdC\ufffd\ufffdB\ufffdb\ufffd:n\ufffd\u0252s. \ufffdw\ufffd\ufffd\ufffdN\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd>\ufffd\ufffdH\ufffd\ufffd\ufffd)\ufffd\ufffd\ufffdA\ufffdC\u02de|\ufffd@\u01e3\ufffd\ufffd\ufffd@\"\ufffdsT\ufffdl\ufffd \ufffd\ufffd\ufffd \ufffd\ufffd\ufffdsZ\ufffd[\ufffd\ufffd\ufffd(4\ufffd?\ufffd\ufffd:\ufffdPt\ufffd\ufffdK\"k\ufffdvT\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\u0530\ufffd\ufffd?\ufffdR[\ufffdO\ufffdy\ufffd\ufffdy \ufffd\ufffd\ufffd3\u01d2\ufffd{\ufffd > endobj 8 0 obj > >> stream 0q\ufffd.#.#\ufffd\ufffd>M\ufffd\ufffd\ufffdUP\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdy\ufffd\ufffd\ufffdG\ufffd v\ufffd\ufffd\ufffd\ufffd\ufffd|\ufffd\ufffdy\ufffd\u07e2Ba\ufffd\ufffd\u688fWE\ufffdM\ufffd 9\ufffdw(-\ufffd|F\ufffd'/\ufffd\ufffd\ufffd#4U\ufffd\ufffdb\ufffd\ufffdu\ufffd\ufffd9VX\u02bcH\ufffd\ufffdWG \ufffd\ufffdmf\ufffd\ufffdBW#\ufffdI\ufffdqk\u2a0c\ufffd\ufffd\ufffd*\ufffd\ufffd\ufffd\ufffd$b)\\RX|~y\ufffdi9`\ufffd%\ufffd\ufffd\ufffd\u07f2\ufffd\ufffdg}\ufffd3\ufffdI\ufffd\\\ufffd\ufffd\ufffd\ufffd\\\ufffd\ufffdG\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\u0132\ufffd\ufffdn\ufffdy\ufffd\"M\ufffd~\ufffd\ufffdc\ufffd\ufffdUh9\ufffd\ufffd\ufffd\ufffdfv \ufffdKyB\ufffdw\ufffd\ufffd\ufffd\ufffd\ufffd?\ufffd\ufffd\ufffd.\ufffd\ufffdy\ufffd\ufffd&\ufffdu\u0309\ufffd.:}\ufffd\ufffdm\ufffd\ufffd\ufffd\ufffdNj\ufffd+g\u025a1m\ufffd\ufffdp\ufffd\ufffd\ufffd\ufffd\ufffd\u07e0\ufffd\ufffd\ufffdj8\ufffdC\ufffd\ufffd\ufffdw\ufffd05\u016d\ufffd^Di\ufffd\ufffd@\ufffd\u065b-\ufffd5\ufffdd|JCJby\ufffd\u007fqC\ufffd\ufffd\ufffd\ufffd\ufffd;\ufffd\ufffdL\ufffd\ufffd7&\ufffd\ufffd\ufffdizv\ufffd\ufffd\ufffd\ufffd\ufffd5a{\ufffd\ufffd\ufffdw\ufffd\ufffd\ufffd%H\ufffd}mVS\ufffd^\u04b5C\ufffdF\u0161\ufffdI\ufffdb#1_\ufffd^\ufffd\ufffd2\ufffd \u0758\u019c\ufffd6 \ufffd\ufffd\ufffd^\\\ufffd;\ufffd\ufffd',a\ufffd\ufffdG9\ufffd/Il\ufffd:\ufffd\ufffd$\ufffd\u0226[\ufffd\u03aa&\ufffd\ufffdo\ufffd\ufffd\ufffd\ufffdqR/uz\ufffd\ufffd]n\ufffd\ufffd\ufffd\ufffdP?LY\ufffd~\ufffd\ufffd\ufffdT\ufffdh\ufffd\ufffd\ufffd\ufffdS 3\ufffdH(E\ufffd\u05e5\ufffd\ufffd\ufffd\ufffdd(\ufffdc\ufffdL\ufffd\ufffd7\ufffd\ufffdB\ufffd\ufffd\ufffd\ufffdo\ufffd\ufffd|x\ufffdi|\ufffdr\ufffd\ufffd\ufffdK&T)C\ufffda\ufffdS,\ufffd\ufffdg\ufffdA:\u007f\u0189]c\ufffdry\ufffdJl8}\ufffdwn^k\ufffd\ufffd\ufffd\ufffd#2\ufffd*mu\u04dcI_\ufffd\ufffd\ufffd`W\ufffd B\" \ufffd3\ufffd\ufffd\u02ed\ufffdm\ufffd{\ufffd\ufffdE\ufffd\ufffd\ufffd\ufffdA\ufffd\ufffdo\ufffd\ufffdH\u01d14l\ufffd\ufffdh\ufffd\ufffd\ufffd\u0196\ufffdi\ufffd\ufffd\ufffd\ufffd H\ufffd\u053e\ufffd\ufffd9W\ufffd\ufffd\ufffd\ufffd)6\ufffdZ \ufffdB?\ufffd\ufffd@R\ufffd\ufffd|\ufffd\u0563o\ufffd\u05f5m(\ufffd,\ufffd3R L:\\ICb\ufffd\ufffd\u007f\ufffd\ufffd}\ufffd \ufffd\ufffda\ufffd\ufffdJ\ufffd\ufffd++^c\ufffd\u02d6n\ufffd^\ufffd\"\ufffdZO\ufffd6\ufffdYK\ufffdo\u04e5\ufffda?S\ufffd\ufffd\ufffdm\ufffd\ufffd\ufffd\ufffd\ufffdd\ufffdO;\ufffd\ufffd \ufffdO\ufffd]\ufffd pL\ufffd[\ufffds\u02f4\ufffd\ufffdo\ufffd\ufffdg\ufffd\ufffd\u007fl\ufffd\ufffd\ufffd\ufffd\ufffd9s\ufffd_\ufffd^$\ufffd\ufffd\ufffd\ufffdgQ\ufffdn\ufffd=T\ufffdy\u2083\ufffd\ufffd\ufffd\ufffd^5\u05c3N\ufffdt\ufffd\ufffdx;\ufffd\ufffd-\ufffd\ufffd \ufffde\ufffd\ufffd\ufffdr\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdLV\ufffd\ufffd\u00da\ufffd&wZ\ufffdU\ufffd \ufffd\ufffd9Afb\ufffd \ufffd\ufffd\ufffdg\u00ad\ufffd\ufffd\ufffdi\ufffd5\ufffd \ufffd \ufffd>F\u063a?\ufffdL7\ufffdV\"\u07c8\ufffd\ufffd{\ufffd\u00a9O\ufffd$O*,9\ufffdJ\ufffd\u02aa\ufffdb\ufffd\ufffd\u0331\u67801\ufffd\ufffdy|\ufffd\ufffd|\ufffd\ufffdby\ufffd\ufffdQw\u0710\ufffdu\ufffd\ufffd\ufffd\ufffd\ufffdJn\\\ufffdo\ufffd\ufffd30w\ufffd\ufffdH\ufffdQ5 \ufffd/\ufffdJ`OZ+\ufffd\ufffd\ufffd\"\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdf\ufffd8\ue963\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd^U\ufffdd\ufffd[`\ufffdrC\ufffd1\u760b\ufffds\ufffdIl{\ufffd\ufffd\ufffdQ\ufffd,\ufffd\ufffd`V0\u0462\ufffd\ufffd\ufffdh\ufffdy\ufffd\ufffd!\ufffd\ufffd\ufffd^\ufffd\ufffd2\ufffd@V\ufffdp\ufffd\ufffd\ufffd5\ufffd\ufffd.r\ufffd}\ufffd\u927b\ufffdB \ufffd\ufffdh\ufffdj\ufffdz5\ufffd\ufffdTX}\ufffdH&\ufffd\u05c7?F1-\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd \ufffdnMQ\ufffd\ufffd\u00f9\ufffd\ufffd\ufffdP\ufffdy\ufffd/\ufffd^+\ufffd$\ufffd\ufffd@\ufffd\u01921\\.6\ufffd\ufffd\ufffd9\ufffd\ufffd\ufffd\ufffd\ufffd\u02d0\ufffdn\ufffd\ufffdR\ufffd-x\ufffd\ufffd\ufffd\ufffdw'\ufffd\ufffd\ufffd]&\ufffd\ufffd\ufffd \ufffd\ufffdB\ufffd\ufffd\ufffd\u02df\ufffd{#u\ufffd\ufffd\ufffdw}\ufffd\ufffd\ufffdR\ufffd\ufffd]\ufffdc\u0191\ufffd\ufffdc\ufffd\ufffd\ufffdRpK\ufffd\ufffd\"\ufffdq\ufffd\ufffd\u0353{\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\u00ad\ufffdb\ufffd| \ufffd\ufffd\ufffd\ufffd l\ufffd\ufffd\"Ozg\ufffd\ufffd\ufffdJ\ufffd,\ufffd.\ufffd\ufffdiS\u05de\ufffd-\ufffd\ufffd^+\ufffd}ID\ufffdVjG\ufffd42%\ufffd$f\ufffd\ufffd;\ufffd\ufffd3\ufffd3\ufffd$u\ufffdP\ufffdp\ufffd\\\ufffd]h_I\ufffd\ufffd\ufffd\ufffd$\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd|\ufffdpr\ufffd\ufffd\ufffd\ufffda\"\ufffdFYST\ufffd6\ufffd&\u0230\ufffd`,W\ufffd\ufffd\ufffd@\ufffdH\ufffdIl?\ufffdq \ud603#2E\ufffds\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd!\ufffdb\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd7B~\u009c\ufffd\ufffd_US\ufffd\ufffd]\ufffdrE\ufffdVM\ufffd\ufffd\ufffd\u073aD9\ufffd /Eb\u0272\ufffd>\ufffd\ufffd(\ufffdYx\ufffd\ufffdzi\u007f\ufffd\ufffd\ufffd\ufffdw\ufffde# 8u(DH\ufffdGIJRk\ufffdZ\ufffd/v\ufffd\ufffd\ufffdC\ufffdU#\ufffd+\ufffd`@\ufffdHy\ufffd\ufffd \ufffdL\ufffd \ufffd\ufffd6\ufffdXL\ufffd'up\ufffd\ufffd%\ufffd/y\ufffdwR\ufffd\ufffd\ufffd\ufffd S\ufffd\ufffdr\ufffd\u0232\ufffdu\ufffd\ufffd\u0730v\ufffdP-J\ufffdpfpC\ufffd\ufffd+6]#i\ufffd \ufffd\ufffd\ufffdi\ufffdoL\ufffd\ufffd\ufffd\ufffdk\\7D\ufffd\ufffdP\ufffd\ufffdF\u02bb.g\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdQl\ufffd=\ufffd\ufffd\ufffdY\ufffd\ufffd\ufffdc\ufffd\ufffd}.0f\ufffd\ufffd(\ufffd\ufffdq\ufffd\ufffdO\ufffdD+Z\ufffd\ufffd\ufffd0e{C\ufffdw.`-\ufffd>\ufffd7F2\ufffd\ufffd\ufffd\u07be\ufffd\ufffdO~C\ufffd3M\ufffd\ufffdMr\ufffd&.\ufffd\ufffd&\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdj^Od\ufffd\ufffd2m\ufffd_K\ufffd\ufffd\ufffd\ufffdr\ufffdev\ufffd\u0567-_\ufffd\ufffd\ufffdX\ufffda)N\ufffd6\ufffdf^\ufffd\ufffd3\ufffd\ufffd\ufffd |_OmD\ufffdUO\ufffd*\ufffd\ufffd \ufffdSz\ufffdf\ufffdF\ufffd\ufffdGa{me0\ufffd I\ufffd~\ufffd\ufffd9 Y\ufffd\ufffd\ufffdQD\ufffd\ufffd3x\ufffd\ufffd\ufffd'1)XzFQ\ufffd\ufffd1o=[\ufffdtN\ufffd^\ufffd\ufffde\ufffd\ufffd\ufffd\ufffdm?6\ufffdl\ufffd\ufffd\u01ff\ufffdt\ufffd\u0441\ufffd\\\ufffdz\ufffd\ufffd\ufffdV\ufffd\ufffd\ufffdu\ufffd\u019dm\ufffd\ufffd\ufffdNE\ufffd\ufffd\ufffd\ufffd\u02a1eH\ufffd98\ufffd\\\u0744\ufffdKNm\ufffdV\ufffd\ufffd_8H\ufffd\ufffd5\ufffd>\ufffdx{#\ufffdY:E\ucc88* \ufffd2V\ufffd$\ufffd.\ufffdN~\ufffd\ufffd5\ufffd;\ufffd1\ufffd2\ufffdB({ahM0.\ufffd\u01c1\ufffdY(\ufffd\ufffd\ufffd\ufffd8\ufffd{\u018cP\ufffd \u00f8-[m32\ufffdx\ufffd;\ufffdF+m\ufffdF\ufffd\ufffd1\ufffd+\ufffd\ufffd\ufffd\ufffd*f\ufffd\ufffd\ufffd]\ufffd\u0479 '\ufffde\u05f8\ufffd)\ufffd\ufffd\ufffd@K6\ufffdtz\ufffdx\ufffd\ufffd\u07a8O:c/!\ufffd\ufffd\ufffd\ufffd\u04a7)\ufffd\ufffd#\ufffd_L\ufffd\ufffd\ufffd\ufffdI\ufffd\ufffd\ufffd|(J\ufffd\ufffd\ufffdrr\u02f5\ufffdR\ufffd] \ufffd,\ufffd\ufffd]\ufffd\ufffd\ufffd\"Q\ufffd?\ufffd\ufffd\ufffd\ufffdag\ufffdZ\ufffd\ufffdM \ufffdD\ufffd\u029d\u020eWb\ufffd8\ufffd\ufffd\u02d8\ud8aa\ude0d\ufffdz1\ufffd7\ufffdS\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd-\ufffd\ufffdF\ufffdH \ufffd6\ufffd\ufffd\ufffd\ufffd\ufffdVk\ufffd\ufffd,i\ufffd\ufffd\ufffd\ufffdsn\ufffd6 \ufffd\ufffd\ufffdu\ufffdT`\ufffd\ufffd{\ufffd\ufffd\ufffd1u@\u0261H\ufffd+\ufffd\ufffdB\ufffd\ufffd\ufffdnTh\ufffd\ufffd\ufffd\ufffdP\ufffd\ufffdn\ufffd\ufffd\ufffdc\ufffd\ufffd\ufffdZ\ufffdb\ufffd\ufffd,\ufffdx\ufffd\ufffd\ufffd`\ufffd\ufffd\ufffd9iF\ufffdH\ufffd\ufffdf,j6\ufffd;\ufffdL\ufffd/\ufffdo\ufffd#M\ufffdG5z\ufffd\ufffd>9\ufffd\ufffd\ufffd.-\ufffdG\ufffd\ufffd\ufffdC\ufffd*\ufffd.Y6?\ufffd\ufffd\ufffde~\u0660=E\ufffd\ufffdB^\ufffd\ufffd|\ufffd]\ufffdC^U #\ufffd\ufffdVTGj\ufffd\ufffd\ufffd]\ufffd\ufffdE\ufffd:?\ufffd1Bt\ufffd\ufffd\ufffd3@KTF\ufffd\ufffd\u01d6S_\ufffd\ufffd]\ufffd\ufffdR\ufffd|\ufffdI\ufffd\ufffdQ\ufffd\ufffd\ufffdv\ufffd>J\ufffdr\ufffdG\ufffd\ufffdK\ufffd\ufffd\ufffd\ufffdD\ufffd\ufffd\"\u0487\ufffd$\ufffd\ufffd\ufffdh\ufffd\ufffde\ufffda\u0281\ufffdc\ufffd\ufffdG\ufffdw_\ufffd1\ufffd\ufffd,R\ufffd4\ufffd\u0326l\ufffd \u00c5$\ufffd\ufffd\ufffd>\ufffdt\ufffd1\ufffd\ufffd\ufffdT\u04ebw\u035c\ufffd\ufffd\ufffd3zMt\ufffd?@ |X+\ufffd\ufffd\ufffd\ufffd\ufffd\u01c2 \ufffdd\ufffd\ufffd \ufffd8[\ufffd\ufffdy\ufffd6\ufffd0\ufffdv _\ufffd\ufffd}y\ufffd\ufffd\ufffd\ufffdy\udb4d\udcf9\ufffd\ufffd7\ufffd\ufffd\ufffd\ufffd \ufffd\ufffd'VE\ufffdx\ufffd\ufffd\ufffd\\\ufffd7\ufffd[F\ufffd?F \ufffdU~\ufffd\u05dc\ufffdU?v\ufffd3\ufffd\ufffdq\ufffd\ufffd\ufffd\ufffd\ufffd_\ufffdO\ufffd\ufffdj\ufffd%\ufffd5Bq\ufffd9I\ufffd\ufffdy\ufffd!\u0768}\ufffd\ufffd\u068c\ufffdt$l:\ufffdJ7{\ufffdi\ufffd5G0\ufffd\ufffd\ufffd\ufffdJ&_R\ufffdA\ufffd\ufffdD\ufffd]y\ufffd\ufffd\ufffdi\u0141Y,\ufffd\ufffd!{\ufffdZ\ufffd\ufffdf`\ufffd\ufffdl\ufffd\ufffd:\ufffd\ufffd \ufffd\ufffd\ufffd>\ufffd\ufffd(\ufffd\ufffdJ4\ufffd\ufffd2\ufffd\ufffd+\ufffd0\ufffd\u04cf\ufffd\ufffd/\ufffd\ufffd\ufffd\ufffd%\ufffdx^\ufffdc\ufffd\ufffdp\ufffd_q\ufffd?0\ufffdY\ufffd\ufffd\u023c\ufffd4%I#\ufffd%g\ufffd.\ufffd\ufffd\ufffdd\ufffd\ufffd \ufffd\ufffd\ufffd1@\ufffd\ufffd\ufffds\ufffd\ufffd\ufffd^\ufffd\ufffd73\ufffd1y\ufffdG\ufffdk~\ufffd\ufffdn\ufffdf\ufffd $^\ufffdV\ufffd4\ufffd\ufffd%\ufffd'@{\ufffd\ufffd\ufffd\ufffdT\ufffdKsz\ufffd\ufffdS/J\ufffd\ufffdr\ufffd\ufffdI\u0080MF.\ufffd\ufffd{#\ufffde\ufffd \ufffd\ufffd7\ufffd\ufffd\ufffd\ufffd\ufffdQ)\ufffd^\ufffd\ufffdt\ufffd\ufffd\u0097\"\u4391\ufffd0^\ufffd\ufffd\u007fY\u02d7\u0160\ufffd\ufffde\ufffd=\ufffd=U\ufffdL\ufffdVJ_\ufffd\ufffd\ufffd+@\ufffdc\ufffdn\ufffdY\ufffd\ufffd\ufffdSq\ufffd\ufffd9\u0771\ufffd\ufffd\ufffd\ufffd[\ufffd>\ufffdn\ufffd\ufffdq\u0403\ufffdv?1y\u074e\ufffd/\ufffdd\ufffd.RL\ufffd.\ue633E\ufffdK\ufffd\ufffded(\ufffd\u04a1a\ufffd\ufffd\ufffd I_\ufffdj/\ufffd\ufffdf\ufffd~\u0424u\ufffdI\ufffd\u00d2\ufffd\u0542\ufffd'\ufffde\ufffd\ufffd;E\ufffdPg\ufffdt7\"J>\ufffd\ufffdu\ufffd\ufffd\ufffd\ufffdH._\u017co\ufffd\ufffdV9fe\ufffd'\ufffd\ufffdz\ufffd\ufffdz\ufffd\u007f \ufffd+\ufffd\ufffd\ufffd\u055d.!9Sh\ufffd\ufffdt\ufffd\ufffdbb\u0470;5 \ufffd\ufffd\ufffd\ufffd\ufffdM\ufffdQ\ufffd\ufffd\u01f0\ufffdz\ufffd\ufffd5\ufffdMF\ufffdn }L\ufffd\ufffdh\ufffd\ufffd\ufffd\ufffd62n\u0387\ufffdUd\ufffd@\ufffdS,!k'\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdLejm\ufffd4\\\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdy\ufffd\ufffd6\ufffd\ufffdP\ufffd4\ufffd\ufffd\u007f\ufffd\ufffdC\ufffd=U(\ufffd\ufffd\ufffdy.\ufffdD\ufffd^R\ufffd\ufffd\"LjMW \u0777&\ufffd\ufffd\ufffd\ufffd\"/\ufffd\ufffd0\ufffd\ufffd\ufffd\ufffdw\ufffd:h v#8HH`!\ufffd\ufffddZ\ufffd\ufffdf\ufffdT\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdP\ufffd\ufffd\ufffdy\ufffd0 \ufffd=\ufffdE\ufffd[B.J\u00f8\ufffd\ufffd\ufffdJ00\ufffd\u0332P\ufffd\ufffdT1D\ufffd\ufffdA\ufffd%\ufffdW\ufffd\ufffd0M\ufffd5\ufffdb{\ufffdM/f\u0125U\\\ufffd\ufffd\ufffdZ\ufffd\ufffd\ufffd]\ufffd\ufffd\ufffdk}\ufffd\ufffd\ufffdJ\ufffdR\ufffd{\ufffd\ufffd\ufffdq\ufffdJ#xi\ufffdXX`\ufffd\ufffdw\ufffd\u0314j\ufffd\ufffdLWT\ufffd7\ufffdLS\ufffd\ufffd4?\ufffd/\ufffdY\ufffd\ufffdQU\ufffd6'o\ufffda\ufffd;\ufffdX\ufffdO{_\ufffd{n(XI\ufffd\ufffdbn\ufffd\ufffd%\ufffdX \ufffdK\ufffd\ufffd\ufffd|j]\ufffdCt\u007f[\ufffd+ \ufffd0\ufffd\ufffd@=\ufffd\ufffdUa\ufffd\ufffdk\ufffd\u0614`\ufffd\ufffd!\ufffd\ufffd \u00f3\ufffd\ufffd\ufffdp\ufffd\ufffd\ufffd \ufffdbYx|\ufffdb\ufffd\ufffdwll\ufffd\ufffd\ufffd1\ufffdC\ufffd\ufffd\ufffd\\\ufffd\ufffd\ufffdWL\ufffd\ufffd-\u03e8\ufffdF\ufffd\ufffdY\u033365\ufffd\u0379cN\ufffdV^\ufffdiq\ufffdUu]\ufffd\ufffd\ufffd\u021cI.\ufffd\ufffd=\ufffd\ufffdk-6Q\ufffdT|\ufffd\ufffdzzZY\ufffd%\ufffd\ufffde\ufffd\ufffdn_\ufffdG5\ufffd^\ufffd6Sl\ufffd\ufffd\ufffd\u6910\ufffd^\ufffdhEE\ufffd\ufffd\u04a9.\ufffd4 \ufffd\ufffd\ufffdod\ufffd3\ufffdr\ufffdI\ufffd~r\u0567\udbf5\udd97gF\ufffd\ufffd*\ufffdt\ufffd&O%#'^\ufffd\ufffdF\ufffd\ufffds\ufffd}\ufffd) :8\ufffdPx\ufffd \ufffdho\ufffd`\ufffdaa\ufffd:^\ufffd\ufffd\ufffdn\ufffd\ufffd+\ufffd\ufffdV\ufffd\ufffdu(f\ufffdeI\ufffda\ufffdqe:/\ufffd\ufffd\ufffd\ufffd+I3\ufffdt\ufffd\ufffd$\ufffde7\ufffdf\ufffd+@\ufffdm\ufffd\ufffd\ufffd\ufffd\ufffdJx0\ufffd\ufffdH]#w\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdUI\ufffd\ufffd\ufffdMx'\ufffdS\ufffdBhjb\ufffd\ufffd>QVg:'\ufffd\ufffd\ufffd\ufffdS\ufffd$\ufffd\ufffdND\ufffd\ufffd1\ufffd\ufffd\ufffd\ufffdv\ufffd\ufffd\ufffd\ufffd\ufffd\u0799K\ufffd\ufffd\ufffd\u0652\ufffd%\ufffde\ud5d0G\ufffdX\ufffd\ufffd\ufffd>i\ufffdKP?\ufffdNG\ufffd\\\ufffd[@\ufffd\ufffd\ufffd/\ufffdIt+\ufffd\ufffd\ufffd\ufffd:4\u058e\ufffdu\ufffd\ufffd\ufffd\ufffdlS&\ufffd\ufffd\u0225\ufffdl\ufffd\ufffd \ufffd\ufffd*\ufffd-K\ufffdZ\ufffdsp\ufffdb\ufffdN\ufffd\ufffd\ufffd&~\ufffd\ufffd\ufffd\ufffd3\ufffd#\ufffdj\ufffd\ufffdl\ufffd'\ufffdZ\ufffd\ufffd\ufffd[\ufffd\u0427]\ufffd\ufffdt\ufffd\ufffd%\ufffd\ufffd\ufffd>zXx\ufffd&x\ufffd\u0755OOM\ufffda7\ufffd\ufffd\u04e9\ufffd\ufffd\ufffdep\ufffdl\ufffd\ufffdc k\ufffdVU5\ufffd\ufffd*Q\ufffd\ufffd \ufffdI\ufffd\ufffd@\ufffd\u892c\ufffd \ufffd &qAb\ufffdK\ufffd\ufffd \u044b$\ufffdN~Q\ufffdj$ \ufffd\u009a+d\ufffdX\ufffdx\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdnf>\ufffd\ufffdgl\ufffd\ufffd(\u0649\ufffdW\ufffd_q!\ufffd\ufffd\ufffd\ufffdV&Nd\ufffddu\ufffd\ufffdj\"\ufffdp\ufffd;\ufffd \ufffd\ufffd3\ufffd\ufffd\u04faC\ufffd\ufffd\ufffd\ufffdUYA\u01ee\ufffdY\ufffd\u07a7\ufffdu\ufffd/\u03e36R\ufffd\ufffd\ufffd\ufffda@`i\ufffd\ufffdO\u053e\ufffd\ufffdI#\ufffd&3\ufffd\ufffdM\ufffd\ufffdxz[\ufffd2\ufffd\ufffd\u05b1Onc=\ufffd \u058c\ufffdT\ufffd\\^\ufffd\ufffd\ufffd\ufffd\u072b\ufffd\ufffd\ufffd6\ufffdy\ufffdf6\ufffd`\ufffdq\ufffd\ufffdZ\ufffde\ufffd\ufffd:\ufffdjp??\ufffd\u01ca\ufffd\ufffd\ufffdJ\ufffd@.L\ufffd\ufffd\ufffdk\ufffdGsNg}\ufffdDw\ufffd\ufffd2\ufffd \ufffdmA\ufffd\ufffd\ufffdO\ufffd \u0500\ufffd\\*\ufffd9P\ufffd\ufffdn\ufffd$\ufffd\ufffd\ufffd\ufffd\ufffdqw\ufffd\ufffd\ufffdF\ufffd;\ufffd4i\ufffd8\ufffd\u069aF*T\ufffd]\ufffdn\ufffd\ufffd\ufffdg#\ufffd\ufffdMa\ufffdh\ufffd\ufffd~u\ufffdz\ufffd)\ufffd\ufffd\ufffd \ufffd1..\ufffd\ufffd\ufffd\ufffdF\ufffdh\ufffdu\ufffdx{v\ufffdE\ufffdR9A\u44c9\u051a\ufffd\ufffd\ufffd\ufffd:\ufffd0PR\ufffd\ufffd?\ufffd\u0655\ufffd6\u0501\ufffdb\ufffdi\ufffd\u007f\u02eb\ufffd\ufffd\ufffd\ufffd\ufffd>(\ufffd.\ufffd\ufffd\ufffd}_\ufffd\ufffd\ufffd\ufffd\u023bG\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd&\ufffd\ufffd /5;.\ufffd\ufffd\u0119\ufffd\ufffd\\%*\ufffd\ufffd;;\ufffd}hy'+F\u059f\ufffd\ufffdx\ufffd\ufffd\ufffd8`[ \ufffdG}\ufffd\ufffd\ufffd\ufffd}\ufffd\ufffdaR\ufffd1x\ufffd Ye;,J\ufffd\u061ej4\ufffd\ufffd\ufffd\u007f\ufffd_\ufffd*I\u02af\ufffd\ufffdS\ufffd\ufffd\ufffd\ufffd \ufffd\ufffdD\ufffdm\ufffd\ufffd\ufffdV\ufffd\ufffd\ua6ce@Jd50=[\ufffdPk\ufffd\ufffd\ufffd\u07ed\ufffd{l\ufffd\ufffd6\ufffd\ufffd\ufffd\ufffd=\ufffdj\ufffd\ufffd\ufffdDT\ufffd\ufffd\ufffd\ufffdO\ufffd\ufffd\ufffd$\ufffdu=\ufffd\ufffd\ub7b3j\ufffdV\ufffd\ufffd\ufffd\ufffdA\ufffd-\u0370/\ufffd\ufffd\ufffd\u00c1\ufffd*!h;\ufffdh\ufffd\ufffd\ufffd\u05d4\ufffd\u02ce@\ufffde\ufffd`\ufffd`\ufffd8\ufffd.\ufffdZ\ufffd \ufffdm\ufffd\ufffd5&>CxD(z>\ufffd\"\ufffd\ufffd+\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd+4@JXd\ufffd %D\ufffd\ufffd\ufffdV!kp]\ufffd?kG\ufffd\ufffd7*e\ufffdw \ufffdZm41fuUB-\ufffdu\ufffdF-\ufffdb\ufffd\ufffd\u034f\ufffd\u0599g\ufffd/+7\u0195g\ufffd\ufffd\ufffd=\ufffdG\ufffd\ufffd\ufffd\ufffd{)6b\ufffd\ufffd\ufffd?\ufffd\ufffd\ufffd\ufffdA0\ufffd\u03f5\ufffd\u0659\ufffdV\u0474\ufffd@'\ufffd\ufffdO,\u0307\ufffd$xl?i\ufffd:\ufffd4\ufffd\ufffd\ufffdT\ufffd+\ufffd\ufffd7-\\\ufffd\ufffd\ufffdu_\ufffd\ufffd\ufffd\u037c`CY\ufffdLDx\ufffd\ufffdg\ufffd\ufffd\u0676\ufffd\ufffd:\ufffdu\ufffd\ufffd{\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdu\ufffdH4#\ufffd\ufffd\ufffd\ufffdk\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdY\ufffd\u05e0\ufffd\ufffd,\"\ufffd\ufffd+\ufffda\ufffd\ufffdN\ufffd3;\ufffdN\ufffdQj\ufffd\ufffd\ufffdJx}f^\ufffd0\ufffdu\ufffd\ufffd\u076f\ufffd\ufffdR)\ufffd^r?\ufffd\ufffd%1n9\ufffdH\ufffdx\u020b\ufffd5\ufffdM\ufffd\u067d\ufffde]\ufffd\ufffdg1d];\ufffdu\ufffda\ufffdg\u05b8\u05eeRu\ufffd\ufffd\ufffd:8\ufffd\ufffd\ufffd:\ufffd`\ufffd\ufffd7\ufffd\ufffd \ufffdX\u007f\ufffd\ufffd\ufffd\ufffd\ufffd>\ufffd~m\ufffdA\ufffdt\ufffd>v\ufffd9\ufffd*\u0633\ufffd? \ufffdwu\ufffdK2\ufffd\u04d1\ufffd\ufffd*\ufffd:\ufffd\ufffd1\ufffdZ\ufffdj\ufffdt\ufffdTMRns\ufffd=T4\ufffd\ufffd4w\\e\ufffdK2\u0390\ufffd\ufffd]\ufffdh\ufffd\ufffdTHZ3\ufffd\ufffdG\ufffdu\ufffd\ufffd]\ufffd\"\ufffd\ufffd\ufffdR\ufffd\ufffd\ufffdB\ufffd\ufffd\ufffdWk\ufffd\ufffdb]\ufffd\ufffd1m*E\ufffd\ufffd\ufffd\ufffd\ufffd|,gC\ufffd\ufffd\ufffd\ufffdZ>w\ufffdx\ufffd1Jj\ufffd\\\ufffd\ufffdY\ufffd[\ufffd\ufffdqZ6D%6\ufffd\ufffd &\ufffdCt-:s\ufffd4\ufffdK8.\ufffdg\ufffd>E\ufffdy\ufffd#a\ufffdE\ufffd\ufffdQ\ufffdc\ufffd\ufffd\ufffd\ufffd\ufffdWa\ufffd00o\ufffd/\ufffd\ufffd\ufffd$\\Ylr\ufffd\ufffd_\ufffdq\ufffd\u037a%\ufffdd\ufffdP\ufffd\ufffd}x\ufffdE\ufffdo\ufffdw\ufffd\ufffdx\ufffd0\ufffdY\ufffd\ufffd8\ufffd\ufffdE6D\ufffd\ufffd\ufffdm\ufffdG\ufffdY/EMW\ufffdE\ufffd\ufffd\ufffd\ufffd \ufffd\ufffd\ufffdR\ufffd'\ufffdV\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\u22f4A#\ufffdg|\ufffd,R-\ufffd4-y\ufffdw\u05ff\ufffd\ufffd\ufffd\u0664\ufffd\ufffd,&\ufffd3\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd h\ufffdB\ufffd-\ufffd\ufffd\ufffd-Cm\ufffd]\ufffdz\ufffd\ufffdy\ufffd\ufffdRZ\ufffd\ufffd3\ufffd7\ufffd\ufffd\"E\ufffd%\ufffd\ufffd}\ufffd\ufffdd\ufffd;\ufffd\ufffd\ufffd\ufffd\ufffdm\ufffdI\ufffd\ufffdx^\ufffdB/\ufffdp\ufffdY{\ufffd4EV\ufffd9l\\So\ufffd\ufffd\\\ufffdE\ufffd1i~\ufffduAF\ufffd{g?M\ufffd%0\ufffd\ufffd\ufffd\ufffdn\ufffd@g\ufffd\ufffdD%;\ufffd) \ufffd\ufffdG\u0376r\u059c#\ufffd\ufffd'9\ufffd\ufffd\ufffd4\u06e9\ufffdvR\ufffd+\ufffdXm.\ufffde,\ufffde\ufffd\ufffd\ufffd\u0751\ufffd\ufffd3F\ufffd\ufffdlT#VM\ufffd\ufffd6H\ufffd\u0242q\ufffd\ufffdw.\ufffd[n\ufffdO\ufffd\ufffd\ufffd\ufffdK.\ufffdf\ufffd\ufffd5 y\ufffd\ufffd>\ufffd\ufffd\ufffd\ufffdA\ufffd\ufffd\ufffdtJZ\ufffd\ufffd#\ufffd\ufffdLu\ufffdu'\ufffd\ufffdn\ufffd\ufffd=SR\ufffdpv\ufffd\ufffdY\ufffd)+\ufffd\ufffd\ufffd-\ufffdRf3b\ufffdu\ufffd#\\=\ufffd\ufffd&\ufffd`\ufffd\ufffd\ufffd\ufffd\ufffd`\ufffd \ufffd[\u0325,\ufffdTo>|.l\ufffd\ufffd\ufffd\ufffd\ufffd3\ufffdg;\ufffdB\ufffd\ufffd);(\ufffd\ufffd\ufffdc\ufffdd\ufffd\ufffd\ufffdx\ufffd\ufffd J\ufffd7\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd&\ufffd\ufffd\ufffd\ufffd\ufffdP\ua2f7\ufffd}\ufffdAZo|\ufffd\u007f0\ufffd[5aDH\ufffd*C\ufffd\u007f\ufffd\ufffd:]b\ufffd\ufffd\ufffd7u-;\ufffdU\ufffd\"\ufffdCx\u0195m\ufffd`1)\ufffd\ufffd\ufffd\u011fZl7pi\ufffdy\ufffd\ufffd\ufffd_\ufffdHn\ufffdz\ufffd@2!\ufffdl\ufffd\ufffdP(\ufffd\ufffd\ufffd&\ufffd\ufffd\ufffdN\ufffdLd\ufffdq\ufffdujl\ufffd\ufffd=IL\ufffd\ufffdG;\ufffdz\ufffd6\ufffd\ufffdW\ufffd\u009fs\ufffd\ufffdci\ufffd0\ufffd\ufffdL*\ufffd\ufffd\ufffd\ufffd\ufffdZ\ufffdd\ufffd\ufffd\ufffdJ\ufffd\ufffdt\ufffd$*M\ufffd\ufffd\ufffd\ufffdi~\u03b8\ufffd\ufffdq\ufffd\ufffd\u0106\u007f\ufffdMS\ufffd|\ufffd\ufffd\ufffd\ufffdy\ufffd\ufffd0\ufffd\ufffd\ufffd\ufffdh\ufffd\ufffd\ufffdC\"#bsla\ufffd\ufffd\ufffdd\ufffdo}U\u0678\ufffd\ufffd`\ufffdL\ufffd\"u\ufffd\ufffd\ufffd\ufffd:\ufffd\ufffd+:\ufffd@!O\ufffd\u0309]\ufffd\ufffd\ufffd\ufffd\ufffd1\ufffd\"\ufffd\ufffd-\ufffd\ufffdS\ufffdI\ufffdp\ufffd\ufffd\ufffdu;\ufffd\ufffdL}\ufffd2\ufffd\ufffd\ufffd\ufffdt\ufffd\ufffd\ufffd\ufffdD\ufffd.\ufffdk\u00b5f\ufffdk(\ufffd'yz\"dG\ufffd/\ufffd\ufffdZ\ufffd%\ufffd\ufffd.5[A-)\ufffdS\ufffd\ufffd\ufffdW\ufffd)\ufffd!r\ufffd\u06b3\u0132aPz\ufffd\ufffd\ufffd\ufffdX\ufffd\ufffd*\ufffd.fye8\ufffdW\ufffd\ufffdU\ufffd\ufffd;\ufffd$\ufffdC\ufffd:\ufffd0\ufffd\ufffd\ufffd~\ufffd\ufffd 'Q\ufffdB\ufffd\ufffd\ufffdg\u05e7\ufffd\u058eW\ufffd\ufffd\ufffd\u0290Z\ufffdW|2i\ufffd{\ufffd\ufffdGHV\ufffd\ufffdUQ\ufffdq\ufffd\ufffdF\ufffdC`=%#\ufffd:\ufffdJB\ufffdqv \ufffdN(\ufffd\ufffdN\ufffd\ufffd#:\u01be\ufffd\ufffd\ufffd\ufffd(\ufffdw\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdSi|@\ufffd\u007f\ufffd\ufffd\ufffd\ufffd\ufffd1)|\ufffdA\ufffd\ufffdM\ufffdM\ufffd\ufffd\u239c[p\u00aa\ufffd\ufffd{*j\ufffd\u03e4\u031c\ufffd\ufffdG\ufffd\ufffdN\ufffdx\ufffd\ufffd-\ufffdX\ufffd\ufffds6$\ufffd#n\ufffdT-\ufffd\ufffdZpN&\u0687\u01f1\ufffd\ufffdH\ufffd\ufffdx\ufffda\ufffd\u03e9\ufffd\ufffd\ufffd\u016c\ufffd`\ufffd[\"RM\ufffdW\ufffd\ufffd\ufffdU\ufffdY\ufffd!\ufffd4\ufffdp\ufffd=\ufffd\ufffdq\ufffd\ufffd\u0721Q/\ufffd\ufffds\u0711\ufffd\ufffd\ufffd\u061e\ufffd\ufffdx8\ufffdM\ufffdM\ufffd\ufffd\u3531\ufffd\u0479\ufffd\ufffd\ufffdh\u01a2\ufffd0\ufffd\ufffd@L\u0745\ufffd[vb\ufffd\ufffd\u00f5N\ufffdp\ufffd\ufffd$\ufffdJ2\ufffd\ufffd8j(\ufffd\ufffd\ufffdw_0/d\ufffdH\ufffd\u0308\ufffd\ufffd\ufffdQL\ufffd]\ufffd2\ufffdl\ufffd\ufffdi\ufffd\ufffd@GA\ufffd\ufffdh3|5\ufffd\ufffd]\ufffdds\ufffd \ufffd#\ufffdr\ufffd\ufffdC\ufffd\ufffd\ufffd\ufffd\ufffd!\ufffd^\ufffd\ufffd70\ufffd9\ufffdX\ufffdy\ufffdopE\ufffd\ufffdC}\ufffd\ufffd\ufffd13\ufffdz/\ufffd|[\ufffd+sIsY\ufffd\ufffd\ufffdXv\ufffd\ufffdG\ufffd\ufffd,0^v&f\ufffd\u007f\ufffd\ufffd\ufffd\ufffd\ufffdMOK\ufffd\ufffd\ufffd Z\ufffd\\\ufffd\ufffd\ufffd[\ufffd\ufffd7\ufffd\ufffd\ufffd%n}\ufffdi\ufffd\ufffd\ufffdK\ufffd\ufffdx\ufffd\ufffd\u0230W\ufffdu\ufffd\ufffd\ufffd\ufffd\ufffdz\ufffdI\ufffd\ufffd!6\ufffde\ufffd(\ufffd/\ufffdQO\ufffd\ufffdT\ufffd\ufffdKh\ufffd\u0487\ufffd_\ufffdf&\ufffd~[\ufffdw\ufffdX!&\ufffd\ufffda\ufffd\ufffd1\ufffd\ufffdO\u01cf\ufffd\ufffd\ufffd\ufffd4\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdD\ufffdC\ufffd)6\ufffdu\ufffdQ5\ufffd 7=\ufffd\u029f\ufffd.\ufffd\ufffd\ufffd\u06bc1N\ufffd\ufffd+L\ufffd*\u02f8(\ufffd\ufffd+A\ufffd\ufffd\ufffd\ufffdt\ufffdw\ufffd\ufffd6\ufffd\ufffd\ufffdgf\ufffdZj\ufffd\ufffd\ufffdc\ufffd9\u0437\ufffdG\ufffd\ufffd`7[\ufffdIzk\ufffd\ufffd9\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd7v\u0260\ufffd\ufffd\u0446B`\ufffd\ufffdr\ufffd4\ufffdC\ufffd\ufffd\ufffd)V\ufffdc\ufffd|\ufffd:\ufffd(\ufffdzB\ufffdO\u66d1\ufffd\ufffd\ufffd/X!1\ufffd\ufffd\ufffd8\ufffdl\ufffd|\ufffdlZ\ufffd\ufffdT3\"\ufffd~{*1ar\ufffdm\ufffd\ufffd\"\ufffdu&\ufffd(q\ufffd3\ufffd\ufffd-\u05ea\ufffd\ufffd\ufffdu\u059a\ufffd \u077f\ufffdQ\ufffd\ufffdma6\ufffdV_\ufffd\u01ad\ufffd_\ufffd\ufffd\ufffd\ufffd JA\ufffdD\ufffd!\ufffd\ufffd?@\ufffd\ufffdd\ufffd\ufffd8\ufffdM\ufffd\ufffd\ufffd\u0569\u47b9xN\ufffd7\ufffd\ufffdXVV\ufffdc*\ufffd\ufffd>` c\ufffd\ufffd.\ufffd8\ufffdZ}\ufffdI\ufffd\ufffdW\ufffdP\ufffd\ufffd\ufffd\u0244y\ufffd\ufffd}\ufffd\ufffd\ufffd\ufffd5\ufffdpR\ufffdI\u05df\ufffdk[\ufffd`E\ufffd\ufffd\ufffd\ufffd=\ufffd\ufffd\u608e\ufffd\ufffdg\ufffd \ufffd/\ufffd X\ufffd(\ufffd\ufffd\ufffd\ufffd\ufffd^\ufffd\ufffd^\ufffdK+\ufffds\ufffd\ufffdX\ufffd\\;\ufffd\ufffd\ufffd\ufffd\ufffdEL.`\ufffd|\ufffd\u06c2+9:x\ufffd\ufffdz\ufffdBj\ufffd\ufffd\u0586_\ufffd\ufffd\ufffd\ufffdh\ufffd\ufffd),{\ufffdR\u017bfj:\ufffd3\ufffd\ufffdK \ufffd}\ufffdd\ufffdV6d\ufffdPE4 > :oi\ufffd]\ufffd&\ufffdI\ufffdD\ufffd\ufffd\ufffd @\ufffd8\ufffd\ufffd\ufffdp\ufffdN\u007fG(5\ufffd\ufffd\ufffd\ufffde\ufffd\ufffd`-c\ufffd*\ufffdf\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd. \ufffdle\u04e6+l\ufffd\ufffdM\ufffd@\ufffd^>\ufffd\ufffdeq\"\ufffdo~5Z\ufffdW\ufffd\u047c_.\ufffd\ufffdL9#\ufffd \ufffdCD\ufffd\ufffd\u03df\ufffdQ\ufffd\ufffd\ufffdcN\ufffd\u03a9\ufffd\ufffdK&\ufffd\ufffd3w\ufffd\ufffde\ufffd`,\ufffd\ufffdd\ufffd \ufffd0\ufffd~_\ufffd\u007fQ H\ufffde_\ufffd\ufffdOk\u07f5\ufffdI_\ufffd\u02cb\ufffd\ufffd \ufffd`\ufffdm \ufffd*\u017a:.G\ufffd}eb\ufffd\ufffdY\ufffd\ufffd`b\ufffd\u072d\ufffddS0\ufffdq\ufffd\ufffd3\ufffd\ufffd\ufffdp\ufffd\ufffd\ufffd\ufffd\ufffd?aZ\u0084\ufffdt\ufffd\u0442.)r\ufffd\u0276\ufef6=q~m\ufffd9\ufffdvyh\ufffd@\u05994Q&\ufffd)\ufffd\ufffd&\ufffd\u02d5\ufffdA\ufffd\ufffdo\ufffd\ufffd\ufffd\ufffd\ufffdUKO\ufffd^N\ufffd\ufffd0I3\ufffd0\ufffd+\ufffd\"}Z_\ufffdi\u0382EwZ@H9-\ufffdp\ufffd3\ufffd\ufffdHq\ufffd*\ufffd3\ufffdsi\ufffd \ufffd\ufffd&z\ufffd,\ufffd\ufffdS\ufffd\ufffdBX\ufffd\ufffd8\ufffd,_\ufffd\ufffd\ufffd \ufffd\ufffd\ufffd\ufffd\ufffd\ufffdit\ufffd\ufffdj%M\ufffd\ufffd \ufffdf\ufffdH\ufffd\ufffd\ufffd\ufffd\ufffd*.t4\ufffd\ufffdf1\ufffd;\ufffd4\ufffd6BX\ufffd\ufffd_\ufffd\ufffd\ufffd\\\ufffd\ufffdPs8\ufffd\ufffdv\ufffd X\ufffdWJ;\ufffd)\u05ac\ufffd\ufffdKc\ufffd;\ufffdQ\ufffd\u71fdG\ufffdC\ufffd&>\ufffd\ufffd'B 4\ufffd\ufffdD\ufffd%\ufffdT\u025d\u07f2\ufffd\ufffd\ufffdX\ufffdk\ufffdV\ufffd\ufffdx\ufffd\ufffdq1rt\ufffd\ufffd\u06c8~\ufffd\ufffd\u0665\ufffd\ufffd\ufffd\ufffdA\ufffd\ufffd\ufffd \u0455qR\ufffd\ufffd\ufffdT\ufffd`\ufffdt \ufffd\ufffd\ufffdq\ufffdL}>\ufffd\ufffd>E\ufffdf2\ufffdo\ufffd-\ufffd\ufffd0\ufffd\ufffd\ufffd\u007f\ufffd6\ufffd\ufffdO[[Gh\ufffd \ufffd\ufffd}\ufffd\ufffd5C\ufffd\ufffd\ufffd\ufffd endstream endobj 9 0 obj > stream \ufffd\ufffd11R\ufffd\ufffdB\ufffdZ\ufffd\ufffdu\ufffd\u052fS H\ufffd\ufffd@\ufffdL\ufffd\ufffd^_+\ufffdB\ufffd\ufffd\ufffdT\ufffdJ\ufffd\ufffd\ufffdc\ufffd\ufffd#4w 0 >> stream 0M\ufffd.#.#\ufffd\ufffd9\ufffd\ufffd\ufffdUG\ufffd\ufffd\ufffd \ufffd\ufffde\ufffd;udfs \ufffdyF\ufffd=\ufffdHK\ufffdO\ufffdp\ufffdQ\u0654\ufffd\ufffd $\ufffd\ufffdbq-\ufffd\u01f3\ufffdZ\ufffd\ufffd\u007f\ufffd`\ufffd\ufffd!\ufffdt\ufffd\ufffdt\ufffdZzr\ufffd\ufffd:\ufffd\ufffdA\ufffd_\u007f\u05c7\ufffdG\ufffdJ\ufffd4\ufffd\ufffd6 Q\ufffd-\ufffd\ufffd\ufffd\ufffd!-K\ufffd\ufffd5\ufffd\ufffd\ufffdH\ufffd>+~3\u05e1g!\ufffd\ufffd\ufffd\ufffdK\u0635Y\u007f \ufffd\ufffd\ufffd\ufffd\ufffd!\ufffd\ufffd\ufffdhw@\ufffdy\ufffd\ufffd\ufffd\ufffd\ufffdJ?wIM-n \ufffd[\ufffd\ufffd\ufffdn\ufffd7\ufffdG,\ufffdHJ, '\ufffd\ufffd;\ufffd*\ufffdp4\ufffdw(4+%vM\ufffd\ufffd}oUJU\ufffd\ufffd\u0251\ufffd\ufffd\ufffd b\u007f\ufffdB\ufffd\ufffd\ufffdn\ufffd\ufffd\ufffd\"kEv\ufffd\ufffd\ufffd#dU?\ufffdT\ufffd \ufffdh\ufffd\u032eH>\ufffd\ufffd\ufffdY VuT\ufffd\ufffd\ufffd^piO.\ufffd`\ufffd'\ufffdW\ufffd\ufffdpug\ufffd\u0114\ufffd\ufffd@\ufffd'\ufffd;\ufffd\u0513+\ufffd\ufffdhAg\ufffd\ufffd\ufffd\ufffd~\ufffd\ufffd.\ufffd_7\ufffdH\ufffdi\ufffd\ufffd\ufffd8\ufffd\u00f3\ufffd\ufffd\ufffdRm?\ufffd\ufffd/\ufffd\ufffd=\ufffdlE)\ufffd\ufffd1\ufffd\ufffd\ufffdR\ufffd\ufffd\ufffdL\ufffdD\ufffd#\ufffdnJ2-U\ufffd\ufffdc\ufffd\ufffdc\ufffd\ufffd4\ufffd u\ufffd9\ufffd?p\ufffd\ufffd\ufffd\ufffd4\ufffd@\ufffd\ufffdY\ufffdq\ufffd*9s'\ufffdQ@^\ufffd\uc331j(Zr\ufffd\ufffd}S\ufffdMw\ufffdM\ufffd\ufffd@\ufffdmC\ufffdp\ufffd\ufffdD\ufffd\ufffdO\ufffd\ufffd\ufffd\ufffd\ufffd\ufffda\ufffdh\ufffdw\ufffd\ufffd\ufffd\ufffdh[\ufffd\ufffd\ufffd\u0573\ufffd\u058c\ufffd9\ufffd\ufffdH+\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\u0353G\ufffdk7\ufffd\ufffd.\ufffdU[OD\ufffd:\ufffdz\ufffd\ufffd\ufffdy\ufffdK\ufffd>\ufffd\ufffd|x\ufffd\ufffd\ufffd\ufffd \ufffda\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdr\ufffdP\ufffd\ufffd2\ufffd\ufffd.\ufffd\ufffd\\[\ufffdJ\ufffd-\ufffdi\ufffdV\ufffd\ufffd&\ufffd,\ufffd\ufffdB\ufffdq\ufffdnv\ufffd\ufffd \ufffd&O\ufffd\ufffd =\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdd\ufffd\ufffd\ufffd\" \ufffd\ufffdP+w\u00b3@sj=\ufffd\ufffd\ufffd\ufffds\ufffd\ufffd\ufffdQk\ufffd\ufffd\ufffdqCa\ufffd\ufffd\ufffd\ufffd\ufffdFIG\ufffd\ufffd\ufffd\u007f+L~\ufffd\ufffd|E\ufffdO\ufffd\ufffd\"Hx\ufffd\ufffd\ufffd\ufffd.E\ufffd&`\ufffd K\ufffd_F7\ufffd\ufffdT\ufffdK\ufffd\ufffd!'\ufffd!~ \ufffdp\ufffd\ufffde\ufffdp;\ufffd7\ufffd\ufffd\ufffdr\ufffd\ufffdfoC\ufffd\ufffd\ufffd\ufffd!\ufffdN\ufffd\ufffd]\ufffd\ufffd+q>*L\ufffdv\ufffda\ufffdoj\ufffd\ufffd\u8eee\ufffd\ufffd\ufffd\ufffd1\ufffdKt`\ufffd\ufffd\ufffd\ufffd\ufffdG\ufffd\ufffd\ufffda\ufffd\ufffd\ufffdC:\ufffdv3\ufffdD;\ufffd|\ufffdq:m\ufffd4\ufffdb\ufffd \ufffd\ufffdw\ufffd\u056b\ufffdF\ufffdL\ufffd\ufffd\u0090l\ufffdz >\ufffd\u04cbO\ufffd\ufffd\ufffdx\u0554\ufffd%+\ufffd+\ufffd7\ufffd\ufffd3F}T\ufffd.X\ufffd\ufffd\ufffd\ufffd\ufffd%%1y\u0707\ufffd6&}-\ufffd_\ufffd\ufffd?l\ufffd\ufffd\ufffd\ufffdJ\ufffdA\ufffd\ufffd\u00cd|\ufffd\ufffd\ufffd*\u0587\ufffd\ufffd\ufffd\ufffd>Y*\ufffd>\ufffdC\ufffd\"\ufffd\ufffd7\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd*\ufffd\ufffdM\ufffd\ufffd\ufffd\ufffdH\ufffdH\ufffd|Q\ufffd\ufffdR\ufffd\ufffda\ufffd\ufffd4\ufffd\ufffd\ufffdT\ufffd\ufffdY\u01a2\ufffdO\ufffd&=\ufffd\ufffdW\ufffd \ufffd\ufffd\ufffd\ufffd\ufffd#.u \ufffdK\u03e2\ufffd?V\ufffdV|\ufffd\\\ufffd\ufffdJIX\ufffdx\ufffd\ufffd\ufffd\ufffdv\ufffd\ufffd?{O\ufffd\u007f\ufffdV\ufffd9r`D\ufffd\ufffd\ufffd\ufffdo;t6\ufffd7hf\ufffd&\ufffd\ufffd\ufffd\ufffd\ufffdd\ufffdkN\ufffd\ufffd~\ufffd >\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd)\ufffd\ufffdR\ufffd!\ufffd\ufffdXmRx3\ufffd\ufffd0\ufffd\ufffd\ufffdI`\ufffd\ufffd c1a\ufffd9w\ufffd\ufffd\ufffd\ufffd=ZWC\ufffd+\ufffd%\ufffd]\ufffd\ufffd\ufffdS\ufffd\ufffd{\ufffd\ufffd\ufffd62\u0456\ufffd\ufffd\ufffdI\ufffdZ\ufffd\ufffd\ufffd\ufffd\ufffdj\u045f\ufffdu\ufffd(H\ufffd\ufffd\ufffd\ufffdP\ufffd\ufffd?\ufffd\ufffd%v'\ufffd\ufffdx\ufffd\ufffd,\ufffdt\ufffd}%\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd!\ufffdx\ufffd\ufffd\ufffd\ufffd2\ufffd `\ufffd|\ufffd\ufffd\ufffd\ufffdT/\ufffdp\ufffd\ufffdD\u7639>\ufffd\ufffd\ufffd\ufffdq\ufffd]Zw\ufffd\ufffdM\ufffd\ufffd'(\ufffd\ufffd\u02ca\ufffd6#\ufffd`\ufffd\ufffdx\ufffdZ \ufffd\ufffd\ufffd\ufffd!\ufffdI\ufffd\ufffd#|x\ufffdS{\ufffd\ufffd\ue8a2 h2K\ufffd5\ufffd\ufffd5\ufffdH\ufffd>\ufffd\ufffd\ufffdWTsZ>q\ufffd\ufffd\u0319\ufffd2S\ufffd g\ufffd\ufffd:\ufffd\ufffd\ufffd\ufffd,\ufffd}Z;\ufffd \ufffdaD\ufffd\ufffd\ufffd6l2\ufffdpoc\ufffd\ufffd\u73e8\ufffd\ufffd\ufffd)\u0086\u01c4\ufffdSe/\ufffd\ufffd^\ufffd[\ufffds/\ufffd(\u0605N\ufffd\ufffd\ufffd\ufffdp\ufffd\ufffdr|\u036c\ufffd\ufffdJm\ufffd\ufffd)\ufffd_\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd%o\ufffdwE\ufffd\ufffd\ufffd\ufffd\ufffd\ufffde\ufffd $2\ufffd\ufffdR\ufffde\ufffdZgz\ufffd\ufffd\u02893\u05dc.|\ufffd#\ufffd\ufffd*\ufffd;!\u064fLaJ(\ufffd|\ufffdU\ufffdg\ufffd 1d\ufffd5\ufffd#?\ufffdEj_\ufffdsc\ufffdI|D\ufffd&\ufffd!\ufffdFG}\ufffd\ufffd\u053bC\ufffdW\ufffd\ufffd\ufffd\ufffd \ufffd\ufffd\ufffd7\ufffd2\ufffd\ufffd]&\ufffd\ufffdE\ufffd\ufffd7\ufffd\u033bg)dw\ufffdq$\ufffd\ufffdh\ufffd\ufffd^\ufffd\u0517|\ufffdr]sk\u5867\ufffdl4)\ufffdWD\ufffd\ufffd\ufffd>=Y/(:},1$N\ufffdj\u0655\ufffd\ufffdK\ufffd)#\ufffd\ufffdl\ufffd\ufffd_gE;m\ufffd\ufffdl\ufffd\ufffd\ufffd#\ufffd\ufffd+H\uaf004%/\ufffd\ufffd\ufffd h.\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdV\ufffd3i\ufffd;s\ufffd\ufffd`&r\ufffd\ufffdox\ufffd\ufffd\u00cc\ufffd|\ufffd) \ufffd\ufffd\ufffdNA\ufffd\ufffd\ufffd\ufffdqI\ufffd\ufffdN\ufffdV\ufffd\ufffdDn\ufffdv\ufffd\ufffdg\ufffd\ufffdZ\ufffdA\ufffdA\ufffdNQya-\u007f ^\ufffdx;eo\ufffdYL\ufffd\ufffd\ufffd~#DP\ufffdD\ufffd\ufffd\ufffd\ufffda\ufffd\u007f\ufffd\ufffd&z\ufffd\ufffd\ufffd}\ufffdT\ufffd\ufffdY~\ufffd|2\ufffd\ufffd>\ufffd\ufffd9b7\ufffd\ufffd 7\ufffd7\ufffd\ufffd\u06b2\ufffd\ufffd\ufffd\ufffdH\u0229p\ufffd$ \ufffd:LNuAz\ufffd\ufffd2\ufffd \ufffd\ufffd\ufffdP\ufffd\ufffd(V\ufffd\ufffd\ufffd\ufffd\ufffd&\ufffdYh\ufffdy\ufffdR6\ufffd\ufffd\ufffd\ufffd\ufffd.$\ufffd\"\ufffd\ufffd.\ufffd)\ufffd\ufffd&\ufffd\u00dc\ufffdD\ufffd\ufffd\ufffd;o\ufffdta,LJ\ufffdL\ufffd\ufffd\ufffd\ufffdd\ufffd\ufffd\ufffdS:pY\ufffd\ufffdQl&\ufffdz_`f\u007f\ufffd\ufffd\ufffd}af\ufffd%bu9E\ufffd\ufffd\ufffdz4\ufffdT\ufffdD\ufffd\ufffd@?S} \u007f\ufffdg\ufffd6\ufffd\u05f3 y\"6\ufffdW\ufffd\ufffd\u0223D\ufffd\ufffdi\ufffd\ufffd\ufffd\ufffd8ry\ufffd\ufffd!1\u06e9\ufffd\ufffd\ufffd\ufffdtA\ufffdl\ufffd#r\ufffd\ufffd\ufffdI ;\ufffd@j\ufffd\"\u06ba(TUx\ufffd\ufffd\ufffdhA1 >\ufffdC80\ufffd\ufffd &Q\ufffd\ufffdv2@_\ufffdZ\ufffd\ufffd^\ufffd\ufffdb\ufffdj\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdd\ufffdT\ufffd\ufffd\ufffd\ufffd\ufffd3\ufffdJ\ufffd\ufffd\ufffd\ufffd\ufffd;\ufffd\ufffd\ufffdS\ufffdJ\ufffd\ufffd \ufffdt\ufffd02\ufffdk\ufffd\ufffd\ufffd\ufffd*\ufffd%@n\ufffd\ufffdMv\ufffd\ufffd~\\\ufffd\ufffdNh\ufffd(\ufffd\ufffdwL\ufffd1\u0273x5\ufffdIE!\ufffd31~\ufffd\ufffd\ufffd:\ufffd\ufffd\ufffdb\ufffdB\ufffdB\ufffd\ufffdt\ufffd C\u03ad\ufffd\ufffd6\ufffd\ufffd \ufffd\ufffd5\ufffd\ufffd|\ufffdl*p\u0301\ufffd\ufffd\ufffd\ufffd\\h%I-S\ufffdD\ufffd\ufffd\"i\ufffdc>O,\ufffd#\ufffd\ufffd8\ufffd[x\ufffd\ufffd$\ufffd\ufffd\ufffd \ufffdh\ufffd\uabeb\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd;w\ufffd'Li\ufffd\u06f2C&E\ufffd\ufffd\ufffd\ufffd\\|w\ufffd}[\ufffd\ufffd\ufffdk#\ufffd!\ufffd\ufffd%\ufffd\ufffd4\ufffd#\ufffdh\ufffd)\ufffd$\ufffdaU18)\ufffd-if\ufffd\ufffd)\ufffd5\ufffdl\ufffd\ufffdm\ufffd\ufffd\ufffd\u0169\ufffd\u03bbo\ufffd\ufffd@(\ufffd\ufffd\ufffdHj\ufffd\\\ufffdy\ufffd0@\u07e0_u\ufffdT/U\ufffd\u0086w\ufffd\u02db9$\ufffd\u01f8\ufffd\ufffd\ufffd &\ufffd|!\u007f\ufffd]\ufffd0\ufffd\ufffd.\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd/\ufffd]\ufffdLt]\ufffd3\ufffd\ufffdY+\ufffdp\ufffd\ufffd@C1\ufffd1vAK\u070e\ufffd\ufffd\ufffdGK8V\ufffd.8\ufffd\ufffd\ufffdl\ufffd\ufffdl\ufffd\ufffd{\ufffd\u06a34 y\ufffd\ufffd4D\ufffd?\ufffdt \u0490\ufffdy\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdo>Ch\ufffd\ufffd\ufffdb-CIR\ufffd\ufffd@\ufffd\ufffd \ufffd=\ufffd\ufffdqN\ufffd\ufffd:\ufffd\ufffd\ufffd\ufffde\ufffd\ufffd\ufffdx\ufffdS\ufffd_\ufffd\ufffd\u00f1 &\ufffdg\ufffdh\ufffdbR\ufffd!\ufffdp\ufffd\ufffd\ufffd\ufffdUx\ufffd\ufffdU\ufffdg\ufffd\ufffd1!\ufffd\ufffdE\ufffd\ufffd\ufffd{\ufffd36ldr:)4z\ufffd\ufffd\ufffd\ufffd}\ufffd@c\ufffd]\ufffd\ufffd0Hl$\ufffd\ufffd\ufffd%\ufffdV\ufffd 6\ufffd\ufffd\ufffd\ufffd@4i\ufffdN\ufffd\ufffd\ufffdjH1\ufffd\ufffd\ufffd6\ufffd^\ufffd4\ufffd\ufffd$\"@\ufffd\ufffd\u0662G2e\ufffd8\ufffd\ufffd'HD\ufffd\ufffd\ufffd\ufffdq\ufffd\ufffd\ufffdX\ufffd#>cS^\ufffdI\ufffd\ufffd\ufffdq\ufffd\ufffd \ufffdO/\ufffd*\ufffd!\ufffd\ufffd@!\ufffd\ufffd6\ufffd\ufffdp[\ufffdAs\ufffd\u0482\ufffd\ufffd\ufffd\ufffd'\ufffd\ufffd\ufffdj%\ufffd(\ufffd\"\ufffdJ\ufffdeB\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd|>\ufffd'\ufffdu\ufffdqJy\\\ufffd\ufffd$\ufffd;q\ufffd\ufffd+Zb=v\ufffd1z\ufffd\ufffd\ufffd\ufffd\ufffd-\ufffd\u0655\ufffd\ufffd=\ufffd&\ufffd\u0753\ufffd\ufffd\u0251\ufffd\ufffdS\ufffd5\ufffd\ufffd=\ufffd\ufffdOl\ufffd\ufffd\ufffd\ufffdJ\ufffd\u007f2T^\ufffdcL9\u3ae8+\u4002m\ufffdr\ufffd\ufffd.>\ufffd\ufffd\u0634% =\ufffd\u0388\ufffd\ufffd\ufffd\u01a1\ufffd /\ufffd5\ufffds\ufffd\ufffd\ufffd\ufffd \ufffdw\ufffd\ufffdX\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdR\ufffd6\ufffd[\ufffd]P#\ufffd^\ufffd=\ufffd[\u055fq\ufffdL\ufffd\ufffd%^\ufffd\ufffdXa\ufffd\"}\ufffd\ufffdP\ufffd\ufffdn_\u007f \ufffdj\ufffdA\ufffd\ufffd_\u03cd\ufffd\ufffdHV\ufffd^,B.le\ufffd\ufffd'\ufffd\"\ufffd\ufffd\ufffd\ufffdA\ufffdg\u0684F\ufffd\ufffd\ufffd\u06c1\ufffd\ufffdG\ufffd\ufffd5\ufffd\ufffd\ufffd\ufffd>\ufffdc-\ufffd0L\ufffdb:\ufffd,\ufffd\"&2\\\ufffdO~> wz\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\u06c8\u007fYi\u009aD\ufffda\ufffd.\ufffdM\ufffdvL \ufffd\ufffdH\ufffd\ufffd,\ufffd\ufffd\ufffd4\ufffd/\ufffd%P\ufffd\ufffdi\"- [U^r\u072a\ufffd\ufffd*\ufffdI\u06ac\u02365\ufffdf\ufffd`\ufffd\ufffds\u6c12\\\ufffdm\ufffd}D\ufffd4\ufffd/\ufffd-\ufffd\ufffd\ufffdW\ufffdPq\ufffd\ufffd\ufffdE\ufffd\ufffd\ufffd\ufffd\ufffdd}:K\ufffda!0\ufffd|\ufffd\ufffd\ufffd\ufffd x\ufffdv\ufffdXr\ufffd0\ufffd\u02ac\ufffd\ufffd\u78b4\ufffd.j\ufffdx\ufffdU\ufffd-\ufffd\ufffd\ufffdR#\ufffd\ufffd\ufffd\ufffdU\u0491h\ufffd\ufffdQ=\ufffd\ufffdY\ufffd\ufffd\u0715\"Qt\ufffd! P\ufffd \ufffd\ufffd\ufffd\ufffd\u03d2]m\ufffd\ufffd8\ufffd\ufffd\u00c4ptW\u2bb3\u0221\ufffd\ufffdpp\u07efq\ufffdl>\ufffd\ufffd\ufffd\ufffdE`\ufffd8u?\ufffdz\ufffd4\ufffd|>\ufffdp \ufffd\u018f\ufffd\ufffdtCch\ufffd\\\ufffd\ufffdG \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdVDB\ufffd+\u03d4\ufffdXP\ufffd\ufffd\ufffd\ufffd\ufffd~\ufffd,N\ufffd9\ufffd%G \ufffd{q\ufffd\ufffd\ufffd\"\ufffds,{iG\ufffd\ufffdnx\ufffd]\ufffdz\ufffd\ufffdW\ufffdA\ufffd\ufffd\ufffdP\ufffd\ufffdja\ufffd\ufffd\u0ee2\ufffd\ufffdH \ufffdM\ufffd5+\ufffd\ufffdD Eg\ufffdQdp\ufffdR\ufffd\ufffd\ufffdgu\ufffd\ufffdJ\ufffd?\u04705\ufffd\u01b8\ufffd\ufffdnXj\ufffd[\ufffd\ufffd+\ufffd\ufffd\ufffd\ufffdJ\ufffd\ufffdy\ufffdM\ufffd\u007f\ufffd\ufffd/`'\ufffd`|\ufffd[\ufffd`N\ufffdF\ufffd\ufffd\ufffdFv\ufffdHU+\ufffd\ufffd\ufffd!U\ufffd\ufffd\ufffda\ufffdHF\ufffd\u007f\ufffd\ufffd>\ufffd\ufffdg\u0100a{\ufffd!\ufffd\ufffd(\ufffd\ufffd2\ufffdi\ufffd\ufffd\ufffd \ufffd\ufffd(\ufffd\ufffd\"\ufffdgtiHLnY\ufffd\ufffd,\ufffd@P\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdqR\ufffd\\(\u0108O\ufffd\ufffd\ufffdP\ufffd\ufffd9\ufffdA\ufffd\ufffd9\ufffdS:\u07af\ufffdC\ufffd\ufffd\"U\u0114\ufffd\ufffd\ufffd8\u0122\ufffdQG\ufffd\ufffd\u128c\ufffd._\ufffd\ufffd3TGw\ufffdt\ufffd}\ufffdo\ufffdH:\ucd86r\u00a3\ufffd>\ufffd\ufffd\ufffd\ufffd[=\ufffdm\ufffdD \u0396P\ufffd[\ufffd\ufffd\ufffd\ufffd?\ufffdp\ufffd\ufffdU{\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdO\ufffdbO\u02e6\ufffd 2\ufffd[\ufffdiK\ufffde\ufffd$\ufffdN\ufffd\u0160\ufffd\ufffdT\ufffd%\ufffd@Q\ufffd\u0677\"\ufffd~3'\ufffdFzC\ufffd/\ufffd\ufffd\ufffd\ufffdx\ufffd\ufffd\ufffd\ufffdQbP\ufffd2\ufffdL^\ufffd`OE\u07be\ufffdl\u02f5\ufffd\ufffd\u33d3F\ufffdJ\ufffd\ufffd\u0607\u0396=\ufffdt*R\ufffd\ufffd'F\u03e4A\ufffd\ufffd\u0424\ufffdJ\ufffdj\ufffdhS\ufffd\ufffd\ufffd\ufffd\u0773\ufffdxIl\ufffd#'95&~\ufffd\ufffdE\ufffdj\ufffd'l\ufffd\ufffd\ufffdOn}\u04fb\ufffd5@+\ufffdm\ufffd\ufffd,\ud639\ufffd\ufffdijp\ufffd\ufffdu;'D\ufffd*\ufffd\ufffd*\ufffd\u6d3c\ufffd\ufffd \ufffdq\ufffd\ufffd$\ufffd\ufffd\ufffd\ufffde\ufffd\ufffd\ufffd7Rf\ufffd\ufffdi^(\ufffd\u01c5\ufffd,x\ufffd\ufffd\ufffd&\ufffds\ufffd9\ufffd\ufffd\ufffdo\ufffd\ufffd\u072be\ufffd\ufffd\ufffdA\ufffd\ufffd/w\ufffd\ufffd\ufffdjz\ufffd\ufffd{*:AQ\ufffdi\ufffd\ufffd\ufffd^\ufffd2\ufffd i\ufffdF\ufffdo%\ufffd?\ufffd\ufffd\ufffdgw\ufffd\ufffd\u007f!\ufffd2\ufffd-\ufffd\u0343\ufffd7\ufffd1/\ufffd>\ufffdF \ufffd\ufffd \ufffd\ufffdSMe\ufffdr\ufffd\ufffd%\ufffd*\ufffd\ufffd8:?\ufffdd\ufffd\\kf\ufffdWj\ufffd\u0627\ufffd\ufffd&N\ufffd\ufffd\ufffd \ufffd>\ufffdo\ufffd1GaSA\ufffdO6\ufffda\ufffd6:%\ufffd\ufffdM\ufffd/\ufffd\ufffd9%\ufffd\ufffd\ufffd\ufffd\ufffdO {\ufffd\ufffd\ufffdWHD\ufffd\ufffd\ufffd~\ufffd3#\ufffd\ufffdt\ufffd\ufffd\ufffd\ufffd\ufffdR\ufffd\ufffd=\ufffd\ufffd\ufffd\ufffdQuk\ufffdt\ufffd\ufffd\ufffd\ufffd\ufffd !{\ufffd \ufffdf&\ufffd\ufffdG6\ufffd\ufffd\ufffd$\ufffd\ufffd\ufffd.\ufffd\ufffd\ufffd\ufffd\ufffd@\ufffd9\ufffd\ufffd*\ufffd\ufffd\ufffd\ufffd\\\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd*a\ufffd\ufffdy\ufffd3|\ufffd\ufffd\ufffdV\ufffd7X&\u0183\ufffd\ufffd\ufffd\ufffdX6\ufffd)\ufffd\ufffd%\ufffd_\ufffd\u07dd\ufffdn\ufffd\ufffd\ufffd$\ufffd\ufffdn\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdG6t\ufffd^\ufffd\ufffdl\u00bcp~\ufffd8Mt`\ufffd\ufffd!\ufffd\ufffd\ufffd\ufffd\"v\ufffd\ufffd=\ufffdp\ufffd\ufffd=\ufffdl\ufffdv,\\t\ufffd\ufffd\ufffdN\ufffd?7\ufffdA\u009a\ufffd\ufffd{\ufffd(\ufffdU\ufffdL_\ufffd?\ufffd\ufffd1J\ufffd\ufffd>|\ufffd\ufffd\ufffdF#\u0256\ufffd\ufffd\ufffdZ1\ufffd\ufffd\u060b\ufffd\ufffd_$\ufffd\ufffd'\ufffd\ufffd0=\u0461R>at\ufffd6\ufffdY\ufffd\ufffd5\ufffd75\ufffd3$\ufffd`,\ufffd\ufffdv\ufffd\ufffdU\ufffd\ufffd)\ufffd%O\ufffdl~\u03ee\ufffd?Z\ufffd\ufffdK \ufffdH\ufffd\ufffdV+!B\ufffdZ\ufffd\ufffd Q\ufffd)\ufffd\ufffdB\ufffd\ufffd\ufffdS0W2\ufffd\ufffd\ufffdL_\ufffd\ufffd\ufffdW\ufffd\\\ufffd^\ufffd\ufffd'\ufffd\ufffd\ufffd>c\ufffdY\ufffd\ufffd\u053d\\6\u0233 \ufffd$l\ufffdh\u007f\ufffd\ufffd\ufffd\ufffd\ufffd:\ufffdrp]|\ufffd\ufffd\ufffd\ufffd,\ufffd\u07ad\ufffdQ\ufffdu\ufffd R&B\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd>\ufffd\ufffd\ufffdE\ufffd{=\ufffd\ufffdE\ufffd\ufffdh\ufffd\ufffd\ufffd$g\ufffd\ufffd3\ufffdI|P\ufffd\ufffd\ufffd\ufffdQ[ \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd,x\ufffdg\ufffd\ufffd\ufffd_\ufffdT\ufffd[\ufffdI\ufffd\u0193\ufffdQ2g\ufffd\ufffd\ufffd\ufffd\ufffd#\ufffd)J\ufffdp=_\ufffd`'\ufffdF7[\ufffd\ufffd\ufffd\ufffd :\ufffdc\ufffd`E\ufffd\ufffd\ufffdjrd\ufffd\ufffdZ\ufffdrI\ufffd\ufffd\ufffd\ufffdac\ufffd*|l\ufffd\ufffdx`\ufffd\ufffd\ufffd\ufffd\\t( \ufffd\ufffda\"\ufffd\ufffd\ufffd\ufffd:K\ufffd\ufffdn\ufffd\ufffd\ufffd\ufffd%\"\u0487(\ufffd\ufffdIM\ufffdy\ufffdi\ufffd&",
+      "headings": []
+    },
+    {
+      "rank": 7,
+      "domain": "incharge.org",
+      "url": "https://www.incharge.org/financial-literacy/budgeting-saving/how-to-save-money-on-electric-gas-water-bill/",
+      "title": "5 Effective Tips For Lowering Your Utility Bills",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.incharge.org/wp-content/uploads/2015/06/Save-Money-Energy.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://secure.gravatar.com/avatar/d4a5084eed5905347e979073cfff5135d2b1868f160c8f3cc8a28b71264ed1f4?s=150&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 8,
+      "domain": "nrdc.org",
+      "url": "https://www.nrdc.org/stories/how-save-your-energy-bills",
+      "title": "How to Lower Your Energy Bills in Any Season",
+      "word_count": 0,
+      "scrape_status": "failed",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 9,
+      "domain": "youtube.com",
+      "url": "https://www.youtube.com/watch?v=eXWJebBdhYI",
+      "title": "Tips for saving on your electric bill - YouTube",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 10,
+      "domain": "enact.solar",
+      "url": "https://enact.solar/10-ways-to-lower-your-utility-bill-in-california/",
+      "title": "10 Ways to Cut Your Power Bill and Save on Utilities in California",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://enact.solar/wp-content/uploads/2024/02/storage-battery.png",
+        "alt": "A California home with solar panels installed on the roof, illustrating energy-saving ideas to cut power bills and reduce utility costs.",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://enact.solar/wp-content/uploads/2024/02/get-audit.png",
+          "alt": "A solar home storage battery system in California, showcasing energy-saving ideas to cut power bills and reduce reliance on the grid.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://enact.solar/wp-content/uploads/2024/02/lower.png",
+          "alt": "A modern California home with rooftop solar panels, reducing electricity costs and implementing energy-saving solutions to cut power bills.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 11,
+      "domain": "nj.pseg.com",
+      "url": "https://nj.pseg.com/saveenergyandmoney/energysavingpage/energytips",
+      "title": "Energy Saving Tips for Your Home - PSEG",
+      "word_count": 377,
+      "scrape_status": "tavily_fallback",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": "### Contact Us ##### What Can We Help You With? ##### Find a Customer Service Center ##### Connect With Us ### My Profile Current Balance Due on Messages ### Contact Us ##### What Can We Help You With? ##### Find a Customer Service Center ##### Connect With Us ### My Profile Current Balance Due on Messages #### Outage Map 24/7 access to real-time outage & restoration info. New features: Google Maps, crew status icons, and outage tracking numbers. Spring into WorryFree Living. Get 35% off now on NEW appliance Protection Plans. Call 1-800-249-1948 and use promo code 9GET35OFF. Add or Enroll Now Energy & Water Benchmarking Program Excess Flow Valve Notice PSE&G now offers the installation of excess flow valves for natural gas service lines. #### Select Category #### View All Categories #### View All Outage Map 24/7 access to real-time outage & restoration info. New features: Google Maps, crew status icons, and outage tracking numbers. Spring into WorryFree Living. Get 35% off now on NEW appliance Protection Plans. Call 1-800-249-1948 and use promo code 9GET35OFF. Add or Enroll Now Energy & Water Benchmarking Program Excess Flow Valve Notice PSE&G now offers the installation of excess flow valves for natural gas service lines. #### Our Company Outage Map 24/7 access to real-time outage & restoration info. New features: Google Maps, crew status icons, and outage tracking numbers. Spring into WorryFree Living. Get 35% off now on NEW appliance Protection Plans. Call 1-800-249-1948 and use promo code 9GET35OFF. Add or Enroll Now Energy & Water Benchmarking Program Excess Flow Valve Notice PSE&G now offers the installation of excess flow valves for natural gas service lines. ### My Profile Current Balance Due on Messages ### Where Do You Have Service? # \u200b Click to close Pop-Up # Energy Saving Tips for Your Home When it comes to energy, small changes can add up to big savings. Here, we offer ways you can reduce your usage year-round. ### for EnergyLink ### Latest PSEG News PSEG Marks Earth Day by Highlighting Environmental Initiatives that Support and Care for Our Communities PSEG Declares Regular Quarterly Dividend for the Second Quarter of 2026 PSE&G Urges Work Zone Safety as National Awareness Week Highlights Shared Responsibility ### Links Public Service Enterprise Group Incorporated. .",
+      "headings": []
+    },
+    {
+      "rank": 12,
+      "domain": "portlandgeneral.com",
+      "url": "https://portlandgeneral.com/save-money/save-money-home",
+      "title": "How to Save Energy & Money On Electric Bills at Home | PGE",
+      "word_count": 610,
+      "scrape_status": "tavily_fallback",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": "Once signed in, your language preference will only be available on your My Account page and the account-related pages you access from it. # Save Money at Home Looking for ways to get your energy bill under control? Whether you rent or own your home, we have programs, tools and energy saving tipsthat can help. ## Shift your energy use to save on your bill By reducing your energy use at peak times, it helps keep costs lower for the community. Here are some ways you can save. Time of Day ### Time of Day Take advantage of lower prices for using less energy during the high demand weekday hours of 5 to 9. Get started Peak Time Rebates ### Peak Time Rebates Shift your energy use away from peak times, and you can save on your next bill. There\u2019s no cost to join and you decide when to participate. Earn rebates Smart Thermostat program ### Smart Thermostat program Earn rewards when your thermostat automatically adjusts during peak times or get a great deal on a smart thermostat. Remember, you\u2019re always in control of your comfort. Start saving ## Help with high bills An unexpectedly high energy bill can be a shock. We can work with you to help you pay off the balance over time. Get help ## Take control of your energy use Ever wonder which appliances in your home are the biggest energy hogs? Whose shower is using the most hot water? What you can do to lower your energy bill when everyone's home all day? Take control with these tools, and you\u2019ll see that knowledge is indeed, power. ### Get bill alerts Get weekly bill estimates and alerts when your bill is getting close to exceeding your budget. ### Track energy use Use our free online tools for renters and homeowners to see when and how you use electricity, analyze your bill and get a custom savings plan. Get started ### Quick tips to save A wealth of low- and no-cost ways for renters and home owners to reduce energy use and lower energy bills. See ideas ## Discounts and special offers We've got your back! Check out our partners and programs before you make an energy-saving purchase \u2014oftentimes, there are special deals that can help you save money. Start saving ## Energy-saving home upgrades Investing in energy-saving upgrades can lead to big savings on your bill. Whether it's switching light bulbs or adding solar panels, find out which upgrades give you the best value. ### Heating & Cooling Changing the way you heat (and cool) your home is one of the most effective ways to lower your energy bill. There are lots of ways to stay comfortable without breaking the bank. ### Weatherization No matter how efficient your heating and cooling system, you'll waste energy and your home will feel drafty if it isn't weatherized. ### Lighting Newer technologies mean now you can save a lot \u2013 and change bulbs a lot less \u2013 just by choosing the right light. ### Water Heaters Learn how to save with the second highest energy user in most homes. ### Smart Thermostats Want to save energy in winter and summer? You don\u2019t have to get a new heating system to get started. ### Appliances & Electronics With a few simple steps, your appliances can help you save energy. COMPANY PGE at a Glance News Room Careers Climate Goals Sustainability Regulatory Documents New Businesses Construction Business Distribution Services Investors Suppliers Wholesale CUSTOMER SERVICE 503-228-6322 800-542-8818 7am-7pm, Monday \u2013 Friday Help Center En Espa\u00f1ol Connect with Us OUTAGES, EMERGENCIES & POWER PROBLEMS 24 Hours PRIVACY POLICY/OCPA LEGAL NOTICES SECURITY DISCLOSURE",
+      "headings": []
+    },
+    {
+      "rank": 13,
+      "domain": "vitalsigns.edf.org",
+      "url": "https://vitalsigns.edf.org/story/6-ways-save-money-your-electric-bill",
+      "title": "6 ways to save money on your electric bill - Vital Signs",
+      "word_count": 1198,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://vitalsigns.edf.org/sites/default/files/2025-12/DJI_0146%20copy%20%281%29.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://vitalsigns.edf.org/sites/default/files/styles/1440px_width_scale/public/2025-12/getty%20bill%20paying%20copy%20%281%29.jpg?itok=DhK3Zj59",
+          "alt": "Someone going through their electric bill while using their calculator on their phone",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://vitalsigns.edf.org/sites/default/files/styles/1440px_width_scale/public/2025-06/St.%20Dominic%20Chapel%20%281%29%20%281%29.jpg?itok=B3y3P3Ke",
+          "alt": "The Church of Saint Dominic in Oyster Bay, New York",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://vitalsigns.edf.org/sites/default/files/styles/1440px_width_scale/public/2025-12/GettyImages-1409343543%20%281%29.jpg?itok=3lNmhFLx",
+          "alt": "A heat pump on the side of a house",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://vitalsigns.edf.org/sites/default/files/styles/1440px_width_scale/public/2025-12/DJI_0146%20copy%20%281%29.jpg?itok=-veY-Vfs",
+          "alt": "A house with solar panels on the roof",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "Skyrocketing electric bills? You\u2019re not the only one feeling the pinch. Over the last year, electricity prices in 47 states have shot up , with consumers in 10 states paying at least 10% more on their bills. That\u2019s an average of $100 more this year for every U.S. household. Unfortunately, prices aren\u2019t expected to level off any time soon, for a bunch of reasons. One is the high demand for electricity spurred, in part, by energy-hungry data centers. Then there's the need to replace and upgrade the electric grid to better adapt to extreme weather fueled by climate change. You can add to that the Trump administration's forcing expensive, dirty and unreliable fossil-fuel power plants to remain online even when utility planners say they're not needed. And the administration's blocking of the cheapest forms of new electricity \u2014 wind and solar power. Put it all together and that means electricity prices are expected to rise by as much as 40% by 2030 and could double by 2050, according to a 2025 report by the consulting firm ICF. What\u2019s an electric billpayer to do \u2014 aside from using less electricity? Check out these options. Switch your rate plan Check in with your electric utility and find out if it or any of its affiliates offer time-of-use rates and demand-response programs that can save you money with no upfront investment. \u201cTime-of-use rates are utility rates that incentivize you to use electricity when demand is low,\u201d says Erin Mettler, an energy policy expert with the nonprofit group Rewiring America. Participating in a time-of-use program means you pay less if you, say, run your dishwasher at 10 p.m. rather than at dinnertime, a time when demands on the grid are typically higher. Savings can range from $25 a year to more than $300, depending on what your local utility offers. Demand-response programs are similar. These easy-to-use, app-based programs notify you when demand on the grid is high. If you choose to, you can then get paid to reduce your electric use. One Baltimore program pays consumers $10 a month to participate. Another, in Idaho, offers a $5 a month incentive between mid-June and mid-September. You can find out more from your local electric provider. Environmental news that matters, straight to your inbox Try community solar Community solar projects offer money-saving, pollution-cutting benefits to people who can\u2019t install solar panels on their homes or businesses by allowing them to participate in offsite solar arrays. Available in at least 44 states and the District of Columbia, community solar can now power about 2.7 million U.S. homes, with a total savings of almost $200 million nationwide. As long as you have control over your own electric bill, and live in a state that offers community solar, one of those homes could be yours. The savings can be significant. For example, one church in Oyster Bay, New York saved $15,000 over two years after switching to community solar to power its campus. \u201cWe save 10% on the supply charge part of our bill,\u201d says Ed Wikstrom, the director of technology at the Roman Catholic Church of Saint Dominic. \u201cThis is an easier way of being sustainable than having to put panels on all our buildings.\u201d How a veteran, a retiree and a church each reduced their electric bills by more than $1,000 a year Get a home energy audit Another way to start saving money on electricity is to get a home energy audit. This is what most experts recommend given that an audit will tell you where and how your home is leaking energy. \u201cAn energy audit can also tell you how much you\u2019ll save from different efficiency measures,\u201d says Mark Kresowick, senior policy director at the American Council for an Energy-Efficient Economy. Audits can cost between $200 and $700, but if you have one done before the end of 2025 you can take advantage of a $150 federal tax credit. (Originally authorized through 2032, the credit was cut by the Trump administration and its allies in Congress in July\u2019s budget bill.) Can\u2019t afford the full cost of an audit? Many states and utilities offer the service for free or at a reduced price. You can find out more from Rewiring America and the Database of State Incentives for Renewables & Efficiency . For a DIY option, check out these suggestions from the U.S. Department of Energy. Insulate your attic and weatherize The air-conditioned air that leaks out of your home during the summer and \u2014 if you\u2019re one of the one-in-five Americans who uses electric heat in winter \u2014 the heat that seeps out of your home in the colder months both constitute a lot of wasted electricity. (Heating and cooling represent the largest share of a home\u2019s electric use \u2014 about 50% on average.) Insulating your attic will likely save the most electricity of any single efficiency measure. After that, weather-sealing windows, doors and other sites where air can leak will also pay off, as will storm windows. If you live in a hot, sunny clime, consider solar screens, which block the infrared and ultraviolet light that overheats your home. Consider a heat pump If you\u2019re in the market for a new air conditioning or heating system, why not get a highly efficient version that gives you both? That\u2019s what heat pumps do. And over the course of their 15-year lifespans, they can save big bucks. Texas households that swapped their electric resistance heating systems for heat pumps saved more than $300 a year and paid off their new systems with the savings in less than three years, according to a 2024 study. You don\u2019t need to own a home to take advantage of heat pumps. An increasing number of window units and heat-pump air conditioners are becoming available across the U.S. They save both money and energy. Should you buy a heat pump? Add solar panels Adding solar panels to your home is a surefire way to save money on your electric bill, though it can require an upfront investment. Even though the federal tax credit for adding solar panels expires at the end of 2025 (another victim of the Trump administration\u2019s budget bill), many state and local governments still offer significant tax incentives for households that go solar. Check with Rewiring America and the Database of State Incentives for Renewables and Efficiency for details. \u201cWe\u2019ve run the numbers post [federal] tax credit and solar is still estimated to save the average homeowner about $57,000 over 25 years,\u201d says Emily Walker, director of insights at EnergySage, a company that provides a free, objective consulting service that walks individual consumers through various solar, heat pump and electric vehicle charger options. If you live in a state with low electricity prices, the total savings with solar can be lower, Walker says. \u201cBut if you live somewhere like Massachusetts or California, where electric rates are [high], you can definitely expect to save big, sometimes over $100,000.\u201d If you can pay upfront for a system, you\u2019ll save the most money. But there are also leasing and financing options that can lower your monthly electric charges from day one. Environmental news that matters, straight to your inbox",
+      "headings": []
+    },
+    {
+      "rank": 14,
+      "domain": "youtube.com",
+      "url": "https://www.youtube.com/watch?v=GWKZ3Mf3_18",
+      "title": "Here's What's Working to Lower Our Energy Bills Right Now - YouTube",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 15,
+      "domain": "sofi.com",
+      "url": "https://www.sofi.com/learn/content/ways-to-save-on-utilities/",
+      "title": "10 Ways to Save Money on Your Electricity, Gas, and Water Bills | SoFi",
+      "word_count": 2593,
+      "scrape_status": "tavily_fallback",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": "# 10 Ways to Save Money on Your Electricity, Gas, and Water Bills | SoFi * Log InContact Us * Products;) Loans Student Loan Refinancing * Medical Resident Refinancing * Parent PLUS Refinancing * Medical Professional Refinancing * Law and MBA Refinancing * SmartStart Refinancing * * * Private Student Loans * Undergraduate Student Loans * Graduate Student Loans * Law School Loans * MBA Loans * Health Professions Loans * Parent Student Loans * Medical and Veterinary Loans * Dental Loans * STEM Loans * * * Auto Loan Refinance * * * Personal Loans * Home Improvement Loans * Credit Card Consolidation Loans * Family Planning Loans * Travel Loans * Wedding Loans * * * Mortgage Loans * Home Purchase Loans * Mortgage Refinance * Cash-Out Refinance * Jumbo Loans * FHA Loans * VA Loans * Mortgage Preapproval * Mortgage Rates * * * Home Equity * Home Equity Loans * HELOC Investing Invest * Self-Directed Investing * Robo Investing * Retirement Accounts (IRAs) * Stock Trading * IPO Investing * Fractional Shares * ETFs Credit Cards * Credit Cards * Everyday Cash Rewards Card * Essential Card * Unlimited 2% Card Premium Membership * SoFi Plus Banking Banking * Checking Account * High Yield Savings Account * International Money Transfers Crypto Crypto Insurance * Auto Insurance * Life Insurance * Homeowners Insurance * Renters Insurance Estate Planning Financial Insights * Financial Insights * Credit Score Monitoring * Budgeting and Spending * Property Tracking * Investment Portfolio Summary * Debt Summary Business Solutions * SoFi at Work * Small Business Financing * Line of Credit * Equipment Financing * Startup Loans * Business Checking * Business Credit Card Browse all products * SoFi Plus * Member Benefits;)Member Benefits As a SoFi member, you get access to exclusive benefits designed to help set you up for success with your money, community, and career. See All Benefits SoFi Member Rewards Earn points for making moves toward financial independence\u2014every step of the way. Referral Program Refer your friends & family to SoFi and get paid. Member Advisory Board Meet our panel of SoFi Members who provide invaluable feedback across all our products and services. SoFi Stadium Members get exclusive SoFi Stadium perks like expedited entry, access to the SoFi Member Lounge, and more. Member Experiences SoFi Plus members now get one-of-a-kind entertainment access with SoFi Plus Experiences. Financial Planning Get personalized advice from a credentialed financial planner. Estate Planning Members get an exclusive discount on their trust, will or guardianship estate plan. See All Benefits * Resources;) Resources Get answers to your questions; plus tools, guides, calculators, & more. Visit SoFi Learn Visit SoFi Learn * * * On the Money * * * FAQs * * * Eligibility Criteria * * * Research Hub * * * Fraud Support * * * Top Resources * Student Debt Guide * Mortgage Resource Center * Fixed vs. Variable Rates * Medical School Refinance Guide * Investing 101 Guide * Consolidate vs. Refi * Credit Card Resource Hub See All Resources * * * Top Tools * Student Loan Refinance Calculator * Mortgage Calculator * Student Loan Payment Calculator * Personal Loan Calculator * Student Loan Payoff Calculator * Home Affordability Calculator * Life Insurance Calculator See All Tools * * * Learn More * Military Benefits * On the Money * Investment Strategy * FAQs * Eligibility Criteria * Research Hub * Fraud Support * About;)About Us Learn more about our mission and values, how we started, and what we\u2019ve accomplished since then. Learn More About Us Our Leadership Meet the SoFi leadership team and board members. How it Works Read about how SoFi works\u2014and how we can help you reach your financial goals. Our Values Learn more about SoFi\u2019s core values. Press Read through the latest SoFi news coverage. Investors Information for investors in SOFI common stock. Careers Come work with us! Inclusive Culture Learn about our commitment to fostering a welcoming workforce. Contact Us Questions? Comments? Just want to talk? Get in touch with us via phone or email. * * Get Started You are now leaving the SoFi website and entering a third-party website. SoFi has no control over the content, products or services offered nor the security or privacy of information transmitted to others via their website. We recommend that you review the privacy policy of the site you are entering. SoFi does not guarantee or endorse the products, information or recommendations provided in any third party website. OkayClose ## Select a product to get started. * Invest \u2192 * Personal Loans \u2192 * Student Loan Refinancing \u2192 * Banking \u2192 * Mortgages \u2192 * Credit Card \u2192 * Private Student Loans \u2192 * Insurance \u2192 * Credit Score & Budgeting \u2192 * Auto Loan Refinancing \u2192 Or just create an account. Share * Facebook * Twitter * LinkedIn * Reddit # 10 Ways to Save Money on Your Utility Bills By Janet Siroto. October 28, 2025 \u00b7 7 minute read This content may include information about products, features, and/or services that SoFi does not provide and is intended to be educational in nature. Table of Contents * 5 Ways to Save Money on Your Electricity Bill * 2 Ways to Save Money on Your Water Bill * 3 Ways to Save Money on Your Gas Bill * FAQ When you think about your basic living expenses, your mortgage or rent may be top of mind, but utilities are a considerable component for most people. Doling out money for electricity, water, maybe natural gas, garbage/sewer/recycling, cable television, and internet access can really add up. The average American household can spend anywhere from $300 to $450 a month or more on utilities. Here, you can learn smart ways to save money on your utility bills. Some are simple ways to cut costs by tweaking your daily habits, and others may require investment, such as buying an energy-efficient appliance that will cost less over the coming years. Read on to see which money-saving tips work best for you. Key Points \u2022The average American household can spend $300 to $450 a month or more on utilities. \u2022Unplugging devices when not in use can save $100 annually. \u2022ENERGY STAR appliances can save up to $450 yearly. \u2022Lowering the hot water heater to 120\u00b0F can save 3% to 5% on energy bills. \u2022Washing clothes in cold water can save $200 annually, and drying clothes efficiently also reduces energy costs. ## 5 Ways to Save Money on Your Electricity Bill The average electric bill in the US is currently $149.37 per month, with an average cost of 17.47 cents per kilowatt hour (kWh). Here\u2019s advice on saving money on electricity. ### 1. Unplug! It may be possible to save $100 or more each year by unplugging your appliances and devices when they\u2019re not in use. Bonus: When you unplug, you\u2019re also protecting them from damage that could occur during power surges. What\u2019s known as standby power can add up to 5% to 10% of your monthly electricity bill, according to the US Department of Energy. Electronics can draw power when not in use: Your laptop\u2019s sleep mode, for instance, is different from being turned off, and it can still use energy. Your home entertainment system can use electricity to keep some indicator lights on, including the ones, ironically enough, that tell you the system is off. And if you are the type who has one or two mobile phone chargers always plugged in, ready to revive your low-battery phone, know that those too are raising your bill. Granted, it may be too much of a hassle to unplug your washer/dryer when not in use, but you can work on not letting your phone charger, coffee maker, and computer eat up electricity when not in use. ### 2. Replace Old Appliances Is your dishwasher, refrigerator, or clothes dryer reaching the end of its lifespan? Do yourself and your budget a favor and opt for an energy-efficient model. Although this strategy means you need to spend money up front, ENERGY STAR\u00ae-certified appliances can save significant dollars in the long run. In general, a home appliance lasts for 10 to 20 years, on average, with ENERGY STAR-designated ones can save you up to $450 a year on your utility bills, according to the US EPA (Environmental Protection Agency). Plus, you can sometimes get federal, state, or local rebates when you purchase energy-efficient appliances, so it might be wise to research this before you buy. You could wind up with even lower costs this way. ### 3. Wash Clothes in Cold Water When you wash your clothes in cold water, you save significantly on energy usage, while also being kinder to your clothes. ColdWaterSaves.org shares that 90% of the energy used while washing clothes goes towards heating the water. To put a dollar figure on this, the site calculates that the average household could save $200 per year by switching from washing laundry in warm or hot water to using cold instead. And guess what? Today\u2019s detergent technology uses enzymes that actually work more effectively in cold water. Also make sure your loads are full to save even more money; you\u2019ll do your laundry less frequently that way. Recommended: How to Save on Streaming Services ### 4. Dial Down Your Hot Water Heater Here\u2019s an especially easy hack\u2014heck to see where your hot water heater\u2019s thermostat is set. If it\u2019s above 120 degrees Fahrenheit, consider lowering it! For every ten degrees that you dial it down, you could save 3% to 5% on your energy bills. Plus, you\u2019ll make it less likely that someone in your family gets burned by hot water. ### 5. Dry Clothes More Efficiently According to Energy.gov, in a standard household, the appliance that uses the most energy is the dryer. To calculate your costs, try the calculator they provide, and follow the following tips. They\u2019re ideas for how to save on utilities. \u2022Right-size your loads. Too full, and it takes too long for your clothes to dry. Too small? You\u2019ll be spending too much energy per item as you dry them. \u2022Air-dry on a rack when you can. \u2022Add wool or rubber dryer balls to cut down drying time. \u2022Regularly clean your dryer\u2019s lint filter. \u2022Use the lower heat settings to use less energy. \u2022If your dryer has a cool-down cycle, use it. \u2022If your dryer has a moisture sensor option, use that as well. ## 2 Ways to Save Money on Your Water Bill The national median water bill is about $30 or $35 a month, though some people may pay two or three times that amount. Follow this advice to take your costs down a notch and put the funds into, say, a high-yield savings account. ### 1. Invest in Efficient Appliances Is it time for a new washer? If so, note that energy-efficient washers typically use 40% to 50% less energy and use 55% less water than conventional models. This switch can save you up to $60 a year on utility and water bills. ### 2. Shower Smarter By going with a lower-flow showerhead, you can significantly reduce water usage, to the tune of $70 a year. Want to save even more? Become a fan of the five-minute shower, and quit sending money (quite literally) down the drain. Recommended: Savings Account Calculator ## 3 Ways to Save Money on Your Gas Bill The average gas bill in the US is about $63 but could be even lower if you follow these tips. ### 1. Save on Heating and Cooling Costs By resetting your thermostat, you may be able to save a significant amount. You might be able to save about 1% of your energy costs for each degree that you adjust for an eight-hour period, and the Department of Energy recommends that you adjust your thermostat by seven to ten degrees (up in summer, down in winter) for an eight-hour period each day to annualize savings of as much as 10%. If you have a smart thermostat, you could set it to be higher or lower when you\u2019re out at work. You might also reset it overnight, when you\u2019re sleeping. For example, the Department of Energy recommends keeping your thermostat at 68 degrees when you\u2019re up and about in winter, and at 58 when you\u2019re away from home or sleeping. When the season is warm, their recommendation is to keep your thermostat at 78 degrees when you\u2019re home, and at 85 when you\u2019re not. Recommended: How to Automate Your Finances ### 2. Go Solar If you really want to invest in your energy efficiency, you could also consider solar panels to create clean electricity and minimize your gas usage. You can potentially receive tax credits for going green this way. Living sustainably can really pay off in multiple ways! Yes, installing solar panels requires a big investment; one that will take years to amortize. But by starting on the path to passive energy, you\u2019ll be on your way to saving for decades to come. ### 3. Seal Up Your Home Ready for another idea for how to save on utilities? In cold weather, warm air can escape through drafty windows and doors; in hot weather, the cool air your air conditioning is pumping out can vanish the same way. By weather sealing your home, you can save up to 10% of your energy bill. That means weather stripping and adding insulation (important ways to help maintain your home\u2019s value) can really pay off. ## The Takeaway There are many ways you may be able to save money on your electricity, gas, and water bills. No matter the strategy you choose, stashing your money in a bank with minimal fees and a solid interest rate is an important move. Interested in opening an online bank account? When you sign up for a SoFi Checking and Savings account with eligible direct deposit, you\u2019ll get a competitive annual percentage yield (APY), pay zero account fees, and enjoy an array of rewards, such as access to the Allpoint Network of 55,000+ fee-free ATMs globally. Qualifying accounts can even access their paycheck up to two days early. _Better banking is here with SoFi, NerdWallet\u2019s 2024 winner for Best Checking Account Overall.* Enjoy 3.30% APY on SoFi Checking and Savings with eligible direct deposit._ ## FAQ ### What\u2019s a good way to save on electricity costs? One good way to save on electricity costs is to unplug electronics and other devices (your laptop, phone chargers, coffee maker) when not in use. Keeping them plugged in costs money. ### What runs up your electrical bill the most? Heating and cooling are the single biggest portion of your energy bill, accounting for up to 45% of your costs. ### How can I save on my gas bill? Calibrating your thermostat can be a big money saver, as can weather sealing your home. * * * SoFi Checking and Savings is offered through SoFi Bank, N.A. . The SoFi\u00ae Bank Debit Mastercard\u00ae is issued by SoFi Bank, N.A., pursuant to license by Mastercard International Incorporated and can be used everywhere Mastercard is accepted. Mastercard is a registered trademark, and the circles design is a trademark of Mastercard International Incorporated. Annual percentage yield (APY) is variable and subject to change at any time. Rates are current as of 3/31/26. There is no minimum balance requirement. Fees may reduce earnings. Additional rates and information can be found at https://www.sofi.com/legal/banking-rate-sheet Eligible Direct Deposit means a recurring deposit of regular income to an acc",
+      "headings": []
+    },
+    {
+      "rank": 16,
+      "domain": "ductdoctorlouisiana.com",
+      "url": "https://ductdoctorlouisiana.com/blog/10-ways-to-save-money-on-your-electric-bill",
+      "title": "10 Ways to Save Money on Your Electric Bill",
+      "word_count": 549,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://cdn.eversite.com/media/ductdoctorlouisiana.com/16657/save-money-on-electric-bills.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [],
+      "body_text": "Every month, millions of households around the world receive their electric bills and face the reality of rising energy costs. With the constant demand for electricity in our daily lives, is there a way to minimize expenses without compromising comfort? The answer is a resounding yes! From implementing minor lifestyle changes to availing of specialized services, there are actionable steps you can take if you\u2019re looking to save money on a home\u2019s electric bill this season: 1. Invest in Energy-Efficient Appliances Modern appliances come with an Energy Star rating which indicates their efficiency . When shopping, look for items with this label as they consume significantly less power. Though they might be slightly pricier upfront, the long-term savings on your electric bill will be worth it. 2. Unplug Devices When Not in Use Even when turned off, electronics like TVs, computers, and chargers can still draw power. This phenomenon is often called \"phantom load\" or \"vampire energy.\" Regularly unplugging devices can result in noticeable savings over time. 3. Switch to LED Lighting Traditional incandescent bulbs consume more energy and have a shorter lifespan. LED lights, while a bit more expensive initially, use up to 75% less energy and last up to 25 times longer. This switch not only reduces your electric bill but also cuts down on replacement costs. 4. Use Natural Lighting Embrace the power of the sun! Instead of switching on lights during the day, open curtains and blinds to let in natural sunlight. This not only reduces electricity usage but also improves your home's ambiance. 5. Opt for Smart Thermostats Modern smart thermostats learn from your routines and adjust temperatures accordingly. By optimizing heating and cooling, they can significantly reduce energy consumption. 6. Proper Insulation is Key Heat loss during winter or heat gain during summer can drive up your electric bill. Proper insulation in walls, attics, and basements can help maintain indoor temperatures, ensuring that your HVAC system doesn't work overtime. 7. Seal Windows and Doors Drafty windows and doors can let out warm air during winter and let in hot air during summer. Sealing these openings with weather stripping or caulk prevents unnecessary energy loss. 8. Reduce Water Heater Temperature Most water heaters are set at 140\u00b0F by default. Lowering this to 120\u00b0F can reduce energy consumption without sacrificing comfort. 9. Utilize Ceiling Fans Strategically Ceiling fans can help distribute air evenly in a room, reducing the need for heaters or air conditioners. Remember to set them to rotate clockwise during winter and counter-clockwise during summer. 10. Schedule Regular Maintenance Checks HVAC systems, when not properly maintained, can become inefficient over time. A simple maintenance check can identify potential problems and ensure your system is running at optimal efficiency. That's where experts like Duct Doctor come into play. Duct Doctor Makes Your Ducting Healthy Again Trimming your electric bill doesn't require massive overhauls or a compromised lifestyle. Small changes, when done consistently, can lead to significant savings. Remember, every bit of energy saved is not just good for your wallet, but also for our planet. Ready to make a difference in your energy consumption? Trust the professionals . For the best duct-related services that can further optimize your energy use, don't hesitate to visit Duct Doctor. Your wallet and Mother Earth will thank you!",
+      "headings": []
+    },
+    {
+      "rank": 17,
+      "domain": "energy.maryland.gov",
+      "url": "https://energy.maryland.gov/pages/facts/energysavingtips.aspx",
+      "title": "Residential Energy Saving Tips - Maryland Energy Administration",
+      "word_count": 379,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://energy.maryland.gov/Style Library/egov/img/logo.png",
+        "alt": "Maryland Energy Administration Logo",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://energy.maryland.gov/PublishingImages/tips1.gif",
+          "alt": "Tip 1 light bulbs",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://energy.maryland.gov/PublishingImages/tips2.gif",
+          "alt": "Tip 2 washing machines",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://energy.maryland.gov/PublishingImages/tips3.gif",
+          "alt": "Tip 3 TV",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://energy.maryland.gov/PublishingImages/tips4.gif",
+          "alt": "Tip 4 shower head",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://energy.maryland.gov/PublishingImages/tips5.gif",
+          "alt": "Tip 5 laptop",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://energy.maryland.gov/PublishingImages/tips6.gif",
+          "alt": "Tip 6 water heater",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://energy.maryland.gov/PublishingImages/tips7.gif",
+          "alt": "TIp 7 gaming system",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://energy.maryland.gov/PublishingImages/tips8.gif",
+          "alt": "Tip 8 dishwasher",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://energy.maryland.gov/PublishingImages/tips9.gif",
+          "alt": "TIp 9 windows",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://energy.maryland.gov/PublishingImages/tips10.gif",
+          "alt": "Tip 10 ceiling fans",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://energy.maryland.gov/PublishingImages/tips11.gif",
+          "alt": "Tip 11 auto tires",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://energy.maryland.gov/PublishingImages/tips12.gif",
+          "alt": "Tip 12",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://energy.maryland.gov/PublishingImages/tips13.gif",
+          "alt": "TIp 13",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://energy.maryland.gov/PublishingImages/tips14.gif",
+          "alt": "Tip 14",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://energy.maryland.gov/PublishingImages/tips15.gif",
+          "alt": "TIp 15",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://energy.maryland.gov/_layouts/images/icpdf.png",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 18,
+      "domain": "constellation.com",
+      "url": "https://www.constellation.com/energy-101/energy-education/how-to-lower-electric-bill.html",
+      "title": "How to Lower Your Electric Bill | Constellation",
+      "word_count": 1457,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.constellation.com/content/constellation/en/energy-101/energy-education/how-to-lower-electric-bill/jcr%3Acontent/ogimage.img.png/reduce-electric-bill.png",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.constellation.com/content/constellation/en/energy-101/energy-education/how-to-lower-electric-bill/_jcr_content/par/banner_section_2104674615/par/image.img.png/1694101399975.png",
+          "alt": "Ways to save money on your electricity bill.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 19,
+      "domain": "energystar.gov",
+      "url": "https://www.energystar.gov/products/recent_program_updates/low-no-cost-tips",
+      "title": "Low- to No-Cost Tips for Saving Energy at Home",
+      "word_count": 1163,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.energystar.gov/sites/default/files/",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 20,
+      "domain": "realestate.usnews.com",
+      "url": "https://realestate.usnews.com/real-estate/articles/ways-to-save-energy-and-lower-utility-bills",
+      "title": "10 Ways to Save Energy and Lower Utility Bills | Real Estate",
+      "word_count": 0,
+      "scrape_status": "failed",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    }
+  ],
+  "battle_plan_generated_at": "2026-04-26T10:47:12.625833+00:00",
+  "competitors_analyzed_count": 5,
+  "battle_plan_method": "local_deterministic_agent_no_api"
+}

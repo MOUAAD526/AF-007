@@ -1,0 +1,1243 @@
+{
+  "article_context": {
+    "angle": "Practical budgeting tools and systems for beginners",
+    "pain_points": [
+      "Being overwhelmed by and trapped in credit card debt",
+      "Living paycheck to paycheck and lacking control over spending",
+      "Fear of discovering and confronting personal spending habits",
+      "Missing or having an insufficient emergency fund",
+      "Unprepared for sudden income loss or job instability"
+    ],
+    "top_social_questions": [
+      "How do I start budgeting and tracking my expenses effectively?",
+      "What should I do with my savings if I have no bills or expenses?",
+      "How do I build and manage an emergency fund?"
+    ],
+    "dominant_emotion": "Anxiety and stress about finances",
+    "serp_intent": "Searchers for 'what do you do when you have no money' are typically in immediate financial distress and seek practical, urgent advice on survival strategies, budgeting basics, accessing aid, and avoiding debt. The SERP intent focuses on informational content like emergency financial guides, low-income tips, and motivational steps to regain control, with top results from personal finance blogs, government resources, and expert articles emphasizing mindset shifts and quick actions.",
+    "serp_title_pool": {
+      "primary": [
+        "Facing financial hardship | USAGov",
+        "Emergency Help If You Have No Money Or Food. StepChange",
+        "How do you mentally deal with almost never having money to spend ...",
+        "Here's How To Budget When You Have No Money - YouTube",
+        "6 Things to Do When You Run Out of Money - YourMoneyLine",
+        "20 Productive Things to Do When You Have No Money",
+        "What To Do When You Have No Money (Survive & Thrive)",
+        "Unexpected job loss - Consumer Financial Protection Bureau",
+        "31 Things To Do When You Have No Money - Lifehack.org",
+        "No money? No problem...   There are so many things you can do ...",
+        "What to Do When You Can't Bring in An Income - Femme Frugality",
+        "10 Things to Do If You Lost Your Job and Need Money Now",
+        "What are some ways to survive financially without any money, credit ...",
+        "No Money for a Week? Here's What to Do. - Wise Bread",
+        "17 Ways to Make Money Without a Job - NerdWallet",
+        "What To Do When You Run Out Of Money (Literally) - YouTube",
+        "I'm in Debt With No Job and No Money \u2013 What to Do - SoloSuit",
+        "What To Do When You Have No Money - Farming My Backyard",
+        "Many Americans have no emergency fund. Here are tips on how to ...",
+        "Emergency Financial Assistance | Your Complete Guide - GoFundMe"
+      ],
+      "long_tail": [
+        "Making a Budget | consumer.gov",
+        "How to Budget With a Low Income - Ramsey Solutions",
+        "A Realistic Guide for Budgeting on a Limited Income",
+        "How do I even do a budget : r/povertyfinance - Reddit",
+        "Budgeting on Low Income: 18 Steps to Cut Spending",
+        "Here's How To Budget When You Have No Money - YouTube",
+        "How to budget money on low income - Albert",
+        "How to Create a Budget on a Low Income | Members 1st",
+        "How to Budget on a Low Income: 20 Practical Tips - Lunch Money",
+        "Why budgeting is terrible advice for poor people - Healthy Rich"
+      ],
+      "question": [
+        "The Importance of Money: Beyond the Materialistic Perspective",
+        "Did money give you everything you imagined? Is life that much ...",
+        "Why Money Is Important - Movi.vn",
+        "Why Money Is Important (Even If You Wish It Weren't) - LendEDU",
+        "Proof That Money Can Buy Happiness (or a Life with Less Stress)",
+        "The Importance of Saving Money",
+        "Can Money Buy Happiness? - Taking Charge of Your Wellbeing",
+        "What are the Four Importances of Money? | by George UC - Medium",
+        "Why Money Is Important in Life - YouTube",
+        "Why Is Money Important To You? - North Financial Advisors"
+      ]
+    },
+    "paa_questions": [
+      {
+        "q": "What am I supposed to do if I have no money?",
+        "a": "WHAT TO DO IF YOU NEED EMERGENCY HELP WITH MONEY AND FOOD"
+      },
+      {
+        "q": "How many Americans have $0 in savings?",
+        "a": "Half of those, 34 percent, had saved a big fat goose egg, an increase of 6 percent from the year prior, when 28 percent reported having $0 in savings. https://www.rt.com/usa/360076-americans-savings- accounts-money/"
+      }
+    ],
+    "related_searches": [
+      "What do you do when you have no money but have no money",
+      "What do you do when you have no money reddit",
+      "What to do when you have no money and no job",
+      "I need money desperately for free",
+      "I need financial help immediately",
+      "What to do when you have no money and are bored",
+      "Free money helpers",
+      "What to do if you need money urgently"
+    ]
+  },
+  "primary_keyword": "what do you do when you have no money",
+  "competitors": [
+    {
+      "rank": 1,
+      "domain": "usa.gov",
+      "url": "https://www.usa.gov/financial-hardship",
+      "title": "Facing financial hardship | USAGov",
+      "word_count": 180,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.usa.gov/themes/custom/usagov/images/Logo_USAGov.png",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.usa.gov/themes/custom/usagov/images/social-media-icons/Facebook_Icon.svg",
+          "alt": "Facebook",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.usa.gov/themes/custom/usagov/images/social-media-icons/X_Twitter_Icon.svg?version=2",
+          "alt": "X Twitter USAGov",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.usa.gov/themes/custom/usagov/images/social-media-icons/Email_Icon.svg?version=2",
+          "alt": "Email",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.usa.gov/themes/custom/usagov/images/ICONS_talk.png",
+          "alt": "talk icon",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.usa.gov/themes/custom/usagov/images/ICONS_chat.png",
+          "alt": "chat icon",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "Learn how to apply for government programs to help with food, bills, housing, and more. Food assistance Get nutritious food through SNAP (food stamps), WIC for women, infants, and children, and emergency food assistance. Unemployment benefits Learn if you qualify for unemployment benefits and how to apply. Welfare benefits or Temporary Assistance for Needy Families (TANF) Find out how TANF, also known as welfare, can help your family through financial challenges. Emergency housing assistance Find emergency housing and learn how to get emergency rent assistance. Rental assistance Learn about government programs for affordable housing and find out if you qualify. Help with utility bills Learn about government programs to help pay for phone, internet, and energy bills. Government home repair assistance programs Government programs can make home repairs and renovations more affordable. Find out if you are eligible for home improvement loans and learn how to apply. Looking for something else? topics and services Have a question? Ask a real person any government-related question for free. They will get you the answer or let you know where to find it.",
+      "headings": []
+    },
+    {
+      "rank": 2,
+      "domain": "stepchange.org",
+      "url": "https://www.stepchange.org/debt-info/emergency-funding.aspx",
+      "title": "Emergency Help If You Have No Money Or Food. StepChange",
+      "word_count": 1574,
+      "scrape_status": "tavily_fallback",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": "Our services and solutions Debt solutions in Scotland More ways to get help Don't know where to start? Answer a few questions, so we can find the best way to help Got a debt question? Popular searches More about us Working together Debt in the UK StepChange in Parliament We work with parliamentarians on briefings, events & debt trends The latest debt trends & analysis from our industry experts Get involved Client support OnlineDMP login Log back in to OnlineDMP to manage your DMP Other ways to get in touch Get debt help online now Get free advice on how to deal with your debt online from the UK's leading debt charity ### Struggling to make important payments? Free, online debt advice available now Get debt help ## Emergency help # What to do if you need emergency help with money and food There are several organisations that can support you if you are in need of emergency funding. These organisations can help you buy food or pay your bills. Who helps people that need support for food and bills? This page has information on how to get help. Use these quick links for emergency support: Get the help you need. But think about longer term finances too. Whether you have one missed payment or many worrying debts, we can help you: Our advice is free and confidential. Get help now. ## I need money now. Where can I borrow from fast? ### Emergency credit We do not recommend payday loans or other forms of high-cost credit. They have high interest and charges and cause a lot of trouble. It is better to look at credit unions and government-run schemes. These can give quick, emergency loans to people. ### Credit unions Credit unions are local, member-owned alternatives to banks. They have three main aims: You need to be a member of a credit union to get a loan from them. Some will ask you to build up savings first. Find out more about credit unions here. ### Grants Turn2Us is a charity we work with. They help people get grants and access support services. Contact them to see how they can help you. ### Trust funds We also work with a number of companies who provide \u2018trust funds\u2019. These are for people who cannot afford insolvency services or energy bills. Find out where to get a trust fund. ### Help from your local council Your council has a local welfare assistance scheme. These schemes are to help people on low incomes. Each council runs their own scheme with different rules. Some schemes include: Find out how to get help based where you are: ### Track down money you have missed out on Gretel is an organisation that can help you find lost accounts and unclaimed funds. They look for things such as: Find out if you have unclaimed money. ### Worried you can't pay the bills? Free, online debt advice available now Get debt help ## I have no food. Where can I go? ### Food banks Food banks provide food and essential household items. Our partners at the Trussell Trust: The food bank will try to make sure: You will usually get: Small credit top-ups may be available for gas or electric pre-payment meters Food banks can also signpost you to other help in your area. You will need a referral for the Trussell Trust. Visit their website to find out: You can also search the Independent Food Aid Network\u2019s list of food banks. ### Free school meals Your child may be eligible for free school meals. This can help to reduce some of your day-to-day costs. Find out if your child is able to get free school meals. ### Struggling to make important payments? Free, online debt advice available now Get debt help ## I cannot pay my rent. What do I do? ### Contact your landlord immediately If you cannot pay your rent, contact your landlord or letting agency. They may not agree, but many will be reasonable. Read our guide to dealing with rent arrears. Find out what to do if you are worried about being evicted. ### Discretionary Housing Payment (DHP) If you: You may be able to apply for a discretionary housing payment from your local council. You will need to contact your local council to find out how to apply. ## Can I get any financial support from the government? ### Check you are getting all the benefits you can People in the UK miss out on billions of pounds in benefits and tax credits. This includes a range of discounts and support. Check what you can get by using our free benefits calculator. ### Budgeting loans The government no longer offers crisis loans. You can apply for a budgeting loan instead. You may be able to get this if you have an unexpected expense. You must have been on one of these benefits for at least 26 weeks: You can use budgeting loans to help pay for things like: The amount you can apply for depends on your situation. Repayments are taken off your benefits. ### Hardship payments Hardship payments are for people who: Hardship payments apply to these benefits: Read our guide about hardship payments and how to apply. ### Short-term benefit advances You may be able to apply for a short-term benefit advance. This is when the benefit is paid early. Repayments are: You can get a short-term benefit advance if: You can apply for most benefits through your local Jobcentre Plus. Read our guide to claiming benefits. ## Can I stop my creditors chasing me for money? ### Ask for a payment holiday You can apply for a payment holiday from your: You do have to make up the payments missed during a payment holiday. These get treated as arrears. Interest and charges may continue to be added to your debt. Use one of our template letters to contact your creditors. You can also contact us for free help with your debts. ### Breathing Space to deal with your money worries Also called the Debt Respite Scheme. Breathing Space stops your creditors from contacting you while you deal with your debts. If eligible, you can get up to 60 days' break from interest, fees and court action. Read our guide to Breathing Space and find out if you can apply. ### Priority bills Some bills are priorities because the impact of not paying them are greater. You should pay certain bills and arrears first. Like your: Learn more about which debts to pay first ## I cannot pay my utility bills, what can I do? ### Energy arrears If you are struggling with payments, contact your supplier to let them know. They will discuss your options to help you repay the arrears. Energy arrears are priority debts. We can work with you on a plan to: Energy companies have lower tariffs available. These are usually called \u2018social tariffs\u2019. They offer services for people who need further help like: If you have a pre-payment meter, some food banks can also help by giving you a small top-up if you are out of credit. We have made a guide to dealing with energy bills, covering: The Energy Saving Trust has useful tips for: ### Water bills Water suppliers have support for people on low incomes and benefits. Help varies between suppliers - find out more about support from water companies. ## Can I get help with my mortgage? Speak to your mortgage provider as soon as you can. They can help you set up a plan to pay back missed payments. They may also be able to offer you: Help from the government may be available if you receive benefits. Find out more about mortgage arrears ## Mental health support You are not alone. Support is available. We work with many specialist organisations that help us advise people with money worries and mental health issues. The Samaritans are available 24 hours a day, every day of the year. Whatever you are dealing with, call the Samaritans for free help on 116 123. Debt is a huge mental and emotional burden. We can offer some relief with free support and advice. \"They were so kind, they listened patiently and helped me through the process\" *Alison, Kent* StepChange Debt Charity is rated 4.9 out of 5 Based on ratings given in the last year by clients who were polled three months into their solution. Read our reviews StepChange Debt Charity is rated 4.9 out of 5 Based on ratings given in the last year by clients who were polled three months into their solution. Read our reviews 4.9 out of 5 Based on ratings given in the last year by clients who were polled three months into their solution. #### Our debt solutions #### Guides and services #### About us #### About this site Foundation for Credit Counselling, 123 Albion Street, Leeds, LS2 8ER trading as StepChange Debt Charity and StepChange Debt Charity Scotland. A registered charity no.1016630 and SC046263. It is a limited company registered in England and Wales (company no:2757055). Authorised and regulated by the Financial Conduct Authority (Firm Registration Number 729047) We link to external websites where they contain relevant information for our visitors. We're not responsible for the content of these websites, or any infringement on your data rights under data protection regulations by any external website provider. \u00a9 StepChange Debt Charity 2026",
+      "headings": []
+    },
+    {
+      "rank": 3,
+      "domain": "reddit.com",
+      "url": "https://www.reddit.com/r/povertyfinance/comments/14qp6py/how_do_you_mentally_deal_with_almost_never_having/",
+      "title": "How do you mentally deal with almost never having money to spend ...",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 4,
+      "domain": "youtube.com",
+      "url": "https://www.youtube.com/watch?v=1_i8GMy9jjA",
+      "title": "Here's How To Budget When You Have No Money - YouTube",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 5,
+      "domain": "yourmoneyline.com",
+      "url": "https://www.yourmoneyline.com/blog/6-things-to-do-when-you-run-out-of-money",
+      "title": "6 Things to Do When You Run Out of Money - YourMoneyLine",
+      "word_count": 2582,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://cdn.prod.website-files.com/63ae6a321aecb5cb2b350e5b/63d8296174b283a6a2f48b60_63d7f831160c167863afd839_60.webp",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://cdn.prod.website-files.com/63ae6a321aecb51314350e44/63afaaa4ea6dbc14c1d54428_yml-logo-full-color.svg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/63ae6a321aecb51314350e44/63ba5a229d70bbcab0d524b3_yml-logo-white_green.webp",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/63ae6a321aecb51314350e44/63c618a1dec6c0a47f4f4a89_yml-logo-black_white.svg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/63ae6a321aecb51314350e44/6939b2059a7ad8115118915e_Frame%201073718329.avif",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/63ae6a321aecb51314350e44/6939b3a06091872246feb6fb_currency-dollar.svg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/63ae6a321aecb51314350e44/6939b3a025c52b7b3572b070_lightbulb-02.svg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/63ae6a321aecb51314350e44/6939b3a00e0c66736fe81bea_podcast.svg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/63ae6a321aecb51314350e44/6939b3a048d1138a0761b698_credit-card-shield.svg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/63ae6a321aecb51314350e44/6939b3a08a05cd6542b974bd_fingerprint-03.svg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/63ae6a321aecb51314350e44/6939b3a00db4441b8ea98d5b_certificate-01.svg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/63ae6a321aecb51314350e44/6939b3a04ce10da205275998_book-open-01.svg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/63ae6a321aecb51314350e44/6939b3a0be90aa5d7f975ce0_file-check-02.svg",
+          "alt": "",
+          "description": "Graphic design layout of a document, checklist, or tracker.",
+          "type": "graphic_design_document"
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/63ae6a321aecb51314350e44/68486d700182f6162e573e7f_briefcase-02.avif",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/63ae6a321aecb51314350e44/68486dd6c1a43d993fa202b1_activity-heart.avif",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/63ae6a321aecb51314350e44/68486e190182f6162e5795d2_check-square-broken.avif",
+          "alt": "",
+          "description": "Graphic design layout of a document, checklist, or tracker.",
+          "type": "graphic_design_document"
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/63ae6a321aecb51314350e44/68486e7e2c80e8b70187541e_hearts.avif",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/63ae6a321aecb51314350e44/68af699d336443fa40637d02_piggy-bank-02.avif",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/63ae6a321aecb51314350e44/68a0cb89a72ed147463b9ced_image-indent-left.avif",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/63ae6a321aecb51314350e44/65c63e6ee8222dc282bd12fe_59f1b3efd9b2ee0c3985892bb1bd1f7a_flag-01.avif",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/63ae6a321aecb51314350e44/68486e4afa757f427f1a2018_users-01.avif",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/63ae6a321aecb51314350e44/69b2dd9ed3002d48e0d4c3c1_Financial-Report-Mockup.png",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/63ae6a321aecb51314350e44/684773e5b4a36d6a86953b4c_coins-hand.avif",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/63ae6a321aecb51314350e44/68486ff77192e160e659c6a6_calculator-green.avif",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/63ae6a321aecb51314350e44/68c96c5588b499923e0d3596_edit-05.avif",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/63ae6a321aecb51314350e44/68af699de60bd05c544182b7_message-chat-circle.avif",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/63ae6a321aecb51314350e44/6848711556909ac9ac7ef448_file-heart-02.avif",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/63ae6a321aecb51314350e44/68487156981796a46877ef23_cursor-click-02-green.avif",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/63ae6a321aecb5cb2b350e5b/681e3af9bd1688f58af9886c_65d7ae2bb5c3784cea496a4a_Jayne.avif",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/63ae6a321aecb5cb2b350e5b/695e9cdc679bf4048410ad53_2026%20Financial%20Wellness%20Calendar%20Blog%20Post%20Image%20(2).png",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/63ae6a321aecb5cb2b350e5b/684afc603397c63bbb1adcf6_Kate%20Swack.avif",
+          "alt": "Kate Swack",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/63ae6a321aecb5cb2b350e5b/6949b7dbc062f77211eb0357_2026%20Financial%20Wellness%20Calendar%20Blog%20Post%20Image.png",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/63ae6a321aecb5cb2b350e5b/6903caed5377b9cc4ee6e60e_YML%20Blog%20Images.avif",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/63ae6a321aecb51314350e44/65c690ec22c6b0083161a54a_21972-312_SOC_NonCPA.webp",
+          "alt": "AICPA-logo",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/63ae6a321aecb51314350e44/63ae6a321aecb5289b350eb6_fb.svg",
+          "alt": "facebook-link",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/63ae6a321aecb51314350e44/63ae6a321aecb5ed44350eb7_Tw.svg",
+          "alt": "twitter link",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/63ae6a321aecb51314350e44/63ae6a321aecb5a49a350eb8_in.svg",
+          "alt": "Linkedin Icon",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/63ae6a321aecb51314350e44/63ae6a321aecb58603350eb9_Frame%204.svg",
+          "alt": "Instagram Icon",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "Estimated read time: 8 Minutes 6 Things to Do When You Run Out of Money Not having enough cash to pay your bills is stressful, especially when you don't get paid for another few days. Here at Your Money Line , we have seen participants in almost every situation imaginable, and yes, we're even here to help you know what to do when you run out of money . Have you ever run out of money and weren't sure what your first step should be? Check out these 6 steps to guide you through it. #1: Assess Your Financial Situation When you find yourself running out of money, the first step is to take a deep breath and assess your financial situation. Understanding where your money is going is crucial to taking control of your finances. Start by reviewing your bank account statements and tracking your spending habits. This will help you identify patterns and areas where you might be overspending. Make a list of your essential bills, such as rent or mortgage, utilities, and food. These are the non-negotiables that you need to prioritize. Once you have a clear picture of your essential expenses, look at your non-essential spending. Are there areas where you can cut back, like dining out or subscription services? Don\u2019t forget to check your credit card debt. High-interest debt can quickly spiral out of control, so it\u2019s important to make a plan to pay it off. Consider consolidating your debt into a lower-interest loan or a balance transfer credit card to save on interest payments. Additionally, think about ways to increase your income. This could be taking on a side job, freelancing, or selling items you no longer need. By assessing your financial situation, you can create a clear picture of your financial health and make informed decisions to improve it. #1: Prioritize Your Spending One of the first things you need to do if you consistently find yourself running out of money is to do a spending inventory. A spending inventory allows you to see where you are spending money and identify any patterns. Prioritizing your spending definitely isn\u2019t the sexy or fun answer, but neither is being broke. As you go through each of your purchases, you need to ask yourself if the purchase you made was a need or a want. You will need to be honest with yourself for this one because you can justify just about anything. \u201cI ran out of money, and it was hard, and I just got paid, so I deserve to treat myself\u201d isn\u2019t a solid justification to continue the paycheck-to-paycheck cycle. Trust me, just because you can justify something doesn\u2019t mean you should. When we cannot meet our financial obligations every month, you must eliminate all the excuses and see your spending for what it really is. After identifying areas where you might be overspending, it's crucial to establish an emergency fund. Setting aside at least a small amount, such as $1,000, can create a financial cushion that helps alleviate stress and enables essential spending without the pressure of excessive expenses. Additionally, think about ways to create extra income. Consider practical solutions such as side gigs or online selling to improve your financial situation. Pay your essential bills and let the ones you can do without go To decide which bills you will pay and which ones you will have to do without, you have to make a list starting with the essential bills. As you decide this, you need to make sure that your safety and well-being are taken care of first, including: Your shelter, whether that be rent or your mortgage, you need to make sure you have a clean, safe place to live. Contacting your mortgage provider for assistance, such as setting up repayment plans or asking for a mortgage payment holiday, can be crucial during financial difficulties. We recommend you don\u2019t spend more than 25% of your income on housing. If, at this point, you notice you are spending way more than that 25%, you can make an effort to find a more affordable living situation. This may not be the immediate solution, but it could be important for your long-term success. Food. You have to feed yourself. Period. You may not be eating steak, but you need to eat. Utilities. What is included in utilities will depend on your situation. You need to keep the lights on and the water running. If you work from home, you would include your internet here and your cell phone if your work depends on it. Transportation is necessary if you depend on it to get to work or take your kids to school or daycare. Included in your transportation cost should be insurance and gas. Please note, if you don\u2019t make your car payment , they could repossess your car. Child support can often be forgotten or put on the back burner but it shouldn\u2019t be. Paying your child support is not only an obligation to care for your child but it can also lead to some pretty serious consequences when not paid. What if you can\u2019t pay the bills? So you have prioritized your spending, and you\u2019ve made a list of the bills you know you have to pay, and you may still be thinking, what do I do if I can\u2019t pay the rest of my bills?\u201d. The general rule of thumb is to communicate with your service providers early and often! Ask them if they have any assistance programs or if there are other things they can do to work with you. You will need to identify which of your debts are secured and those that aren\u2019t. Secured debt is debt that has an asset tied to it, like your home. Unsecured debts are things like your credit cards. You\u2019ll notice your credit cards aren\u2019t listed in the bills you must pay every month. Why? Because they aren\u2019t going to come and take the stuff you bought with that credit card! You are going to get a late fee, and your credit score is going to be affected. You may even get a nasty letter from them, but know that your necessities come first. #3: Cut down on your spending At the end of the day you really only have 2 options, you either need to increase your income or decrease your expenses. There are plenty of ways to creatively cut back on your expenses even when you feel like you have already cut out everything you can. Emphasize saving money through practical strategies such as using coupons and shopping clearance aisles. 1- Refer back to your spending inventory and first look at all of those \u201cwants.\u201d What patterns did you notice? How can you hone in on those patterns and either eliminate them, replace them, or reduce them? 2- Call your utility companies like your phone and internet, and try to negotiate for a lower price. We all know there is someone out there paying less for the exact same service you have. 3- Get creative with your transportation. Look, I get it. I live in an area with high crime. I\u2019m not about to go jump on a city bus, BUT you could talk with coworkers that live nearby and carpool to work. You could get really intentional when you run errands so you cut back on any back tracking. If you are a 2 car household consider going down to 1 car. 4- Shop from your pantry and freezer first, oh, don\u2019t forget your fridge too. We all know there are some veggies in there that are about to go bad! But in all seriousness, we waste so much food and therefore money. This can be eliminated as well as reduce your immediate grocery bill by taking inventory of what you have and planning your meals around that. 5- Are there any expenses you can share with others? This could look like sharing streaming services and splitting the bill. It could also look like sharing your internet with your neighbor (if you are in an apartment or close proximity to your neighbors). Get creative and think outside the box. #4: Consider government benefits When you are running low on cash there are plenty of government benefits you can apply for if you meet each programs income requirements. Typical ones to consider include: WIC, SNAP, and Medicaid. There are other ones that are often over looked such as the LiHEAP (Low-income Home energy Assistance Program) that can help cover your home utility costs. This program also protects you from having your utilities shut off during certain times of the year. Contact your local 211 number to learn about government benefits in your area. Food banks can also provide assistance, including small top-ups for those with pre-payment meters who find themselves out of credit. #5: Make some extra money It seems like nowadays with inflation being so high, people running out of money is a normal topic at the water cooler. You may have even thought \u201cI'm running out of money\u201d yourself. We are all feeling the squeeze, but there is a solution. As I mentioned before, if you can't cut your expenses any more it may be time to increase your income. When you have run out of cash, making extra money can be easier than you think, especially when you are just looking for something to make ends meet. Consider signing up for a ride sharing service like Uber or Lyft. If you love animals you can watch other peoples pets when they are at work or go out of town. Do you enjoy shopping? Becoming a personal assistant or participate in opportunities like instacart could be an option. If you prefer to stay at home there are still plenty of options as long as you have a computer and reliable internet. There are lots of people, including small businesses, who are looking for virtual assistants. There is always the option to sell stuff. You likely have things laying around the house, in your garage or even in your closet that you don't use anymore. Some of them could even sell for a pretty penny. We used to have a standing water dispenser, you know one of those you usually see in an office. We never used it and decided to sell it\u2026We made over $100 on that thing! You can easily sell things on Facebook or on other apps like Nextdoor or Offer up. A word of caution, when you are running out of money it may not be the best time to start working for a mutli-level marketing company or starting a crafting business that requires upfront cash to get going. #7: Avoid Borrowing When things get stressful and people run out of money, they often look for the quickest solutions. Borrowing money might seem like an easy fix, but it can lead to a cycle of debt that\u2019s hard to escape. Plus, it can negatively impact your credit score , making future financial stability even more challenging. Instead of borrowing, focus on reducing your expenses and finding ways to increase your income. If you\u2019re struggling to pay your essential bills, reach out to your creditors. Many companies offer assistance programs for customers facing financial difficulties. You can also explore budgeting loans or government benefits to help cover important bills. Remember, borrowing should be a last resort. By prioritizing your essential bills and cutting down on non-essential expenses, you can avoid the need to borrow money and keep your finances on track. #6 Avoid borrowing When things get stressful and people run out of money they try to look for the quickest solutions. It may seem like borrowing money is the best option but it rarely is. We want to avoid borrowing money from our family and friends. While it may be a convenient and the less expensive option, it could come at the expense of your relationship. In personal finance, there is a rule advising against lending money to family, suggesting that this rule may hinder human connection during financial emergencies. Instead, emphasize the importance of support and bartering as alternative solutions. We have all heard how important it is to avoid payday lenders and title loan companies but you will also want to avoid online cash advances. Because it\u2019s 2022, there are lots of apps that will let you borrow smaller amounts of money but they also often come with a high price tag. You may be tempted to swipe your credit card and there are times when you may have to use credit to put food on the table but we should be doing everything in our power to cut expenses and increase our income before we do that. For HR Teams: When Employees Are Running Out of Money Here's something worth knowing: if this article is getting traffic (and it is!), it means people are actively searching for help when they're financially stretched thin. And statistically, some of those people work for you. Financial stress doesn't clock out at 5 PM. When employees are worried about making rent or choosing between groceries and gas, that stress shows up at work, in distraction, absenteeism, and turnover. A PwC survey found that financially stressed employees are five times more likely to be distracted at work and twice as likely to be looking for a new job. The good news? This is a solvable problem, and you don't have to become a financial expert to help. A comprehensive financial wellness program gives employees a confidential resource to turn to before they hit crisis mode,and a lifeline when they do. At Your Money Line, our certified Financial Guides help employees with exactly the situations described in this article: prioritizing bills, building emergency funds, navigating government benefits, and creating a path forward. What makes this different from a budgeting app? Real human support. Employees can call or text a coach who will actually help them work through their specific situation,no judgment, no sales pitch. That's especially valuable for deskless or remote workers who might not have time to sit down with software. Curious what this could look like for your team? See our pricing or calculate your potential ROI to see how financial wellness benefits pay for themselves in reduced turnover and increased productivity. Conclusion Running out of money is stressful,but it doesn't have to be a recurring crisis. With a clear plan and the right support, things can change. If you're dealing with this personally, know that you're not alone, and small steps add up. If you're an HR or benefits leader wondering how to support employees facing these challenges, our 1:1 Financial Coaching program gives your team access to certified Financial Guides who help with exactly these situations,by phone, text, or chat. Request a demo to see how Your Money Line can help your workforce build financial confidence. About the author Jayne Larson, AFC\u00ae\ufe0f, is a Financial Guide at Your Money Line, where she leverages her expertise to guide clients toward financial wellness. As an accredited financial counselor with a deep background in financial counseling and coaching, Jayne is committed to helping individuals navigate their financial challenges with clarity and confidence. Known for her compassionate, client-centered approach, Jayne provides tailored financial advice that empowers people to make sound financial choices. Her extensive experience and dedication to financial literacy make her a trusted authority in the financial wellness space. Follow and connect with the author on LinkedIn",
+      "headings": []
+    },
+    {
+      "rank": 6,
+      "domain": "theglobeandmail.com",
+      "url": "https://www.theglobeandmail.com/investing/markets/indices/JX/pressreleases/22071435/20-productive-things-to-do-when-you-have-no-money/",
+      "title": "20 Productive Things to Do When You Have No Money",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.theglobeandmail.com/pf/resources/assets/meta/twitter-summary-240x240.png?d=880",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.theglobeandmail.com/images/throbber.gif",
+          "alt": "Please wait...",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.theglobeandmail.com/resizer/v2/https%3A%2F%2Fauthor-service-images-prod-us-east-1.publishing.aws.arc.pub%2Ftgam%2Fb0fca36f-502c-49df-9a43-1c1f00f21a32.png?auth=6adf4679e1b0d2a02f0643072d2b6971876907c5a4b3b1f030215a90b0955b0d&width=300&height=200&quality=80&smart=true",
+          "alt": "Tim Shufelt",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.theglobeandmail.com/resizer/v2/JXDEFCFSX5AGVODGEKYM6YAWQ4.JPG?auth=f747ef5bf79d19f068b00804ca2c87f247fd91422519a50ed916308da58ca831&width=300&height=200&quality=80&smart=true",
+          "alt": "Jimmy Jean, chief economist of Desjardins",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.theglobeandmail.com/resizer/v2/USMK3P5F7FBMJNAPSGEPVZVKTM.JPG?auth=92ef77b9c2a993c865be1725dc7e23d65ec5c2e5e9863ee074f4ce0fcf7226cb&width=300&height=200&quality=80&focal=3963%2C2680",
+          "alt": "People cross Bay St. in Toronto's Financial District on Tuesday, January 6, 2026.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 7,
+      "domain": "themoneyprinciple.com",
+      "url": "https://www.themoneyprinciple.com/what-to-do-when-you-have-no-money/",
+      "title": "What To Do When You Have No Money (Survive & Thrive)",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.themoneyprinciple.com/wp-content/uploads/2023/07/have-no-money.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.themoneyprinciple.com/wp-content/uploads/2012/06/no-money-1-800x600.jpg",
+          "alt": "I have no money",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.themoneyprinciple.com/wp-content/uploads/2012/06/have-no-money-2-533x800.jpg",
+          "alt": "what to do when you have no money",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.themoneyprinciple.com/wp-content/uploads/2019/09/i-have-no-money-533x800.jpg",
+          "alt": "what to do when you have no money",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.themoneyprinciple.com/wp-content/uploads/2022/05/No-Money.png",
+          "alt": "I have no money and need help",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/17d1b4d087beb3e65e69e4246a267f909e53dcd5eb7b068c5b113195c2068ab9?s=50&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/18ad7aba929a994e5a08b5d1d7ee9ea6f2543394a75d111372d955614560d620?s=50&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.themoneyprinciple.com/wp-includes/images/smilies/mrgreen.png",
+          "alt": ":mrgreen:",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/6ae1fe14a57558147962e69a2c9c30cf77a3d6f4b42048e8354458a13dfc8319?s=50&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/1603aae9b0d3e480bd00d31bce2f5148d04c02f43eaaca07fa61f49553e59f7d?s=50&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/76cbbb28a2dfcd3432b464e57792c840aa171df5636cf52f599337e3032e9e49?s=50&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/59469cb4361967685f8f18664f121c9c73ce1daf5ec16e87b00f5468ae57db5d?s=50&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/38562f3891bd8375a2e42f1136706d96c4d7ffb47bad0bbca0a02fd465756bba?s=50&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/bb7ffe859dd1c22181562b45bbba3573d66532a7705812bf422443b0a5262ee5?s=50&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/fe0247f285c26565232bff00afebfbf45ca5931f8770041508928c07836be3cb?s=50&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/4b4c2a5910fa7cf028b510c7431bd4035ae50bf0adf656f2d5bba50203683fd6?s=50&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/0de1bc0d1a0d8c15d28a6502943548b75481b6dabddf28583c0960aa3f8f03a0?s=50&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/d987ecc258bcaea03acfdd67ce7b2576d3f951cb2778ba318d5b3a25fb27687c?s=50&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/350a2f29a0b9c52ee7e409bc2108fd69d4a59f21b7430b02c592cc0f1c9ab0c8?s=50&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/b6bf26cf1cfe54086893d664ec06589ac4dc0a13a883ae73ecc85740d5cd8bdf?s=50&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/a191d3d4a84d587006528a0d42436f89b5ffb39192a5b093d8669a3820d3c666?s=50&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/76c8df1789a42571d225cf5e07f4c3cf9a7c252bd12dda8d098aff917f5321fd?s=50&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/de8dc70acc905f5c7c0e2c11dbe014e1af5387dcbf1880f6fe58915ac3328cc8?s=50&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/202d827d513052a7d3a647b1ea798dec3e70ca2bb0e23e6096f531619a6918c3?s=50&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/a2397ea8ad2c0de53ebf46e50496575f04d980dff67f95f83c090f48a69b2cdf?s=50&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/4da350a153f0762e760990f069b9311f7dd20dc49cc9ee929fb42cb932d23393?s=50&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/b4deb37ddb408ea8e6fe7eec76c05ef703e24148e9017afceb788fa62ebe2d39?s=50&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/8fc44fda65a6e9d5057c4aed4a7b72f73100e1a3fbc9894995b66f5d3bd73c28?s=50&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/c597216e2109fe5964164b70434527fc63a0f00934ecd8309fc2eaa4ef6ecd13?s=50&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/0c0cc01239013d83526a142b2075a3fca8b9e4b17603bbbeb421a27a27d2f120?s=50&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/8b0fe7578f9b2caa806d1bf98882ad149ae9d33f465164ae1ecf0e309635e74d?s=50&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/9b602fbd0d2efbfa8393614faf79944077e6691225b280ae16fe25992e40ed25?s=50&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/9da8e0cd9c7ddf3f22e2b20e8b641c16f56cd808c02873c66452da35652027a3?s=50&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/86055fcc63950e70b71a55dfe0074bd8ac38ce20b7dfb75957a3037dfba42123?s=50&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/cdd1d6df088685b22dfe5f74696e6d4e030b6dab154b335d6a91571f5a0a0276?s=50&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/629c51c19e149832e54f3e2e81c30e8b0e5cdad646109b74dae4a8113bc5073c?s=50&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/6435661a0eb3194623a268083891e352fd02406e85bcfa188655fd1b797ad998?s=50&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/f4e49ae1c3b32984e73a65fbda3c9e3c6d40bcb53b5b650fa1532319fc586ac4?s=50&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/cc7e2781f069d42ea163d10c8b2cdc260ea3ee2cd6c175424049788effa72e98?s=50&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/4a69ab6f42ac045b5e5c59f39e739ee3e6822a9b72810082ee322a685cc15680?s=50&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/d6abd8228e198f7cfc8b153144cbe73dbcd8e600c0069be528fcd0d4a9666660?s=50&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/14130654aa4583169329dbed1c0436f557a60d9f7f1aa96c19889a159e591fec?s=50&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/96bdbee1a5eeded535b555561d0fd41baa214df38dcf788513f6d2cbcaaba410?s=50&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/d83bfa922ccce1b1612805815f9e590fa50040700a1f698461330ef369dd1760?s=50&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 8,
+      "domain": "consumerfinance.gov",
+      "url": "https://www.consumerfinance.gov/consumer-tools/unexpected-job-loss/",
+      "title": "Unexpected job loss - Consumer Financial Protection Bureau",
+      "word_count": 2171,
+      "scrape_status": "tavily_fallback",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": "An official website of the United States government (855) 411-2372 Submit a Complaint # Unexpected job loss Losing your job can feel overwhelming and can change your money situation quickly. Our list and worksheets can help. ## To-do list for building stability after a job loss Jump to the sections below to see actions you can take. * File for unemployment * Take care of your health insurance * Take care of your rent or mortgage * Deal with student loans * Get a handle on your bills * Watch over your spending * Keep an eye on your credit * Consider your retirement savings * Survival tips ## File for unemployment ### Unemployment rarely replaces all your income Unemployment is typically a weekly payment of a few hundred dollars. The payments are considered taxable income. ### Unemployment is generally for people who have been fired People who have been laid off or whose jobs were eliminated can generally qualify for unemployment. You generally cannot file for unemployment if you chose to resign from your job or if you were fired for misconduct. ### File for unemployment in the state where you worked, even if you live in a different state Filing can be complicated. You can check with your public library or contact a local elected official for help. To get started, try: * A state-by-state list of unemployment insurance contacts from the Department of Labor * CareerOneStop with information about unemployment benefits in your state Use our worksheet for ways to increase income and benefits --- ## Take care of your health insurance ### You have the right to continue health insurance at your own expense Under federal law, most people who work for companies or governments with health care benefits can continue their coverage. However, they must pay for it themselves. You might see it called COBRA , after the federal law. For federal government workers, it is called temporary continuation of coverage . Coverage can be expensive because you now pay your share of the health care premium as well as your employer's share, plus an additional 2% for administrative costs. But you can choose a different health care option than you had while you were working. Get more details about COBRA from the Department of Labor ### Job loss is a life event that allows you to make changes Losing your job is considered a \"life event\" that generally means you can enroll or change health care coverage outside the usual enrollment period. For example, if your spouse has health care benefits available, you can be added to their employer's health care plan. ### Enroll in Affordable Care Act health insurance You can sign up for health insurance on your own in the health care marketplace. Start at healthcare.gov to compare plans and coverage. ### You might qualify for Medicaid and CHIP Medicaid and CHIP are nationwide health care plans available to those who qualify because of low income. Learn more about saving money on health insurance through these plans. ### If you go without health insurance People who are uninsured, even temporarily, can still get care from medical providers. Be sure to get the care you need, especially in emergency or urgent situations. Ask the hospital or medical provider for help with bills you can\u2019t manage. See more about getting help with medical bills --- ## Take care of your rent or mortgage ### Struggling homeowners should contact their mortgage servicer If you can\u2019t pay your mortgage or are worried about missing a mortgage payment, call your mortgage servicer right away. The servicer might be able to offer you options that include forbearance, refinancing, or loan modifications. Use our guide for steps to take and how to contact a mortgage servicer ### Struggling renters should look for local programs and talk to landlords Renters can check local rental assistance programs and start the conversation with landlords about ways to pay rent and avoid eviction. Use our guide if you\u2019re having trouble making rent payments ### Housing counselors can help U.S. Department of Housing and Urban Development (HUD)-certified housing counselors can discuss options with you, at little or no cost to you, if you're having trouble paying your mortgage or rent. Use our guide to stay on top of housing issues you might face --- ## Deal with student loans ### Contact your loan servicer to reduce your monthly payments Federal student loan borrowers may be entitled to lower monthly payments under income-driven repayment (IDR) plan options that base your monthly payment on your income and family size. For some borrowers, your payment could be as little as $0 a month and you would continue to receive credit toward IDR loan cancellation. Check the Department of Education\u2019s income-driven repayment plan guide If you're going back to school or training, you might qualify for an in-school deferment, which means you do not have to pay your loans while you\u2019re going to school. Check the Department of Education\u2019s in- school deferment guide For private student loans, contact your servicer and ask them about options to reduce or pause your payments. Check the Department of Education\u2019s resources on student loan repayment --- ## Get a handle on your bills ### Request help from lenders and financial companies When your employment or money situation changes, you should contact your lenders and companies where you have accounts and ask for help. For example, you could request more time to pay your bills or ask them to waive a late fee. Use our bill calendar to create an overview of due dates Use our worksheet to prioritize your bills ### Take charge of credit cards and other bills After reviewing your budget, determine how much money you have available to pay bills and debts. If you can\u2019t make your credit card payment or other bill payments, contact the company to see if they can offer more affordable repayment options. Your lenders might be willing to work with you, so be proactive to avoid extra expenses, fees, and actions that could hurt your credit score. ### Take care with automatic bill payments In stressful times, it might be tough to keep track of payment deadlines or automatic bill payments. This can lead to overdraft fees. Contact your bank, financial institution, or lenders quickly if you need to stop automatic payments or if you will miss a payment. --- ## Watch over your spending ### Examine your income and spending Understanding your household finances begins with getting a clear picture. Look at your debts, savings, and any severance package to understand your money situation. Be sure to include your partner and anyone who contributes to your household. Use our cash flow worksheet to keep track of your income and expenses ### Take a fresh look at recurring services and subscriptions There could be items you can cancel, like refills for public transportation. You might choose to cancel a streaming service or gym membership\u2014or you might keep it because it\u2019s important to your routine. Use our worksheet to look for ways to cut back on expenses --- ## Keep an eye on your credit ### Check your credit report online Losing your job can lead to unexpected issues with your credit reports or scores. For example, arrangements you make with lenders or credit card companies to make your payments more affordable may not show up correctly on your credit report. You can get a free credit report from each of the three nationwide credit reporting companies (Equifax, TransUnion, and Experian) at least once every 12 months. Until the end of 2026, you can get an additional six free credit reports every 12 months from Equifax. When you visit the site, you can follow the steps to view reports online, updated weekly. This means that you have opportunities to request reports, monitor your credit, and ask for any errors to be corrected. You can request a copy of your credit reports through AnnualCreditReport.com . ### Check your other consumer reports when you have time You also have the right to request other types of reports . These include tenant screening reports, bank or checking accounts, and personal property insurance reports. --- ## Consider your retirement savings You might be thinking about using your retirement savings to see you through an unexpected drop in income. No matter where you are in your career, there could be consequences to dipping into this money. Consider the tradeoffs carefully, especially because once you take a distribution from a retirement savings plan, you cannot undo it. You know your own situation best, so think through your options and take the action that helps you meet your life goals. ### Using 401(k) savings For workers who have 401(k) accounts, it can be tempting to withdraw the money and use it for bills and spending. Keep in mind that withdrawals from before-tax savings are considered taxable income. This means that the amount you withdraw is added to your taxable income for that year. An automatic 20% is withheld from the withdrawal amount for your federal taxes. Depending on the state where you live, you could also owe state and local income taxes. If you are under age 59 \u00bd, an additional 10% penalty tax applies \u2013 though there are exceptions. Consider the effect of withdrawing your retirement savings on your long-term financial health. You might have to save more \u2013 maybe a lot more \u2013 from your future paychecks to stay on track for a stable retirement. Consider the costs of piling up debt. In some situations, using your retirement savings might help you avoid expensive loans or damaging your credit score. Review the information you get from your employer and your 401(k) company, to understand your options. ### Tapping into Social Security Most people can take a full Social Security benefit when reaching age 66 or 67 (depending on your birth year). The amount is permanently reduced if you choose to start Social Security earlier, as early as age 62. Use our Social Security tool to explore what happens at different ages --- ## Survival tips ### Gather your documents If you can, take time before you leave your job to save copies of your work documents. It can be useful to save documents about your position, your responsibilities, your pay, and your performance ratings. You could also collect phone numbers or email addresses for people you want to stay in contact with. ### Use your networks Colleagues and others who faced layoffs and terminations can have valuable experiences to share. People you are connected to could also help you find a new job. Ask questions and share your information to build your resilience and resources. ### Clarify money arrangements with friends and family It is natural to turn to people close to you for help when you need it and to want to help others. Still, borrowing or sharing resources can lead to stress if expectations are not made clear. Use our guide to have productive conversations about informal money arrangements so you can keep your important relationships stable. ### Watch out for scams While many people pull together during times of crisis, there is also an increased risk of scams and fraud. To avoid scams, ask questions to determine if a phone message, text, or social media post is real. Red flags to watch out for: * Job-related messages that ask you for personal data, require you to pay fees, or lead you to download unfamiliar software or apps. * People who want you to pay up-front fees to help you claim services or benefits, search for jobs, or get loans. * Con artists with fake credentials or uniforms, posing as government employees, insurance salespeople, law enforcement officials, or bank employees. Do not give out personal information to people you don\u2019t know or someone who contacts you unexpectedly. Government employees do not charge to help you get a benefit or service and do not ask for payment or financial information. * People pressuring you with urgent situations or limited time offers, trying to get you to decide on the spot or to sign something without enough time to review it. Take your time reading and understanding anything presented to you. And ask a trusted friend, relative, or attorney before acting. * Recruiters or employers who can\u2019t or won\u2019t answer your questions are a sign you might want to look for someone else to do business with. Here are steps you can take to recover from losses because of a scam or fraud: * Contact your state\u2019s attorney general: Your state attorney general might be able to take action. * Submit a fraud report to the FTC: Although the FTC cannot resolve your problem, when you submit a fraud report , it is shared with more than 2,800 law enforcers, and reports are used to investigate and bring cases against fraud, scams, and bad business practices. --- Page last modified @ View older versions of this page at our public archive.",
+      "headings": []
+    },
+    {
+      "rank": 9,
+      "domain": "lifehack.org",
+      "url": "https://www.lifehack.org/articles/money/31-things-when-you-have-money.html",
+      "title": "31 Things To Do When You Have No Money - Lifehack.org",
+      "word_count": 1462,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://cdn.lifehack.org/wp-content/uploads/2013/09/what-to-do-when-you-have-no-money.png",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://secure.gravatar.com/avatar/cfb53e5765b2cad30145c9e32846f4e570e27eed0884a06740b4d88e205c0c2d?s=50&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.lifehack.org/wp-content/uploads/2023/08/how-to-use-a-planner.png",
+          "alt": "how to use a planner",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.lifehack.org/wp-content/uploads/2023/08/how-to-be-a-better-planner.png",
+          "alt": "how to be a better planner",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.lifehack.org/wp-content/uploads/2023/08/delegation-tools.png",
+          "alt": "delegation tools",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.lifehack.org/wp-content/uploads/2023/08/delegating-leadership-style.png",
+          "alt": "delegating leadership style",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.lifehack.org/wp-content/uploads/2023/08/hesitate-to-delegate.png",
+          "alt": "hesitate to delegate",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.lifehack.org/wp-content/uploads/2023/08/importance-of-delegation-in-leadership.png",
+          "alt": "importance of delegation in leadership",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.lifehack.org/wp-content/uploads/2023/08/best-tools-for-prioritizing-tasks.png",
+          "alt": "best tools for prioritizing tasks",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.lifehack.org/wp-content/uploads/2023/08/how-to-deal-with-competing-priorities.png",
+          "alt": "how to deal with competing priorities",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.lifehack.org/wp-content/uploads/2023/08/rice-prioritization-model.png",
+          "alt": "rice prioritization model",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.lifehack.org/wp-content/uploads/2023/08/exercises-to-improve-focus.png",
+          "alt": "exercises to improve focus",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.lifehack.org/wp-content/uploads/2026/02/featured-image.jpg",
+          "alt": "Businessman stressed at computer, representing procrastination struggle",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.lifehack.org/wp-content/uploads/2023/08/chronic-procrastination.png",
+          "alt": "chronic procrastination",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.lifehack.org/wp-content/uploads/2023/06/procrastination-adhd.png",
+          "alt": "procrastination adhd",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.lifehack.org/wp-content/uploads/2023/06/depression-procrastination.png",
+          "alt": "depression procrastination",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.lifehack.org/wp-content/uploads/2023/06/procrastination-and-laziness.png",
+          "alt": "procrastination and laziness",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.lifehack.org/wp-content/uploads/2023/06/bedtime-procrastination-e1687354850997.jpg",
+          "alt": "bedtime procrastination",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.lifehack.org/wp-content/uploads/2023/06/best-books-on-procrastination.png",
+          "alt": "best books on procrastination",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.lifehack.org/wp-content/uploads/2023/06/productive-procrastination-e1686843143640.jpg",
+          "alt": "productive procrastination",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.lifehack.org/wp-content/uploads/2023/01/how-does-procrastination-affect-productivity-e1674227106179.jpg",
+          "alt": "how does procrastination affect productivity",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.lifehack.org/wp-content/uploads/2022/03/anxiety-and-procrastination.png",
+          "alt": "anxiety and procrastination",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.lifehack.org/wp-content/uploads/2023/08/work-life-balance-books.png",
+          "alt": "work life balance books",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.lifehack.org/wp-content/uploads/2023/06/Work-Life-Balance-for-Women.png",
+          "alt": "Work Life Balance for Women",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.lifehack.org/wp-content/uploads/2022/11/career-mindset-e1667558947493.jpg",
+          "alt": "career mindset",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.lifehack.org/wp-content/uploads/2022/10/saulo-mohana-wNz7_5EvUWU-unsplash-scaled-e1667258520589.jpg",
+          "alt": "career move",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.lifehack.org/wp-content/uploads/2022/10/lee-cockerell-e1666896948474.jpg",
+          "alt": "lee-cockerell",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.lifehack.org/wp-content/uploads/2022/08/charlesdeluvio-Lks7vei-eAg-unsplash-1-scaled-e1661863819795.jpg",
+          "alt": "how to disconnect from work",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.lifehack.org/wp-content/uploads/2022/06/aziz-acharki-U3C79SeHa7k-unsplash-scaled-e1661060804110.jpg",
+          "alt": "work life integration VS balance",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.lifehack.org/wp-content/uploads/2022/05/self-advocacy-in-the-workplace-scaled-e1656934327337.jpg",
+          "alt": "self-advocacy in the workplace",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.lifehack.org/wp-content/uploads/2023/02/boost-focus-and-attention-span.png",
+          "alt": "boost focus and attention span",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.lifehack.org/wp-content/uploads/2023/02/distractions-in-nutshell.png",
+          "alt": "distractions in nutshell",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.lifehack.org/wp-content/uploads/2023/02/end-procrastination.png",
+          "alt": "end procrastination",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.lifehack.org/wp-content/uploads/2023/02/effective-prioritization.png",
+          "alt": "effective prioritization",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.lifehack.org/wp-content/uploads/2023/02/delegation-leverage.png",
+          "alt": "delegation leverage",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.lifehack.org/wp-content/uploads/2023/02/effective-plan-and-schedule.png",
+          "alt": "effective plan and schedule",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.lifehack.org/wp-content/uploads/2023/02/achieving-goal-guide.png",
+          "alt": "achieving goal guide",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.lifehack.org/wp-content/uploads/2023/02/lasting-motivation.png",
+          "alt": "lasting motivation",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.lifehack.org/wp-content/uploads/2023/02/lack-of-energy-need-boost.png",
+          "alt": "lack of energy need boost",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.lifehack.org/wp-content/uploads/2023/02/good-life-balance-guide.png",
+          "alt": "good life balance guide",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.lifehack.org/wp-content/uploads/2023/02/take-control-of-time.png",
+          "alt": "take control of time",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.lifehack.org/wp-content/uploads/2023/02/fluid_progress.png",
+          "alt": "fluid_progress",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.lifehack.org/wp-content/uploads/2023/02/pragmatic_priorities.png",
+          "alt": "pragmatic_priorities",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.lifehack.org/wp-content/uploads/2023/02/sustainable_momentum.png",
+          "alt": "sustainable_momentum",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.lifehack.org/wp-content/uploads/2023/02/3_goal_focus.png",
+          "alt": "3_goal_focus",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://cdn.lifehack.org/wp-content/uploads/2023/02/time_flow_works.png",
+          "alt": "time_flow_works",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "Money When you have no money, what you got in your head maybe just tons of worries and insecurities. Is \u201cwhat jobs should I apply?\u201d the only question you have in your mind? Take a break and look at the following list with the 30 things you can do when you have no money! (This list of things may surprisingly enthuse you to proceed with your life!) 1. Join a contest like a beauty contest or fitness contest. Take part in a contest which you can show off the best parts of yourself, be it a singing contest, dancing contest, fitness contest or beauty contest. These are all great choices as you can truly widen your horizon with the special experience, while gaining a bit of fame. Who knows if you may eventually be the champion? 2. Baby-sit a child Looking after children requires your patience and concentration. Yet only a smile from a child can melt your heart and make you feel the time you\u2019ve spent on him/her is rewarding. In fact, babysitting a neighbor\u2019s child can be a part-time job for you to gain money. 3. Perform in the street Do a mini magic show or an acrobatic show, sing a song or play a musical instrument in the street. Yes it takes your courage, but it\u2019s worth a try if you\u2019ve got a group of audience paying their time, or even a bit of money to watch your performance in the hectic streets. 4. Join a carnival or any free festivals Not only can you have fun in such events, you get food and beverages for free. Sometimes you even get souvenirs! Sure they\u2019ll forgive you for being a bit greedy since you\u2019re out of money at the moment. 5. Take a video to put on YouTube Shoot for whatever theme and topic you like and put the video on YouTube. You\u2019ll see how you create buzz on the internet with just a few-minute-clip. (By the way, if your video\u2019s really widespread, you may get unexpected revenue from advertisements!) 6. Sell your old stuff You must have stuff which are no longer useful for you, why not sell them to have money in exchange? Just put your stuff on the online bidding sites like ebay or Amazon , or you can hold a garage sale. 7. Build A Mobile App It takes you effort but no money at all to launch a mobile app. If you don\u2019t know any technology but have the ideas, ask your friends for help! Develop an app, then put it on AppStore and Google Play, it\u2019s easy to do. If the app you develop performed well, sure you\u2019d feel proud of yourself and the downloads could earn you money! 8. Grab your camera and take photos around Ordinary items can become interesting bits and pieces in your shots. Make good use of your creativity and imagination to shoot stuffs at different angle to amuse yourself. 9. Enjoy some audiovisual entertainments If you don\u2019t feel like going out sometimes, stay indoors and watch TV or play on your favorite music. The simplest things to ease yourself at home. 10. Find a way to express yourself Some like writing, some prefer painting, some fancy playing with a musical instrument, or even composing a song. Choose your own way to express your feelings. If you don\u2019t mind, share what you\u2019ve expressed with your friends or just on any online platforms too. 11. Get yourself a new look You don\u2019t need to pay to do this. Do the hair-dyeing and cutting yourself; search in the wardrobe for the old clothes and accessories and match a new delighting look for yourself. 12. Decorate your room Rearrange the things\u2019 settings in your room or even paint your room with left over paint. Then, immerse yourself in a new relaxing atmosphere. 13. Take a bath in a bathtub Right, I don\u2019t mean a quick shower. Soak yourself in the bathtub and take a hot bath, comfortable and relaxing huh? 14. Look through your old photo albums Take out your photo albums and have a stroll down on memory lane and recall the best of your memories. 15. Play some sports like jogging Doing sports\u2019 a free activity, just play your favorite sports. You shouldn\u2019t let the pressure of lacking money go all over you, maintain a healthy body to move on! 16. Start to cook If you know how to cook, just cook with whatever ingredients you have at home; if you don\u2019t know how, browse for any simple recipes on the internet and start cooking. Besides the fact that cooking can be fun, you\u2019re actually doing something for yourself with the food you\u2019ve made. 17. Play with your pets They don\u2019t talk and may not understand you, but they\u2019re always there and ready to make you happy. 18. Start to plant While taking good care of plants could be a lesson, watching the seeds grow into flowers or fruits is an amazing experience. 19. Go to the public library and borrow a book or two to read on Reading requires your concentration and comprehension, so it forces your brain to exercise. Keep your brain active so you\u2019ll have new ideas coming up always. Plus, you never know if you\u2019ll find something fascinating that inspires you! 20. Do some cleanings if you feel like so Clean up your own house and tidy up your clothes. It\u2019s more than just literally cleaning up the places, studies have shown that a clean place relaxes people and facilitates thinking. 21. Find your friends or people you want to connect with List out the people you want to meet; they can be your old friends, neighbors or teachers. Call them or meet up with them. Treasure the times you spend with these people, can\u2019t just lock up your hearts all the time, right? 22. Spend time with your family You should not neglect your family because they\u2019re always standing by you. Hug your parents and spend some time hanging out with them. 23. Meet new friends Join your old school\u2019s reunions or big groups gatherings, where you can meet new friends and revive your interpersonal network. If you\u2019re more of an indoor person, try meeting friends online; it\u2019s fairly common nowadays. 24. Write a letter to someone Pick up the long-forgotten pen and start to write a letter for someone you care about. Oh, what about a love letter to someone you\u2019ve been having a crush on? 25. Get in touch with the nature Do you know that just 5 minutes doing something in the woods or even just in a nearby park can boost your mental health? Go hiking or go to the beach, take a deep breath there and feel the natural breeze to enliven your mind. 26. Go fishing It\u2019s definitely a great time-killing activity. You may have to wait for a long time for the fish to get hooked, but you\u2019ve earned yourself some peaceful moments to think. 27. Wander around your neighborhood Walk around your neighborhood and just observe what people do in the streets. It\u2019s not necessary to have a purpose for walking around the city. 28. Feed some wild animals Here I\u2019m talking about legal feeding to the animals. Go to the park and feed the fishes with the tiny pieces of bread. The fishes\u2019 chase and clash for the food could be a fun scene. 29. Go to a flea market You don\u2019t need to have something to buy to go there because there\u2019s always so many things to explore in a flea market. Just walk around the flea market and look at all the interesting stuffs. 30. Do some community services Voluntary work sounds like the least thing people want to do when they have no money, but nah-ah, it trains you and gives you confidence . While you can help people, you find your value in the community. 31. Go to church or join a religious gathering Choose a religion that you\u2019re comfortable with and join its gatherings. Just see how religion may move you. Read Next How to Boost Your Focus And Attention Span What Are Distractions in a Nutshell? What Is Procrastination And How To End It Prioritization \u2014 Using Your Time & Energy Effectively Delegation \u2014 Leveraging Your Time & Resources Your Guide to Effective Planning & Scheduling The Ultimate Guide to Achieving Goals How to Find Lasting Motivation Complete Guide to Getting Back Your Energy How to Have a Good Life Balance Explore the Time Flow System About the Time Flow System Key Philosophy I: Fluid Progress, Like Water Key Philosophy II: Pragmatic Priorities Key Philosophy III: Sustainable Momentum Key Philosophy IV: Three Goal Focus How the Time Flow System Works",
+      "headings": []
+    },
+    {
+      "rank": 10,
+      "domain": "facebook.com",
+      "url": "https://www.facebook.com/SimplisticallyLiving/posts/no-money-no-problemthere-are-so-many-things-you-can-do-without-money-heres-some-/1227105938815644/",
+      "title": "No money? No problem...   There are so many things you can do ...",
+      "word_count": 371,
+      "scrape_status": "tavily_fallback",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": "## Simplistically Living's Post \n--- ### Simplistically Living May 10, 2025 \u00b7 No money? No problem... There are so many things you can do without money. Here's some of my favorite ideas All reactions: 7.2K 547 comments 3.4K shares Like Comment Most relevant \ufeff Author Simplistically Living https://www.simplisticallyliving.com/things-to-do-no-money/ SIMPLISTICALLYLIVING.COM 115 Fun Things to Do When You Have No Money To Spend ### 115 Fun Things to Do When You Have No Money To Spend * 49w 6 Irene Lauter Don\u2019t forget it usually costs money to travel to a lot of places. Not everyone has a car tank full of petrol or a free bus pass. * 49w 77 15 replies Sabina Hlavat\u00e1 Funny how most of those things require money. A bike, a dog, a washing machine, a library fee,... * 49w 75 39 replies Julie Dudley You forgot gardening * 49w 21 7 replies Erkki Tsokkinen 31st thing to do : Beg on the street with hat in hand. * 49w 13 Eileen Darcy Tell me though How do you repair without tools ? How do you visit relatives if you cant pay transportation ? How do you plan board game nights without having food or even board game? How do you go to the free concert How do you create artwork without the material ? For every example you need some money.... * 49w 27 25 replies Michelle Louise Fowler Home repairs if you don't have the tools, equipment, resources ? Laundry? If you can't afford washing powder or electricity? Etc etc etc. Some of these are brilliant, some lack any thought or awareness * 49w 29 6 replies Roisin O'Brien Ha, and there I was thinking this was going to be a list of tips on how to pay bills or clear debts, or y'know, something actually practical, that's important when you have no money, and all the dog-walking, yoga, and free local events in the world isn't going to help you make ends meet. * 49w 3 replies Dawn Tattershall Then ya come home, still hungry, n still no money * 49w 6 View 1 reply Neire Mercer Been here got the Tshirt. Anyone who says money can\u2019t buy happiness has never been poor! * 49w",
+      "headings": []
+    },
+    {
+      "rank": 11,
+      "domain": "femmefrugality.com",
+      "url": "https://femmefrugality.com/income-loss/",
+      "title": "What to Do When You Can't Bring in An Income - Femme Frugality",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://femmefrugality.com/wp-content/uploads/2020/12/what-to-do-when-you-cant-work-2-scaled.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://secure.gravatar.com/avatar/d2505bc2572206c06049ec691039b623a4a2584161691fc6d274b81f7e29efc3?s=44&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 12,
+      "domain": "credit.com",
+      "url": "https://credit.com/blog/10-things-to-do-if-you-lost-your-job-and-need-money-now",
+      "title": "10 Things to Do If You Lost Your Job and Need Money Now",
+      "word_count": 1661,
+      "scrape_status": "tavily_fallback",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": "# 10 Things to Do If You Lost Your Job and Need Money Now Published October 7, 2021 Author ### Andrew Kraemer *This article originally appeared on* *Wallet Squirrel* *and has been republished here with permission.* We all have the stress nightmare where your boss comes out of the blue and says \u201cYou\u2019re fired.\u201d That\u2019s it, and we spend the rest of the night in a panic. The problem is if it did actually ever happen, most of us don\u2019t have a plan in case we do get fired. Whether you\u2019re thinking about losing your job due to stress, COVID-19, or any slew of reasons, it helps to have a plan. To lay out a blueprint, if this ever happened to me, here are 10 things to do if you lost your job and need money now. Read More: COVID-19 Financial Resource Guide ## Immediately Start ### First, Take a Breath It seems silly and not productive, but taking a breath is essential. People are let go or fired for a number of reasons and it\u2019s not always a reflection of you or your work. Some things are just out of your control. Take an hour or take a day to let it sink so it doesn\u2019t consume you later. ### 1. Review Your Finances Take a look at all the money you currently have. I personally use Mint to see all my bank accounts, credit card debt, and student loans all at once. You don\u2019t necessarily need this, but make a list of every dollar in your possession. Look over your finances and get a feeling of how long you\u2019ll last without a paycheck. It may not be pretty, but it\u2019s something you absolutely need to know. Know how much you need to spend each month, here\u2019s an example monthly breakdown: PS. Also, consider health insurance as a cost. In most cases, your old employer would have provided this for you, but you need to talk to your HR to see how long this lasts. You may need to pick up supplemental health insurance until you get a new job. Hopefully, you have some sort of Emergency Fund you can access if you lose your job. Your emergency fund will help cover rent/mortgage, food, and those expenses your paycheck normally covers. Most emergency funds should cover 4-6 months of expenses. If you don\u2019t have an emergency fund, start saving up now but the following tips can still help. Let\u2019s continue though as if you have $0 emergency funds. ### 2. Cancel Frivolous Monthly Subscriptions and Purchases If you just lost your job, you shouldn\u2019t be watching Netflix, Hulu, or listening to Spotify. If you have any kind of subscription services that cost money regularly, you should cancel these until you get a job again. It may feel like a nice break watching Netflix between job applications, but you need to save all the money you can until you\u2019re working again. If you feel this is too hard to do, consider using your parent\u2019s or friend\u2019s account temporarily to save money. Needless to say, don\u2019t make any crazy purchases thinking you\u2019ll get a job next week when \u201cyou really try.\u201d Until you have a signed contract with a company, I\u2019d suggest avoiding the mall and any kind of gift ideas. If you can, cancel any flights, trips, running races, etc. Plus always ask if you can get your money back. It may not always be possible, but every little bit helps! ### 3. Ask to Defer Payments During hard economic times, many companies are willing to work with you because they prefer late payments to nothing at all. Student loan services are often willing to reconsolidate loans or defer payments. Banks are sometimes willing to defer a mortgage payment or at least help with options. It often just takes a call and asks. ### 4. Budget and Eat at Home a Lot One of the biggest ways people spend money is food and eating out. If you just lost your job, avoid going out to eat with friends (unless it\u2019s a networking thing) or ordering in. It may not be ideal, but cold cut sandwiches, peanut butter and jelly sandwiches, and ramen got you through the dark years, it will again. You know what you can cut to save money and you\u2019ll see instant savings in your bank account. Remember one of the easiest ways of having more money is not spending it! ### 5. File for Unemployment If you lost your job and are actively seeking new work, you can file for unemployment. It varies state by state, but essentially, you would file a claim with the Department for Labor and Employment and prove you\u2019re actively looking for work every two weeks (depending on your state). Unemployment benefits will pay you a portion (likely small) of your previous salary. This is meant to help lessen the negative impact that unemployment has on the economy. It won\u2019t be a glamorous option and you\u2019ll meet some interesting people, but it will help. ### 6. Update Resume and Social Media Profiles This is the time to update your resume with the latest accomplishments, promotions, volunteer efforts, jobs, references, etc. As you start the job search you want to make yourself look as good as possible. However, this isn\u2019t limited to your resume. You should be updating your LinkedIn, Facebook, etc with the latest info so you\u2019re casting a wider net for employers. YouTube is also a great resource if you use it to better yourself now that you have free time. There are great exercise tutorials on YouTube, classes on coding (if you\u2019re into high-paying jobs), and even brush up on software like Microsoft Excel. Use this opportunity to start a new job with a new skill set! Related Read: Where Can I Get Resume Help? 14 Free and Affordable Options ### 7. Tell Everyone You Know You\u2019re Looking for a Great Job It may feel embarrassing for you to tell anyone that you\u2019re jobless. It\u2019s a very vulnerable situation where you feel like something is wrong with you. There isn\u2019t! It\u2019s a normal thing, and job searching is a $200 billion dollar industry. People are constantly moving and switching jobs, you\u2019re now just one of them. In most cases, when you tell people that you\u2019re looking for a job, they want to help! They\u2019ll often share new job openings they\u2019ve heard of, or perhaps make recommendations to people they know in your industry. The fact is your chances of finding a new job dramatically increase when more people are on your team, helping you get a job. #### Some of the best job search tips I\u2019ve ever heard: ## Make Money Fast When You\u2019re Jobless ### 8. Sell Your Old Stuff for Extra Money If you just lost your job and are looking for extra money, consider selling your extra stuff on Craigslist or eBay. All that extra stuff in your apartment/house like old bikes or snowboards could make a couple of hundred dollars with a new family. That\u2019s a lot of extra ramen noodles! Plus it\u2019s a rewarding feeling getting rid of some of the junk in your life. ### 9. Write Articles for Money I write all the time for a blog, but I discovered there are other places on the internet that pay you for writing! I\u2019ve written a couple of articles on Seeking Alpha that pay $35 per article and $0.01 for every page view. It usually comes around $70/article in the long run. With your new free time, this is probably one of the easiest ways to earn extra money while unemployed. You\u2019ll have lots of extra time and most of the sites I listed pay between $50\u2013$100 per article. ### 10. Side Gigs We regularly talk about creative ways to make money, but some of the quickest ways to make extra cash are side-gigs. These are tasks that you can do anytime on different established platforms: Many of these could be done in your afternoons while you spend your mornings (often the most productive time of the day) job searching for new opportunities. ## Conclusion Losing your job is incredibly scary, but there are TONS of resources here and online to help you find a new job and supplement your income. Hopefully, this helps make losing your job a bit less scary and aids in setting up your own backup plan! Author ### Andrew Kraemer Advertiser Disclosure ## You might also like ## It's Financial Literacy Month: Here's What Your Credit Score Wants You to Know Learn how to improve your credit score with essential tips on payment history, credit utilization, and more this Financial Literacy Month. Kevin Cook April 07, 2026 ## Can a Tax Refund Help You Build Better Credit? Learn how to use your tax refund to improve your credit score with these strategic financial tips. Boost your financial health and achieve your credit goals. Kevin Cook February 25, 2026 ## For the Love of Money: Why Today Is the Perfect Time to Check In on Your Financial Relationship Take control of your financial health and strengthen your money relationship with practical tips to improve your credit score and set financial goals today. Kevin Cook January 28, 2026 -2026 Credit.com \u2122, LLC. | Privacy Notice | Terms of Service | Do not sell or share my personal information | Change Preferences The offers that appear on Credit.com's website are from companies from which Credit.com receives compensation. This compensation may influence the selection, appearance, and order of appearance of the offers listed on the website. Compensation is not a factor in the substantive evaluation of any product. However, this compensation also facilitates the provision by Credit.com of certain services to you at no charge. The website does not include all financial services companies or all of their available product and service offerings. Google Play and the Google Play logo are trademarks of Google LLC.",
+      "headings": []
+    },
+    {
+      "rank": 13,
+      "domain": "quora.com",
+      "url": "https://www.quora.com/What-are-some-ways-to-survive-financially-without-any-money-credit-cards-or-bank-account",
+      "title": "What are some ways to survive financially without any money, credit ...",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 14,
+      "domain": "wisebread.com",
+      "url": "https://www.wisebread.com/no-money-for-a-week-here-s-what-to-do",
+      "title": "No Money for a Week? Here's What to Do. - Wise Bread",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.wisebread.com/files/fruganomics/blog-images/2450891473_0bae641976_z.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 15,
+      "domain": "nerdwallet.com",
+      "url": "https://www.nerdwallet.com/finance/learn/how-to-make-money-without-a-job",
+      "title": "17 Ways to Make Money Without a Job - NerdWallet",
+      "word_count": 155,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.nerdwallet.com/assets/blog/wp-content/uploads/2021/07/GettyImages-636728739-how-to-make-money-without-a-job-1800x1152.jpg",
+        "alt": "",
+        "description": "Clean, minimalist custom illustration or high-quality object stock photo.",
+        "type": "minimalist_branded_asset"
+      },
+      "article_images": [
+        {
+          "url": "https://i.ytimg.com/vi_webp/tGj2eH4KUmM/sddefault.webp",
+          "alt": "Video thumbnail",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.nerdwallet.com/assets/blog/wp-content/uploads/2025/01/NW_iso-phone-sparkle.png",
+          "alt": "CTA image",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.nerdwallet.com/tachyon/2022/06/20210424_153824.jpg?resize=160%2C160",
+          "alt": "Tiffany Curtis",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.nerdwallet.com/tachyon/2023/10/Lisa-Mulka-e1697230193587.jpg?resize=160%2C160",
+          "alt": "Lisa Mulka",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "This page includes information about these cards, currently unavailable on NerdWallet. The information has been collected by NerdWallet and has not been provided or reviewed by the card issuer. You can make money without a traditional 9-to-5, but event the easiest ideas take time and effort. You may even already have skills that you can monetize. You can skip the side hustle and look for ways to cut and save if it\u2019s not in the card. 1. Participate in paid market research 2. Become a virtual assistant 3. Sell or flip stuff online 4. Housesit 5. Write online reviews 6. Start a blog 7. Game on Twitch 8. Sell photography 9. Pet sit 10. Do freelance work 11. Create a podcast 12. Become a rideshare or delivery driver 13. Tutor 14. Rent out items 15. Use cash-back apps Stress less. Track more. 16. Sell your gift cards 17. Do a dirty job on your block",
+      "headings": []
+    },
+    {
+      "rank": 16,
+      "domain": "youtube.com",
+      "url": "https://www.youtube.com/watch?v=hvwIjA12S-s",
+      "title": "What To Do When You Run Out Of Money (Literally) - YouTube",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 17,
+      "domain": "solosuit.com",
+      "url": "https://www.solosuit.com/posts/debt-no-job-or-money",
+      "title": "I'm in Debt With No Job and No Money \u2013 What to Do - SoloSuit",
+      "word_count": 2386,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://dgkb7ybxr0cqd.cloudfront.net/man-standing-beside-his-wife-teaching-their-child-how-to-1128318.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [],
+      "body_text": "Summary: If you are in debt with no money, no job, you still have options: credit card hardship programs, budgeting and cutting expenses, seeking roommates or negotiating rent, saving on utilities, eating at home, applying for government assistance, carefully managing credit card use, considering withdrawal from retirement funds with caution, evaluating home equity loans, and considering bankruptcy as a last resort. If you are suffering from debt and you are unemployed with no savings, it can be very stressful. Although you might feel hopeless, you have options. One of these options could be a credit card, but this is usually a bad idea. Many credit cards will allow you to make a minimum payment and carry credit, but it will lead to cumulative interest. This can add a huge amount of debt on to your plate. Below are eight ways to deal with debt when you have no money or job. 1. Enroll in a hardship program Credit card hardship programs are sometimes an option. Although it may be difficult to ask your creditor about it, some companies are willing to lower the monthly minimum payment. This is usually if you are close to defaulting. Interest will still compound in this case, and it will most likely continue to affect your credit score. This is usually used as a last resort. There are also usually hardship programs for mortgage lenders and auto lenders. For student loans you will need to contact the loan officer to see if they are willing to suspend payments. 2. Make a budget and prioritize your expenses Making a budget is easier than it seems. Some people will simply avoid making a budget because they think they cannot adhere to it. If you truly want to fix your financial situation you can do it. Begin with a budget and then cut back spending. Decide what you truly need and what you do not need. If you need to revise your budget, look into two different categories. The first are mandatory and, the second, discretionary. Mandatory expenses are those such as housing, food, and utility payments. Discretionary payments are those such as dining out and attending movies, going to concerts or purchasing new clothes. You might even consider cutting out your car or choosing a lower amount of health insurance for a short while. 3. Cut your spending Get a Roommate. One simple way to get out of debt when you have no job is to get a roommate. You need to cover your mortgage or rent, therefore a roommate can help to cover that. Negotiate with your landlord. You can also attempt to negotiate with your landlord. Consider offering to do maintenance work or find tenants for the landlord in the rest of the building (for reduced rent). You could also consider moving somewhere that is cheaper or moving back in with family. If you own your home and this is one of the reasons you are in debt, it is better to find a roommate and rent out a room. It is not ideal, but it will be helpful to cover costs and stay away from foreclosure. Save on utilities. To save on utilities, you can reduce your energy consumption. This will lower your monthly payment. It is not to say eliminate your heating or cooling altogether, but reduce the amount that you use it. You can also reduce the thermostat on your water heater and take shorter showers in general. This will help to cut both of your bills (electric and water). Eat at home. Eating out is easy, but if you cook for yourself you can save a lot of money. It was found that Americans spend almost 40% of their food budget eating out. This is a lot and can help you get out of debt more easily. 4. Manage credit cards wisely while unemployed If you can afford to pay your monthly payments while unemployed, then you should. If you cannot, then you should look into one of the other options. The same can be said for use of your credit cards. If you can afford to use them, then you can, but it is not a good idea to use your credit cards if you are unable to pay them off each month. It may also be tempting to obtain new cards in order to have a larger line of credit. This is a bad idea because it will only add to your surmounting debt. By doing this, or not paying off your balance at the end of the month, will only become more costly. The best option is to stop using credit cards until you get a job once again. 5. Apply for government assistance If you qualify for jobless benefits then you should definitely apply for them. For example, food stamps and school lunch assistance can be very helpful to give you more money to cover other debts. Although many people resist using government help, if you truly need help you should apply. Try to avoid cash advances, and instead seek out real help that won't come back to haunt you later on. 6. Think before withdrawing money from your 401(k) If you are considering pulling out money from tax-deferred retirement plans like 401(k)s or traditional IRAs, you may need to think twice. You might face a large tax penalty for early withdrawals. You will also leave yourself without a retirement fund which could hurt you in the long run. 7. Take out a home equity loan to pay off debt Sometimes taking out a low-interest home equity loan, or line of credit is a great option. Just be careful that you are not heading towards bankruptcy. If you are going in that direction you may be putting your home at risk. It is good to note that you will need good credit to qualify for the best interest rates. 8. Consider filing for bankruptcy If you are continuously unable to obtain a job, and unable to pay your bills, then bankruptcy might be an option. This is a serious decision because it will lead to major credit damage. Despite this, whether it is a Chapter 7 or 13 bankruptcy, you will have bankruptcy protection. It will relieve your immediate financial pain but it should only be done if you have many different debts you cannot manage. How do I get out of debt with no money? Being in debt with no income is a challenging situation, but here are some strategies you can use to navigate this predicament. Focus on your secured debts First, assess your total debt and categorize it into secured (like mortgages) and unsecured debts (like credit cards). Focus on maintaining payments on secured debts to avoid losing assets. For unsecured debts, communicate with creditors to explore possibilities such as extended payment plans or lowered interest rates. Get debt relief Secondly, explore debt relief options , such as: Debt consolidation , where multiple debts are combined into a single payment with potentially lower interest rates. Debt settlement , where you negotiate with creditors to pay a lump sum that's less than what you owe. However, be cautious as this can affect your credit score. Utilize community and non-profit credit counseling services for guidance and support. They can offer personalized advice and help you develop a plan tailored to your circumstances. Consider legal options like bankruptcy only as a last resort. Bankruptcy can provide a fresh start but has long-term implications on your credit history. Settle with SoloSettle What to do if you have no money In a situation where you have no money, prioritization is key. Start by creating a strict budget to control your expenses, then prioritize essential expenses like food, shelter, and healthcare. Cut down on non-essential spending and explore cost-saving measures in daily life, like using public transportation or cooking at home. Seek employment opportunities, even part-time or freelance work, to generate income. Use job search engines, networking, and local community boards to find job openings. In the interim, consider selling items you no longer need for quick cash. Apply for government assistance programs like food stamps , unemployment benefits , or other social services that you qualify for. These can provide essential support during tough times. Explore community resources like food banks, shelters, or charities that offer aid to those in need. Many communities have organizations dedicated to helping people in financial distress. No job, no money? You still have options When faced with the dual challenge of having no job and no money, it's important to look for a job before you worry about your debts. Tailor your resume for each application, leverage social networks for job leads, and consider broadening your job search to include different industries or part-time positions. Utilize free or low-cost resources for job seekers, including libraries, community centers, and online courses to improve your skills and employability. Attend job fairs and workshops to network and learn about new opportunities. In the meantime, explore alternative sources of income like freelancing, gig economy jobs, or online platforms where you can sell services or handmade goods. These can provide some financial relief while you search for more stable employment. Focus on maintaining a positive mindset and resilience. Job hunting can be a long and challenging process, but staying motivated and proactive is key to overcoming this difficult phase. Remember, seeking help from career counselors, mentors, or support groups can provide valuable guidance and emotional support during this time. Sued for debt? Settle it. What is SoloSuit? SoloSuit makes it easy to respond to a debt collection lawsuit. How it works: SoloSuit is a step-by-step web-app that asks you all the necessary questions to complete your answer. Upon completion, you can either print the completed forms and mail in the hard copies to the courts or you can pay SoloSuit to file it for you and to have an attorney review the document. It only takes 15 minutes. And 50% of our customers' cases have been dismissed in the past. \"Finding yourself on the wrong side of the law unexpectedly is kinda scary. I started researching on YouTube and found SoloSuit's channel. The videos were so helpful, easy to understand and encouraging. When I reached out to SoloSuit they were on it. Very professional, impeccably prompt. Thanks for the service!\" - Heather How to Answer a Summons for debt collection in all 50 states Here's a list of guides on how to respond to a debt collection lawsuit in each state: Alabama Alaska Arizona Arkansas California Colorado Connecticut Delaware Florida Georgia Hawaii Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan Minnesota Mississippi Missouri Montana Nebraska Nevada New Hampshire New Jersey New Mexico New York North Carolina North Dakota Ohio Oklahoma Oregon Pennsylvania Rhode Island South Carolina South Dakota Tennessee Texas Utah Vermont Virginia Washington West Virginia Wisconsin Wyoming The Ultimate 50 State Guide Debt collector guides Are you being contacted by a debt collector? We're making guides on how to resolve debt with each one. 11 Charter Communications AAA Collections Aargon Agency Inc ABC Financial Club Charge Ability Recovery Services Absolute Resolutions Investments Account Services Accredited Collection Services Ace Cash Express ACEI Collections ACS Ed Services Ad Astra Recovery Services Advanced Recovery Systems Advantage Collection Professionals AES NCT AFNI Collections Alco Capital Group LLC Aldous and Associates Alliance Collections Alliance One Alliant Capital Management Allied Collection Services Alltran Financial Alorica Inc. Alpha Recovery Corp Amcol Systems American Credit Acceptance American Coradius International American Express American Recovery Service Americollect Amerifinancial Solutions AmSher Collection Services Apelles LLC Apex Asset Management Arcadia Recovery Bureau Armada Corp A.R.M. Solutions Arnold Scott Harris AR Resources Arrow Financial Services AscensionPoint Recovery Services American Profit Recovery ARC Collections ARS National Services ARstrat ASG Recovers Asset Acceptance LLC Asset Recovery Solutions Associated Credit Services Atlantic Credit and Finance Avante USA Atradius Collections Automated Collection Services Inc. Autovest LLC AWA Collections Balanced Healthcare Receivables Bank of America Barclay Bay Area Receivables BCA Financial Services BC Services Benuck and Rainey Berlin-Wheeler Best Buy Credit Card Blitt & Gaines Bluebonnet Financial LLC Bonneville Collections Brock and Scott PLLC Brown and Joseph Bull City Financial The Bureaus Inc. Cach LLC Caine and Weiner Capio Partners Capital Accounts Capital Collections Capital Management Services Capital One CardWorks Carter Young Collections Cascade Receivables Management Cavalry SPV I LLC CCB Credit Services CCB Springfield IL CBCS Collections CBE Group CBM Services CBV Collections CCS Offices Central Mediation Services Central Portfolio Control Chase Choice Recovery Citibank CKS Financial CKMS Client Services CMRE Financial Services Coast Professional Consumer Collection Management Consumer Portfolio Services Comenity Bank Debt Collection Commercial Acceptance Company Commonwealth Financial Systems ConServe Debt Collection Contract Callers Inc Collection Bureau of Hudson Valley Colinfobur Couch Lambert CRDT First Credence Resource Management Credco Credit Bureau Systems Credit Control Corporation Credit Management Company Credit Management LP Credit One Bank Credit Systems International Crown Asset Management CSIEZPay C Tech CVCS D&A Services Daniels Norelli Cecere & Tavel P.C. DCM Services Delta Outsource Group Department Stores National Bank Designed Receivable Solutions Discover Collections Direct Recovery Associates Diversified Adjustment Diversified Consultants Diversified Recovery Bureau DNF Associates LLC Dodeka LLC DRS Credit Dynamic Collectors Eagle Accounts Group Inc. Eagle Loan of Ohio Eastern Revenue Settlement Eastern Account System EduCap Encore Capital Group Enhanced Recovery Collections EOS CCA Equable Ascent Financial Equinox Collections ER Solutions Estate Information Services Everest Business Funding Evergreen Professional Express Recovery Faber and Brand FBCS FCO Collections and Outsourcing FIA Card Services Financial Recovery Services First Financial Bank First Federal Credit Control First Financial Asset Management FirstPoint Collection Resources FirstPoint Coll Resources Inc. First Portfolio Ventures LLC Firstsource Advantage First Progress FNB Omaha FMA Alliance Forster & Garbus Franklin Collection Services Freedom Plus Frontline Asset Frost Arnett Galaxy International Purchasing LLC GC Debt Collection GC Services General Revenue Corporation Glass Mountain Capital Glasser and Glasser Global Credit Collection Corp Global Lending Services Global Payments Check Services Global Trust Management GLA Collections GMAC Financing Golden 1 Credit Union Grant and Weber Grant Mercantile Agency Gulf Coast Collection Bureau Gurstel Law Firm H&R Accounts Halsted Financial Services Harris and Harris Harvard Collection Harvest Credit Management Helvey and Associates Hollis Cobb Holloway Credit Solutions Howard Lee Schiff HRRG Collections Hudson & Keyse LLC Hunt and Henriques Hunter Warfield IC System Impact Receivables Management Innovat",
+      "headings": []
+    },
+    {
+      "rank": 18,
+      "domain": "farmingmybackyard.com",
+      "url": "https://farmingmybackyard.com/what-to-do-when-you-have-no-money/",
+      "title": "What To Do When You Have No Money - Farming My Backyard",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://farmingmybackyard.com/wp-content/uploads/2020/07/What-To-Do-When-You-Have-No-Money-2.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://farmingmybackyard.com/wp-content/uploads/2020/07/What-To-Do-When-You-Have-No-Money-2-600x900.jpg",
+          "alt": "It may feel like a disaster when you have no money, but you can get through this, and you can set yourself up for a more successful future.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://farmingmybackyard.com/wp-content/uploads/2020/07/What-To-Do-When-You-Have-No-Money-600x900.jpg",
+          "alt": "It may feel like a disaster when you have no money, but you can get through this, and you can set yourself up for a more successful future.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://farmingmybackyard.com/wp-content/uploads/2020/07/What-To-Do-When-You-Have-No-Money-1-600x900.jpg",
+          "alt": "It may feel like a disaster when you have no money, but you can get through this, and you can set yourself up for a more successful future.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 19,
+      "domain": "youtube.com",
+      "url": "https://www.youtube.com/watch?v=dBkDptrtyKc",
+      "title": "Many Americans have no emergency fund. Here are tips on how to ...",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 20,
+      "domain": "gofundme.com",
+      "url": "https://www.gofundme.com/c/blog/emergency-financial-assistance",
+      "title": "Emergency Financial Assistance | Your Complete Guide - GoFundMe",
+      "word_count": 1762,
+      "scrape_status": "tavily_fallback",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": "Discover fundraisers and nonprofits to support Start fundraising, tips, and resources How it works, pricing, and more # Emergency financial assistance: your complete guide If you\u2019ve ever found yourself worrying about money, you\u2019re not alone. From how to get help with bills to other emergency expenses, financial issues can keep many of us up at night. According to Bankrate\u2019s 2025 Annual Emergency Savings Report, more than one in three (37%) Americans needed to tap into their emergency savings in the past year, and many are finding their emergency funds dwindling with the rising cost of living. Beyond that, unexpected events like instances of severe weather or professional instability can wreak havoc on any savings you might already have, not to mention your long-term plans. For example, the California wildfires in 2025 affected thousands of people, causing the Red Cross to disburse more than $51 million of assistance to over 13,000 households. This just goes to show that even those who have long thought their lives were secure can suddenly find themselves needing financial assistance. We understand how difficult it can be to get help with finances, but know there is always hope. There are resources available if you need emergency financial assistance and aren\u2019t sure how to get rid of debt. Read on to learn more about how you can find your way back from a personal financial crisis through government assistance, nonprofit programs, and online fundraising. ## What to do when a financial crisis strikes During a financial crisis, reviewing your financial support options is important to avoid the pitfalls of credit card billing, predatory lenders, and other harmful debt relief solutions. Follow these tips: ## Types of financial assistance There are many forms of emergency financial assistance available for those who find themselves in need. Here are some of the key ones to know about: ### Grants A grant provides funding for projects, ideas, public services, economic stimulation, research, recovery initiatives, and other endeavors, without the expectation of repayment. Typically, organizations or individuals must apply for funds, followed by a time period where their application is evaluated, grantees are determined, and then funds are disbursed. ### Loans There are many different organizations including banks, credit agencies, and government organizations that can issue loans to those in need, which are contingent on the loan recipient\u2019s repayment. Loans typically have an interest rate during repayment, which may be 0.0% or a low percentage for those in dire need of emergency financial assistance \u2013 though interest rates can be higher depending on the issuing body. ### Crowdfunding Crowdfunding is a way of raising funds for a project or cause by implementing a fundraiser with a wide reach to a large number of people, most commonly via a platform like GoFundMe. Fundraisers solicit small funds from many donors in an attempt to meet their goal. Crowdfunding for emergency financial assistance doesn\u2019t require repayment from the recipient, while crowdfunding for projects may include some type of donor benefit, such as a thank you within a film credit or production program. ### Community resources Community resources include state and local governmental assistance programs and food programs, or charitable organizations like Catholic Charities, the Red Cross, or United Way. Community resources require an application without the assumption of repayment and are aimed at rehabilitating those facing hardship toward a more secure future. ## Immediate cash assistance programs When you need immediate cash, there are a few avenues you can explore. However, it\u2019s worth noting there is often a lead time to receive any emergency financial assistance. While turnaround times aren\u2019t usually immediate, there are also emergency hardship programs available from state and local governments. These require an application process and time to review, but this may be expedited during times of extreme need. Crowdfunding initiatives can be scheduled around a particular time frame, to try to ensure the recipient receives their required cash by a certain date. Crowdfunding programs that catch attention can be some of the quickest methods of securing emergency financial assistance. ## State and local resources Both federal and state governments offer various emergency financial assistance programs. In New York state, there are temporary and emergency benefits available to those who qualify. The federal government provides food assistance, rental assistance, unemployment benefits, and more to qualified applicants. Filling out an application is a requirement for any state or federal benefits. There are also local and regional charities, along with local nonprofit organizations that can provide assistance to individuals facing hardship. City Harvest delivers food to hungry New York state residents. Meanwhile, California Community Foundation is a nonprofit organization aimed at uplifting communities and fostering positive social change. ## Programs that provide emergency financial assistance Even with a new budget and a renewed focus, a financial emergency can still make it incredibly difficult to pay monthly bills and stay out of debt. If you\u2019re still struggling to pay for expensive medical treatments, survive unpaid maternity leave, or face a housing crisis, such as eviction, there are public and private program providers that can help you regain your footing. ### Government assistance programs These programs offer government grants, subsidies, and training to help individuals and families looking for emergency financial assistance. Whether you need to pay health care bills right away or find emergency rental assistance, these government assistance programs may help. ### Government food programs ### Government utility assistance ### Government help with housing costs ### Government medical assistance The Medicare Savings Programs offer four different ways for low-income families and individuals to pay for premiums, copayments, coinsurance, deductibles, patient care, and other medical expenses. ## Nonprofit organizations that provide financial assistance There are also numerous nonprofit programs and grants that aim to help people with everything from food and housing to out-of-pocket medical expenses and childcare assistance, such as United Way and Catholic Charities. ### Nonprofit food assistance programs ### Nonprofit help with utilities ### Nonprofit housing assistance ### Nonprofit help with medical costs There are also programs for discounted transportation to help those who need emergency financial assistance. New York City\u2019s Fair Fares Program discounts subway and bus fares by 50% for those who qualify. ## What if you aren\u2019t eligible for assistance programs?\ufeff Red tape and lengthy application processes can be frustrating and discouraging when applying for government benefits, but don\u2019t worry \u2013 there are other ways to find financial relief immediately. Crowdfunding can become an essential part of your financial recovery and offer immediate financial protection. ## Need help fast? Crowdfunding to the rescue Countless people in your position have turned to online fundraising when they needed emergency financial help right away, whether for a natural disaster or an unexpected illness, to share with their friends and social media network. Rest assured, emergency fundraising for housing costs, utilities, medical bills, and everything in between is easy with GoFundMe. We offer a simple set-up process, 24/7 customer support, and a blog full of fundraising tips and ideas, like how to share offline through texting or WhatsApp. It\u2019s completely understandable to feel a sense of regret or guilt when reaching out for assistance during a financial crisis. However, it\u2019s important to remember that those closest to you genuinely care about your well-being and want to see you succeed. Accepting help from those who love you can make all the difference in getting through this challenging time. GoFundMe fundraisers can quickly go viral, being shared from a small personal following to those with a wide audience. The more specific and detailed you can be about your situation and the reason for your need, the more it will encourage those who can donate to do so. And every donation counts. ## Find financial freedom right now When you\u2019re unsure how to apply for emergency financial help and feel like you\u2019ve reached a roadblock, GoFundMe is here for you. If you haven\u2019t already, start a fundraiser and get support from the community around you to overcome this crisis. ## Support for the future Whether you\u2019re the beneficiary of a GoFundMe campaign or you\u2019ve donated to help someone in need, there are resources to help keep you on the right financial track in the future. Seek out organizations that help educate consumers about how to manage their finances, such as the National Endowment for Financial Education (NEFE). This independent organization provides leadership, research, and education to impart financial health. The JumpStart Coalition is another nonprofit dedicated to promoting financial literacy through a range of programs, while the National Foundation for Credit Counseling aims to help consumers understand how to manage debt from a range of sources, offering tools and financial guidance. ## FAQs ### What documents are needed to apply for financial assistance? When you\u2019re applying to federal or state government assistance programs, you\u2019ll typically need a photo ID or other government issued ID, your Social Security number, documentation of your monthly rent and/or mortgage payment amounts, and proof of income. ### How long does it typically take to receive assistance once I apply? Both government assistance programs and nonprofit organizations typically take a minimum of three to four weeks to process assistance disbursement. ### Can I apply for multiple forms of assistance at the same time? Yes. While federal benefits may be directed to you via your state, there are also nonprofit organizations that can offer assistance to those receiving governmental benefits. For a greater chance of success, it may be worth applying to multiple programs at once. ### What should I do if my application for assistance is denied? If your application is denied, contact the agency again by phone. Ask why you were denied and see if they can refer you to another organization to provide assistance. Apply to multiple organizations as well as multiple types of organizations (both governmental and nonprofit) for maximum success. ### Are there restrictions on how I can spend government assistance funds? Some government programs disburse cash-based assistance, which can be utilized at the recipient\u2019s discretion, while other programs, such as Section 8, disburse the benefits directly to your property owner or landlord. Some programs only disburse assistance based on documentation of the financial hardship incurred, such as by submitting documentation of medical and/or hospital bills. It all depends on the issuing organization\u2019s policies, so be sure to check this when applying. #### Share article #### Written by GoFundMe #### Written by GoFundMe Start a fundraiser ### Fundraising resources Fundraising ideas Fundraising tips ### Latest posts Start a fundraiser ### Donate ### Fundraise ### About More than $50M is raised a week on GoFundMe to support people like you",
+      "headings": []
+    }
+  ],
+  "battle_plan_generated_at": "2026-04-26T10:47:28.890134+00:00",
+  "competitors_analyzed_count": 3,
+  "battle_plan_method": "local_deterministic_agent_no_api"
+}

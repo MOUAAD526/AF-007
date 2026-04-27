@@ -1,0 +1,803 @@
+{
+  "article_context": {
+    "angle": "Manual tracking (pen/paper/spreadsheet) vs. app tracking for expense awareness and discipline",
+    "pain_points": [
+      "Tracking expenses but still losing money; unable to find leftover funds",
+      "Fear and anxiety around saving: the feeling that savings will never be enough",
+      "Resistance to budgeting or confronting poor spending habits",
+      "Paralyzed by choice or too attached to savings, even for planned expenses"
+    ],
+    "top_social_questions": [
+      "How much of my paycheck should I save?",
+      "How do I effectively track my spending and budget?"
+    ],
+    "dominant_emotion": "Confusion/Anxiety",
+    "serp_intent": "Searchers for 'saving money for emergency fund' want practical strategies, tips, and guidance on building a financial safety net to cover unexpected expenses like job loss or medical emergencies without relying on debt. The SERP intent is informational, featuring articles, calculators, and expert advice from financial sites on recommended fund sizes (e.g., 3-6 months of expenses), saving methods, and suitable low-risk accounts like high-yield savings.",
+    "serp_title_pool": {
+      "primary": [
+        "An essential guide to building an emergency fund",
+        "Comprehensive Guide to Building an Emergency Fund - Vanguard",
+        "How much to save for emergencies - Fidelity Investments",
+        "Savings vs. Emergency Fund: How to Save for Each | TD Bank",
+        "How to Build an Emergency Fund | First National Bank of Evergreen ...",
+        "An Emergency Fund Is Key to Your Financial Strategy",
+        "Six Simple Steps to Jump-start Your Emergency Fund | America Saves",
+        "How Much Should You Be Saving for an Emergency? | Wells Fargo",
+        "Emergency Fund vs. Savings Account: What's the Difference?",
+        "5 steps to build an emergency fund - Securian Financial",
+        "Emergency Fund: What it Is and Why it Matters",
+        "The Best Places To Keep Your Emergency Fund",
+        "Guide to Emergency Fund | Chase",
+        "Emergency Funds \u2013 How Much to Save and How to Build One",
+        "How Much Should You Save In an Emergency Fund? Here's ...",
+        "How to Build an Emergency Fund",
+        "How to Build an Emergency Fund",
+        "Emergency Savings Fund: How to Build One",
+        "How to Start Building an Emergency Fund & Why You Need One",
+        "Smart saving strategies: How to build your emergency fund ..."
+      ],
+      "long_tail": [
+        "The Importance of Saving Money",
+        "Why saving is important | Savings Strategies - HSBC Bank USA",
+        "16 Advantages of Saving Money | Axos Bank",
+        "Saving Money - Financial Aid & Scholarships",
+        "7 top reasons to save your money now - Bankrate",
+        "The Importance of Saving | TowneBank Personal Resources",
+        "Why Is Saving Money Important? - Experian",
+        "Save and Invest | MyMoney.gov",
+        "Why Is It Important To Save Money? - Raisin",
+        "Why Save Money? 8 Reasons Why Saving Money Matters"
+      ],
+      "question": [
+        "[Survey] How big is your emergency fund and how do you ... - Reddit",
+        "How much to save for emergencies - Fidelity Investments",
+        "An essential guide to building an emergency fund",
+        "Your Emergency Fund: How Much Is Enough?",
+        "How Much Should Be in Your Retirement Emergency Fund? - AARP",
+        "Emergency Fund Calculator: How Much Should I Have? - NerdWallet",
+        "What's the right emergency savings amount? - Vanguard retirement",
+        "Emergency Fund Calculator - USAA Educational Foundation",
+        "Building an emergency fund: How much should I save - TIAA"
+      ]
+    },
+    "paa_questions": [
+      {
+        "q": "Is $20,000 too much for an emergency fund?",
+        "a": "Note that your emergency fund only needs to cover your living expenses. It does not need to replace six months of income unless your expenses equal or exceed your income. If you spend $3,000 in a month, you will need to have an emergency fund of somewhere between $9,000 and $24,000."
+      },
+      {
+        "q": "What is the 3 6 9 rule for emergency funds?",
+        "a": "The 3/6/9 rule breaks down emergency fund targets based on your household risk level: single people with no dependents need three months of expenses, dual-income families need six months, and sole earners or freelancers need nine months."
+      }
+    ],
+    "related_searches": [
+      "Saving money for emergency fund calculator",
+      "Saving money for emergency fund fidelity",
+      "Emergency fund calculator",
+      "Best saving money for emergency fund",
+      "How much should i put in my emergency fund per month",
+      "Emergency Fund from Government",
+      "Emergency fund examples",
+      "$30,000 emergency fund"
+    ]
+  },
+  "primary_keyword": "saving money for emergency fund",
+  "competitors": [
+    {
+      "rank": 1,
+      "domain": "consumerfinance.gov",
+      "url": "https://www.consumerfinance.gov/an-essential-guide-to-building-an-emergency-fund/",
+      "title": "An essential guide to building an emergency fund",
+      "word_count": 1799,
+      "scrape_status": "tavily_fallback",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": "An official website of the United States government * Espa\u00f1ol * \u4e2d\u6587 * Ti\u1ebfng Vi\u1ec7t * \ud55c\uad6d\uc5b4 * Tagalog * P\u0443\u0441\u0441\u043a\u0438\u0439 * \u0627\u0644\u0639\u0631\u0628\u064a\u0629 * Krey\u00f2l Ayisyen (855) 411-2372 Submit a Complaint # An essential guide to building an emergency fund We\u2019ve all experienced unexpected financial emergencies\u2014a fender bender, an unexpected medical bill, a broken appliance, a loss of income, or even a damaged cell phone. Large or small, these unplanned expenses often feel like they hit at the worst times. Setting up a dedicated savings or emergency fund is one essential way to protect yourself, and it\u2019s one of the first steps you can take to start saving. By putting money aside\u2014even a small amount\u2014for these unplanned expenses, you\u2019re able to recover quicker and get back on track towards reaching your larger savings goals. #### This guide will help you answer the following questions: * What is an emergency fund? * Why do I need it? * How much do I need in it? * How do I build it? * Where should I keep it? * When should I use it? ## Stay informed for the latest financial tips and information right to your inbox. ## What is an emergency fund? An emergency fund is a cash reserve that\u2019s specifically set aside for unplanned expenses or financial emergencies. Some common examples include car repairs, home repairs, medical bills, or a loss of income. In general, emergency savings can be used for large or small unplanned bills or payments that are not part of your routine monthly expenses and spending. ## Why do I need it? Without savings, a financial shock\u2014even minor\u2014could set you back, and if it turns into debt, it can potentially have a lasting impact. Research suggests that individuals who struggle to recover from a financial shock have less savings to help protect against a future emergency. They may rely on credit cards or loans, which can lead to debt that\u2019s generally harder to pay off. They may also pull from other savings, like retirement funds, to cover these costs. #### Get a sense of your financial well-being Take our quiz ## How much do I need in it? The amount you need to have in an emergency savings fund depends on your situation. Think about the most common kind of unexpected expenses you\u2019ve had in the past and how much they cost. This may help you set a goal for how much you want to have set aside. If you\u2019re living paycheck to paycheck or don\u2019t get paid the same amount each week or month, putting any money aside can feel difficult. But, even a small amount can provide some financial security. Keep reading to find the savings strategy, or strategies, that work best for you. ## How do I build it? There are different strategies to get your savings started. These strategies cover a range of situations, including if you have a limited ability to save or if your pay tends to fluctuate. It may be that you could use all of these strategies, but if you have a limited ability to save, managing your cash flow or putting away a portion of your tax refund are the easiest ways to get started. ### Strategy: Create a savings habit Building a savings of any size is easier when you\u2019re able to consistently put money away. It\u2019s one of the fastest ways to see it grow. If you\u2019re not in a regular practice of saving, there are a few key principles to creating and sticking to a savings habit: * Set a goal. Having a specific goal for your savings can help you stay motivated. Establishing your emergency fund may be that achievable goal that helps you stay on track, especially when you\u2019re initially getting started. Use our savings planning tool to calculate how long it\u2019ll take you to reach your goal, based on how much and how often you\u2019re able to put money away. * Create a system for making consistent contributions. There are a number of different ways to save, and as you\u2019ll read below, setting up automatic recurring transfers is often one of the easiest. It may also be that you put a specific amount of cash aside each day, week, or payday period. Aim to make it a specific amount, and if you can occasionally afford to do more, you\u2019ll watch your savings grow even faster. * Regularly monitor your progress. Find a way to regularly check your savings. Whether it\u2019s an automatic notification of your account balance or writing down a running total of your contributions, finding a way to watch your progress can offer gratification and encouragement to keep going. * Celebrate your successes. If you\u2019re sticking with your savings habit, don\u2019t miss the opportunity to recognize what you\u2019ve accomplished. Find a few ways that you can treat yourself, and if you\u2019ve reached your goal, set your next one. Who is this helpful for: Anyone, but particularly those with consistent income. If you know you have a regular paycheck or money consistently coming in, you can create a habit to put some of that money towards an emergency savings fund. ### Strategy: Manage your cash flow Your cash flow is essentially the timing of when your money is coming in (your income) and going out (your expenses and spending). If the timing is off, you can find yourself running short at the end of the week or month, but if you\u2019re actively tracking it, you\u2019ll start to see opportunities to adjust your spending and savings . For example, you may be able to work with your creditors (like your landlord, utility companies, or credit card companies) to adjust the due dates for your bills, or you can use the weeks when you have more money available to move a little extra into savings. Who is this helpful for: Anyone. This is one important first step in managing your money, regardless of whether you\u2019re living paycheck to paycheck or have a tendency to spend more than your budget allows. ### Strategy: Take advantage of one-time opportunities to save There may also be certain times during the year when you get an influx of money. For many Americans, a tax refund can be one of the largest checks they receive all year. There may be other times of the year, like a holiday or birthday, that you receive a cash gift. While it\u2019s tempting to spend it, saving all or a portion of that money could help you quickly set up your emergency fund. Who is this helpful for: Anyone but particularly those with irregular income. If you receive a large check from a tax refund or for some other reason, it\u2019s always good to consider putting all or a portion of it away into savings. #### Helpful resources Get tips for saving during tax time Create a savings plan for your tax refund ### Strategy: Make your saving automatic Saving automatically is one of the easiest ways to make your savings consistent so you start to see it build over time. One common way to do this is to set up recurring transfers through your bank or credit union so money is moved automatically from your checking account to your savings account. You get to decide how much and how often, but once you have it set up, you\u2019ll be making consistent contributions to your savings. It\u2019s a good idea to be mindful of your balances, however, so you don\u2019t incur overdraft fees if there\u2019s not enough money in your checking account at the time of the automatic transaction. To help you stay mindful, consider setting up automatic notifications or calendar reminders to check your balance. Who is this helpful for: Anyone, but particularly those with consistent income. Again, you can determine how much and how often to have money transferred between accounts, but you want to make sure you have money coming in. If your situation changes or your income changes, you can always adjust it. ### Strategy: Save through work Another way to save automatically is through your employer. In addition to employer-based contributions for retirement, you may have an option to split your paycheck between your checking and savings accounts. If you receive your paycheck through direct deposit, check with your employer to see if it\u2019s possible to divide it between two accounts. If you\u2019re tempted to spend your paycheck when you get it, this is an easy way to put money aside without having to think twice. Who is this helpful for: Those with consistent income. Again, if you\u2019re getting a check from your employer on a regular basis, pay yourself first by putting a portion of it automatically into savings. ## Where should I keep it? Where you put your emergency fund depends on your situation. You want to make sure this fund is safe, accessible, and in a place where you\u2019re not tempted to spend it on non-emergencies. Here are a few options for where to put your emergency savings, and you can choose the one that makes the most sense for you: * Bank or credit union account \u2014 If you have an account with a bank or credit union\u2014generally considered one of the safest places to put your money\u2014it might make sense to have a dedicated account where you can keep and maintain these funds. * Prepaid card \u2014 A prepaid card is a card that you can load money onto. It\u2019s not connected with a bank or credit union, and you can only spend the amount that\u2019s on your card. * Cash \u2014 Another option is keeping money on hand for emergencies, either in your home or with a trusted family member or friend. Keep in mind that cash can be stolen, lost, or destroyed. ## When should I use it? Set some guidelines for yourself on what constitutes an emergency or unplanned expense. Not every unexpected expense is a dire emergency but try to stay consistent. Even if it\u2019s not a trip to the emergency room, you may need it to pay for a medical bill that wasn\u2019t covered by insurance. Having a reserve fund for financial shocks can help you avoid relying on other forms of credit or loans that can turn into debt. If you use a credit card or take out a loan to pay for these expenses, your one-time emergency expense may grow significantly larger than your original bill because of interest and fees. However, don\u2019t be afraid to use it if you need it. If you spend down what\u2019s in your emergency savings, just work to build it up again. Practicing your savings skills over time will make this easier. --- Page last modified @ View older versions of this page at our public archive.",
+      "headings": []
+    },
+    {
+      "rank": 2,
+      "domain": "investor.vanguard.com",
+      "url": "https://investor.vanguard.com/investor-resources-education/emergency-fund",
+      "title": "Comprehensive Guide to Building an Emergency Fund - Vanguard",
+      "word_count": 1628,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://investor.vanguard.com/content/retail/public/us/en/investor-resources-education/emergency-fund/_jcr_content/root/container/container/teaser_copy_copy_cop.coreimg.jpeg/1774613745949/ire-aspot-emergency-fund-phlife-gi.jpeg",
+        "alt": "A woman brings her baby over so her partner can take a break from working and give them a kiss.",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://investor.vanguard.com/content/dam/retail/publicsite/en/photography/lifestyles/vg-20250317-how-building-an-emergency-fund.jpg",
+          "alt": "Paolo Costa points to a circular icon with an umbrella and a coin and a second icon with a credit card and a pile of coins. A bold headline reads \u201cWhen is $2,000 as powerful as $1 million?\u201d",
+          "description": "Data visualization or financial chart graphic.",
+          "type": "graphic_design_data"
+        },
+        {
+          "url": "https://investor.vanguard.com/content/retail/public/us/en/investor-resources-education/emergency-fund/_jcr_content/root/container/container_297613492/container_346735750/teaser.coreimg.svg/1762974779441/site-icon-step-one-ic.svg",
+          "alt": "A small icon of the number 1 encased in a circle.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://investor.vanguard.com/content/retail/public/us/en/investor-resources-education/emergency-fund/_jcr_content/root/container/container_297613492/container_346735750/teaser_copy.coreimg.svg/1751918728115/site-icon-step-two-ic.svg",
+          "alt": "A small icon of the number 2 encased in a circle.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://investor.vanguard.com/content/retail/public/us/en/investor-resources-education/emergency-fund/_jcr_content/root/container/container_297613492/container_1294977104/teaser.coreimg.svg/1748982569203/icon-list-to-do-ic.svg",
+          "alt": "List to do icon",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://investor.vanguard.com/content/dam/retail/digital/en/photos/gi1305309033-couple-outside-home-crop.jpg",
+          "alt": "A happy couple shares a joyful embrace in their home.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://investor.vanguard.com/content/dam/retail/digital/en/photos/gi1248767204-woman-moving-boxes-crop.jpg",
+          "alt": "A woman rests her arm on some cardboard boxes as she looks at her phone and enjoys a cup of coffee.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://investor.vanguard.com/content/retail/public/us/en/investor-resources-education/emergency-fund/_jcr_content/root/container/container_297613492/container_197753874/container_1956774838/container/image_copy.coreimg.gif/1692723812461/wwo-typ-ipo-money-market-ill-vg.gif",
+          "alt": "Animated GIF of young man is standing in front of his dog holding a checkpoint flag in route to his destination that's designated by a dropped pin.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "Learn what an emergency fund is, review the simple steps to build a fund that\u2019s tailored to your needs, and explore additional resources to help maximize your savings. What\u2019s an emergency fund? An emergency fund is an amount of money set aside in a dedicated savings account to help provide a financial safety net for life\u2019s unexpected challenges. Common emergencies like unexpected medical bills, car troubles, or job loss can be overwhelming\u2014but with an emergency fund, you can face these challenges with peace of mind. View transcript Your emergency fund can help protect you from two types of financial emergencies: Spending shocks are unplanned expenses like a broken windshield or a root canal. Saving enough to cover at least half a month\u2019s worth of living expenses can help you prepare for potential spending shocks. Income shocks are the unplanned loss of income. While these events may happen less frequently, they can be a significant setback to your financial plan. Over time, you should aim to build three to six months' worth of living expenses in your emergency fund to prepare for potential income shocks. Simple steps to build an emergency fund 1. Assess your monthly expenses To get started, it\u2019s important to understand the basics of calculating your monthly expenses. These can be broken down into fixed expenses , like rent or mortgage payments, and variable expenses , such as groceries or entertainment. Fixed expenses are consistent each month, while variable expenses can fluctuate. Calculating both types will help you determine your total monthly spending and set realistic savings goals. For a more detailed breakdown and to enter your specific expenses, use our expense worksheet. Simply input your monthly expenses for each category and select \u201ccalculate\u201d to generate your total. If you already know what you spend each month, skip ahead to step two to determine your savings goals. 2. Determine your savings goals Whether it\u2019s a spending shock or an income shock, these types of emergencies can be costly and overwhelming. The right amount to save is different for everyone. For a spending shock aim to save at least half of your monthly expenses, as calculated in step one. For an income shock aim to save three-six months\u2019 worth of your expenses. Use our equations to calculate savings goals that are specific to your needs. Spending shock = your monthly expenses calculated in step one \u00f7 two (half of your monthly expenses) Income shock (three months) = your monthly expenses calculated in step one \u00d7 three Income shock (six months) = your monthly expenses calculated in step one \u00d7 six 3. Review different budgeting methods Now that you\u2019ve assessed your monthly expenses in step one and determined how much you\u2019d need to save for emergencies in step two, it\u2019s time to make a plan to build savings into your budget. Saving regularly can be tough, but it\u2019s important. Whether you\u2019re dealing with a large, unexpected bill or a job loss, these situations can be stressful and expensive. Debt can make it even harder to save, so it\u2019s a good idea to address it as part of your plan. Check out our resources for tips on saving more, cutting back on unnecessary spending, and managing debt effectively. 4. Consider account types and investment options that match your objectives Depending on which type of emergency you\u2019re saving for-spending shocks or income shocks and your appetite for risk-there are different account types and investment options you should consider for each. For spending shocks: Consider account types and investment options that allow you to access your money easily, such as cash investments. If you want easy access to your money, potentially higher yields than a traditional savings account, and potential coverage, you may want to consider a cash management account \u2013the Vanguard Cash Plus Account is a savings account alternative that allows you to keep both your short-term cash and long-term investments at Vanguard, all in one place. If you want a low-risk investment and aren\u2019t concerned about the coverage, holding money market funds in a taxable brokerage account may offer the right combination of accessibility, low risk, and income potential. If you\u2019re sure you won\u2019t need the money on short notice, a Certificate of Deposit (CD) , might be a good fit for you. For income shocks : Consider account types that allow for additional investment options with potential for higher, long-term growth. A taxable brokerage account is a standard nonretirement investing account with no early withdrawal penalties, making it easy to access your money when you need it. You can hold mutual funds, ETFs, stocks, bonds, and more, which can generate returns and have a higher potential for growth. A Roth IRA is an individual retirement account that offers tax-free growth and tax-free withdrawals of your contributions, at any time. You can hold mutual funds, ETFs, stocks, bonds, and more, which can generate returns and have a higher potential for long-term growth. It\u2019s important to note if you decide to invest within these accounts, the investments you choose may not offer the same safety and accessibility as savings accounts and cash investments. However, they can still be useful in helping you sustain shocks to your income, and any returns you earn can be used to help fund other goals. 5. Start saving now The sooner you start saving, the more time you have to benefit from compounding. Compounding is when the money you save grows over time\u2014not just from earning interest, but also from other types of earnings depending on where you put your money. For example, some savings accounts pay you interest, which is money the bank gives you for keeping your money there. If you invest in things like stocks, your money might grow if the value of those investments goes up (this is called capital appreciation), or you might receive small payments from the company (called dividends). Over time, the money you earn from these sources can also start earning more, which helps your total savings grow faster. Keep in mind, if you have many years until retirement, that\u2019s a long-term goal. If you\u2019re planning to buy a home in five years, that\u2019s a short-term goal. The longer your time frame, the more time your savings have to grow through the power of compounding, which can bring you peace of mind later. 6. Use your fund wisely and replenish when needed Before you decide to withdraw from your emergency savings, take a moment to define what an emergency means to you. An emergency is an unexpected and unwanted expense, like a major home repair or a broken HVAC system\u2013it\u2019s not an excuse to upgrade something you don\u2019t need. If you encounter a situation that you can plan for without causing financial hardship, it may not qualify as an emergency, and you should set a goal and save for this separately. Learn more about different types of investment goals . After you use your fund, make sure to replenish it as soon as possible. If you stick to your budget and savings schedule, it\u2019ll help you be prepared for whatever life throws your way. Explore more resources to secure your financial future Dive deeper into building and maintaining your emergency fund with our educational articles. Whether you\u2019re just starting out or looking to improve your savings strategy, we\u2019re here to help. Use our tools and calculators, like the expenses worksheet, to get a clearer picture of your finances and make informed decisions. Why emergency savings are important\u2014and how they can fit into your broader financial picture. emergency-fund-basics Optimize your emergency savings and align them with your financial goals in this learning path. getting-the-most-out-of-your-emergency-fund Tools & Calculators Expenses worksheet Use this calculator to create a realistic budget that includes basic and discretionary expenses. You\u2019re ready to build your emergency fund Great work! You\u2019re ready to build your emergency fund. Even a small amount set aside in your emergency fund now can help bring you peace of mind and financial security for the future. What you\u2019ve learned: What an emergency fund is The difference between spending shocks and income shocks How to calculate your personalized savings goals Ways to budget and commit to your goals The importance of liquidity when choosing an account The difference between cash management accounts, CDs, and money market funds Why choose Vanguard to hold your emergency savings? A home for your emergency savings A strong emergency fund starts with a secure, reliable place to grow your savings. At Vanguard, we help keep your money accessible\u2013so you\u2019re ready if life doesn\u2019t go as planned. Ready when you need it\u2013flexible if you don\u2019t Your emergency fund is built for the unexpected. But if life stays steady, it can also support short-term goals\u2013like a wedding, move, or a major purchase. 50 years of putting investors first For over five decades, we\u2019ve focused on helping investors succeed. With clear goals, low costs, and a long-term mindset, we\u2019re here to help you build financial confidence\u2013starting with a strong foundation like your emergency fund. Use what you\u2019ve learned, to get started today. All investing is subject to risk, including the possible loss of the money you invest. There may be other material differences between products that must be considered prior to investing. The Vanguard Cash Plus Account is a brokerage account offered by Vanguard Brokerage Services, a division of Vanguard Marketing Corporation, member FINRA and SIPC. Under the Sweep Program, Eligible Balances swept to Program Banks are not securities: They are not covered by SIPC but are eligible for insurance, subject to applicable limits. Money market funds held in the account are not guaranteed or insured by the but are securities eligible for SIPC coverage. See the Vanguard Bank Sweep Products (PDF) and Program Bank list (PDF) for more information.",
+      "headings": []
+    },
+    {
+      "rank": 3,
+      "domain": "fidelity.com",
+      "url": "https://www.fidelity.com/viewpoints/personal-finance/save-for-an-emergency",
+      "title": "How much to save for emergencies - Fidelity Investments",
+      "word_count": 2563,
+      "scrape_status": "tavily_fallback",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": "# How much emergency fund should you have and where should you keep it? | Fidelity to main content Fidelity.com Home * Accounts & Trade * Portfolio * Account Positions * Trade * Fidelity Trader+ Web * Fidelity Trader+ * Transfers * Cash Management * Bill Pay * Full View\u00ae * Security Settings * Account Features * Documents * Tax Forms & Information * Retirement Distributions * Refer a Friend * Retirement * Retirement Planning * 401(k) Rollovers & IRA Transfers * Retirement Accounts * Retirement Education * Wealth Management * Wealth Management Offerings * Financial Advisors * Financial Planning * Investment Management * Wealth Management Insights * News & Research * News * Wealth Management Insights * Watchlist * Alerts * Stocks, ETFs, Crypto * Mutual Funds * Fixed Income, Bonds & CDs * Options * IPOs * Annuities * Learn * Products * Spending & Saving * Investing & Trading * Mutual Funds * Crypto * Direct Indexing * Fixed Income, Bonds & CDs * ETFs * Options * Sustainable Investing * 529 College Savings * Health Savings Accounts * Annuities * Life Insurance * Customer Service * Fidelity Assistant * Profile Log inOpen an account Fidelity.com Home * Customer Service * Fidelity Assistant * Profile * Open an account * * Accounts & Trade * Portfolio * Account Positions * Trade * Fidelity Trader+ Web * Fidelity Trader+ * Transfers * Cash Management * Bill Pay * Full View\u00ae * Security Settings * Account Features * Documents * Tax Forms & Information * Retirement Distributions * Refer a Friend * Retirement * Retirement Planning * 401(k) Rollovers & IRA Transfers * Retirement Accounts * Retirement Education * Wealth Management * Wealth Management Offerings * Financial Advisors * Financial Planning * Investment Management * Wealth Management Insights * News & Research * News * Wealth Management Insights * Watchlist * Alerts * Stocks, ETFs, Crypto * Mutual Funds * Fixed Income, Bonds & CDs * Options * IPOs * Annuities * Learn * Products * Spending & Saving * Investing & Trading * Mutual Funds * Crypto * Direct Indexing * Fixed Income, Bonds & CDs * ETFs * Options * Sustainable Investing * 529 College Savings * Health Savings Accounts * Annuities * Life Insurance to main content Fidelity.com Home * Accounts & Trade * Portfolio * Account Positions * Trade * Fidelity Trader+ Web * Fidelity Trader+ * Transfers * Cash Management * Bill Pay * Full View\u00ae * Security Settings * Account Features * Documents * Tax Forms & Information * Retirement Distributions * Refer a Friend * Investing * Self-Directed Investing * Advanced Trading * Investing for a Child * Managing Cash & Credit * Investment Accounts & Products * Investing & Trading Education * Retirement * Retirement Planning * 401(k) Rollovers & IRA Transfers * Retirement Accounts * Retirement Education * Wealth Management * Wealth Management Offerings * Financial Advisors * Financial Planning * Investment Management * Wealth Management Insights * News & Research * News * Wealth Management Insights * Watchlist * Alerts * Stocks, ETFs, Crypto * Mutual Funds * Fixed Income, Bonds & CDs * Options * IPOs * Annuities * Learn * Customer Service * Fidelity Assistant * Profile Log inOpen an account Fidelity.com Home * Customer Service * Fidelity Assistant * Profile * Open an account * * Accounts & Trade * Portfolio * Account Positions * Trade * Fidelity Trader+ Web * Fidelity Trader+ * Transfers * Cash Management * Bill Pay * Full View\u00ae * Security Settings * Account Features * Documents * Tax Forms & Information * Retirement Distributions * Refer a Friend * Investing * Self-Directed Investing * Advanced Trading * Investing for a Child * Managing Cash & Credit * Investment Accounts & Products * Investing & Trading Education * Retirement * Retirement Planning * 401(k) Rollovers & IRA Transfers * Retirement Accounts * Retirement Education * Wealth Management * Wealth Management Offerings * Financial Advisors * Financial Planning * Investment Management * Wealth Management Insights * News & Research * News * Wealth Management Insights * Watchlist * Alerts * Stocks, ETFs, Crypto * Mutual Funds * Fixed Income, Bonds & CDs * Options * IPOs * Annuities * Learn ## Learn * Learn * Favorites * Topics * Financial essentials * Saving and budgeting money * Managing debt * Saving for retirement * Working and income * Managing health care * Talking to family about money * Personal finance for students * Managing taxes * Managing estate planning * Making charitable donations * Life events * Changing jobs * Planning for college * Getting divorced * Becoming a parent * Caring for aging loved ones * Marriage and partnering * Buying or selling a house * Retiring * Losing a loved one * Making a major purchase * Experiencing illness or injury * Disabilities and special needs * Aging well * Becoming self-employed * Investing and trading * Investing for beginners * Trading for beginners * Crypto basics * Crypto: Beyond the basics * Alternative investing * Exploring stocks and sectors * Investing for income * Analyzing stock fundamentals * Using technical analysis * Investment products * ETFs * Mutual funds * Stocks * Fixed income, bonds, CDs * Annuities * Closed-end funds * Advanced trading * Using margin * Options trading basics * Options: Beyond the basics * Advanced trading strategies * Using Fidelity Trader+ * Options Strategy Guide * Technical Indicator Guide * Latest Market Insights * Viewpoints: Expert insights * Smart Money: Tips and tactics * Money Unscripted * The Trading Post * Women Talk Money * Wealth Management Insights * Events * Upcoming events * On-demand webinars * Market briefings * Market Sense * Trading Strategy Desk\u00ae coaching * Trading Strategy Desk\u00ae classes * October 24, 2025 7 min Save Popover * * * Great, you have saved this article to you My Learn Profile page. Share Popover * * * How much emergency fund should you have and where should you keep it? | Fidelity Clicking a link will open a new window. * Facebook * Twitter * LinkedIn Print # How much to save for emergencies Learn how big your emergency savings should be and where to consider keeping it. Fidelity Viewpoints ### Key takeaways * Start by saving $1,000, then aim to save 3 to 6 months' worth of essential expenses by funding your emergency savings, as you would for a bill. * Try to save in an account that pays some interest but preserves liquidity. * As a last resort, credit cards could be used to cover an emergency, ideally with a low interest rate. * Be sure to have adequate health and disability insurance coverage. There's a lot that can upset your plans, so it makes sense to prepare for the unexpected. An emergency savings is cash you keep in reserve for a serious unexpected predicament like a job loss or a catastrophe that isn\u2019t covered by insurance. Building up your emergency savings can help you protect yourself and your loved ones\u2014and earning some return on your savings can help protect your future purchasing power. Here are answers to 5 common questions about emergency savings, including how big it should be and where you could consider keeping it. ### 1. How much savings should be for an emergency? Fidelity suggests to start by saving $1,000 worth of essential expenses to protect yourself from the financial fallout of a potential job loss or the loss of other income. If you're single, you might be comfortable with 3 months of savings. However, if you have a spouse, kids, a mortgage, or if you worry about job stability, you might feel better with 6 months of savings or more If you end up unemployed, there may be resources available to help ease the impact. Unemployment insurance benefits are available in all states and the District of Columbia, Puerto Rico, and the US Virgin Islands. However, not all employees are eligible\u2014your employer has to pay unemployment taxes. Nonprofit organizations, like churches and schools, are exempt from paying unemployment taxes. Benefits vary by state. For example, some states provide additional benefits if you have children or other dependents. Check your state's unemployment insurance office Opens in a new window to find out how to file for benefits and the documentation required. Requirements to qualify for unemployment benefits include: * You must be physically able to work\u2014not disabled or collecting disability benefits. * You must be actively looking for a job. * You must have left your prior job involuntarily, without cause, and in good standing. * If you've received unemployment benefits within the 6 months prior to filing, your benefits may be reduced. ### 2. Where should I keep my emergency savings? Generally, keeping your emergency savings accessible and liquid can be a good idea\u2014in addition to avoiding risky investments that could lose money. To avoid using your emergency savings, it can also make sense to separate it from your spending money and other types of savings. For example, a savings account can be a convenient and accessible option. Money market accounts can be too, and are typically offered by banks and credit unions. The average annual percentage yield (APY) for money markets is 0.64%.1 Compared to a savings account, a money market account may have a higher minimum balance and withdrawals may be limited. For instance, you may be allowed unlimited ATM withdrawals, but checks and debit card purchases could be limited. Consider the following alternatives: Money market funds 2 tend to be a lower-risk place to store your cash, and generally offer better rates than your typical savings account. Unlike savings accounts, money market funds are not -insured. Treasury and government money market funds 3 are designed to maintain a stable net asset value (NAV) of $1.00 and they do not place restrictions on investors' ability to access their money in the funds. Certificates of deposit (CDs) may offer better rates than money market funds\u2014but there is a catch. Many penalize you for taking money out before the CD matures. Short-term CDs may also be a solution for a portion of your emergency savings, but beware of tying up all your money. When you need to access your emergency savings, consider withdrawing from more liquid accounts first\u2014if you've divided your emergency savings between highly liquid accounts and those that are less easy to access. An example of a liquid account would be a savings account\u2014your savings are easily accessed at no cost on the same day. Cash held in a money market fund may not be available on demand\u2014you would likely need to sell the fund and wait until the next business day for access to your cash. Avoiding losses due to taxes, penalties, or market volatility is key. Try to avoid withdrawing from retirement accounts like your 401(k) or IRA if you're not yet of retirement age. You may have to pay taxes and a 10% penalty for the early withdrawal. ### 3. What about borrowing to cover an emergency? In some cases, borrowing to pay for an emergency may be necessary if you don't have other financial reserves. For example, a home equity loan or line of credit could be an option, as well as credit cards. It's extremely important to consider the potential consequences of borrowing against your home. There may be financial, legal, tax, and estate implications. If you default on the loan, you could even lose your home. 4 caveats: 1. If you've lost income, borrowing money, particularly at a high interest rate, can be risky. Debt can quickly snowball if you're not able to pay it off at the end of the month. 2. If you already have a lot of debt, relying on credit cards or loans in an emergency can add to your financial burden 3. Credit may not be as available in a global economic downturn. Lenders may reel in lines of credit in difficult economic times so it may not always be a failsafe. 4. If you need to borrow, make sure to keep interest rates as low as possible. ### 4. How can I save more for an emergency savings? There are a couple of ways\u2014even on a tight budget. Think of your emergency savings as a bill. There can be a lot to balance with rent or mortgage payments, coupled with living expenses and other bills. However, if you turn saving for an emergency into a monthly priority, you'll get in the habit of contributing to it regularly. Trim spending. If there are any areas of your budget where you could cut back, it may be worth giving it a try\u2014at least temporarily. Directing some of those savings to for an emergency could help bolster your emergency savings quickly. ### 5. Can insurance help protect me in an emergency? Besides having cash you can access in an emergency, insurance is another way to be prepared. In circumstances where insurance would provide coverage, the more insurance coverage you have, the less will need to withdraw from your emergency savings. Look into disability insurance. Whether you have it through work or on your own, you'll want to know that you have enough in the event something happens. Don't forget about health insurance. If you lose your job, you may also lose your employer-provided health insurance. Even if you are eligible for continuation of coverage through COBRA, your premiums are likely to significantly increase\u2014annual premiums can be up substantially more expensive through COBRA than the employee cost of the same coverage while employed.Factor in some additional money to cover the cost of health care, just in case. ### The bottom line Everyone needs an emergency savings\u2014no matter how old or your income level. The recent pandemic is the latest reminder. There are myriad other circumstances that could require having cash on hand, for example, a leaky roof, unexpected child care expenses, or family members needing help. Planning ahead is key. If you\u2019re diligent about saving for emergencies in liquid accounts, utilizing insurance, and using low-interest credit cards as a last resort, you'll be more prepared and that knowledge can bring peace of mind. ## There's a better way to spend and save Pay bills, track spending, and get ATM fee reimbursements with our Cash Management Solutions. Learn more ## More to explore ### 7 ways to earn more on your cash Deciding what\u2019s right for you depends on your needs and time horizon. * Content Type:Article * Reading Time 10 min * Save Popover Yes, remove No, I want to keep this ### Visit Life Events Tools, resources, and tips to help you navigate life's big moments. ## to _Fidelity Viewpoints\u00ae_ Timely news and insights from our pros on markets, investing, and personal finance.(debug tcm:2365-349569) ### Looking for more ideas and insights? We'll deliver them right to your inbox. Manage subscriptions ### Thanks for subscribing! Check out your Favorites page, where you can: * Tell us the topics you want to learn more about * View content you've saved for later * to our newsletters Go to Favorites ### We're on our way, but not quite there yet Good news, you're on the early-access list. But we're not available in your state just yet. As soon as we are, we'll let you know. In the meantime, boost your crypt",
+      "headings": []
+    },
+    {
+      "rank": 4,
+      "domain": "td.com",
+      "url": "https://www.td.com/us/en/personal-banking/learning/savings-vs-emergency-fund",
+      "title": "Savings vs. Emergency Fund: How to Save for Each | TD Bank",
+      "word_count": 1235,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.td.com/content/dam/tdcom/shared/social-media-thumbnail.png",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.td.com/us/en/personal-banking/learning/saving-budgeting/savings-vs-emergency-fund/_jcr_content/root/container/responsivegrid/container_199739583_/container_copy/image_copy.coreimg.jpeg/1747300196099/savings-vs-emergency-3-3d-en.jpeg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.td.com/us/en/personal-banking/learning/saving-budgeting/savings-vs-emergency-fund/_jcr_content/root/container/responsivegrid/container_copy_copy__219076629/container_copy/textimagectagrid_con/0/custom_teaser_copy_c.coreimg.jpeg/1747301040796/td-simple-savings-3-2b-en.jpeg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.td.com/us/en/personal-banking/learning/saving-budgeting/savings-vs-emergency-fund/_jcr_content/root/container/responsivegrid/container_copy_copy__219076629/container_copy/textimagectagrid_con/1/custom_teaser_copy_c.coreimg.jpeg/1747301125601/td-signature-savings-3-2b-en.jpeg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.td.com/content/experience-fragments/tdcom/us/en/personal-banking/footer/master/_jcr_content/root/site_footer_copy_cop/badge/image.coreimg.png/1755619063281/equal-housing-lender2.png",
+          "alt": "Equal Housing Lender",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "\u201cEmergency fund\u201d is an informal term for a savings account that\u2019s set up for a special purpose\u2014covering unexpected expenses. In general, savings accounts can be used to pursue a wide range of financial goals, from paying for vacations and major purchases to addressing long-term needs. Some people can manage their finances just fine with one savings account, recognizing that they need it to be large enough to cover different things. For others, it helps to set up different savings accounts for specific categories. This makes it easier to gauge whether they are saving enough month to month. Opening savings accounts for different reasons, including for emergencies, might help you with budgeting, money management, and gaining a sense of financial security. What is a savings account? A savings account is a secure place to store money you don\u2019t need for daily spending but want to have easy access to when necessary. Account holders can deposit money occasionally or regularly through direct deposits. The money might earn interest, and possibly compound interest. Banks might charge a monthly maintenance fee, but they often give account holders ways to avoid the fees, such as keeping a minimum balance or linking to a checking account. People use savings accounts to set aside money for planned expenses like vacations, holiday shopping, and home upgrades. These accounts also can be used simply as a safe place to keep money until it is needed. Account holders can withdraw money at their banks or at ATMs. The insures most banks and covers up to $250,000 per depositor, per account category. Savings accounts are a low-risk way to earn interest without risking your principal. What is an emergency fund? \"Emergency fund\u201d is a casual term for money set aside specifically for life\u2019s surprises. The purpose of building an emergency fund is to prepare for urgent situations like car repairs, home repairs, or medical bills. It also could provide a buffer in the event of job loss or other sudden changes in income. \u201cRainy day fund\u201d is a similar term used for savings that are reserved for unidentified expenses. Some think of it this way: A rainy day fund is for expenses that are not part of your monthly budget but aren't entirely unexpected, either. For example, it might be used to buy new tires for your car or new brake linings, so the car passes its annual inspection. An emergency fund would be used to make repairs after a tree branch crashed through your roof. Whatever you call it, the point is to have money set aside so you can avoid taking on debt or eroding retirement savings to manage a difficult situation. When to use your savings vs. emergency fund The key difference between a general savings account and an emergency fund savings account lies in how and when the money is used. When you assign specific roles to each account, you can get a clearer picture of each one and whether you have enough to cover essential needs. When to use your savings account A savings account is ideal for short-term and planned goals. Consider dipping into your savings account to cover expenses like: Vacations or holiday trips Home upgrades like new appliances or furniture Technology upgrades (new phone, laptop, or TV) Down payments on home purchases or vehicles By setting financial goals and budgeting, you can earn interest on your money until it's time to make a big purchase. This can be more cost-effective than making a large purchase on credit and then paying interest for months or years. When to use your emergency fund Your emergency fund is reserved for true emergencies\u2014unexpected events that require immediate attention and funds. This could include: Car repairs resulting from an accident Sudden home repairs (like a burst pipe or damaged roof) Medical expenses not covered by insurance Expenses due to job loss or income reduction An emergency fund could help you maintain financial security and avoid taking on high-interest debt. When life throws unexpected costs your way, you\u2019ll have a solid base for dealing with it. How much do I put in my savings account? One practical way to manage your finances is by using the 50/30/20 rule, a popular budgeting strategy. This method divides your income into three categories: 50% for essentials. Rent or mortgage, groceries, transportation, and utilities 30% for wants. Dining out, travel, hobbies, and entertainment 20% for savings. This portion can be allocated toward general savings, building an emergency fund, retirement savings, and other financial goals Having a clear money management strategy, whether it\u2019s the 50/30/20 rule or another guideline, can help you to save regularly while covering your other costs. Many people set up automatic transfers into their savings account to build up funds steadily. How much do I need to save for an emergency? Many experts, including Fidelity \u2020 Investments and finance guru Dave Ramsey \u2020 , recommend \u2020 having three to six months' worth of essential expenses saved in your emergency fund. These essential expenses include: Mortgage or rent payments Utilities and groceries Insurance premiums Transportation costs If three months seems overwhelming when you start building an emergency fund, aim for just one month. When you achieve that, review your budget to see how you can start saving more each month. The point of having three to six months' worth of expenses covered is to cushion the blow of an unexpected job loss or another situation that impacts your ability to earn an income. Having a few months' worth of savings could give you time to find a new job or get back on your feet without resorting to credit cards and other loans. Accessibility is key for an emergency fund. A savings account, and some types of high-yield savings accounts, offer quick access to the money without penalties. Savings accounts offered at TD Bank By distinguishing between a savings account and an emergency fund, you can develop better savings strategies to prepare for life\u2019s planned adventures and unwelcome surprises. At TD Bank, you\u2019ll find a variety of savings accounts designed to meet your individual needs, whether you\u2019re focused on short-term goals or building an emergency fund. TD Simple Savings A savings account with a low monthly fee that can be waived TD Signature Savings Competitive interest rates and three ways to waive your monthly fee Important Disclosures This article is for general informational purposes only. It is not intended to provide specific financial, investment, tax, legal, accounting, or other advice and should not be acted or relied upon without the advice of a professional advisor. A professional advisor will recommend action based on your personal circumstances and the most recent information available. \u2020 By clicking on this link, you are leaving our website and entering a third-party website over which we have no control. Neither TD Bank US Holding Company, nor its subsidiaries or affiliates, is responsible for the content of third-party sites hyper-linked from this page, nor do they guarantee or endorse the information, recommendations, products or services offered on third-party sites. Third-party sites may have different Privacy and Security policies than TD Bank US Holding Company. You should review the Privacy and Security policies of any third-party website before you provide personal or confidential information. Have a question? Find answers here Popular Questions Did you find what you were looking for? Sorry this didn't help. Would you leave us a comment about your search?",
+      "headings": []
+    },
+    {
+      "rank": 5,
+      "domain": "bankevergreenpark.com",
+      "url": "https://www.bankevergreenpark.com/articles/2023/12/how-to-build-an-emergency-fund.html",
+      "title": "How to Build an Emergency Fund | First National Bank of Evergreen ...",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.bankevergreenpark.com/content/dam/wintrust/component-imagery/articleimages/2023/12/emergency-fund-hero1.png",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.bankevergreenpark.com/content/dam/wintrust/generic/legal/memfdic-equalhouse.png",
+          "alt": "FDIC",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 6,
+      "domain": "schwab.com",
+      "url": "https://www.schwab.com/learn/story/why-an-emergency-fund-is-essential",
+      "title": "An Emergency Fund Is Key to Your Financial Strategy",
+      "word_count": 1256,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.schwab.com/sites/g/files/eyrktu1071/files/22_0430_1_2x1.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://educationcontent.schwab.com/sites/g/files/eyrktu1071/files/22_0430_1_3x2.jpg?imwidth=3840",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://educationcontent.schwab.com/sites/g/files/eyrktu1071/files/Is%20Your%20Tax%20Strategy%20Keeping%20Up%20Custom%20Illustration%20by%20Michele%20Marconi.jpg?im=SmartCrop%2Cwidth%3D368%2Cheight%3D368&imwidth=3840",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://educationcontent.schwab.com/sites/g/files/eyrktu1071/files/When%20Do%20You%20Need%20a%20Wealth%20Advisor%20Custom%20Illustration%20by%20Michele%20Marconi.jpg?im=SmartCrop%2Cwidth%3D368%2Cheight%3D368&imwidth=3840",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://educationcontent.schwab.com/sites/g/files/eyrktu1071/files/Is%20Your%20Portfolio%20Tax%20Efficient%20Custom%20Illustration%20by%20Michele%20Marconi.jpg?im=SmartCrop%2Cwidth%3D368%2Cheight%3D368&imwidth=3840",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "An emergency fund isn't just a stash of cash for when your tires wear out or your dishwasher breaks down. It's a critical part of your personal finance strategy\u2014one that could potentially protect your long-term investments and provide peace of mind during unexpected events. So today, we'll explore how to start saving, where to keep your emergency savings, how much to consider saving, and how this will fit into your broader financial goals. I know the importance of an emergency fund from personal experience. In May 2024, our AC unit broke down. We were living through triple-digit Texas heat and needed to act fast. Because we followed the financial planning guideline of saving three-to-six months of expenses in an emergency reserve, we didn't panic when the $10,000 bill came to replace the unit. The peace of mind that can come from planning ahead and being prepared for the unexpected can't be overstated. So now let's explore how you can start saving money, where to keep your emergency savings, how much to consider saving, and how this could fit into your broader financial goals. What is an emergency fund and why do you need one? An emergency fund is a pool of money set aside to cover unexpected expenses like medical bills, car repairs, or job loss. Without it, you may be forced to rely on a credit card, dip into retirement accounts, or sell investments at a loss. We have banking and lending for investors. How emergency savings can protect your investments and financial health Let's consider two investors: Polly Prepared spent several years building her emergency savings, placing funds in a high-yield savings account or money market fund or account. Ivan Impromptu, on the other hand, has most of his assets tied up in retirement accounts and the stock market. When a storm causes major car repairs, both face a $1,400 bill. Polly uses her emergency savings, avoiding the need to sell investments or use a credit card. Her investments stay intact, continuing to work toward her financial goals. Ivan, lacking an emergency fund, must either sell stocks\u2014possibly at a loss\u2014or charge the expense to a credit card. If he carries a balance, he'll face high interest rates, diverting money from his savings plan. This scenario highlights why it's so important to keep emergency money separate from long-term investments. A well-structured emergency fund acts as a safety net, helping you avoid reactive decisions that could derail your strategy and even lead to credit card debt . How to start your emergency fund Creating an emergency fund begins with understanding your living expenses. Start by categorizing your monthly costs: Housing, utilities, and food Transportation Insurance and medical expenses Taxes Debt Payments Then, figure out whether you have enough in a savings account to cover three to six months' worth of your living expenses. If not, how much do you need to get there? Next, review discretionary spending like dining out, entertainment, and subscriptions to decide what can be reduced. The goal is to find where money can be consistently saved. Fully funding your emergency account may not happen overnight, so set a reasonable goal for yourself based on your income and create a goal to fund it by a certain date. In addition to funding your emergency savings account, if you have an employer-sponsored retirement plan, maximize your savings by contributing enough to get the full match amount if your employer offers it. Once you've set your savings goal, automate contributions via direct deposit into a bank account that's easy to access, such as a savings account, money market account, or checking account. Some people prefer using a member institution for added security. Where should I put my emergency savings? Your emergency fund should ideally be: Liquid: Easy to access in a pinch Safe: Considered low risk -insured, SIPC-protected, or NCUA-insured depending on the account type Options include: High-yield savings accounts or money market accounts: Offered by a bank or credit union that may potentially pay a better annual percentage yield (APY) than traditional checking or savings accounts. However, be aware that high yield savings account rates are not fixed and can go up and down based on market conditions. Purchased money market funds: May provide higher returns but may require at least a day or two to sell funds into cash. Money market funds are considered low risk, but they can lose value. Each option has trade-offs in terms of withdrawals, account balance minimums, and interest. Choose what aligns with your risk tolerance and need for accessibility. How much money is considered an emergency fund? The rule of thumb is to save three to six months' worth of expenses. If you have dependents, an unstable job, or live in a high-cost area, you may consider saving more. Start small\u2014perhaps one month of expenses\u2014and build gradually. Use windfalls like a tax refund to boost your fund. Remember, this is a short-term priority that supports your long-term goals. Balancing saving for your emergency fund with other financial goals Managing competing financial priorities can be challenging. Paying off debt, saving for retirement, or planning for a home purchase often feel urgent\u2014but without an emergency fund, those goals are vulnerable to disruption. A sudden medical bill, car repair, or other financial emergency could force you to dip into your investments or rely on high-interest credit cards, setting back your progress. To stay on track, consider organizing your financial goals into buckets: Short-term: emergency savings to cover unplanned expenses and financial emergencies, pay down debt, and contribute to your company's retirement plan if you have one, up to the maximum match Intermediate-term: saving to buy a home or funding children's education Long-term: retirement, travel, and other future plans Your emergency fund acts as a buffer between life's surprises and your long-term financial strategy. Without it, even well-planned goals can unravel when unexpected expenses arise. Prioritizing emergency savings helps ensure your broader financial plan remains intact. Bottom line: An emergency fund is essential to your financial plan An emergency fund is more than a financial cushion\u2014it's a strategic tool that protects your investments, supports your well-being, and helps you stay on track toward your financial goals. Whether you're just starting out or refining your savings plan, building and maintaining an emergency fund should be a top priority. Consider starting or increasing your emergency fund today. We have banking and lending for investors. More from Charles Schwab Your Life, Your Tax Strategy Do You Need a Wealth Advisor? Tax-Efficient Portfolios Explore more topics An investment in a money market fund is not insured or guaranteed by the Federal Deposit Insurance Corporation or any other government agency. Although a money market fund seeks to preserve the value of your investment at $1.00 per share, it is possible to lose money by investing in a money market fund. This material is intended for general informational and educational purposes only. This should not be considered an individualized recommendation or personalized investment advice. The securities, investment products and investment strategies mentioned may not be suitable for everyone. Each investor needs to review an investment strategy for his or her own particular situation before making any investment decisions. All expressions of opinion are subject to change without notice in reaction to shifting market conditions. Data contained herein from third-party providers is obtained from what are considered reliable sources. However, its accuracy, completeness, or reliability cannot be guaranteed. For illustrative purposes only. Individual situations will vary. Not intended to be reflective of results you can expect to achieve.",
+      "headings": []
+    },
+    {
+      "rank": 7,
+      "domain": "americasaves.org",
+      "url": "https://americasaves.org/resource-center/insights/six-simple-steps-to-jump-start-your-emergency-fund/",
+      "title": "Six Simple Steps to Jump-start Your Emergency Fund | America Saves",
+      "word_count": 1370,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://americasaves.org/media/lxxhmjeu/young-workers-group-chat.jpg?anchor=center&mode=crop&width=1200&height=630&rnd=132703905478970000",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://americasaves.org/media/cydfwlsq/logo-as.png",
+          "alt": "America Saves",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://americasaves.org/media/fnijd1ku/heart-pulse.svg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://americasaves.org/media/mlidbh4y/shopping-bag.svg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://americasaves.org/media/wu3fe4tf/suitcase.svg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://americasaves.org/media/5clcbsad/calendar-todo.svg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://americasaves.org/media/oaieagfx/bank-card.svg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://americasaves.org/media/tq2ded32/book.svg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://americasaves.org/media/al2ayxds/home.svg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://americasaves.org/media/plylzax4/user-heart.svg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://americasaves.org/media/p0om3jhi/hand-coin.svg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://americasaves.org/media/tb5buzlk/building-fill.svg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://americasaves.org/media/zphgkz2v/team.svg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "Saving several months\u2019 worth of living expenses for an emergency fund can be intimidating, especially when it feels like all of your available cash is already accounted for each month. Better Money Habits offers these six simple steps to help you get started building a reserve of cash \u2014 bringing with it greater financial security and peace of mind. Take it day by day Putting aside months\u2019 worth of living expenses might seem like an impossibly tall task. But more important than hitting your savings goal right away is simply getting started. To do that, pick a realistic number you think you could work toward in the short term. Some people, for example, might start with a goal of $50 or $100 a month\u2014as little as $2 to $3 a day. Pick something and cut it You could carpool or use public transportation to save on gas, bring your lunch to work or cancel that gym membership or cable subscription you don\u2019t use. You may want to identify one discrete thing you can cut, which can be easier than trying to change your behavior . Make it easy on yourself An easy way to save more consistently is to set up automatic transfers from your checking to your savings account. If you have direct deposit at work, you might be able to set aside a percentage of your paycheck to go directly to your emergency savings account each pay period. Don't let debt get in the way If you\u2019re struggling to pay down debt, saving might be the last thing on your mind. And if your debt carries high-interest rates\u2014like credit cards\u2014it might make sense to aggressively pay down balances first. But if your rates and balances are lower and more manageable, you can work on both goals at the same time: Consider allotting funds to both debt and savings each month. Keep your funds accessible\u2014but away from temptation Emergency funds must be available when you need them. That means not locking them up in accounts that charge you to access your money\u2014or keeping them in an account you\u2019ll be tempted to tap for everyday expenses. Consider creating a separate, interest-bearing, -insured savings or money market account. Now, up the ante Don\u2019t stop once you\u2019ve hit your initial savings target. Steadily increase your savings goals until you have put aside enough money to cover your expenses for three to six months\u2014a significant buffer against unexpected emergencies. Check out these related insights! By Carolyn Pemberton 6 Steps To Establishing A Spending & Savings Plan Importance of Credit History Save Automatically Related Tags Savings CHECK OUT OTHER SAVINGS JOURNEYS FROM SAVERS JUST LIKE YOU By Eunice Diaz Eunice Diaz, a teacher in Colorado Springs, had been noticing a pattern. Despite the fact that she and her husband were \u201cmaking good money,\u201d they were spending their entire earnings and \u201cwere still struggling at the end of the month.\u201d American Saver Savings By Kelly has made saving a family effort. She started her boys saving early. \u201cProbably 3,\u201d Kelly told us, \u201cw... Savings #ImSavingForSweepstakes By Pedram R. America Saves awarded one lucky saver, Pedram R. from California, $750 for sharing his #ImSavingFor story... By Nicky Vasquez learned about Virginia Saves when she attended her first class with Bank On Virginia Beach.... By Nohemi found out about America Saves a few years ago as an undergraduate at the University of Illinois at... Savings 07.31.2025 By Amy Miller, AFC Meet David from Los Angeles: A dedicated saver with a seriously savvy weekend routine that helps him stay on track with his financial goals. By Nichelle Johnson Nichelle Johnson, a single mom with two teenage children, knows what it\u2019s like to stretch a dollar. When ... America Saves Week Savings By Jeff Saving is truly a family affair for Jeff\u2019s household. During America Saves Week 2019, he pledged to save ... Savings America Saves Week By Melissa \u201cI am a single mother, and I make ends meet for me and my daughter, but I wanted to put money away for my... Savings Family By Brittany Virginia Saves saver, Brittany, decided to start saving again when she became a single mother. She thinks... By Nicky Vasquez learned about Virginia Saves when she attended her first class with Bank On Virginia Beach. The instructor shared how important it was to have a written savings goal, and the entire class joined Virginia Saves as the first step toward financial fitness. Young Saver By Johnnie Lovett For Johnnie Lovett, a Young Illinois Saver, saving has been a habit since he was a teenager. \u201cAs a teenag... Savings Home By Shannon We've chosen Shannon as our Saver of the Month! Her approach to saving for her family\u2019s dream home is a g... By Mary Brown was already a disciplined individual when she came to Wisconsin Women\u2019s Business Initiative Co... American Saver Savings By Kelly has made saving a family effort. She started her boys saving early. \u201cProbably 3,\u201d Kelly told us, \u201cw... Savings Home By Shannon We've chosen Shannon as our Saver of the Month! Her approach to saving for her family\u2019s dream home is a great example of how #ThinkingLikeASaver can look different for everyone, but has great payoffs and rewards. Savings By Melissa has always been thrifty with a #ThinkLikeASaver attitude. This served her family well when her husband lost his job in 2014. Using their savings, Melissa\u2019s family stayed afloat while her husband found a new job. America Saves Week Savings By Jeff Saving is truly a family affair for Jeff\u2019s household. During America Saves Week 2019, he pledged to save for retirement. But making a commitment and creating a plan to save isn\u2019t a new concept for him. American Saver Savings By Kelly has made saving a family effort. She started her boys saving early. \u201cProbably 3,\u201d Kelly told us, \u201cw... By Kiara Hardin When Kiara Hardin, now a junior at Western Illinois University, became an intern with the Chicago Summer ... Savings America Saves Week By Melissa \u201cI am a single mother, and I make ends meet for me and my daughter, but I wanted to put money away for my... By Nohemi found out about America Saves a few years ago as an undergraduate at the University of Illinois at... American Saver Savings By Debi In 2017 Debi felt overwhelmed. Her credit cards were maxed, and she wasn't exactly sure how to handle it. When asked how her credit issues started, her answer sounded like many Savers that we've spoken to: making too many impulse purchases. American Saver By Sharon With little-to-no money in the bank and living on a limited income with her adult daughter, Sharon wasn\u2019t... By Nadine Bialo After becoming a Virginia Saver and getting help from BankOn classes and coaching, Nadine Bialo took back... Debt By Tonya Shelton In 2004, Tonya Shelton was facing financial ruin. Barely making more than minimum wage and having lost he... By Eunice Diaz Eunice Diaz, a teacher in Colorado Springs, had been noticing a pattern. Despite the fact that she and he... Savings #ImSavingForSweepstakes By Pedram R. America Saves awarded one lucky saver, Pedram R. from California, $750 for sharing his #ImSavingFor story. Pedram said, \u201cSaving is important to me because it proves I am not willing to buy unnecessary things to please others or to be perceived as successful.\u201d America Saves Week Savings By Jeff Saving is truly a family affair for Jeff\u2019s household. During America Saves Week 2019, he pledged to save for retirement. But making a commitment and creating a plan to save isn\u2019t a new concept for him. If we feature you in our newsletter, you get $50. You May Also Be Interested In... Take the America Saves Pledge Make a pledge to yourself and create a simple savings plan that works. Connect to a Campaign Connect with a local America Saves campaign for one-on-one help and to learn more about savings initiatives and events in your area. Sign-up for ASAW America Save at Work is a hub of information and resources to help employers promote financial wellness for their employees. Partner News & Updates Join the America Saves email list to receive information about engaging content and events throughout the year.",
+      "headings": []
+    },
+    {
+      "rank": 8,
+      "domain": "wellsfargo.com",
+      "url": "https://www.wellsfargo.com/financial-education/basic-finances/manage-money/cashflow-savings/emergencies/",
+      "title": "How Much Should You Be Saving for an Emergency? | Wells Fargo",
+      "word_count": 617,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www17.wellsfargomedia.com/assets/images/photography/lifestyle/187x117/male_with-workbelt__187x117.png",
+        "alt": "",
+        "description": "Data visualization or financial chart graphic.",
+        "type": "graphic_design_data"
+      },
+      "article_images": [],
+      "body_text": "Emergencies, by their nature, are unpredictable. When they happen, they can derail your financial stability. A sudden illness or accident, unexpected job loss, or even a surprise home or car repair can devastate your family\u2019s day-to-day cash flow if you aren\u2019t prepared. While emergencies can\u2019t always be avoided, having emergency savings can take some of the financial sting out of dealing with these unexpected events. What is an emergency fund? An emergency fund is a separate savings or bank account used to cover or offset the expense of an unforeseen situation. It shouldn\u2019t be considered a nest egg or calculated as part of a long-term savings plan for college tuition, a new car, or a vacation. Instead, this fund serves as a safety net, only to be tapped when an emergency occurs. How much should you save? While the size of your emergency fund will vary depending on your lifestyle, monthly costs, income, and dependents, the rule of thumb is to put away at least three to six months\u2019 worth of expenses. This amount can seem daunting at first, but the idea is to put a small amount away each week or two to build up to that goal. You may also want to consider adjusting the amount based on your bill obligations, family needs, job stability, or other factors. Where should you put the money? Emergency savings are best placed in an interest-bearing bank account, such as a money market or interest-bearing savings account, that can be accessed easily without taxes or penalties. The concern with placing your emergency savings in mutual funds, stocks or other assets is that they may lose value if the funds need to be accessed quickly. Tip When should you use this money? The goal is to tap your emergency savings only for expenses directly related to an unexpected emergency. By setting a specific dollar amount that should be in that account, you will know how much to build up to. When you draw from the emergency savings, you\u2019ll then know how much to contribute in order to replenish the account. When you do have to take money from this fund, it\u2019s important to immediately start rebuilding it. Remember: If you start saving now, the money you save today can go a long way towards meeting your needs when the next emergency occurs. Generally, CDs require a minimum purchase amount and may not be withdrawn prior to maturity. CDs are insured up to $250,000 per depositor per insured depository institution for each account ownership category. CDs may be issued by out of state institutions. Withdrawals from retirement accounts may be subject to ordinary income tax and may be subject to an IRA 10% additional tax for early or pre-59 1/2 distributions. Not Insured by the or Any Federal Government Agency Not a Deposit or Other Obligation of, or Guaranteed by, the Bank or Any Bank Affiliate Subject to Investment Risks, Including Possible Loss of the Principal Amount Invested Investment products and services are offered through Wells Fargo Advisors . Wells Fargo Advisors is a trade name used by Wells Fargo Clearing Services , LLC (WFCS) and Wells Fargo Advisors Financial Network , LLC, Members SIPC , separate registered broker-dealers and non-bank affiliates of Wells Fargo & Company . Wells Fargo Bank, N.A. (\u201cthe Bank\u201d) offers various banking, advisory, fiduciary and custody products and services, including discretionary portfolio management. Wells Fargo affiliates, including Financial Advisors of Wells Fargo Advisors, may be paid an ongoing or one-time referral fee in relation to clients referred to the Bank. In these instances, the Bank is responsible for the day-to-day management of any referred accounts. Deposit products offered by Wells Fargo Bank, N.A. . QSR-06032026-7404287.1.1 LRC-1224",
+      "headings": []
+    },
+    {
+      "rank": 9,
+      "domain": "pbtc.net",
+      "url": "https://www.pbtc.net/blog/post/emergency-fund-vs-savings-account-what-s-the-difference-and-why-you-need-both",
+      "title": "Emergency Fund vs. Savings Account: What's the Difference?",
+      "word_count": 1894,
+      "scrape_status": "tavily_fallback",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": "# Emergency Fund vs. Savings Account: What\u2019s the Difference and Why You Need Both Peoples Bank & Trust Updated Thu April 24, 2025 Published Under: Emergency Funds Personal Finance Savings We\u2019ve all heard the saying, \u201cSave for a rainy day.\u201d But what if that \u201crainy day\u201d is an unexpected car repair, a medical bill, or even a job loss? That\u2019s where an emergency fund comes in. While a savings account helps you work toward your financial goals, your emergency fund is there to protect you when life throws the unexpected your way. So, what\u2019s the difference between the two, and how do you know how much to put in each? Let\u2019s break it down in a way that makes sense \u2014 without all the confusing financial jargon. ## Emergency Fund vs. Savings Account: The Quick Breakdown * Emergency Fund = Your financial safety net. This money is reserved for unexpected expenses, like car repairs, medical bills, or sudden job loss. You should be able to access it quickly when needed. * Savings Account = Your financial goals fund. This is where you set aside money for planned expenses like a vacation, a down payment on a house, or holiday shopping. You can leave the money here to grow over time while working toward a goal. While they\u2019re both technically \u201csavings,\u201d they serve very different purposes. ## What Is an Emergency Fund? An emergency fund is exactly what it sounds like: a stash of money set aside for true emergencies. These are unexpected financial hits that you can\u2019t plan for, like: * Major car repairs * Medical emergencies * Sudden job loss * Urgent home repairs (like a broken furnace in the middle of winter!) The key to an emergency fund is that it should be easily accessible \u2014 meaning it shouldn\u2019t be locked away in an investment account where you\u2019d face penalties for withdrawing it. A high-yield savings account or a basic savings account with quick access is usually the best place to keep it. How Much Should You Save?Financial experts recommend keeping at least three to six months\u2019 worth of essential expenses in your emergency fund. If that sounds overwhelming, start small! Even having $500 to $1,000 can make a huge difference in an emergency. ## What Is a Savings Account? A regular savings account is where you keep money for planned expenses or future goals. Unlike an emergency fund, this money isn\u2019t meant for sudden, unexpected bills \u2014 it\u2019s for things you know you\u2019ll need or want in the future. Some common savings goals include: * Vacation fund * Down payment for a house * Holiday shopping * College tuition * New car Savings accounts help you stay on track with your goals by keeping money separate from your everyday spending account. How Much Should You Save?That depends on your goal! If you\u2019re saving for a vacation, set a clear target (like $2,000) and work toward it. For long-term goals, like a house or retirement, it may take years \u2014 but every little bit counts! ## Key Differences Between an Emergency Fund and a Savings Account | Feature | Emergency Fund | Savings Account | | --- | --- | --- | | Purpose | Covers unexpected expenses (car repairs, medical bills, job loss) | Helps you save for planned purchases and financial goals | | Access | Should be easily accessible in a savings or money market account | Can be in a standard savings account, CDs, or even investments | | Amount to Save | 3\u20136 months\u2019 worth of expenses (start with $500\u2013$1,000) | Depends on your savings goal | | When to Use It | ONLY for emergencies | For vacations, home down payments, big purchases, etc. | ## Why You Need Both Having both an emergency fund and a savings account ensures that you\u2019re financially prepared for anything. Without an emergency fund, you might end up pulling from your savings when unexpected costs arise, setting you back on your goals. Example: You\u2019ve been saving for a vacation, but then your car breaks down. Without an emergency fund, you\u2019d have to dip into your vacation savings, delaying your trip. But with an emergency fund, you can handle the repair without touching your vacation money. ## How to Start Building Both Not sure where to begin? Here are a few easy steps: 1. Set Up Separate Accounts \u2013 Keep your emergency fund and savings account separate so you\u2019re not tempted to spend your emergency money on non-essentials. 2. Automate Your Savings \u2013 Set up automatic transfers from your checking account to both funds each month \u2014 whatever amount you can afford. 3. Start Small, Then Grow \u2013 If saving three months\u2019 worth of expenses feels impossible, start with $500 in your emergency fund and build from there. 4. Prioritize Your Emergency Fund First \u2013 Before focusing on long-term savings, make sure you have a solid emergency cushion. ## Final Thoughts Think of your emergency fund as your financial safety net and your savings account as your future goals fund. By keeping them separate and contributing to both, you\u2019ll be prepared for life\u2019s surprises while still working toward your dreams. If you\u2019re ready to start saving, Peoples Bank & Trust offers savings accounts that make it easy to build your financial future. Stop by a branch or give us a call today to open an account and start taking control of your money! Start an Emergency Fund Today Peoples Bank & Trust Co. , NMLS #407724 We\u2019ve all heard the saying, \u201cSave for a rainy day.\u201d But what if that \u201crainy day\u201d is an unexpected car repair, a medical bill, or even a job loss? That\u2019s where an emergency fund comes in. While a savings account helps you work toward your financial goals, your emergency fund is there to protect you when life throws the unexpected your way. So, what\u2019s the difference between the two, and how do you know how much to put in each? Let\u2019s break it down in a way that makes sense \u2014 without all the confusing financial jargon. ## Emergency Fund vs. Savings Account: The Quick Breakdown While they\u2019re both technically \u201csavings,\u201d they serve very different purposes. ## What Is an Emergency Fund? An emergency fund is exactly what it sounds like: a stash of money set aside for true emergencies. These are unexpected financial hits that you can\u2019t plan for, like: The key to an emergency fund is that it should be easily accessible \u2014 meaning it shouldn\u2019t be locked away in an investment account where you\u2019d face penalties for withdrawing it. A high-yield savings account or a basic savings account with quick access is usually the best place to keep it. How Much Should You Save?Financial experts recommend keeping at least three to six months\u2019 worth of essential expenses in your emergency fund. If that sounds overwhelming, start small! Even having $500 to $1,000 can make a huge difference in an emergency. ## What Is a Savings Account? A regular savings account is where you keep money for planned expenses or future goals. Unlike an emergency fund, this money isn\u2019t meant for sudden, unexpected bills \u2014 it\u2019s for things you know you\u2019ll need or want in the future. Some common savings goals include: Savings accounts help you stay on track with your goals by keeping money separate from your everyday spending account. How Much Should You Save?That depends on your goal! If you\u2019re saving for a vacation, set a clear target (like $2,000) and work toward it. For long-term goals, like a house or retirement, it may take years \u2014 but every little bit counts! ## Key Differences Between an Emergency Fund and a Savings Account | Feature | Emergency Fund | Savings Account | | --- | --- | --- | | Purpose | Covers unexpected expenses (car repairs, medical bills, job loss) | Helps you save for planned purchases and financial goals | | Access | Should be easily accessible in a savings or money market account | Can be in a standard savings account, CDs, or even investments | | Amount to Save | 3\u20136 months\u2019 worth of expenses (start with $500\u2013$1,000) | Depends on your savings goal | | When to Use It | ONLY for emergencies | For vacations, home down payments, big purchases, etc. | ## Why You Need Both Having both an emergency fund and a savings account ensures that you\u2019re financially prepared for anything. Without an emergency fund, you might end up pulling from your savings when unexpected costs arise, setting you back on your goals. Example: You\u2019ve been saving for a vacation, but then your car breaks down. Without an emergency fund, you\u2019d have to dip into your vacation savings, delaying your trip. But with an emergency fund, you can handle the repair without touching your vacation money. ## How to Start Building Both Not sure where to begin? Here are a few easy steps: ## Final Thoughts Think of your emergency fund as your financial safety net and your savings account as your future goals fund. By keeping them separate and contributing to both, you\u2019ll be prepared for life\u2019s surprises while still working toward your dreams. If you\u2019re ready to start saving, Peoples Bank & Trust offers savings accounts that make it easy to build your financial future. Stop by a branch or give us a call today to open an account and start taking control of your money! Start an Emergency Fund Today Peoples Bank & Trust Co. , NMLS #407724 emergencies, emergency funds, personal finances, savings, savings accounts Comments Featured Blogs April 1, 2026 Community Banking Month: 7 Moments When Local Banking Makes Life Easier By Peoples Bank & Trust April 1, 2026 Got a Tax Refund? Choose the \u201cNext Best Move\u201d for Your Money (6 Options) By Peoples Bank & Trust March 26, 2026 Starting Your First Job? Here\u2019s What Every Student Should Know About Managing Money By Peoples Bank & Trust March 26, 2026 Thinking About a Change? Compare Buying New, Fixing Up, or Renovating What You Have By Peoples Bank & Trust Categories Archives Recent Blogs Community Banking Month: 7 Moments When Local Banking Makes Life Easier Here are 7 moments when community banking makes life easier, from mobile tools to local lending and real human help. Read Article Got a Tax Refund? Choose the \u201cNext Best Move\u201d for Your Money (6 Options) Before your tax refund disappears this year, give it a job. Here are 6 smart ways to put it to work, based on what you need most right now. Read Article Starting Your First Job? Here\u2019s What Every Student Should Know About Managing Money Check out this guide for students starting their first job, including how to set up direct deposit and why our Smart Start Checking Account transitions into Rewards Checking Account as you grow. Read Article Thinking About a Change? Compare Buying New, Fixing Up, or Renovating What You Have Compare the pros and cons of moving, renovating, or buying a fixer\u2011upper, and explore financing options that can help turn your dream home into reality. Read Article Routing# 081910232 NMLS# 407724 Get In Touch Fax: (636) 528-7016 Locations | SMS | | Web Accessibility Guidelines | CRA File | USA PATRIOT Act Peoples Bank & Trust. . Financial website created and powered by forbinfi",
+      "headings": []
+    },
+    {
+      "rank": 10,
+      "domain": "securian.com",
+      "url": "https://www.securian.com/insights-tools/articles/5-steps-to-building-an-emergency-fund.html",
+      "title": "5 steps to build an emergency fund - Securian Financial",
+      "word_count": 898,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.securian.com/content/dam/img/dp/hero/news/ahb-remote-check-deposit-on-phone-052722-lg.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "alt": "Remote check deposit on phone",
+        "description": "Graphic design layout of a document, checklist, or tracker.",
+        "type": "graphic_design_document"
+      },
+      "article_images": [
+        {
+          "url": "https://www.securian.com/content/dam/img/dp/icon/icon-email-2c.svg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.securian.com/content/dam/securian/web-assets/hero/article/article-cta-00071-father-and-son-xs.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg",
+          "alt": "Father, son and dog watching TV on a couch",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://securian.scene7.com/is/image/securian/sc-art_young-mother-holding-smiling-baby-on-shoulder-102522%3AExtraSmallCTA",
+          "alt": "Young mother holding smiling baby on shoulder",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://securian.scene7.com/is/image/securian/sc-art_college-savings-031623%3AExtraSmallCTA",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "Having some extra funds available for emergencies is an essential component of your overall financial well-being, with enough cash to cover three to six months of expenses being a common recommendation. For many people, though, that can add up to an intimidating number \u2014 and can discourage even the best-intentioned saver. But don\u2019t give up before you start! The game of saving is mostly psychological \u2014 and you can win it. Even if you\u2019re starting from zero, regularly setting money aside \u2014 even in small amounts \u2014 will eventually get you to your goal. It just takes time and a little discipline. If you\u2019re ready to begin \u2014 and especially if you think you can\u2019t \u2014 here are five suggestions that might make building your emergency fund easier. 1. Set several smaller savings goals, rather than one large one Set yourself up for success from the start. Rather than shooting for three months\u2019 worth of expenses right away, shoot for one month. Or two weeks. Whatever it takes to make your first goal seem doable. Reaching that first goal can give you the motivation to keep going. Set your second goal higher \u2014 and the third even higher. By then, saving will have become a habit, and the positive motivation you\u2019re building by reaching the smaller goals will help propel you toward larger ones. 2. Start with small, regular contributions Set your initial contribution level at a relatively small amount. That will ensure you don\u2019t stress your cash flow, making it too easy for you to rationalize abandoning your savings routine. Find something in your life you can live without, or with less \u2014 trim back the monthly coffee habit a bit. Pass on that new pair of shoes, or one big night out. Choose that amount \u2014 whether it\u2019s $5 or $100 \u2014 and commit to saving it at regular intervals: per month, per week, or per paycheck. The key is that it needs to become a habit, not a recurring struggle. 3. Automate your savings Out of sight, out of mind: the easiest way to save money is never to touch it in the first place. Most employers provide direct deposit, and some will even deposit to more than one account. Set up a separate account just for your emergency fund and have your chosen contribution amount deposited automatically, either by your employer or your bank. Use a savings or other type of account that you can\u2019t access easily, unlike a checking account. Chances are you won\u2019t miss it. And don\u2019t watch the account balance continually \u2014 that will only make growth seem smaller and slower. Forget about it and let time do its thing. 4. Don\u2019t increase monthly spending or open new credit cards Once saving has become automatic, don\u2019t be lulled into a false sense of financial security and let spending creep up again. For example, if you gave up a new pair of shoes every month only to replace it a couple of months later with a new monthly shopping habit, you\u2019re not saving at all! If you still have an extra $50 left over each month, maybe your savings deposit amount is too low. If you don\u2019t have an extra $50, you may be running up a credit card balance. Neither is productive. You shouldn\u2019t stop enjoying life while you build your emergency fund, but you shouldn\u2019t lose sight of its importance, either. Having an adequate emergency fund is critical to your financial well-being. Be realistic, but try to reach your ultimate savings goal as fast as you can. That alone might make life more enjoyable. 5. Don\u2019t over-save Or, more accurately, don\u2019t devote too much of your savings to your emergency fund. By definition, an emergency fund is cash you can access quickly. That means you are most likely storing it in a low-yield vehicle like a savings account that is earning an extremely low rate of interest. For that reason alone, you should stop contributing to that account once you\u2019ve reached your ultimate goal. Start depositing into an account where it will start earning money on its own \u2014 ideally, your retirement accounts, where time will enable it to bear the most fruit. Balancing debt and your emergency fund If you are in the process of paying off high-interest loans or credit cards, be sure to balance your desire to accumulate an emergency fund with your need to get out of debt. It\u2019s important to save for emergencies, but every day that you\u2019re still in debt is costing you money. What you\u2019re saving in one account could end up being cancelled out by the interest you\u2019re being charged in the other. Instead, you may want to set a more modest emergency fund goal at the start and put any additional amount you can toward your debt. Once that\u2019s retired, you can accelerate your emergency fund savings and raise that goal. In the meantime, having a small cushion is better than having no cushion at all. Like what you\u2019re reading? Get articles like this delivered directly to your inbox. Related articles When to hire a financial professional Getting married? Ask your partner these questions about money How to create an estate plan for your digital life Additional articles Estate planning for parents of children with special needs Life events and milestones, personal finance Getting started with college savings DOFU 1-2025 4130094",
+      "headings": []
+    },
+    {
+      "rank": 11,
+      "domain": "nerdwallet.com",
+      "url": "https://www.nerdwallet.com/banking/learn/emergency-fund-why-it-matters",
+      "title": "Emergency Fund: What it Is and Why it Matters",
+      "word_count": 0,
+      "scrape_status": "failed",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 12,
+      "domain": "bankrate.com",
+      "url": "https://www.bankrate.com/banking/savings/where-to-keep-emergency-fund/",
+      "title": "The Best Places To Keep Your Emergency Fund",
+      "word_count": 1571,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.bankrate.com/2021/08/04092301/The-best-places-to-keep-your-emergency-fund.jpeg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.brimg.net/images/author-photos/greg-mcbride.png?auto=webp&quality=85&width=24&height=24&fit=cover&enable=upscale&crop=1:1,smart",
+          "alt": "Greg McBride, CFA",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.bankrate.com/brp/2024/12/10121057/headshot1-1.jpg?auto=webp&quality=85&width=24&height=24&fit=cover&enable=upscale&crop=1:1,smart",
+          "alt": "Yuliya Goldshteyn",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.bankrate.com/2021/04/21162453/Chole-Moore-headshot.jpg?auto=webp&quality=85&width=24&height=24&fit=cover&enable=upscale&crop=1:1,smart",
+          "alt": "Chloe Moore, CFP\u00ae",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.brimg.net/images/author-photos/greg-mcbride.png?auto=webp&quality=85&width=64&height=64&fit=cover&enable=upscale&crop=1:1,smart",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.bankrate.com/brp/2024/12/10121057/headshot1-1.jpg?auto=webp&quality=85&width=64&height=64&fit=cover&enable=upscale&crop=1:1,smart",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.bankrate.com/2021/04/21162453/Chole-Moore-headshot.jpg?auto=webp&quality=85&width=64&height=64&fit=cover&enable=upscale&crop=1:1,smart",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.bankrate.com/2021/08/04092301/The-best-places-to-keep-your-emergency-fund.jpeg?auto=webp&optimize=high&crop=16:9",
+          "alt": "Man using cell phone in living room",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.brimg.net/images/author-photos/greg-mcbride.png?auto=webp&quality=85&width=96&height=96&fit=cover&enable=upscale&crop=1:1,smart",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.bankrate.com/2023/05/31163842/Loans_How_to_get_an_emergency_loan_with_bad_credit.jpg",
+          "alt": "White man works on laptop while talking on a cellphone",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.bankrate.com/2022/05/04100848/How-to-find-a-lost-401k.jpg",
+          "alt": "Stressed woman looks at phone",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.bankrate.com/2022/09/20164708/emergency-funds-and-inflation.jpeg",
+          "alt": "Serious young woman working at home",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.bankrate.com/2021/02/22163544/best-savings-accounts-for-kids.jpeg",
+          "alt": "A woman and daughter work together",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "Table of contents The best places to put your emergency savings The worst places to put your emergency savings Frequently asked questions Key takeaways Keep your emergency savings in an account that offers easy access and a competitive interest rate, such as a high-yield savings account. Avoid keeping emergency savings in cash, in illiquid accounts such as certificates of deposit or in risky investments such as stocks. In addition to thinking about where to store your emergency fund, make sure you\u2019re thinking about how much you should be setting aside \u2013 which will vary based on your job security and your household. Unexpected events, such as an emergency room visit or a broken-down car, can result in major financial problems when you don\u2019t have an emergency fund in place. It\u2019s not just about having some cash \u2014 ideally enough to cover at least six months of your expenses \u2014 set aside for those worst-case scenarios, though. Where you keep that money is equally important to make sure it\u2019s protected and immediately accessible. 16% of Baby Boomers, 24% of Gen Xers, 28% of Millennials and 34% of Gen Zers have no emergency savings. 1 in 3 Americans have more credit card debt than emergency savings. 60% of U.S. adults are uncomfortable with their emergency savings. Source: Bankrate Emergency Savings Report The best places to put your emergency savings The best place to keep your emergency savings is in an account with a competitive annual percentage yield (APY) and easy access to your funds for when emergencies arise. Here are the best places to stash your emergency cash. You need to be able to sleep at night with the assurance that your emergency fund has no chance of disappearing, so safety is a key ingredient. Keep your money in an account with Federal Deposit Insurance Corp. (FDIC) coverage or National Credit Union Association (NCUA) share insurance coverage and avoid high-risk investments. Summary of the best places to keep your emergency savings High-yield savings account Money market account Standard savings accounts Money market mutual fund Pros Pays good interest and comes with or NCUA insurance. Typically pays a good APY, provides easy access to funds and comes with or NCUA insurance. Available pretty much everywhere and comes with or NCUA insurance. Low-risk investments that can grow your money Cons May require some extra time to process a transfer to an external account for use. Not as widely available. Often pay interest rates that are well behind inflation and may charge fees for failing to meet minimum balance requirements. Longer transfer times to an external account and no or NCUA insurance. High-yield savings account A high-yield savings account offers easy access to your money and a competitive APY to help your money grow. You can typically find high rates at banks that operate mostly online, as opposed to larger brick-and-mortar banks. When choosing a high-yield savings account, opt for one that has: No or minimum fees No (or low) minimum balance requirements or NCUA insurance Convenient methods of withdrawal, including fast transfers from the account Keep in mind that you may have a limit on withdrawals from your account , which is typically six per month, though some savings accounts do not impose these limits. Money market account Another option to store your emergency savings is a money market account. Like a savings account, a money market account typically offers a higher APY than a traditional savings account. With both, you often have easy access to your funds, within a potential withdrawal limit. What sets a money market account apart from a savings account is that it often comes with a debit card or the ability to write checks, for even easier access to your savings. Standard bank or credit union savings account If you have a checking account at a bank or credit union that does not offer a high-yield savings account, you can still consider opening a savings account there for your emergency fund. This can simplify your financial life by keeping everything under one roof, while distinguishing your emergency fund from the one you use for your day-to-day finances. The downside, though, is that standard savings accounts often pay little to no interest. With the best high-yield savings accounts paying an APY around 4%, you can earn interest to keep growing your emergency fund and preserve your purchasing power by outpacing inflation , which was 2.6% year-over-year as of November 2025. Money market mutual fund A money market mutual fund is another relatively safe place for emergency funds. Although they don\u2019t come with the guarantee of insurance protection like most savings accounts, these conservative investments are typically low-risk and easily accessible parking spots for cash. That access will take a bit longer than standard bank accounts, though. If you need funds from a money market mutual fund, expect to wait for a couple of business days to sell and see the cash in your bank account. The worst places to put your emergency savings Knowing where not to keep your money is an equally important lesson. While these places can serve a valuable purpose for your other financial needs, they aren\u2019t designed for emergency safekeeping. Checking account: Lumping your emergency savings in with the checking account you use on a regular basis presents the challenge of making it too accessible. You run the risk of dipping into your emergency stash for non-emergencies. Certificate of deposit (CD) : A traditional CD comes with a penalty for any early withdrawal of the funds. So, if you park your emergency savings in a one-year CD and wind up needing the money in four months, you\u2019ll forfeit interest and, potentially, some of your principal. The stock market: With an average of an approximately 10% annual return, the stock market is great for a long-term investment strategy. But returns are not guaranteed and can vary. If you have your emergency fund in the market when it takes a downturn, you can find yourself in a very tough spot without enough money to cover your needs. Savings bonds: Savings bonds are a good choice for saving, just not for your emergency fund. After purchasing a savings bond, you cannot cash it in for a full year. At home : If you\u2019re considering keeping your emergency fund under a mattress or in a safe at home , it\u2019s time to rethink your strategy. In the event of an at-home emergency such as a fire or theft, it creates another dire emergency: Your cash will be gone \u2014 without any way of getting it back. In retirement accounts : It\u2019s pivotal to save for both an emergency fund and your future retirement. However, it\u2019s imperative to keep these separate. Retirement accounts, such as a 401(k) or Individual Retirement Arrangements (IRA) should hold money you plan on using in retirement \u2014 not to pay for an emergency. Utilizing funds from a retirement account prior to your retirement can result in paying penalties, the loss of the benefit of long-term growth and make you less prepared for your retirement. Bottom line An emergency fund is a critical piece of minimizing your financial stress. As you work to build it, make sure you\u2019re putting that money in a place where it will grow and stay safe. And while you\u2019re at it, make sure you\u2019re regularly reviewing what you would really need in a true emergency. While three months of expenses might be plenty for someone who is 25 and living on their own, someone who is 35 and married with children will likely need a bigger cushion. Frequently asked questions Why should you keep your emergency fund in a separate account? Caret Down Icon Storing your emergency fund in a dedicated account can help keep you from dipping into the money for other purposes. Some savings accounts conveniently allow you to set up buckets devoted to different goals, including emergency expenses. A separate account makes it easy to be aware of exactly what you have in that account as well. Why shouldn\u2019t you keep an emergency fund in a checking account? Caret Down Icon Checking accounts are designed for transactions such as paying bills or writing checks. As such, your emergency fund may be better off in a separate account where the money generally remains untouched. Checking accounts also tend to earn low (or no) interest, so your emergency fund could earn a higher return in a high-yield savings account. What is the safest place to keep cash within your home? Caret Down Icon Because cash is paper, it\u2019s subject to damage from water or fire. For this reason, a fireproof safe is often the best place to keep cash at home . A locked safe can also help keep your money or other valuables intact in the event of a burglary. When should you tap into your emergency fund? Caret Down Icon An emergency fund is a source of money for unplanned expenses that can crop up, especially when you have to go into debt to pay for these things. Examples include a large medical bill, a major home repair or a job loss. Why we ask for feedback Your feedback helps us improve our content and services. It takes less than a minute to complete. Your responses are anonymous and will only be used for improving our website. Facebook Icon Twitter Icon LinkedIn Icon Email Envelope Icon You may also like",
+      "headings": []
+    },
+    {
+      "rank": 13,
+      "domain": "chase.com",
+      "url": "https://www.chase.com/personal/banking/education/budgeting-saving/how-much-should-i-have-in-emergency-fund",
+      "title": "Guide to Emergency Fund | Chase",
+      "word_count": 779,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://asset.chase.com/content/dam/unified-assets/photography/articles/primary/banking/ec_emergencyfund_08182020.jpg",
+        "alt": "",
+        "description": "High-quality corporate stock photo of smiling diverse people or modern home interiors.",
+        "type": "corporate_stock_people"
+      },
+      "article_images": [
+        {
+          "url": "https://www.chase.com/content/services/rendition/image.medium.jpg/unified-assets/photography/articles/primary/banking/ec_emergencyfund_08182020.jpg",
+          "alt": "",
+          "description": "Data visualization or financial chart graphic.",
+          "type": "graphic_design_data"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 14,
+      "domain": "youtube.com",
+      "url": "https://www.youtube.com/watch?v=3RXt7OED0fY",
+      "title": "Emergency Funds \u2013 How Much to Save and How to Build One",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 15,
+      "domain": "money.usnews.com",
+      "url": "https://money.usnews.com/money/personal-finance/saving-and-budgeting/articles/be-ready-for-the-unexpected-with-an-emergency-fund",
+      "title": "How Much Should You Save In an Emergency Fund? Here's ...",
+      "word_count": 0,
+      "scrape_status": "failed",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 16,
+      "domain": "citizensbank.com",
+      "url": "https://www.citizensbank.com/learning/building-an-emergency-fund.aspx",
+      "title": "How to Build an Emergency Fund",
+      "word_count": 1252,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.citizensbank.com/dam/f8715151-b269-414b-b2a3-b03c0110d9fd/gettyimages-1302474386.jpg-learning-article.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.citizensbank.com/assets/CB_resources/images/cbds-logos/logo-citizens__horz-green.svg",
+          "alt": "citizens",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.citizensbank.com/dam/6d647324-a894-452b-9743-b28400ef04b5/2478658_CK25_50-30-20_BudgetRule_VizCTA_WebDownsize.jpg",
+          "alt": "Ready to save. Whatever your goals are, we can help you find ways to live in the moment and still save for tomorrow. Follow the link to explore options",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.citizensbank.com/dam/b019a03d-380c-4998-bb5b-aec2005a5358/GettyImages_1082120546_Feature-Grid-NR.jpg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.citizensbank.com/dam/b47f4585-dd04-4a56-99f2-b13e0107d8fd/gettyimages-1147468136-feature-grid-nr.jpg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.citizensbank.com/dam/8981bfe1-27fb-4011-abba-aec2005a2787/GettyImages%201147468137_Featured%20Grid%20Non-Retina.jpg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 17,
+      "domain": "pnc.com",
+      "url": "https://www.pnc.com/insights/personal-finance/save/how-to-build-emergency-fund.html",
+      "title": "How to Build an Emergency Fund",
+      "word_count": 0,
+      "scrape_status": "failed",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 18,
+      "domain": "mywisely.com",
+      "url": "https://www.mywisely.com/financial-wellness/emergency-savings-fund/",
+      "title": "Emergency Savings Fund: How to Build One",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.mywisely.com/wp-content/uploads/2023/10/4yJla1kDDpA3qGLK-.png",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.mywisely.com/wp-content/uploads/2025/04/emergency-savings-primary-hero.png",
+          "alt": "Man smiling looking at phone",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.mywisely.com/wp-content/uploads/2024/04/wisely_blog_emergency_savings_fund_image1.png",
+          "alt": "Phone showing wisely savings envelope savings screen with category options.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.mywisely.com/wp-content/themes/tailpress/imgs/bulb.svg",
+          "alt": "Good idea icon",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.mywisely.com/wp-content/uploads/2023/10/xGzlZld80EbFo1j2.png",
+          "alt": "Illustrated hand holding cash savings.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.mywisely.com/wp-content/themes/tailpress/imgs/embellishment1.svg",
+          "alt": "Embellishment",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.mywisely.com/wp-content/uploads/2023/09/savings.png",
+          "alt": "Illustrated savings jar.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.mywisely.com/wp-content/uploads/2023/10/ko1Pe6tS2dEEkaGg.png",
+          "alt": "Illustrated piggy bank showing savings going in.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.mywisely.com/wp-content/themes/tailpress/imgs/arrow.svg",
+          "alt": "Go to link",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.mywisely.com/wp-content/uploads/2023/10/Br8ApD09FVMiFUiC.png",
+          "alt": "Illustrated calculator with wisely card and cash savings.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.mywisely.com/wp-content/themes/tailpress/imgs/author.png",
+          "alt": "Author avatar",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.mywisely.com/wp-content/uploads/2022/07/vertical_pillars.png",
+          "alt": "Vertical pillars drawing",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.mywisely.com/wp-content/uploads/2022/08/apple_app_store_badge.png",
+          "alt": "Get it on App Store",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.mywisely.com/wp-content/uploads/2024/02/google-play-badge.webp",
+          "alt": "Get it on Google Play",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.mywisely.com/wp-content/uploads/2022/08/logo-wisely-color.png",
+          "alt": "Wisely by ADP",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 19,
+      "domain": "bettermoneyhabits.bankofamerica.com",
+      "url": "https://bettermoneyhabits.bankofamerica.com/en/saving-budgeting/emergency-fund-tips",
+      "title": "How to Start Building an Emergency Fund & Why You Need One",
+      "word_count": 942,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://bettermoneyhabits.bankofamerica.com/content/dam/bmh/articles/how-to-start-building-an-emergency-fund-/How-to-start-building-emergency-fund-thumbnail-250x250.jpg.thumb.1280.1280.jpg",
+        "alt": "How to Start Building an Emergency Fund & Why You Need One",
+        "description": "High-quality corporate stock photo of smiling diverse people or modern home interiors.",
+        "type": "corporate_stock_people"
+      },
+      "article_images": [
+        {
+          "url": "https://bettermoneyhabits.bankofamerica.com/content/dam/bmh/article-list/relatedcontent-pay-down-debt-save-or-invest-268x135.jpg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://bettermoneyhabits.bankofamerica.com/content/dam/bmh/articles/how-to-start-building-an-emergency-fund-/How-do-i-start-an-emergency-fund-mobile.jpg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://bettermoneyhabits.bankofamerica.com/content/dam/bmh/product-cta/cta-spending-budgeting-tool.svg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 20,
+      "domain": "youtube.com",
+      "url": "https://www.youtube.com/watch?v=OCTXeCZodfM",
+      "title": "Smart saving strategies: How to build your emergency fund ...",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    }
+  ],
+  "battle_plan_generated_at": "2026-04-26T10:47:04.481621+00:00",
+  "competitors_analyzed_count": 7,
+  "battle_plan_method": "local_deterministic_agent_no_api"
+}

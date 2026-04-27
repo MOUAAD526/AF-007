@@ -1,0 +1,1190 @@
+{
+  "article_context": {
+    "angle": "Manual tracking (pen/paper/excel) builds financial awareness and discipline",
+    "pain_points": [
+      "Feeling broke despite tracking expenses",
+      "Struggling to save while young and independent",
+      "Difficulty translating tracking into actionable budgeting",
+      "Pressure from major fixed expenses (rent, car)"
+    ],
+    "top_social_questions": [
+      "How much of my paycheck should I save?"
+    ],
+    "dominant_emotion": "Confusion & Anxiety about money",
+    "serp_intent": "Searchers for \"save money at aldi\" are looking for targeted advice on minimizing grocery expenses specifically at Aldi stores, such as through deals, shopping hacks, or product strategies. The SERP intent is informational, dominated by articles, lists, and guides focused on Aldi-specific savings tips rather than general grocery or finance advice.",
+    "serp_title_pool": {
+      "primary": [
+        "How much can I save at Aldi? - Reddit",
+        "The Best Way To Save Money at Aldi, According to a Lifelong Aldi ...",
+        "The Cheat Sheet You Need For Saving Money At ALDI",
+        "7 Groceries That Are Way Cheaper at Aldi - Allrecipes",
+        "What are the best Aldi money savers? - Facebook",
+        "My 10 ALDI Essentials (I save A LOT of Money at Aldi) - YouTube",
+        "Hidden Ways to Save at Aldi, Walmart, and Other Discount Stores",
+        "28 Ways to Save Money at Aldi + The Best Deals",
+        "Does Aldi save money compared to larger stores? - Facebook",
+        "10 Smart Ways To Save Money At Aldi - Tasting Table",
+        "I Save on Groceries by Shopping at Aldi Using These Tips",
+        "How to Save the Most Money at Aldi - Cheapskate Cook",
+        "Is Aldi Cheaper? Aldi Stores Can Save You Money! - Living On A Dime",
+        "How much does the average person save by shopping at Aldi ...",
+        "Aldi Superfans: 8 Secrets for Saving $100 at Our Favorite Store",
+        "10 Smart Ways To Save Money At Aldi - AOL.com",
+        "10 Secret Ways To Save More Money At Aldi",
+        "Tips for How to Save on Groceries at Aldi (And What to Buy)",
+        "Is Aldi a grocery budget friendly store?? Let's find out ... - Instagram",
+        "Aldi grocery shopping tips for budget-friendly finds - Facebook"
+      ],
+      "long_tail": [
+        "The $1 Potato Side You Should Always Have in Your Pantry",
+        "Review of Aldi's canned potatoes for convenient meals - Facebook",
+        "The $1.05 Aldi Find So Delicious I Buy 6 at a Time - Simply Recipes",
+        "The $1.05 Aldi Find So Delicious I Buy 6 at a Time - Yahoo",
+        "Top 10 Cheap Foods UNDER $1.00 You Need to Buy Now at Aldi",
+        "Affordable and Delicious Family Dinners: Six Aldi Meals for Under $40!",
+        "another week of aldi groceries. keeping us fed without ... - Instagram",
+        "Aldi fans love canned potatoes: Here's how to use them",
+        "$100 Aldi haul is what I spent on groceries last week. That doesn't ..."
+      ],
+      "question": []
+    },
+    "paa_questions": [],
+    "related_searches": [
+      "Is Aldi really cheaper than Walmart",
+      "Why is Aldi cheap",
+      "Stores like Aldi near me",
+      "Aldi vs Publix",
+      "Why Aldi is bad",
+      "Aldi Weekly Ad",
+      "Is Aldi cheaper than Food Lion",
+      "ALDI coupons"
+    ]
+  },
+  "primary_keyword": "save money at aldi",
+  "competitors": [
+    {
+      "rank": 1,
+      "domain": "reddit.com",
+      "url": "https://www.reddit.com/r/aldi/comments/18erq36/how_much_can_i_save_at_aldi/",
+      "title": "How much can I save at Aldi? - Reddit",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 2,
+      "domain": "simplyrecipes.com",
+      "url": "https://www.simplyrecipes.com/aldi-how-to-save-money-11916181",
+      "title": "The Best Way To Save Money at Aldi, According to a Lifelong Aldi ...",
+      "word_count": 0,
+      "scrape_status": "failed",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 3,
+      "domain": "theintentionalmom.com",
+      "url": "https://www.theintentionalmom.com/save-money-aldi/",
+      "title": "The Cheat Sheet You Need For Saving Money At ALDI",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.theintentionalmom.com/wp-content/uploads/2017/07/cheat-sheet-for-aldi-FB.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.theintentionalmom.com/wp-content/uploads/2017/07/save-money-at-aldi.png",
+          "alt": "save money at aldi",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.theintentionalmom.com/wp-content/uploads/2015/11/hot-deal-alert.jpg",
+          "alt": "hot deal alert",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.theintentionalmom.com/wp-content/uploads/2015/10/8-must-know-tips-for-creating-a-budget-1.jpg",
+          "alt": "create budget",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.theintentionalmom.com/wp-content/uploads/2017/12/healthy-chicken-tortilla-soup.jpg",
+          "alt": "healthy chicken tortilla soup",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.theintentionalmom.com/wp-content/uploads/2018/10/less-stress-during-holiday-season.jpg",
+          "alt": "stress free christmas",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.theintentionalmom.com/wp-content/uploads/2015/11/15-simple-ways-to-save-on-heating-cooling.jpg",
+          "alt": "save heating cooling home",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/8bb1f1a60e01f5c7a06c7e2ec28e2ea6f9f8142d40ed7093fbe87f4e8b4423bc?s=60&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/3fde72a7509cf70f9650742b0979abc17aed26b6c6b9fee0ed88d52c654f70d8?s=60&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/ee080e5b360d21700737a2dfff172e6b9f9fac9ec6f40908233a5869337ee69e?s=60&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/04226a6091981080593754d4db06d7a74d2b8e5667594ce5dbf5ace52c01574c?s=60&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/4995fedadcea3c74bf9ea6a534ba2826fc2cf2d24d8ac60321ba0dcde0f9f94e?s=60&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/6fc2db9e9140862a5f8980774307d3b21c42aded2f90507b5a08674cb71ee7bf?s=60&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/dae152e3d3024bd83af8d8631312113cb5264d93eaf0bfd1b8d82567de2a938b?s=60&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/ad870d9adbe6e942b7235d5f8ff912ffd788a380bcb300bb31e9ff8cbd447a53?s=60&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 4,
+      "domain": "allrecipes.com",
+      "url": "https://www.allrecipes.com/aldi-groceries-cheaper-than-other-stores-11763564",
+      "title": "7 Groceries That Are Way Cheaper at Aldi - Allrecipes",
+      "word_count": 0,
+      "scrape_status": "failed",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 5,
+      "domain": "facebook.com",
+      "url": "https://www.facebook.com/groups/103128616455246/posts/24522944234047011/",
+      "title": "What are the best Aldi money savers? - Facebook",
+      "word_count": 0,
+      "scrape_status": "failed",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 6,
+      "domain": "youtube.com",
+      "url": "https://www.youtube.com/watch?v=gb739lOaJqM",
+      "title": "My 10 ALDI Essentials (I save A LOT of Money at Aldi) - YouTube",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 7,
+      "domain": "workmoney.org",
+      "url": "https://workmoney.org/money-tips/daily-savings/hidden-ways-to-save-at-aldi-walmart-and-other-discount-stores",
+      "title": "Hidden Ways to Save at Aldi, Walmart, and Other Discount Stores",
+      "word_count": 230,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://images.ctfassets.net/vs3l586m9r1f/AgmGLAkTqiS1Yt2Y15Ps8/d15e04fe8e80a9d294a1156526027ebc/hidden_ways_to_save_2.png?fm=webp&w=3840&q=75",
+        "alt": "Woman looks at her phone and pricing standing in a grocery store aisle",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://images.ctfassets.net/vs3l586m9r1f/uiq99ute1XEJIKi9TPbG1/e2e4e01cfa3d29b9d1a55b80df0aa466/hidden_ways_to_save_1.png?fm=webp&w=3840&q=75",
+          "alt": "A person is working on a list for the grocery store and there's a tip to go into the grocery store with a list and a plan to help you avoid impulse purchases.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://images.ctfassets.net/vs3l586m9r1f/4aMjxoXB1BvSi1L5mIBAhr/5f27093746d9adadf42307c28f7171e4/brett.jpg?fm=webp&w=3840&q=75",
+          "alt": "Brett Holzhauer",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://images.ctfassets.net/vs3l586m9r1f/13yzuw9TZxu6MugnylBqt6/744d4b8a7fce9a3be24de1c6f786345c/How_to_Shop_for_Groceries_on_a_Budget_FREEPIKNEEDCREDITLINE.jpg.webp?fm=webp&w=3840&q=75",
+          "alt": "Two people smiling while putting bananas and oranges in a mesh bag in front of other produce",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://images.ctfassets.net/vs3l586m9r1f/7jgs3ttPtnlqUc9N2d3ZjP/aa29831658e885ae291384dabb9b43a9/Shrinkflation__Are_your_groceries_shrinking_.jpg.webp?fm=webp&w=3840&q=75",
+          "alt": "A woman with dark hair looking down at a tablet while standing in a pantry with shelves of food items",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "Stores like Walmart, Aldi, and H-E-B have rocketed in popularity in recent years as shoppers aim to save more on groceries . From July to September 2024, discount grocery stores saw increases between 4-7% in foot traffic when compared to traditional grocery stores.These stores offer low prices, with even more insider tricks that can save you even more. Our goal at WorkMoney is to keep more money in your pocket on what may be one of your larger items in your monthly budget. Here\u2019s what you need to know about hidden ways to save more at discount grocery stores. Final Thoughts Discount grocery stores like Walmart, Aldi, and H-E-B have their own unique ways of continuing to pass on savings to their customers to keep them coming back. Additionally, go into the grocery store with a list and a plan to avoid impulse purchases. If your grocery budget is still stretched thin, you may consider looking into either the SNAP or WIC programs to see if there is additional help available for you and your family. Brett Holzhauer is a Certified Personal Finance Counselor (CPFC) who has reported for outlets like CNBC Select, Forbes Advisor, LendingTree, UpgradedPoints, MoneyGeek and more throughout his career. He is an alum of the Walter Cronkite School of Journalism at Arizona State. When he is not reporting, Brett is likely watching college football or traveling.",
+      "headings": []
+    },
+    {
+      "rank": 8,
+      "domain": "thehomespunhydrangea.com",
+      "url": "https://thehomespunhydrangea.com/ways-to-save-at-aldi/",
+      "title": "28 Ways to Save Money at Aldi + The Best Deals",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://thehomespunhydrangea.com/wp-content/uploads/2016/09/How-to-Save-Cash-at-Aldi.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://thehomespunhydrangea.com/wp-content/uploads/2017/08/The-Best-Aldi-Finds-to-Save-You-Money-512x1024.jpg",
+          "alt": "Best Deals at Aldi",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://thehomespunhydrangea.com/wp-content/uploads/2016/09/Aldi-Shopping-Tips.jpg",
+          "alt": "How to Save Money on Groceries",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://thehomespunhydrangea.com/wp-content/uploads/2016/09/index-300x300.jpg",
+          "alt": "index",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://thehomespunhydrangea.com/wp-content/uploads/2016/09/How-to-Save-Money-on-Eggs.jpg",
+          "alt": "How to Save Money on Eggs",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://thehomespunhydrangea.com/wp-content/uploads/2016/09/How-to-Save-Money-on-Milk.jpg",
+          "alt": "How to Save Money on Milk",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://thehomespunhydrangea.com/wp-content/uploads/2016/09/Aldi-Shopping-Secrets.jpg",
+          "alt": "Aldi Shopping Secrets",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://thehomespunhydrangea.com/wp-content/uploads/2016/09/How-to-Save-Money-on-Meat.jpg",
+          "alt": "How to Save Money on Meat",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://thehomespunhydrangea.com/wp-content/uploads/2016/09/What-to-Buy-at-Aldi.jpg",
+          "alt": "What to Buy at Aldi",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://thehomespunhydrangea.com/wp-content/uploads/2016/09/Best-Food-to-Buy-at-Aldi.jpg",
+          "alt": "Best Food to Buy at Aldi",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://thehomespunhydrangea.com/wp-content/uploads/2016/09/How-to-Save-Money-on-Coffee.jpg",
+          "alt": "How to Save Money on Coffee",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://thehomespunhydrangea.com/wp-content/uploads/2016/09/How-to-Save-Money-At-Aldi.jpg",
+          "alt": "How to Save Money At Aldi",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://thehomespunhydrangea.com/wp-content/uploads/2016/09/Ways-to-Save-Money-at-Aldi-Stores-480x1024.jpg",
+          "alt": "How to Save Money at Aldi",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 9,
+      "domain": "facebook.com",
+      "url": "https://www.facebook.com/groups/1191758186041194/posts/1362983042252040/",
+      "title": "Does Aldi save money compared to larger stores? - Facebook",
+      "word_count": 0,
+      "scrape_status": "failed",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 10,
+      "domain": "tastingtable.com",
+      "url": "https://www.tastingtable.com/2102086/smart-ways-save-money-aldi/",
+      "title": "10 Smart Ways To Save Money At Aldi - Tasting Table",
+      "word_count": 1950,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.tastingtable.com/img/gallery/10-smart-ways-to-save-money-at-aldi/l-intro-1771181266.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.tastingtable.com/img/gallery/10-smart-ways-to-save-money-at-aldi/intro-1771181266.jpg",
+          "alt": "Aldi sign on grey storefront",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.tastingtable.com/img/gallery/10-smart-ways-to-save-money-at-aldi/shop-at-aldi-first-thing-in-the-morning-1771181268.jpg",
+          "alt": "Inside of an Aldi store",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.tastingtable.com/img/gallery/10-smart-ways-to-save-money-at-aldi/base-your-meals-around-aldis-weekly-specials-1771181269.jpg",
+          "alt": "People shopping inside of an Aldi store",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.tastingtable.com/img/gallery/10-smart-ways-to-save-money-at-aldi/avoid-getting-aldis-premade-meals-too-often-1771181270.jpg",
+          "alt": "Prepared foods at Aldi store",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.tastingtable.com/img/gallery/10-smart-ways-to-save-money-at-aldi/take-advantage-of-deals-and-discounts-on-the-aldi-app-1771181271.jpg",
+          "alt": "Aldi USA app on phone",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.tastingtable.com/img/gallery/10-smart-ways-to-save-money-at-aldi/compare-prices-at-other-stores-before-assuming-that-aldi-is-always-cheaper-1771181272.jpg",
+          "alt": "Shoppers comparing prices of products at Aldi",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.tastingtable.com/img/gallery/10-smart-ways-to-save-money-at-aldi/search-the-bakery-section-for-sales-1771181273.jpg",
+          "alt": "Aldi bakery items lined up on wooden table",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.tastingtable.com/img/gallery/10-smart-ways-to-save-money-at-aldi/skip-the-aldi-finds-section-to-avoid-impulse-purchases-1771181273.jpg",
+          "alt": "Colorful Aldi Finds sign hanging from ceiling",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.tastingtable.com/img/gallery/10-smart-ways-to-save-money-at-aldi/remember-to-bring-your-own-shopping-bag-so-you-dont-have-to-buy-one-there-1771181274.jpg",
+          "alt": "Shopper's hand holding reusable bag full of green produce",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.tastingtable.com/img/gallery/10-smart-ways-to-save-money-at-aldi/take-advantage-of-aldis-generous-return-policy-1771181275.jpg",
+          "alt": "Person putting products on conveyer at Aldi checkout line",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.tastingtable.com/img/gallery/10-smart-ways-to-save-money-at-aldi/choose-aldi-store-brands-over-name-brands-1771181276.jpg",
+          "alt": "Person shopping in frozen food section at Aldi",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "Aldi is known for being one of the most inexpensive grocery stores , making it a great place for shoppers on a budget who're trying to pinch their pennies in the checkout line. But it's actually possible to overspend at Aldi just like it is at any other grocery store. Therefore, it's a good idea to learn about some Aldi-specific ways to save money at this popular grocery store. By shopping at a grocery store that's already known for its low prices and instituting some money-saving guidelines, you can keep your grocery bill low every month. We've done some digging \u2014 along with plenty of shopping at Aldi over the years \u2014 to deliver these helpful, money-saving Aldi tips. You may follow some of these guidelines already, but by employing all (or at least most) of them, you might just find that you can cut your grocery bill a little bit more this week. These are our favorite ways to save money at Aldi. Shop at Aldi first thing in the morning Aldi's prices are generally pretty low regardless of whether you can take advantage of sales or not, but it's even better if you can find the items that you already buy anyway marked down from their original price. If you do want to take advantage of these kinds of sales, then it's generally a good idea to shop at Aldi first thing in the morning \u2014 or as early as you can get there. That's because seafood and meat are all marked down at night before the store closes. If you visit Aldi early in the morning, you can snag these excellent deals and pay a lot less than you normally would for these high-cost groceries. Just keep in mind that these are usually items nearing their best-by date, so they're not foods that you want to keep in the fridge for an extended period of time before using them. Therefore, you should either use these products ASAP or freeze them (which is one of the best ways to keep bread fresh ) so you can utilize them in recipes later. Base your meals around Aldi's weekly specials Although you can find lots of foods at Aldi that are priced lower than they would be at other stores, you can and should still take advantage of deals at Aldi when you can. Checking out the store's weekly ad is a great way to figure out what items are on sale in any given week. Then, you can plan meals around those ingredients and stock up on sale-priced items that you may plan to use later in the month. Not only is this a smart way to save money, but it can also give you inspiration when you're doing your weekly meal-planning. If boneless, skinless chicken thighs are on sale for that week, for example, you may be inclined to make your favorite pan-fried chicken thigh recipe (or try a new one altogether). The same is true for fruits and vegetables, frozen meals, and packaged items. By opting for these ingredients over ones that are offered at full price, you can save a decent amount of money every shopping trip. Avoid getting Aldi's premade meals too often Every once in a while, it can be a good idea to pick up a prepared meal at Aldi. Fresh prepped meals can be helpful when you're on the go and you just need to grab a quick meal, and it's nice to have a frozen meal or two ( many of which are available for under $5 at the chain ) on hand so you have less of an excuse to grab takeout on your way home from work. But if you want to save money at Aldi, it's in your best interest to choose whole ingredients instead of already-prepped food. Although some of these meals can seem like they're pretty affordably priced, they generally cost significantly more per serving than it would cost for you to make the meal yourself. Again, it's good to find balance here \u2014 convenience foods have their time and place. If you have a particularly busy week, for example, opting for more prepped options can prevent you from spending money on food elsewhere. But if you're really trying to reduce the amount of money you're spending at Aldi every week, try sticking to those whole ingredients as much as possible. Take advantage of deals and discounts on the Aldi app If you only go to Aldi every once in a while, then it may not be worth it to download the store's app. However, if you shop at Aldi on even a semi-regular basis, then it probably makes sense to use the app if you're trying to save more money at the store. For starters, you can view the weekly ad through the app (which we already know can save you money), learning about potential price drops on items you already buy. This allows you to stock up on your favorites when they're at their best prices. Additionally, you can choose curbside grocery pickup or grocery delivery when you use the Aldi app to do your shopping. The store's app is an excellent way to save money at Aldi because you'll never be surprised by the final price at checkout, and you'll more easily avoid any impulse purchases. Whether you choose to shop in-store or directly on the app, having it on your phone might be the key to saving you more money on your next Aldi run. Compare prices at other stores before assuming that Aldi is always cheaper Aldi is widely known as a budget grocery store where shoppers go to find good deals, so it might feel safe to assume that just about anything you buy at the store is going to be cheaper there than it is anywhere else. While this is certainly true for many items Aldi sells (depending on where you live), it doesn't hold true with every single item. There are some ingredients and products at Aldi that may be available for lower prices at another grocery store in your area. Of course, these price differences will vary between regions and individual stores, but some Aldi-going Redditors claim they've found items like name brand products, meat and vegetables, and paper towels cheaper at other stores in their areas. Ideally, if you're really trying to save money on groceries, you'll compare options and prices between all of the stores in your area and then opt for the most affordable varieties available. the bakery section for sales There are tons of incredible baked goods to check out at Aldi , whether you're looking for a simple loaf of bread or a sweet start to your morning. But did you know that you can often find bakery items marked down, offering a better deal than the already competitive standard pricing? Often, items that are left on the shelf for a longer period of time will be marked down so the store can more easily sell them before their best by date. Sometimes, you can find mark downs of 50% or more, making these some of the best deals you can find at Aldi. Worried that these items are going to go bad before you get the chance to use them? Well, if you have space in your freezer, you can always freeze them until right before you're ready to use them. If you're trying to save money at Aldi, it only makes sense to take advantage of these kinds of deals. the Aldi Finds section to avoid impulse purchases Sure, the grocery store is the place you go to stock up on food for the week, but most grocery stores offer more than just food. Aldi isn't an exception. If you head to the Aldi Finds section, you'll find items like paint and other crafting items, jigsaw puzzles, toys, apparel, cooking tools, home decor, storage items, and more. Often, these items are offered at competitive prices, so if you're looking for some of these items anyway, buying them from Aldi can be a good way to save. However, if you're heading to Aldi for groceries and groceries alone, you're best off skipping the Aldi Finds section entirely. It's a place where it's easy to give into impulse buys of things you don't really need, which will ultimately needlessly have you spending more than you probably should. It may be difficult to resist the allure of the Aldi Finds section, but it is a good way to save money at this popular grocer. Remember to bring your own shopping bag so you don't have to buy one there It may be convenient to simply grab a disposable bag to carry your groceries home when you're at the grocery store. Unfortunately, it's not a super sustainable practice. And although you may assume paper bags are better than plastic, neither is a particularly good option if you're concerned about the environment. This is why we generally suggest remembering to bring your own reusable shopping bag to the grocery store. At Aldi, though, you have an incentive that goes beyond wanting to do better for the environment. If you don't bring your own bag, you'll have to buy one at checkout. Admittedly, the cost of the bag is going to be negligible for many shoppers, but it's still a good way to save money at the checkout line. And when you know that you're doing something good for the environment to boot, it's a no-brainer to bring your reusable bags with you on your next Aldi trip. Take advantage of Aldi's generous return policy One of the things we love most about Aldi is the store's extremely generous return policy known as the Aldi Twice as Nice guarantee . After all, it promises you'll you get your money back for a defective product, and the store will also replace the item \u2014 meaning you effectively get the item for free. Of course, you shouldn't abuse this policy; it's unethical to claim that perfectly good items you purchased are spoiled or otherwise defective just to get extra food for free. But when you actually do buy an item with issues, you shouldn't hesitate to take advantage of this return policy. There are a few things to keep in mind when you do try to use this policy, though. First of all, this policy only applies to food items \u2014 nothing else is eligible for this kind of return. It doesn't apply to alcohol national brands, either. And you can't just return something because you don't like it. Rather, there actually has to be something wrong with the quality of the item in question. Choose Aldi store brands over name brands If you're already a regular Aldi shopper, then you know that the store mostly stocks its own store brand products. This is one of the reasons Aldi is cheaper than so many other stores around \u2014 you're taking advantage of the low prices of these store brand products rather than opting for name brands at other stores. But even though Aldi mostly stocks its own products, you will find a few name brand products when you're there too. Shoppers who are really serious about saving money at Aldi should avoid those name brand products in favor of the store brand versions that Aldi offers. The good news is that most of those store brand products are actually pretty high-quality, and many can easily go toe-to-toe with the more recognizable name brands in terms of quality and taste. You might even come to find that you actually prefer Aldi's store brand items in a lot of categories.",
+      "headings": []
+    },
+    {
+      "rank": 11,
+      "domain": "businessinsider.com",
+      "url": "https://www.businessinsider.com/aldi-best-ways-save-money-grocery-shopping-budget",
+      "title": "I Save on Groceries by Shopping at Aldi Using These Tips",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://i.insider.com/675328cb8fbb2783ed3046a6?width=1200&format=jpeg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.businessinsider.com/public/assets/logos/placeholder.png",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 12,
+      "domain": "cheapskatecook.com",
+      "url": "https://www.cheapskatecook.com/how-to-save-the-most-money-at-aldi/",
+      "title": "How to Save the Most Money at Aldi - Cheapskate Cook",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.cheapskatecook.com/wp-content/uploads/2018/03/aldi-title-image-new-400x400.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://www.cheapskatecook.com/wp-content/uploads/2018/03/aldi-title-new-750x500.jpg",
+          "alt": "How to Save the MOST Money at Aldi - Aldi is a unique frugal shopping experience. The company focuses on providing quality products at rock-bottom prices. For the past 10 years, this grocery store chain fed my\u00a0family extremely well and saved us 30%-50%*on whole, real food. Here's how we save so much by shopping there. From CheapskateCook.com.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://www.cheapskatecook.com/wp-content/uploads/2018/03/save-money-aldi-pin-new-250x750.jpg",
+          "alt": "How to Save the MOST Money at Aldi - Aldi is a unique frugal shopping experience. The company focuses on providing quality products at rock-bottom prices. For the past 10 years, this grocery store chain fed my\u00a0family extremely well and saved us 30%-50%*on whole, real food. Here's how we save so much by shopping there. From CheapskateCook.com.",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 13,
+      "domain": "livingonadime.com",
+      "url": "https://www.livingonadime.com/save-money-shopping-aldi-store/",
+      "title": "Is Aldi Cheaper? Aldi Stores Can Save You Money! - Living On A Dime",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://www.livingonadime.com/wp-content/uploads/2010/02/fb-is-aldi-cheaper-save-money-aldi-stores.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://secure.gravatar.com/avatar/93a4cbf7f8b72cc7fa0f31f87251b4349b3fb8193f355e580944691f626107c9?s=48&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/06a59e4aba27a961f082fb1164c507c2b3858189ad1968146b40af1ecef27265?s=48&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/91d58bdc28b68479e5997aa9a4dd195bc622451f8e38ac600dc4624e4db2706d?s=48&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/d8346479974a36b781324125c6f951cd8dfff8dfa1331aee34d5bd96dc881c65?s=48&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/b2bd63bc5d9847238f6eebc9ea5eb3b5becf7bfdbe5d7d4195d8f4343ccf436b?s=48&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/73a509db71129c3e225a33ce3505776c93a05a5b3fede6ec7bb8c3d0f1b6ab10?s=48&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/7930d489467a6a7158304c02da1a3966212ac9200b3306e4da901f1e14ba2d0b?s=48&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/2fdcfa825a3ca2aae99db448d32f0eee4a71a83782fc043a34922cb21677a745?s=48&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/9cbbbd934ad8d21e6ece7a1180d2f47cb64929a5805cb2bd0ae411903830f316?s=48&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/f310d850862856340a7aaee503fbebd1623faed5b69cb03b1b5f76b4bd2aa354?s=48&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/90be670e6d6c3f00efa3cfd36b390c32c5a1ccb377e2d2df445dd11644f72a72?s=48&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/95a79d8262af76622d3507efaa7948745882d0bd394ecd5fff17ecbc1b203c60?s=48&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/3430df0b7396dadf76dcb03e4c5eacaaf18c54f6a05f0eb4d202d66b8201ad64?s=48&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/d2c6f8db3972fff4b5d4220e797b5a5ccbe8a50cbe9b0575177b3436346d83f8?s=48&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/a12c36f29a2fbf147d14200e155552b788fc543f348629ab39d75982e5675bb5?s=48&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/8b27c5c0efd26c407f114f9e1249ee74c412e2732a0c834711215fe9e85b83b0?s=48&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/0390fba7a7e9ce53959ddb7c502eae0b75f99509d251ed27b62846c1c42fc30c?s=48&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/1cffee129d7b3fe4066eaa4736c312bd929411c1d01f6965429f27be01131908?s=48&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/6b88c524eb3ab33e06e5e544350479641337db0a953836d2cdcd2dd958cfbe77?s=48&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/350cd57423bd03231cf25ba1c021c6d17a85b1ed38a26ceea7c083f9098a3bd4?s=48&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/4e777e22a7df82ca7e65258df2b4b88927b6c8dfd19188c1825522aff019f337?s=48&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/4bf535477a369eef592d0350538ab6402687239bbceafaba5494b1d077f91dfd?s=48&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/a8a38f08eecab97a137f42a3cdc65082ff7121f856eeb6cb3217d6f13fb63bb1?s=48&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/7a661ff8978b5ff81b2f2e68d699e5cf38cebbcd6ade71a592f8cfa75e4d6acf?s=48&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/1f1fc8a7e36d3b1651ac5b1c3922deea38efcf0cdaac9a51e97cc427c2d1c7e0?s=48&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/404143bb8b2209dabebbb651f478a3fd98e4f189785f6f69e5ca13ca04dc66f2?s=48&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/fdf11b3aa4754d0db245aaf03e77e94375889b041c8057a2ce84f4ddd68bbf36?s=48&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://secure.gravatar.com/avatar/95d8110f88635a029cf750ef5547604dd19ad5502d3dc1deed213d1e1b195565?s=48&d=mm&r=g",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 14,
+      "domain": "quora.com",
+      "url": "https://www.quora.com/How-much-does-the-average-person-save-by-shopping-at-Aldi-instead-of-a-normal-grocery-store",
+      "title": "How much does the average person save by shopping at Aldi ...",
+      "word_count": 0,
+      "scrape_status": "skipped",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 15,
+      "domain": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/news/aldi-superfans-8-secrets-saving-110042083.html",
+      "title": "Aldi Superfans: 8 Secrets for Saving $100 at Our Favorite Store",
+      "word_count": 465,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://s.yimg.com/ny/api/res/1.2/XMFeu7HFyM2Yx_u9IafxWg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/gobankingrates_644/c30abf2fc1058f1699654883fc2d1986",
+        "alt": "",
+        "description": "Generic editorial stock photo depicting common financial concepts like piggy banks or people with devices.",
+        "type": "editorial_stock_photo"
+      },
+      "article_images": [
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/KO1crwJ.ldECU2TcyqwjPQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI0MjtoPTQ4/https://s.yimg.com/os/creatr-uploaded-images/2023-09/ee6ba310-4dcd-11ee-abb6-d9983ff24d1b",
+          "alt": "GOBankingRates",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/62UtlugLnFXYTDqhzvKVVQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU0MA--/https://media.zenfs.com/en/gobankingrates_644/c30abf2fc1058f1699654883fc2d1986",
+          "alt": "Alan Morris / Getty Images",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "It\u2019s no secret that inflation has led to most of us becoming increasingly frustrated with the prices of basics. Many of us have seen our grocery bills go up, and seeing how expensive food has become can get discouraging. Also Find: 10 Cheap Aldi Brand Products Better Than the Name Brands Learn: 5 Ways To Elevate Your Finances Daily This is why it\u2019s more important than ever to find ways to save money on your grocery bill. One of the most common ways to reduce your grocery spending is to switch up where you shop. We contacted Aldi superfans to see how to save over $100 per grocery bill by shopping at Aldi . How an Aldi Superfan Saved Money \u201cWhen we found out that we were expecting a child, we knew we had to get serious about tightening our grocery bill, so we started checking out Aldi more,\u201d said Cadman Turner, a superfan of Aldi. Turner estimates that switching to Aldi has saved about $100 per grocery bill. Paulina, another Aldi superfan, shared how she saves money by shopping at Aldi by taking advantage of random sales. Paulina said, \u201cThey give you these spontaneous coupons and promos that are such a good deal if you know how to base your meals around these items.\u201d Turner added, \u201cInstead of shopping for brand names, we look out for similar products since we aim to save money.\u201d Turner said you might not always find your desired brand at Aldi, but you\u2019ll find the product you want. Turner also added that he takes advantage of special deals by loading up on staples and essential household items. The Aldi Savers are clearance items where you can save money on everyday products by loading up when you spot a tremendous deal. You never know what you can find on sale at Aldi. Discover: 10 Walmart Brand Grocery Items That Are Now Cheaper at Aldi How Can You Save Money at Aldi? After speaking with the Aldi superfans and reading through social media discussions, we found a few secrets to saving money at Aldi if you want to cut off at least $100 from your grocery bill. Shop the Aldi Stickers Many Aldi stickers could help you save money, as superfans are often on the lookout for yellow and red stickers throughout the store. The red stickers are used for items that have been discounted. Then there are Aldi Savers, which are clearance items that could be on your grocery list. Aldi superfans look out for the \u201cPrices So Low\u201d sticker because you may find meat or bakery items at heavily discounted prices since they\u2019re close to the expiry date. Finally, the sticker with the \u201cD\u201d on it indicates an item is being discontinued, so you may land a good deal.",
+      "headings": []
+    },
+    {
+      "rank": 16,
+      "domain": "aol.com",
+      "url": "https://www.aol.com/articles/10-smart-ways-save-money-132000519.html",
+      "title": "10 Smart Ways To Save Money At Aldi - AOL.com",
+      "word_count": 2007,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://s.yimg.com/ny/api/res/1.2/a8_jMpo5tNT43fidYaJCrQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzQ-/https://media.zenfs.com/en/aol_tasting_table_516/09c6b372f13b83adcfa9f146dc003077",
+        "alt": "",
+        "description": "Generic editorial stock photo depicting common financial concepts like piggy banks or people with devices.",
+        "type": "editorial_stock_photo"
+      },
+      "article_images": [
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/8gPZH1oZAqSOASwP_FTkGA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTM1MjtoPTgw/https://s.yimg.com/os/creatr-uploaded-images/2025-08/c046f4c0-7ec8-11f0-bf6f-f714ba348739",
+          "alt": "Tasting Table",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/_q7GEMm3Z2YsRX9MUKaQnw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTc-/https://media.zenfs.com/en/aol_tasting_table_516/d171eb28769d4f0538016fc99ad14d6b",
+          "alt": "Aldi sign on grey storefront",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/ivP8evVkqxUoNBD43b84_A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTc-/https://media.zenfs.com/en/aol_tasting_table_516/0f3aaf7478aee290e7cef0c6c8bd49ef",
+          "alt": "Inside of an Aldi store",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/V0TrMNtc3OJZA3tHjXc8og--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTc-/https://media.zenfs.com/en/aol_tasting_table_516/c5469d2687eb9685584577e74d60dcd9",
+          "alt": "People shopping inside of an Aldi store",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/7Cn9r6DtAJfb8T2_Tb0aFA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTc-/https://media.zenfs.com/en/aol_tasting_table_516/6445e10d1b5484309bf59cb3c6153720",
+          "alt": "Prepared foods at Aldi store",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/43JhNO52kVOagoZ5SMfi0w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTc-/https://media.zenfs.com/en/aol_tasting_table_516/dee2f6013944bee838f9ea6ce6f86d03",
+          "alt": "Aldi USA app on phone",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/IVjGhRLSDzXMRWXET2lEGg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTc-/https://media.zenfs.com/en/aol_tasting_table_516/37822bee46794eb3709035751433169d",
+          "alt": "Shoppers comparing prices of products at Aldi",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/2upClXAPBZeuf0K3.XzeLA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTc-/https://media.zenfs.com/en/aol_tasting_table_516/403dbe2d7323a076c31b3cac691ab030",
+          "alt": "Aldi bakery items lined up on wooden table",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/pSPDbtsBNSajzb60u94lVQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTc-/https://media.zenfs.com/en/aol_tasting_table_516/ee1294b277a788c3249395c44303b687",
+          "alt": "Colorful Aldi Finds sign hanging from ceiling",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/9QxdtWS6BOEQLfBP.DsAOQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTc-/https://media.zenfs.com/en/aol_tasting_table_516/ba351c79c5bd617daeea5c2d948e8136",
+          "alt": "Shopper&#39;s hand holding reusable bag full of green produce",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/.Kb6YJT00.4Cc2Y1tdjI_Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTc-/https://media.zenfs.com/en/aol_tasting_table_516/2c1d55704254d608643b55653df09ee3",
+          "alt": "Person putting products on conveyer at Aldi checkout line",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/g1wf4hy1_K6lGB5XpNraUw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTc-/https://media.zenfs.com/en/aol_tasting_table_516/dbb70959c7d1366fc8c02433f07ca1c3",
+          "alt": "Person shopping in frozen food section at Aldi",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://s.aolcdn.com/aoldotcom-releases/lazyload/blank.gif",
+          "alt": "Associated Press",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": "Aldi is known for being one of the most inexpensive grocery stores , making it a great place for shoppers on a budget who're trying to pinch their pennies in the checkout line. But it's actually possible to overspend at Aldi just like it is at any other grocery store. Therefore, it's a good idea to learn about some Aldi-specific ways to save money at this popular grocery store. By shopping at a grocery store that's already known for its low prices and instituting some money-saving guidelines, you can keep your grocery bill low every month. We've done some digging \u2014 along with plenty of shopping at Aldi over the years \u2014 to deliver these helpful, money-saving Aldi tips. You may follow some of these guidelines already, but by employing all (or at least most) of them, you might just find that you can cut your grocery bill a little bit more this week. These are our favorite ways to save money at Aldi. Read more: 8 Frozen Foods To Buy At Aldi And 8 To Shop at Aldi first thing in the morning Aldi's prices are generally pretty low regardless of whether you can take advantage of sales or not, but it's even better if you can find the items that you already buy anyway marked down from their original price. If you do want to take advantage of these kinds of sales, then it's generally a good idea to shop at Aldi first thing in the morning \u2014 or as early as you can get there. That's because seafood and meat are all marked down at night before the store closes. If you visit Aldi early in the morning, you can snag these excellent deals and pay a lot less than you normally would for these high-cost groceries. Just keep in mind that these are usually items nearing their best-by date, so they're not foods that you want to keep in the fridge for an extended period of time before using them. Therefore, you should either use these products ASAP or freeze them (which is one of the best ways to keep bread fresh ) so you can utilize them in recipes later. Base your meals around Aldi's weekly specials Although you can find lots of foods at Aldi that are priced lower than they would be at other stores, you can and should still take advantage of deals at Aldi when you can. Checking out the store's weekly ad is a great way to figure out what items are on sale in any given week. Then, you can plan meals around those ingredients and stock up on sale-priced items that you may plan to use later in the month. Not only is this a smart way to save money, but it can also give you inspiration when you're doing your weekly meal-planning. If boneless, skinless chicken thighs are on sale for that week, for example, you may be inclined to make your favorite pan-fried chicken thigh recipe (or try a new one altogether). The same is true for fruits and vegetables, frozen meals, and packaged items. By opting for these ingredients over ones that are offered at full price, you can save a decent amount of money every shopping trip. Avoid getting Aldi's premade meals too often Every once in a while, it can be a good idea to pick up a prepared meal at Aldi. Fresh prepped meals can be helpful when you're on the go and you just need to grab a quick meal, and it's nice to have a frozen meal or two ( many of which are available for under $5 at the chain ) on hand so you have less of an excuse to grab takeout on your way home from work. But if you want to save money at Aldi, it's in your best interest to choose whole ingredients instead of already-prepped food. Although some of these meals can seem like they're pretty affordably priced, they generally cost significantly more per serving than it would cost for you to make the meal yourself. Again, it's good to find balance here \u2014 convenience foods have their time and place. If you have a particularly busy week, for example, opting for more prepped options can prevent you from spending money on food elsewhere. But if you're really trying to reduce the amount of money you're spending at Aldi every week, try sticking to those whole ingredients as much as possible. Take advantage of deals and discounts on the Aldi app If you only go to Aldi every once in a while, then it may not be worth it to download the store's app. However, if you shop at Aldi on even a semi-regular basis, then it probably makes sense to use the app if you're trying to save more money at the store. For starters, you can view the weekly ad through the app (which we already know can save you money), learning about potential price drops on items you already buy. This allows you to stock up on your favorites when they're at their best prices. Additionally, you can choose curbside grocery pickup or grocery delivery when you use the Aldi app to do your shopping. The store's app is an excellent way to save money at Aldi because you'll never be surprised by the final price at checkout, and you'll more easily avoid any impulse purchases. Whether you choose to shop in-store or directly on the app, having it on your phone might be the key to saving you more money on your next Aldi run. Compare prices at other stores before assuming that Aldi is always cheaper Aldi is widely known as a budget grocery store where shoppers go to find good deals, so it might feel safe to assume that just about anything you buy at the store is going to be cheaper there than it is anywhere else. While this is certainly true for many items Aldi sells (depending on where you live), it doesn't hold true with every single item. There are some ingredients and products at Aldi that may be available for lower prices at another grocery store in your area. Advertisement Of course, these price differences will vary between regions and individual stores, but some Aldi-going Redditors claim they've found items like name brand products, meat and vegetables, and paper towels cheaper at other stores in their areas. Ideally, if you're really trying to save money on groceries, you'll compare options and prices between all of the stores in your area and then opt for the most affordable varieties available. the bakery section for sales There are tons of incredible baked goods to check out at Aldi , whether you're looking for a simple loaf of bread or a sweet start to your morning. But did you know that you can often find bakery items marked down, offering a better deal than the already competitive standard pricing? Often, items that are left on the shelf for a longer period of time will be marked down so the store can more easily sell them before their best by date. Sometimes, you can find mark downs of 50% or more, making these some of the best deals you can find at Aldi. Worried that these items are going to go bad before you get the chance to use them? Well, if you have space in your freezer, you can always freeze them until right before you're ready to use them. If you're trying to save money at Aldi, it only makes sense to take advantage of these kinds of deals. the Aldi Finds section to avoid impulse purchases Sure, the grocery store is the place you go to stock up on food for the week, but most grocery stores offer more than just food. Aldi isn't an exception. If you head to the Aldi Finds section, you'll find items like paint and other crafting items, jigsaw puzzles, toys, apparel, cooking tools, home decor, storage items, and more. Often, these items are offered at competitive prices, so if you're looking for some of these items anyway, buying them from Aldi can be a good way to save. However, if you're heading to Aldi for groceries and groceries alone, you're best off skipping the Aldi Finds section entirely. It's a place where it's easy to give into impulse buys of things you don't really need, which will ultimately needlessly have you spending more than you probably should. It may be difficult to resist the allure of the Aldi Finds section, but it is a good way to save money at this popular grocer. Remember to bring your own shopping bag so you don't have to buy one there It may be convenient to simply grab a disposable bag to carry your groceries home when you're at the grocery store. Unfortunately, it's not a super sustainable practice. And although you may assume paper bags are better than plastic, neither is a particularly good option if you're concerned about the environment. This is why we generally suggest remembering to bring your own reusable shopping bag to the grocery store. At Aldi, though, you have an incentive that goes beyond wanting to do better for the environment. If you don't bring your own bag, you'll have to buy one at checkout. Admittedly, the cost of the bag is going to be negligible for many shoppers, but it's still a good way to save money at the checkout line. And when you know that you're doing something good for the environment to boot, it's a no-brainer to bring your reusable bags with you on your next Aldi trip. Take advantage of Aldi's generous return policy One of the things we love most about Aldi is the store's extremely generous return policy known as the Aldi Twice as Nice guarantee . After all, it promises you'll you get your money back for a defective product, and the store will also replace the item \u2014 meaning you effectively get the item for free. Of course, you shouldn't abuse this policy; it's unethical to claim that perfectly good items you purchased are spoiled or otherwise defective just to get extra food for free. But when you actually do buy an item with issues, you shouldn't hesitate to take advantage of this return policy. There are a few things to keep in mind when you do try to use this policy, though. First of all, this policy only applies to food items \u2014 nothing else is eligible for this kind of return. It doesn't apply to alcohol national brands, either. And you can't just return something because you don't like it. Rather, there actually has to be something wrong with the quality of the item in question. Choose Aldi store brands over name brands If you're already a regular Aldi shopper, then you know that the store mostly stocks its own store brand products. This is one of the reasons Aldi is cheaper than so many other stores around \u2014 you're taking advantage of the low prices of these store brand products rather than opting for name brands at other stores. But even though Aldi mostly stocks its own products, you will find a few name brand products when you're there too. Shoppers who are really serious about saving money at Aldi should avoid those name brand products in favor of the store brand versions that Aldi offers. The good news is that most of those store brand products are actually pretty high-quality, and many can easily go toe-to-toe with the more recognizable name brands in terms of quality and taste. You might even come to find that you actually prefer Aldi's store brand items in a lot of categories. Want more food knowledge? to our free newsletter where we're helping thousands of foodies, like you, become culinary masters, one email at a time. You can also add us as a preferred search source on Google. Read the original article on Tasting Table .",
+      "headings": []
+    },
+    {
+      "rank": 17,
+      "domain": "truemoneysaver.com",
+      "url": "https://truemoneysaver.com/money/spend-less/secret-ways-save-more-money-aldi/",
+      "title": "10 Secret Ways To Save More Money At Aldi",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://truemoneysaver.com/wp-content/uploads/2020/02/Aldi-Secret-Tips-New-Main-Feat.jpg",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://truemoneysaver.com/wp-content/uploads/2020/02/Aldi-Secret-Tips-New-Main-Feat-450x450.jpg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://truemoneysaver.com/wp-content/uploads/2015/08/Save-at-ALDI-1-Pin-434x650.jpg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://truemoneysaver.com/wp-content/uploads/2015/08/Aldi-Bread.jpg",
+          "alt": "aldi shopping tips",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://truemoneysaver.com/wp-content/uploads/2018/01/Shopkick-Aldi-268x450.jpg",
+          "alt": "aldi shopping tips",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://truemoneysaver.com/wp-content/uploads/2015/08/Aldi-Bags.jpg",
+          "alt": "aldi shopping tips",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://truemoneysaver.com/wp-content/uploads/2020/03/Debt-FREEbie.png",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://truemoneysaver.com/wp-content/uploads/2015/08/Aldi-Trash-Bags-Barcodes.jpg",
+          "alt": "aldi shopping tips",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://truemoneysaver.com/wp-content/uploads/2015/08/Aldi-Double-Guarantee.jpg",
+          "alt": "aldi shopping tips",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://truemoneysaver.com/wp-content/uploads/2015/08/Aldi-Parm-2.jpg",
+          "alt": "aldi shopping tips",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://truemoneysaver.com/wp-content/uploads/2015/08/Parm-Comparison.jpg",
+          "alt": "Parm Comparison",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://truemoneysaver.com/wp-content/uploads/2015/08/Aldi-Brands.jpg",
+          "alt": "aldi shopping tips",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://truemoneysaver.com/wp-content/uploads/2015/08/Aldi-Shelf-Stock.jpg",
+          "alt": "aldi shopping tips",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://truemoneysaver.com/wp-content/uploads/2015/08/Aldi-Carts.jpg",
+          "alt": "aldi shopping tips",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://truemoneysaver.com/wp-content/uploads/2017/02/Dollar-Bills-Small.jpg",
+          "alt": "aldi shopping tips",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://truemoneysaver.com/wp-content/uploads/2015/08/Aldi-Store.jpg",
+          "alt": "aldi shopping tips",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://truemoneysaver.com/wp-content/uploads/2020/02/Secret-Tips-ALDI-Pin-2-a.jpg",
+          "alt": "aldi shopping tips",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://truemoneysaver.com/wp-content/uploads/2020/02/Best-Buys-At-ALDI-New-Main-Feat.jpg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://truemoneysaver.com/wp-content/uploads/2019/11/Frugal-Grocery-Shopping-New-Main-Feat.jpg",
+          "alt": "",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 18,
+      "domain": "thekrazycouponlady.com",
+      "url": "https://thekrazycouponlady.com/tips/store-hacks/save-money-at-aldi",
+      "title": "Tips for How to Save on Groceries at Aldi (And What to Buy)",
+      "word_count": 0,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "https://content-images.thekrazycouponlady.com/nie44ndm9bqr/4jdiwQkL08i1A63kAuEblV/bbeb52d73ad0d2c88e892e776b658fe8/aldi-hacks-shop-smarter-save-money-weekly-ad-1664898888-1664898888.jpg?fit=max&auto=format",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [
+        {
+          "url": "https://content-images.thekrazycouponlady.com/nie44ndm9bqr/NUQ405OgouGFsmVmp4MwU/38d2fc26be5b63e67f1602f5b933d686/amazon-sensodyne-whitening-toothpaste-pronamel-em-nov-2022-1669839599-1669839599.jpg?w=148&fit=max&auto=format&q=90",
+          "alt": "amazon-sensodyne-whitening-toothpaste-pronamel-em-nov-2022",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://content-images.thekrazycouponlady.com/nie44ndm9bqr/NUQ405OgouGFsmVmp4MwU/38d2fc26be5b63e67f1602f5b933d686/amazon-sensodyne-whitening-toothpaste-pronamel-em-nov-2022-1669839599-1669839599.jpg?w=260&fit=max&auto=format&q=90",
+          "alt": "amazon-sensodyne-whitening-toothpaste-pronamel-em-nov-2022",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://content-images.thekrazycouponlady.com/nie44ndm9bqr/3SuT2kNJQLXkbswWDhhNqq/d0514aeef6e4f349a9d86a72111c59b5/amazon_logo.png?w=20&fit=max&auto=format&q=90",
+          "alt": "amazon store logo",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://content-images.thekrazycouponlady.com/nie44ndm9bqr/4YrFNKsejkBjGYvWX46d9O/324c64d0e77118a520e1d92e6f7d603f/Copy_of_Feature_Image_-_Max_Shape_-_Single_Product_-_2026-03-31T203921.649.png?w=148&fit=max&auto=format&q=90",
+          "alt": "Ceiling Fan B0G2S5RTRK",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://content-images.thekrazycouponlady.com/nie44ndm9bqr/4YrFNKsejkBjGYvWX46d9O/324c64d0e77118a520e1d92e6f7d603f/Copy_of_Feature_Image_-_Max_Shape_-_Single_Product_-_2026-03-31T203921.649.png?w=260&fit=max&auto=format&q=90",
+          "alt": "Ceiling Fan B0G2S5RTRK",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://content-images.thekrazycouponlady.com/nie44ndm9bqr/2FdPpCqYT9vEgW3ip6ivxx/b094ab38019c2177ab88010adcc5d583/Portable_Steam_Sauna_Tent.png?w=148&fit=max&auto=format&q=90",
+          "alt": "Portable Steam Sauna Tent B0FQ5BDRKH",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://content-images.thekrazycouponlady.com/nie44ndm9bqr/2FdPpCqYT9vEgW3ip6ivxx/b094ab38019c2177ab88010adcc5d583/Portable_Steam_Sauna_Tent.png?w=260&fit=max&auto=format&q=90",
+          "alt": "Portable Steam Sauna Tent B0FQ5BDRKH",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://content-images.thekrazycouponlady.com/nie44ndm9bqr/p69Sj5kI9DncZOBjqTAAM/a641e68aac8aca6cdf6af06008d33ede/Walmart-Scoop-womens-dresses-1.png?w=148&fit=max&auto=format&q=90",
+          "alt": "Walmart Scoop women's dresses",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://content-images.thekrazycouponlady.com/nie44ndm9bqr/p69Sj5kI9DncZOBjqTAAM/a641e68aac8aca6cdf6af06008d33ede/Walmart-Scoop-womens-dresses-1.png?w=260&fit=max&auto=format&q=90",
+          "alt": "Walmart Scoop women's dresses",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://content-images.thekrazycouponlady.com/nie44ndm9bqr/6jgEhCwAWtpZAjqOolBecd/0eb46148e294d4d2e790231123c6e224/image.png?w=20&fit=max&auto=format&q=90",
+          "alt": "walmart store logo",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://content-images.thekrazycouponlady.com/nie44ndm9bqr/5N5AWiUVN12RoJGl35HkJ0/7137c6ab3863f19efc3b1bb02c07e49a/amazon-repair-kit-B0FN4BM2VH.jpg?w=148&fit=max&auto=format&q=90",
+          "alt": "a woman using a repair kit",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://content-images.thekrazycouponlady.com/nie44ndm9bqr/5N5AWiUVN12RoJGl35HkJ0/7137c6ab3863f19efc3b1bb02c07e49a/amazon-repair-kit-B0FN4BM2VH.jpg?w=260&fit=max&auto=format&q=90",
+          "alt": "a woman using a repair kit",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://content-images.thekrazycouponlady.com/nie44ndm9bqr/jlk3D3gGfQB3TCmalY4bK/bde3707b4702a405977d45e9150f6a61/air_duster.png?w=148&fit=max&auto=format&q=90",
+          "alt": "air duster being used at desk",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://content-images.thekrazycouponlady.com/nie44ndm9bqr/jlk3D3gGfQB3TCmalY4bK/bde3707b4702a405977d45e9150f6a61/air_duster.png?w=260&fit=max&auto=format&q=90",
+          "alt": "air duster being used at desk",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://content-images.thekrazycouponlady.com/nie44ndm9bqr/23GHpyPGSceo6RBiUgfeZp/b95ab67ad97c1d50bdaa11543141db49/amazon-artificial-flowers-B0GGQVVR46.jpg?w=148&fit=max&auto=format&q=90",
+          "alt": "artificial flowers hanging outdoors",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://content-images.thekrazycouponlady.com/nie44ndm9bqr/23GHpyPGSceo6RBiUgfeZp/b95ab67ad97c1d50bdaa11543141db49/amazon-artificial-flowers-B0GGQVVR46.jpg?w=260&fit=max&auto=format&q=90",
+          "alt": "artificial flowers hanging outdoors",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://content-images.thekrazycouponlady.com/nie44ndm9bqr/UjQ3RzzMETcVpY14QO20H/de1debde7195d1d2627d5fe684f21ba8/sunrise_alarm_clock_Amazon.png?w=148&fit=max&auto=format&q=90",
+          "alt": "sunrise alarm clock by books on desk",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://content-images.thekrazycouponlady.com/nie44ndm9bqr/UjQ3RzzMETcVpY14QO20H/de1debde7195d1d2627d5fe684f21ba8/sunrise_alarm_clock_Amazon.png?w=260&fit=max&auto=format&q=90",
+          "alt": "sunrise alarm clock by books on desk",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://content-images.thekrazycouponlady.com/nie44ndm9bqr/597yIJgbMxXFQeU0abMACD/0e2261b10626a61fc79451a8df7a9c85/Walmart-Hanes-mens-no-show-socks-20-pack.png?w=148&fit=max&auto=format&q=90",
+          "alt": "Walmart Hanes men's socks",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://content-images.thekrazycouponlady.com/nie44ndm9bqr/597yIJgbMxXFQeU0abMACD/0e2261b10626a61fc79451a8df7a9c85/Walmart-Hanes-mens-no-show-socks-20-pack.png?w=260&fit=max&auto=format&q=90",
+          "alt": "Walmart Hanes men's socks",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://content-images.thekrazycouponlady.com/nie44ndm9bqr/6flxPaen6wJBxfJNmAhVQS/0799dac5ee8df47b29ad7e11bf17f20b/Dual_Handheld_Shower_Head_Combo.png?w=148&fit=max&auto=format&q=90",
+          "alt": "Dual Handheld Shower Head Combo B0CGM26Y8B",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://content-images.thekrazycouponlady.com/nie44ndm9bqr/6flxPaen6wJBxfJNmAhVQS/0799dac5ee8df47b29ad7e11bf17f20b/Dual_Handheld_Shower_Head_Combo.png?w=260&fit=max&auto=format&q=90",
+          "alt": "Dual Handheld Shower Head Combo B0CGM26Y8B",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://content-images.thekrazycouponlady.com/nie44ndm9bqr/7gTflQCm6AheNT1idd86nd/a261f0cd63a36b289bd9cbb7e56b53ff/Amazon_Apple_AirPods_4_2024.png?w=148&fit=max&auto=format&q=90",
+          "alt": "a pair of Apple AirPods 4",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://content-images.thekrazycouponlady.com/nie44ndm9bqr/7gTflQCm6AheNT1idd86nd/a261f0cd63a36b289bd9cbb7e56b53ff/Amazon_Apple_AirPods_4_2024.png?w=260&fit=max&auto=format&q=90",
+          "alt": "a pair of Apple AirPods 4",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://content-images.thekrazycouponlady.com/nie44ndm9bqr/4BG22AMsTNpTUupShZeKXV/002e5af6e140395494ae3839f7544c55/walmart-Kvell-Foldable-Collapsible-Storage-Chest-header-kcl.jpg?w=148&fit=max&auto=format&q=90",
+          "alt": "2 lifestyle images of kids storage chests in bedroom settings",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://content-images.thekrazycouponlady.com/nie44ndm9bqr/4BG22AMsTNpTUupShZeKXV/002e5af6e140395494ae3839f7544c55/walmart-Kvell-Foldable-Collapsible-Storage-Chest-header-kcl.jpg?w=260&fit=max&auto=format&q=90",
+          "alt": "2 lifestyle images of kids storage chests in bedroom settings",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://content-images.thekrazycouponlady.com/nie44ndm9bqr/6fVCBB53F0vNyybiioDYB9/8722e9c261e449542febb123470e1dd9/eos_Cashmere_Oil.jpg?w=148&fit=max&auto=format&q=90",
+          "alt": "eos Cashmere Oil",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://content-images.thekrazycouponlady.com/nie44ndm9bqr/6fVCBB53F0vNyybiioDYB9/8722e9c261e449542febb123470e1dd9/eos_Cashmere_Oil.jpg?w=260&fit=max&auto=format&q=90",
+          "alt": "eos Cashmere Oil",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://content-images.thekrazycouponlady.com/nie44ndm9bqr/3Y5xjaksxmzF0jcANxIlsb/cdbf9ccb42a28aef8183f1ee08cde96e/amazon-pet-day-meow-mix-cat-food-1.jpg?w=148&fit=max&auto=format&q=90",
+          "alt": "a bag of cat food next to an Amazon box",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        },
+        {
+          "url": "https://content-images.thekrazycouponlady.com/nie44ndm9bqr/3Y5xjaksxmzF0jcANxIlsb/cdbf9ccb42a28aef8183f1ee08cde96e/amazon-pet-day-meow-mix-cat-food-1.jpg?w=260&fit=max&auto=format&q=90",
+          "alt": "a bag of cat food next to an Amazon box",
+          "description": "Relevant topical stock photo or graphic supporting the article content.",
+          "type": "generic_stock_or_graphic"
+        }
+      ],
+      "body_text": null,
+      "headings": []
+    },
+    {
+      "rank": 19,
+      "domain": "instagram.com",
+      "url": "https://www.instagram.com/reel/DTyV4qoCJMN/",
+      "title": "Is Aldi a grocery budget friendly store?? Let's find out ... - Instagram",
+      "word_count": 1,
+      "scrape_status": "success",
+      "hero_image": {
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKAAAACgCAYAAACLz2ctAAAtXklEQVR4AezBAQ0AAAjAoNu/tDl0QAAAAAAAAG9NRy179gDrX9NdcfyzZ8793b9r27Zt2wqqoHYb1rYdt1Hj1AhqI6jdPrafizO7uHOSnfMi+uvFTlZm73XO9TdrZnK/TB6/Ctef5jqudm4MbgTXBofGUXAYHJaLvq/GUee4GR2tGz2tndaa80a2hWhAdCPCiAA0dBmBBQ1bH4BONqFJi8ggm6FrGWRnXKwxmrHS1kWsYYyDOBucdLk27Sycnod2cixOhzw7Fs8NnljFk8PZ01fFs087fRzPegmt+HP3uNvrF7325eD1lu6t1/SW2bxWX71x8iqRDskRjoNlqk9FoyW9yUjZQvYwgmxdIqMRzRoNNuiEjmYIIqQmNQQaltJvft/gFLnNDX3OIbLJ7FKIPBIjZAbTjzUYTeairawjGOToYm2chHG6cIa1y8eSe7r492Y8EM7/7Ez7rzf1mg8j3eUVKd1N9ZVXvUY786qteUfpnYKPkN5QuhaJokgCEEUNCbM34QlDQxhCCpu/gjb9xtTQUOHr6ucMCzbfXKN4Md+pMIbQ6rtzbnLO1Ln21QspdjPDBaT53138NeN3mvO/Pji+7xW95n04eTmAu/o8Lr3qVW++nnmj1ny08B6R3ly6DJEYhLnu4bPv9zCOCVAW+NjgaxID6QghN1AnHEOvMBTgluLt4eo28KI+n37Od7MAOHQNSQGvzb4CGGWtgDLUPlg79zTrn5G/162//4z1P/Cwu6DiHv/gTtYPXXnzj8nwYdL7S6/b0qtFIIkJm6TC15JaHQqE6h+spF2Xcs6b39VkTItkex/toi/gbT52oDW0CZitl5svsGy9nE5qWMQOMKImq6SAW1O5wvjCNbbPfTqs/975S/JXbzj/VTxyhxPw79yJ+porb/lOwee15qMNryNdikQWgCaEkpizCWAgC2hKH1BTrEC1zNSLDawCYNsDKAuYUYBlQYgKjIOgAlfTUmyfRxdy9il1sYdOg33i1c+/B466Fo0pQnIxn+L+kP/cjB++4t9+Eyd3CMBfdbvqy33U8ZVr3uucL4z0icHV2GCaYBlAywLclKyAAYGOKGogS/LVs9+qTfBM4FqBsU3IzHWhwBuipGDIOdNFScU9gAG7rbSeA4HYVAGsniFEAW0gNCkk068/nwmhzZt92a7PG3966vQHw8kf4H63seJpf+p21Ld4t9d03cdKXxe8uQRiEGqylXMeYi3PVQBfeGLsz0nNqtU0nOnX59z3aWctZ7cJZwGws9/6LKKAVS8eKbQdTKFJrSTh5sf0a5rZIBUlybBPPpA7GPdKrAIqjFKzPtT4le78m/EftzEB/9KtrPBO8Q3XvLX0tcJH49UlMWjq9nohaGP6VfUP/GLUqYmmGxiaUdJt1LSbIG694pkfF/UWLMo2u78Zd20DYoNM7OA0e+X2awO39HsQ61wvUknxxsTa7JXkI6zswdxAtEr5W+SPd9d/43ZsywvX3cr62uveE98ZvLdwsMHUaImYwAUxoIJHY5cEBKAVlWQoyTV0Y65ZUs0GqAWBmLAu5VmBtMC9hzxmHxobQOy2zQ3YCiepUdIaCPbPZIFYgc8ujbMmIxW0zdGo6VfW0OQH4fV48rVYfgHP3OIE/Bu3or7a218+vuGTpZ8P84JRoAJoFbpBjN35zy79CgTFL/2oAAprmdOypSETsGGRYurIoKRdLynSRAVYF0xvQlWSDxtYWgEidhenALETkPXzU8BUkpDcz4LiZz0DCuaawpBztUlOnf8SR1+Mh29hAp7dgvPeu1w5vILPaekbpEsRBCJQt9S5GrsLRdIrpFDhm4K2B3N3QyypNZUl8WYKTmjJAtiw1PcpICsA24ShFcBil3pRe+qtlro9S9if7+TuZ8MuxVRApdwl6/Y5kqKo0FH6+DTO/pHTn8F/3RIAb3bCfu+rvv/10xOfsaRvD149AogoIGUBcqWNDcjZ7858ClgNSt/ZATGmN0aT502eLPL5Lk/TOFt4Pi78sRgZcjTySGaTSbrw6bJAPdLs65bbNGFomkZJGtGY7wUiJkzRBTQyQosmG9nJQ4hLF2seB5dCLEFLIwJ250AAsgK+AwwGCLn1yJ0A9R3rVxOvyvrt+O9bAOBwM+uZUx/bYsKHTZIAtCAqaBt8Zd4lWvXOgoeDexb+Jbmn8dTCk8RzXTzfrKchnj/iJLVnunyuy/O0JrkGo4tMq8vkKZCLwBlIHEgO4OAUADFdDhKBVIuDI8Cp0zhsroMzZ3E014OG8yDi3HkPrR85tHB6vFquNC43ebxwPOQxcSXEFdZXaNorhnxL8nXxWuRlYBQIYZQ+i/aVRYGBuIxP4+ghjn4Yj7iJFelP3Kz6thvv/m5n/FGjB5Rz3P4/Gm0q7NOvbquexn0L/xn8Ef7mwJ/8J/dgeHkB+Cb/8uosb8r6/ng3vBnj1cnXICuMU1l6Zc6ptXjrXP0wH/h1OL/r/hf8Lde8re6HpA+NknaSmDJoCmQD6/RMKP+nvbsAsuS4En7/y6y63T2sscVMRsmklekz4zIzM++alzf8DIvGb3ntZd41My2ZmS1ZMglHjMPdfavyPLobcSNj6k231Hem50X/I9JZWdcjaWb+fbLOqcy8RMMefBIfSfxnw6dX/iC8wU+5fjMH70d5IL6HuBf9mUQzLeNEsqlWKumgn5a2p3sq/msNBXznGsj31BOb7EWJ74iwJcHUtBpBiinJpt9wFGIiZmY586+JdxY+cCs3YNkGdyMyfuJ4tj6A7htI3045qxKuuu6hjnwIdCifoPwsPrZGAr7d3eGnfc3o9O2+PfOX2JICpoUjBYFcJRmCpp+IyheDP5znjTu4Ab01YYPvJHHJiYzOZPnFlMfhUBJOtXock9YvEf9G+yzctgYC/oe7w28d96THN+HvU3FGSvifCAf/IyDERLhCiknrydyY+MfEi3GzmbLBz/jsFnwH/dOIB1JawnSjryJifd9BumfR/A2W3A3auzvDjXrflzgjBSYt+Z+ePB0Ro46Cbiv8Pv4y2GfmbPCnHrj/5/h7Pn496bnEo1FFvPj/aFA2kX6Cuffi80ctAr5k+5MeGsV7EpvS/0gGUMiTPiFNop9g8hy4C7/1U7wSYYOjwCfuS/+PlK869FQcA9lxZ3L9J/gFd4OWPe4qUfxEEzZJ1AJCE5QgIwc5kXqasBsvnecf/4GwwVHiqy7/QR/6Tfwu8WCmZQMD2XEgkL6XO5+Dxbsh4G6snpct/MgT5nhiQhRSIiEVpmUc1e96w0147k/wFwgbHGUe+Q4+fAfxvykPIzI9oAy0MOnvwfZn8u2/h7B6pLB6Xi3mbtrs5Sn5sQgLSbWkatKmi8uTscQf7eZXcNCas8Ezvbvl8QXFqnj3D5BeTjkeKAh0iCEBUT7M8ndil9Wj5R+tlju2uE/LIxULkKaXyBcgFUzX/oAvBr+zc83k2+BHvLvl+LPIj6C7F8edxqfvIK4gfwSfsiJueS0n3Jf4jfr57zDlmvNpvwZ/afVoaa2W1Dmn4XyJBIjpwnKaqgGaXBN4GW60hmxwwq9RvonxaaQt2ExZxh7KbYxfQ/c3uNowOO0gy39M/AJlx7CEdYISx1Eexc5/wNLqBbTdavhLX3vSiG+IsC0FEUAytZOtLsEg8erCW91tNvh+Ep+9AC8mvoaAaTFaYjNOJi6g+S76X2P5nVg0zI2MX0D8LjFHDwiUqkFB1+Iibn0wPrJ6Ad1qNcxxai4eHQGYFhASqQDQIrE38/pXcYM1YEPAz56G36U8GXWNDuoodT/S8xjdjvcxDPvfTvP9lItI9T8HtYSBOBfn88MfRaxSwB9cnYCNe0fvPEFKlCDXElKv5/vomA98G70N7hbf4/072fKDpKcQLQWgFqNuD6a8BA+HYfIV9K+iPIho6BEDq2QAbKW/iL99K+5cpYB/azXk/kceHswlCDIyYmB7IQ4kPnEJ11kDNthxOuMfJOZRiRCAGGpfRX4gPmuQrUvc8UnKtTi7WpwKCEBfCT4+EXfOdEn+HF8TyAAIqASckvLaxFsuplgDNlj8avL9KIgB6aD+HEpD+Wme8AsIg/zrpcxfQpxFn+hR/3N7FCT0iIfhFHxxdQKugjf7yc0tZ0NGVPIFciUjri9cYo3YoFwwLF2soJUL+MBW7DXI99zAqy8jPYV+nnoKdqhVMlspZ8HMIuAmzgo2FWRAqabfDIAEfBx3WCM2iJOGhTPdDxSO02b27MCwgN4epI8xvgWnD5dkahnLg/H3M9sTMuK+BRCVcBmBaRqM+Yg1ZINYImCVURCgD+bGDsuey4jbiNOHM2G15OfBzARsuH9jOPpFJR+6OAYFfLzntzxxJ8sn0J1EeybpfOJsnEyzhbSVmCN1OEDsJe0hfYX8JdI1uIXxjYx2Y681IT6PbyENyFeqe10lpi/x/lscnks478vEg6YEq/95VSJS7s0zE2IVAj7dSpnztJNV0tXPgYXpJOS2TexyjPBwb93JwoU88t4cfCjNA0kX0G8nIwH6gTO5AgkF+SBxC6P3Uz5N8wl8BVe7W5QPkfZQtquj23Ckmr73bi4qVsRtV2LgmY9DTM1n8+LN2L8KAV9sJVzqOXMjzquTj4I8rPzV1jkXeXXD9nPIT2busXQXEWeQNtNVUqmrnJWMaToz3EQ6k/77SN9FXE+5Fm+ifT+nfBKLVs1VHye/nfLdpAEpoK8kgbiNxTdaMeVSkuGl+lGPF0jHr1LAZCU0bJvjOFUZsq1ELEiA4ErrmAd59VZ2/CK+hTiP2EG0h87vA1DXAFLVZ6hp6c/EmaQL6Xex693EX+OTVset9K/Co4nTCBRAfV2P/THzt1gx+2+mQ1nhwoSCvMMqaAkrIbF9nvlUBfYetcKBhLQOp9/7+sSIvWcx/kG2/zDlLHowTKr6HpCqBqrPVJ+lHaQduAA/T7yS9FqWP4LdDk+H1+E4PJu4PzH0Cg4RlP3EbzP3Cqti6WYMRL4ykJAsn4nPrkLARSthM1sKTVRTboMYKEon9lhHnO9dW0jfhB+nfyxGFBh4omW41G7g84QwLKb6n/dTxBOZ/1PiDVY+a/w1i7dQXkicjy1EJYegfIzyRtJfs3yHVbG4l3mE4c3ttfjNCVZBS2MlNOxomB+uPEEoSAKhiH3WCed673l4GuPvxQnDZ6IEatJQZKtamRZw4CVlOdT4fMoL8D3EL+KjVkT7Zrov0T2O8hjiQspxpH3EV/BRvIM9l2LRqsn7h1ZEDz8P2rpKAXsrYYGtPaNAUSf+RZKEkIWEUIxYtA44zdvuw/yLiSdStgy/Sciokw1VRKsFrZ/7Sh3l6ux4oGgcW/Ew0h9R/pw7/gnLDs/luJodb2O8g36ebky5kxNuxz6Oc9f43BJ9ITKl2hNiYP/IeH4m2zLn2DoWIwghEDAZhYl4QhECSRxVAU/23/PEj9I8j+6kQz+k90iADlDLFnW0q8WqBE7V/TTV90iGSQ/Dg9j5ABb/DF9yeA6yfC2upUUL2OfusXSAdomyiVRHv4FIaPNM3gXPMUfJvZBMu19AL1Bk01OwJUeJk3xsK/13kX6H2AnUf4BQhkRAUlELWY3LgLihFnGYgHnS02jPIn4GtzgqfHSRh+8nNlWSGX43bG4mWXCxON9KuQGhTPUhZFAUoUGIEuKoCHgP795G87P0v0jsJAB1/m4Vz3x1qyVMA2MwICTDlAbfRtxG8zu4yhHnx3ou2Uscf4joNzSen8kzYKOMktQEQkgC5CkZCWXSB306CgJu8x9zLHwt/a9jO/3AEWSqWt40xbBYeXjZxWDtMCE5PAG1sN9Hl7jjN3CzI07spx8Qrr6H1QtYrISRMhfkiWAaTK6r/y0ClOVes98RJ/8Y49+nbAf6SQMoA283IEE9bRbSftxOvpP+StIdxD7yMrnFZspO0imkE0nbsRNzwyWbmgQOURbagh9nxyLxu7jeEWXXvrrkQgcDUs5IQEqbRGoUYCrpgDKRL5mMlMVWHHAEGXn3ReT/g7J9+Cd2qGqpyoZjiXQV5VLyJ3AJzRWcdDk6NW5pWLwnWy4gX0g8jHQf3B9bKMgwLKQ0VBpK+Bnsxm86opRu+NwYtXwo7YwEXG5JmQAUWSCEkGEiYRGwFEo5cvL99zmMns/4ZMrA0nGqzw6VTCzRf47mX0kfJ11G3Aws41oD9LiZ/Tfjv8nb2Xwy6VGUb8YT6LeTVjr9Vr2W8jTKu/BeR4wY061gCi6AaGeShNC15HyoZ6hUnbieBCwnpXdE+OI8fob+CRQUAHQoVXSpM9UMcID8+/SvYv+VPG0Z4a6xB3t4xZWc+F7KE/DTpItxuGRkoNRfthG/Oim5XOmI0HcUGBSvOnW1nUkSQpln3BAw8MK7TAlZlmh6M+e/R7TfTfMz9Fsoh4l41NMhcYD4N+LFuAxo8CfuPt2Y67+Cr+AvOen5xPeTziHl4cjHwL6Pp5Key95n4Q4zZ7w8sD1zoKRVmllNwQ0lkVBgOB0H/ZiDYeake1N+kNhen940vGgzoSDgKtp/Yv5Pcb2ZU36PuJz8y7iQaOsSDQWgvkY0eCJbH8kV70AxWwqljnrDPyCkGW1KGjeUVE+/hkschQgzp5s8X6kLowNLZ/O0iLfgl1l8G/Y7Itx+kP3/xoVfon8uvpEAVT+QFRc4k/gxzv4MrjNTLi8YXo5FNe5XGwG7VQgYiYCBkGw6AsXsBdw1R/l5+oYyvDFHqqMh3E7zq+x+PTpHlsIlH+fcp9OeiwtI9azCcFYMTyEeidcc6Qg4fNI+RJ5RErKcKYkY2nlVR6CgMzueknjRc2hOreUjBgrK0CHfSv+DvOs/0DlqvPtKfvTbGP0B/VORMTSj1AJsJ36bfW/FQTOjKwTDEa/+wUkzEnCpQaoLuZSBelBfEGbG755FfCNjFBiIFnVxOd1G/Cm3vIeHdI46n/4iD34p6QLSGQQMJFF1K/dm68PwHjMjKgHL4X5A0qySkEwkykAELNW9PujNjvSNjM+hh+FFAVQSegvNn3PPg9YNu9/H9j8g/QZlp2kUGK7DGf8wt70PxUzoAVBqCatmlknIUgJKbT76+g8HHZowEy7ZTHk45QTyQCG3ALIpxjQvoLvBuuL2JY77B7rH4RsBiBVUHOLBnHghPmsm3BlDq6AH9iWnGT8DFtONhA4JBWOAoJgN+x9CfhTy8JQbaNAjkArNCyhXWJd84WZOewZzT8BWyko3nd+Lpe9i9yUo1pjhVTAG6oBhRoXoA4mMfmhXPAJ9Jeda8+9znH0/ysmESRt4n9sBMspn8Vbrmmuu4Nx3EN+BoWhT/6VvpVzAju2405pzaxDqBkP3ZzUFO3QZpp/qTfXdjJ4Bd96T5YuJheHlVPXSqTQm/QP7v2Td0/8Z6bHEiYYjTl0YPoflc/Apa04fAMRK2sySkFS9dhvYoNyhwIyqA/M7WXooCeozuSohCxLSdbQfZmGfdU/+MuP3kL7zEAIOTXsnUE42E8LKBYQwqzIMukSYbnSgfg1GxGySkIMnEvcjIWD4iEyBHDSfYvFSxwQ7r+Pmd9B/AzYNr+yJ6Xunku7H1v/CkjUnqjZc9pphErI/kwY2KB9qDL0ZCHg67SYSDCyNzwBIeyZns+x2TPDfPff5Iul6nFdFuuEvmOZc9m1dewH7ICGqZrCf1btgBMpKzolDMRvKvRgPlJxyJWNG3IJPOaboryZfSTkPKCvIPMvkaBG3WXOGi8+kIzUFj4cPpdHX0/AMBezOJw1MtwW5zoj3E19yTLH3FrZeg57SAFG3eja6B2nBmhPD8lHdM8sIeBDQVxKODe8ZXbb2jE8CciVcroTMKChX849fdGyxyO9dTTpAbKMADEU/lJOIzdacWjrDEW+2Ai7XG1PqcsykQcywDthvJpChPnUAqnHcyvcWxxyxm1geWARQtQI7sXl2CYjDyzf7OqCq3jf49U3oka09461AGmj1ocH2OybpD5K64XfB6vEm4jgzo5buiEfA8QoOKIR+xlNwN0+CAfmqEwr1Y8ckpUMhBt4Fq68TJc8uATG8n/rITcGDGXA1Lkhmw7ibFpAGkAfOaGkbxyQl0+eBetxQRIwjF/nqa7POghcBECs4rgvC2tPtJ9VvO5CR62VYGC84JukXiDy8UUm9FnOZvN9MGH7mIw2M1/iIXvqBBah9/dM44yjY76egqZKNfkrABmFyfQ/enhCOKR60jTQi1G0gIdlN7JmtgBjeT400yym4q4QrlZhRj1GsOW23Vx8IZCKTAlCIBhAAp/KtJ+BmxxTlnqQFihV+M9LtdEuOCInhkx1mJeBiJVUtYy1dmY2Ao/GXzSNlSiIyMZWEJERBpmRKd4L2zgfgPx0rLF54AuVCYiKgAQGhB5SbWT5ozekHdhemgag3uwg4fCzD8DQ8AwG7L2shI5mIRkqUIAXREJPr5XI8zQXHlIDyKfQnDhR/h1ZHX2smZ/GU4chGJeZsyzCBOuoNL8tXMLbmbO6uJC1LaY6Ehkjkhr4QGcVESprmOBEXm9u0Bfutd256V+Ih96GcP7wxCaJuX2LuTmvO/kQc5uR/dzkitmQrowsi6BFqGetFqRo0ZhEBbyHdSDqTZBpNAgSBSEhZOFcsnonLrHuesYNyMf1WwIB0pvuD+Ap/st+a8/0D34liqI8ZZcHjoFTSqYvSpDE5MZKUkqw180s30rwP3y9lSiElIkiJUtCgEJM+8oM1HuaM0ZfQWc/c0N+b8h1IdfQzPCVfzdKX+KGwNqzyKyoS0qyTkPHA9FtIQS4o5J45jLokj609N96iPfHT5O+lyVKQEwUp0QalEBmBhrCFpW9xg3/H9dY1/ROJc4cTDyj1ZzfS3GomjBPJMLneCGYm3xPCUmBqCu6RyD1NT4vU0wajjjZIyZqz7+Qlxy9/Rso3iO40elKLnmiJQpPRolACmWieKo2/Fn9lvXLZA+5B9wtAgMMnIg7gM1y1y0w4KQ1Mt1WDPMskpA+KSSMVYNTT9pPIF5PrMcnsjgdM469o5i8jnSaj9GiJ+nSpTEHKsFnE09a1gOLHKaetUsBbKO/m9M5MWK7lg+Hvx5djRknIUlBC0wFtz6jQFEY9uaMtNGNSIfdJU5JZcMAV7tF/UEoPp91GQ5kjjYlR/SaEaIkg8gMVzzfuX4x91gufvzTxI99I/Bx9Ld/hZPwMt7/dzDgOUYtXSQcNEtLMBOylCKMeE/lGhXZMM6YJUtD05CAjzI7UvUPje6Vum2hpOmJERilEQUMKCkog0zQ/aS5/3scueRXCuuCHziY9i/5sYhWLAaC8ix1LZkdCteLc8HQsm42A+WAY9cwXck9TaCdRL8ekIaFFIwuzY59PON47iXsxJsboUWhaYo4oRJCD6NEiThbNr/tfD74CH3O0+eD9zyJ+lfhfh5evjopuorzKTGkzkAcEy9PRb4ZT8Gipt2kcmn6SaAQ5SMhTrTG5lnSSWRGW8UqNXwABY1KPEQXRokz6BkFEEum+YvwrlvMv4wpHl5+l/36MMCTc0PU/4RYzJdKhI15GnhZvxgJu39/LitZUpKt+AFokJJCMzJY7fM5J/lryYwAULKEnMjYREwlToSD6OdF+u1Fzb73v8P7Lv4ziiPINx7PwHMa/Mlx3g6KGQPo45S/NnNyQh954VBI2UGaTBc/ppSnhagnrSJglRTJrWn8peRzOAwUJOqDAGCNiRELKRFD6B8ijV3rivX5bGb8Pi2bNu+854qwziF+ifPfq1tIFIPaT/4buajNnLqOWDhmpatD0s6kDNopGqabaQ7eERntEBEw+qfEKyQuwAMIUy0SHnuiJQEtpaDIRj1Gav9DO/4kyfiV2myXbT/9O4+6nLHmEkuZXt5wpAN5LeS3pgJmTUi0goBYSzQyn4EYnC83AlNtM9RnJSJLNmjstOdWb9b4WT4BaQgplmdRROmKOPE80RMqaOEuJZ2rai/XxvJm8M/7cOSfSfr+2e7rkTFkyTiyvZiVxIF2DV/Lmmx0RvndUvemokpGmFrDMJgJmi0Z6DXIlW1MnRMgWJK0jwa0ut9MLzNumuJh61TqaIHpyj2WMKS0WJiK2p4j2u6TR10heL+JfLHZf4Oxd6KyWd787Of2RO21fuJel9I02lR9nfLJRok+M0SCjS/SIertpjTH5hXgDX+fIECPS0HTLtBCgHa9SwNaKWNBRTcGVfJWAc8iOFLu924leqvEPQguo65EUKMQyuSeCmEPQF3K/XTQ/rG+fYvPcx6Qb3qRvvqhbvMa5O2/A2BCv/ETyqEedYpxOcNGj7qNrL9b7OnNxgVIokMiJhAajxBiLiR59N7zOTnor7/hrR5TvGZEcfitsRoPoZrMpKes0QlMnHBwyOUkWJAuOJP/mVX7Ak/BjQh4+YQx6So+eWCbmaEaUEdHQ9KeK5puV0ddq+2u07TV27b9aP7pSTnt16aDIYyU1+rSgNNs86mHH099XTidr8rlSt02TspLoEwWRgJQm8iElErpgKdMHoea/6H+HxxVHlNSQTFE9c6kEaLqZRMCJgH2VaNQCkqYiYNjsSPJUxdjvWdAKP8Jhvv8lIfVTb046SiLK5F5DLnMin68058vRyQ6KtCw3HRFI5EZjTmdOlAUyqRAT8QIyGWlyDyJNP0MzTuTCGEuIBPBF2hey+9OOPJtMU0/Bcp2QjGdUiLYsK3XCUUsoIaExwiZHmn2+YovfAHynbIsY2F8NPXKgI3piTLSUeZNnQ7T0LaFV2m1kcksgZ5O9JzQNXSISgT6TEyUBMn2iR5PoJn2LLjEXLCVGGE3uHfTf+DW6j7DJkSe2oYo4qml30oyQlmazILWxLCkydSJCPR0jazDvaHCL693T8805iJ9B0iCGv4wIlKD06Mn9RMRJ/VBHNKRAJhUik1BaSiYK8kRApMl1n0goicgkpEwO+kyXaJAQiRbAZyx4Pj7iaLGYN5OQB9YApvovfnE2WXA7EXB6uq2lqxsLjha7XeUeftOcLfgezLGS3Y2AMomIZZItx4hoiYls0VAaSqb0yJOIlymJkkmJSKRJK4k86ROTMSmRUSbXPaT/Iv2+kfc4Wtx+1ibSdhIMFYCrZ8K8PKs64KKkG5Stvt+AOUeT3W53gt/U+KLsGcLxSv1dNkNf+ghB6smFGBMN/Yg8R8nkZhIh00S4TExE7Cdy9ZmUJtdpWk76oM8wERTyIt4jNb/qlP5SR5Pb2wUsEEgDG9PriDR30CpoV+xI2K2xrKmKz81gHRAWHG1udy1+2+k+KjxbeDzmFUAMtAYFEEEEpdCMKYvE3ETIhhhREhq6TGpIk3GbpoWkoCRSppnKjrtUhF2a/Dxf/NzfobjKUeZ+C2hJpptagukoqCzO5pT8ZI9kXEW6OvFQfb7VeuFG/+4UXxaeK3mi7EzB8D7vKQlLvfemYJFIpBHRURoiEy0pkZvJvYSJkGUiXMoIIgHZPpp369K/GvX/5KL7Wxd8cmkL80N7QAZqgXOLs4mA2V6NcZ35Dj8SgO3WEze50vF+zoKnCD8gfJ2wRUGqIl8ACsPfTBHkZcoypaEk8iQalnZyryHlqc8nEuZMZLJ36/MbpMVXO+uam6wnPnnxNkotHKA5ZMQhbptNIXqrg3qdNCBfQqbKkndYb9zpoLO8w6JLJG+U/YrGA8SAdAlNdQhXqc/hRN+TEP1Eskxu6FpSQz9PDpMISO96pXmNfv5PjZevwUG7Tre+KDum/2JRC3eotyE3zCYLXnankT1VtKt+EKraIPe3HtllGVfgCsd5gzmPl30bHoLzhG1CEuiRBs7krCNnTO3fz4XSkZcoLXm8JNxA8xmpfZPF/o24Td7LZuuU/hRaRCVa/TzYTo3jptlEwHe9bL9vfNZV1TvfYfkykrOsd/baj7c6xTv17oNvFx4iOUdxkuQkIUnIdeRDqqboyViPZK/karpb6D6jaz5g1L8D+8w7FrjvlFiH2QvSIHeUO2eThEDj2mqarWWsxTzZvHvgduud3Tpc6mU+7/l24ky9E4w8WHGG5FzFCXonY4dksyTphGJZuBO3GbtZcp3kK8a+LFwh3OgG19F3jinSvYk6+YCB/cB5F6ffsUoBz7Rikptq+WoB6xUxevfFBx0rPF3g9kmj8X47bNPZppg3sklnq2y70KBoHTC2W7Zo3kFL9tlvr/McRAH3dmzxvG88HtVDaRp46A9kpGu4oV+lgDdYMdlH6ihXPwNq6+K4x+GDjl0O2uMgbgZLaihoALAwaXscw8xfhFPISAPymRKgRXMZzCYJgd6VRjpZO7Ai5lDtYbZYwKINjiGai4idBAKQDvPdfPFZmE0SAm/4ozt9/y/eIDtjuPxSPx+6t0X3w6dscGzwe1+/ExeTjqsEA0BSRcclRl9avYBGVkX2CdkZlWhDWTDZ8bJHHksCbrD1NJxP5HqaIwHUUfFa4tbZRkDI3i77Jo2sGYx6JJNrJ8qegtfgZhusb5730BHjR9Hed7qmRD7MUvzyPtrrYTYrogFan5bdJDtl+L1wHR09WHL/Y0HADU45C1+H+eFDMVPdOvLHOXjn6gV00KrYZJex92t8Zx35BiNidqbk62Wfwm4brGPKwylPBNJKN8tfQ3wOS6sXcLXc5FYneLfsWzXaQ0XBQ2TGWfYdslfhYzZYx6SfIW8dPp63PhEVfIX5y6weLfNWxatfsexpP/1pXC67UFtJV19ntEjOxkslX42DNlhfPGs+85gfJx5Nj4wGgQDkQ61Nu4PmnSzdavVoWbJqGpcLl0kuQJKQVrBTrvEY2dfhtTZYZzzqYtqfhuHzanq09TfVX4P/Apj9FAwv/8PbPetpb9F6rMZJh5x6m4FpufG7sr14lw3WBz/9xPNIz6VcMPxVEACpkjN/gNs/dzcEvN1dInmb7CekWsDhpkFyjuTXzbkNn7DB0eVHnngy3S/QPJk8kPnWfQAKuj9noXMXySy4S+2lv3er7PclRR54H9xUPTRajccp/kj4GsFGO0rtFy48yejAHxDPIKbkA+gBkOpr5DfQf47eXW0tvbvMnLcrLpE9UKIWsX4WZPozj5S9VNiFSxxZNnjOheebm/t5Ed+lFPo8fCi6glLddz3jV7ibpPA8d4vnPe+7ZK/QOE5T1wLRHLZE8ynJy23yBuy1wWx5wUUjtx+8WJd/RTf3eEujHbqGgyO6FqNJm0Mz6UeYRzvpRz2jF9G+DLfC7JOQYd6t8Q+yXxwWbaAlZA/UeKGxBwkvwY02mA0vPjvZv+cnjfLPyc19pGh1iMQIfRCBqNaYRdV8gfKvPO+2NYiAa8Dvuw/+QOPJGo1m4OiQKjs+xPgmxcvxDsnVvsVuhA3uOg9Ic+6xcLKDm59kvPB9utGT9S3jecYtXctiO+lHLI3QYH6qn5uKjPNX0D4Db7YGpPAca8KLXvKtsj80cnq9YHWF2fH0GTSflbxR8kHh8/a7Bb0NVs4rHC8508HRRcrCN+vnHqOb22E8oowYz9G1jBu6EYtzLDfsn0eekm5uqrUYvRDPNcysC9EDHPBW222S/ZNUZ8ArOFMQMrI5ycWSB0luknzeTp+aLAO7zC0uq2XcAL8qe7CTLblIcn+Ni3XO1XT3Y3mzQGppglToe3LDKJGCvkdmuafLRKm+kLxD8zqal1lDUniGNeMV/3uzsb/S+J7B9YFtdZ0MrvqetJDtx63Yq3EZdglflFxv5EadfTbZZ9GiHQ643RI6a0UjORz7HI7hx/Ul7AcsT9qWSX8AT5C8yYJiXmezYrODtuM4vVONnas4z9g5xk5V3FNvm142Rsl0mxlvopunTKbcbp5uxHgSCccjDoxYHtGNMJqOfJ+geQbev8YC/tgah/6/Pl7xbK2f1th5yKRkZHJ9uL66hjS8OUvSC8uS/diL/RN5x4pO0gnLsl4RKCiSgkAIAQJQBIACQqkqFNBD9U8rU+OCTlIkk15IOo3epNfqjPSTVsxZtl1nm85WvTmdkQ5jdOgnrTC5T48OBcuIxHiefp7lzZSWfo7xHOMR/YguT8YtB0YszhMjjJZp3kf78/iCNaZl2Zry0z9wq7/+xz/Vu4fkB2WbpgXSACDVAtUSDok2eL+RbJJsEo6XAJBhYBxqSIhqL3Cu+vqfU6rPUr1/p+pLFfXrxLPUfxZT9+oEtT65ISOQEEHuJ30hCqmQe9pMZHKiKfQYoevpEpHfTXoBy18wA5rnuS/6tW1vvGCPb7r001rLssfK1eaple0nGfgqsvrXDoibhzbyV2OHuVb9Mw0cEqAaD/0AlcEvHq/GU00luWm5phoUpKHPE9FSEjEiT+RLiciYjFOmz6T0AX1+Fv3H6M2itSybCT/5Lbu84g1/YKvjZD8jaWVAMtys4p76eqoF6s+h/jxXf2n1rxtaDFzLkRGVeHVUSmiq6FpgIPJNmrb69dDXP5T1hrXqB7gUdKSgDXT0GUhIQQ6aQilhLv7DUnqhhfGnzZAUC19vprzorfNO8lTZL8keKlsYPl1/OIoMnRA7LOXgtDp8LwAO9y35A/cC9cFFZar11XWPbqovU/0YPZaZ3J+Mq8/HKFhGX///qnvjhrIwef5bYJKE6OfoJ4nHuPmCfuFvHPAK3GnGpDju8Y4If/nui7V+UfLtki1TEq5MwPoahjdqrZZhAROiaqpxLWUcRryYEqNDUcs4fD1GX40nvVJ93mM89Vk/STTKiH7LRL55xv9Pv2zcXGLc/J5rPvo69MyeFI4gr3NPje/S+DHZQySN5lDPcQNjh5u6hyQcmlprKukMSjcsYR0J+1UK2A3IOK7v121KuB4F40rAwPKIfoGyQDeiW6Af7TKe/1vj5m34kCNIivMf4ojyG59acLIHCN8t+wHZSZoBqepkhGEpwYCIUY9XEQUZFhAKYiXT8ICM40rIMeopNyZ9merHA5Gy/mcsI6Y/z5RN9JvoR2F54dW60d8po/e69NL9iCMroKPI22y3yc/qfbXs3rKTZK00FAWrxnCvygZV1xCwwnEMjAtU4qkiYKnFq6fdKmr1dUQbeCbsUI/rX9erx7fq5m5W5t9mPP+v+ISjSIqHH++o8uFbk/9yJp6o8RjJIzROk2yXhhOSgRpfLd4AqxDycBGxwGGm4BiKgJU0dTG5FqnDUvVrp5KPQXE7S4qr9a6w5D/wHjf7LJYdZVLc3/rheTY51X1wgeSrJs+JD5bskKRVZb9phVmwVdwrqBMTA5GvAOpMuKvGQ+L0hrPeOtKN1fKGzgG9qy15r3ApPmXRNbjWOiLFU60/fk2rsdOc4ySn4GxcqHFv2b1wFrbIsAIJoxJwSMSEAitIRADq+329kLiOgPUUXD+jUQs5uQ7Tny+bFrbTu87Y1RZ9QXKpzuUW3WLO9Tp3YNk6JMV3Ora4QPY9ttjteK1tGmfKTsAWybx+0mfzipF20tNKWiEjS7IyuSbJCAmUybhM3WO4LggqAXskoUcPQqATOhShCJ0i9DpFr1jS6U2asbFFnWWdJWOLegd1Dhq7TXGj3k16d9hlN3orZ0PADTbI/v/KBhsCbrDBhoAbbAi4wQYbAm6wIeAGG2wIuMGGgBtssCHgBhsCbrDB/wlKajuIhIz6AQAAAABJRU5ErkJggg==",
+        "alt": "",
+        "description": "Relevant topical stock photo or graphic supporting the article content.",
+        "type": "generic_stock_or_graphic"
+      },
+      "article_images": [],
+      "body_text": "_Body text (44 chars) saved to JSON sidecar_",
+      "headings": []
+    },
+    {
+      "rank": 20,
+      "domain": "facebook.com",
+      "url": "https://www.facebook.com/groups/aldiaisleofshame/posts/1760175111540077/",
+      "title": "Aldi grocery shopping tips for budget-friendly finds - Facebook",
+      "word_count": 0,
+      "scrape_status": "failed",
+      "hero_image": null,
+      "article_images": [],
+      "body_text": null,
+      "headings": []
+    }
+  ],
+  "battle_plan_generated_at": "2026-04-26T10:46:40.058983+00:00",
+  "competitors_analyzed_count": 4,
+  "battle_plan_method": "local_deterministic_agent_no_api"
+}
