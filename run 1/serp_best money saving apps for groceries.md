@@ -543,3 +543,94 @@ _Body text (45 chars) saved to JSON sidecar_
 
 
 ---
+
+
+---
+<!-- BATTLE_PLAN_BRIEF -->
+# Battle Plan Brief
+**Generated:** 2026-04-27T00:40:52.416868+00:00  
+**Keyword:** best money saving apps for groceries
+
+## Validation — 4 Checks (PASS)
+- **Keyword match:** YES — Keyword tokens hit: 4/4; angle tokens: 4
+- **Psychology match:** YES — 10 pain/emotion tokens echoed; keyword hit: True
+- **Competitor evidence:** YES — 3/3 gaps tied to named competitors with body evidence
+- **Gap specificity:** YES — All 3 gaps are specific (named WHO + WHERE + concrete edge)
+
+## Brief
+```json
+{
+  "content_gaps": [
+    {
+      "name": "No actual ranking despite the word 'best' in the keyword",
+      "what_they_missed": "The keyword promises a 'best' list, but every competitor delivers a flat enumeration. finance.yahoo.com (480 words) lists 'six apps you should check out before your next grocery trip' and walks through Checkout 51 ('Once you've earned $20, you can ask Checkout 51 to send a paper check') and Flipp ('weekly deals at more than 2,000 retailers') without ranking them. abcnews.com (460 words) profiles Too Good To Go ('a food rescue service and app, connects thousands of users to discounted surplus food from bakeries, restaurants, ready-to-eat grocery counters') without comparing it to anything. basketsavings.com (417 words) is a single-product page promoting Basket itself ('Basket Savings App helps you build a shopping list and allows you to track prices at your local stores'). The reader explicitly searched 'best,' implying they want #1, #2, #3 — none of the three SERP results delivers that order.",
+      "our_edge": "Open with an H2 'Ranked: The Best Grocery-Saving Apps by Use Case (Top Pick at Each Tier).' Force a ranking. Tier 1 — 'best for surplus / pre-expired discounts': #1 Too Good To Go (abcnews.com — 'discounted surplus food from bakeries, restaurants, ready-to-eat grocery counters'); #2 Flashfood (referenced if local). Tier 2 — 'best for cashback rebates': #1 Ibotta (cite finance.yahoo.com sister coverage); #2 Checkout 51 (yahoo.com — '$20 paper-cheque threshold'). Tier 3 — 'best for price compare across stores': #1 Flipp (yahoo.com — '2,000 retailers'); #2 Basket (basketsavings.com — crowd-sourced prices, 'Linda K. Atlanta, GA — saved $100 just this month'). Closing rule: 'A 6-app listicle with no ranking is a download-and-delete trap. Pick ONE app from the tier that matches your shopping pattern; install the second only after the first survives 60 days.'"
+    },
+    {
+      "name": "User-testimonial dollar claims never normalized to $/hour",
+      "what_they_missed": "basketsavings.com (417 words) anchors its pitch with five customer testimonials: 'Linda K. Atlanta, GA — I saved tons of time & $100 – just this month!'; 'Amanda L. Washington, DC — I saved $34 on my last grocery trip.' These are inputs, not benchmarks. finance.yahoo.com (480 words) explains Checkout 51's mechanic ('add the weekly offer to your account, buy the item and then take a photo of the receipt') without computing the hourly rate of the receipt-scanning loop. abcnews.com (460 words) cites 'some prices as low as $10 for $45 worth of pantry staples' — a 78% discount — without saying how many hours of pickup-window driving that requires. The JSONL pain 'Tracking expenses manually but lacking a true budget or actionable insights' tells us readers want actionable numbers, not anecdote.",
+      "our_edge": "Add an H2: 'Normalize the Savings — Dollars Saved Per Hour Spent on Each App.' Build a 4-row table. Columns: App | Mechanic | Avg Save (sourced) | Time Cost | Effective $/Hour. Row 1: Basket — crowd-sourced price compare, no scanning — Linda K. claim '$100/month' (basketsavings.com testimonial — flag as user-reported, unverified) — ~30 min/week of list editing — ~$22/hr if the claim holds for an average reader (likely lower). Row 2: Checkout 51 — receipt scan, $20 paper-cheque threshold (finance.yahoo.com) — ~$8-12/month — ~1.5 hours — ~$6/hr. Row 3: Flipp — flyer compare, 2,000 retailers (finance.yahoo.com) — ~$10-30/month — ~30 min — ~$30-60/hr. Row 4: Too Good To Go — surplus pickup, 78% discount example ($10 for $45 worth, abcnews.com) — ~$30-80/month if local stores partner — ~1 hour pickup — ~$30-80/hr. Closing rule pulled from JSONL repeated_phrase 'pen and paper': 'If your $/hour is below your actual hourly wage, the app is a hobby — not a savings system. Pen-and-paper price-tracking outperforms most receipt-scan apps once your wage exceeds ~$10/hour.'"
+    },
+    {
+      "name": "Crowd-source vs. retailer-app data quality never compared",
+      "what_they_missed": "basketsavings.com (417 words) explicitly bases its data model on 'crowd-sourcing, our community of shoppers share real-time prices on products and inventory.' This means prices are reader-submitted — they can be stale, wrong, or absent for low-traffic stores. finance.yahoo.com (480 words) recommends Flipp's flyer-aggregation model — sourced from store-published weekly ads (more reliable but only as fresh as the weekly publication cycle). abcnews.com (460 words) recommends Too Good To Go which has merchant-provided data. None of the three competitors discusses the trade-off between crowd-sourced (Basket), publisher-aggregated (Flipp), and merchant-direct data (store-specific apps; Too Good To Go) — yet that trade is the entire question of which 'best app' is actually accurate at YOUR store.",
+      "our_edge": "Add an H2: 'Where the Price Data Comes From — and Why It Matters For Accuracy.' 3-tier callout. Tier A — Crowd-sourced (Basket per basketsavings.com): real-time but only as accurate as the last shopper's submission; great for high-traffic chain stores in metro areas, unreliable for low-traffic regional stores. Tier B — Publisher-aggregated (Flipp per finance.yahoo.com): scraped from store-published weekly ads; accurate for the duration of the ad cycle but stale mid-week. Tier C — Merchant-direct (Too Good To Go per abcnews.com; store-specific apps like Kroger, Walmart, Aldi referenced in finance.yahoo.com): live inventory and price feeds; most accurate but limited to one chain. Closing rule, pulled from JSONL emotional_state 'Skepticism and distrust': 'When the JSONL signal is do-not-trust-the-price-tags, pick Tier C (merchant-direct) for the stores you actually shop and use Tier B (Flipp) only as a cross-check — Tier A crowd-sourced data is the lowest-trust layer of the three.'"
+    }
+  ],
+  "nlp_entities": [
+    "ranked best-pick by use-case",
+    "tier-by-shopping-pattern selection",
+    "$/hour effective savings rate",
+    "crowd-sourced price feed",
+    "publisher-aggregated weekly ad",
+    "merchant-direct inventory feed",
+    "receipt-scan cashback model",
+    "surplus-pickup discount",
+    "data-freshness trade-off",
+    "user-testimonial vs sourced average",
+    "manual price book / pen-and-paper",
+    "weekly-ad cycle latency"
+  ],
+  "eeat_requirements": [
+    "Cite the U.S. Bureau of Labor Statistics CPI food-at-home line item (cite bls.gov/cpi) for the inflation context. finance.yahoo.com already references 'CPI data showing inflation rose 3% year-over-year in January' but does not link to the BLS source — quoting the BLS series directly converts a relayed stat into a primary-source trust signal.",
+    "Cite each app's official terms / privacy policy URL (Basket, Checkout 51, Flipp, Too Good To Go, Ibotta) for the data-quality and data-trade discussion. None of the three competitors links the user to the actual disclosures; quoting them directly converts the ranking from opinion into a primary-source review the JSONL skeptical reader can verify.",
+    "Cite the FTC Endorsement Guides (cite ftc.gov/business-guidance/resources/disclosures-101) where you cite the basketsavings.com Linda K. testimonial. The FTC requires disclosure of typicality of testimonial savings — by citing the FTC guide, the article both flags the testimonial as user-reported AND demonstrates editorial neutrality the listicle competitors lack."
+  ],
+  "style_critique": {
+    "all_tones_found": [
+      {
+        "tone": "promotional product page with testimonials",
+        "used_by": "basketsavings.com r7"
+      },
+      {
+        "tone": "listicle aggregator",
+        "used_by": "finance.yahoo.com r9"
+      },
+      {
+        "tone": "news-bulletin tip recap",
+        "used_by": "abcnews.com r17"
+      }
+    ],
+    "winning_tone": "Decisive ranker with quiet skepticism — picks #1 per tier, normalizes savings to $/hour, flags testimonials as user-reported, and explicitly distinguishes data quality across crowd-sourced / publisher / merchant-direct sources",
+    "decision_reason": "Priority 1 fired — JSONL emotional_state 'Confusion and frustration' triggered by 'Tracking expenses manually but lacking a true budget or actionable insights' + JSONL emotional_state 'Skepticism and distrust' + JSONL repeated_phrase 'pen and paper' — A decisive-ranker tone with quiet skepticism fills the gap left by the testimonial-led promotional page (basketsavings.com), the unranked listicle (finance.yahoo.com), and the news-bulletin recap (abcnews.com). The reader searched 'best' and deserves a #1 — but they are also skeptical, so the ranking has to be defended with sourced numbers and data-quality disclosure, not vibes.",
+    "our_directives": [
+      "When recommending an app, always lead with the use-case tier and an explicit rank position. Never write 'try Flipp' — write 'For the price-compare tier, #1 is Flipp (2,000 retailers per finance.yahoo.com); #2 is Basket (crowd-sourced per basketsavings.com).'",
+      "When stating a savings claim, always pair the dollar figure with both the source and the time cost. Never write 'save $100/month with Basket' — write 'Basket testimonial claims $100/month (basketsavings.com Linda K., user-reported, unverified) — at ~30 min/week of list editing that is ~$22/hr if it holds for an average reader.'",
+      "When mentioning a price-feed source, always state the data-quality tier (crowd-sourced / publisher-aggregated / merchant-direct). Never write 'the app shows prices' — write 'the app shows crowd-sourced prices (Tier A — fresh but only as accurate as the last shopper\\'s submission).'",
+      "When the reader confesses to JSONL pain 'tracking manually but lacking actionable insights,' always pair empathy with one specific tier-pick action. Never write 'tracking is hard.' Always write '[Empathy sentence]. The fix is to pick ONE app from the tier that matches your shopping pattern (surplus / cashback / price-compare) and ignore the other tiers for 60 days — install a second app only after the first one survives.'"
+    ]
+  },
+  "title_intelligence": {
+    "dominant_title_pattern": "'[N] [Best] [Apps] To [Help You] Save Money on Groceries [Year]' — every competitor uses a number + outcome verb but few specify ranking criteria.",
+    "short_title": "Best Grocery-Saving Apps Ranked: One Pick per Tier",
+    "long_title": "The Best Money-Saving Apps for Groceries — Ranked by Use-Case (and the $/Hour Math the Listicles Skip)"
+  },
+  "reader_psychology": {
+    "triggering_thought": "'I want THE best app, not another six-app listicle. The yahoo and abc lists all sound the same and the basketsavings page is just testimonials — I want a real #1 pick I can install today and trust the numbers behind it.' — close paraphrase of JSONL emotional_state 'Confusion and frustration' + 'Skepticism and distrust' + JSONL repeated_phrase 'pen and paper.'",
+    "desired_internal_shift": "From Confused Listicle Browser to Decisive Tier-First Ranker With Sourced $/Hour Math",
+    "bridge_content": "The Ranked-by-Tier pick (Content Gap 1) followed by the $/Hour normalization (Content Gap 2) and the data-quality disclosure (Content Gap 3). The reader arrives believing the answer is hidden inside a longer listicle; the article reframes the question as 'pick your tier first, then take the #1 from that tier.' Like buying running shoes — pick the category (road / trail / racing) before you pick the brand. Once the reader sees the tier-first ranking with sourced $/hour numbers, the JSONL confusion converts into a single decisive install."
+  },
+  "internal_linking": null
+}
+```
+<!-- END_BATTLE_PLAN_BRIEF -->

@@ -33,6 +33,29 @@ MIN_BODY_CHARS = 200
 MAX_BODY_CHARS = 8000
 
 
+def _comp_body(c: dict) -> str:
+    """Read body text from either top-level or extracted_data shape."""
+    b = c.get("body_text")
+    if b:
+        return b
+    ed = c.get("extracted_data") or {}
+    return ed.get("body_text") or ""
+
+
+def _comp_status(c: dict) -> str:
+    if c.get("scrape_status"):
+        return c.get("scrape_status")
+    ed = c.get("extracted_data") or {}
+    return ed.get("scrape_status") or ""
+
+
+def _comp_wc(c: dict) -> int:
+    if c.get("word_count"):
+        return c.get("word_count") or 0
+    ed = c.get("extracted_data") or {}
+    return ed.get("word_count") or 0
+
+
 def load_jsonl_index() -> dict:
     index = {}
     if not JSONL_PATH.exists():
@@ -60,9 +83,9 @@ def cmd_inputs(serp_path: Path):
 
     valid_competitors = [
         c for c in sorted(sidecar.get("competitors", []), key=lambda x: x.get("rank", 99))
-        if (c.get("scrape_status") == "success"
-            and c.get("body_text")
-            and (c.get("word_count") or 0) > MIN_BODY_CHARS)
+        if (_comp_status(c) == "success"
+            and _comp_body(c)
+            and _comp_wc(c) > MIN_BODY_CHARS)
     ]
 
     out = {
@@ -83,8 +106,8 @@ def cmd_inputs(serp_path: Path):
                 "rank": c.get("rank"),
                 "domain": c.get("domain"),
                 "title": c.get("title"),
-                "word_count": c.get("word_count"),
-                "body_text_excerpt": (c.get("body_text") or "")[:MAX_BODY_CHARS],
+                "word_count": _comp_wc(c),
+                "body_text_excerpt": _comp_body(c)[:MAX_BODY_CHARS],
             }
             for c in valid_competitors
         ],
@@ -157,8 +180,8 @@ def check3_competitor_evidence(brief: dict, valid_comps: list[dict]) -> tuple[bo
     domains = {d for d in domains if d}
     domain_roots = {d.split(".")[0] for d in domains if "." in d}
 
-    body_blobs = {(c.get("domain") or "").lower(): (c.get("body_text") or "")[:MAX_BODY_CHARS].lower()
-                  for c in valid_comps if c.get("body_text")}
+    body_blobs = {(c.get("domain") or "").lower(): _comp_body(c)[:MAX_BODY_CHARS].lower()
+                  for c in valid_comps if _comp_body(c)}
 
     qualifying = 0
     for g in gaps:
@@ -215,9 +238,9 @@ def cmd_validate(serp_path: Path, response_path: Path):
     jsonl = jsonl_index.get(primary_kw.strip().lower())
     valid_comps = [
         c for c in sidecar.get("competitors", [])
-        if (c.get("scrape_status") == "success"
-            and c.get("body_text")
-            and (c.get("word_count") or 0) > MIN_BODY_CHARS)
+        if (_comp_status(c) == "success"
+            and _comp_body(c)
+            and _comp_wc(c) > MIN_BODY_CHARS)
     ]
 
     results = []
@@ -280,9 +303,9 @@ def cmd_append(serp_path: Path, response_path: Path, validation_summary_path: Pa
     }
     sidecar["competitors_analyzed_count"] = sum(
         1 for c in sidecar.get("competitors", [])
-        if (c.get("scrape_status") == "success"
-            and c.get("body_text")
-            and (c.get("word_count") or 0) > MIN_BODY_CHARS)
+        if (_comp_status(c) == "success"
+            and _comp_body(c)
+            and _comp_wc(c) > MIN_BODY_CHARS)
     )
     serp_path.write_text(json.dumps(sidecar, indent=2, ensure_ascii=False), encoding="utf-8")
 

@@ -535,3 +535,94 @@ _Body text (45 chars) saved to JSON sidecar_
 
 
 ---
+
+
+---
+<!-- BATTLE_PLAN_BRIEF -->
+# Battle Plan Brief
+**Generated:** 2026-04-27T00:35:27.351946+00:00  
+**Keyword:** app to save money for travel
+
+## Validation — 4 Checks (PASS)
+- **Keyword match:** YES — Keyword tokens hit: 4/4; angle tokens: 6
+- **Psychology match:** YES — 28 pain/emotion tokens echoed; keyword hit: True
+- **Competitor evidence:** YES — 3/3 gaps tied to named competitors with body evidence
+- **Gap specificity:** YES — All 3 gaps are specific (named WHO + WHERE + concrete edge)
+
+## Brief
+```json
+{
+  "content_gaps": [
+    {
+      "name": "Save-FOR-travel vs spend-less-ON-travel intent collision",
+      "what_they_missed": "The keyword is 'app to save money FOR travel' — accumulating cash before the trip — but every list mixes that with apps that reduce spend DURING the trip. yahoo.com (645 words) names 'Google Flights, Skyscanner, Kayak, and Hopper' (booking/deal apps), HotelTonight (lodging discount), Splitwise (group expense splitter), and Shaka Guide (in-trip tour). bgr.com (1,157 words) explicitly recommends only four 'free-to-use apps that can help you score deals or select cheaper options when you plan your trip' — Skyscanner first. budgettravel.com (2,606 words) opens with Mint (a budget-tracking app, not a travel-savings app). aarp.org (913 words) is entirely about booking/deal hunting. apps.apple.com (TravelSpend, 2,300 words) is a post-trip expense tracker. play.google.com (SaveTrip, 447 words) is a trip planner. Of the eight competitors, ZERO ship a true 'open this app and start a vacation savings sinking fund' workflow.",
+      "our_edge": "Open with an H2 'Are You Trying To Save FOR a Trip — or Spend Less ON One? (They Need Different Apps).' One paragraph clarifying the split. Then a 2-bucket table. Bucket A — Save FOR (the keyword): apps and accounts whose only job is to accumulate vacation cash before booking. Examples: Ally Buckets / SoFi Vaults / Capital One 360 sub-accounts (HYSA features that let you label a sub-account 'Tokyo 2026'); Qapital + envelope-style triggers; manual auto-transfer from checking. Bucket B — Spend less ON: apps that reduce the eventual spend (Skyscanner, Hopper, Google Flights, Kayak, HotelTonight, AwardWallet, Splitwise). Closing rule: 'Bucket A is the prerequisite. If you skip it and start in Bucket B, you are tuning the receipt of a trip you have not paid for yet.'"
+    },
+    {
+      "name": "No HYSA sub-account architecture for the savings goal",
+      "what_they_missed": "budgettravel.com calls Mint 'the most widespread and renowned budget app' — Mint tracks spend, it does not hold a labeled vacation balance at high yield. familiesgotravel.com (812 words) recommends AwardWallet for points but never names a HYSA. None of the competitors mentions Ally Buckets, SoFi Vaults, Capital One 360 sub-accounts, or any other free goal-bucket structure that pays 4%+ APY and lets the reader name a sub-account 'Lisbon 2026' so the cash never gets confused with the checking buffer. The JSONL pain 'Tracking expenses but not saving money' tells us readers already track — what they need is the infrastructure that keeps the saved dollars segregated and earning before the trip.",
+      "our_edge": "Add an H2: 'The Free Sub-Account Stack That Replaces Three of the Apps Above.' 4-step setup. (1) Open a free HYSA at a bank that offers labeled sub-accounts (Ally Buckets, SoFi Vaults, or Capital One 360 — all FDIC-insured up to $250,000, currently ~4% APY). (2) Create one sub-account per trip and name it after the destination + year ('Tokyo 2026'). (3) Set a recurring auto-transfer of (Trip Cost ÷ Months Remaining) on the day after each paycheck — JSONL repeated_phrase 'pay yourself first.' (4) Use a free expense-split app (Splitwise, mentioned by yahoo.com) only after the sub-account funds the trip — NOT before. Worked example: '$3,000 Lisbon trip, 12 months out → $250/month auto-transfer + ~$60 of HYSA interest at 4% APY = $3,060 funded by month 12, no app subscription required.' Closing line: 'TravelSpend (apps.apple.com) charges a monthly subscription to track spend AFTER the trip; the sub-account costs $0 and prevents the trip from going on a card in the first place.'"
+    },
+    {
+      "name": "No 'how much to save and by when' calculator",
+      "what_they_missed": "PAA quotes 'You can absolutely take meaningful family vacations for $5,000 or less' but no competitor turns that into a save-by-date math problem. familiesgotravel.com warns 'travel costs grow pretty quickly … much of that blown budget will have gone to ice cream and souvenir t-shirts' but provides no target or timeline. budgettravel.com pitches 'manage your budget and keep you on track for your dream holiday' without a single dollar figure or month count. geb.tv (438 words), bgr.com, aarp.org, yahoo.com all recommend deal apps without ever computing a savings target. The reader's JSONL pain 'Living paycheck to paycheck and lack of financial cushion' means a vague 'set a goal' is useless — they need the exact monthly bite.",
+      "our_edge": "Add an H2: 'The 4-Row Travel Savings Calculator (Pen-and-Paper Version Included).' Row 1 — Trip total = Flights + Lodging + Food + Activities + 15% buffer (use industry averages: domestic week-long ~$2,500; international 10 days ~$5,000 — anchor with PAA's $5,000 reference). Row 2 — Months until trip. Row 3 — Monthly auto-transfer = Row 1 ÷ Row 2. Row 4 — Stress test: is Row 3 ≤ 8% of monthly net income? If no, extend Row 2 or shrink Row 1. Worked example pulling JSONL repeated_phrase 'paycheck to paycheck' to anchor the stress test: '$5,000 trip, 18 months → $278/mo. On a $3,500 net paycheck that is 8% — at the edge. Either give yourself 24 months ($208/mo, 6%) or pick a $3,500 trip ($194/mo, 5.5%).' JSONL repeated_phrase 'pen and paper/an excel sheet' callout: 'A 4-row notebook calculator beats a points-tracking app for actually funding a trip — try it for 30 days before you install anything.'"
+    }
+  ],
+  "nlp_entities": [
+    "vacation sinking fund",
+    "HYSA sub-account / bucket / vault",
+    "save-by-date monthly transfer",
+    "trip cost stress test",
+    "labeled savings sub-account",
+    "Pay-Yourself-First automation",
+    "compound interest pre-trip",
+    "goal-bucket architecture",
+    "deal-app (post-funding) layer",
+    "expense-split (post-trip) layer",
+    "FDIC-insured travel cash",
+    "trip cost ÷ months remaining"
+  ],
+  "eeat_requirements": [
+    "Cite the FDIC weekly national rates page (cite fdic.gov/regulations/resources/rates) for the current HYSA APY benchmark used in the auto-transfer math. Anchors the ~$60 of accrued interest figure to a verifiable rate rather than a marketing number.",
+    "Cite the U.S. Travel Association annual travel spending report (cite ustravel.org/research) for industry-average trip cost ranges (domestic week, international 10-day) used in the calculator. Converts the $2,500 / $5,000 anchors from a guess into a sourced benchmark — none of the eight competitors anchors trip cost to a national average.",
+    "Cite a behavioral-economics paper on labeled savings ('Save More Tomorrow,' Thaler & Benartzi 2004, Journal of Political Economy; cite via doi.org/10.1086/380085) to support the claim that labeling a sub-account by destination raises completion rates vs. an unlabeled balance. Converts the 'name your bucket Tokyo 2026' tactic from folk advice into an empirically-grounded recommendation."
+  ],
+  "style_critique": {
+    "all_tones_found": [
+      {
+        "tone": "promotional listicle",
+        "used_by": "budgettravel.com r2, familiesgotravel.com r11, yahoo.com r14, geb.tv r13, bgr.com r10"
+      },
+      {
+        "tone": "store-listing marketing",
+        "used_by": "apps.apple.com r3 (TravelSpend), play.google.com r4 (SaveTrip)"
+      },
+      {
+        "tone": "consumer-magazine guide",
+        "used_by": "aarp.org r7"
+      }
+    ],
+    "winning_tone": "Practical-realist with quiet authority — direct about what counts as a savings app vs. a spending app, judgment-free about prior failed savings attempts, numbers-first on monthly transfer math",
+    "decision_reason": "Priority 1 fired — JSONL emotional_state 'Anxiety about financial instability' triggered by 'Tracking expenses but not saving money' + 'Living paycheck to paycheck' + JSONL repeated_phrase 'pen and paper/an excel sheet' and 'where did all of it go.' A practical-realist tone fills the gap left by the listicle cluster (budgettravel, familiesgotravel, yahoo, geb, bgr) which conflates booking apps with savings apps, and the store-listing cluster (TravelSpend, SaveTrip) which sells subscriptions for in-trip tracking the reader does not yet need. The reader's anxiety is not 'which app should I pick' — it is 'I want a vacation and I have nothing saved'; the article must answer the second question first.",
+    "our_directives": [
+      "When recommending an app or account, always state whether it is a Bucket-A (save FOR) or Bucket-B (spend less ON) tool. Never write 'try Skyscanner' — write 'Skyscanner is a Bucket-B deal app — install AFTER your sub-account is funded, not before.'",
+      "When showing a savings target, always render the math in three numbers in one sentence. Never write 'save up' — write '$3,000 trip ÷ 12 months = $250/month auto-transfer.'",
+      "When recommending a HYSA, always name two specific banks with sub-account features. Never write 'use a high-yield savings account' — write 'use a HYSA that supports labeled sub-accounts (Ally Buckets, SoFi Vaults, or Capital One 360 — all FDIC-insured, ~4% APY).'",
+      "When the reader confesses to JSONL pain 'paycheck to paycheck,' always pair empathy with the stress-test rule. Never write 'just save what you can.' Always write '[Empathy sentence]. The fix is the 8% rule: if your monthly transfer exceeds 8% of net pay, extend the timeline or pick a cheaper trip — both protect the JSONL paycheck-to-paycheck buffer.'"
+    ]
+  },
+  "title_intelligence": {
+    "dominant_title_pattern": "'[N] [Free] Apps to Save Money [On / While / For] Travel [Year]' — every competitor opens with a number and follows with a vague save-on-travel descriptor; few specify FOR vs ON.",
+    "short_title": "Best App to Save Money FOR Travel: HYSA Buckets Beat Listicles",
+    "long_title": "The Best Apps to Save Money For Travel — Why a Free HYSA Sub-Account Beats Every Listicle (and the Math That Proves It)"
+  },
+  "reader_psychology": {
+    "triggering_thought": "'I want to take a real trip this year but every paycheck disappears and I cannot tell which apps actually help me SAVE for travel versus which ones just help me find cheaper flights when I already have no money.' — close paraphrase of JSONL emotional_state 'Anxiety about financial instability' + 'Feeling helpless and lacking control over money' + JSONL repeated_phrase 'paycheck to paycheck' and 'where did all of it go' + JSONL pain 'Tracking expenses but not saving money.'",
+    "desired_internal_shift": "From Helpless Listicle Browser to Sub-Account Operator With a Funded Sinking Fund",
+    "bridge_content": "The Bucket-A vs Bucket-B reframe (Content Gap 1) followed by the HYSA sub-account stack (Content Gap 2), then the calculator (Content Gap 3). The reader arrives believing the choice is among 13 apps; the article reframes the question as 'do you have a labeled vacation sub-account funding on auto-pilot, yes or no?' If no, they are in Bucket A and need infrastructure, not a deal feed. Once the reader sees the auto-transfer math against their paycheck, the anxiety converts into a single 5-minute setup task that funds the trip months before they ever open Skyscanner."
+  },
+  "internal_linking": null
+}
+```
+<!-- END_BATTLE_PLAN_BRIEF -->

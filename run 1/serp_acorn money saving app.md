@@ -531,3 +531,90 @@ _Body text (45 chars) saved to JSON sidecar_
 
 
 ---
+
+
+---
+<!-- BATTLE_PLAN_BRIEF -->
+# Battle Plan Brief
+**Generated:** 2026-04-27T00:31:28.167601+00:00  
+**Keyword:** acorn money saving app
+
+## Validation — 4 Checks (PASS)
+- **Keyword match:** YES — Keyword tokens hit: 4/4; angle tokens: 7
+- **Psychology match:** YES — 23 pain/emotion tokens echoed; keyword hit: True
+- **Competitor evidence:** YES — 3/3 gaps tied to named competitors with body evidence
+- **Gap specificity:** YES — All 3 gaps are specific (named WHO + WHERE + concrete edge)
+
+## Brief
+```json
+{
+  "content_gaps": [
+    {
+      "name": "Round-up vs. fee breakeven math",
+      "what_they_missed": "cnbc.com (1,193 words) lists the fee tiers verbatim ('Bronze ($3 per month), Silver ($6 per month), and Gold ($12 per month)') and gives the round-up example 'a coffee for $3.75, Acorns rounds up to the nearest dollar and invests the spare $0.25.' nerdwallet.com (2,428 words) flags 'At small account balances, Acorns' fees can cut into investment returns' but does not show the math. unbiased.com (2,193 words) explains the round-up mechanism in detail without ever calculating breakeven. The two play.google.com pages and apps.apple.com promote 'spare change' but never connect it to the monthly fee. No competitor answers the obvious question: 'how many round-ups per month do I need just to break even on the fee?'",
+      "our_edge": "Add an H2 'The Round-Up Breakeven Calculator (Show the Fee-vs-Spare-Change Math).' Rule: average round-up = $0.50 per qualifying transaction. Bronze ($3/month) ÷ $0.50 = 6 transactions/month just to break even on the fee — anything below that is a net loss. Silver ($6/month) = 12 break-even transactions. Gold ($12/month) = 24 break-even transactions. Worked example pulling cnbc.com's $3.75 coffee: 'If you only run round-ups on a daily coffee, you get 30 × $0.25 = $7.50 of round-ups per month. On Bronze ($3) you net $4.50; on Silver ($6) you net $1.50; on Gold ($12) you lose $4.50 every single month before any market return.' Closing line: 'Acorns is a fee-positive product only after a clear monthly transaction floor — calculate yours before you commit to a tier.'"
+    },
+    {
+      "name": "The 'tracking but not saving' paradox Acorns does not actually solve",
+      "what_they_missed": "Every competitor frames Acorns as the solution to passive saving. play.google.com r2/r5: 'You can get started in under 5 minutes, with as little as your spare change.' acorns.com (641 words): 'an Acorns feature that automatically invests your spare change' — the entire pitch is automation. unbiased.com explains 'every purchase is rounded up to the nearest dollar.' But the JSONL top_pain is 'Tracking expenses but still not having money left/saving' — the reader's actual problem is awareness. Acorns by design REMOVES awareness (round-ups happen invisibly, they hit the investment account on a delay). The JSONL repeated_phrase 'pen and paper/an excel sheet' shows the reader instinctively wants more visibility, not less. No competitor addresses this mismatch.",
+      "our_edge": "Add an H2 'When Acorns Helps — and When a Spreadsheet Outperforms It.' Build a 2-row decision callout. Row 1: Pick Acorns if your problem is 'I would save if I never had to think about it' (low-discipline, mid-income, want SIPC-protected investing exposure). Row 2: Skip Acorns and use a manual tracker if your problem is 'I track but still don't have money left' (the JSONL top_pain) — automation will deepen the leak by hiding the round-ups inside an opaque investment account where the reader cannot see the cumulative monthly drag against fees. Concrete swap: 'Open the same fee-free brokerage IRA at Fidelity or Schwab, set a $50/month auto-transfer, and keep the JSONL repeated-phrase pen-and-paper or Excel sheet to log every transaction. Same dollar outcome. More awareness. Zero monthly fee.' Anchored line: 'Acorns automates the saving but pen-and-paper tracking is what breaks the cycle the JSONL pain points to.'"
+    },
+    {
+      "name": "The behavioral cost of linking your spending card",
+      "what_they_missed": "unbiased.com (2,193 words) explains the round-up mechanism in operational terms: 'users link a debit or credit card, and every purchase is rounded up to the nearest dollar. Once these round-ups hit $5, this is automatically invested.' nerdwallet.com (2,428 words) frames roundups as a positive ('most investors will be surprised by how quickly those pennies accumulate'). play.google.com / acorns.com / cnbc.com all describe the linked-card mechanic without flagging the behavioral side effect: the more you spend, the more you 'save' — which converts the round-up into a soft permission structure for spending. The JSONL pain 'Impulse spending undermines budgeting efforts' shows readers already battle this; no competitor connects the dots.",
+      "our_edge": "Add an H2 'The Round-Up Loophole: Why Spending More to Save More Is the Wrong Math.' Worked example: a reader who spends $600/month on the linked card generates ~30 round-ups × $0.50 ≈ $15 of round-ups. Spending $1,200/month doubles round-ups to ~$30. The 'reward' for doubling spend = $15 of monthly investment contribution. The cost = an extra $600 of net cash gone. Closing rule: 'A round-up is not a savings event — it is a 1.7% rebate on a discretionary purchase. Use Acorns only after you have a separate monthly cap on linked-card spend; otherwise the JSONL pain pattern continues with a fintech-shaped polish.' Pair with the JSONL emotional_state callout 'Empowerment/rush from redirecting spending impulse to saving' to redirect the reader: 'The rush you want is the rush of NOT spending — Acorns turns that rush into a spending dopamine hit. Reverse the loop: log the would-be purchase on pen-and-paper, then transfer the full price (not the round-up) to a HYSA.'"
+    }
+  ],
+  "nlp_entities": [
+    "round-up breakeven point",
+    "monthly subscription drag",
+    "linked-card behavioral loop",
+    "automation-vs-awareness tradeoff",
+    "micro-investing fee floor",
+    "Round-Ups® mechanic",
+    "SIPC-protected brokerage account",
+    "manual tracking discipline",
+    "discretionary-spend rebate framing",
+    "small-balance fee disproportion",
+    "fee-positive transaction floor",
+    "fintech savings hygiene"
+  ],
+  "eeat_requirements": [
+    "Cite the Acorns fee tier disclosure directly from acorns.com (or the SEC ADV Form, since Acorns is a registered investment advisor) — 'Bronze $3/mo, Silver $6/mo, Gold $12/mo.' cnbc.com already quotes these; using Acorns' own disclosure as the primary source is a stronger trust signal and lets the article show the math against an authoritative figure rather than a third-party recap.",
+    "Cite the SIPC coverage limit ($500,000) from sipc.org for the investment account claim and the FDIC coverage limit ($250,000) from fdic.gov for the Acorns Checking claim. play.google.com states both protections; sourcing them from SIPC and FDIC directly converts a marketing line into a verifiable trust line.",
+    "Cite a peer-reviewed behavioral-economics source for the 'mental accounting' framing of linked-card round-ups — Thaler 1985, 'Mental Accounting and Consumer Choice' (Marketing Science) or Thaler 1999, 'Mental Accounting Matters' (Journal of Behavioral Decision Making). Use this to anchor the 'spending-to-save' loop critique. None of the four review competitors cites primary behavioral-economics literature; doing so converts the contrarian gap into an empirically defensible position."
+  ],
+  "style_critique": {
+    "all_tones_found": [
+      {
+        "tone": "promotional app-store marketing",
+        "used_by": "play.google.com r2/r5, apps.apple.com r6, acorns.com r7"
+      },
+      {
+        "tone": "balanced reviewer",
+        "used_by": "nerdwallet.com r12, cnbc.com r14, unbiased.com r9"
+      }
+    ],
+    "winning_tone": "Numbers-first contrarian — direct about fee math, judgment-free about discipline gaps, and willing to recommend NOT using the product when the math says so",
+    "decision_reason": "Priority 1 fired — JSONL emotional_state 'Confusion and frustration from tracking but not saving' triggered by 'Tracking expenses but still not having money left/saving' + JSONL repeated_phrase 'pen and paper/an excel sheet' — A numbers-first contrarian tone fills the gap left by the promotional cluster (play.google.com, acorns.com, apps.apple.com) and even the reviewer cluster (nerdwallet, unbiased, cnbc) which all stop short of computing fee breakeven. The reader's frustration is fueled by 'I keep trying systems and nothing makes my balance grow' — the article's job is to show the math so they can see exactly when an app helps and when manual tracking wins.",
+    "our_directives": [
+      "When mentioning the Acorns fee, always pair the dollar amount with the round-up volume needed to break even. Never write '$3 per month' without writing '(6 round-ups at $0.50 to break even)' in the same sentence.",
+      "When describing a round-up event, always show the per-purchase dollar value. Never write 'spare change adds up' — write 'a $3.75 coffee = $0.25 round-up; 30 coffees/month = $7.50 of round-ups (cnbc.com worked example).'",
+      "When recommending an alternative (Fidelity, Schwab, HYSA), always state the fee structure for both products in the same line. Never write 'a no-fee brokerage exists' — write 'Fidelity Roth IRA: $0 monthly fee; Acorns Bronze: $3 monthly fee.'",
+      "When the reader confesses to the JSONL pain 'tracking but still not saving,' always pair empathy with one specific manual-tracking action. Never write 'tracking is hard.' Always write '[Empathy sentence]. The fix that matches the JSONL signal: log every transaction in a paper notebook or single Excel column for 14 days BEFORE you decide whether to automate. The awareness is the savings.'"
+    ]
+  },
+  "title_intelligence": {
+    "dominant_title_pattern": "'Acorns: Save & Invest Money' or '[Source] Acorns Review' — most pages lead with the brand name and either a product descriptor or a review tag.",
+    "short_title": "Acorns App Review: When the Fee Eats the Round-Up",
+    "long_title": "Acorns Money Saving App — A Math-First Review of Round-Ups, Fees, and the Awareness Trade-Off"
+  },
+  "reader_psychology": {
+    "triggering_thought": "'I keep tracking my spending and somehow there's still nothing saved at the end of the month — maybe the Acorns app will fix it for me automatically. But $3 a month is real money and I want to know if the round-ups actually beat the fee before I sign up.' — close paraphrase of JSONL emotional_state 'Confusion and frustration from tracking but not saving' + 'Anxiety about being behind on savings milestones' + JSONL repeated_phrase 'track every dollar' and 'pen and paper/an excel sheet.'",
+    "desired_internal_shift": "From Hopeful Automation Seeker to Math-Aware System Picker",
+    "bridge_content": "The Round-Up Breakeven Calculator (Content Gap 1) followed by the When-Acorns-Wins / When-Manual-Wins decision callout (Content Gap 2). The reader arrives believing automation is always the upgrade over their pen-and-paper / Excel sheet. The article reframes the choice as a numerical fork: at low transaction volumes the fee eats the round-ups, and at high volumes the linked card creates a permission structure that worsens the JSONL pain. Like buying a treadmill to fix a step-counting problem — sometimes the simpler tool was already solving the right problem; the app would solve a different one. Once the reader runs their own breakeven number, the Acorns vs. manual decision becomes a 30-second math problem instead of a guilt-driven leap of faith."
+  },
+  "internal_linking": null
+}
+```
+<!-- END_BATTLE_PLAN_BRIEF -->
