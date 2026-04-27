@@ -551,3 +551,98 @@ _Body text (43 chars) saved to JSON sidecar_
 
 
 ---
+
+
+---
+<!-- BATTLE_PLAN_BRIEF -->
+# Battle Plan Brief
+**Generated:** 2026-04-27T10:32:00.959159+00:00  
+**Keyword:** how to save money on water bill
+
+## Validation — 4 Checks (PASS)
+- **Keyword match:** YES — Keyword tokens hit: 4/4; angle tokens: 6
+- **Psychology match:** YES — 22 pain/emotion tokens echoed; keyword hit: True
+- **Competitor evidence:** YES — 3/3 gaps tied to named competitors with body evidence
+- **Gap specificity:** YES — All 3 gaps are specific (named WHO + WHERE + concrete edge)
+
+## Brief
+```json
+{
+  "content_gaps": [
+    {
+      "name": "Water-bill line-item audit (water + sewer + stormwater + base fee + tier-rate) with $/CCF + $/1000-gal context — never built; competitors lump 'water bill' without separating each line, the tiered rate structure, or what's actually controllable",
+      "what_they_missed": "fayetteheating.com (1,057 words) discusses water generically as part of household expenses without per-line decomposition. aquasureusa.com (1,592 words — ranks 8 and 15) frames around 'utility bills' anxiety without water + sewer + stormwater split. berthoud.org (919 words — Berthoud CO municipal page) lists conservation tips without rate-tier or sewer-multiplier math. consumerreports.org (1,476 words) frames around drought without per-line audit. None of the four distinct competitors builds: (a) the 4-line decomposition — Water 35-50% (volumetric @ tier 1-4), Sewer 35-55% (often calculated as % of water), Stormwater 5-15% (flat or impervious-area), Base/meter fee 10-20% (fixed); (b) tiered-rate structure where tier-2 + tier-3 cost 2-4× tier-1; (c) sewer-multiplier rule — many municipalities bill sewer as a multiple of metered water (often 1.0-1.5×), so every gallon saved cuts BOTH lines; (d) summer-irrigation surcharge that some utilities add for May-Sep usage; (e) average household uses 8,000-12,000 gallons/month at $50-$120/month total — half of which goes to JSONL-aligned automatable conservation per EPA WaterSense (cite epa.gov/watersense) and EPA WaterSense audit data.",
+      "our_edge": "Add an H2: 'Audit Your Water Bill By Line + Tier Then Apply The Right Tactic.' 4-row table. Columns: Bill Line | Typical %-share | $/unit context | Controllable?. Row 1: Water (volumetric tier 1-4) 35-50% — $3-$8 per 1,000 gal at tier 1 rising to $10-$25 at tier 4 (cite each utility's posted rate sheet AND epa.gov/watersense/how-we-use-water — average household 8,000-12,000 gal/month). Row 2: Sewer 35-55% — billed as 1.0-1.5× of metered water in most municipalities (cite each city utility ordinance); every gallon saved cuts BOTH lines, so effective $/gal is roughly DOUBLE the water tier. Row 3: Stormwater 5-15% — flat fee or impervious-area surface ($3-$15/month typical); not volumetric. Row 4: Base/meter fee 10-20% — fixed $8-$25/month regardless of usage. Tier rule: most utilities use 4-tier structure where tier 1 ≤4,000 gal cheapest, tier 4 >12,000 gal punitive (cite each utility AND awwa.org/waternow). Federal subsidy: LIHWAP low-income water assistance program (cite acf.hhs.gov/ocs/programs/lihwap) up to $1,500/year for income-eligible at ≤150% FPL. Anchored to JSONL pain 'compulsive saving behavior leading to unwillingness to spend saved funds' — the per-line + tier audit converts JSONL anxiety-fear-compulsion-attachment into a JSONL automating + emergency-fund + sinking-funds discipline that prefers low-cost EPA WaterSense replacements over hoarding."
+    },
+    {
+      "name": "EPA WaterSense fixture-replacement toolkit (low-flow showerhead 2.0 GPM + faucet aerator 1.5 GPM + WaterSense toilet 1.28 GPF + leak-detection-via-meter-pulse) with quantified per-fixture savings + DSIRE rebates — never built; competitors mention conservation qualitatively without per-fixture dollar yield or municipal rebate stacks",
+      "what_they_missed": "fayetteheating.com (1,057 words) and aquasureusa.com (1,592 words) and berthoud.org (919 words) and consumerreports.org (1,476 words) all skip the per-fixture quantified savings + DSIRE rebate framework. None of the four competitors builds: (a) low-flow showerhead 2.0 GPM saves 2,500 gallons/year vs 2.5+ GPM (cite epa.gov/watersense/showerheads); (b) faucet aerator 1.5 GPM saves 700 gallons/year per faucet (cite epa.gov/watersense/bathroom-sink-faucets); (c) WaterSense-labeled toilet 1.28 GPF saves 13,000 gallons/year per replaced 3.5+ GPF toilet (cite epa.gov/watersense/residential-toilets); (d) leak detection via 2-hour zero-use water-meter test — flapper drip alone wastes 200 gallons/day = 6,000 gal/month (cite epa.gov/watersense/fix-a-leak-week); (e) EPA WaterSense list at lookforwatersense.epa.gov AND WaterSense rebates database AND DSIRE state rebates (cite dsireusa.org); (f) water-heater 120°F + insulation jacket cuts BOTH water + energy bills 4-9% (cite energy.gov/energysaver/water-heating); (g) average household leaks 10,000 gallons/year = ~$80-$200/year wasted (cite epa.gov/watersense/fix-a-leak-week).",
+      "our_edge": "Add an H2: 'Replace 4 Fixtures + Detect Leaks + Stack Rebates.' 6-row toolkit. Row 1: WaterSense showerhead 2.0 GPM saves 2,500 gal/year ≈ $25-$60/year (cite epa.gov/watersense/showerheads) — $15-$40 fixture + 30 sec install. Row 2: Faucet aerator 1.5 GPM saves 700 gal/year per faucet ≈ $7-$15/year × 4 faucets (cite epa.gov/watersense/bathroom-sink-faucets) — $3-$8 each + 1 min install. Row 3: WaterSense toilet 1.28 GPF saves 13,000 gal/year ≈ $130-$300/year per replaced toilet (cite epa.gov/watersense/residential-toilets) — $150-$400 fixture; ROI 1-3 years. Row 4: Leak detection — 2-hour zero-use meter test + dye-tablet toilet test (cite epa.gov/watersense/fix-a-leak-week) — flapper drip = $80-$200/year fix; 10% of homes have leaks wasting 90+ gal/day. Row 5: Water heater 120°F + insulation jacket saves 4-9% on water + energy (cite energy.gov/energysaver/water-heating). Row 6: Stack DSIRE municipal + state rebates $25-$200 per fixture (cite dsireusa.org) AND EPA rebate finder at epa.gov/watersense/find-products + lookforwatersense.epa.gov. Total stacked savings: $250-$600/year on $600-$1,400 annual water+sewer bill. Anchored to JSONL repeated phrase 'automating' + emotional state 'Compulsion / Addiction' — the WaterSense fixture replacement is install-once-save-forever automation that channels JSONL compulsive-saving-behavior into structural water cost reduction without obsessive shower-timing."
+    },
+    {
+      "name": "Outdoor + irrigation + appliance demand-side toolkit (smart-controller + drip + drought-tolerant landscape + ENERGY STAR clothes/dish washer + cold-water laundry) with quantified savings — never built; competitors stay inside indoor fixtures or generic conservation tips",
+      "what_they_missed": "fayetteheating.com (1,057 words) and aquasureusa.com (1,592 words) and consumerreports.org (1,476 words) and berthoud.org (919 words) skip outdoor + appliance demand-side. consumerreports.org references drought.gov + NOAA but doesn't build per-tactic outdoor table. None of the four competitors builds: (a) outdoor irrigation = 30-50% of typical household water use in summer (cite epa.gov/watersense/outdoor); (b) WaterSense-labeled smart irrigation controller with weather-based scheduling cuts 30-50% irrigation use ≈ $50-$200/year + DSIRE rebates (cite epa.gov/watersense/weather-based-irrigation-controllers); (c) drip + soaker hose vs sprinkler cuts 30-70% on bed/garden zones; (d) drought-tolerant landscape / xeriscape replacing 500-1,000 sq ft turf cuts 50-75% irrigation (cite epa.gov/watersense/landscape-water-budget); (e) ENERGY STAR clothes washer uses 33% less water + 25% less energy (cite energystar.gov/products/clothes_washers) + cold-water cycle saves 90% washer energy; (f) ENERGY STAR dishwasher uses 3.5 gal/load vs hand-wash 27 gal/load (cite energystar.gov/products/dishwashers); (g) pool cover cuts evaporation 30-50% on pool households.",
+      "our_edge": "Add an H2: 'Outdoor + Appliance Demand-Side Toolkit.' 7-row table. Row 1: WaterSense smart irrigation controller (weather-based) cuts 30-50% irrigation ≈ $50-$200/year (cite epa.gov/watersense/weather-based-irrigation-controllers) + DSIRE rebate $50-$150 (cite dsireusa.org). Row 2: Drip + soaker hose for beds/gardens cuts 30-70% vs sprinkler. Row 3: Drought-tolerant xeriscape 500-1,000 sq ft turf replacement cuts 50-75% irrigation (cite epa.gov/watersense/landscape-water-budget) + many cities offer $1-$3/sq ft turf-removal rebate (cite each city utility AND dsireusa.org). Row 4: ENERGY STAR clothes washer 33% less water (cite energystar.gov/products/clothes_washers) + cold-water cycle saves 90% washer energy. Row 5: ENERGY STAR dishwasher 3.5 gal/load vs hand-wash 27 gal/load (cite energystar.gov/products/dishwashers). Row 6: Pool cover cuts evaporation 30-50% on pool households = $150-$400/year on water + chemicals + heating. Row 7: Rainwater harvesting + greywater (where legal) — check state plumbing code AND epa.gov/watersense/rainwater. Plus federal LIHWAP for income-eligible (cite acf.hhs.gov/ocs/programs/lihwap). Anchored to JSONL repeated phrase 'automating' + emotional state 'Anxiety / Fear' + 'Attachment / Possessiveness' — the outdoor + appliance toolkit is structural automation that converts JSONL compulsive-saving-attachment into install-once measurable monthly water bill savings without daily anxiety about every drop."
+    }
+  ],
+  "nlp_entities": [
+    "4-line water bill decomposition",
+    "Tiered water rate structure tier 1-4",
+    "Sewer multiplier 1.0-1.5× water",
+    "EPA WaterSense fixture program",
+    "Low-flow showerhead 2.0 GPM",
+    "WaterSense toilet 1.28 GPF",
+    "EPA Fix-a-Leak Week meter test",
+    "DSIRE state-incentive database",
+    "Smart irrigation controller WaterSense",
+    "Drought-tolerant xeriscape",
+    "ENERGY STAR clothes / dishwasher",
+    "LIHWAP federal water assistance"
+  ],
+  "eeat_requirements": [
+    "Cite EPA WaterSense as the canonical source for fixture savings (cite epa.gov/watersense/showerheads AND epa.gov/watersense/bathroom-sink-faucets AND epa.gov/watersense/residential-toilets AND epa.gov/watersense/fix-a-leak-week AND epa.gov/watersense/how-we-use-water AND epa.gov/watersense/outdoor AND epa.gov/watersense/weather-based-irrigation-controllers AND epa.gov/watersense/landscape-water-budget AND lookforwatersense.epa.gov). Per-fixture and outdoor savings must anchor on EPA WaterSense primary government data.",
+    "Cite ENERGY STAR + DOE for water-heater and appliance savings (cite energystar.gov/products/clothes_washers AND energystar.gov/products/dishwashers AND energy.gov/energysaver/water-heating). Per-appliance savings must anchor on ENERGY STAR primary efficiency data.",
+    "Cite ACF/HHS LIHWAP (cite acf.hhs.gov/ocs/programs/lihwap) AND DSIRE state-incentive database (cite dsireusa.org) AND each city/utility rate sheet AND drought.gov for context. Federal subsidy + state rebate framework anchored on ACF/HHS + DSIRE + AWWA primary regulator sources."
+  ],
+  "style_critique": {
+    "all_tones_found": [
+      {
+        "tone": "HVAC contractor blog",
+        "used_by": "fayetteheating.com r2"
+      },
+      {
+        "tone": "water-treatment vendor",
+        "used_by": "aquasureusa.com r8/r15"
+      },
+      {
+        "tone": "municipal utility educational",
+        "used_by": "berthoud.org r10"
+      },
+      {
+        "tone": "consumer-watchdog publisher",
+        "used_by": "consumerreports.org r12"
+      }
+    ],
+    "winning_tone": "Investigative consumer advocate — builds the 4-line + tiered-rate water bill audit, the EPA WaterSense per-fixture replacement toolkit with quantified savings + DSIRE rebates, and the outdoor + appliance demand-side toolkit + LIHWAP federal subsidy stack",
+    "decision_reason": "Priority 1 fired — JSONL emotional_state 'Compulsion / Addiction' triggered by 'Compulsive saving behavior leading to unwillingness to spend saved funds' + JSONL emotional state 'Anxiety / Fear' + 'Attachment / Possessiveness' + JSONL repeated phrase 'emergency fund' / 'sinking funds' / 'save money' / 'automating' — An investigative-consumer-advocate tone fills the gap left by HVAC contractor, water-treatment vendor, municipal utility educational, and consumer-watchdog publisher.",
+    "our_directives": [
+      "When discussing water-bill audit, always present the 4-line + tiered-rate decomposition. Never write 'lower your water bill' — write 'audit by 4-line decomposition: water (volumetric tier 1-4) 35-50%; sewer (1.0-1.5× water) 35-55%; stormwater 5-15%; base fee 10-20%. Apply tier rule — tier 4 costs 2-4× tier 1 (cite each utility AND epa.gov/watersense/how-we-use-water).'",
+      "When recommending fixture replacement, always present the 6-row WaterSense + leak-detection toolkit. Never write 'install low-flow' — write 'replace 4 fixtures + detect leaks: (1) WaterSense showerhead 2.0 GPM saves 2,500 gal/year (cite epa.gov/watersense/showerheads); (2) aerator 1.5 GPM 700 gal/year/faucet (cite epa.gov/watersense/bathroom-sink-faucets); (3) WaterSense toilet 1.28 GPF saves 13,000 gal/year (cite epa.gov/watersense/residential-toilets); (4) 2-hour meter test for leaks (cite epa.gov/watersense/fix-a-leak-week); (5) water heater 120°F + jacket; (6) DSIRE rebates $25-$200/fixture (cite dsireusa.org).'",
+      "When discussing outdoor + appliances, always present the 7-row demand-side toolkit. Never write 'water less' — write 'apply 7-row toolkit: smart irrigation controller cuts 30-50% (cite epa.gov/watersense/weather-based-irrigation-controllers); drip 30-70% cut on beds; xeriscape 50-75% cut + city rebate $1-$3/sq ft (cite dsireusa.org); ENERGY STAR clothes washer 33% less water (cite energystar.gov/products/clothes_washers); ENERGY STAR dishwasher 3.5 gal/load (cite energystar.gov/products/dishwashers); pool cover; rainwater harvesting where legal.'",
+      "When the reader confesses to JSONL pain \\'compulsive saving behavior leading to unwillingness to spend saved funds,\\' pair empathy with the audit + replacement + outdoor framing. Never write \\'just use less water.\\' Always write \\'[Empathy sentence]. The fix: three structural moves convert JSONL anxiety-fear-compulsion-attachment into JSONL automating + emergency-fund + sinking-funds discipline — (a) audit by 4-line + tier decomposition, (b) replace 4 fixtures via EPA WaterSense + leak detection + DSIRE rebates, (c) deploy outdoor + appliance demand-side toolkit + LIHWAP if eligible.\\'"
+    ]
+  },
+  "title_intelligence": {
+    "dominant_title_pattern": "'Managing household expenses... your water bill / Afraid to look at your utility bills / Tips for Saving on My Water Bill / 40 percent of the U.S. in drought' — competitors title around expense-anxiety or drought-context without anchoring to 4-line + tiered audit OR EPA WaterSense fixture toolkit OR outdoor irrigation + appliance + LIHWAP stack.",
+    "short_title": "How To Save Money On Water Bill: 4-Line Audit + EPA WaterSense Toolkit + Outdoor + LIHWAP",
+    "long_title": "How To Save Money On Water Bill — Audit Your 4-Line Bill (Volumetric Tier 1-4 + Sewer 1.0-1.5× Water Multiplier + Stormwater + Base Fee), Replace 4 EPA WaterSense Fixtures (2.0 GPM Showerhead + 1.5 GPM Aerator + 1.28 GPF Toilet + 2-Hour Meter Leak Test) With $250-$600/Year Stacked Savings, And Deploy The 7-Row Outdoor + Appliance Demand-Side Toolkit (Smart Irrigation Controller + Drip + Xeriscape + ENERGY STAR Washer + Dishwasher + Pool Cover) With DSIRE State Rebates + LIHWAP Federal Assistance"
+  },
+  "reader_psychology": {
+    "triggering_thought": "'How to save money on water bill — every list says install low-flow and water less. But which fixture saves the most? My water bill is creeping up; sewer is calculated as a multiple. I have an emergency fund + sinking funds set to automating, but the compulsive-saving-behavior anxiety-fear and attachment-possessiveness mean I refuse to spend saved funds even on a $30 showerhead that would pay back in a year.' — close paraphrase of JSONL emotional_state 'Compulsion / Addiction' triggered by 'Compulsive saving behavior leading to unwillingness to spend saved funds' + JSONL emotional state 'Anxiety / Fear' + 'Attachment / Possessiveness' + JSONL repeated phrase 'emergency fund' / 'sinking funds' / 'save money' / 'automating.'",
+    "desired_internal_shift": "From Tip-List-Reader To 4-Line-Tiered-Bill-Auditor + EPA-WaterSense-Fixture-Replacer + Outdoor-Demand-Side-Operator With JSONL Automating + Emergency-Fund + Sinking-Funds Discipline Without Compulsive-Refusal-To-Spend",
+    "bridge_content": "4-Line + Tiered Water-Bill Audit With Sewer-Multiplier Math (Gap 1) → 6-Row EPA WaterSense Per-Fixture Replacement Toolkit + Leak Detection + DSIRE Rebate Stack (Gap 2) → 7-Row Outdoor + Appliance Demand-Side Toolkit + LIHWAP Federal Assistance (Gap 3). Once applied, JSONL anxiety-fear-compulsion-attachment converts into JSONL automating + emergency-fund + sinking-funds discipline that channels savings into install-once structural cuts."
+  },
+  "internal_linking": null
+}
+```
+<!-- END_BATTLE_PLAN_BRIEF -->
