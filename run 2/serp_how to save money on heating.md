@@ -587,3 +587,106 @@ _Body text (44 chars) saved to JSON sidecar_
 
 
 ---
+
+
+---
+<!-- BATTLE_PLAN_BRIEF -->
+# Battle Plan Brief
+**Generated:** 2026-04-27T10:24:15.186891+00:00  
+**Keyword:** how to save money on heating
+
+## Validation — 4 Checks (PASS)
+- **Keyword match:** YES — Keyword tokens hit: 3/3; angle tokens: 2
+- **Psychology match:** YES — 32 pain/emotion tokens echoed; keyword hit: True
+- **Competitor evidence:** YES — 3/3 gaps tied to named competitors with body evidence
+- **Gap specificity:** YES — All 3 gaps are specific (named WHO + WHERE + concrete edge)
+
+## Brief
+```json
+{
+  "content_gaps": [
+    {
+      "name": "Heating-system fuel-cost ladder (gas AFUE / oil / propane / heat-pump COP / electric resistance) with $/MMBtu arithmetic by region — never built; competitors mention 'high-efficiency furnace or heat pump' without showing the per-fuel cost-per-BTU comparison",
+      "what_they_missed": "trane.com (1,516 words) names 'high-efficiency furnace or heat pump' generically without per-fuel $/MMBtu math. americanstandardair.com (978 words) names 'smart thermostat + insulation' qualitatively. peoples-gas.com (945 words) is a utility-newsroom page without fuel cost ladder. aarp.org (1,890 words) cites $196 → $265 monthly bill rise without per-fuel arithmetic. homes.rewiringamerica.org (775 words) names 'heat pumps 2-4× more efficient' without the AFUE / COP / $/MMBtu table. consumerreports.org (1,685 words) and energy.gov (783 words) skip the fuel ladder. None of the seven competitors builds a $/MMBtu comparison: natural gas $15-$25/MMBtu at 90% AFUE = $17-$28/MMBtu delivered; heating oil $25-$40/MMBtu at 80% AFUE = $31-$50; propane $30-$45/MMBtu at 90% = $33-$50; cold-climate heat pump at $0.16/kWh ÷ COP 2.5-3.5 = $13-$19/MMBtu delivered (cite eia.gov/dnav/ng/ng_pri_fut_s1_d.htm AND eia.gov/petroleum/heatingoilpropane AND energy.gov/energysaver/heat-pump-systems).",
+      "our_edge": "Add an H2: 'Compare Fuels By $/MMBtu Delivered Heat — Then Decide.' 5-row table. Columns: Fuel | Price | AFUE/COP | $/MMBtu Delivered. Row 1: Natural gas furnace AFUE 90-98% — $15-$25/MMBtu raw at $/therm × 10 = $/MMBtu (cite eia.gov/dnav/ng/ng_pri_fut_s1_d.htm). Row 2: Heating oil AFUE 80-90% — $25-$40/MMBtu raw × 1/AFUE (cite eia.gov/petroleum/heatingoilpropane). Row 3: Propane AFUE 80-95% — $30-$45/MMBtu raw. Row 4: Cold-climate heat pump COP 2.5-3.5 — at $0.16/kWh = $13-$19/MMBtu delivered (cite energy.gov/energysaver/heat-pump-systems AND energystar.gov/products/heating_cooling/heat_pumps_air_source). Row 5: Electric resistance baseboard COP 1.0 — at $0.16/kWh = $47/MMBtu (cite energy.gov/energysaver/electric-resistance-heating). Decision rule: rank by $/MMBtu in your zip code. Then federal IRA 25C 30% tax credit up to $2,000/year on cold-climate heat pumps + HEEHRA up to $8,000 income-eligible (cite irs.gov/credits-deductions/individuals/energy-efficient-home-improvement-credit AND homes.rewiringamerica.org). Anchored to JSONL pain 'fear/refusal to use emergency savings for intended emergencies' — the $/MMBtu math converts JSONL attachment-hoarding into rational fuel-tier upgrade."
+    },
+    {
+      "name": "Manual J + air-sealing + duct-sealing + R-49 attic insulation envelope ladder with payback math — never built; competitors say 'weatherize' without showing per-upgrade ROI or IRA 25C credit",
+      "what_they_missed": "trane.com (1,516 words) names weatherization qualitatively. americanstandardair.com (978 words) mentions 'increasing insulation' without R-value ladder. consumerreports.org (1,685 words) and aarp.org (1,890 words) name energy-bill spike without Manual J + blower-door + duct-leak + IRA 25C tax credit framework. None of the seven competitors builds the ACCA Manual J + 5-15 ACH50 air-sealing + 20-30% duct loss + R-19 → R-49 attic + IRS 25C 30% credit math (cite acca.org AND energy.gov/energysaver/sizing-heat-pumps AND epa.gov/indoor-air-quality-iaq AND energystar.gov/saveathome/seal_insulate AND energystar.gov/products/heating_cooling/sealing_your_heating_and_cooling_ducts AND energystar.gov/saveathome/seal_insulate/insulation AND irs.gov/credits-deductions/individuals/energy-efficient-home-improvement-credit).",
+      "our_edge": "Add an H2: 'The 5-Step Envelope-Upgrade Ladder With Payback Math.' Row 1: Manual J load calc $200-$500 (cite acca.org AND energy.gov/energysaver/sizing-heat-pumps) — fixes 15-30% over-sizing waste. Row 2: Blower-door + air-sealing $200-$1,000 — 5-15 ACH50 → 3-7 ACH50 = 10-25% heating cut $200-$600/year (cite epa.gov/indoor-air-quality-iaq AND energystar.gov/saveathome/seal_insulate) — payback 1-3 years. Row 3: Duct-sealing $300-$1,500 — recover 20-30% loss = $200-$700/year (cite energystar.gov/products/heating_cooling/sealing_your_heating_and_cooling_ducts) — payback 2-5 years. Row 4: Attic R-19 → R-49 in cold-climate zones 5-7 $1,500-$3,500 (cite energystar.gov/saveathome/seal_insulate/insulation) — 15-25% cut $300-$800/year — payback 4-8 years. Row 5: Storm windows + thermal cellular blinds + door-sweeps $200-$800 — 5-10% cut $100-$300/year — payback 1-3 years. IRA 25C 30% credit up to $1,200/year on insulation + air-sealing + windows (cite irs.gov/credits-deductions/individuals/energy-efficient-home-improvement-credit) plus DSIRE state utility rebates (cite dsireusa.org). Anchored to JSONL emotional state 'Stress from hidden expenses and lack of budgetary control' — the structural ladder converts hidden-expense stress into JSONL track-every-dollar + sinking-funds discipline."
+    },
+    {
+      "name": "Smart-thermostat 8°F-setback + zone-heating + passive-solar + humidifier behavior toolkit with quantified per-tactic savings — never built; competitors mention 'smart thermostat' without DOE setback math or per-tactic dollar yield",
+      "what_they_missed": "energy.gov (783 words) names 'set thermostat lower' without 8°F × 8-hour rule arithmetic. trane.com (1,516 words) and americanstandardair.com (978 words) name smart thermostat qualitatively. aarp.org (1,890 words) and homes.rewiringamerica.org (775 words) skip the per-tactic behavior table. consumerreports.org (1,685 words) lists tactics without quantified yield. None of the seven competitors builds: DOE 8°F × 8-hour saves 5-10% (cite energy.gov/energysaver/programmable-thermostats); zone-heating with $30-$80 space heaters cuts whole-home 25-40% in 1-2 person homes; passive solar 9am-3pm 5-10% (cite energy.gov/energysaver/passive-solar-home-design); humidifier 30-50% RH makes 65°F feel like 68°F (cite epa.gov/indoor-air-quality-iaq); reverse ceiling fan 5-10%; thermal blinds R-2.0 to R-4.5 (cite energystar.gov/products/windows_doors_skylights/storm_windows); Time-of-Use shift; cold-water laundry.",
+      "our_edge": "Add an H2: '8-Tactic Behavior Toolkit With Quantified Per-Tactic Savings.' Row 1: 8°F setback × 8 hr saves 5-10% = $20-$50/month (cite energy.gov/energysaver/programmable-thermostats). Row 2: Zone-heating with $30-$80 space heaters + close interior doors cuts whole-home 25-40% = $40-$80/month in 1-2 person homes. Row 3: Passive solar 9am-3pm + close at sunset 5-10% = $10-$25/month (cite energy.gov/energysaver/passive-solar-home-design). Row 4: Humidifier 30-50% RH makes 65°F feel like 68°F = $5-$15/month (cite epa.gov/indoor-air-quality-iaq). Row 5: Reverse ceiling fan clockwise low-speed = $5-$15/month. Row 6: Thermal cellular blinds R-2.0 to R-4.5 = $10-$25/month (cite energystar.gov/products/windows_doors_skylights/storm_windows). Row 7: Time-of-Use shift to 9pm-6am off-peak = $15-$30/month (cite each state PUC). Row 8: Cold-water laundry = $5-$15/month. Stacked $110-$255/month savings on $250-$500 winter heating bill (35-50% reduction). Smart-thermostat tier comparison: Ecobee SmartThermostat with Voice / Nest Learning / Sensi Touch / Honeywell T9 — all save 10-15% HVAC. Anchored to JSONL emotional state 'Anxiety/Fear about future financial emergencies' — the per-tactic table converts JSONL attachment-hoarding-savings into JSONL track-every-dollar emergency-fund discipline without freezing in a 60°F house."
+    }
+  ],
+  "nlp_entities": [
+    "$/MMBtu fuel-cost ladder",
+    "Natural gas furnace AFUE 90-98%",
+    "Cold-climate heat pump COP 2.5-3.5",
+    "Electric resistance COP 1.0 = $47/MMBtu",
+    "ACCA Manual J load calc",
+    "Blower-door 5-15 → 3-7 ACH50",
+    "Duct sealing 20-30% loss",
+    "DOE attic R-49 to R-60",
+    "IRA 25C 30% tax credit",
+    "HEEHRA $8,000 heat-pump rebate",
+    "DOE 8°F × 8-hour setback rule",
+    "Zone-heating with space heaters"
+  ],
+  "eeat_requirements": [
+    "Cite EIA fuel prices (cite eia.gov/dnav/ng/ng_pri_fut_s1_d.htm AND eia.gov/petroleum/heatingoilpropane) AND DOE heat pumps + electric resistance + setbacks + passive solar (cite energy.gov/energysaver/heat-pump-systems AND energy.gov/energysaver/electric-resistance-heating AND energy.gov/energysaver/programmable-thermostats AND energy.gov/energysaver/passive-solar-home-design AND energy.gov/energysaver/sizing-heat-pumps). Fuel ladder + behavior toolkit anchored on EIA + DOE primary government data.",
+    "Cite ENERGY STAR (cite energystar.gov/products/heating_cooling/heat_pumps_air_source AND energystar.gov/saveathome/seal_insulate AND energystar.gov/saveathome/seal_insulate/insulation AND energystar.gov/products/heating_cooling/sealing_your_heating_and_cooling_ducts AND energystar.gov/products/windows_doors_skylights/storm_windows) AND ACCA Manual J (cite acca.org) AND EPA indoor-air (cite epa.gov/indoor-air-quality-iaq).",
+    "Cite IRS IRA 25C credit (cite irs.gov/credits-deductions/individuals/energy-efficient-home-improvement-credit) AND HEEHRA via Rewiring America calculator (cite homes.rewiringamerica.org) AND DSIRE state-incentive database (cite dsireusa.org). Federal + state rebate stack must anchor on IRS + HUD + DSIRE primary regulator sources."
+  ],
+  "style_critique": {
+    "all_tones_found": [
+      {
+        "tone": "DOE / government educational",
+        "used_by": "energy.gov r2"
+      },
+      {
+        "tone": "utility-newsroom press releases",
+        "used_by": "peoples-gas.com r3"
+      },
+      {
+        "tone": "advocacy organization listicle",
+        "used_by": "aarp.org r4"
+      },
+      {
+        "tone": "HVAC vendor educational",
+        "used_by": "trane.com r6, americanstandardair.com r9"
+      },
+      {
+        "tone": "non-profit electrification advocate",
+        "used_by": "homes.rewiringamerica.org r15"
+      },
+      {
+        "tone": "consumer-watchdog publisher",
+        "used_by": "consumerreports.org r17"
+      }
+    ],
+    "winning_tone": "Investigative consumer advocate — builds the $/MMBtu fuel-cost ladder with AFUE/COP arithmetic, the 5-step Manual J + air-sealing + duct + insulation + window envelope ladder with ROI, and the 8-tactic behavior toolkit with IRA 25C + HEEHRA + DSIRE rebate stack",
+    "decision_reason": "Priority 1 fired — JSONL emotional_state 'Attachment/hoarding mentality towards savings' triggered by 'Fear/refusal to use emergency savings for intended emergencies' + JSONL emotional state 'Anxiety/Fear about future financial emergencies' + 'Stress from hidden expenses and lack of budgetary control' + JSONL repeated phrase 'track every dollar' / 'emergency fund' / 'sinking funds' — An investigative-consumer-advocate tone fills the gap left by DOE educational, utility newsroom, advocacy listicle, HVAC vendor educational, non-profit electrification advocate, and consumer-watchdog publisher.",
+    "our_directives": [
+      "When discussing heating savings, always present the $/MMBtu fuel-cost ladder. Never write 'use a high-efficiency system' — write 'rank by $/MMBtu delivered: natural gas at 90% AFUE = $17-$28/MMBtu (cite eia.gov/dnav/ng/ng_pri_fut_s1_d.htm); heating oil = $31-$50; propane = $33-$50; cold-climate heat pump COP 2.5-3.5 at $0.16/kWh = $13-$19/MMBtu (cite energy.gov/energysaver/heat-pump-systems AND energystar.gov/products/heating_cooling/heat_pumps_air_source); electric baseboard = $47/MMBtu (cite energy.gov/energysaver/electric-resistance-heating). Apply IRA 25C 30% (cite irs.gov/credits-deductions/individuals/energy-efficient-home-improvement-credit) + HEEHRA up to $8,000 income-eligible (cite homes.rewiringamerica.org).'",
+      "When recommending envelope upgrades, always present the 5-step Manual J + air-sealing + duct + insulation + window ladder with ROI. Never write 'weatherize.' Always write 'apply 5-step ladder: (1) Manual J $200-$500 (cite acca.org); (2) air-sealing 5-15 → 3-7 ACH50 = 10-25% cut (cite epa.gov/indoor-air-quality-iaq AND energystar.gov/saveathome/seal_insulate); (3) duct-sealing 20-30% loss recovery (cite energystar.gov/products/heating_cooling/sealing_your_heating_and_cooling_ducts); (4) attic R-49 (cite energystar.gov/saveathome/seal_insulate/insulation); (5) storm windows + thermal blinds (cite energystar.gov/products/windows_doors_skylights/storm_windows). IRA 25C 30% up to $1,200/year (cite irs.gov/credits-deductions/individuals/energy-efficient-home-improvement-credit).'",
+      "When discussing winter behavior, always present the 8-tactic per-tactic quantified toolkit. Never write 'lower the thermostat' — write 'apply 8-tactic toolkit: (1) 8°F × 8 hr saves 5-10% (cite energy.gov/energysaver/programmable-thermostats); (2) zone-heating 25-40%; (3) passive solar (cite energy.gov/energysaver/passive-solar-home-design); (4) humidifier 30-50% RH (cite epa.gov/indoor-air-quality-iaq); (5) reverse ceiling fan; (6) thermal blinds R-2.0 to R-4.5 (cite energystar.gov/products/windows_doors_skylights/storm_windows); (7) Time-of-Use; (8) cold-water laundry. $110-$255/month savings.'",
+      "When the reader confesses to JSONL pain \\'fear/refusal to use emergency savings for intended emergencies,\\' pair empathy with the fuel-ladder + envelope + behavior framing. Never write \\'just save more.\\' Always write \\'[Empathy sentence]. The fix: three structural moves convert JSONL anxiety-fear-attachment-hoarding-stress into JSONL emergency-fund + sinking-funds + track-every-dollar discipline — (a) rank fuels by $/MMBtu, (b) climb 5-step envelope ladder with IRA 25C 30% credit, (c) deploy 8-tactic behavior toolkit.\\'"
+    ]
+  },
+  "title_intelligence": {
+    "dominant_title_pattern": "'The following tips will save money and energy / Pennsylvania PUC Public Hearings / Home heating and cooling costs are surging / Top ways to save on your heating bills / By implementing a few energy-saving tricks / How to estimate your savings... heat pump / Heating your home uses more energy' — competitors title around tip-counts or rate-anxiety without anchoring to $/MMBtu fuel ladder OR 5-step envelope ROI ladder OR 8-tactic behavior toolkit OR IRA 25C + HEEHRA stack.",
+    "short_title": "How To Save Money On Heating: $/MMBtu Fuel Ladder + Envelope ROI + IRA 25C + HEEHRA + 8 Behaviors",
+    "long_title": "How To Save Money On Heating — Rank Fuels By $/MMBtu Delivered Heat (Natural Gas vs Heating Oil vs Propane vs Cold-Climate Heat Pump COP 2.5-3.5 vs Electric Resistance COP 1.0 = $47/MMBtu), Climb The 5-Step Manual J + Air-Sealing + Duct-Sealing + R-49 + Window Envelope Ladder With IRA 25C 30% Credit + HEEHRA Up To $8,000 + DSIRE Utility Rebates, And Deploy The 8-Tactic Behavior Toolkit That Saves $110-$255/Month On A $250-$500 Winter Heating Bill"
+  },
+  "reader_psychology": {
+    "triggering_thought": "'How to save money on heating — every list says high-efficiency furnace and lower the thermostat. But which fuel is cheapest in my zip code? Should I switch to a heat pump and risk my emergency savings on a contractor I cannot fully trust? I track every dollar in pen-and-paper or spreadsheet and have an emergency fund + sinking funds, but I refuse to use them for what they are intended for because the anxiety, fear, and attachment-hoarding around future financial emergencies grows with my balance.' — close paraphrase of JSONL emotional_state 'Attachment/hoarding mentality towards savings' triggered by 'Fear/refusal to use emergency savings for intended emergencies' + JSONL emotional state 'Anxiety/Fear about future financial emergencies' + 'Stress from hidden expenses and lack of budgetary control' + JSONL repeated phrase 'track every dollar' / 'emergency fund' / 'sinking funds.'",
+    "desired_internal_shift": "From Tip-List Reader To $/MMBtu-Fuel-Ranker + 5-Step-Envelope-Ladder Investor + 8-Tactic-Behavior-Operator With JSONL Track-Every-Dollar + Emergency-Fund + Sinking-Funds Discipline Without Hoarding-Refusal",
+    "bridge_content": "$/MMBtu Fuel-Cost Ladder With AFUE/COP Arithmetic + IRA 25C + HEEHRA Stack (Gap 1) → 5-Step Manual J + Air-Sealing + Duct + Insulation + Window Envelope Upgrade Ladder With ROI (Gap 2) → 8-Tactic Per-Tactic Quantified Behavior Toolkit (Gap 3). Once applied, the JSONL anxiety-fear-attachment-hoarding-stress converts into JSONL track-every-dollar + emergency-fund + sinking-funds discipline, and emergency savings get used for actual emergencies."
+  },
+  "internal_linking": null
+}
+```
+<!-- END_BATTLE_PLAN_BRIEF -->

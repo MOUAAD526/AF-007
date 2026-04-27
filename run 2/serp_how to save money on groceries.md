@@ -610,3 +610,106 @@ _Body text (45 chars) saved to JSON sidecar_
 
 
 ---
+
+
+---
+<!-- BATTLE_PLAN_BRIEF -->
+# Battle Plan Brief
+**Generated:** 2026-04-27T10:22:21.632423+00:00  
+**Keyword:** how to save money on groceries
+
+## Validation — 4 Checks (PASS)
+- **Keyword match:** YES — Keyword tokens hit: 3/3; angle tokens: 3
+- **Psychology match:** YES — 21 pain/emotion tokens echoed; keyword hit: True
+- **Competitor evidence:** YES — 3/3 gaps tied to named competitors with body evidence
+- **Gap specificity:** YES — All 3 gaps are specific (named WHO + WHERE + concrete edge)
+
+## Brief
+```json
+{
+  "content_gaps": [
+    {
+      "name": "Per-category USDA Cost Food Plan budget benchmark + unit-price tracking sheet — never built; competitors quote household averages without giving the reader a per-person budget tier or unit-price math",
+      "what_they_missed": "thewholeu.uw.edu (2,142 words) cites $4,942/yr / $412/mo BLS averages without USDA Thrifty/Low/Moderate/Liberal Food Plan tiers per age + sex; cooking.nytimes.com (1,253 words) and finance.yahoo.com (1,781 words) and rmcu.net (1,225 words) and cnbc.com (2,592 words) and conwayhousingsc.org (869 words) all skip the USDA per-person tier table and the unit-price spreadsheet that lets a reader actually track every dollar against benchmark.",
+      "our_edge": "Add an H2: 'Set Your USDA Food-Plan Budget Then Track Unit-Price.' Pull USDA Cost-of-Food at Home report (cite fns.usda.gov/cnpp/usda-food-plans-cost-food-monthly-reports) — a 4-tier per-age + per-sex table (Thrifty / Low-Cost / Moderate / Liberal). Then a 4-column unit-price tracking sheet — Item | Brand | Pack-Size | $/oz or $/lb — with a worked example showing the family-of-4 going from Liberal $1,300/mo to Low-Cost $900/mo by re-pricing the 25 most-purchased SKUs. Anchored to JSONL pain 'tracking spending but still feeling broke' — the USDA tier converts vague 'spend less' into a fixed dollar target."
+    },
+    {
+      "name": "Loyalty + cashback + coupon + rebate-app stacking framework with per-app dollar yield — never built; competitors mention 'use coupons' and 'sign up for rewards' qualitatively without the stacking math or the cashback-credit-card layer",
+      "what_they_missed": "rmcu.net (1,225 words) names buying in bulk and store brands without naming Ibotta / Fetch / Rakuten / Upside-grocery rebates; cnbc.com (2,592 words) discusses American Express + cashback-credit-card categories generically without the stack with store loyalty + rebate apps; finance.yahoo.com (1,781 words) and cooking.nytimes.com (1,253 words) mention 'rewards programs' without per-app dollar yield; thewholeu.uw.edu (2,142 words) skips the cashback-card layer entirely.",
+      "our_edge": "Add an H2: 'The 4-Layer Grocery Stack: Loyalty + Coupon + Rebate App + Cashback Card.' Layer 1 — store loyalty (Kroger Plus / Safeway Just4U / Albertsons / Publix Club / Walmart+) — typical 5-15% on weekly digital coupons (cite kroger.com AND safeway.com AND walmart.com/plus). Layer 2 — manufacturer coupons via Coupons.com + SmartSource + RetailMeNot — typical $5-$20/week (cite coupons.com). Layer 3 — rebate apps stacked: Ibotta (cite ibotta.com), Fetch Rewards (cite fetchrewards.com), Checkout 51, Upside-grocery (cite upside.com); $10-$40/month on items already buying. Layer 4 — cashback credit card: AmEx Blue Cash Preferred 6% on US supermarkets up to $6,000/yr (cite americanexpress.com), Citi Custom Cash 5% (cite citi.com/credit-cards), or Chase Freedom Flex 5% rotating (cite chase.com). Stacked yield: $50-$150/month on a $400-$800 budget = 12-19% off effective price. Anchored to JSONL pain 'tracking spending but still feeling broke and not seeing savings' — the 4-layer stack converts JSONL pen-and-paper-or-excel-sheet tracking into a dollar-yielding system."
+    },
+    {
+      "name": "Meal-plan-from-the-flyer + pantry-inventory + waste-reduction structural workflow — never built; competitors say 'plan your meals' without showing the weekly flyer-→-list-→-cook routine or the USDA waste-reduction rule",
+      "what_they_missed": "conwayhousingsc.org (869 words) names 'eating out vs preparing at home' qualitatively; cooking.nytimes.com (1,253 words) suggests cooking from scratch without the flyer-driven workflow that anchors meal-plan to weekly sale prices; cnbc.com (2,592 words) and finance.yahoo.com (1,781 words) and rmcu.net (1,225 words) mention meal planning without the pantry-inventory + USDA 'one-third of food is wasted' arithmetic.",
+      "our_edge": "Add an H2: 'Meal-Plan From The Flyer Not From The Recipe.' 6-step weekly workflow: (1) Sunday — read store flyer (Kroger / Aldi / Walmart / Costco) and circle 5-8 protein + produce items at lowest unit-price; (2) inventory pantry + freezer + fridge for what's already on hand (cite USDA Food Loss + Waste at usda.gov/foodlossandwaste — average household wastes 31% of food); (3) build 5-7 dinner plan from the circled flyer items + pantry; (4) write list grouped by store aisle; (5) shop with list + scan loyalty + claim rebates; (6) batch-prep Sunday — pre-cook 2-3 protein portions to prevent mid-week takeout. Plus the FoodKeeper App (cite foodsafety.gov/foodkeeper) for shelf-life tracking. Anchored to JSONL pain 'tracking spending but still feeling broke' + JSONL repeated phrase 'pen and paper/an excel sheet' / 'automate the savings' / 'budget' — the flyer-→-list-→-cook workflow converts JSONL frustration-anxiety-obsessive-control into JSONL save-for-down-payment + automate-the-savings discipline."
+    }
+  ],
+  "nlp_entities": [
+    "USDA Cost-of-Food-at-Home Plans",
+    "USDA Thrifty / Low-Cost / Moderate / Liberal Food Plan",
+    "BLS household grocery $4,942/year",
+    "Unit-price tracking $/oz or $/lb",
+    "Ibotta + Fetch + Upside grocery rebates",
+    "AmEx Blue Cash Preferred 6% groceries",
+    "Citi Custom Cash 5% supermarket",
+    "Kroger Plus + Safeway Just4U + Walmart+ loyalty",
+    "Meal-plan-from-flyer workflow",
+    "USDA Food Loss + Waste 31% wasted",
+    "FoodKeeper App shelf-life",
+    "Pantry-first inventory rule"
+  ],
+  "eeat_requirements": [
+    "Cite USDA Cost-of-Food-at-Home reports (cite fns.usda.gov/cnpp/usda-food-plans-cost-food-monthly-reports) AND USDA Food Loss + Waste data (cite usda.gov/foodlossandwaste) AND BLS Consumer Expenditure Survey for household grocery averages (cite bls.gov/cex). Per-person budget tiers and waste-arithmetic must anchor on USDA + BLS primary government data, not credit-union or news-publisher averages.",
+    "Cite each rebate-app + loyalty + cashback-card directly: Ibotta (cite ibotta.com), Fetch Rewards (cite fetchrewards.com), Upside (cite upside.com), Coupons.com (cite coupons.com), Kroger (cite kroger.com), Safeway (cite safeway.com), Walmart+ (cite walmart.com/plus), AmEx (cite americanexpress.com), Citi (cite citi.com/credit-cards), Chase (cite chase.com). Stacking framework requires each provider's primary domain.",
+    "Cite FoodSafety.gov FoodKeeper (cite foodsafety.gov/foodkeeper) AND USDA MyPlate (cite myplate.gov) for nutrition + shelf-life claims. Avoid affiliate-marketing blog claims about 'best apps' and stick to USDA + FDA + each provider's primary documentation."
+  ],
+  "style_critique": {
+    "all_tones_found": [
+      {
+        "tone": "newspaper food publisher",
+        "used_by": "cooking.nytimes.com r2"
+      },
+      {
+        "tone": "non-profit housing",
+        "used_by": "conwayhousingsc.org r5"
+      },
+      {
+        "tone": "university wellness blog",
+        "used_by": "thewholeu.uw.edu r8"
+      },
+      {
+        "tone": "personal-finance affiliate publisher",
+        "used_by": "finance.yahoo.com r12"
+      },
+      {
+        "tone": "credit-union educational",
+        "used_by": "rmcu.net r13"
+      },
+      {
+        "tone": "tv-news consumer publisher",
+        "used_by": "cnbc.com r17"
+      }
+    ],
+    "winning_tone": "Investigative consumer advocate — builds the USDA per-person budget tier benchmark, the 4-layer loyalty + coupon + rebate-app + cashback-card stack with per-app dollar yield, and the meal-plan-from-the-flyer + pantry-inventory + USDA-waste-reduction structural workflow",
+    "decision_reason": "Priority 1 fired — JSONL emotional_state 'Frustration' triggered by 'Tracking spending but still feeling broke and not seeing savings' + JSONL emotional state 'Anxiety' + 'Obsessive Control' + 'Suspicion/Cynicism' + JSONL repeated phrase 'track every dollar' / 'pen and paper/an excel sheet' / 'budget' / 'save for a down payment' / 'automate the savings' — An investigative-consumer-advocate tone fills the gap left by newspaper food publisher, non-profit housing, university wellness blog, affiliate publisher, credit-union educational, and tv-news consumer publisher, none of which builds the USDA tier benchmark OR the 4-layer rebate-app + cashback-card stack OR the flyer-driven meal-plan + waste-reduction workflow.",
+    "our_directives": [
+      "When writing about how to save money on groceries, always set a USDA Food-Plan budget tier first. Never write 'just spend less' — write 'pull your USDA Thrifty/Low-Cost/Moderate/Liberal monthly target per person + sex (cite fns.usda.gov/cnpp/usda-food-plans-cost-food-monthly-reports) then re-price 25 SKUs by $/oz or $/lb.'",
+      "When writing about rebates and rewards, always present the 4-layer stack with per-app dollar yield. Never write 'use coupons' — write 'stack 4 layers: store loyalty (cite kroger.com AND safeway.com AND walmart.com/plus); manufacturer coupons (cite coupons.com); rebate apps (cite ibotta.com AND fetchrewards.com AND upside.com); cashback card AmEx Blue Cash Preferred 6% (cite americanexpress.com) for $50-$150/month total.'",
+      "When writing about meal planning, always present the flyer-→-list-→-cook + pantry-inventory + USDA-waste-reduction workflow. Never write 'plan your meals' — write '6-step Sunday workflow: read flyer + circle lowest-unit-price proteins/produce; pantry inventory (cite usda.gov/foodlossandwaste — 31% wasted average); build 5-7 dinner plan from flyer; aisle-grouped list; shop + claim loyalty + scan rebates; batch-prep 2-3 proteins (cite foodsafety.gov/foodkeeper for shelf-life).'",
+      "When the reader confesses to JSONL pain \\'tracking spending but still feeling broke and not seeing savings,\\' pair empathy with USDA tier + 4-layer stack + flyer-workflow framing. Never write \\'just budget better.\\' Always write \\'[Empathy sentence]. The fix: three structural moves convert the JSONL frustration-anxiety-obsessive-control-suspicion into JSONL automate-the-savings + save-for-a-down-payment discipline — (a) set USDA Food-Plan budget tier, (b) stack 4 layers of loyalty + coupons + rebates + cashback-card, (c) plan from the flyer with USDA waste-reduction.\\'"
+    ]
+  },
+  "title_intelligence": {
+    "dominant_title_pattern": "'With grocery costs in flux / Eating out is more expensive than home / Trips to the grocery store can be expensive / Grocery shopping is a fact of life / Tips from the Pros / Groceries take up a big chunk of weekly spending' — competitors title around price-anxiety or tip-counts without USDA per-person tier OR 4-layer stacking OR flyer-driven workflow.",
+    "short_title": "How To Save Money On Groceries: USDA Tier + 4-Layer Stack + Flyer-Driven Meal Plan",
+    "long_title": "How To Save Money On Groceries — Set Your USDA Cost-of-Food Plan Tier (Thrifty / Low-Cost / Moderate / Liberal) Per Person + Sex, Stack 4 Layers Of Store Loyalty + Manufacturer Coupons + Rebate Apps (Ibotta + Fetch + Upside) + 6%-Cashback AmEx Blue Cash Preferred, And Run The 6-Step Sunday Flyer-→-List-→-Pantry-Inventory-→-Cook Workflow With USDA 31% Waste-Reduction Rule"
+  },
+  "reader_psychology": {
+    "triggering_thought": "'How to save money on groceries — every list says use coupons and meal plan. But by how much? Which apps stack? I am tracking every dollar with pen and paper or an excel sheet, budget set, but still feeling broke and not seeing savings. The frustration anxiety and obsessive-control intensifies; I am suspicious that all the rewards programs are gimmicks.' — close paraphrase of JSONL emotional_state 'Frustration' triggered by 'Tracking spending but still feeling broke and not seeing savings' + JSONL emotional states 'Anxiety' + 'Obsessive Control' + 'Suspicion/Cynicism' + JSONL repeated phrase 'track every dollar' / 'pen and paper/an excel sheet' / 'budget' / 'save for a down payment' / 'automate the savings.'",
+    "desired_internal_shift": "From Tip-List Reader To USDA-Tier-Budgeter + 4-Layer-Stack-Operator + Flyer-Driven-Meal-Planner With JSONL Track-Every-Dollar Discipline And JSONL Save-For-A-Down-Payment Confidence",
+    "bridge_content": "USDA Per-Person Tier Benchmark + Unit-Price Sheet (Gap 1) → 4-Layer Loyalty + Coupon + Rebate-App + Cashback-Card Stack (Gap 2) → Flyer-Driven Meal-Plan + Pantry-Inventory + USDA-Waste-Reduction Workflow (Gap 3). Once applied, the JSONL frustration-anxiety-obsessive-suspicion converts into JSONL automate-the-savings + save-for-a-down-payment via JSONL pen-and-paper or excel-sheet discipline."
+  },
+  "internal_linking": null
+}
+```
+<!-- END_BATTLE_PLAN_BRIEF -->
