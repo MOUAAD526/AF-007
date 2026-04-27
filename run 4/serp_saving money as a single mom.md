@@ -530,3 +530,102 @@ _Body text (44 chars) saved to JSON sidecar_
 
 
 ---
+
+
+---
+<!-- BATTLE_PLAN_BRIEF -->
+# Battle Plan Brief
+**Generated:** 2026-04-27T13:39:34.580187+00:00  
+**Keyword:** saving money as a single mom
+
+## Validation — 4 Checks (PASS)
+- **Keyword match:** YES — Keyword tokens hit: 4/4; angle tokens: 5
+- **Psychology match:** YES — 22 pain/emotion tokens echoed; keyword hit: True
+- **Competitor evidence:** YES — 3/3 gaps tied to named competitors with body evidence
+- **Gap specificity:** YES — All 3 gaps are specific (named WHO + WHERE + concrete edge)
+
+## Brief
+```json
+{
+  "content_gaps": [
+    {
+      "name": "Single-mom saving framework — manual pen/paper/Excel tracker + EITC/CTC/CDCC credits + SNAP/WIC/LIHEAP + childcare subsidy CCDF + state child-support enforcement + HYSA emergency $1K → 3-6 mo + 401k match FIRST + Roth IRA $7K + HSA triple-tax + Plaid auto-split Pay-yourself-first + crock-pot meal-plan $50-80/wk + dropout-prevention + legal aid — never built; competitors describe 'saving money as a single mom' without naming EITC + SNAP + childcare-subsidy + crock-pot framework",
+      "what_they_missed": "ramseysolutions.com r2 (1,892 words), nerdwallet.com r4 (1,296 words), singleparent411.org r7 (219 words), peachstatefcu.org r9 (1,048 words), 3financialgroup.com r15 (2,296 words), and frolo.co.uk r19 (1,412 words) describe 'single mom saving' without 12-lever EITC + SNAP + childcare-subsidy framework. None of the six competitors builds: (a) Lever 1 — Manual pen/paper/Excel tracker (cite consumerfinance.gov/consumer-tools/budgeting); (b) Lever 2 — EITC + CTC + CDCC refundable credits (cite irs.gov/credits-deductions/individuals/earned-income-tax-credit-eitc AND irs.gov/credits-deductions/individuals/child-tax-credit AND irs.gov/taxtopics/tc602); (c) Lever 3 — SNAP + WIC + LIHEAP benefits (cite fns.usda.gov/snap AND fns.usda.gov/wic AND acf.hhs.gov/ocs/programs/liheap); (d) Lever 4 — Childcare subsidy CCDF — state voucher + Head Start (cite acf.hhs.gov/occ AND eclkc.ohs.acf.hhs.gov); (e) Lever 5 — State child-support enforcement OCSE (cite acf.hhs.gov/css); (f) Lever 6 — HYSA emergency $1K → 3-6 months (cite consumerfinance.gov/an-essential-guide-to-building-an-emergency-fund AND fdic.gov/resources/national-rates); (g) Lever 7 — 401k match FIRST free 50-100% (cite dol.gov/agencies/ebsa/laws-and-regulations/laws/erisa); (h) Lever 8 — Roth IRA $7K (cite irs.gov/retirement-plans/roth-iras); (i) Lever 9 — HSA triple-tax + Saver's Credit (cite irs.gov/publications/p969 AND irs.gov/retirement-plans/plan-participant-employee/retirement-savings-contributions-savers-credit); (j) Lever 10 — Plaid auto-split 10-15% Pay-yourself-first (cite plaid.com/products/auth); (k) Lever 11 — Crock-pot meal-plan $50-80/wk (cite fns.usda.gov/tn AND nutrition.gov); (l) Lever 12 — Dropout-prevention + Legal Aid + AFCPE pro-bono (cite lsc.gov AND afcpe.org); (m) BLS (cite bls.gov/cex AND bls.gov/news.release/cesan.nr0.htm); (n) 211 + 988 + NFCC (cite 211.org AND 988lifeline.org AND nfcc.org).",
+      "our_edge": "Add an H2: '12-Lever Single-Mom Saving Framework — Manual Tracker + EITC + SNAP + Childcare Subsidy + Child Support + HYSA + 401k Match + Roth IRA + HSA + Plaid + Crock-Pot + Legal Aid.' Lever 1: Manual tracker (cite consumerfinance.gov/consumer-tools/budgeting). Lever 2: EITC + CTC + CDCC (cite irs.gov/credits-deductions/individuals/earned-income-tax-credit-eitc). Lever 3: SNAP + WIC + LIHEAP (cite fns.usda.gov/snap AND acf.hhs.gov/ocs/programs/liheap). Lever 4: CCDF + Head Start (cite acf.hhs.gov/occ AND eclkc.ohs.acf.hhs.gov). Lever 5: OCSE child support (cite acf.hhs.gov/css). Lever 6: HYSA emergency (cite fdic.gov/resources/national-rates). Lever 7: 401k match (cite dol.gov/agencies/ebsa/laws-and-regulations/laws/erisa). Lever 8: Roth IRA (cite irs.gov/retirement-plans/roth-iras). Lever 9: HSA + Saver's Credit (cite irs.gov/publications/p969). Lever 10: Plaid (cite plaid.com/products/auth). Lever 11: Crock-pot (cite nutrition.gov). Lever 12: Legal Aid + AFCPE (cite lsc.gov AND afcpe.org). BLS + 211 + 988 + NFCC (cite bls.gov/cex AND 211.org AND 988lifeline.org AND nfcc.org). Anchored to JSONL pain 'Tracking spending doesn\\'t translate to actual savings or insight' — converts JSONL frustration-despair + surprise-shock + relief-hope into JSONL track-every-dollar + crock-pot + still-broke-breakout discipline."
+    },
+    {
+      "name": "Decision tree by single-mom profile — newly-divorced-crisis / long-term-single-W2 / gig-self-employed / in-college-student-parent / homeless-at-risk / dating-new-partner-boundaries — never built; competitors describe 'single mom tips' without selection logic by profile",
+      "what_they_missed": "ramseysolutions.com r2, nerdwallet.com r4, singleparent411.org r7, peachstatefcu.org r9, 3financialgroup.com r15, and frolo.co.uk r19 describe 'single mom tips' without naming WHO by profile. None of the six competitors builds: (a) Tier 1 — Newly-divorced-crisis → LSC + AFCPE + safety-plan + retitle accounts + QDRO (cite lsc.gov AND afcpe.org AND irs.gov/retirement-plans/plan-participant-employee/retirement-topics-qdro); (b) Tier 2 — Long-term-single-W2 → W-4 Estimator + EITC + 401k match + CCDF (cite irs.gov/individuals/tax-withholding-estimator AND acf.hhs.gov/occ); (c) Tier 3 — Gig-self-employed → 1040-ES + Solo 401k + SEP-IRA + HSA + FLSA self-employment tax (cite irs.gov/pub/irs-pdf/f1040es.pdf AND irs.gov/retirement-plans/plan-participant-employee/retirement-topics-self-employed); (d) Tier 4 — In-college-student-parent → FAFSA + Pell + child-care-assistance (cite ed.gov/content/fafsa-student-aid AND studentaid.gov AND acf.hhs.gov/occ); (e) Tier 5 — Homeless-at-risk → NDVH + 211 + HUD emergency voucher + SNAP emergency (cite thehotline.org AND 211.org AND hud.gov AND fns.usda.gov/snap); (f) Tier 6 — Dating-new-partner-boundaries → separate accounts + prenup + Roth in-her-name (cite irs.gov/retirement-plans/roth-iras); (g) BLS (cite bls.gov/cex); (h) Fed (cite federalreserve.gov/releases/g19); (i) HYSA (cite fdic.gov/resources/national-rates); (j) Compound (cite investor.gov/financial-tools-calculators/calculators/compound-interest-calculator).",
+      "our_edge": "Add an H2: '6-Tier Single-Mom Decision Tree — Newly-Divorced / Long-Term-W2 / Gig / Student-Parent / Homeless-At-Risk / Dating-Partner-Boundaries.' Tier 1: Newly-divorced LSC+QDRO (cite lsc.gov AND irs.gov/retirement-plans/plan-participant-employee/retirement-topics-qdro). Tier 2: W2 W-4+EITC (cite irs.gov/individuals/tax-withholding-estimator). Tier 3: Gig 1040-ES+Solo-401k (cite irs.gov/pub/irs-pdf/f1040es.pdf). Tier 4: Student FAFSA+CCDF (cite ed.gov/content/fafsa-student-aid AND acf.hhs.gov/occ). Tier 5: NDVH+211+HUD (cite thehotline.org AND 211.org AND hud.gov). Tier 6: Boundaries Roth-in-her-name (cite irs.gov/retirement-plans/roth-iras). BLS (cite bls.gov/cex). Fed (cite federalreserve.gov/releases/g19). HYSA (cite fdic.gov/resources/national-rates). Compound (cite investor.gov/financial-tools-calculators/calculators/compound-interest-calculator). Anchored to JSONL emotional state 'Relief/Hope' + JSONL repeated phrase 'track every dollar' / 'crock pot' / 'still broke' — converts JSONL frustration-despair + surprise-shock + relief-hope into JSONL track-every-dollar + crock-pot + still-broke-breakout discipline."
+    },
+    {
+      "name": "Operational toolkit for single moms — CFPB printable tracker + EITC Assistant + W-4 Estimator + SNAP-WIC-LIHEAP portals + CCDF state finder + state OCSE portal + Plaid auto-split + HYSA + 211 + NDVH + LSC Legal Aid + 988 + NFCC + AFCPE — never built; competitors describe 'single mom saving' without operationalizing government-portal + Plaid + Legal Aid execution",
+      "what_they_missed": "ramseysolutions.com r2, nerdwallet.com r4, singleparent411.org r7, peachstatefcu.org r9, 3financialgroup.com r15, and frolo.co.uk r19 describe 'single mom saving' without operationalizing government-portal + Plaid + Legal Aid execution. None of the six competitors builds: (a) CFPB printable tracker (cite consumerfinance.gov/consumer-tools/budgeting); (b) EITC Assistant + W-4 Estimator (cite irs.gov/credits-deductions/individuals/earned-income-tax-credit-eitc/use-the-eitc-assistant AND irs.gov/individuals/tax-withholding-estimator); (c) SNAP-WIC-LIHEAP portals (cite fns.usda.gov/snap AND fns.usda.gov/wic AND acf.hhs.gov/ocs/programs/liheap); (d) CCDF state finder + Head Start Locator (cite acf.hhs.gov/occ AND eclkc.ohs.acf.hhs.gov); (e) State OCSE portal (cite acf.hhs.gov/css); (f) Plaid auto-split + Ally Buckets 'Emergency' 'Rent' 'Kids' (cite plaid.com/products/auth AND ally.com/bank/online-savings-account/buckets); (g) HYSA 4-5% APY (cite fdic.gov/resources/national-rates); (h) 211 + NDVH + LSC + 988 + NFCC + AFCPE (cite 211.org AND thehotline.org AND lsc.gov AND 988lifeline.org AND nfcc.org AND afcpe.org); (i) FDIC $250K + NCUA $250K (cite fdic.gov/resources/deposit-insurance/edie AND ncua.gov/consumers/share-insurance); (j) VITA free tax-prep (cite irs.gov/individuals/free-tax-return-preparation-for-qualifying-taxpayers).",
+      "our_edge": "Add an H2: '8-Step Operational Toolkit For Single Moms — CFPB Tracker + EITC Assistant + W-4 Estimator + SNAP/WIC/LIHEAP + CCDF Finder + OCSE + Plaid + Ally Buckets + HYSA + 211 + NDVH + LSC + 988 + NFCC + AFCPE + VITA.' Step 1: CFPB tracker (cite consumerfinance.gov/consumer-tools/budgeting). Step 2: EITC Assistant + W-4 (cite irs.gov/credits-deductions/individuals/earned-income-tax-credit-eitc/use-the-eitc-assistant). Step 3: SNAP/WIC/LIHEAP (cite fns.usda.gov/snap). Step 4: CCDF + Head Start (cite acf.hhs.gov/occ). Step 5: OCSE (cite acf.hhs.gov/css). Step 6: Plaid + Ally Buckets + HYSA (cite plaid.com/products/auth AND ally.com/bank/online-savings-account/buckets AND fdic.gov/resources/national-rates). Step 7: 211 + NDVH + LSC (cite 211.org AND thehotline.org AND lsc.gov). Step 8: 988 + NFCC + AFCPE + VITA + FDIC/NCUA (cite 988lifeline.org AND nfcc.org AND afcpe.org AND irs.gov/individuals/free-tax-return-preparation-for-qualifying-taxpayers AND fdic.gov/resources/deposit-insurance/edie). Anchored to JSONL pain 'Tracking spending doesn\\'t translate to actual savings or insight' — converts JSONL frustration-despair + surprise-shock + relief-hope into JSONL track-every-dollar + crock-pot + still-broke-breakout discipline."
+    }
+  ],
+  "nlp_entities": [
+    "12-lever single-mom saving framework",
+    "Manual tracker + awareness",
+    "EITC + CTC + CDCC refundable",
+    "SNAP + WIC + LIHEAP benefits",
+    "CCDF childcare subsidy + Head Start",
+    "OCSE child-support enforcement",
+    "HYSA emergency $1K → 3-6 mo",
+    "401k match FIRST + Roth IRA + HSA",
+    "Plaid auto-split Pay-yourself-first",
+    "Crock-pot $50-80/wk meal-plan",
+    "LSC Legal Aid + AFCPE + 211 + NDVH",
+    "6-tier single-mom-profile tree"
+  ],
+  "eeat_requirements": [
+    "Cite IRS + CFPB + USDA + HHS + ACF + HUD + DOL + ed.gov + FDIC + NCUA + BLS + Fed + investor.gov + LSC + 211 + NDVH + 988/NFCC + VITA (cite irs.gov/credits-deductions/individuals/earned-income-tax-credit-eitc AND irs.gov/credits-deductions/individuals/child-tax-credit AND irs.gov/taxtopics/tc602 AND irs.gov/retirement-plans/roth-iras AND irs.gov/publications/p969 AND irs.gov/retirement-plans/plan-participant-employee/retirement-savings-contributions-savers-credit AND irs.gov/retirement-plans/plan-participant-employee/retirement-topics-qdro AND irs.gov/individuals/tax-withholding-estimator AND irs.gov/individuals/free-tax-return-preparation-for-qualifying-taxpayers AND irs.gov/pub/irs-pdf/f1040es.pdf AND consumerfinance.gov/consumer-tools/budgeting AND consumerfinance.gov/an-essential-guide-to-building-an-emergency-fund AND fns.usda.gov/snap AND fns.usda.gov/wic AND acf.hhs.gov/ocs/programs/liheap AND acf.hhs.gov/occ AND acf.hhs.gov/css AND eclkc.ohs.acf.hhs.gov AND hud.gov AND dol.gov/agencies/ebsa/laws-and-regulations/laws/erisa AND ed.gov/content/fafsa-student-aid AND studentaid.gov AND fdic.gov/resources/national-rates AND fdic.gov/resources/deposit-insurance/edie AND ncua.gov/consumers/share-insurance AND bls.gov/cex AND federalreserve.gov/releases/g19 AND investor.gov/financial-tools-calculators/calculators/compound-interest-calculator AND lsc.gov AND 211.org AND thehotline.org AND 988lifeline.org AND nfcc.org AND afcpe.org). All claims anchor on IRS + CFPB + USDA + HHS + ACF + HUD + DOL + ed.gov + FDIC + NCUA + BLS + Fed + investor.gov + LSC + 211 + NDVH + 988/NFCC primary regulator data.",
+    "Cite competitor publishers + Plaid + banks + subsidy finders (cite ramseysolutions.com AND nerdwallet.com AND singleparent411.org AND peachstatefcu.org AND 3financialgroup.com AND frolo.co.uk AND plaid.com/products/auth AND marcus.com AND discover.com AND ally.com AND ally.com/bank/online-savings-account/buckets AND capitalone.com AND sofi.com). Avoid 'best single mom hack 2026' affiliate aggregators.",
+    "Disclose safety-plan NDVH 1-800-799-7233 (cite thehotline.org) and 988 (cite 988lifeline.org) for crisis — never bury help lines."
+  ],
+  "style_critique": {
+    "all_tones_found": [
+      {
+        "tone": "brand personal-finance publisher",
+        "used_by": "ramseysolutions.com r2"
+      },
+      {
+        "tone": "fintech-comparison publisher",
+        "used_by": "nerdwallet.com r4"
+      },
+      {
+        "tone": "non-profit publisher",
+        "used_by": "singleparent411.org r7, frolo.co.uk r19"
+      },
+      {
+        "tone": "credit-union publisher",
+        "used_by": "peachstatefcu.org r9"
+      },
+      {
+        "tone": "advisor-firm publisher",
+        "used_by": "3financialgroup.com r15"
+      }
+    ],
+    "winning_tone": "Investigative consumer advocate — builds the 12-lever single-mom saving framework, 6-tier single-mom-profile decision tree, and 8-step operational toolkit with LSC + NDVH + 988 safety net",
+    "decision_reason": "Priority 1 fired — JSONL emotional_state 'Frustration/Despair' triggered by 'Tracking spending doesn\\'t translate to actual savings or insight' + JSONL emotional states 'Surprise/Shock' + 'Relief/Hope' + JSONL repeated phrase 'track every dollar' / 'crock pot' / 'still broke' — An investigative-consumer-advocate tone fills the gap left by brand, fintech-comparison, non-profit, credit-union, and advisor-firm tones.",
+    "our_directives": [
+      "When discussing saving as a single mom, always present the 12-lever framework. Never write 'just cut expenses' — write 'apply 12-lever: (1) manual tracker; (2) EITC+CTC+CDCC (cite irs.gov/credits-deductions/individuals/earned-income-tax-credit-eitc); (3) SNAP+WIC+LIHEAP (cite fns.usda.gov/snap); (4) CCDF (cite acf.hhs.gov/occ); (5) OCSE (cite acf.hhs.gov/css); (6) HYSA (cite fdic.gov/resources/national-rates); (7) 401k match (cite dol.gov/agencies/ebsa/laws-and-regulations/laws/erisa); (8) Roth (cite irs.gov/retirement-plans/roth-iras); (9) HSA (cite irs.gov/publications/p969); (10) Plaid (cite plaid.com/products/auth); (11) crock-pot (cite nutrition.gov); (12) LSC+AFCPE (cite lsc.gov AND afcpe.org).'",
+      "When recommending HOW by profile, always present the 6-tier tree. Never write 'just make a budget' — write 'apply 6-tier: (1) Newly-divorced LSC+QDRO (cite lsc.gov); (2) W2 EITC+match; (3) Gig 1040-ES+Solo-401k (cite irs.gov/pub/irs-pdf/f1040es.pdf); (4) Student FAFSA+CCDF (cite ed.gov/content/fafsa-student-aid); (5) Homeless-at-risk NDVH+211+HUD (cite thehotline.org AND 211.org AND hud.gov); (6) Boundaries Roth-in-her-name.'",
+      "When discussing operational execution, always present the 8-step toolkit. Never write 'just open a HYSA' — write 'apply 8-step: (1) CFPB tracker; (2) EITC Assistant+W-4 (cite irs.gov/credits-deductions/individuals/earned-income-tax-credit-eitc/use-the-eitc-assistant); (3) SNAP/WIC/LIHEAP; (4) CCDF+Head Start; (5) OCSE; (6) Plaid+Ally Buckets+HYSA (cite plaid.com/products/auth); (7) 211+NDVH+LSC (cite 211.org AND thehotline.org); (8) 988+NFCC+AFCPE+VITA (cite 988lifeline.org AND irs.gov/individuals/free-tax-return-preparation-for-qualifying-taxpayers).'",
+      "When the reader confesses to JSONL pain \\'Tracking spending doesn\\'t translate to actual savings or insight,\\' pair empathy with framework + tree + toolkit. Never write \\'you\\'re doing great.\\' Always write \\'[Empathy sentence]. The fix: three structural moves convert JSONL frustration-despair + surprise-shock + relief-hope into JSONL track-every-dollar + crock-pot + still-broke-breakout discipline — (a) 12-lever framework, (b) 6-tier profile tree, (c) 8-step operational toolkit with LSC + NDVH + 988 safety net.\\'"
+    ]
+  },
+  "title_intelligence": {
+    "dominant_title_pattern": "Competitors title around 'Saving money as a single mom / tips for single moms' without anchoring to EITC/SNAP/CCDF + child-support + crock-pot framework + 6-tier single-mom-profile decision tree + LSC + NDVH + 988 operational toolkit.",
+    "short_title": "Saving Money As A Single Mom: 12-Lever EITC+Subsidy Framework + 6-Tier Profile Tree + 8-Step Toolkit",
+    "long_title": "Saving Money As A Single Mom — Compute By 12-Lever Framework (Manual Pen/Paper/Excel Tracker Track Every Dollar + EITC + CTC + CDCC Refundable Credits + SNAP + WIC + LIHEAP Benefits + Childcare Subsidy CCDF State Voucher + Head Start + State Child-Support Enforcement OCSE + HYSA Emergency $1K → 3-6 Months + 401k Match FIRST Free 50-100% + Roth IRA $7K + HSA Triple-Tax + Saver's Credit + Plaid Auto-Split 10-15% Pay-Yourself-First + Crock-Pot Meal-Plan $50-80/Week + Dropout-Prevention + Legal Aid + AFCPE Pro-Bono), Apply By 6-Tier Single-Mom Decision Tree (Newly-Divorced-Crisis → LSC + AFCPE + Safety-Plan + Retitle Accounts + QDRO + Long-Term-Single-W2 → W-4 Estimator + EITC + 401k Match + CCDF + Gig-Self-Employed → 1040-ES + Solo 401k + SEP-IRA + HSA + Self-Employment Tax + In-College-Student-Parent → FAFSA + Pell + Child-Care-Assistance + Homeless-At-Risk → NDVH + 211 + HUD Emergency Voucher + SNAP Emergency + Dating-New-Partner-Boundaries → Separate Accounts + Prenup + Roth In-Her-Name), And Deploy 8-Step Operational Toolkit (CFPB Printable Tracker + EITC Assistant + W-4 Estimator + SNAP-WIC-LIHEAP Portals + CCDF State Finder + Head Start Locator + State OCSE Portal + Plaid Auto-Split + Ally Buckets 'Emergency' 'Rent' 'Kids' + HYSA 4-5% APY + 211 + NDVH 1-800-799-7233 + LSC Legal Aid + 988 + NFCC + AFCPE + VITA Free Tax-Prep + FDIC $250K + NCUA $250K)"
+  },
+  "reader_psychology": {
+    "triggering_thought": "'Saving money as a single mom — every page tells me use coupons without telling me HOW the 12 levers fit (manual tracker + EITC + SNAP + CCDF + OCSE + HYSA + 401k + Roth + HSA + Plaid + crock-pot + Legal Aid), how WHICH tier of single-mom (newly-divorced / W2 / gig / student / homeless-at-risk / boundaries) maps to my situation, or how to operationalize CFPB + EITC Assistant + W-4 + SNAP/WIC/LIHEAP + CCDF + OCSE + Plaid + Ally Buckets + HYSA + 211 + NDVH + LSC + 988 + NFCC + AFCPE + VITA. I\\'m tracking every dollar on paper, cooking crock-pot, and STILL broke. The frustration-despair + surprise-shock + relief-hope swing keeps me paralyzed.' — close paraphrase of JSONL emotional_state 'Frustration/Despair' triggered by 'Tracking spending doesn\\'t translate to actual savings or insight' + JSONL emotional states 'Surprise/Shock' + 'Relief/Hope' + JSONL repeated phrase 'track every dollar' / 'crock pot' / 'still broke.'",
+    "desired_internal_shift": "From Tracking-Crock-Pot-Still-Broke Single Mom To 12-Lever-EITC+Subsidy-Framework-Computer + 6-Tier-Single-Mom-Profile-Tree-Selector + 8-Step-Operational-Toolkit-Stacker With JSONL Track-Every-Dollar + Crock-Pot + Still-Broke-Breakout Discipline",
+    "bridge_content": "12-Lever Single-Mom Saving Framework (Gap 1) → 6-Tier Single-Mom-Profile Decision Tree By Newly-Divorced / W2 / Gig / Student-Parent / Homeless-At-Risk / Boundaries (Gap 2) → 8-Step Operational Toolkit With CFPB Tracker + EITC Assistant + W-4 + SNAP/WIC/LIHEAP + CCDF + OCSE + Plaid + Ally Buckets + HYSA + 211 + NDVH + LSC + 988 + NFCC + AFCPE + VITA Safety Net (Gap 3). Once applied, JSONL frustration-despair + surprise-shock + relief-hope converts into JSONL track-every-dollar + crock-pot + still-broke-breakout discipline."
+  },
+  "internal_linking": null
+}
+```
+<!-- END_BATTLE_PLAN_BRIEF -->
