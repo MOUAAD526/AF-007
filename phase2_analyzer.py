@@ -51,9 +51,10 @@ for _env_path in _ENV_CANDIDATES:
 # ---------------------------------------------------------------------------
 # CONFIGURATION
 # ---------------------------------------------------------------------------
-PROJECT_ROOT        = Path(__file__).parent.parent
-PHASE1_ROOT         = PROJECT_ROOT / "script2_runs" / "phase1"
-PRE_POST_JSONL      = PROJECT_ROOT / "project_root" / "output" / "Pre_Post.jsonl"
+PROJECT_ROOT        = Path(__file__).parent
+PHASE1_ROOT         = PROJECT_ROOT
+PRE_POST_JSONL      = PROJECT_ROOT / "Pre_Post.jsonl"
+DEFAULT_RUN_DIR     = PROJECT_ROOT / "run 1"
 # OPENROUTER_KEY      = os.environ.get("OPENROUTER_API_KEY", "")
 # MODEL               = "deepseek/deepseek-v4-flash"
 MIN_BODY_CHARS      = 200
@@ -836,11 +837,14 @@ def main():
     if args.input_dir:
         input_dir = Path(args.input_dir)
     else:
-        run_folders = sorted([d for d in PHASE1_ROOT.glob("run_*") if d.is_dir()])
-        if not run_folders:
-            logger.error(f"No run folders found in {PHASE1_ROOT}")
-            sys.exit(1)
-        input_dir = run_folders[-1]
+        if DEFAULT_RUN_DIR.exists():
+            input_dir = DEFAULT_RUN_DIR
+        else:
+            run_folders = sorted([d for d in PHASE1_ROOT.glob("run_*") if d.is_dir()])
+            if not run_folders:
+                logger.error(f"No run folders found in {PHASE1_ROOT}")
+                sys.exit(1)
+            input_dir = run_folders[-1]
 
     jsonl_index = load_jsonl_index(PRE_POST_JSONL)
 
