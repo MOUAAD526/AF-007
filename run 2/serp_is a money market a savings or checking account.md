@@ -559,3 +559,98 @@ _Body text (45 chars) saved to JSON sidecar_
 
 
 ---
+
+
+---
+<!-- BATTLE_PLAN_BRIEF -->
+# Battle Plan Brief
+**Generated:** 2026-04-27T10:51:47.123228+00:00  
+**Keyword:** is a money market a savings or checking account
+
+## Validation — 4 Checks (PASS)
+- **Keyword match:** YES — Keyword tokens hit: 5/5; angle tokens: 2
+- **Psychology match:** YES — 32 pain/emotion tokens echoed; keyword hit: True
+- **Competitor evidence:** YES — 3/3 gaps tied to named competitors with body evidence
+- **Gap specificity:** YES — All 3 gaps are specific (named WHO + WHERE + concrete edge)
+
+## Brief
+```json
+{
+  "content_gaps": [
+    {
+      "name": "Comprehensive 3-account comparison matrix (MMA vs savings vs checking) by FDIC + APY + access + check-writing + debit-card + transaction-limit + minimum-balance + Reg-D legacy + tax — never built; competitors compare 2 of the 3 at a time without unifying tree, and most omit checking-style hybrid features",
+      "what_they_missed": "ccu.com r5 (1,054 words), bankofdudley.com r7 (954 words), bankwithunited.com r8 (614 words), hoyne.com r10 (727 words), citi.com r11 (586 words), and chase.com r14 (931 words) compare MMA only against savings, not against checking. bankrate.com r12 (1,170 words) compares MMA against checking but not savings. None of the seven competitors builds: (a) 3-account 8-attribute matrix — Money Market Account vs Savings vs Checking — across FDIC $250K coverage (cite fdic.gov/resources/deposit-insurance), APY (cite fdic.gov/resources/national-rates), check-writing (MMA yes / savings no / checking yes), debit-card (MMA yes-limited / savings rare / checking yes), Regulation D 6/month transaction limit (suspended April 2020, cite federalreserve.gov/supervisionreg/regdcg.htm), minimum-balance ($1K-$25K typical for MMA / $0-$300 typical for savings / $0-$25 typical for checking), monthly fees, tax (1099-INT for interest > $10 cite irs.gov/forms-pubs/about-form-1099-int); (b) hybrid-feature naming — MMA = savings APY + checking write/debit; (c) fed funds rate sensitivity — MMA APY tracks Fed (cite federalreserve.gov/monetarypolicy/openmarket.htm); (d) when MMA wins (>$2,500 balance + want check access + tier-rate APY) vs savings wins (any balance + simple sub-account) vs checking wins (high txn count + bill pay).",
+      "our_edge": "Add an H2: '3-Account Matrix — MMA Vs Savings Vs Checking By 8 Attributes.' 8-row table. Row 1: Account Type — Money Market Account (MMA) | Savings Account | Checking Account (definitions). Row 2: FDIC insurance — all $250K per depositor per ownership category (cite fdic.gov/resources/deposit-insurance). Row 3: APY range — MMA 4-5%+ tier (cite fdic.gov/resources/national-rates) | Savings 0.4-5% (varies HYSA vs traditional) | Checking 0-0.5% (rarely interest-bearing). Row 4: Check-writing — MMA yes typically 6/month limit | Savings no | Checking unlimited. Row 5: Debit card — MMA yes limited | Savings rare | Checking yes unlimited. Row 6: Transaction-limit — MMA 6/month historically (Reg D suspended April 2020 cite federalreserve.gov/supervisionreg/regdcg.htm; many banks still impose) | Savings same legacy 6 | Checking unlimited. Row 7: Minimum balance — MMA $1K-$25K | Savings $0-$300 | Checking $0-$25. Row 8: Tax — interest >$10 reported on 1099-INT (cite irs.gov/forms-pubs/about-form-1099-int). Anchored to JSONL pain 'failure to effectively implement budgeting from tracking data' — the matrix converts JSONL frustration-confusion into JSONL track-every-dollar discipline that maps each account by its 8 attributes."
+    },
+    {
+      "name": "Decision tree for which account to choose by goal + balance + transaction count + APY-vs-flexibility tradeoff + multi-account architecture (single-bank-vs-best-rate hunt) — never built; competitors stop at 'compare and choose' without selection logic",
+      "what_they_missed": "ccu.com r5, bankofdudley.com r7, bankwithunited.com r8, hoyne.com r10, citi.com r11, bankrate.com r12, and chase.com r14 list the differences without naming WHEN to pick which. None of the seven competitors builds: (a) 5-scenario decision tree — Scenario 1 emergency fund $5K-$50K → MMA at HYSA-tier rate (best APY + occasional check access); Scenario 2 short-term goal (vacation, tax payment) <12 months → savings sub-account or HYSA (cite fdic.gov/resources/national-rates); Scenario 3 daily spending → checking; Scenario 4 large balance >$25K → MMA tier-rate (cite citi.com/banking-money-market-savings); Scenario 5 monthly bills + paycheck → checking; (b) multi-account architecture — checking for daily flow + MMA for emergency + savings sub-accounts for sinking-funds + brokerage for long-term; (c) Ally Buckets / Capital One 360 / Marcus / SoFi sub-account systems (cite ally.com/bank/online-savings-account/buckets AND capitalone.com/bank/savings-accounts/online-savings-account); (d) split rule — emergency = MMA tier-rate; sinking-fund = savings sub-bucket; daily flow = checking with overdraft protection; (e) Regulation D suspension implications post-April 2020 (cite federalreserve.gov/supervisionreg/regdcg.htm); (f) hybrid online-bank example — Ally MMA vs Ally HYSA — basically same APY now (cite ally.com).",
+      "our_edge": "Add an H2: '5-Scenario Decision Tree — Which Account Wins For Your Use Case?' 5-row tree. Scenario 1: Emergency fund $5K-$50K → MMA (tier-rate APY + check-access for big surprise expenses). Scenario 2: Short-term goal <12 months (vacation, tax, gift) → HYSA sub-account or MMA tier (cite fdic.gov/resources/national-rates). Scenario 3: Daily spending + bill pay → checking. Scenario 4: Large balance >$25K → MMA tier-rate (cite citi.com/banking-money-market-savings) — typically pays higher APY at $25K+ tier. Scenario 5: Monthly paycheck → checking with overdraft protection + auto-transfer to MMA/savings on payday (cite chase.com/personal/savings/online-savings-account). Multi-account architecture: checking flow + MMA emergency + sinking-fund savings sub-buckets in Ally / Capital One 360 / Marcus / SoFi (cite ally.com/bank/online-savings-account/buckets AND capitalone.com/bank/savings-accounts/online-savings-account AND marcus.com AND sofi.com). Regulation D 6/month transaction limit was suspended April 2020 (cite federalreserve.gov/supervisionreg/regdcg.htm) but many banks still enforce it. Anchored to JSONL emotional state \"Anxiety induced by others' financial chaos\" + JSONL repeated phrase 'still broke' — the decision tree converts JSONL frustration-confusion into JSONL track-every-dollar + Determination-and-satisfaction-from-successful-saving discipline that uses MMA + savings + checking by use case."
+    },
+    {
+      "name": "Operational toolkit + APY-tier arbitrage + opening-checklist + ACH transfer + tax 1099-INT + state usury + safe deposit + sub-account-bucket workflow — never built; competitors describe accounts but don't operationalize the open-fund-monitor-tax workflow",
+      "what_they_missed": "ccu.com r5 (1,054 words), bankofdudley.com r7 (954 words), bankwithunited.com r8 (614 words), hoyne.com r10 (727 words), citi.com r11 (586 words), bankrate.com r12 (1,170 words), and chase.com r14 (931 words) describe what each account IS without naming the operational workflow to open + fund + monitor + tax-report. None of the seven competitors builds: (a) opening checklist — government ID, SSN/EIN, address, opening deposit (typically $25-$2,500 for MMA, $0-$25 for savings); (b) ACH external-link via Plaid for automated transfer (cite plaid.com/products/auth) — typical $5K-$10K daily limit; (c) APY-tier arbitrage — many MMAs pay 4.5% above $25K vs 0.5% below; chase that tier or split into multiple banks (cite citi.com/banking-money-market-savings); (d) FDIC ownership-category multiplier — single + joint + revocable trust + retirement = up to $750K coverage at one bank (cite fdic.gov/resources/deposit-insurance/edie); (e) NCUA equivalent for credit unions $250K (cite ncua.gov/consumers/share-insurance); (f) Tax — interest > $10 reported on 1099-INT (cite irs.gov/forms-pubs/about-form-1099-int); state-tax exempt for Treasury but not bank deposits; (g) state usury limits irrelevant for MMA but relevant for compounding methodology — daily vs monthly compound (cite consumerfinance.gov/ask-cfpb/whats-the-difference-between-a-savings-account-and-a-money-market-account-en-985); (h) sub-account-bucket workflow — name savings buckets (Emergency / Property Tax / Vacation / Christmas / Car / Wedding) in Ally Buckets / Capital One 360 (cite ally.com/bank/online-savings-account/buckets); (i) MMA min-balance traps — drop below $2,500 for one day = $15 fee + APY collapse to 0.05%.",
+      "our_edge": "Add an H2: '8-Step Operational Toolkit — Open + Fund + Monitor + Tax + Sub-Bucket.' Step 1: Opening checklist — gov ID, SSN, address, opening deposit ($25-$2,500 MMA / $0-$25 savings). Step 2: ACH external-link via Plaid (cite plaid.com/products/auth) for $5K-$10K daily transfer. Step 3: APY-tier arbitrage — chase tier (cite citi.com/banking-money-market-savings) — many MMAs pay 4.5% above $25K vs 0.5% below; split across HYSA + MMA. Step 4: FDIC $250K + ownership-category stacking (cite fdic.gov/resources/deposit-insurance/edie) — single + joint + revocable trust + retirement = up to $750K. Step 5: NCUA equivalent for credit unions (cite ncua.gov/consumers/share-insurance). Step 6: Tax — 1099-INT interest > $10 (cite irs.gov/forms-pubs/about-form-1099-int); Treasury state-tax-exempt vs bank-deposit not. Step 7: Compounding methodology — daily-compound APY > monthly (cite consumerfinance.gov/ask-cfpb/whats-the-difference-between-a-savings-account-and-a-money-market-account-en-985). Step 8: Sub-account-bucket workflow — name buckets (Emergency / Property Tax / Vacation / Christmas / Car / Wedding) in Ally Buckets / Capital One 360 (cite ally.com/bank/online-savings-account/buckets AND capitalone.com/bank/savings-accounts/online-savings-account). MMA min-balance traps: drop below $2,500 for one day = $15 fee + APY collapse to 0.05% — set auto-balance alerts. Anchored to JSONL emotional state 'Determination and satisfaction from successful saving' + JSONL repeated phrase 'track every dollar' — the operational toolkit converts JSONL frustration-confusion into JSONL track-every-dollar discipline that operationalizes opening + funding + tier-arbitrage + tax + sub-bucket workflow."
+    }
+  ],
+  "nlp_entities": [
+    "MMA vs savings vs checking 3-account matrix",
+    "FDIC $250K + ownership-category multiplier",
+    "Regulation D 6/month suspended April 2020",
+    "1099-INT interest > $10 IRS reporting",
+    "APY tier arbitrage at $25K threshold",
+    "Plaid ACH external-link transfer",
+    "Ally Buckets / Capital One 360 / Marcus / SoFi sub-buckets",
+    "NCUA $250K credit-union equivalent",
+    "Daily vs monthly APY compounding",
+    "MMA min-balance fee trap",
+    "Sub-account bucket workflow",
+    "Multi-account architecture"
+  ],
+  "eeat_requirements": [
+    "Cite FDIC for deposit insurance + national rates (cite fdic.gov/resources/deposit-insurance AND fdic.gov/resources/national-rates AND fdic.gov/resources/deposit-insurance/edie) AND NCUA for credit-union share insurance (cite ncua.gov/consumers/share-insurance) AND Federal Reserve for Reg D suspension (cite federalreserve.gov/supervisionreg/regdcg.htm) AND Federal Reserve for fed funds rate (cite federalreserve.gov/monetarypolicy/openmarket.htm). All FDIC/NCUA/Reg-D claims must anchor on regulator primary data.",
+    "Cite IRS for 1099-INT interest reporting (cite irs.gov/forms-pubs/about-form-1099-int) AND CFPB for compounding methodology + MMA-vs-savings consumer guidance (cite consumerfinance.gov/ask-cfpb/whats-the-difference-between-a-savings-account-and-a-money-market-account-en-985). All tax + compounding claims must anchor on IRS + CFPB primary regulator data.",
+    "Cite Citi + Chase + ccu.com + bankofdudley.com + bankwithunited.com + bankrate.com competitor pages for MMA tier-rate examples (cite citi.com/banking-money-market-savings AND chase.com/personal/savings/online-savings-account AND bankrate.com/banking/savings/best-money-market-accounts AND ally.com/bank/online-savings-account/buckets AND capitalone.com/bank/savings-accounts/online-savings-account AND plaid.com/products/auth). Avoid affiliate-marketing 'best money market accounts of 2026' aggregators."
+  ],
+  "style_critique": {
+    "all_tones_found": [
+      {
+        "tone": "credit-union educational",
+        "used_by": "ccu.com r5"
+      },
+      {
+        "tone": "community bank educational",
+        "used_by": "bankofdudley.com r7, bankwithunited.com r8, hoyne.com r10"
+      },
+      {
+        "tone": "national-bank product page",
+        "used_by": "citi.com r11, chase.com r14"
+      },
+      {
+        "tone": "personal-finance comparison publisher",
+        "used_by": "bankrate.com r12"
+      }
+    ],
+    "winning_tone": "Investigative consumer advocate — builds the 8-attribute 3-account matrix with FDIC + Reg D + Tax + APY tier arbitrage, the 5-scenario decision tree by goal/balance/use-case, and the 8-step operational toolkit with ACH + Plaid + sub-bucket workflow",
+    "decision_reason": "Priority 1 fired — JSONL emotional_state 'Frustration and confusion' triggered by 'Failure to effectively implement budgeting from tracking data' + JSONL emotional state 'Anxiety induced by others' financial chaos' + 'Determination and satisfaction from successful saving' + JSONL repeated phrase 'track every dollar' / 'still broke' — An investigative-consumer-advocate tone fills the gap left by credit-union, community-bank, national-bank, and personal-finance-comparison-publisher tones.",
+    "our_directives": [
+      "When discussing MMA vs savings vs checking, always present the 8-attribute 3-account matrix. Never write 'they are similar' — write 'compare 8 attributes: (1) FDIC $250K (cite fdic.gov/resources/deposit-insurance); (2) APY (cite fdic.gov/resources/national-rates); (3) check-writing yes/no/yes; (4) debit-card limited/rare/yes; (5) Reg D 6/month suspended April 2020 (cite federalreserve.gov/supervisionreg/regdcg.htm); (6) minimum-balance MMA $1K-$25K vs savings $0-$300 vs checking $0-$25; (7) monthly fees; (8) 1099-INT > $10 (cite irs.gov/forms-pubs/about-form-1099-int).'",
+      "When recommending which account, always present the 5-scenario decision tree. Never write 'choose what suits you' — write 'apply 5-scenario tree: (1) emergency fund $5K-$50K → MMA tier-rate; (2) short-term <12 mo → HYSA sub-account or MMA (cite fdic.gov/resources/national-rates); (3) daily spending → checking; (4) >$25K → MMA tier (cite citi.com/banking-money-market-savings); (5) monthly paycheck → checking + auto-transfer (cite chase.com/personal/savings/online-savings-account). Multi-account architecture: checking flow + MMA emergency + savings sub-buckets in Ally / Capital One 360 / Marcus / SoFi (cite ally.com/bank/online-savings-account/buckets).'",
+      "When discussing operational workflow, always present the 8-step toolkit. Never write 'open and start saving' — write 'apply 8-step toolkit: (1) opening checklist; (2) ACH via Plaid (cite plaid.com/products/auth); (3) APY-tier arbitrage (cite citi.com/banking-money-market-savings); (4) FDIC $250K + ownership-category stacking (cite fdic.gov/resources/deposit-insurance/edie); (5) NCUA $250K (cite ncua.gov/consumers/share-insurance); (6) 1099-INT (cite irs.gov/forms-pubs/about-form-1099-int); (7) daily vs monthly APY compounding (cite consumerfinance.gov/ask-cfpb/whats-the-difference-between-a-savings-account-and-a-money-market-account-en-985); (8) sub-account-bucket workflow (cite ally.com/bank/online-savings-account/buckets).'",
+      "When the reader confesses to JSONL pain \\'failure to effectively implement budgeting from tracking data,\\' pair empathy with the matrix + decision tree + workflow framing. Never write \\'use any savings account.\\' Always write \\'[Empathy sentence]. The fix: three structural moves convert JSONL frustration-confusion-anxiety into JSONL track-every-dollar + Determination-and-satisfaction-from-successful-saving discipline so MMA-vs-savings-vs-checking becomes a clear architecture — (a) compare 8 attributes by 3-account matrix, (b) apply 5-scenario decision tree by use case, (c) deploy 8-step operational toolkit with ACH + Plaid + tier arbitrage + sub-bucket workflow.\\'"
+    ]
+  },
+  "title_intelligence": {
+    "dominant_title_pattern": "'What Is a Savings Account? What Is a Money Market Account? Difference Between Money Market Account vs Savings / Money Market vs Savings Account: What's the Difference? / When managing your finances understanding the difference between savings and money market / If you're looking for a place to save / What's the difference between a money market and a checking account / Quick insights both are deposit accounts that yield interest' — competitors title around bilateral compare without anchoring to the 3-account matrix OR scenario tree OR operational toolkit.",
+    "short_title": "Is A Money Market A Savings Or Checking Account? 8-Attribute Matrix + 5-Scenario Tree + 8-Step Toolkit",
+    "long_title": "Is A Money Market A Savings Or Checking Account? — Compare All 3 By 8-Attribute Matrix (FDIC + APY + Check-Writing + Debit-Card + Reg D 6/month + Min-Balance + Fees + 1099-INT Tax), Choose By 5-Scenario Decision Tree (Emergency Fund + Short-Term Goal + Daily Spending + Large Balance >$25K + Paycheck Routing), And Deploy 8-Step Operational Toolkit (Opening + ACH-Plaid + Tier-Arbitrage + FDIC Ownership-Category Stacking + NCUA + 1099-INT + Daily-Compounding + Sub-Bucket Workflow In Ally / Capital One 360 / Marcus / SoFi)"
+  },
+  "reader_psychology": {
+    "triggering_thought": "'Is a money market a savings or checking account? Every page tells me it's a hybrid without telling me which to pick. I track every dollar but I'm still broke. The frustration and confusion + anxiety induced by others' financial chaos + occasional determination and satisfaction from successful saving keeps me bouncing between accounts. Where should my emergency fund go? Should I write checks from MMA or use a savings sub-bucket? Will MMA punish me with a fee if I dip below $2,500?' — close paraphrase of JSONL emotional_state 'Frustration and confusion' triggered by 'Failure to effectively implement budgeting from tracking data' + JSONL emotional states \"Anxiety induced by others' financial chaos\" + 'Determination and satisfaction from successful saving' + JSONL repeated phrase 'track every dollar' / 'still broke.'",
+    "desired_internal_shift": "From Confused-Account-Hopper To 8-Attribute-Matrix-Comparer + 5-Scenario-Decision-Tree-Operator + 8-Step-Operational-Toolkit-Operator With JSONL Track-Every-Dollar Discipline That Maps MMA + Savings + Checking By Use Case",
+    "bridge_content": "8-Attribute 3-Account Matrix — MMA Vs Savings Vs Checking (Gap 1) → 5-Scenario Decision Tree By Goal + Balance + Use Case (Gap 2) → 8-Step Operational Toolkit With ACH + Plaid + APY Tier Arbitrage + Sub-Bucket Workflow (Gap 3). Once applied, JSONL frustration-confusion-anxiety converts into JSONL track-every-dollar + Determination-and-satisfaction-from-successful-saving discipline."
+  },
+  "internal_linking": null
+}
+```
+<!-- END_BATTLE_PLAN_BRIEF -->
