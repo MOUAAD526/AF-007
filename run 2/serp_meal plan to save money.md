@@ -631,3 +631,106 @@ _Body text (43 chars) saved to JSON sidecar_
 
 
 ---
+
+
+---
+<!-- BATTLE_PLAN_BRIEF -->
+# Battle Plan Brief
+**Generated:** 2026-04-27T10:55:54.553667+00:00  
+**Keyword:** meal plan to save money
+
+## Validation — 4 Checks (PASS)
+- **Keyword match:** YES — Keyword tokens hit: 4/4; angle tokens: 4
+- **Psychology match:** YES — 26 pain/emotion tokens echoed; keyword hit: True
+- **Competitor evidence:** YES — 3/3 gaps tied to named competitors with body evidence
+- **Gap specificity:** YES — All 3 gaps are specific (named WHO + WHERE + concrete edge)
+
+## Brief
+```json
+{
+  "content_gaps": [
+    {
+      "name": "Quantified spend-decomposition + USDA Thrifty/Low-Cost/Moderate/Liberal Food Plan benchmark + cost-per-serving + protein-tier hierarchy + waste-rate baseline — never built; competitors say 'meal planning saves money' without quantifying baseline spend, USDA tiers, or protein-cost tier",
+      "what_they_missed": "brownhealth.org r6 (1,207 words), healthymamakris.com r8 (681 words), buzzfeed.com r11 (2,227 words), banterra.bank r12 (803 words), nutrition.gov r13 (466 words), and ramseysolutions.com r20 (2,106 words) describe meal planning as a money-saver without quantifying baseline spend or naming USDA tiers. None of the six competitors builds: (a) USDA Thrifty/Low-Cost/Moderate/Liberal Food Plan benchmarks — Thrifty $250/mo single, Low-Cost $290/mo, Moderate $360/mo, Liberal $440/mo (cite fns.usda.gov/cnpp/usda-food-plans-cost-food-monthly-reports); (b) USDA ERS food-at-home vs food-away-from-home spending shares — average household 53% home / 47% away (cite ers.usda.gov/data-products/food-expenditures); (c) cost-per-serving baseline — chicken thigh $0.80/serving, ground turkey $1.20, beef $2.00, plant proteins (beans/lentils/eggs) $0.30; (d) USDA EFNEP food-waste rate baseline — average household wastes 30-40% of food (cite usda.gov/foodwaste); (e) BLS Consumer Expenditure Survey grocery breakdown by income quintile (cite bls.gov/news.release/cesan.nr0.htm); (f) protein-tier hierarchy — eggs/beans/lentils ($0.20-0.30) → chicken thigh ($0.80) → ground turkey ($1.20) → beef/salmon ($2.00+); (g) seasonal-produce calendar — strawberries June, asparagus April, butternut squash October (cite seasonalfoodguide.org).",
+      "our_edge": "Add an H2: 'Quantified Meal-Plan Spend Decomposition + USDA Tier Benchmark + Protein-Cost Hierarchy.' 7-row framework. Row 1: USDA Thrifty $250/mo single, Low-Cost $290/mo, Moderate $360/mo, Liberal $440/mo (cite fns.usda.gov/cnpp/usda-food-plans-cost-food-monthly-reports). Row 2: USDA ERS food-at-home vs food-away-from-home — 53% home / 47% away (cite ers.usda.gov/data-products/food-expenditures); meal planning = home-share boost. Row 3: BLS Consumer Expenditure Survey by income quintile (cite bls.gov/news.release/cesan.nr0.htm). Row 4: Cost-per-serving protein hierarchy — eggs/beans/lentils $0.20-0.30, chicken thigh $0.80, ground turkey $1.20, beef/salmon $2.00+ (cite usda.gov/cnpp). Row 5: USDA food-waste baseline 30-40% (cite usda.gov/foodwaste); meal-plan target ≤10%. Row 6: Seasonal-produce calendar (cite seasonalfoodguide.org) — June strawberries, April asparagus, October butternut squash. Row 7: USDA MyPlate proportional-plate baseline (cite myplate.gov) — half plate fruits/veg, quarter grains, quarter protein. Anchored to JSONL pain 'tracking expenses but not analyzing or budgeting leads to no savings' — the quantified baseline converts JSONL confusion-disbelief-anxiety into JSONL track-every-dollar discipline that benchmarks meal-plan against USDA tier + protein hierarchy + waste rate."
+    },
+    {
+      "name": "5-step weekly meal-plan operating system — pantry inventory + sale-flier driven menu + theme-night structure + batch-cook + freezer-meal lattice — never built; competitors describe meal-planning generally without naming the 5-step operational workflow",
+      "what_they_missed": "brownhealth.org r6 (1,207 words), healthymamakris.com r8 (681 words), buzzfeed.com r11 (2,227 words), banterra.bank r12 (803 words), nutrition.gov r13 (466 words), and ramseysolutions.com r20 (2,106 words) describe meal planning as a workflow without 5-step OS. None of the six competitors builds: (a) Step 1 Pantry/freezer inventory — list items already-on-hand to plan around; (b) Step 2 Sale-flier-driven menu — match grocery store weekly flier (Kroger, Aldi, Walmart, Target apps cite kroger.com/savings/weekly-ad AND aldi.us/weekly-ads) to plan + pull markdown protein priority; (c) Step 3 Theme-night structure — Meatless Monday + Taco Tuesday + Pasta Wednesday + Sheet-Pan Thursday + Pizza Friday + Slow-Cooker Saturday + Leftover Sunday (cite usda.gov/foodwaste); (d) Step 4 Batch-cook 2x/week — Sunday + Wednesday cook 4-5 lb proteins + 3-4 lb grains + 2-3 lb veg in 90 min; (e) Step 5 Freezer-meal lattice — chili / soup / lasagna / casserole / breakfast burrito / overnight oats portioned into 1-2 serving bags; (f) Tools — AnyList / Trello / Mealime / Plan to Eat (cite anylist.com AND mealime.com); (g) Grocery-list rule — single trip per week, 14-item limit; (h) Pantry-staple lattice — rice / beans / oats / pasta / canned tomatoes / lentils / eggs / frozen veg.",
+      "our_edge": "Add an H2: '5-Step Weekly Meal-Plan Operating System.' Step 1: Pantry/freezer inventory — list items already-on-hand. Step 2: Sale-flier-driven menu — Kroger / Aldi / Walmart / Target weekly flier (cite kroger.com/savings/weekly-ad AND aldi.us/weekly-ads); pull markdown protein priority. Step 3: Theme-night structure — Meatless Monday + Taco Tuesday + Pasta Wednesday + Sheet-Pan Thursday + Pizza Friday + Slow-Cooker Saturday + Leftover Sunday. Step 4: Batch-cook 2×/week — Sunday + Wednesday cook 4-5 lb proteins + 3-4 lb grains + 2-3 lb veg in 90 min. Step 5: Freezer-meal lattice — chili / soup / lasagna / casserole / breakfast burrito / overnight oats portioned into 1-2 serving bags. Tools: AnyList (cite anylist.com), Trello, Mealime (cite mealime.com), Plan to Eat. Grocery-list rule: single trip per week, 14-item limit. Pantry-staple lattice: rice / beans / oats / pasta / canned tomatoes / lentils / eggs / frozen veg. Anchored to JSONL emotional state 'Anxiety and Fear' + JSONL repeated phrase 'where did all my money go' — the 5-step OS converts JSONL confusion-disbelief-anxiety into JSONL track-every-dollar + Empowerment-and-Control discipline."
+    },
+    {
+      "name": "Coupon + cashback + bulk + unit-price + store-brand + monthly-cost-target toolkit with quantified per-tactic savings — never built; competitors mention 'use coupons' without naming Ibotta + Fetch + Rakuten + Flashfood + Too Good To Go + grocery loyalty stack",
+      "what_they_missed": "brownhealth.org r6 (1,207 words), healthymamakris.com r8 (681 words), buzzfeed.com r11 (2,227 words), banterra.bank r12 (803 words), nutrition.gov r13 (466 words), and ramseysolutions.com r20 (2,106 words) say 'use coupons + buy in bulk' without naming the tactic stack. None of the six competitors builds: (a) Cashback app stack — Ibotta (cite ibotta.com) + Fetch Rewards (cite fetch.com) + Rakuten + Upside (cite upside.com) + Capital One Shopping; stacking these gives 5-15% effective discount on most groceries; (b) Surplus-recovery apps — Flashfood (cite flashfood.com) + Too Good To Go (cite toogoodtogo.com) — 50-75% off near-expiry; (c) Bulk-stock lattice — Costco/Sam's Club/BJ's vs Aldi unit-price comparison (Aldi often beats bulk per-unit on shelf-stable staples cite aldi.us); (d) Unit-price discipline — always check $/oz or $/100g; cite consumerreports.org/grocery-shopping/unit-pricing-explained; (e) Store-brand vs name-brand — Aldi/Trader Joe's house brands beat name-brand by 20-40% cite aldi.us/aldi-finds AND traderjoes.com; (f) Grocery loyalty stack — Kroger Boost ($59/yr cite kroger.com/savings) + Target Circle (cite target.com/circle) + Safeway/Albertsons For U + Walmart+; (g) Monthly cost-target setting — single $250 (Thrifty), couple $500, family-of-4 $850 (cite fns.usda.gov/cnpp/usda-food-plans-cost-food-monthly-reports); (h) Recipe-cost calculator — Mealime / Plan to Eat / Eat This Much (cite eatthismuch.com).",
+      "our_edge": "Add an H2: '8-Tactic Coupon + Cashback + Bulk + Unit-Price + Store-Brand + Loyalty Toolkit.' Tactic 1: Cashback stack — Ibotta (cite ibotta.com) + Fetch Rewards (cite fetch.com) + Rakuten + Upside (cite upside.com) + Capital One Shopping → 5-15% effective discount. Tactic 2: Surplus apps — Flashfood (cite flashfood.com) + Too Good To Go (cite toogoodtogo.com) → 50-75% off near-expiry. Tactic 3: Bulk lattice — Costco/Sam's Club/BJ's vs Aldi unit-price (cite aldi.us); shelf-stable Aldi often beats bulk. Tactic 4: Unit-price discipline — always $/oz or $/100g (cite consumerreports.org/grocery-shopping/unit-pricing-explained). Tactic 5: Store-brand vs name-brand — Aldi/Trader Joe's house beats name 20-40% (cite aldi.us/aldi-finds AND traderjoes.com). Tactic 6: Loyalty stack — Kroger Boost $59/yr (cite kroger.com/savings) + Target Circle (cite target.com/circle) + Safeway For U + Walmart+. Tactic 7: Monthly cost-target — Thrifty $250 single, $500 couple, $850 family-of-4 (cite fns.usda.gov/cnpp/usda-food-plans-cost-food-monthly-reports). Tactic 8: Recipe-cost calculator — Mealime / Plan to Eat / Eat This Much (cite eatthismuch.com). Anchored to JSONL emotional state 'Empowerment and Control' + JSONL repeated phrase 'tracking everything' / 'pen and paper/an excel sheet' — the 8-tactic toolkit converts JSONL confusion-disbelief-anxiety into JSONL track-every-dollar + Empowerment-and-Control discipline."
+    }
+  ],
+  "nlp_entities": [
+    "USDA Thrifty/Low-Cost/Moderate/Liberal Food Plan",
+    "USDA ERS food-at-home vs food-away-from-home",
+    "Protein-cost tier hierarchy",
+    "USDA food-waste 30-40% baseline",
+    "Seasonal-produce calendar",
+    "USDA MyPlate proportional plate",
+    "Pantry/freezer inventory step",
+    "Sale-flier-driven menu (Kroger/Aldi)",
+    "Theme-night structure (Meatless Monday)",
+    "Batch-cook + freezer-meal lattice",
+    "Cashback stack (Ibotta + Fetch + Rakuten)",
+    "Surplus apps (Flashfood + Too Good To Go)"
+  ],
+  "eeat_requirements": [
+    "Cite USDA for Food Plans + ERS food expenditure + MyPlate + EFNEP food-waste (cite fns.usda.gov/cnpp/usda-food-plans-cost-food-monthly-reports AND ers.usda.gov/data-products/food-expenditures AND myplate.gov AND usda.gov/foodwaste AND usda.gov/cnpp) AND BLS Consumer Expenditure Survey (cite bls.gov/news.release/cesan.nr0.htm) AND seasonalfoodguide.org. All meal-plan benchmark + USDA tier claims must anchor on USDA + BLS primary regulator data.",
+    "Cite Consumer Reports for unit-pricing (cite consumerreports.org/grocery-shopping/unit-pricing-explained) AND nutrition.gov for budget-meal-plan resources (cite nutrition.gov). All consumer-protection claims anchored on Consumer Reports + nutrition.gov primary data.",
+    "Cite Ibotta + Fetch + Upside + Flashfood + Too Good To Go + grocery store loyalty programs + Aldi + Trader Joe's + Mealime + AnyList + Eat This Much (cite ibotta.com AND fetch.com AND upside.com AND flashfood.com AND toogoodtogo.com AND kroger.com/savings AND kroger.com/savings/weekly-ad AND aldi.us AND aldi.us/weekly-ads AND aldi.us/aldi-finds AND traderjoes.com AND target.com/circle AND mealime.com AND anylist.com AND eatthismuch.com). Avoid affiliate-marketing 'best meal planning apps 2026' aggregators."
+  ],
+  "style_critique": {
+    "all_tones_found": [
+      {
+        "tone": "hospital wellness blog",
+        "used_by": "brownhealth.org r6"
+      },
+      {
+        "tone": "personal-blog mom-niche",
+        "used_by": "healthymamakris.com r8"
+      },
+      {
+        "tone": "BuzzFeed/Tasty contributor",
+        "used_by": "buzzfeed.com r11"
+      },
+      {
+        "tone": "community-bank educational",
+        "used_by": "banterra.bank r12"
+      },
+      {
+        "tone": "USDA government utility",
+        "used_by": "nutrition.gov r13"
+      },
+      {
+        "tone": "Ramsey budget evangelist",
+        "used_by": "ramseysolutions.com r20"
+      }
+    ],
+    "winning_tone": "Investigative consumer advocate — builds the quantified spend-decomposition + USDA tier benchmark + protein-cost hierarchy, the 5-step weekly meal-plan operating system, and the 8-tactic coupon + cashback + bulk + unit-price + store-brand + loyalty toolkit",
+    "decision_reason": "Priority 1 fired — JSONL emotional_state 'Confusion and Disbelief' triggered by 'Tracking expenses but not analyzing or budgeting leads to no savings' + JSONL emotional state 'Anxiety and Fear' + 'Empowerment and Control' + JSONL repeated phrase 'track every dollar' / 'tracking everything' / 'where did all my money go' / 'pen and paper/an excel sheet' — An investigative-consumer-advocate tone fills the gap left by hospital, personal-mom-blog, BuzzFeed, community-bank, USDA, and Ramsey tones.",
+    "our_directives": [
+      "When discussing meal-plan spending, always present USDA tier + protein-cost hierarchy. Never write 'meal planning saves money' — write 'benchmark by USDA Thrifty $250 / Low-Cost $290 / Moderate $360 / Liberal $440 single (cite fns.usda.gov/cnpp/usda-food-plans-cost-food-monthly-reports); food-at-home 53% / away 47% (cite ers.usda.gov/data-products/food-expenditures); cost-per-serving eggs/beans $0.30 → chicken thigh $0.80 → beef $2.00; food-waste baseline 30-40% target ≤10% (cite usda.gov/foodwaste); seasonal-produce calendar (cite seasonalfoodguide.org); MyPlate half plate fruits/veg (cite myplate.gov).'",
+      "When recommending the meal-plan workflow, always present the 5-step weekly OS. Never write 'plan your meals' — write 'apply 5-step OS: (1) pantry/freezer inventory; (2) sale-flier menu Kroger/Aldi (cite kroger.com/savings/weekly-ad AND aldi.us/weekly-ads); (3) theme-night Meatless Monday/Taco Tuesday/Pasta Wednesday/Sheet-Pan Thursday/Pizza Friday/Slow-Cooker Saturday/Leftover Sunday (cite usda.gov/foodwaste); (4) batch-cook 2x/week 4-5 lb protein + 3-4 lb grain + 2-3 lb veg in 90 min; (5) freezer-meal lattice chili/soup/lasagna/casserole/breakfast-burrito/overnight-oats. Tools: AnyList (cite anylist.com), Mealime (cite mealime.com), Plan to Eat. 14-item single-trip limit. Pantry staples: rice/beans/oats/pasta/canned-tomatoes/lentils/eggs/frozen-veg.'",
+      "When discussing money-saving tactics, always present the 8-tactic toolkit. Never write 'use coupons' — write 'apply 8-tactic toolkit: (1) cashback Ibotta + Fetch + Rakuten + Upside + Capital One Shopping (cite ibotta.com AND fetch.com AND upside.com); (2) surplus Flashfood + Too Good To Go (cite flashfood.com AND toogoodtogo.com); (3) bulk Costco/Sam's vs Aldi unit-price (cite aldi.us); (4) unit-price $/oz discipline (cite consumerreports.org/grocery-shopping/unit-pricing-explained); (5) Aldi/Trader Joe's store-brand 20-40% beat (cite aldi.us/aldi-finds AND traderjoes.com); (6) Kroger Boost + Target Circle + Walmart+ loyalty (cite kroger.com/savings AND target.com/circle); (7) USDA Thrifty $250/$500/$850 monthly cost-target (cite fns.usda.gov/cnpp/usda-food-plans-cost-food-monthly-reports); (8) recipe-cost calculator Mealime/Eat This Much (cite eatthismuch.com).'",
+      "When the reader confesses to JSONL pain \\'tracking expenses but not analyzing or budgeting leads to no savings,\\' pair empathy with the benchmark + 5-step + 8-tactic framing. Never write \\'just plan ahead.\\' Always write \\'[Empathy sentence]. The fix: three structural moves convert JSONL confusion-disbelief-anxiety-fear into JSONL track-every-dollar + tracking-everything + pen-and-paper-or-excel-sheet + Empowerment-and-Control discipline so where-did-all-my-money-go becomes a USDA-graded, sale-flier-driven, cashback-stacked grocery operating system — (a) benchmark spend by USDA tier + protein hierarchy, (b) operate the 5-step weekly meal-plan OS, (c) stack the 8-tactic coupon + cashback + bulk + unit-price + loyalty toolkit.\\'"
+    ]
+  },
+  "title_intelligence": {
+    "dominant_title_pattern": "'Meal Planning 101: How To Eat Healthy And Save Time And Money / Meal planning is kind of my jam / As a Tasty contributor I cover food and lifestyle / Meal planning is a powerful tool that can help you save money / Use these resources for meal planning and grocery shopping / Meal planning is intentionally deciding up front what you'll eat' — competitors title around generic-meal-planning-saves-money without anchoring to a USDA tier benchmark OR 5-step OS OR 8-tactic toolkit.",
+    "short_title": "Meal Plan To Save Money: USDA Tier + 5-Step Weekly OS + 8-Tactic Coupon Toolkit",
+    "long_title": "Meal Plan To Save Money — Benchmark Spending By USDA Thrifty $250 / Low-Cost $290 / Moderate $360 / Liberal $440 Single Tier + ERS Food-At-Home 53% Vs Away 47% + Protein-Cost Hierarchy ($0.30 Eggs → $0.80 Chicken Thigh → $2.00 Beef) + 30-40% Food-Waste Baseline + MyPlate Plate, Operate The 5-Step Weekly Meal-Plan OS (Pantry Inventory + Sale-Flier-Driven Menu Kroger/Aldi + Theme-Night Structure + 90-min Batch-Cook 2x/Week + Freezer-Meal Lattice), And Stack The 8-Tactic Toolkit (Ibotta + Fetch + Rakuten + Upside Cashback + Flashfood + Too Good To Go Surplus + Costco-Vs-Aldi Bulk + Unit-Price + Store-Brand + Kroger Boost + Target Circle Loyalty + Eat This Much Recipe-Cost Calculator)"
+  },
+  "reader_psychology": {
+    "triggering_thought": "'Meal plan to save money — every page tells me to plan my meals without quantifying how much I should spend, what protein costs per serving, or how much I'm wasting. I track every dollar in pen-and-paper or an excel sheet but where-did-all-my-money-go on groceries. The confusion and disbelief + anxiety and fear + occasional empowerment and control swing makes me skeptical that meal planning even works. Where's the USDA benchmark? Where's the sale-flier rotation? Where's the cashback stack?' — close paraphrase of JSONL emotional_state 'Confusion and Disbelief' triggered by 'Tracking expenses but not analyzing or budgeting leads to no savings' + JSONL emotional states 'Anxiety and Fear' + 'Empowerment and Control' + JSONL repeated phrase 'track every dollar' / 'tracking everything' / 'where did all my money go' / 'pen and paper/an excel sheet.'",
+    "desired_internal_shift": "From Aspirational-Meal-Planner To USDA-Tier-Benchmarker + 5-Step-Weekly-OS-Operator + 8-Tactic-Toolkit-Stacker With JSONL Track-Every-Dollar + Tracking-Everything + Pen-And-Paper-Or-Excel-Sheet + Empowerment-And-Control Discipline",
+    "bridge_content": "Quantified Spend-Decomposition + USDA Thrifty/Low-Cost/Moderate/Liberal Tier + Protein-Cost Hierarchy + Waste Baseline (Gap 1) → 5-Step Weekly Meal-Plan Operating System With Pantry Inventory + Sale-Flier Menu + Theme Nights + Batch-Cook + Freezer-Meal Lattice (Gap 2) → 8-Tactic Coupon + Cashback + Bulk + Unit-Price + Store-Brand + Loyalty Toolkit (Gap 3). Once applied, JSONL confusion-disbelief-anxiety-fear converts into JSONL track-every-dollar + Empowerment-and-Control discipline."
+  },
+  "internal_linking": null
+}
+```
+<!-- END_BATTLE_PLAN_BRIEF -->
