@@ -584,3 +584,91 @@ _Body text (45 chars) saved to JSON sidecar_
 
 
 ---
+
+
+---
+<!-- BATTLE_PLAN_BRIEF -->
+# Battle Plan Brief
+**Generated:** 2026-04-27T00:48:53.305439+00:00  
+**Keyword:** best way to save money for a house
+
+## Validation — 4 Checks (PASS)
+- **Keyword match:** YES — Keyword tokens hit: 3/3; angle tokens: 3
+- **Psychology match:** YES — 35 pain/emotion tokens echoed; keyword hit: True
+- **Competitor evidence:** YES — 3/3 gaps tied to named competitors with body evidence
+- **Gap specificity:** YES — All 3 gaps are specific (named WHO + WHERE + concrete edge)
+
+## Brief
+```json
+{
+  "content_gaps": [
+    {
+      "name": "Down-payment-assistance programs never enumerated by program type",
+      "what_they_missed": "bankrate.com (1,647 words) lists 'applying for down payment assistance' as one of '8 ways to save' but never names a single program — no Fannie Mae HomeReady, no Freddie Mac Home Possible, no state Housing Finance Agency (HFA) bond, no FHA 203(k), no USDA Section 502, no VA Native American Direct Loan, no Good Neighbor Next Door (HUD/HHS) for teachers/EMTs/firefighters/law-enforcement. rocketmortgage.com (2,130 words) covers down-payment percentages by loan type (Conventional 3%, FHA 3.5%, VA 0%, USDA 0%) but is silent on assistance programs. chase.com (1,453 words) lists 'work with an experienced real estate agent' as Step 1 — never names a state program. freedommortgage.com (1,467 words) walks through a 'step-by-step guide' to saving without naming a single assistance program. finance.yahoo.com (1,833 words) focuses on where-to-park-cash and never mentions DPA. The reader's JSONL pain — 'Tracking expenses diligently but still failing to save or build a budget' — could be solved 80% by a DPA grant the article never names.",
+      "our_edge": "Add an H2: 'The Real Best Way to Save Money for a House — Programs That Save You From Saving As Much.' Build a 6-row table. Columns: Program | Who Qualifies | Maximum Assistance | Where To Apply. Row 1: Fannie Mae HomeReady — first-time buyer, ≤80% area median income — up to 3% down + reduced PMI — apply via any conventional lender (cite fanniemae.com/homeready). Row 2: Freddie Mac Home Possible — same income/buyer profile — 3% down + reduced PMI — any approved lender (cite freddiemac.com/homepossible). Row 3: State HFA bond program (e.g. CalHFA MyHome — California; SONYMA — New York; TDHCA — Texas) — first-time buyer, state-specific income limits — 3-5% of loan amount as second-lien grant — apply via state HFA-approved lender (cite the state agency website). Row 4: Good Neighbor Next Door — teachers, law enforcement, firefighters, EMTs in revitalization areas — 50% off list price + $100 down — HUD lottery (cite hud.gov/program_offices/housing/sfh/reo/goodn). Row 5: USDA Section 502 Direct — rural buyers, ≤50-80% AMI — 0% down + subsidized rate — USDA Rural Development office (cite rd.usda.gov). Row 6: VA Loan — service members + spouses — 0% down + no PMI — any VA-approved lender (cite va.gov/housing-assistance). Closing rule: 'bankrate.com\\'s and chase.com\\'s and freedommortgage.com\\'s six-figure-savings articles silently exclude every reader who would qualify for $5,000-$73,000 of free down-payment money. The single biggest best-way-to-save-money-for-a-house lever is to need to save less in the first place — by stacking a DPA grant onto a 3-3.5% loan.'"
+    },
+    {
+      "name": "20% myth never dismantled with the full PMI vs opportunity-cost math",
+      "what_they_missed": "rocketmortgage.com (2,130 words) explicitly states '20%' as the threshold to 'avoid conventional private mortgage insurance' but never computes whether the years-of-extra-saving cost the buyer more than the PMI itself. bankrate.com (1,647 words) softens the 20% claim — 'Conventional mortgages require just 3% down, and FHA loans require only 3.5% down' — and notes 52% of aspiring homeowners flag the down payment as 'very significant' but never shows the full opportunity-cost math of waiting to hit 20%. chase.com (1,453 words), freedommortgage.com (1,467 words), and finance.yahoo.com (1,833 words) all leave the 20%-vs-3% trade-off implicit. None of the five computes: years-to-20%-saving × foregone home appreciation × foregone mortgage-paydown vs PMI cost on a 3% down loan over the same horizon.",
+      "our_edge": "Add an H2: 'The 20% Down Payment Myth — When Putting Less Down Earns More.' Build a worked example anchored to the bankrate.com/finance.yahoo.com $365,000 median home price (cite ATTOM Data Q4 2025 from finance.yahoo.com). Compare two paths over a 5-year window for a $365,000 house: PATH A — Save 20% down ($73,000) — at $1,000/mo it takes 73 months (~6 years) — during those 6 years, home appreciation at 4%/yr = $96,800 paid more for the same house; foregone mortgage paydown = $0 because no mortgage. PATH B — Save 3.5% down ($12,775 FHA) — at $1,000/mo it takes ~13 months — buy now; PMI ~0.85% of loan annually on FHA = ~$3,000/yr × 5 years before re-fi = ~$15,000 PMI; mortgage paydown over 5 years = ~$30,000 of principal; home appreciation accrues to YOU not the seller. Closing rule: 'PATH B (FHA 3.5%) costs ~$15,000 in PMI over 5 years to skip ~$96,800 of seller-side home-price appreciation — a net swing of ~$81,800 in the buyer\\'s favor. The 20% rule is a relic of risk-management culture; in a rising-price market it is the slowest, costliest way to save for a house. rocketmortgage.com names 20% but never runs the path comparison.'"
+    },
+    {
+      "name": "Where-to-park comparison missing I-Bonds and short-Treasury options",
+      "what_they_missed": "finance.yahoo.com (1,833 words) is the only competitor to address 'where to park your savings' but its options reduce to high-yield savings + money market + CDs — three flavors of bank deposit, all FDIC-rate-correlated. None of the five competitors names: Series I Savings Bonds (treasurydirect.gov, currently inflation-indexed; up to $10,000/year/person), 4-week and 8-week Treasury bills (currently ~5%, exempt from state and local tax), or laddered short Treasuries through a brokerage Treasury auto-roll. bankrate.com discusses how-much; rocketmortgage.com discusses what-it-costs; chase.com discusses agent selection; freedommortgage.com offers calculators. The JSONL repeated phrase 'automate the savings' in a household-rate environment makes the omission of state-tax-free Treasury bills particularly costly — a New York or California reader saving $30,000 over 18 months loses ~$300-700 to state taxes on HYSA interest the SERP recommends.",
+      "our_edge": "Add an H2: 'Where To Actually Park the House-Down-Payment Savings — Five Tiers Ranked by After-Tax Yield.' Build a 5-row table. Columns: Vehicle | After-Tax Yield (high tax state) | Liquidity | Annual Cap. Row 1: 4-week Treasury bill auto-roll (cite treasurydirect.gov or any major brokerage) — ~5% × (1 - federal-marginal-rate) — full liquidity at 4-week interval — no cap. Row 2: 8-week Treasury bill — same yield, slightly less liquid, no cap. Row 3: Series I Savings Bond (cite treasurydirect.gov/savings-bonds/i-bonds) — variable inflation-indexed rate, currently competitive with HYSAs but exempt from state and local tax — locked for 12 months minimum, 5-year early-withdrawal forfeits 3 months interest — $10,000/year/person electronic + $5,000/year paper. Row 4: HYSA (Ally / SoFi / Marcus per finance.yahoo.com) — ~4% × (1 - all-in-marginal-rate including state tax) — full liquidity — no cap. Row 5: 6-12 month CD ladder — slightly higher rate than HYSA but locked — no cap. Closing rule, JSONL-anchored on 'automate the savings': 'For a 12-24 month house-savings horizon in a high-tax state, a 4-week Treasury bill auto-roll beats a HYSA on after-tax yield by ~50-100 basis points — on a $50,000 down-payment fund, that is ~$250-500/year of foregone interest finance.yahoo.com\\'s SERP-leading guide never mentions.'"
+    }
+  ],
+  "nlp_entities": [
+    "Fannie Mae HomeReady",
+    "Freddie Mac Home Possible",
+    "state Housing Finance Agency (HFA)",
+    "Good Neighbor Next Door (HUD)",
+    "USDA Section 502 Direct",
+    "VA loan",
+    "FHA 3.5% down",
+    "Conventional 3% down",
+    "Private Mortgage Insurance (PMI)",
+    "Series I Savings Bond",
+    "4-week Treasury bill auto-roll",
+    "after-tax yield",
+    "ATTOM median home price"
+  ],
+  "eeat_requirements": [
+    "Cite Fannie Mae HomeReady (cite fanniemae.com/homeready) AND Freddie Mac Home Possible (cite freddiemac.com/homepossible) program pages directly. None of the five competitors names a single Fannie/Freddie low-down product — citing the GSE pages converts the DPA table from a hypothetical into an actionable list of GSE-anchored programs.",
+    "Cite HUD's Good Neighbor Next Door page (cite hud.gov/program_offices/housing/sfh/reo/goodn) and the U.S. Department of Veterans Affairs home-loan page (cite va.gov/housing-assistance). Demonstrates to the JSONL reader that the article cites the federal agencies that administer the programs, not just lender marketing pages like rocketmortgage.com or freedommortgage.com.",
+    "Cite TreasuryDirect Series I bond page (cite treasurydirect.gov/savings-bonds/i-bonds) AND the FRB H.15 Treasury yield curve (cite federalreserve.gov/releases/h15) for the 4-week T-bill yield. finance.yahoo.com, the only competitor to address parking savings, anchors on banking products only — citing TreasuryDirect and FRB H.15 demonstrates a federal-data-anchored after-tax yield comparison no competitor matches."
+  ],
+  "style_critique": {
+    "all_tones_found": [
+      {
+        "tone": "lender brand-content explainer",
+        "used_by": "rocketmortgage.com r5, chase.com r8, freedommortgage.com r16"
+      },
+      {
+        "tone": "personal-finance magazine guide",
+        "used_by": "finance.yahoo.com r10, bankrate.com r17"
+      }
+    ],
+    "winning_tone": "Investigative consumer advocate with HFA + Treasury authority — names the down-payment-assistance programs the lenders avoid, dismantles the 20% myth with full opportunity-cost math, and ranks where-to-park options by after-tax yield",
+    "decision_reason": "Priority 1 fired — JSONL emotional_state 'Anxiety and confusion from tracking but not saving' triggered by 'Tracking expenses diligently but still failing to save or build a budget' + JSONL emotional state 'Feeling overwhelmed, burned out, or incapable of manual tracking' — An investigative-consumer-advocate tone fills the gap left by the lender brand-content (rocketmortgage, chase, freedommortgage) which all silently exclude DPA programs that compete with their full-margin first mortgages, and the personal-finance magazines (finance.yahoo, bankrate) which discuss where-to-park without naming Treasury options or the full PMI math. The reader needs to be told that the best way to save money for a house is to need to save less of it.",
+    "our_directives": [
+      "When recommending a savings rate or amount, always pair it with the relevant DPA program by income bracket. Never write 'save $73,000 for a 20% down payment' — write 'save $73,000 for a 20% down payment OR ~$12,775 for a 3.5% FHA OR $0 if VA-eligible OR $100 + a HUD lottery win for Good Neighbor Next Door — the DPA path skips most of the saving.'",
+      "When citing a percentage down-payment rule, always show the worked path comparison over a multi-year horizon. Never write 'putting 20% down avoids PMI' — write 'putting 20% down avoids PMI but loses ~6 years of home-price appreciation per finance.yahoo.com\\'s ATTOM $365,000 median × 4%/yr ≈ $96,800; FHA 3.5% with PMI saves ~$15K over 5 years and gains ~$81,800.'",
+      "When recommending a savings vehicle, always state the after-tax yield in a high-tax state. Never write 'use a HYSA for your down payment' — write 'use a HYSA for your down payment in a no-state-tax state — but in California or New York, a 4-week Treasury bill auto-roll exempts state tax and beats HYSA after-tax yield by ~50-100 basis points (cite treasurydirect.gov / federalreserve.gov H.15).'",
+      "When the reader confesses to JSONL pain 'tracking but not saving,' always pair empathy with the DPA-program-search step. Never write 'cut spending and increase savings rate.' Always write '[Empathy sentence]. Before another spreadsheet column, type 'down payment assistance' + your state name into hud.gov\\'s state homebuyer pages — the program eligibility check takes 10 minutes and may eliminate 70% of the saving the lender articles tell you to do.'"
+    ]
+  },
+  "title_intelligence": {
+    "dominant_title_pattern": "'How to Save [Money] for a [House / Down Payment]' — every competitor leads with How-To + outcome; none mentions DPA, the 20% myth, or after-tax yield.",
+    "short_title": "Best Way to Save Money for a House: DPA + the 20% Myth",
+    "long_title": "The Best Way to Save Money for a House — Down-Payment-Assistance Programs Lenders Skip, the 20% Myth, and the After-Tax Yield Table"
+  },
+  "reader_psychology": {
+    "triggering_thought": "'Every guide tells me the best way to save money for a house is more discipline — track every dollar, automate the savings, cut back on eating out. I have done all of that for 18 months. The down-payment goal feels further away than when I started because home prices keep moving. Is there a way to save money for a house that does NOT require me to first save $73,000?' — close paraphrase of JSONL emotional_state 'Anxiety and confusion from tracking but not saving' + 'Feeling overwhelmed, burned out, or incapable of manual tracking' + JSONL pain 'Tracking expenses diligently but still failing to save or build a budget' + JSONL repeated phrases 'track every dollar' / 'automate the savings' / 'cut back on eating out.'",
+    "desired_internal_shift": "From Discipline-Maximizing House-Saver to Programs-Stacking Buyer With a DPA Grant + 3.5% FHA + After-Tax-Yield Treasury",
+    "bridge_content": "The DPA-program enumeration table (Content Gap 1) followed by the 20% myth dismantling math (Content Gap 2) and the after-tax yield ranking (Content Gap 3). The reader of best-way-to-save-money-for-a-house arrives believing the answer is 'save more, faster'; the article reframes the question as 'qualify for a program that lets you buy now with less saved.' Once the reader sees Fannie Mae HomeReady or a state HFA bond they can stack with a 3.5% FHA loan, the JSONL anxiety about tracking-without-saving converts into a 10-minute eligibility check — the best way to save money for a house is to need to save less of it."
+  },
+  "internal_linking": null
+}
+```
+<!-- END_BATTLE_PLAN_BRIEF -->

@@ -452,3 +452,98 @@ _Body text (45 chars) saved to JSON sidecar_
 
 
 ---
+
+
+---
+<!-- BATTLE_PLAN_BRIEF -->
+# Battle Plan Brief
+**Generated:** 2026-04-27T00:46:59.406066+00:00  
+**Keyword:** best time to do laundry to save money
+
+## Validation — 4 Checks (PASS)
+- **Keyword match:** YES — Keyword tokens hit: 4/4; angle tokens: 2
+- **Psychology match:** YES — 24 pain/emotion tokens echoed; keyword hit: True
+- **Competitor evidence:** YES — 3/3 gaps tied to named competitors with body evidence
+- **Gap specificity:** YES — All 3 gaps are specific (named WHO + WHERE + concrete edge)
+
+## Brief
+```json
+{
+  "content_gaps": [
+    {
+      "name": "No 'find YOUR utility's TOU schedule' instructions",
+      "what_they_missed": "All six competitors hand-wave the off-peak window. love2laundry.nl (1,769 words) says 'the best time to do laundry to save electricity is at night ... on Sundays or special days.' candy-home.com (585 words) says 'most people will see that they have a lower tariff overnight, usually between 11 pm and 7 am.' paylesspower.com (2,175 words) hedges by season — 'in the warmer months ... in the morning ... in the winter, peak times are earlier.' mulberryscleaners.com (1,382 words) anchors a generic 'peak hours are typically 4pm to 8pm.' yahoo.com (805 words) says 'depending on your utility provider' but never tells the reader how to look it up. caldwellandgregory.com (1,172 words) is silent on TOU windows. None of the six tells the reader to check their utility bill back-page tariff section, dial the customer-service line, or log into the utility account dashboard to see the EXACT off-peak window for their specific utility — which can vary by an hour at the start AND end depending on summer vs winter rate seasons.",
+      "our_edge": "Add an H2: 'Find YOUR Utility's Off-Peak Window in 90 Seconds (Then Set a Reminder).' 4-step procedure. (1) Pull the most recent electricity bill — look for a 'Time-of-Use,' 'TOU,' 'Tiered Rate,' or 'Smart Pricing' section on page 2 or 3. (2) If absent, log into the utility account at the URL on the bill — most utilities (PG&E, ConEd, DTE, Reliant, Direct Energy) publish the TOU schedule on the account dashboard. (3) If still nothing, call the customer-service number (also on bill) and ask 'do you offer a time-of-use plan and if I am on it, what are the off-peak hours and the price differential per kWh?' (4) Set a phone-calendar repeating reminder at the start of the off-peak window so laundry runs default to that time. Closing rule: 'mulberryscleaners.com\\'s generic 4-8 pm peak window is wrong for half of U.S. utilities — Texas, Arizona, and California utilities often run peak 1-7 pm in summer. The 90-second utility-bill check is the single most important step in this entire article — without it the rest of the tips are guessing at YOUR rate.'"
+    },
+    {
+      "name": "Off-peak shift never compared against cold-water + line-dry savings",
+      "what_they_missed": "caldwellandgregory.com (1,172 words) opens with the cost frame — '$170 per year on laundry supplies' — and notes '70% less electricity than 30 years ago' for new appliances, but does NOT compare the dollar impact of timing-shift vs. wash-temperature-shift vs. line-drying. paylesspower.com (2,175 words) lists 'cold water' and 'air dry' as bullets without dollar comparison to the time-shift. love2laundry.nl, candy-home.com, mulberryscleaners.com, yahoo.com all advise off-peak timing without computing the alternative. The reader's JSONL pain 'Money disappearing without clear understanding of spending patterns' means they need a stack-ranked list — but none of the competitors stack-ranks the levers.",
+      "our_edge": "Add an H2: 'The Stack-Ranked Laundry Savings Levers — Off-Peak Timing Is Lever #3, Not #1.' 4-row table for a typical 7-load/week household. Columns: Lever | Mechanism | Annual Savings | Effort. Row 1: Switch to cold-water wash — eliminates ~90% of the energy per load (the energy cost is mostly water heating) — ~$60-90/year — 0 effort, change one detergent setting once. Row 2: Line-dry or rack-dry half the loads — dryers consume ~5,000W vs washers' ~500W — ~$70-110/year — moderate effort, requires drying space. Row 3: Time-shift to off-peak hours — typically 5-15% rate differential on the loads run in off-peak — ~$15-40/year — low effort once utility schedule is known. Row 4: Run full loads only (skip half-loads) — fewer cycles total — ~$10-25/year — low effort. Closing rule: 'Off-peak time-shifting (the headline of every SERP result) is the THIRD-largest lever, behind cold water (~$60-90/yr) and line drying (~$70-110/yr). caldwellandgregory.com\\'s $170 baseline becomes ~$15 a year if all four levers stack — and that is the actual answer to best-time-to-do-laundry-to-save-money.'"
+    },
+    {
+      "name": "Smart-meter / smart-plug verification step never recommended",
+      "what_they_missed": "yahoo.com (805 words) cites an MD Energy Advisors expert — 'Christine Ciavardini' — without recommending the reader verify their actual usage on a smart-meter app or kWh meter. paylesspower.com (2,175 words) computes generic off-peak benefits without telling the reader how to confirm their savings month-over-month. mulberryscleaners.com (1,382 words) reminds 'your washing machine and dryer use the same amount of energy no matter what time you do laundry. However, timing your loads can save you money by avoiding higher energy rates' — but never closes the loop with a measurement step. None of the six competitors recommends a $25 smart plug or the utility's smart-meter dashboard so the reader can verify whether the time-shift actually moved their bill — exactly the reassurance the JSONL pain 'Money disappearing without clear understanding of spending patterns' demands.",
+      "our_edge": "Add an H2: 'Verify The Savings — A 30-Day Smart-Plug Test Anyone Can Run.' 3-step protocol. (1) Buy a $25 energy-monitoring smart plug (Kasa, Emporia Vue, or built-in via the utility's smart-meter dashboard if available). (2) Plug the washer (and separately, the dryer) into the smart plug and run 10 loads at peak hours; record total kWh × peak rate. (3) Run the next 10 loads in off-peak hours; record total kWh × off-peak rate. Subtract — that is the dollar savings of the timing shift on YOUR utility plan. Closing rule, JSONL-anchored on 'pen and paper/an excel sheet': 'A pen-and-paper kWh log on a spreadsheet column for 30 days settles the question for your specific utility, your specific machines, and your specific household — none of the SERP recommendations beats your own measured number. The JSONL repeated phrase pen-and-paper is the right tool here.'"
+    }
+  ],
+  "nlp_entities": [
+    "time-of-use (TOU) tariff",
+    "off-peak window",
+    "peak hours rate differential",
+    "cold-water wash",
+    "line-dry / rack-dry",
+    "stack-ranked savings levers",
+    "smart-plug kWh measurement",
+    "utility customer-service verification",
+    "summer vs winter rate seasons",
+    "kWh × rate calculation",
+    "30-day measured baseline",
+    "load-consolidation rule"
+  ],
+  "eeat_requirements": [
+    "Cite the U.S. Department of Energy laundry guidance directly (cite energy.gov/energysaver/laundry) for the cold-water-90% and line-dry savings claims used in the stack-ranked table. caldwellandgregory.com mentions '70% less electricity than 30 years ago' but does not link the DoE — sourcing energy.gov converts the lever ranking from estimated into a primary-source anchor.",
+    "Cite EnergyStar appliance specifications (cite energystar.gov/products/clothes_washers and energystar.gov/products/clothes_dryers) for the watt-hours-per-load figures used to compute the dollar savings rows. None of the six competitors anchors the kWh-per-load number to a federal certification — the Energy Star spec page provides defensible numbers per Energy Star-certified machine.",
+    "Cite a utility-specific TOU schedule example (e.g. PG&E E-TOU-C tariff page; cite pge.com or ConEd Smart-Pricing page; cite coned.com) showing summer vs winter peak windows. Demonstrates to the JSONL skeptical reader that the article is not relying on a single generic 4-8 pm window like mulberryscleaners.com — TOU schedules genuinely vary by utility and season, and the article cites a real example."
+  ],
+  "style_critique": {
+    "all_tones_found": [
+      {
+        "tone": "promotional service-business explainer",
+        "used_by": "love2laundry.nl r2, mulberryscleaners.com r14, caldwellandgregory.com r18"
+      },
+      {
+        "tone": "appliance-vendor educational content",
+        "used_by": "candy-home.com r10"
+      },
+      {
+        "tone": "utility-company tip page",
+        "used_by": "paylesspower.com r12"
+      },
+      {
+        "tone": "consumer-magazine guide",
+        "used_by": "yahoo.com r19"
+      }
+    ],
+    "winning_tone": "Practical-engineer with quiet authority — anchors every claim to DoE/Energy Star primary sources, stack-ranks the savings levers correctly, and arms the reader with a 90-second utility-lookup procedure plus a 30-day smart-plug verification protocol",
+    "decision_reason": "Priority 1 fired — JSONL emotional_state 'Anxiety/Overwhelm' triggered by 'Money disappearing without clear understanding of spending patterns' + JSONL repeated phrase 'pen and paper/an excel sheet' — A practical-engineer tone fills the gap left by the promotional service explainers (love2laundry, mulberryscleaners, caldwellandgregory) which all softly upsell paid services, the appliance-vendor content (candy-home) which frames the answer as 'buy a new washer,' the utility tip page (paylesspower), and the consumer-magazine guide (yahoo). The reader wants a stack-ranked answer they can verify themselves; the article must hand them the TOU lookup and the smart-plug verification.",
+    "our_directives": [
+      "When stating a peak / off-peak window, always pair it with the utility-bill-back-page lookup step. Never write 'off-peak is 11 pm to 7 am' — write 'off-peak is typically 11 pm to 7 am — but verify YOUR utility on page 2 of your bill or by calling customer service in 90 seconds; Texas/Arizona/California utilities often differ.'",
+      "When recommending a savings lever, always state its rank in the stack-ranked list and the annual dollar range. Never write 'wash in cold water' — write 'wash in cold water — Lever #1, ~$60-90/year saved (DoE: ~90% of laundry energy is water heating).'",
+      "When citing a vendor or service-business source, always disclose the affiliation in the same sentence. Never write 'mulberryscleaners.com recommends 4-8 pm peak' — write 'mulberryscleaners.com (a dry-cleaning service) cites 4-8 pm as a generic peak window — verify against your utility because TOU windows vary by region and season.'",
+      "When the reader confesses to JSONL pain 'money disappearing without clear understanding,' always pair empathy with the 30-day smart-plug verification protocol. Never write 'every utility is different.' Always write '[Empathy sentence]. The fix is a $25 smart plug + a pen-and-paper spreadsheet for 30 days — measure 10 peak loads vs 10 off-peak loads on YOUR utility plan; the answer is in your column-D dollar difference.'"
+    ]
+  },
+  "title_intelligence": {
+    "dominant_title_pattern": "'Best Time to Do Laundry to Save [Money / Electricity] [Tips]' — every competitor uses superlative + outcome + generic time window; few specify the utility-lookup or stack-ranked levers.",
+    "short_title": "Best Time to Do Laundry to Save Money: Stack-Ranked Levers",
+    "long_title": "The Best Time to Do Laundry to Save Money — Stack-Ranked Savings Levers, Your Utility's Off-Peak Window, and a 30-Day Smart-Plug Verification Test"
+  },
+  "reader_psychology": {
+    "triggering_thought": "'Every article tells me to do laundry at off-peak hours to save money. Fine — but what is MY utility's off-peak window, how much will the time-shift actually save versus just washing in cold water, and how do I verify that the saving showed up on my next bill rather than disappearing into the same anxiety I have about every other line?' — close paraphrase of JSONL emotional_state 'Anxiety/Overwhelm' + 'Frustration' + 'Despair/Resentment' + JSONL pain 'Money disappearing without clear understanding of spending patterns' + JSONL repeated phrase 'pen and paper/an excel sheet.'",
+    "desired_internal_shift": "From Off-Peak Listicle Browser to Practical Engineer With Stack-Ranked Levers and a 30-Day Verified-Savings Spreadsheet",
+    "bridge_content": "The 90-Second Utility-Bill TOU lookup (Content Gap 1) followed by the Stack-Ranked Levers table (Content Gap 2) and the 30-Day Smart-Plug Verification (Content Gap 3). The reader of best-time-to-do-laundry-to-save-money arrives believing the answer is 'do laundry at night'; the article reframes the question as 'which lever is biggest for YOUR household, what is YOUR utility's actual off-peak window, and how do I prove the saving showed up?' Once the reader sees cold water at #1 and timing at #3, plus the smart-plug verification protocol, the JSONL anxiety about money disappearing converts into a measured pen-and-paper spreadsheet that proves the savings month over month."
+  },
+  "internal_linking": null
+}
+```
+<!-- END_BATTLE_PLAN_BRIEF -->

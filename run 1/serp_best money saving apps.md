@@ -694,3 +694,94 @@ _Body text (45 chars) saved to JSON sidecar_
 
 
 ---
+
+
+---
+<!-- BATTLE_PLAN_BRIEF -->
+# Battle Plan Brief
+**Generated:** 2026-04-27T00:42:47.170485+00:00  
+**Keyword:** best money saving apps
+
+## Validation — 4 Checks (PASS)
+- **Keyword match:** YES — Keyword tokens hit: 3/3; angle tokens: 4
+- **Psychology match:** YES — 23 pain/emotion tokens echoed; keyword hit: True
+- **Competitor evidence:** YES — 3/3 gaps tied to named competitors with body evidence
+- **Gap specificity:** YES — All 3 gaps are specific (named WHO + WHERE + concrete edge)
+
+## Brief
+```json
+{
+  "content_gaps": [
+    {
+      "name": "Tracking apps and savings apps treated as if they are the same category",
+      "what_they_missed": "finance.yahoo.com (1,979 words) opens with My Money — 'a free tool designed to give users a centralized, real-time view of their finances ... view your key financial data — such as accounts, balances, and liabilities' — that is a tracking dashboard, NOT a savings tool. themuse.com (1,203 words) leads with Level — 'updates you throughout the day on how much spendable cash you have ... it uses that average daily spend to estimate how much you can spend over the next week or month' — also tracking. nerdwallet.com (835 words) profiles Monarch Money 'for flexible budgeting' and YNAB 'for hands-on zero-based budgeting' — also tracking/budgeting, not money movement. bankrate.com (1,632 words) does mix in actual savings tools (Oportun, Qapital, Acorns) but lists them in the same flat numbered list as Goodbudget (envelope budgeter) and Rocket Money (subscription canceler). The JSONL pain 'Tracking spending but not having a budget to understand it' tells us the reader has already lived through pure-tracking apps and gotten zero saved dollars from them.",
+      "our_edge": "Open with an H2: 'Tracking ≠ Saving — Why Five of the Apps in Every Listicle Move $0.' Build a 2-column truth table. Column A — 'Pure Trackers (sees money, never moves it)': My Money (finance.yahoo.com), Level (themuse.com), Monarch Money (nerdwallet.com), YNAB (nerdwallet.com — at $14.99/mo), Goodbudget. These produce awareness only — the JSONL repeated phrase is 'track every dollar' and these apps deliver that, but no actual transfer. Column B — 'Money Movers (actually transfers cash to a savings account)': Oportun / Digit (bankrate.com — '$5/month after 30-day trial'), Qapital (round-up to insured savings, 0.10% interest per 30kwealth.com), Acorns (round-up to invested account), Chime (auto-save percentage, bankrate.com), and a free HYSA auto-transfer (no app required, JSONL repeated_phrase 'HYSA'). Closing rule: 'If your bank balance has not grown after 60 days of using a Column-A app, you have an awareness problem solved by tracking — not a savings problem. Pair Column A (one tracker) with Column B (one mover) — never two of the same column.'"
+    },
+    {
+      "name": "JSONL keyword 'HYSA' never named in any of the six competitor lists",
+      "what_they_missed": "Six SERP results, ~9,100 words combined, and 'HYSA' or 'high-yield savings account' is mentioned exactly zero times in the body texts. bankrate.com (1,632 words) recommends Oportun, Qapital, Goodbudget, Chime, Current, Acorns, Rocket Money, YNAB, Upside — every one a wrapper that sits on top of (or instead of) a HYSA. 30kwealth.com (706 words) flags Qapital interest at '0.10%' but never names the HYSA alternative. themuse.com (1,203 words) recommends Level for awareness. nerdwallet.com (835 words) compares budgeting apps. frugalforless.com (2,765 words) covers '50+' apps, none anchored to a HYSA. The JSONL repeated phrases include 'HYSA' AND 'pay yourself first' AND 'emergency fund' — the three highest-priority moves the reader is already trying to make are missing from every list.",
+      "our_edge": "Add an H2: 'The Free Account That Beats Half the Apps Above — A HYSA Pay-Yourself-First Setup.' 4-step setup. (1) Open a free HYSA at a bank with labeled sub-accounts (Ally Buckets, SoFi Vaults, Capital One 360, Marcus, Discover Online Savings — all FDIC, ~4% APY). (2) Create one sub-account named 'Emergency Fund' (JSONL repeated phrase 'emergency fund'). (3) Set a recurring auto-transfer for the day after each paycheck (JSONL repeated phrase 'pay yourself first'). (4) Use a Column-A tracker only AFTER the HYSA is funding on auto-pilot. Worked example using $200/mo: '$200/mo × 12 months = $2,400 saved + ~$50 of HYSA interest at 4% APY = $2,450 in year 1. Same $200/mo into Qapital at 0.10% (per 30kwealth.com) = $2,401. The HYSA earns 50× more interest with zero subscription fee.' Closing line: 'The JSONL signals literally name HYSA, pay-yourself-first, and emergency fund as the reader\\'s active vocabulary — yet zero of the six SERP results says either word. That is the gap.'"
+    },
+    {
+      "name": "Subscription fees never translated to break-even savings volume",
+      "what_they_missed": "bankrate.com (1,632 words) explicitly states Oportun 'costs $5 per month' after the free trial and lists Acorns + Chime + Rocket Money among 9 apps without computing the fee threshold. 30kwealth.com (706 words) names Qapital but is silent on Qapital\\'s pricing tier. nerdwallet.com (835 words) flags YNAB without naming the $14.99/month price. finance.yahoo.com (1,979 words) labels its picks free or paid in passing without calculating breakeven. None of the six competitors asks the obvious question: how much does the app need to save you per month before the subscription fee is recovered? The JSONL pain 'Tracking spending but not having a budget to understand it' means readers will install all of these apps simultaneously and silently bleed subscription fees that swamp the savings.",
+      "our_edge": "Add an H2: 'The Subscription Fee Trap — Break-Even Savings Volume for Each Paid App.' 5-row table. Columns: App | Monthly Fee | Min Monthly Savings to Break Even | Break-Even APY on $1,000. Row 1: Oportun (Digit) — $5/mo (bankrate.com) — needs $5/mo of saved money JUST to break even — equivalent to 6.0% APY on $1,000. Row 2: YNAB — $14.99/mo (cite ynab.com pricing) — $15/mo break-even — 18% APY equivalent on $1,000. Row 3: Acorns Bronze — $3/mo (cite acorns.com) — $3/mo break-even — 3.6% APY equivalent on $1,000. Row 4: Acorns Gold — $12/mo (cite acorns.com) — $12/mo break-even — 14.4% APY equivalent on $1,000. Row 5: Free HYSA (Ally / SoFi / Marcus) — $0/mo — 4% APY actual yield. Closing rule: 'A paid savings app is only paying for itself when its monthly fee is less than the cashback or interest it generates above what a free 4% APY HYSA would have generated. By that test, Oportun and YNAB break even only above ~$1,500 of balance — for new savers, the free HYSA wins outright.'"
+    }
+  ],
+  "nlp_entities": [
+    "tracker vs mover taxonomy",
+    "Pay-Yourself-First automation",
+    "HYSA labeled sub-account",
+    "subscription fee break-even",
+    "round-up savings rate",
+    "FDIC weekly national rate",
+    "free auto-transfer (no app)",
+    "Column A pure trackers",
+    "Column B money movers",
+    "envelope budgeting (Goodbudget)",
+    "zero-based budgeting (YNAB)",
+    "subscription canceler (Rocket Money)"
+  ],
+  "eeat_requirements": [
+    "Cite each app's official pricing page directly: Oportun / Digit (cite oportun.com / digit.co), YNAB (cite ynab.com/pricing), Acorns (cite acorns.com/disclosures), Qapital (cite qapital.com/pricing), Chime (cite chime.com), Rocket Money (cite rocketmoney.com). bankrate.com states Oportun is '$5/month' but does not link to the issuer page — sourcing the disclosures directly converts the comparison from a relayed claim into a defensible primary-source review the JSONL skeptical reader can verify.",
+    "Cite the FDIC weekly national rates page (cite fdic.gov/regulations/resources/rates) for the 'current 4% top HYSA' anchor used in the break-even APY column. Without the FDIC rate cited, the article is repeating a marketing-anchored number — quoting FDIC explicitly addresses the JSONL emotional state of frustration with prior tracking efforts that did not lead to savings.",
+    "Cite a behavioral-economics reference on the difference between awareness (tracking) and behavior change (transferring) — Loewenstein & Ariely 'Predictably Irrational' or Thaler's 'mental accounting' (Thaler 1985, Marketing Science) — to support the Column-A vs Column-B taxonomy. Converts the contrarian 'tracking ≠ saving' framing into an empirically grounded position none of the six competitors offers."
+  ],
+  "style_critique": {
+    "all_tones_found": [
+      {
+        "tone": "personal-finance-magazine listicle",
+        "used_by": "bankrate.com r4, finance.yahoo.com r2, themuse.com r13"
+      },
+      {
+        "tone": "promotional dashboard pitch",
+        "used_by": "30kwealth.com r5, frugalforless.com r12"
+      },
+      {
+        "tone": "comparison-table editorial",
+        "used_by": "nerdwallet.com r16"
+      }
+    ],
+    "winning_tone": "Decisive taxonomist with HYSA-first authority — separates trackers from movers, names the HYSA the listicles avoid, and shows subscription-fee break-even math the magazine listicles do not",
+    "decision_reason": "Priority 1 fired — JSONL emotional_state 'Frustrated and confused by tracking efforts not leading to savings' triggered by 'Tracking spending but not having a budget to understand it' + JSONL repeated phrases 'HYSA' + 'pay yourself first' + 'emergency fund' — A decisive-taxonomist tone with HYSA-first authority fills the gap left by the magazine listicles (bankrate, finance.yahoo, themuse) which all blur tracking and saving, the promotional dashboard pitches (30kwealth, frugalforless) which sell the round-up apps without the HYSA comparison, and the comparison-table editorial (nerdwallet) which never even cites a savings rate. The reader's vocabulary is HYSA / pay-yourself-first / emergency fund — the article must speak that vocabulary in the first 200 words.",
+    "our_directives": [
+      "When recommending an app, always state whether it is Column A (tracker) or Column B (money mover). Never write 'try YNAB' — write 'try YNAB if you cannot stop spending despite tracking — Column A pure tracker at $14.99/mo (nerdwallet.com).'",
+      "When stating any APY or interest rate, always render the dollar yield on $1,000 over 12 months. Never write 'Qapital pays 0.10%' — write 'Qapital pays 0.10% per 30kwealth.com — that is $1 of interest on $1,000 for a year, vs ~$40 at a 4% HYSA.'",
+      "When mentioning a paid app, always state the monthly fee AND the break-even savings volume in the same sentence. Never write 'Oportun is $5/month' — write 'Oportun is $5/month per bankrate.com — that fee needs $5/month of net savings to break even, equivalent to ~6% APY on $1,000.'",
+      "When the reader confesses to JSONL pain 'tracking but not saving,' always pair empathy with the Column-A-plus-Column-B rule. Never write 'try a savings app.' Always write '[Empathy sentence]. The fix is one Column A tracker plus one Column B money mover; never two of the same column. The free HYSA + auto-transfer pair (JSONL pay-yourself-first) is the lowest-effort Column B available.'"
+    ]
+  },
+  "title_intelligence": {
+    "dominant_title_pattern": "'[N] Best Money-Saving Apps [Year] [Pros, Cons]' — every competitor leads with a number; few distinguish trackers from movers.",
+    "short_title": "Best Money-Saving Apps: Trackers vs Movers (One of Each)",
+    "long_title": "The Best Money-Saving Apps — Trackers vs Movers, the HYSA the Listicles Skip, and the Subscription-Fee Break-Even Math"
+  },
+  "reader_psychology": {
+    "triggering_thought": "'I have tried Mint, Level, YNAB and a round-up app — I see every dollar and yet my emergency fund is still zero. I want to know which apps actually move money to a HYSA on my behalf — and which are just tracking dashboards in a different skin.' — close paraphrase of JSONL emotional_state 'Frustrated and confused by tracking efforts not leading to savings' + JSONL repeated phrases 'HYSA' + 'pay yourself first' + 'emergency fund' + JSONL pain 'Tracking spending but not having a budget to understand it.'",
+    "desired_internal_shift": "From Frustrated Tracker to Two-App Operator (one Column A tracker, one Column B mover) With a Funded HYSA",
+    "bridge_content": "The Tracker-vs-Mover taxonomy (Content Gap 1) followed by the HYSA pay-yourself-first setup (Content Gap 2) and the subscription-fee break-even table (Content Gap 3). The reader arrives believing the answer is 'pick a better tracker'; the article reframes the question as 'do you have a Column B money mover funding a HYSA, yes or no?' If no, the answer is the free HYSA + auto-transfer first — and a Column A tracker layered on AFTER the HYSA is on auto-pilot. Once the reader sees the break-even math against a $5-15/month subscription, the JSONL frustration converts into a single paired-app setup that finally produces the emergency-fund balance the JSONL vocabulary already named."
+  },
+  "internal_linking": null
+}
+```
+<!-- END_BATTLE_PLAN_BRIEF -->
