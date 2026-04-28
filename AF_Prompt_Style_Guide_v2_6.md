@@ -7,7 +7,7 @@
 ## 1. The blog post title
 ## 2. The primary keyword
 ## 3. The key data point or hook from the post
-## 4. Which of the 19 styles you want (or ask the LLM to choose the best fit)
+## 4. the LLM to choose the best fit
 ##
 ## The LLM will use this framework to write a complete, precise image generation
 ## prompt that produces a premium, on-brand hero banner or Pinterest pin.
