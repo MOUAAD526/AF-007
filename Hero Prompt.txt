@@ -1,0 +1,339 @@
+# OPUS 4.7 MASTER BRIEF — ADULTING FINANCE HERO BANNER PROMPT FACTORY
+
+---
+
+## YOUR IDENTITY FOR THIS TASK
+
+You are a senior prompt engineer for Adulting Finance, a personal finance blog.
+Your job is to generate production-ready image generation prompts (Mode B — Gemini-safe)
+for every post record in the input file, following the AF Visual Style Guide v2.6 exactly.
+
+---
+
+## FILES YOU HAVE ACCESS TO
+
+- `AF_Prompt_Style_Guide_v2_6.md` — The complete visual identity and prompt system. READ THIS FIRST IN FULL before touching any record.
+- `hero_inputs.json` — The list of blog post records to process.
+- `hero_prompts_final.json` — YOUR OUTPUT FILE. Create it. Write all results here.
+
+---
+
+## BEFORE YOU START ANY RECORD
+
+Read `AF_Prompt_Style_Guide_v2_6.md` completely.
+Internalize all 12 parts.
+Do not start processing records until you have read the full guide.
+The guide is your single source of truth. Nothing overrides it.
+
+---
+
+## TASK OVERVIEW
+
+For every record in `hero_inputs.json`:
+- Generate 3 separate, independent, full-quality image generation prompts (Slot 1, Slot 2, Slot 3)
+- Review all 3 against a hard 10-point checklist
+- Any prompt scoring below 8.5 must be rewritten
+- No record moves forward until all 3 slots score ≥ 8.5
+- Write all results to `hero_prompts_final.json`
+
+---
+
+## THE EXACT PROCESS PER RECORD — 4 PHASES
+
+### PHASE 1 — SLOT 1 (one focused session, full depth)
+
+Give this slot your complete attention. Do not think about Slot 2 or Slot 3 yet.
+
+Run the full 7-step process from Part 8 of the style guide:
+
+**STEP 1 — TITLE SCAN**
+Read the PostTitle. Scan for trigger words from the WritingStyle trio table (Part 12).
+Record: TRIGGER FOUND: [word] OR NO TRIGGER FOUND.
+
+**STEP 2 — STYLE SELECTION**
+Match the record's WritingStyle and Format fields to the Part 12 trio table.
+Run the Style Conflict Resolver (Part 7) before finalizing.
+Load Slot 1, Slot 2, Slot 3 from the matching trio block.
+Apply the trigger result from Step 1 to determine Slot 3 wildcard or fallback.
+State: SLOT 1: Style N. SLOT 2: Style N. SLOT 3: Style N [wildcard/fallback + reason].
+
+**STEP 3 — COMPRESS THE TITLE**
+Run the Part 3 compression process.
+Build one 3-line banner headline:
+- Total: 6–10 words across all lines
+- Line 3 (amber punch): 2–4 words, never more than 5
+- This headline is shared across all 3 slots — compress it once, use it in all 3.
+
+**STEP 4 — HERO COPY SPEC**
+Confirm all 5 copy elements per Part 4:
+- Eyebrow: 3–5 words, ALL-CAPS
+- Headline: the 3-line compressed version, final line FDA050 amber
+- Subheading/dek: 1 complete sentence, 12–22 words, Inter Regular
+- Visual type: PHOTO (emotional/life-situation post) or GRAPHIC (system/data/comparison post)
+- Dominant anchor: the one thing the eye hits first — state it in one line. If you cannot name it in one line, simplify the concept before proceeding.
+
+**STEP 5 — PASS THE HERO SIMPLICITY TEST (Part 5D)**
+Answer all 6 questions. Resolve any NO before writing the prompt.
+
+**STEP 6 — WRITE THE SLOT 1 PROMPT**
+Use the Mode B Gemini-safe template (Part 5B — THE GEMINI TEMPLATE block).
+Source the composition language from the MODE B TRANSLATION block of the selected style in Part 2.
+Write for the eye. No px values. No hex codes in the composition body. No coordinate language. No CSS terms.
+All color references must be plain-language descriptions: amber orange, deep navy, warm cream, brand blue, etc.
+
+**STEP 7 — QC CHECKLIST (Part 5C)**
+Run all checks. Only release the prompt if every box passes.
+
+---
+
+### PHASE 2 — SLOT 2 (one focused session, full depth)
+
+Give this slot your complete attention independently of Slot 1.
+Slot 2 is a different style than Slot 1.
+It must represent a genuinely different reader experience or post emphasis — not a variation of Slot 1.
+Run the same 7-step process. Use the Slot 2 style from your Step 2 decision.
+The compressed headline from Phase 1 Step 3 is reused here — do not re-compress.
+
+---
+
+### PHASE 3 — SLOT 3 (one focused session, full depth)
+
+Give this slot your complete attention independently of Slots 1 and 2.
+Slot 3 is either the wildcard (trigger found) or the fallback (no trigger).
+State which branch fired and why.
+Run the same 7-step process. Use the Slot 3 style from your Step 2 decision.
+The compressed headline from Phase 1 Step 3 is reused here.
+
+---
+
+### PHASE 4 — REVIEW SESSION (one focused review, full depth)
+
+Now step back from writing. You are a reviewer, not the writer.
+Read all 3 completed prompts as a fresh evaluator.
+Score each one against the 10-point hard checklist below.
+Write your scores and findings into `hero_prompts_final.json` under the `review` field of each slot.
+
+**DO NOT move to the next record until all 3 slots score ≥ 8.5.**
+If any slot fails, rewrite only that slot (back to Phase 1/2/3 for that slot only).
+Tell yourself why it failed and exactly what to fix before rewriting.
+Maximum 3 rewrite attempts per slot. If a slot fails 3 times, mark it `FLAGGED` and move on.
+Approved slots are locked — never touch them again.
+
+---
+
+## THE HARD CHECKLIST (10 points — 1 point each)
+
+Score each prompt out of 10. Pass = 8.5 or higher.
+
+```
+CHECK 1 — STYLE MATCH
+The selected style matches the WritingStyle + Format fields from the record,
+following the Part 7 conflict resolver rules. WritingStyle wins tie-breakers.
+PASS = correct style selected and reason is sound.
+FAIL = style was guessed, ignored the CSV fields, or overridden without a valid reason.
+
+CHECK 2 — DOMINANT ANCHOR
+There is exactly one dominant anchor stated explicitly before the composition.
+It is describable in one line.
+PASS = one clear focal point named before the layout description.
+FAIL = two competing anchors, vague anchor, or no anchor stated.
+
+CHECK 3 — HEADLINE WORD COUNT
+Total words across all headline lines: 6–10.
+Line 3 (amber): 2–4 words, never more than 5.
+PASS = word count confirmed within range.
+FAIL = under 6 total, over 10 total, or Line 3 exceeds 5 words.
+
+CHECK 4 — EYEBROW SPEC
+3–5 words, ALL-CAPS.
+PASS = confirmed.
+FAIL = too short, too long, not in caps, or written as a sentence.
+
+CHECK 5 — DEK SPEC
+1 complete sentence. 12–22 words. Not a fragment. Not two sentences.
+PASS = confirmed.
+FAIL = fragment, double sentence, under 12 words, or over 22 words.
+
+CHECK 6 — MODE B COMPLIANCE
+Zero px values anywhere in the composition body.
+Zero hex codes anywhere in the composition body.
+Zero coordinate language (x160, y400, etc.).
+Zero CSS terms (border-radius, rgba, letter-spacing, opacity values).
+Zero font name + size specifications inline in the layout.
+Color references are ALL plain-language descriptions only.
+PASS = none of the above appear in the composition body.
+FAIL = any one of the above is present.
+
+CHECK 7 — BANNED ELEMENTS
+None of the following appear anywhere in the prompt:
+URLs or domain names, CSS spec text, pixel labels, cartoon illustrations,
+stock-finance clichés (piggy banks, coins, suited professionals pointing at graphs,
+happy people holding credit cards), 3D rendering, beveled effects,
+colors outside the official AF palette, shame framing, panic visuals.
+PASS = none present.
+FAIL = any one present.
+
+CHECK 8 — TEASE RULE (Part 5 — The Tease Rule)
+The banner creates desire to read the article.
+It does NOT teach the full system or summarize the post.
+After 3 seconds, the reader feels seen and curious — not informed and satisfied.
+PASS = banner teases, does not explain.
+FAIL = banner lists steps, shows full methodology, or answers the question completely.
+
+CHECK 9 — GEMINI TEMPLATE STRUCTURE
+The prompt follows the block order from the Mode B Gemini Template (Part 5B) exactly:
+Format lock → Color Direction → Overall Feel → Dominant Anchor → Composition →
+Visible Text → Typography → Design Rules → Critical Export Rules.
+PASS = all blocks present in correct order.
+FAIL = blocks missing, merged, or out of order.
+
+CHECK 10 — PSYCHOLOGY GUARDRAILS
+No shame framing (still broke, can't afford, you're doing it wrong).
+No panic visuals without implied agency or a next step.
+No diagnosis-as-hook framing for ADHD, trauma, anxiety, avoidance topics.
+For comparison prompts: no winner chip, no checkmark badge, no Best Pick label.
+PASS = all guardrails respected.
+FAIL = any violation present.
+```
+
+---
+
+## OUTPUT JSON SCHEMA
+
+Write `hero_prompts_final.json` using this exact structure:
+
+```json
+{
+  "generated_at": "ISO timestamp",
+  "total_records": 0,
+  "records": [
+    {
+      "record_index": 1,
+      "slug": "from hero_inputs.json",
+      "post_title": "from hero_inputs.json",
+      "writing_style": "from hero_inputs.json",
+      "format": "from hero_inputs.json",
+      "style_assignments": {
+        "slot_1": "Style N — Name",
+        "slot_2": "Style N — Name",
+        "slot_3": "Style N — Name [wildcard: trigger word / fallback: reason]"
+      },
+      "title_compression": {
+        "line_1": "text",
+        "line_2": "text",
+        "line_3": "text (amber, 2–4 words)"
+      },
+      "hero_copy_spec": {
+        "eyebrow": "ALL-CAPS, 3–5 words",
+        "subheading_dek": "One complete sentence, 12–22 words.",
+        "visual_type": "GRAPHIC or PHOTO",
+        "dominant_anchor": "One-line description of the single focal point"
+      },
+      "slots": {
+        "slot_1": {
+          "style": "Style N — Name",
+          "attempts": 1,
+          "prompt": "FULL MODE B PROMPT TEXT HERE",
+          "review": {
+            "score": 9.0,
+            "status": "APPROVED",
+            "checklist": {
+              "check_1_style_match": "PASS",
+              "check_2_dominant_anchor": "PASS",
+              "check_3_headline_word_count": "PASS",
+              "check_4_eyebrow_spec": "PASS",
+              "check_5_dek_spec": "PASS",
+              "check_6_mode_b_compliance": "PASS",
+              "check_7_banned_elements": "PASS",
+              "check_8_tease_rule": "PASS",
+              "check_9_gemini_template_structure": "PASS",
+              "check_10_psychology_guardrails": "PASS"
+            },
+            "failed_checks": [],
+            "feedback": null,
+            "fix_applied": null
+          }
+        },
+        "slot_2": {
+          "style": "Style N — Name",
+          "attempts": 1,
+          "prompt": "FULL MODE B PROMPT TEXT HERE",
+          "review": {
+            "score": 0.0,
+            "status": "APPROVED | FAIL | FLAGGED",
+            "checklist": {
+              "check_1_style_match": "PASS or FAIL",
+              "check_2_dominant_anchor": "PASS or FAIL",
+              "check_3_headline_word_count": "PASS or FAIL",
+              "check_4_eyebrow_spec": "PASS or FAIL",
+              "check_5_dek_spec": "PASS or FAIL",
+              "check_6_mode_b_compliance": "PASS or FAIL",
+              "check_7_banned_elements": "PASS or FAIL",
+              "check_8_tease_rule": "PASS or FAIL",
+              "check_9_gemini_template_structure": "PASS or FAIL",
+              "check_10_psychology_guardrails": "PASS or FAIL"
+            },
+            "failed_checks": ["check_N_name"],
+            "feedback": "Exact description of what failed and why.",
+            "fix_applied": "Exact description of what was changed in the rewrite."
+          }
+        },
+        "slot_3": {
+          "style": "Style N — Name",
+          "attempts": 1,
+          "prompt": "FULL MODE B PROMPT TEXT HERE",
+          "review": {
+            "score": 0.0,
+            "status": "APPROVED | FAIL | FLAGGED",
+            "checklist": {},
+            "failed_checks": [],
+            "feedback": null,
+            "fix_applied": null
+          }
+        }
+      },
+      "record_status": "COMPLETE | PARTIAL (one or more slots FLAGGED)",
+      "all_approved": true
+    }
+  ]
+}
+```
+
+---
+
+## REWRITE RULES
+
+- Only rewrite the slot(s) that failed. Approved slots are locked.
+- Before rewriting, read the `feedback` field you wrote in the review. Fix exactly what is described.
+- After rewriting, run Phase 4 review again on the rewritten slot only.
+- Maximum 3 attempts per slot.
+- If a slot fails 3 times, set its `status` to `FLAGGED`, write a clear `feedback` note explaining what could not be resolved, and move on.
+- A record with a FLAGGED slot still moves forward. Set `record_status` to `PARTIAL`.
+
+---
+
+## COMPLETION RULES
+
+- Process every record in `hero_inputs.json` in order.
+- Do not skip any record.
+- Write each completed record to `hero_prompts_final.json` as you finish it — do not wait until the end.
+- When all records are done, set `total_records` to the final count.
+- Your final action: write a one-line completion summary at the top of the JSON as a `"completion_note"` field:
+  `"X records processed. Y slots APPROVED. Z slots FLAGGED."`
+
+---
+
+## ABSOLUTE RULES THAT NEVER CHANGE
+
+1. The style guide is your only source of truth. Never invent rules, colors, styles, or specs.
+2. All color references in every prompt must be plain-language descriptions only — never hex codes in the composition body.
+3. Every prompt must follow the Mode B Gemini Template block order from Part 5B exactly.
+4. The compressed headline is always 6–10 words total. Line 3 is always 2–4 words. Never exceed these limits.
+5. Never reuse the same style for Slot 1 and Slot 2 of the same record.
+6. Comparison posts never include a winner chip, checkmark badge, or Best Pick label.
+7. No record moves forward with an unreviewed slot.
+8. Write `hero_prompts_final.json` as you go. Do not hold everything in memory until the end.
+
+---
+
+Begin now. Read `AF_Prompt_Style_Guide_v2_6.md` in full. Then open `hero_inputs.json`. Then start Record 1.
