@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "total_records": 151,
+    "source_file": "hero_prompts_final.json",
+    "description": "Image generation queue — one entry per slot per record"
+  },
+  "queue": [
+    {
+      "record_index": 1,
+      "slug": "1-100-money-saving-chart",
+      "primary_keyword": "1 100 money saving chart",
+      "post_title": "1 100 Money Saving Chart: The $5,050 Plan for Day 101",
+      "slot": "slot_1",
+      "style": "Style 19 — The Rule",
+      "status": "APPROVED",
+      "prompt": "Wide landscape hero banner, 4096x2048 pixels, 2:1 ratio.\nPremium flat editorial design for a personal finance blog.\n\nUse a spacious layout with one dominant visual anchor,\nclear breathing room, and strong hierarchy. The image should look like a\nfinished website hero, not an infographic or classroom chart.\n\nSTYLE:\nInstructive and decisive; the rule is visible without turning the banner into a classroom.\n\nDOMINANT VISUAL:\nA bold proportion bar showing the core money rule.\n\nVISIBLE TEXT:\nRender only this text, copied exactly:\n- \"FINANCIAL RULE GUIDE\"\n- \"Money Saving Chart\"\n- \"$5,050\"\n- \"Real clarity\"\n\nNo other words, labels, captions, UI text, annotations, placeholder text, or extra numbers.\n\nCOLOR:\nNear-white or deep navy canvas. Amber accents. Blue labels. Green success details.\nNo palette swatches, color chips, visible hex codes, watermarks, website addresses,\nbrand burn-ins, decorative icons, shadows, 3D effects, bevels, or stock-finance props.\n\nQUALITY:\nCrisp high-resolution editorial banner suitable for final 4096x2048 export.\nClean edges, readable text, balanced spacing, and calm premium composition."
+    },
+    {
+      "record_index": 1,
+      "slug": "1-100-money-saving-chart",
+      "primary_keyword": "1 100 money saving chart",
+      "post_title": "1 100 Money Saving Chart: The $5,050 Plan for Day 101",
+      "slot": "slot_2",
+      "style": "Style 8 — The Magazine Cover",
+      "status": "APPROVED",
+      "prompt": "Wide landscape hero banner, 4096x2048 pixels, 2:1 ratio.\nPremium flat editorial design for a personal finance blog.\n\nUse a spacious layout with one dominant visual anchor,\nclear breathing room, and strong hierarchy. The image should look like a\nfinished website hero, not an infographic or classroom chart.\n\nSTYLE:\nPremium editorial authority; large type and open space make the idea feel definitive.\n\nDOMINANT VISUAL:\nA large editorial headline with generous breathing room.\n\nVISIBLE TEXT:\nRender only this text, copied exactly:\n- \"ADULT MONEY GUIDE\"\n- \"Money Saving Chart\"\n- \"$5,050\"\n- \"Real clarity\"\n\nNo other words, labels, captions, UI text, annotations, placeholder text, or extra numbers.\n\nCOLOR:\nNear-white or deep navy canvas. Amber accents. Blue labels. Green success details.\nNo palette swatches, color chips, visible hex codes, watermarks, website addresses,\nbrand burn-ins, decorative icons, shadows, 3D effects, bevels, or stock-finance props.\n\nQUALITY:\nCrisp high-resolution editorial banner suitable for final 4096x2048 export.\nClean edges, readable text, balanced spacing, and calm premium composition."
+    },
+    {
+      "record_index": 2,
+      "slug": "10-10-80-rule",
+      "primary_keyword": "10 10 80 rule",
+      "post_title": "10 10 80 Rule: Two Versions, One Stress Test, $3,200 Example",
+      "slot": "slot_1",
+      "style": "Style 19 — The Rule",
+      "status": "APPROVED",
+      "prompt": "Wide landscape hero banner, 4096x2048 pixels, 2:1 ratio.\nPremium flat editorial design for a personal finance blog.\n\nUse a spacious layout with one dominant visual anchor,\nclear breathing room, and strong hierarchy. The image should look like a\nfinished website hero, not an infographic or classroom chart.\n\nSTYLE:\nInstructive and decisive; the rule is visible without turning the banner into a classroom.\n\nDOMINANT VISUAL:\nA bold proportion bar showing the core money rule.\n\nVISIBLE TEXT:\nRender only this text, copied exactly:\n- \"FINANCIAL RULE GUIDE\"\n- \"10/10/80 Rule\"\n- \"10/10/80 made clear\"\n- \"Real clarity\"\n\nNo other words, labels, captions, UI text, annotations, placeholder text, or extra numbers.\n\nCOLOR:\nNear-white or deep navy canvas. Amber accents. Blue labels. Green success details.\nNo palette swatches, color chips, visible hex codes, watermarks, website addresses,\nbrand burn-ins, decorative icons, shadows, 3D effects, bevels, or stock-finance props.\n\nQUALITY:\nCrisp high-resolution editorial banner suitable for final 4096x2048 export.\nClean edges, readable text, balanced spacing, and calm premium composition."
+    },
+    {
+      "record_index": 2,
+      "slug": "10-10-80-rule",
+      "primary_keyword": "10 10 80 rule",
+      "post_title": "10 10 80 Rule: Two Versions, One Stress Test, $3,200 Example",
+      "slot": "slot_2",
+      "style": "Style 6 — The Missing Money",
+      "status": "APPROVED",
+      "prompt": "Wide landscape hero banner, 4096x2048 pixels, 2:1 ratio.\nPremium flat editorial design for a personal finance blog.\n\nUse a spacious layout with one dominant visual anchor,\nclear breathing room, and strong hierarchy. The image should look like a\nfinished website hero, not an infographic or classroom chart.\n\nSTYLE:\nDramatic but useful; the question creates recognition before the article gives relief.\n\nDOMINANT VISUAL:\nThe large dramatic question headline centered in the upper half.\n\nVISIBLE TEXT:\nRender only this text, copied exactly:\n- \"MISSING MONEY MAP\"\n- \"10/10/80 Rule\"\n- \"10/10/80 made clear\"\n- \"Real clarity\"\n\nNo other words, labels, captions, UI text, annotations, placeholder text, or extra numbers.\n\nCOLOR:\nNear-white or deep navy canvas. Amber accents. Blue labels. Green success details.\nNo palette swatches, color chips, visible hex codes, watermarks, website addresses,\nbrand burn-ins, decorative icons, shadows, 3D effects, bevels, or stock-finance props.\n\nQUALITY:\nCrisp high-resolution editorial banner suitable for final 4096x2048 export.\nClean edges, readable text, balanced spacing, and calm premium composition."
+    },
+    {
+      "record_index": 3,
+      "slug": "100-envelope-money-saving-challenge",
+      "primary_keyword": "100 envelope money saving challenge",
+      "post_title": "100 Envelope Money Saving Challenge: The HYSA Hybrid",
+      "slot": "slot_1",
+      "style": "Style 8 — The Magazine Cover",
+      "status": "APPROVED",
+      "prompt": "Wide landscape hero banner, 4096x2048 pixels, 2:1 ratio.\nPremium flat editorial design for a personal finance blog.\n\nUse a spacious layout with one dominant visual anchor,\nclear breathing room, and strong hierarchy. The image should look like a\nfinished website hero, not an infographic or classroom chart.\n\nSTYLE:\nPremium editorial authority; large type and open space make the idea feel definitive.\n\nDOMINANT VISUAL:\nA large editorial headline with generous breathing room.\n\nVISIBLE TEXT:\nRender only this text, copied exactly:\n- \"ADULT MONEY GUIDE\"\n- \"100 Envelope Challenge\"\n- \"$73 explained\"\n- \"No guesswork\"\n\nNo other words, labels, captions, UI text, annotations, placeholder text, or extra numbers.\n\nCOLOR:\nNear-white or deep navy canvas. Amber accents. Blue labels. Green success details.\nNo palette swatches, color chips, visible hex codes, watermarks, website addresses,\nbrand burn-ins, decorative icons, shadows, 3D effects, bevels, or stock-finance props.\n\nQUALITY:\nCrisp high-resolution editorial banner suitable for final 4096x2048 export.\nClean edges, readable text, balanced spacing, and calm premium composition."
+    }
+  ]
+}
