@@ -1,0 +1,209 @@
+{
+  "meta": {
+    "total_records": 151,
+    "source_file": "hero_prompts_final.json",
+    "description": "Image generation queue — one entry per slot per record"
+  },
+  "queue": [
+    {
+      "record_index": 1,
+      "slug": "1-100-money-saving-chart",
+      "primary_keyword": "1 100 money saving chart",
+      "post_title": "1 100 Money Saving Chart: The $5,050 Plan for Day 101",
+      "slot": "slot_1",
+      "style": "Style 19 — The Rule",
+      "status": "APPROVED",
+      "prompt": "Wide landscape hero banner, 4096x2048 pixels, 2:1 ratio.\nPremium flat editorial design for a personal finance blog.\n\nUse a spacious layout with one dominant visual anchor, clear breathing room,\nand strong hierarchy. The image should look like a finished website hero,\nnot a dense infographic, worksheet, dashboard, or classroom slide.\n\nSTYLE:\nInstructive and decisive.\n\nDOMINANT VISUAL:\nA simple stacked proportion bar.\n\nVISIBLE TEXT:\nRender only this text, copied exactly:\n- \"FINANCIAL RULE GUIDE\"\n- \"Money Saving Chart\"\n- \"$5,050 plan\"\n- \"No guesswork\"\n\nNo other words, labels, captions, UI text, annotations, placeholder text,\nor extra numbers.\n\nAny card, panel, badge, chart, bar, grid, tree, device, paper, circle,\nor desk element must stay unlabeled unless its text is listed above.\n\nCOLOR:\nNear-white, warm cream, deep navy, and calm blue surfaces. Amber accents.\nGreen success details. No palette swatches, color chips, visible hex codes,\nwatermarks, website addresses, brand logos, brand-style marks, decorative\nfinance icons, shadows, 3D effects, bevels, or stock-finance props.\n\nQUALITY:\nCrisp high-resolution editorial banner suitable for final 4096x2048 export.\nClean edges, readable text, balanced spacing, and calm premium composition.\n"
+    },
+    {
+      "record_index": 1,
+      "slug": "1-100-money-saving-chart",
+      "primary_keyword": "1 100 money saving chart",
+      "post_title": "1 100 Money Saving Chart: The $5,050 Plan for Day 101",
+      "slot": "slot_2",
+      "style": "Style 8 — The Magazine Cover",
+      "status": "APPROVED",
+      "prompt": "Wide landscape hero banner, 4096x2048 pixels, 2:1 ratio.\nPremium flat editorial design for a personal finance blog.\n\nUse a spacious layout with one dominant visual anchor, clear breathing room,\nand strong hierarchy. The image should look like a finished website hero,\nnot a dense infographic, worksheet, dashboard, or classroom slide.\n\nSTYLE:\nPremium editorial authority with large type and open space.\n\nDOMINANT VISUAL:\nAn oversized editorial headline on an open canvas.\n\nVISIBLE TEXT:\nRender only this text, copied exactly:\n- \"ADULT MONEY GUIDE\"\n- \"Money Saving Chart\"\n- \"$5,050 plan\"\n- \"Real clarity\"\n\nNo other words, labels, captions, UI text, annotations, placeholder text,\nor extra numbers.\n\nAny card, panel, badge, chart, bar, grid, tree, device, paper, circle,\nor desk element must stay unlabeled unless its text is listed above.\n\nCOLOR:\nNear-white, warm cream, deep navy, and calm blue surfaces. Amber accents.\nGreen success details. No palette swatches, color chips, visible hex codes,\nwatermarks, website addresses, brand logos, brand-style marks, decorative\nfinance icons, shadows, 3D effects, bevels, or stock-finance props.\n\nQUALITY:\nCrisp high-resolution editorial banner suitable for final 4096x2048 export.\nClean edges, readable text, balanced spacing, and calm premium composition.\n"
+    },
+    {
+      "record_index": 2,
+      "slug": "10-10-80-rule",
+      "primary_keyword": "10 10 80 rule",
+      "post_title": "10 10 80 Rule: Two Versions, One Stress Test, $3,200 Example",
+      "slot": "slot_1",
+      "style": "Style 19 — The Rule",
+      "status": "APPROVED",
+      "prompt": "Wide landscape hero banner, 4096x2048 pixels, 2:1 ratio.\nPremium flat editorial design for a personal finance blog.\n\nUse a spacious layout with one dominant visual anchor, clear breathing room,\nand strong hierarchy. The image should look like a finished website hero,\nnot a dense infographic, worksheet, dashboard, or classroom slide.\n\nSTYLE:\nInstructive and decisive.\n\nDOMINANT VISUAL:\nA simple stacked proportion bar.\n\nVISIBLE TEXT:\nRender only this text, copied exactly:\n- \"FINANCIAL RULE GUIDE\"\n- \"10/10/80 Rule\"\n- \"$3,200 plan\"\n- \"No guesswork\"\n\nNo other words, labels, captions, UI text, annotations, placeholder text,\nor extra numbers.\n\nAny card, panel, badge, chart, bar, grid, tree, device, paper, circle,\nor desk element must stay unlabeled unless its text is listed above.\n\nCOLOR:\nNear-white, warm cream, deep navy, and calm blue surfaces. Amber accents.\nGreen success details. No palette swatches, color chips, visible hex codes,\nwatermarks, website addresses, brand logos, brand-style marks, decorative\nfinance icons, shadows, 3D effects, bevels, or stock-finance props.\n\nQUALITY:\nCrisp high-resolution editorial banner suitable for final 4096x2048 export.\nClean edges, readable text, balanced spacing, and calm premium composition.\n"
+    },
+    {
+      "record_index": 2,
+      "slug": "10-10-80-rule",
+      "primary_keyword": "10 10 80 rule",
+      "post_title": "10 10 80 Rule: Two Versions, One Stress Test, $3,200 Example",
+      "slot": "slot_2",
+      "style": "Style 6 — The Missing Money",
+      "status": "APPROVED",
+      "prompt": "Wide landscape hero banner, 4096x2048 pixels, 2:1 ratio.\nPremium flat editorial design for a personal finance blog.\n\nUse a spacious layout with one dominant visual anchor, clear breathing room,\nand strong hierarchy. The image should look like a finished website hero,\nnot a dense infographic, worksheet, dashboard, or classroom slide.\n\nSTYLE:\nDramatic but useful, recognition comes before relief.\n\nDOMINANT VISUAL:\nA bold recognition headline.\n\nVISIBLE TEXT:\nRender only this text, copied exactly:\n- \"MISSING MONEY MAP\"\n- \"10/10/80 Rule\"\n- \"$3,200 plan\"\n- \"Real clarity\"\n\nNo other words, labels, captions, UI text, annotations, placeholder text,\nor extra numbers.\n\nAny card, panel, badge, chart, bar, grid, tree, device, paper, circle,\nor desk element must stay unlabeled unless its text is listed above.\n\nCOLOR:\nNear-white, warm cream, deep navy, and calm blue surfaces. Amber accents.\nGreen success details. No palette swatches, color chips, visible hex codes,\nwatermarks, website addresses, brand logos, brand-style marks, decorative\nfinance icons, shadows, 3D effects, bevels, or stock-finance props.\n\nQUALITY:\nCrisp high-resolution editorial banner suitable for final 4096x2048 export.\nClean edges, readable text, balanced spacing, and calm premium composition.\n"
+    },
+    {
+      "record_index": 3,
+      "slug": "100-envelope-money-saving-challenge",
+      "primary_keyword": "100 envelope money saving challenge",
+      "post_title": "100 Envelope Money Saving Challenge: The HYSA Hybrid",
+      "slot": "slot_1",
+      "style": "Style 8 — The Magazine Cover",
+      "status": "APPROVED",
+      "prompt": "Wide landscape hero banner, 4096x2048 pixels, 2:1 ratio.\nPremium flat editorial design for a personal finance blog.\n\nUse a spacious layout with one dominant visual anchor, clear breathing room,\nand strong hierarchy. The image should look like a finished website hero,\nnot a dense infographic, worksheet, dashboard, or classroom slide.\n\nSTYLE:\nPremium editorial authority with large type and open space.\n\nDOMINANT VISUAL:\nAn oversized editorial headline on an open canvas.\n\nVISIBLE TEXT:\nRender only this text, copied exactly:\n- \"ADULT MONEY GUIDE\"\n- \"Envelope Money Saving Challenge\"\n- \"$73 plan\"\n- \"Real clarity\"\n\nNo other words, labels, captions, UI text, annotations, placeholder text,\nor extra numbers.\n\nAny card, panel, badge, chart, bar, grid, tree, device, paper, circle,\nor desk element must stay unlabeled unless its text is listed above.\n\nCOLOR:\nNear-white, warm cream, deep navy, and calm blue surfaces. Amber accents.\nGreen success details. No palette swatches, color chips, visible hex codes,\nwatermarks, website addresses, brand logos, brand-style marks, decorative\nfinance icons, shadows, 3D effects, bevels, or stock-finance props.\n\nQUALITY:\nCrisp high-resolution editorial banner suitable for final 4096x2048 export.\nClean edges, readable text, balanced spacing, and calm premium composition.\n"
+    },
+    {
+      "record_index": 3,
+      "slug": "100-envelope-money-saving-challenge",
+      "primary_keyword": "100 envelope money saving challenge",
+      "post_title": "100 Envelope Money Saving Challenge: The HYSA Hybrid",
+      "slot": "slot_2",
+      "style": "Style 5 — Premium Dark Cover",
+      "status": "APPROVED",
+      "prompt": "Wide landscape hero banner, 4096x2048 pixels, 2:1 ratio.\nPremium flat editorial design for a personal finance blog.\n\nUse a spacious layout with one dominant visual anchor, clear breathing room,\nand strong hierarchy. The image should look like a finished website hero,\nnot a dense infographic, worksheet, dashboard, or classroom slide.\n\nSTYLE:\nAuthoritative and restrained.\n\nDOMINANT VISUAL:\nA quiet amber result mark on deep navy.\n\nVISIBLE TEXT:\nRender only this text, copied exactly:\n- \"FINANCIAL FIELD GUIDE\"\n- \"Envelope Money Saving Challenge\"\n- \"$73 plan\"\n- \"The real math\"\n\nNo other words, labels, captions, UI text, annotations, placeholder text,\nor extra numbers.\n\nAny card, panel, badge, chart, bar, grid, tree, device, paper, circle,\nor desk element must stay unlabeled unless its text is listed above.\n\nCOLOR:\nNear-white, warm cream, deep navy, and calm blue surfaces. Amber accents.\nGreen success details. No palette swatches, color chips, visible hex codes,\nwatermarks, website addresses, brand logos, brand-style marks, decorative\nfinance icons, shadows, 3D effects, bevels, or stock-finance props.\n\nQUALITY:\nCrisp high-resolution editorial banner suitable for final 4096x2048 export.\nClean edges, readable text, balanced spacing, and calm premium composition.\n"
+    },
+    {
+      "record_index": 4,
+      "slug": "65-25-10-rule",
+      "primary_keyword": "65 25 10 rule",
+      "post_title": "65 25 10 Rule: For Renters at 40–50% Rent Ratio",
+      "slot": "slot_1",
+      "style": "Style 6 — The Missing Money",
+      "status": "APPROVED",
+      "prompt": "Wide landscape hero banner, 4096x2048 pixels, 2:1 ratio.\nPremium flat editorial design for a personal finance blog.\n\nUse a spacious layout with one dominant visual anchor, clear breathing room,\nand strong hierarchy. The image should look like a finished website hero,\nnot a dense infographic, worksheet, dashboard, or classroom slide.\n\nSTYLE:\nDramatic but useful, recognition comes before relief.\n\nDOMINANT VISUAL:\nA bold recognition headline.\n\nVISIBLE TEXT:\nRender only this text, copied exactly:\n- \"MISSING MONEY MAP\"\n- \"65/25/10 Rule\"\n- \"50% plan\"\n- \"Real clarity\"\n\nNo other words, labels, captions, UI text, annotations, placeholder text,\nor extra numbers.\n\nAny card, panel, badge, chart, bar, grid, tree, device, paper, circle,\nor desk element must stay unlabeled unless its text is listed above.\n\nCOLOR:\nNear-white, warm cream, deep navy, and calm blue surfaces. Amber accents.\nGreen success details. No palette swatches, color chips, visible hex codes,\nwatermarks, website addresses, brand logos, brand-style marks, decorative\nfinance icons, shadows, 3D effects, bevels, or stock-finance props.\n\nQUALITY:\nCrisp high-resolution editorial banner suitable for final 4096x2048 export.\nClean edges, readable text, balanced spacing, and calm premium composition.\n"
+    },
+    {
+      "record_index": 4,
+      "slug": "65-25-10-rule",
+      "primary_keyword": "65 25 10 rule",
+      "post_title": "65 25 10 Rule: For Renters at 40–50% Rent Ratio",
+      "slot": "slot_2",
+      "style": "Style 19 — The Rule",
+      "status": "APPROVED",
+      "prompt": "Wide landscape hero banner, 4096x2048 pixels, 2:1 ratio.\nPremium flat editorial design for a personal finance blog.\n\nUse a spacious layout with one dominant visual anchor, clear breathing room,\nand strong hierarchy. The image should look like a finished website hero,\nnot a dense infographic, worksheet, dashboard, or classroom slide.\n\nSTYLE:\nInstructive and decisive.\n\nDOMINANT VISUAL:\nA simple stacked proportion bar.\n\nVISIBLE TEXT:\nRender only this text, copied exactly:\n- \"FINANCIAL RULE GUIDE\"\n- \"65/25/10 Rule\"\n- \"50% plan\"\n- \"No guesswork\"\n\nNo other words, labels, captions, UI text, annotations, placeholder text,\nor extra numbers.\n\nAny card, panel, badge, chart, bar, grid, tree, device, paper, circle,\nor desk element must stay unlabeled unless its text is listed above.\n\nCOLOR:\nNear-white, warm cream, deep navy, and calm blue surfaces. Amber accents.\nGreen success details. No palette swatches, color chips, visible hex codes,\nwatermarks, website addresses, brand logos, brand-style marks, decorative\nfinance icons, shadows, 3D effects, bevels, or stock-finance props.\n\nQUALITY:\nCrisp high-resolution editorial banner suitable for final 4096x2048 export.\nClean edges, readable text, balanced spacing, and calm premium composition.\n"
+    },
+    {
+      "record_index": 5,
+      "slug": "acorn-money-saving-app",
+      "primary_keyword": "acorn money saving app",
+      "post_title": "Acorn Money Saving App: 6 Round-Ups Beats $3 Bronze",
+      "slot": "slot_1",
+      "style": "Style 17 — The Fintech Card",
+      "status": "APPROVED",
+      "prompt": "Wide landscape hero banner, 4096x2048 pixels, 2:1 ratio.\nPremium flat editorial design for a personal finance blog.\n\nUse a spacious layout with one dominant visual anchor, clear breathing room,\nand strong hierarchy. The image should look like a finished website hero,\nnot a dense infographic, worksheet, dashboard, or classroom slide.\n\nSTYLE:\nClean and practical.\n\nDOMINANT VISUAL:\nA clean unlabeled app-style card.\n\nVISIBLE TEXT:\nRender only this text, copied exactly:\n- \"MONEY APP DECISION\"\n- \"Acorn Money Saving App\"\n- \"$3 plan\"\n- \"Next step\"\n\nNo other words, labels, captions, UI text, annotations, placeholder text,\nor extra numbers.\n\nAny card, panel, badge, chart, bar, grid, tree, device, paper, circle,\nor desk element must stay unlabeled unless its text is listed above.\n\nCOLOR:\nNear-white, warm cream, deep navy, and calm blue surfaces. Amber accents.\nGreen success details. No palette swatches, color chips, visible hex codes,\nwatermarks, website addresses, brand logos, brand-style marks, decorative\nfinance icons, shadows, 3D effects, bevels, or stock-finance props.\nRender any company or product name as plain text only — no logo, no brand mark, no recognizable brand styling.\n\nQUALITY:\nCrisp high-resolution editorial banner suitable for final 4096x2048 export.\nClean edges, readable text, balanced spacing, and calm premium composition.\n"
+    },
+    {
+      "record_index": 5,
+      "slug": "acorn-money-saving-app",
+      "primary_keyword": "acorn money saving app",
+      "post_title": "Acorn Money Saving App: 6 Round-Ups Beats $3 Bronze",
+      "slot": "slot_2",
+      "style": "Style 2 — Weekend Reset",
+      "status": "APPROVED",
+      "prompt": "Wide landscape hero banner, 4096x2048 pixels, 2:1 ratio.\nPremium flat editorial design for a personal finance blog.\n\nUse a spacious layout with one dominant visual anchor, clear breathing room,\nand strong hierarchy. The image should look like a finished website hero,\nnot a dense infographic, worksheet, dashboard, or classroom slide.\n\nSTYLE:\nWarm, achievable, and editorial.\n\nDOMINANT VISUAL:\nA warm minimal desk layout.\n\nVISIBLE TEXT:\nRender only this text, copied exactly:\n- \"SAVINGS ACTION PLAN\"\n- \"Acorn Money Saving App\"\n- \"$3 plan\"\n- \"Start today\"\n\nNo other words, labels, captions, UI text, annotations, placeholder text,\nor extra numbers.\n\nAny card, panel, badge, chart, bar, grid, tree, device, paper, circle,\nor desk element must stay unlabeled unless its text is listed above.\n\nCOLOR:\nNear-white, warm cream, deep navy, and calm blue surfaces. Amber accents.\nGreen success details. No palette swatches, color chips, visible hex codes,\nwatermarks, website addresses, brand logos, brand-style marks, decorative\nfinance icons, shadows, 3D effects, bevels, or stock-finance props.\nRender any company or product name as plain text only — no logo, no brand mark, no recognizable brand styling.\n\nQUALITY:\nCrisp high-resolution editorial banner suitable for final 4096x2048 export.\nClean edges, readable text, balanced spacing, and calm premium composition.\n"
+    },
+    {
+      "record_index": 6,
+      "slug": "app-for-saving-money-on-groceries",
+      "primary_keyword": "app for saving money on groceries",
+      "post_title": "App for Saving Money on Groceries: 4-Question Decision Tree",
+      "slot": "slot_1",
+      "style": "Style 15 — The Showdown",
+      "status": "APPROVED",
+      "prompt": "Wide landscape hero banner, 4096x2048 pixels, 2:1 ratio.\nPremium flat editorial design for a personal finance blog.\n\nUse a spacious layout with one dominant visual anchor, clear breathing room,\nand strong hierarchy. The image should look like a finished website hero,\nnot a dense infographic, worksheet, dashboard, or classroom slide.\n\nSTYLE:\nNeutral and trustworthy, options feel evenly weighted.\n\nDOMINANT VISUAL:\nA balanced comparison layout with unlabeled panels.\n\nVISIBLE TEXT:\nRender only this text, copied exactly:\n- \"MONEY OPTION COMPARISON\"\n- \"Groceries Savings App\"\n- \"$15 plan\"\n- \"Compare calmly\"\n\nNo other words, labels, captions, UI text, annotations, placeholder text,\nor extra numbers.\n\nAny card, panel, badge, chart, bar, grid, tree, device, paper, circle,\nor desk element must stay unlabeled unless its text is listed above.\n\nCOLOR:\nNear-white, warm cream, deep navy, and calm blue surfaces. Amber accents.\nGreen success details. No palette swatches, color chips, visible hex codes,\nwatermarks, website addresses, brand logos, brand-style marks, decorative\nfinance icons, shadows, 3D effects, bevels, or stock-finance props.\n\nQUALITY:\nCrisp high-resolution editorial banner suitable for final 4096x2048 export.\nClean edges, readable text, balanced spacing, and calm premium composition.\n"
+    },
+    {
+      "record_index": 6,
+      "slug": "app-for-saving-money-on-groceries",
+      "primary_keyword": "app for saving money on groceries",
+      "post_title": "App for Saving Money on Groceries: 4-Question Decision Tree",
+      "slot": "slot_2",
+      "style": "Style 9 — Sticky Note System",
+      "status": "APPROVED",
+      "prompt": "Wide landscape hero banner, 4096x2048 pixels, 2:1 ratio.\nPremium flat editorial design for a personal finance blog.\n\nUse a spacious layout with one dominant visual anchor, clear breathing room,\nand strong hierarchy. The image should look like a finished website hero,\nnot a dense infographic, worksheet, dashboard, or classroom slide.\n\nSTYLE:\nInviting and practical.\n\nDOMINANT VISUAL:\nA tidy grid of unlabeled warm cards.\n\nVISIBLE TEXT:\nRender only this text, copied exactly:\n- \"BUDGET MAP GUIDE\"\n- \"Groceries Savings App\"\n- \"$15 plan\"\n- \"No guesswork\"\n\nNo other words, labels, captions, UI text, annotations, placeholder text,\nor extra numbers.\n\nAny card, panel, badge, chart, bar, grid, tree, device, paper, circle,\nor desk element must stay unlabeled unless its text is listed above.\n\nCOLOR:\nNear-white, warm cream, deep navy, and calm blue surfaces. Amber accents.\nGreen success details. No palette swatches, color chips, visible hex codes,\nwatermarks, website addresses, brand logos, brand-style marks, decorative\nfinance icons, shadows, 3D effects, bevels, or stock-finance props.\n\nQUALITY:\nCrisp high-resolution editorial banner suitable for final 4096x2048 export.\nClean edges, readable text, balanced spacing, and calm premium composition.\n"
+    },
+    {
+      "record_index": 7,
+      "slug": "app-to-save-money-for-travel",
+      "primary_keyword": "app to save money for travel",
+      "post_title": "App to Save Money for Travel: FOR vs ON the Trip",
+      "slot": "slot_1",
+      "style": "Style 15 — The Showdown",
+      "status": "APPROVED",
+      "prompt": "Wide landscape hero banner, 4096x2048 pixels, 2:1 ratio.\nPremium flat editorial design for a personal finance blog.\n\nUse a spacious layout with one dominant visual anchor, clear breathing room,\nand strong hierarchy. The image should look like a finished website hero,\nnot a dense infographic, worksheet, dashboard, or classroom slide.\n\nSTYLE:\nNeutral and trustworthy, options feel evenly weighted.\n\nDOMINANT VISUAL:\nA balanced comparison layout with unlabeled panels.\n\nVISIBLE TEXT:\nRender only this text, copied exactly:\n- \"MONEY OPTION COMPARISON\"\n- \"Travel Savings App\"\n- \"Clear next step\"\n- \"Compare calmly\"\n\nNo other words, labels, captions, UI text, annotations, placeholder text,\nor extra numbers.\n\nAny card, panel, badge, chart, bar, grid, tree, device, paper, circle,\nor desk element must stay unlabeled unless its text is listed above.\n\nCOLOR:\nNear-white, warm cream, deep navy, and calm blue surfaces. Amber accents.\nGreen success details. No palette swatches, color chips, visible hex codes,\nwatermarks, website addresses, brand logos, brand-style marks, decorative\nfinance icons, shadows, 3D effects, bevels, or stock-finance props.\n\nQUALITY:\nCrisp high-resolution editorial banner suitable for final 4096x2048 export.\nClean edges, readable text, balanced spacing, and calm premium composition.\n"
+    },
+    {
+      "record_index": 7,
+      "slug": "app-to-save-money-for-travel",
+      "primary_keyword": "app to save money for travel",
+      "post_title": "App to Save Money for Travel: FOR vs ON the Trip",
+      "slot": "slot_2",
+      "style": "Style 12 — Cerulean Clarity",
+      "status": "APPROVED",
+      "prompt": "Wide landscape hero banner, 4096x2048 pixels, 2:1 ratio.\nPremium flat editorial design for a personal finance blog.\n\nUse a spacious layout with one dominant visual anchor, clear breathing room,\nand strong hierarchy. The image should look like a finished website hero,\nnot a dense infographic, worksheet, dashboard, or classroom slide.\n\nSTYLE:\nClear-headed and decisive.\n\nDOMINANT VISUAL:\nA bright blue panel with one large metric.\n\nVISIBLE TEXT:\nRender only this text, copied exactly:\n- \"SAVINGS DECISION GUIDE\"\n- \"Travel Savings App\"\n- \"Compare calmly\"\n- \"Next step\"\n\nNo other words, labels, captions, UI text, annotations, placeholder text,\nor extra numbers.\n\nAny card, panel, badge, chart, bar, grid, tree, device, paper, circle,\nor desk element must stay unlabeled unless its text is listed above.\n\nCOLOR:\nNear-white, warm cream, deep navy, and calm blue surfaces. Amber accents.\nGreen success details. No palette swatches, color chips, visible hex codes,\nwatermarks, website addresses, brand logos, brand-style marks, decorative\nfinance icons, shadows, 3D effects, bevels, or stock-finance props.\n\nQUALITY:\nCrisp high-resolution editorial banner suitable for final 4096x2048 export.\nClean edges, readable text, balanced spacing, and calm premium composition.\n"
+    },
+    {
+      "record_index": 8,
+      "slug": "apps-to-help-save-money",
+      "primary_keyword": "apps to help save money",
+      "post_title": "Apps to Help Save Money? One App Per Problem",
+      "slot": "slot_1",
+      "style": "Style 17 — The Fintech Card",
+      "status": "APPROVED",
+      "prompt": "Wide landscape hero banner, 4096x2048 pixels, 2:1 ratio.\nPremium flat editorial design for a personal finance blog.\n\nUse a spacious layout with one dominant visual anchor, clear breathing room,\nand strong hierarchy. The image should look like a finished website hero,\nnot a dense infographic, worksheet, dashboard, or classroom slide.\n\nSTYLE:\nClean and practical.\n\nDOMINANT VISUAL:\nA clean unlabeled app-style card.\n\nVISIBLE TEXT:\nRender only this text, copied exactly:\n- \"MONEY APP DECISION\"\n- \"Money Saving Apps\"\n- \"Clear next step\"\n- \"Next step\"\n\nNo other words, labels, captions, UI text, annotations, placeholder text,\nor extra numbers.\n\nAny card, panel, badge, chart, bar, grid, tree, device, paper, circle,\nor desk element must stay unlabeled unless its text is listed above.\n\nCOLOR:\nNear-white, warm cream, deep navy, and calm blue surfaces. Amber accents.\nGreen success details. No palette swatches, color chips, visible hex codes,\nwatermarks, website addresses, brand logos, brand-style marks, decorative\nfinance icons, shadows, 3D effects, bevels, or stock-finance props.\n\nQUALITY:\nCrisp high-resolution editorial banner suitable for final 4096x2048 export.\nClean edges, readable text, balanced spacing, and calm premium composition.\n"
+    },
+    {
+      "record_index": 8,
+      "slug": "apps-to-help-save-money",
+      "primary_keyword": "apps to help save money",
+      "post_title": "Apps to Help Save Money? One App Per Problem",
+      "slot": "slot_2",
+      "style": "Style 7 — The 48 Hours / Time Promise",
+      "status": "APPROVED",
+      "prompt": "Wide landscape hero banner, 4096x2048 pixels, 2:1 ratio.\nPremium flat editorial design for a personal finance blog.\n\nUse a spacious layout with one dominant visual anchor, clear breathing room,\nand strong hierarchy. The image should look like a finished website hero,\nnot a dense infographic, worksheet, dashboard, or classroom slide.\n\nSTYLE:\nEnergetic and action-oriented.\n\nDOMINANT VISUAL:\nA bold action headline with one amber result.\n\nVISIBLE TEXT:\nRender only this text, copied exactly:\n- \"FAST MONEY PLAN\"\n- \"Money Saving Apps\"\n- \"Start with math\"\n- \"Start today\"\n\nNo other words, labels, captions, UI text, annotations, placeholder text,\nor extra numbers.\n\nAny card, panel, badge, chart, bar, grid, tree, device, paper, circle,\nor desk element must stay unlabeled unless its text is listed above.\n\nCOLOR:\nNear-white, warm cream, deep navy, and calm blue surfaces. Amber accents.\nGreen success details. No palette swatches, color chips, visible hex codes,\nwatermarks, website addresses, brand logos, brand-style marks, decorative\nfinance icons, shadows, 3D effects, bevels, or stock-finance props.\n\nQUALITY:\nCrisp high-resolution editorial banner suitable for final 4096x2048 export.\nClean edges, readable text, balanced spacing, and calm premium composition.\n"
+    },
+    {
+      "record_index": 9,
+      "slug": "best-money-saving-apps-for-groceries",
+      "primary_keyword": "best money saving apps for groceries",
+      "post_title": "Best Money Saving Apps for Groceries: 1 Pick per Tier",
+      "slot": "slot_1",
+      "style": "Style 9 — Sticky Note System",
+      "status": "APPROVED",
+      "prompt": "Wide landscape hero banner, 4096x2048 pixels, 2:1 ratio.\nPremium flat editorial design for a personal finance blog.\n\nUse a spacious layout with one dominant visual anchor, clear breathing room,\nand strong hierarchy. The image should look like a finished website hero,\nnot a dense infographic, worksheet, dashboard, or classroom slide.\n\nSTYLE:\nInviting and practical.\n\nDOMINANT VISUAL:\nA tidy grid of unlabeled warm cards.\n\nVISIBLE TEXT:\nRender only this text, copied exactly:\n- \"BUDGET MAP GUIDE\"\n- \"Groceries Savings Apps\"\n- \"$100/month plan\"\n- \"No guesswork\"\n\nNo other words, labels, captions, UI text, annotations, placeholder text,\nor extra numbers.\n\nAny card, panel, badge, chart, bar, grid, tree, device, paper, circle,\nor desk element must stay unlabeled unless its text is listed above.\n\nCOLOR:\nNear-white, warm cream, deep navy, and calm blue surfaces. Amber accents.\nGreen success details. No palette swatches, color chips, visible hex codes,\nwatermarks, website addresses, brand logos, brand-style marks, decorative\nfinance icons, shadows, 3D effects, bevels, or stock-finance props.\n\nQUALITY:\nCrisp high-resolution editorial banner suitable for final 4096x2048 export.\nClean edges, readable text, balanced spacing, and calm premium composition.\n"
+    },
+    {
+      "record_index": 9,
+      "slug": "best-money-saving-apps-for-groceries",
+      "primary_keyword": "best money saving apps for groceries",
+      "post_title": "Best Money Saving Apps for Groceries: 1 Pick per Tier",
+      "slot": "slot_2",
+      "style": "Style 15 — The Showdown",
+      "status": "APPROVED",
+      "prompt": "Wide landscape hero banner, 4096x2048 pixels, 2:1 ratio.\nPremium flat editorial design for a personal finance blog.\n\nUse a spacious layout with one dominant visual anchor, clear breathing room,\nand strong hierarchy. The image should look like a finished website hero,\nnot a dense infographic, worksheet, dashboard, or classroom slide.\n\nSTYLE:\nNeutral and trustworthy, options feel evenly weighted.\n\nDOMINANT VISUAL:\nA balanced comparison layout with unlabeled panels.\n\nVISIBLE TEXT:\nRender only this text, copied exactly:\n- \"MONEY OPTION COMPARISON\"\n- \"Groceries Savings Apps\"\n- \"$100/month plan\"\n- \"Compare calmly\"\n\nNo other words, labels, captions, UI text, annotations, placeholder text,\nor extra numbers.\n\nAny card, panel, badge, chart, bar, grid, tree, device, paper, circle,\nor desk element must stay unlabeled unless its text is listed above.\n\nCOLOR:\nNear-white, warm cream, deep navy, and calm blue surfaces. Amber accents.\nGreen success details. No palette swatches, color chips, visible hex codes,\nwatermarks, website addresses, brand logos, brand-style marks, decorative\nfinance icons, shadows, 3D effects, bevels, or stock-finance props.\n\nQUALITY:\nCrisp high-resolution editorial banner suitable for final 4096x2048 export.\nClean edges, readable text, balanced spacing, and calm premium composition.\n"
+    },
+    {
+      "record_index": 10,
+      "slug": "best-money-saving-apps",
+      "primary_keyword": "best money saving apps",
+      "post_title": "Best Money Saving Apps: Trackers vs Movers",
+      "slot": "slot_1",
+      "style": "Style 12 — Cerulean Clarity",
+      "status": "APPROVED",
+      "prompt": "Wide landscape hero banner, 4096x2048 pixels, 2:1 ratio.\nPremium flat editorial design for a personal finance blog.\n\nUse a spacious layout with one dominant visual anchor, clear breathing room,\nand strong hierarchy. The image should look like a finished website hero,\nnot a dense infographic, worksheet, dashboard, or classroom slide.\n\nSTYLE:\nClear-headed and decisive.\n\nDOMINANT VISUAL:\nA bright blue panel with one large metric.\n\nVISIBLE TEXT:\nRender only this text, copied exactly:\n- \"SAVINGS DECISION GUIDE\"\n- \"Money Saving Apps\"\n- \"Compare calmly\"\n- \"Next step\"\n\nNo other words, labels, captions, UI text, annotations, placeholder text,\nor extra numbers.\n\nAny card, panel, badge, chart, bar, grid, tree, device, paper, circle,\nor desk element must stay unlabeled unless its text is listed above.\n\nCOLOR:\nNear-white, warm cream, deep navy, and calm blue surfaces. Amber accents.\nGreen success details. No palette swatches, color chips, visible hex codes,\nwatermarks, website addresses, brand logos, brand-style marks, decorative\nfinance icons, shadows, 3D effects, bevels, or stock-finance props.\n\nQUALITY:\nCrisp high-resolution editorial banner suitable for final 4096x2048 export.\nClean edges, readable text, balanced spacing, and calm premium composition.\n"
+    },
+    {
+      "record_index": 10,
+      "slug": "best-money-saving-apps",
+      "primary_keyword": "best money saving apps",
+      "post_title": "Best Money Saving Apps: Trackers vs Movers",
+      "slot": "slot_2",
+      "style": "Style 10 — Split Data Story",
+      "status": "APPROVED",
+      "prompt": "Wide landscape hero banner, 4096x2048 pixels, 2:1 ratio.\nPremium flat editorial design for a personal finance blog.\n\nUse a spacious layout with one dominant visual anchor, clear breathing room,\nand strong hierarchy. The image should look like a finished website hero,\nnot a dense infographic, worksheet, dashboard, or classroom slide.\n\nSTYLE:\nCredible and data-forward.\n\nDOMINANT VISUAL:\nA large data number beside open space.\n\nVISIBLE TEXT:\nRender only this text, copied exactly:\n- \"REAL MONEY DATA\"\n- \"Money Saving Apps\"\n- \"The useful system\"\n- \"The real math\"\n\nNo other words, labels, captions, UI text, annotations, placeholder text,\nor extra numbers.\n\nAny card, panel, badge, chart, bar, grid, tree, device, paper, circle,\nor desk element must stay unlabeled unless its text is listed above.\n\nCOLOR:\nNear-white, warm cream, deep navy, and calm blue surfaces. Amber accents.\nGreen success details. No palette swatches, color chips, visible hex codes,\nwatermarks, website addresses, brand logos, brand-style marks, decorative\nfinance icons, shadows, 3D effects, bevels, or stock-finance props.\n\nQUALITY:\nCrisp high-resolution editorial banner suitable for final 4096x2048 export.\nClean edges, readable text, balanced spacing, and calm premium composition.\n"
+    }
+  ]
+}
